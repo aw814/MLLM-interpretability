@@ -15,3 +15,19 @@ Task 1:
    -  Reshape the data from wide multilingual format to a long format suitable for modeling.
 
     - Export a clean, reproducible subset in .csv under /data/processed/.
+
+- Output Data Structure (long format)
+
+| Column | Description |
+|:-------|:-------------|
+| **q_id** | Unique question identifier |
+| **original_lang** | Source/original language of the QA pair |
+| **original_content** | Original passage/content text |
+| **original_question** | Original question text |
+| **original_answer** | Original answer text |
+| **content** | Target-language content text |
+| **question** | Target-language question text |
+| **answer** | Target-language answer text |
+| **language** | Target language code (e.g., `fr`, `he`, `zh`) |
+| **translated** | Flag (1 = translated, 0 = original) |
+| **title**, **url** | Metadata retained from the original dataset |
