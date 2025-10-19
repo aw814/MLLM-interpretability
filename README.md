@@ -28,6 +28,6 @@ Task 1:
 | **content** | Target-language content text |
 | **question** | Target-language question text |
 | **answer** | Target-language answer text |
-| **language** | Target language code (e.g., `fr`, `he`, `zh`) |
+| **language** | Target language code (e.g., `en`, `fr`, `he`, `zh`) |
 | **translated** | Flag (1 = translated, 0 = original) |
 | **title**, **url** | Metadata retained from the original dataset |
