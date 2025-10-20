@@ -31,3 +31,20 @@ Task 1:
 | **language** | Target language code (e.g., `en`, `fr`, `he`, `zh`) |
 | **translated** | Flag (1 = translated, 0 = original) |
 | **title**, **url** | Metadata retained from the original dataset |
+
+
+The `eval` folder provides the code for evaluation.
+
+First, edit `config.yaml` as needed. Defaults use `en`→`fr` and up to 50 examples.
+
+Then, run
+```
+python run_eval.py --config config.yaml
+```
+
+Artifacts will be written to `./artifacts/`:
+- `predictions.csv`
+- `metrics.json`
+- `run_config.resolved.yaml`
+
+You can extend to more languages or richer prompts by adding modules in `prompts.py` and extending `eval.py` loops.
