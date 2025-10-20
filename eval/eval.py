@@ -1,7 +1,7 @@
 from __future__ import annotations
 import os
 import pandas as pd
-from openrouter_client import OpenRouterClient
+from openrouter_client import OpenRouterClient, OpenAIClient
 from prompts import qa_user_message, judge_user_message, judge_system_message, JudgeFields
 
 def answer_question(client: OpenRouterClient, model: str, question: str, temperature: float, max_tokens: int) -> str:
@@ -9,7 +9,7 @@ def answer_question(client: OpenRouterClient, model: str, question: str, tempera
     return client.chat(model=model, messages=messages, temperature=temperature, max_tokens=max_tokens)
 
 def judge_correct(
-    client: OpenRouterClient,
+    client: OpenRouterClient|OpenAIClient,
     judge_model: str,
     context: str,
     question: str,
@@ -30,7 +30,8 @@ def run_pairwise_eval(
     outdir: str,
 ) -> pd.DataFrame:
 
-    client = OpenRouterClient()
+    # client = OpenRouterClient()
+    client = OpenAIClient()
 
     # Build pair table: one row per q_id with both source & target info
     src = df[(df["original_lang"] == source_lang) & (df["language"] == source_lang)][["q_id", "question", "content"]].rename(
