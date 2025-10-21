@@ -47,6 +47,8 @@ def run_pairwise_eval(
     records = []
     for _, row in pairs.iterrows():
         qid = row["q_id"]
+        print(f"Evaluating q_id={qid}...")
+        # TODO: Answering the source question can just be one-time only, by setting the config file: both source and target lang = source_lang
         # 1) Answer source question
         a_src = answer_question(client, tested_model, row["q_src"], temperature, max_tokens)
         # 2) Answer target question
@@ -54,7 +56,8 @@ def run_pairwise_eval(
         # 3) Judge in-language using the aligned contexts
         correct_s = judge_correct(client, judge_model, context=row["c_src"], question=row["q_src"], answer=a_src)
         correct_t = judge_correct(client, judge_model, context=row["c_tgt"], question=row["q_tgt"], answer=a_tgt)
-
+        print(f"  Source correct: {correct_s}, Target correct: {correct_t}")
+        # 4) Record
         records.append(
             {
                 "q_id": qid,
@@ -71,5 +74,5 @@ def run_pairwise_eval(
 
     out_df = pd.DataFrame(records)
     os.makedirs(outdir, exist_ok=True)
-    out_df.to_csv(os.path.join(outdir, "predictions.csv"), index=False, encoding="utf-8-sig")
+    out_df.to_csv(os.path.join(outdir, f"{target_lang}_predictions.csv"), index=False, encoding="utf-8-sig")
     return out_df

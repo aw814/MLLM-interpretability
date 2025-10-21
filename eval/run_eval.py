@@ -1,6 +1,7 @@
 from __future__ import annotations
 import argparse
 import os
+import json
 from io_utils import load_config, load_long_csv
 from eval import run_pairwise_eval
 from metrics import compute_metrics
@@ -24,7 +25,12 @@ def main():
         outdir=cfg.artifacts_dir,
     )
 
-    metrics = compute_metrics(preds, cfg.artifacts_dir)
+    metrics = compute_metrics(preds)
+
+    os.makedirs(cfg.artifacts_dir, exist_ok=True)
+    with open(os.path.join(cfg.artifacts_dir, f"{cfg.target_lang}_metrics.json"), "w", encoding="utf-8") as f:
+        json.dump(metrics, f, indent=2)
+
     print("Saved metrics:", metrics)
     print("Artifacts in:", os.path.abspath(cfg.artifacts_dir))
 
