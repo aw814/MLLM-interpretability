@@ -42,7 +42,7 @@ Then, run
 python run_eval.py --config config.yaml
 ```
 
-Artifacts will be written to `./artifacts/`:
+Artifacts will be written to `eval/artifacts/`:
 - `predictions.csv`
 - `metrics.json`
 - `run_config.resolved.yaml`
