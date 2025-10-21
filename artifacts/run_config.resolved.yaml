@@ -1,9 +1,0 @@
-csv_path: ../data/processed/eclektic_long_subset.csv
-max_examples: 10
-source_lang: en
-target_lang: fr
-tested_model: gpt-4o
-judge_model: gpt-5
-temperature: 1.0
-max_tokens: 128
-artifacts_dir: ./artifacts
