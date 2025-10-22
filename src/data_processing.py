@@ -87,6 +87,6 @@ def reshape_eclektic_long(
 if __name__ == "__main__":
     INPUT_PATH = "./data/raw/eclektic_main.jsonl"
     OUTPUT_PATH = "./data/processed/eclektic_long_subset.csv"
-    SELECT_LANGS = ["en", "fr", "he", "zh"]
+    SELECT_LANGS = ["en", "fr", "he", "zh", "de", "es", "hi", "id", "it", "ja", "ko", "pt"]
 
     reshape_eclektic_long(INPUT_PATH, OUTPUT_PATH, SELECT_LANGS)
