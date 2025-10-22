@@ -1,7 +1,17 @@
 csv_path: ../data/processed/eclektic_long_subset.csv
-max_examples: null
+max_examples: 50
 source_lang: en
-target_lang: he
+target_lang:
+- he
+- zh
+- de
+- es
+- hi
+- id
+- it
+- ja
+- ko
+- pt
 tested_model: gpt-4o
 judge_model: gpt-5
 temperature: 1.0

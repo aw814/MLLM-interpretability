@@ -1,10 +1,10 @@
 data:
   csv_path: "../data/processed/eclektic_long_subset.csv"
-  max_examples: null
+  max_examples: 50
 
 eval:
   source_lang: "en"
-  target_lang: "he"
+  target_lang: ["he", "zh", "de", "es", "hi", "id", "it", "ja", "ko", "pt"]
 
 models:
   tested_model: "gpt-4o"
