@@ -1,53 +1,37 @@
-# MLLM-interpretability
+# 🧩 Feature Engineering — Syntactic Complexity
 
-Task 1:
+This module extracts **syntactic complexity features** from the ECLeKTic multilingual QA dataset.  
+It provides two implementations — one based on **spaCy** and one based on **Stanza** — to compute comparable structural indicators across languages.
 
-- Raw data source: ECLeKTic: https://www.kaggle.com/datasets/googleai/eclektic?resource=download
+---
 
-- Language Filtering & Data Cleaning: 
+## 📘 Overview
 
-   -  Script Location: /src/data_processing.py
+We quantify a question’s **syntactic complexity** (as a proxy for reasoning difficulty and cross-lingual transfer robustness) with three dependency-based features:
 
-    - Load the full ECLeKTic dataset (.jsonl format).
+| Feature | Description |
+|----------|--------------|
+| **`avg_dep_depth`** | Average dependency path length from each token to the sentence root (overall structural depth). |
+| **`max_tree_depth`** | Maximum dependency tree depth (deepest syntactic nesting). |
+| **`num_clauses`** | Count of subordinate / relative clauses (labels: `ccomp`, `advcl`, `relcl`, `acl`). |
 
-    - Filter to a predefined subset of languages (default: English, French, Hebrew, Chinese).
+The output CSV can be merged with other features (topic, frequency, BoW, question type) for downstream modeling.
 
-   -  Reshape the data from wide multilingual format to a long format suitable for modeling.
+---
 
-    - Export a clean, reproducible subset in .csv under /data/processed/.
+## ⚙️ Implementation A — spaCy (`syntactic_features_spacy.py`)
 
-- Output Data Structure (long format)
-
-| Column | Description |
-|:-------|:-------------|
-| **q_id** | Unique question identifier |
-| **original_lang** | Source/original language of the QA pair |
-| **original_content** | Original passage/content text |
-| **original_question** | Original question text |
-| **original_answer** | Original answer text |
-| **content** | Target-language content text |
-| **question** | Target-language question text |
-| **answer** | Target-language answer text |
-| **language** | Target language code (e.g., `en`, `fr`, `he`, `zh`) |
-| **translated** | Flag (1 = translated, 0 = original) |
-| **title**, **url** | Metadata retained from the original dataset |
+**Pros:** Fast, lightweight; good for English-only baselines.  
+**Cons:** Not multilingual by default.
 
 
-The `eval` folder provides the code for evaluation.
+## ⚙️ Implementation B — Stanza (syntactic_features_stanza.py)
 
-First, edit `config.yaml` as needed. Defaults use `en`→`fr` and up to 50 examples.
+**Pros:** Fully multilingual — supports 60+ languages via Universal Dependencies.
+**Cons:** Cross-lingual structural comparability ensured by UD framework. Slower; requires downloading per-language models.
 
-Then, run
-```
-python run_eval.py --config config.yaml
-```
+## References
 
-Artifacts will be written to `eval/artifacts/`:
-- `predictions.csv`
-- `metrics.json`
-- `run_config.resolved.yaml`
-
-You can extend to more languages or richer prompts by adding modules in `prompts.py` and extending `eval.py` loops.
-
-
-
+Matthew Honnibal, Ines Montani, et al. “spaCy 3: Industrial-strength Natural Language Processing in Python.” (2020).
+Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton, and Christopher D. Manning.
+“Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.” ACL 2020.
