@@ -1,5 +1,16 @@
 # MLLM-interpretability
 
+Currently on branch `feat/num_lang_ver`, focused on adding Wikipedia language edition counts for the ECLeKTic subset.
+
+To generate the language counts locally:
+```
+pip install -r requirements.txt
+python src/fetch_wikipedia_language_versions.py \
+    --input data/processed/eclektic_long_subset.csv \
+    --output data/processed/eclektic_long_subset_with_lang_counts.csv
+```
+The output CSV keeps `q_id`, `title`, `url`, and `language_version_count` for downstream features.
+
 Task 1:
 
 - Raw data source: ECLeKTic: https://www.kaggle.com/datasets/googleai/eclektic?resource=download
