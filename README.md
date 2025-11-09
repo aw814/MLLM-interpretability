@@ -1,5 +1,14 @@
 # MLLM-interpretability
 
+Currently on branch `feat/qa-topic`, focused on extracting QA topic features from the processed ECLeKTic subset.
+
+To generate topic annotations locally:
+```
+pip install -r requirements.txt
+python src/qa_topic_extraction.py --output data/processed/eclektic_long_topics.csv
+```
+The script reads `data/processed/eclektic_long_subset.csv` and writes a compact CSV with the topic features.
+
 Task 1:
 
 - Raw data source: ECLeKTic: https://www.kaggle.com/datasets/googleai/eclektic?resource=download
