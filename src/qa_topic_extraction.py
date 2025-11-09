@@ -75,16 +75,30 @@ def assign_topics(
     else:
         device = "cpu"
 
-    classifier = pipeline("zero-shot-classification", model=model_name, device=device)
+    language_series = df.get("language")
+    if language_series is None:
+        language_series = df.get("original_lang")
 
-    sequences = df.apply(_compose_sequence, axis=1).tolist()
-    total = len(sequences)
+    if language_series is None:
+        raise ValueError(
+            "Input data must include a 'language' or 'original_lang' column."
+        )
+
+    english_mask = language_series.astype(str).str.lower() == "en"
+
+    english_df = df[english_mask].drop_duplicates(subset="q_id").reset_index(drop=True)
+
+    total = len(english_df)
     if total == 0:
-        print("No sequences found for topic assignment.")
+        print("No English-language rows found; skipping topic assignment.")
         return df
 
+    classifier = pipeline("zero-shot-classification", model=model_name, device=device)
+
+    sequences = english_df.apply(_compose_sequence, axis=1).tolist()
+
     print(
-        f"Running zero-shot topic assignment on {total} rows using {model_name} ({device})."
+        f"Running zero-shot topic assignment on {total} English rows using {model_name} ({device})."
     )
 
     labels: List[str] = []
@@ -117,10 +131,28 @@ def assign_topics(
         processed += len(batch)
         print(f"Processed {processed}/{total} rows", flush=True)
 
+    english_df = english_df.copy()
+    english_df["qa_topic"] = labels
+    english_df["qa_topic_score"] = scores
+    english_df["qa_topic_ranked_candidates"] = ranked
+
+    topic_cols = [
+        "qa_topic",
+        "qa_topic_score",
+        "qa_topic_ranked_candidates",
+    ]
+
+    mapping = english_df[["q_id", *topic_cols]]
+
     df = df.copy()
-    df["qa_topic"] = labels
-    df["qa_topic_score"] = scores
-    df["qa_topic_ranked_candidates"] = ranked
+    df = df.merge(mapping, on="q_id", how="left")
+
+    missing_qids = df[df["qa_topic"].isna()]["q_id"].nunique()
+    if missing_qids:
+        print(
+            f"Warning: {missing_qids} q_id(s) have no English example; topic fields remain empty.",
+            flush=True,
+        )
     return df
 
 
