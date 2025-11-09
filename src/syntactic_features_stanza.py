@@ -22,22 +22,21 @@ stanza.download('en', model_dir=os.environ["STANZA_RESOURCES_DIR"])
 # -------------------------------------------------------------
 # Configuration
 # -------------------------------------------------------------
-# 根据你的结构，这里改成相对路径：
+
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 INPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/data/processed/eclektic_long_subset.csv")
 OUTPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/features/syntactic_complexity_multilang.csv")
-SUPPORTED_LANGS = ["en", "fr", "zh", "he"]  # 默认四种语言
+SUPPORTED_LANGS = ["en", "fr", "zh", "he"]  
 
 # -------------------------------------------------------------
 # Core functions
 # -------------------------------------------------------------
 def get_parser(lang_code):
-    """在 PyTorch 2.6+ 环境安全加载 Stanza 模型"""
+
     import stanza, torch, os
 
     os.environ["STANZA_RESOURCES_DIR"] = "/project/6101776/xzhan576/stanza_resources"
 
-    # ✅ 临时修补 torch.load，让它恢复旧版行为（weights_only=False）
     _torch_load = torch.load
     def patched_load(*args, **kwargs):
         kwargs["weights_only"] = False
@@ -56,7 +55,7 @@ def get_parser(lang_code):
         print(f"❌ Failed to load {lang_code}. Try stanza.download('{lang_code}') manually.")
         raise e
     finally:
-        torch.load = _torch_load  # 加载完恢复原来的 torch.load
+        torch.load = _torch_load  
 
     return nlp
 
@@ -73,7 +72,6 @@ def extract_syntactic_features(text, nlp):
 
     for sent in doc.sentences:
         for w in sent.words:
-            # 计算每个词到根节点的依存层数
             depth = 0
             head = w.head
             while head > 0:
@@ -81,7 +79,6 @@ def extract_syntactic_features(text, nlp):
                 depth += 1
             depths.append(depth)
 
-            # 判断是否为从句关系
             if w.deprel in ["ccomp", "advcl", "relcl", "acl"]:
                 num_clauses += 1
 
