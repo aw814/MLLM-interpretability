@@ -85,6 +85,37 @@ python src/qa_topic_extraction.py --output data/processed/eclektic_long_topics.c
 ```
 The script reads `data/processed/eclektic_long_subset.csv` and writes a compact CSV with the topic features.
 
+### Question Type Feature
+
+This feature classifies English source questions into linguistic categories based on their structure.
+
+#### Categories
+
+| Type | Description | Example |
+|------|-------------|---------|
+| **wh** | Information/fact questions starting with What, When, Where, Which, Who, Whom, Whose, Why | *What is the capital of France?* |
+| **how** | Process/explanation questions | *How did this event happen?* |
+| **yes_no** | Confirmation questions starting with auxiliary verbs (Is, Are, Do, Can, etc.) | *Is Paris the capital of France?* |
+| **imperative** | Commands/requests for enumeration or description (Name, List, Describe, etc.) | *Name two rivers in France.* |
+| **other** | Questions that don't fit the above patterns | *France capital?* |
+
+#### Usage
+```bash
+
+python src/add_question_type.py \
+    --input data/processed/eclektic_long_subset.csv \
+    --output data/processed/eclektic_long_subset_with_question_type.csv
+```
+`classify_question_type`:
+
+- Get feature `question_type` as 'wh', 'how', 'yes_no', 'imperative', or 'other' based on the `original_question` field.
+
+`classify_question_type_detail()`: 
+
+- Get feature `question_type_detail`
+- Splits wh into: what, when, where, which, who, whom, whose, why
+- Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
+- Keeps how, yes_no, and other the same
 ### Bag-of-Words Features
 
 Branch: `feat/bagofwords`
