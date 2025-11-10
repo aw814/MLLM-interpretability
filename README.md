@@ -1,42 +1,32 @@
 # MLLM-interpretability
 
-Currently on branch `feat/num_lang_ver`, focused on adding Wikipedia language edition counts for the ECLeKTic subset.
+## 1. Project Overview
 
-To generate the language counts locally:
-```
-pip install -r requirements.txt
-python src/fetch_wikipedia_language_versions.py \
-    --input data/processed/eclektic_long_subset.csv \
-    --output data/processed/eclektic_long_subset_with_lang_counts.csv
-```
-The output CSV keeps `q_id`, `title`, `url`, and `language_version_count` for downstream features.
+This README includes steps for preprocessing, data processing, feature engineering, and large language model evaluation. The main sections are:
 
-Currently on branch `feat/qa-topic`, focused on extracting QA topic features from the processed ECLeKTic subset.
+- Data Processing  
+- Evaluation  
+- Feature Engineering  
 
-To generate topic annotations locally:
-```
-pip install -r requirements.txt
-python src/qa_topic_extraction.py --output data/processed/eclektic_long_topics.csv
-```
-The script reads `data/processed/eclektic_long_subset.csv` and writes a compact CSV with the topic features.
+## 2. Data Processing
 
-Task 1:
+### Raw Data Source
 
 - Raw data source: ECLeKTic: https://www.kaggle.com/datasets/googleai/eclektic?resource=download
 
-- Language Filtering & Data Cleaning: 
+### Language Filtering & Data Cleaning
 
-   -  Script Location: /src/data_processing.py
+- Script Location: /src/data_processing.py
 
-    - Load the full ECLeKTic dataset (.jsonl format).
+- Load the full ECLeKTic dataset (.jsonl format).
 
-    - Filter to a predefined subset of languages (default: English, French, Hebrew, Chinese).
+- Filter to a predefined subset of languages (default: English, French, Hebrew, Chinese).
 
-   -  Reshape the data from wide multilingual format to a long format suitable for modeling.
+- Reshape the data from wide multilingual format to a long format suitable for modeling.
 
-    - Export a clean, reproducible subset in .csv under /data/processed/.
+- Export a clean, reproducible subset in .csv under /data/processed/.
 
-- Output Data Structure (long format)
+### Output Data Structure (long format)
 
 | Column | Description |
 |:-------|:-------------|
@@ -52,6 +42,7 @@ Task 1:
 | **translated** | Flag (1 = translated, 0 = original) |
 | **title**, **url** | Metadata retained from the original dataset |
 
+## 3. Evaluation
 
 The `eval` folder provides the code for evaluation.
 
@@ -69,5 +60,28 @@ Artifacts will be written to `eval/artifacts/`:
 
 You can extend to more languages or richer prompts by adding modules in `prompts.py` and extending `eval.py` loops.
 
+## 4. Feature Engineering
 
+### Wikipedia Language Edition Counts
 
+If you want to focus on feature engineering (e.g., extracting QA topic features), proceed as below.
+
+To generate the language counts locally:
+```
+pip install -r requirements.txt
+python src/fetch_wikipedia_language_versions.py \
+    --input data/processed/eclektic_long_subset.csv \
+    --output data/processed/eclektic_long_subset_with_lang_counts.csv
+```
+The output CSV keeps `q_id`, `title`, `url`, and `language_version_count` for downstream features.
+
+### QA Topic Extraction
+
+If you want to focus on feature engineering (e.g., extracting QA topic features), proceed as below.
+
+To generate topic annotations locally:
+```
+pip install -r requirements.txt
+python src/qa_topic_extraction.py --output data/processed/eclektic_long_topics.csv
+```
+The script reads `data/processed/eclektic_long_subset.csv` and writes a compact CSV with the topic features.
