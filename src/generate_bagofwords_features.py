@@ -17,6 +17,16 @@ Usage (from repository root):
     python src/generate_bagofwords_features.py \
     --input data/processed/eclektic_long_subset.csv \
     --output data/processed/bow/
+
+Note on dimensions and metadata alignment:
+    - target_<lang> files: Filter metadata by `language == <lang>` (e.g., 39 rows for target_zh)
+    - target_mix: Use all metadata rows (e.g., 468 rows for all languages)
+    
+    To align (e.g., say if you want to explore chinese target q-a results using chinese-specific bow features):
+        metadata = pd.read_csv("./data/bow/metadata.csv")
+        vectorizer, matrix = joblib.load("./data/bow/target_zh_features.pkl")
+        zh_metadata = metadata[metadata["language"] == "zh"].reset_index(drop=True)
+        assert len(zh_metadata) == matrix.shape[0] # should be true
 """
 
 import os
