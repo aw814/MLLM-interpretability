@@ -95,13 +95,18 @@ Branch: `feat/bagofwords`
 
 Usage:
 ```bash
-# Install dependencies
-pip install -r requirements.txt
-
 # Generate features
 python src/generate_bagofwords_features.py \
     --input data/processed/eclektic_long_subset.csv \
     --output data/processed/bow/
+
+# Load
+## for mixed results
+vectorizer, features = joblib.load("./data/bow/target_mix_features.pkl")
+## for language-specific results
+vectorizer, features = joblib.load("./data/bow/target_zh_features.pkl")
+metadata = pd.read_csv("./data/bow/metadata.csv")
+zh_metadata = metadata[metadata["language"] == "zh"].reset_index(drop=True)
 ```
 
 Output
