@@ -6,6 +6,13 @@ Handles Chinese, Japanese, Korean, Hindi, Hebrew, and Thai with specialized toke
 
 Saves the resulting vocabularies and feature matrices for later use.
 
+Key Features:
+* Multilingual tokenization supporting 12+ languages (Chinese, Japanese, Korean, Hindi, Hebrew, English, French, German, Spanish, Italian, Portuguese, Indonesian)
+* Language-specific tokenizers: jieba (Chinese), Sudachi (Japanese), KoNLPy (Korean), with regex fallbacks for others
+* Mixed and language-specific vocabularies for both source (original) and target (translated) texts
+* Configurable vocabulary size (default: 5000 most frequent tokens via `max_features`)
+* L2-normalized feature matrices for consistent downstream use
+
 Usage (from repository root):
     python src/generate_bagofwords_features.py \
     --input data/processed/eclektic_long_subset.csv \
