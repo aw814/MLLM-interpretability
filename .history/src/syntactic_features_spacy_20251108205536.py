@@ -19,7 +19,7 @@ torch.serialization.add_safe_globals([__import__("numpy").core.multiarray._recon
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 INPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/data/processed/eclektic_long_subset.csv")
-OUTPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/data/processed/syntactic_complexity_multilang.csv")
+OUTPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/features/syntactic_complexity_multilang.csv")
 SUPPORTED_LANGS = ["en", "fr", "zh", "he"]  
 
 # -------------------------------------------------------------

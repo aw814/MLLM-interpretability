@@ -16,11 +16,11 @@ torch.serialization.add_safe_globals([__import__("numpy").core.multiarray._recon
 # -------------------------------------------------------------
 # Configuration
 # -------------------------------------------------------------
-
+# 根据你的结构，这里改成相对路径：
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))
 INPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/data/processed/eclektic_long_subset.csv")
-OUTPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/data/processed/syntactic_complexity_multilang.csv")
-SUPPORTED_LANGS = ["en", "fr", "zh", "he"]  
+OUTPUT_PATH = os.path.join(BASE_DIR, "MLLM-interpretability/features/syntactic_complexity_multilang.csv")
+SUPPORTED_LANGS = ["en", "fr", "zh", "he"]  # 默认四种语言
 
 # -------------------------------------------------------------
 # Core functions
