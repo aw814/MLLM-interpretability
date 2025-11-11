@@ -1,3 +1,4 @@
+# MLLM-interpretability
 
 ## 1. Project Overview
 
@@ -116,13 +117,14 @@ python src/add_question_type.py \
 - Splits wh into: what, when, where, which, who, whom, whose, why
 - Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
 - Keeps how, yes_no, and other the same
+
 ### Bag-of-Words Features
 
 Branch: `feat/bagofwords`
 
 * This branch implements **Bag-of-Words (BoW) feature extraction** for the ECLeKTic multilingual Q&A dataset.
 * The module generates BoW text features from question texts using scikit-learn's `CountVectorizer` with language-specific tokenization.
-* Each feature row corresponds to a unique `q_id` and `language` combination.
+* Each feature row corresponds to a unique combination of `q_id`, `original_lang`, and `language`.
 
 Usage:
 ```bash
@@ -133,41 +135,110 @@ python src/generate_bagofwords_features.py \
 
 # Load
 ## for mixed results
-vectorizer, features = joblib.load("./data/bow/target_mix_features.pkl")
-## for language-specific results
-vectorizer, features = joblib.load("./data/bow/target_zh_features.pkl")
-metadata = pd.read_csv("./data/bow/metadata.csv")
-zh_metadata = metadata[metadata["language"] == "zh"].reset_index(drop=True)
+df_mix = pd.read_csv("./data/bow/target_mix_features.csv")
+features = df_mix.iloc[:, 5:].values  # Skip metadata columns (q_id, original_lang, language, title, url)
+metadata = df_mix.iloc[:, :5]         # Extract metadata
+
+## for language-specific results (e.g., for zh)
+df_zh = pd.read_csv("./data/bow/target_zh_features.csv")
+features = df_zh.iloc[:, 5:].values   # Skip metadata columns
+metadata = df_zh.iloc[:, :5]          # Extract metadata
 ```
 
 Output
 
-Generates vocabularies (`.json`) and feature matrices (`.pkl`) for:
+Generates vocabularies (`.json`) and feature matrices (`.csv`) for:
 - **Source mix**: All source texts combined
 - **Source language-specific**: Per `original_lang` (e.g., `source_en`)
 - **Target mix**: All target texts combined  
 - **Target language-specific**: Per `language` (e.g., `target_zh`, `target_ja`)
-- **Metadata**: `metadata.csv` with `q_id`, languages, title, and URL for alignment
 
+Each CSV file contains metadata columns (`q_id`, `original_lang`, `language`, `title`, `url`) followed by feature columns (vocabulary words with L2-normalized counts).
 ```
 bow/
- ├── source_mix_vocab.json        # Combined vocabulary for all source questions and answers
- ├── source_mix_features.pkl      # (vectorizer, matrix) for all source texts combined
- ├── source_en_vocab.json         # Vocabulary for English-only source questions and answers
- ├── source_en_features.pkl       # (vectorizer, matrix) for English-only source texts
+ ├── source_mix_vocab.json        # Combined vocabulary for all source questions
+ ├── source_mix_features.csv      # Metadata + feature vectors for all source texts combined
+ ├── source_en_vocab.json         # Vocabulary for English-only source questions
+ ├── source_en_features.csv       # Metadata + feature vectors for English-only source texts
  ├── target_mix_vocab.json        # Combined vocabulary for all target questions across languages
- ├── target_mix_features.pkl      # (vectorizer, matrix) for all target texts combined
+ ├── target_mix_features.csv      # Metadata + feature vectors for all target texts combined
  ├── target_en_vocab.json         # Vocabulary for English-only target questions
- ├── target_en_features.pkl       # (vectorizer, matrix) for English-only target texts
+ ├── target_en_features.csv       # Metadata + feature vectors for English-only target texts
  ├── target_zh_vocab.json         # Vocabulary for Chinese-only target questions
- ├── target_zh_features.pkl       # (vectorizer, matrix) for Chinese-only target texts
- ├── ...                          # Additional language-specific vocab/features if present (e.g., fr, es, etc.)
- └── metadata.csv                 # Contains q_id, original_lang, language, title, and url for alignment
+ ├── target_zh_features.csv       # Metadata + feature vectors for Chinese-only target texts
+ └── ...                          # Additional language-specific vocab/features (e.g., fr, es, ja, ko, etc.)
 ```
+
+**File Format Details:**
 
 * Each `.json` file contains a **vocabulary dictionary** mapping tokens → feature indices.
 * Each `.pkl` file stores a serialized tuple `(vectorizer, feature_matrix)` for fast reloading and reuse.
 * `metadata.csv` aligns all samples with their IDs and language info, ensuring easy downstream merging.
+
+* Each `.csv` file contains:
+  - **Metadata columns**: `q_id`, `original_lang`, `language`, `title`, `url`
+  - **Feature columns**: One column per vocabulary word with L2-normalized BoW counts
+  - **Rows**: Each row represents a unique combination of q_id + original_lang + language
+
+**Example CSV structure:**
+```csv
+q_id,original_lang,language,title,url,word1,word2,word3,...
+33,en,en,AFN Bremerhaven,https://en.wikipedia.org/wiki/AFN_Bremerhaven,0.023,0.045,0.012,...
+33,en,fr,AFN Bremerhaven,https://en.wikipedia.org/wiki/AFN_Bremerhaven,0.031,0.028,0.019,...
+33,en,he,AFN Bremerhaven,https://en.wikipedia.org/wiki/AFN_Bremerhaven,0.041,0.033,0.007,...
+```
+
+---
+### Feature Engineering — Syntactic Complexity
+
+This module extracts **syntactic complexity features** from the ECLeKTic multilingual QA dataset.  
+It provides implementations based on **Stanza** — to compute comparable structural indicators across languages.
+
+
+#### 📘 Overview
+
+We quantify a question’s **syntactic complexity** (as a proxy for reasoning difficulty and cross-lingual transfer robustness) with three dependency-based features:
+
+| Feature | Description |
+|----------|--------------|
+| **`avg_dep_depth`** | Average dependency path length from each token to the sentence root (overall structural depth). |
+| **`max_tree_depth`** | Maximum dependency tree depth (deepest syntactic nesting). |
+| **`num_clauses`** | Count of subordinate / relative clauses (labels: `ccomp`, `advcl`, `relcl`, `acl`). |
+
+The output CSV can be merged with other features (topic, frequency, BoW, question type) for downstream modeling.
+
+---
+
+#### ⚙️ Implementation A — spaCy (`syntactic_features_spacy.py`)
+
+**Pros:** Fast, lightweight; good for English-only baselines.  
+**Cons:** Not multilingual by default.
+#### Language Filtering & Data Cleaning
+
+- Script Location: /src/data_processing.py
+
+- Load the full ECLeKTic dataset (.jsonl format).
+
+- Filter to a predefined subset of languages (default: English, French, Hebrew, Chinese).
+
+- Reshape the data from wide multilingual format to a long format suitable for modeling.
+
+- Export a clean, reproducible subset in .csv under /data/processed/.
+
+#### Output Data Structure (long format)
+
+
+#### ⚙️ Implementation B — Stanza (syntactic_features_stanza.py)
+
+**Pros:** Fully multilingual — supports 60+ languages via Universal Dependencies.
+
+**Cons:** Cross-lingual structural comparability ensured by UD framework. Slower; requires downloading per-language models.
+
+#### References
+
+Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton, and Christopher D. Manning.
+“Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.” ACL 2020.
+
 
 
 ## 5. QA Co-Occurrence Feature Extraction (Chunked Execution)
