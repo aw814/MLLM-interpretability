@@ -88,10 +88,10 @@ The script reads `data/processed/eclektic_long_subset.csv` and writes a compact 
 
 ### Question Type Feature
 
-This feature classifies English source questions into linguistic categories using **BART-large-mnli** zero-shot classification for semantic understanding.
-
-#### Classification Method
-- **Model**: [`facebook/bart-large-mnli`](https://huggingface.co/facebook/bart-large-mnli) (zero-shot classification)
+This feature classifies English source questions into linguistic and semantic categories using **Large Language Model (LLM) prompting**.
+- **Model**: Uses OpenAI GPT model through API prompting (configurable via `.env` file)
+- **Prompting logic**: The LLM is prompted with the question text and a predefined taxonomy of question types, returning the most semantically appropriate label.
+- **Scope**: Runs classification only for rows with `language == 'en'`, and applies the resulting `question_type` to all rows with the same `qid`.
 
 #### Usage
 
@@ -102,40 +102,25 @@ python src/add_question_type.py \
 ```
 
 **Output:**
-Adds two new columns to the dataset: `question_type`
-- ⚠️ **English only**: Only supports `original_lang == 'en'` so far
+Adds a new column `question_type` to the dataset.  
+- ⚠️ **English only**: Only processes rows where `language == 'en'`; propagates the label to all related rows sharing the same `qid`.  
+- Supports graceful fallback to heuristic classification if the OpenAI API key is missing.
 
 #### Categories
+The question_type feature provides 11 detailed semantic categories identified by the LLM:
+	•	PERSON – asks for a human individual’s name or identity.
+	•	LOCATION – asks for a geographic place (city, country, region, etc.).
+	•	ORGANIZATION – asks for a group, company, institution, or agency.
+	•	DATE_TIME – asks for a temporal expression (date, year, era, or period).
+	•	NUMERIC – asks for a number, count, or measurement.
+	•	DEFINITION – asks for the meaning or conceptual explanation of a term.
+	•	ENTITY_OBJECT – asks for a specific entity or object (e.g., What is the capital of France?).
+	•	EVENT – asks about an event, occurrence, or phenomenon.
+	•	WORK_CREATION – asks about a creative or intellectual work (book, movie, painting, invention).
+	•	SCIENTIFIC_TECHNICAL – asks for a scientific or technical fact.
+	•	OTHER – factual but does not clearly fit the above types.
 
-The `question_type` feature provides 11 detailed categories:
-
-**Wh-questions** (8 types):
-- `what` - asking about things, definitions, or identity
-- `when` - asking about time
-- `where` - asking about location or place
-- `which` - asking for selection or choice
-- `who` - asking about people or agents
-- `whom` - asking about people as objects
-- `whose` - asking about possession or ownership
-- `why` - asking about reasons or causes
-
-**How questions** (1 type):
-- `how` - asking about manner, method, or process
-
-**Yes/No questions** (1 type):
-- `yes_no` - requiring true/false or binary answer
-
-**Other** (1 type):
-- `other` - non-standard or unclear question type
-
-#### Examples
-
-| Question Type | Example |
-|---------------|---------|
-| **what** | *What is the capital of France?*<br>*Can you tell me what the capital is?* |
-| **how** | *How did this event happen?*<br>*In what way does this work?* |
-| **yes_no** | *Is Paris the capital of France?*<br>*Does France have a capital?* |
-
+    
 ### Bag-of-Words Features
 
 Branch: `feat/bagofwords`
