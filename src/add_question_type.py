@@ -11,8 +11,7 @@ from transformers import pipeline
 # ```
 # `classify_question_type`:
 # - Get feature `question_type` with detailed categories based on the `original_question` field
-# - Categories: what, when, where, which, who, whom, whose, why, how, yes_no,
-#   name, list, describe, explain, give, provide, identify, state, mention, tell, other
+# - Categories: what, when, where, which, who, whom, whose, why, how, yes_no, other
 # - Uses BART-large-mnli for zero-shot classification
 
 # Note: So far only supports English source questions (`original_lang` == 'en')
@@ -32,8 +31,7 @@ def classify_question_type(question: str) -> str:
 
     Returns:
         Detailed question type: 'what', 'when', 'where', 'which', 'who', 'whom', 'whose', 'why',
-        'how', 'yes_no', 'name', 'list', 'describe', 'explain', 'give', 'provide', 
-        'identify', 'state', 'mention', 'tell', or 'other'
+        'how', 'yes_no', or 'other'
     """
     if not isinstance(question, str) or not question.strip():
         return 'other'
@@ -41,60 +39,37 @@ def classify_question_type(question: str) -> str:
     question = question.strip()
     
     # Define all detailed candidate labels
-    # Wh-questions: asking about specific information
-    # How: asking about process or method
-    # Yes/No: questions requiring binary answer
-    # Imperatives: commands requesting specific actions
-    # Other: statements or non-standard questions
+    # Use descriptive labels to give BART more context for accurate classification
+    # Then map to clean output labels via label_map
     candidate_labels = [
-        'what',      # asking about things, definitions, or identity
-        'when',      # asking about time
-        'where',     # asking about location or place
-        'which',     # asking for selection or choice
-        'who',       # asking about people or agents
-        'whom',      # asking about people as objects
-        'whose',     # asking about possession or ownership
-        'why',       # asking about reasons or causes
-        'how',       # asking about manner, method, or process
-        'yes or no', # requiring true/false or binary answer
-        'name',      # command to identify or specify
-        'list',      # command to enumerate items
-        'describe',  # command to characterize or depict
-        'explain',   # command to clarify or elucidate
-        'give',      # command to provide something
-        'provide',   # command to supply information
-        'identify',  # command to recognize or determine
-        'state',     # command to declare or assert
-        'mention',   # command to refer to or cite
-        'tell',      # command to inform or relate
-        'other'      # non-standard or unclear question type
+        'what question asking about things, definitions, or identity',
+        'when question asking about time or temporal information',
+        'where question asking about location or place',
+        'which question asking for selection or choice among options',
+        'who question asking about people or agents',
+        'whom question asking about people as grammatical objects',
+        'whose question asking about possession or ownership',
+        'why question asking about reasons or causes',
+        'how question asking about manner, method, or process',
+        'yes-no question requiring true or false answer',
+        'other type of question or statement'
     ]
     
     result = classifier(question, candidate_labels)
     
-    # Map labels back to simple types
+    # Map descriptive labels back to clean output types
     label_map = {
-        'what': 'what',
-        'when': 'when',
-        'where': 'where',
-        'which': 'which',
-        'who': 'who',
-        'whom': 'whom',
-        'whose': 'whose',
-        'why': 'why',
-        'how': 'how',
-        'yes or no': 'yes_no',
-        'name': 'name',
-        'list': 'list',
-        'describe': 'describe',
-        'explain': 'explain',
-        'give': 'give',
-        'provide': 'provide',
-        'identify': 'identify',
-        'state': 'state',
-        'mention': 'mention',
-        'tell': 'tell',
-        'other': 'other'
+        'what question asking about things, definitions, or identity': 'what',
+        'when question asking about time or temporal information': 'when',
+        'where question asking about location or place': 'where',
+        'which question asking for selection or choice among options': 'which',
+        'who question asking about people or agents': 'who',
+        'whom question asking about people as grammatical objects': 'whom',
+        'whose question asking about possession or ownership': 'whose',
+        'why question asking about reasons or causes': 'why',
+        'how question asking about manner, method, or process': 'how',
+        'yes-no question requiring true or false answer': 'yes_no',
+        'other type of question or statement': 'other'
     }
     
     top_label = result['labels'][0]

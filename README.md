@@ -107,22 +107,26 @@ Adds two new columns to the dataset: `question_type`
 
 #### Categories
 
-The `question_type` feature provides 21 detailed categories:
+The `question_type` feature provides 11 detailed categories:
 
 **Wh-questions** (8 types):
-- `what`, `when`, `where`, `which`, `who`, `whom`, `whose`, `why`
+- `what` - asking about things, definitions, or identity
+- `when` - asking about time
+- `where` - asking about location or place
+- `which` - asking for selection or choice
+- `who` - asking about people or agents
+- `whom` - asking about people as objects
+- `whose` - asking about possession or ownership
+- `why` - asking about reasons or causes
 
 **How questions** (1 type):
-- `how`
+- `how` - asking about manner, method, or process
 
 **Yes/No questions** (1 type):
-- `yes_no` - Confirmation questions requiring true/false answers
-
-**Imperative commands** (10 types):
-- `name`, `list`, `describe`, `explain`, `give`, `provide`, `identify`, `state`, `mention`, `tell`
+- `yes_no` - requiring true/false or binary answer
 
 **Other** (1 type):
-- `other` - Questions that don't fit the above patterns
+- `other` - non-standard or unclear question type
 
 #### Examples
 
@@ -131,8 +135,6 @@ The `question_type` feature provides 21 detailed categories:
 | **what** | *What is the capital of France?*<br>*Can you tell me what the capital is?* |
 | **how** | *How did this event happen?*<br>*In what way does this work?* |
 | **yes_no** | *Is Paris the capital of France?*<br>*Does France have a capital?* |
-| **list** | *List the major cities in France.*<br>*Can you enumerate the regions?* |
-| **describe** | *Describe the French Revolution.*<br>*Tell me about the characteristics.* |
 
 ### Bag-of-Words Features
 
