@@ -4,7 +4,7 @@ Generate bag-of-words feature matrices from multilingual text data,
 using language-specific tokenization where appropriate.
 Handles Chinese, Japanese, Korean, Hindi, Hebrew, and Thai with specialized tokenizers.
 
-Saves the resulting vocabularies and feature matrices for later use.
+Saves the resulting vocabularies and feature matrices as CSV files.
 
 Key Features:
 * Multilingual tokenization supporting 12+ languages (Chinese, Japanese, Korean, Hindi, Hebrew, English, French, German, Spanish, Italian, Portuguese, Indonesian)
@@ -12,26 +12,22 @@ Key Features:
 * Mixed and language-specific vocabularies for both source (original) and target (translated) texts
 * Configurable vocabulary size (default: 5000 most frequent tokens via `max_features`)
 * L2-normalized feature matrices for consistent downstream use
+* CSV output format with metadata (q_id, original_lang, language, title, url) + feature vectors
 
 Usage (from repository root):
     python src/generate_bagofwords_features.py \
     --input data/processed/eclektic_long_subset.csv \
     --output data/processed/bow/
 
-Note on dimensions and metadata alignment:
-    - target_<lang> files: Filter metadata by `language == <lang>` (e.g., 39 rows for target_zh)
-    - target_mix: Use all metadata rows (e.g., 468 rows for all languages)
-    
-    To align (e.g., say if you want to explore chinese target q-a results using chinese-specific bow features):
-        metadata = pd.read_csv("./data/bow/metadata.csv")
-        vectorizer, matrix = joblib.load("./data/bow/target_zh_features.pkl")
-        zh_metadata = metadata[metadata["language"] == "zh"].reset_index(drop=True)
-        assert len(zh_metadata) == matrix.shape[0] # should be true
+Output format:
+    Each CSV file contains:
+    - Metadata columns: q_id, original_lang, language, title, url
+    - Feature columns: one column per vocabulary word with L2-normalized counts
+    - Each row: unique combination of q_id + original_lang + language
 """
 
 import os
 import json
-import joblib
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.preprocessing import normalize
@@ -208,21 +204,33 @@ def make_bow(texts, max_features=5000, stop_words='english', lang=None):
     return vectorizer, mat
 
 
-def save_artifacts(name, vectorizer, matrix, out_dir):
+def save_artifacts(name, vectorizer, matrix, out_dir, metadata_df):
     """
-    Save vectorizer vocab (.json) and matrix (.pkl) under consistent naming.
+    Save vectorizer vocab (.json) and combined CSV with metadata + feature vectors.
+    Each row represents a unique q_id + original_lang + language combination.
     """
     os.makedirs(out_dir, exist_ok=True)
     vocab_path = os.path.join(out_dir, f"{name}_vocab.json")
-    pkl_path = os.path.join(out_dir, f"{name}_features.pkl")
+    csv_path = os.path.join(out_dir, f"{name}_features.csv")
 
+    # Save vocabulary as JSON
     with open(vocab_path, "w", encoding="utf-8") as f:
         vocab_clean = {k: int(v) for k, v in vectorizer.vocabulary_.items()}
         json.dump(vocab_clean, f, ensure_ascii=False, indent=2)
 
-    joblib.dump((vectorizer, matrix), pkl_path)
-
-    print(f"Saved {name}: {matrix.shape} → {pkl_path}")
+    # Create DataFrame with metadata and feature vectors
+    feature_names = vectorizer.get_feature_names_out()
+    df_features = pd.DataFrame(
+        matrix.toarray(),
+        columns=feature_names
+    )
+    
+    # Add metadata columns at the beginning
+    for col in reversed(metadata_df.columns):
+        df_features.insert(0, col, metadata_df[col].values)
+    
+    df_features.to_csv(csv_path, index=False)
+    print(f"Saved {name}: {matrix.shape} → {csv_path}")
 
 
 def main(input_path, out_dir="../processed/bow", max_features=5000):
@@ -247,7 +255,8 @@ def main(input_path, out_dir="../processed/bow", max_features=5000):
     # -----------------------------------------------------
     src_texts = df[["original_question"]].fillna("").agg(" ".join, axis=1)
     vect, mat = make_bow(src_texts, max_features=max_features)
-    save_artifacts("source_mix", vect, mat, out_dir)
+    src_metadata = df[["q_id", "original_lang", "language", "title", "url"]]
+    save_artifacts("source_mix", vect, mat, out_dir, src_metadata)
 
     # -----------------------------------------------------
     # 2 SOURCE-LANGUAGE-SPECIFIC
@@ -258,14 +267,16 @@ def main(input_path, out_dir="../processed/bow", max_features=5000):
             continue
         texts = sub[["original_question"]].fillna("").agg(" ".join, axis=1)
         vect, mat = make_bow(texts, max_features=max_features, lang=lang)
-        save_artifacts(f"source_{lang}", vect, mat, out_dir)
+        src_metadata = sub[["q_id", "original_lang", "language", "title", "url"]].reset_index(drop=True)
+        save_artifacts(f"source_{lang}", vect, mat, out_dir, src_metadata)
 
     # -----------------------------------------------------
     # 3 TARGET MIX  (all target texts, all langs combined)
     # -----------------------------------------------------
     target_texts = df["question"].fillna("")
     vect, mat = make_bow(target_texts, max_features=max_features)
-    save_artifacts("target_mix", vect, mat, out_dir)
+    tgt_metadata = df[["q_id", "original_lang", "language", "title", "url"]]
+    save_artifacts("target_mix", vect, mat, out_dir, tgt_metadata)
 
     # -----------------------------------------------------
     # 4 TARGET-LANGUAGE-SPECIFIC
@@ -276,20 +287,15 @@ def main(input_path, out_dir="../processed/bow", max_features=5000):
             continue
         texts = sub["question"].fillna("")
         vect, mat = make_bow(texts, max_features=max_features, lang=lang)
-        save_artifacts(f"target_{lang}", vect, mat, out_dir)
+        tgt_metadata = sub[["q_id", "original_lang", "language", "title", "url"]].reset_index(drop=True)
+        save_artifacts(f"target_{lang}", vect, mat, out_dir, tgt_metadata)
 
-    # -----------------------------------------------------
-    # 5 Metadata save (optional)
-    # -----------------------------------------------------
-    df[["q_id", "original_lang", "language", "title", "url"]].to_csv(
-        os.path.join(out_dir, "metadata.csv"), index=False
-    )
     print("\n" + "=" * 60)
-    print("All vocabularies and feature matrices saved.")
+    print("All vocabularies and feature matrices saved as CSV.")
     print("=" * 60)
 
 
 if __name__ == "__main__":
     input_path = "./data/processed/eclektic_long_subset.csv"
-    out_dir="./data/processed/bow"
+    out_dir = "./data/processed/bow"
     main(input_path, out_dir, max_features=5000)
