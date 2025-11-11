@@ -88,35 +88,41 @@ The script reads `data/processed/eclektic_long_subset.csv` and writes a compact 
 
 ### Question Type Feature
 
-This feature classifies English source questions into linguistic categories based on their structure.
+This feature classifies English source questions into linguistic categories using **BART-large-mnli** zero-shot classification for semantic understanding.
+
+#### Classification Method
+- **Model**: [`facebook/bart-large-mnli`](https://huggingface.co/facebook/bart-large-mnli) (zero-shot classification)
 
 #### Categories
 
 | Type | Description | Example |
 |------|-------------|---------|
-| **wh** | Information/fact questions starting with What, When, Where, Which, Who, Whom, Whose, Why | *What is the capital of France?* |
-| **how** | Process/explanation questions | *How did this event happen?* |
-| **yes_no** | Confirmation questions starting with auxiliary verbs (Is, Are, Do, Can, etc.) | *Is Paris the capital of France?* |
-| **imperative** | Commands/requests for enumeration or description (Name, List, Describe, etc.) | *Name two rivers in France.* |
+| **wh** | Information/fact questions (What, When, Where, Which, Who, Whom, Whose, Why) | *What is the capital of France?*<br>*Can you tell me what the capital is?* |
+| **how** | Process/explanation questions | *How did this event happen?*<br>*In what way does this work?* |
+| **yes_no** | Confirmation questions requiring true/false answers | *Is Paris the capital of France?*<br>*Does France have a capital?* |
+| **imperative** | Commands/requests for enumeration or description | *Name two rivers in France.*<br>*List the major cities.* |
 | **other** | Questions that don't fit the above patterns | *France capital?* |
 
-#### Usage
-```bash
+#### Detailed Classification
 
+The `question_type_detail` feature provides granular categories:
+- **wh**: Split into specific wh-words (what, when, where, which, who, whom, whose, why)
+- **imperative**: Split into specific command verbs (name, list, describe, explain, give, provide, identify, state, mention, tell)
+- **how, yes_no, other**: Remain the same as general classification
+
+#### Usage
+
+```bash
 python src/add_question_type.py \
     --input data/processed/eclektic_long_subset.csv \
     --output data/processed/eclektic_long_subset_with_question_type.csv
 ```
-`classify_question_type`:
 
-- Get feature `question_type` as 'wh', 'how', 'yes_no', 'imperative', or 'other' based on the `original_question` field.
-
-`classify_question_type_detail()`: 
-
-- Get feature `question_type_detail`
-- Splits wh into: what, when, where, which, who, whom, whose, why
-- Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
-- Keeps how, yes_no, and other the same
+**Output:**
+Adds two new columns to the dataset:
+- `question_type`: General category (wh, how, yes_no, imperative, other)
+- `question_type_detail`: Specific subcategory (21 possible values)
+- ⚠️ **English only**: Only supports `original_lang == 'en'` so far
 
 ### Bag-of-Words Features
 

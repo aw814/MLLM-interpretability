@@ -1,7 +1,7 @@
 import pandas as pd
 import argparse
-import re
 from typing import List, Dict
+from transformers import pipeline
 
 #### Usage
 # ```bash
@@ -11,19 +11,26 @@ from typing import List, Dict
 # ```
 # `classify_question_type`:
 # - Get feature `question_type` as 'wh', 'how', 'yes_no', 'imperative', or 'other' based on the `original_question` field.
+# - Uses BART-large-mnli for zero-shot classification
 
 # `classify_question_type_detail()`: 
 # - Get feature `question_type_detail`
 # - Splits wh into: what, when, where, which, who, whom, whose, why
 # - Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
 # - Keeps how, yes_no, and other the same
+# - Uses BART-large-mnli for zero-shot classification
 
 # Note: So far only supports English source questions (`original_lang` == 'en')
+
+# Initialize BART classifier globally
+print("Loading BART-large-mnli model...")
+classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+print("Model loaded successfully!")
 
 
 def classify_question_type(question: str) -> str:
     """
-    Classify English question into types based on structure.
+    Classify English question into types using BART zero-shot classification.
     
     Args:
         question: English question text
@@ -34,50 +41,35 @@ def classify_question_type(question: str) -> str:
     if not isinstance(question, str) or not question.strip():
         return 'other'
     
-    question = question.strip().lower()
+    question = question.strip()
     
-    # Wh- questions (what, when, where, which, who, whom, whose, why)
-    wh_patterns = [
-        r'^what\b', r'^when\b', r'^where\b', r'^which\b',
-        r'^who\b', r'^whom\b', r'^whose\b', r'^why\b'
+    # Define candidate labels for general classification
+    candidate_labels = [
+        'wh-question asking what, when, where, which, who, whom, whose, or why',
+        'how question',
+        'yes-no question requiring true or false answer',
+        'imperative command requesting to name, list, describe, explain, give, provide, identify, state, mention, or tell',
+        'other type of question or statement'
     ]
-    for pattern in wh_patterns:
-        if re.search(pattern, question):
-            return 'wh'
     
-    # How questions
-    if re.search(r'^how\b', question):
-        return 'how'
+    result = classifier(question, candidate_labels)
     
-    # Yes/No questions (auxiliary verb + subject)
-    yes_no_patterns = [
-        r'^is\b', r'^are\b', r'^was\b', r'^were\b',
-        r'^do\b', r'^does\b', r'^did\b',
-        r'^can\b', r'^could\b', r'^will\b', r'^would\b',
-        r'^should\b', r'^shall\b', r'^may\b', r'^might\b',
-        r'^has\b', r'^have\b', r'^had\b'
-    ]
-    for pattern in yes_no_patterns:
-        if re.search(pattern, question):
-            return 'yes_no'
+    # Map labels back to simple types
+    label_map = {
+        'wh-question asking what, when, where, which, who, whom, whose, or why': 'wh',
+        'how question': 'how',
+        'yes-no question requiring true or false answer': 'yes_no',
+        'imperative command requesting to name, list, describe, explain, give, provide, identify, state, mention, or tell': 'imperative',
+        'other type of question or statement': 'other'
+    }
     
-    # Imperative/Command (Name, List, Describe, etc.)
-    imperative_patterns = [
-        r'^name\b', r'^list\b', r'^describe\b', r'^explain\b',
-        r'^give\b', r'^provide\b', r'^identify\b', r'^state\b',
-        r'^mention\b', r'^tell\b'
-    ]
-    for pattern in imperative_patterns:
-        if re.search(pattern, question):
-            return 'imperative'
-    
-    # Default
-    return 'other'
+    top_label = result['labels'][0]
+    return label_map[top_label]
 
 
 def classify_question_type_detail(question: str) -> str:
     """
-    Classify English question into detailed types with specific wh-word and imperative verb categories.
+    Classify English question into detailed types using BART zero-shot classification.
     
     Args:
         question: English question text
@@ -90,58 +82,62 @@ def classify_question_type_detail(question: str) -> str:
     if not isinstance(question, str) or not question.strip():
         return 'other'
     
-    question = question.strip().lower()
+    question = question.strip()
     
-    # Specific wh- questions
-    wh_patterns = {
-        'what': r'^what\b',
-        'when': r'^when\b',
-        'where': r'^where\b',
-        'which': r'^which\b',
-        'who': r'^who\b',
-        'whom': r'^whom\b',
-        'whose': r'^whose\b',
-        'why': r'^why\b'
-    }
-    for qtype, pattern in wh_patterns.items():
-        if re.search(pattern, question):
-            return qtype
-    
-    # How questions
-    if re.search(r'^how\b', question):
-        return 'how'
-    
-    # Yes/No questions
-    yes_no_patterns = [
-        r'^is\b', r'^are\b', r'^was\b', r'^were\b',
-        r'^do\b', r'^does\b', r'^did\b',
-        r'^can\b', r'^could\b', r'^will\b', r'^would\b',
-        r'^should\b', r'^shall\b', r'^may\b', r'^might\b',
-        r'^has\b', r'^have\b', r'^had\b'
+    # Define all detailed candidate labels
+    candidate_labels = [
+        'what question',
+        'when question',
+        'where question',
+        'which question',
+        'who question',
+        'whom question',
+        'whose question',
+        'why question',
+        'how question',
+        'yes-no question',
+        'command to name something',
+        'command to list items',
+        'command to describe something',
+        'command to explain something',
+        'command to give information',
+        'command to provide information',
+        'command to identify something',
+        'command to state information',
+        'command to mention something',
+        'command to tell something',
+        'other type of question or statement'
     ]
-    for pattern in yes_no_patterns:
-        if re.search(pattern, question):
-            return 'yes_no'
     
-    # Specific imperative verbs
-    imperative_patterns = {
-        'name': r'^name\b',
-        'list': r'^list\b',
-        'describe': r'^describe\b',
-        'explain': r'^explain\b',
-        'give': r'^give\b',
-        'provide': r'^provide\b',
-        'identify': r'^identify\b',
-        'state': r'^state\b',
-        'mention': r'^mention\b',
-        'tell': r'^tell\b'
+    result = classifier(question, candidate_labels)
+    
+    # Map labels back to simple types
+    label_map = {
+        'what question': 'what',
+        'when question': 'when',
+        'where question': 'where',
+        'which question': 'which',
+        'who question': 'who',
+        'whom question': 'whom',
+        'whose question': 'whose',
+        'why question': 'why',
+        'how question': 'how',
+        'yes-no question': 'yes_no',
+        'command to name something': 'name',
+        'command to list items': 'list',
+        'command to describe something': 'describe',
+        'command to explain something': 'explain',
+        'command to give information': 'give',
+        'command to provide information': 'provide',
+        'command to identify something': 'identify',
+        'command to state information': 'state',
+        'command to mention something': 'mention',
+        'command to tell something': 'tell',
+        'other type of question or statement': 'other'
     }
-    for qtype, pattern in imperative_patterns.items():
-        if re.search(pattern, question):
-            return qtype
     
-    # Default
-    return 'other'
+    top_label = result['labels'][0]
+    return label_map[top_label]
 
 
 def add_question_type_column(input_path: str, output_path: str):
@@ -174,10 +170,15 @@ def add_question_type_column(input_path: str, output_path: str):
         f"All rows must have original_lang='en'."
     
     print(f"✓ Verified: All {len(df)} questions have English source language")
-    print(f"Classifying questions...")
+    print(f"Classifying questions using BART-large-mnli...")
+    print(f"Total questions to classify: {len(df)}")
     
     # Classify each question (both general and detailed)
+    # Note: This may take some time for large datasets
+    print("\nClassifying general question types...")
     df['question_type'] = df['original_question'].apply(classify_question_type)
+    
+    print("Classifying detailed question types...")
     df['question_type_detail'] = df['original_question'].apply(classify_question_type_detail)
     
     # Print distribution for general type
@@ -206,7 +207,7 @@ def add_question_type_column(input_path: str, output_path: str):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Add question type classification to ECLeKTic dataset (English source questions only)"
+        description="Add question type classification to ECLeKTic dataset using BART-large-mnli (English source questions only)"
     )
     parser.add_argument(
         '--input',
