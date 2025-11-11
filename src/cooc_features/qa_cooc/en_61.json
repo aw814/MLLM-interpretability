@@ -1,0 +1,530 @@
+[
+  {
+    "w1": "song",
+    "w2": "that",
+    "pmi": -0.9129192786877045,
+    "cooc_count": 42893,
+    "unigram_w1": 164871,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "released",
+    "w2": "that",
+    "pmi": -0.7335381020825057,
+    "cooc_count": 56069,
+    "unigram_w1": 180126,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "motion",
+    "w2": "that",
+    "pmi": -0.7962508545213873,
+    "cooc_count": 34949,
+    "unigram_w1": 119543,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "heart",
+    "w2": "that",
+    "pmi": -0.6883252430192882,
+    "cooc_count": 106190,
+    "unigram_w1": 326063,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "album",
+    "w2": "that",
+    "pmi": -1.030977297860976,
+    "cooc_count": 33214,
+    "unigram_w1": 143665,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "on",
+    "w2": "that",
+    "pmi": -0.8217041456769807,
+    "cooc_count": 3890832,
+    "unigram_w1": 13651680,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": -0.7096427076613325,
+    "cooc_count": 336114,
+    "unigram_w1": 1054296,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": -0.9399164472596205,
+    "cooc_count": 5164289,
+    "unigram_w1": 20393563,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "name",
+    "w2": "that",
+    "pmi": -1.1489669900921438,
+    "cooc_count": 175527,
+    "unigram_w1": 854311,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": -0.48405797993425675,
+    "cooc_count": 1299399,
+    "unigram_w1": 15189052,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": -0.7968880215927575,
+    "cooc_count": 3647753,
+    "unigram_w1": 12485086,
+    "unigram_w2": 15189052
+  },
+  {
+    "w1": "released",
+    "w2": "song",
+    "pmi": 1.4252657548861247,
+    "cooc_count": 5271,
+    "unigram_w1": 180126,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "motion",
+    "w2": "song",
+    "pmi": -0.6920963215655286,
+    "cooc_count": 421,
+    "unigram_w1": 119543,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "heart",
+    "w2": "song",
+    "pmi": 0.28900647663839907,
+    "cooc_count": 3063,
+    "unigram_w1": 326063,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "album",
+    "w2": "song",
+    "pmi": 2.384929133560796,
+    "cooc_count": 10976,
+    "unigram_w1": 143665,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "on",
+    "w2": "song",
+    "pmi": -0.7466100503910609,
+    "cooc_count": 45527,
+    "unigram_w1": 13651680,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "love",
+    "w2": "song",
+    "pmi": 0.4690764837135392,
+    "cooc_count": 11858,
+    "unigram_w1": 1054296,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "for",
+    "w2": "song",
+    "pmi": -1.084048953616483,
+    "cooc_count": 48532,
+    "unigram_w1": 20393563,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "name",
+    "w2": "song",
+    "pmi": -0.6386004109917837,
+    "cooc_count": 3174,
+    "unigram_w1": 854311,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "song",
+    "w2": "what",
+    "pmi": -0.6540098744541414,
+    "cooc_count": 11900,
+    "unigram_w1": 164871,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "s",
+    "w2": "song",
+    "pmi": -0.6022640716496603,
+    "cooc_count": 48102,
+    "unigram_w1": 12485086,
+    "unigram_w2": 164871
+  },
+  {
+    "w1": "motion",
+    "w2": "released",
+    "pmi": -0.834260994422989,
+    "cooc_count": 399,
+    "unigram_w1": 119543,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "heart",
+    "w2": "released",
+    "pmi": -0.658056988995283,
+    "cooc_count": 1298,
+    "unigram_w1": 326063,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "album",
+    "w2": "released",
+    "pmi": 2.44946660512958,
+    "cooc_count": 12791,
+    "unigram_w1": 143665,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "on",
+    "w2": "released",
+    "pmi": -0.42869414962628777,
+    "cooc_count": 68355,
+    "unigram_w1": 13651680,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "love",
+    "w2": "released",
+    "pmi": -0.7773526658050564,
+    "cooc_count": 3725,
+    "unigram_w1": 1054296,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "for",
+    "w2": "released",
+    "pmi": -0.8069848827595618,
+    "cooc_count": 69950,
+    "unigram_w1": 20393563,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "name",
+    "w2": "released",
+    "pmi": -0.6698477404179746,
+    "cooc_count": 3361,
+    "unigram_w1": 854311,
+    "unigram_w2": 180126
+  },
+  {
+    "w1": "released",
+    "w2": "what",
+    "pmi": -0.8469303749939114,
+    "cooc_count": 10720,
+    "unigram_w1": 180126,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "released",
+    "w2": "s",
+    "pmi": -0.5075595454911082,
+    "cooc_count": 57773,
+    "unigram_w1": 180126,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "heart",
+    "w2": "motion",
+    "pmi": -0.8073071763707655,
+    "cooc_count": 742,
+    "unigram_w1": 326063,
+    "unigram_w2": 119543
+  },
+  {
+    "w1": "album",
+    "w2": "motion",
+    "pmi": -0.12779968895286842,
+    "cooc_count": 645,
+    "unigram_w1": 143665,
+    "unigram_w2": 119543
+  },
+  {
+    "w1": "motion",
+    "w2": "on",
+    "pmi": -0.7836162543669998,
+    "cooc_count": 31811,
+    "unigram_w1": 119543,
+    "unigram_w2": 13651680
+  },
+  {
+    "w1": "love",
+    "w2": "motion",
+    "pmi": -1.5602214181911578,
+    "cooc_count": 1130,
+    "unigram_w1": 1054296,
+    "unigram_w2": 119543
+  },
+  {
+    "w1": "for",
+    "w2": "motion",
+    "pmi": -0.7823936297300657,
+    "cooc_count": 47579,
+    "unigram_w1": 20393563,
+    "unigram_w2": 119543
+  },
+  {
+    "w1": "motion",
+    "w2": "name",
+    "pmi": -1.737374300054652,
+    "cooc_count": 767,
+    "unigram_w1": 119543,
+    "unigram_w2": 854311
+  },
+  {
+    "w1": "motion",
+    "w2": "what",
+    "pmi": -1.3476592303086992,
+    "cooc_count": 4312,
+    "unigram_w1": 119543,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "motion",
+    "w2": "s",
+    "pmi": -0.8433386497582911,
+    "cooc_count": 27406,
+    "unigram_w1": 119543,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "album",
+    "w2": "heart",
+    "pmi": -0.1907225266141836,
+    "cooc_count": 1652,
+    "unigram_w1": 143665,
+    "unigram_w2": 326063
+  },
+  {
+    "w1": "heart",
+    "w2": "on",
+    "pmi": -0.869075293482039,
+    "cooc_count": 79660,
+    "unigram_w1": 326063,
+    "unigram_w2": 13651680
+  },
+  {
+    "w1": "heart",
+    "w2": "love",
+    "pmi": 0.6668886355308792,
+    "cooc_count": 28581,
+    "unigram_w1": 326063,
+    "unigram_w2": 1054296
+  },
+  {
+    "w1": "for",
+    "w2": "heart",
+    "pmi": -0.8508812884965642,
+    "cooc_count": 121185,
+    "unigram_w1": 20393563,
+    "unigram_w2": 326063
+  },
+  {
+    "w1": "heart",
+    "w2": "name",
+    "pmi": -0.9488120325511328,
+    "cooc_count": 4603,
+    "unigram_w1": 326063,
+    "unigram_w2": 854311
+  },
+  {
+    "w1": "heart",
+    "w2": "what",
+    "pmi": -0.44287202879088455,
+    "cooc_count": 29067,
+    "unigram_w1": 326063,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "heart",
+    "w2": "s",
+    "pmi": -0.6213627780401315,
+    "cooc_count": 93331,
+    "unigram_w1": 326063,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "album",
+    "w2": "on",
+    "pmi": -0.5818448283164862,
+    "cooc_count": 46777,
+    "unigram_w1": 143665,
+    "unigram_w2": 13651680
+  },
+  {
+    "w1": "album",
+    "w2": "love",
+    "pmi": 0.1714605611231605,
+    "cooc_count": 7673,
+    "unigram_w1": 143665,
+    "unigram_w2": 1054296
+  },
+  {
+    "w1": "album",
+    "w2": "for",
+    "pmi": -1.102851559460338,
+    "cooc_count": 41502,
+    "unigram_w1": 143665,
+    "unigram_w2": 20393563
+  },
+  {
+    "w1": "album",
+    "w2": "name",
+    "pmi": -0.34704066944542633,
+    "cooc_count": 3702,
+    "unigram_w1": 143665,
+    "unigram_w2": 854311
+  },
+  {
+    "w1": "album",
+    "w2": "what",
+    "pmi": -0.7761687712354799,
+    "cooc_count": 9177,
+    "unigram_w1": 143665,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "album",
+    "w2": "s",
+    "pmi": -0.5207459540350751,
+    "cooc_count": 45475,
+    "unigram_w1": 143665,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "love",
+    "w2": "on",
+    "pmi": -0.8507432210624216,
+    "cooc_count": 262339,
+    "unigram_w1": 1054296,
+    "unigram_w2": 13651680
+  },
+  {
+    "w1": "for",
+    "w2": "on",
+    "pmi": -0.8818866405759426,
+    "cooc_count": 4918900,
+    "unigram_w1": 20393563,
+    "unigram_w2": 13651680
+  },
+  {
+    "w1": "name",
+    "w2": "on",
+    "pmi": -1.0307220775989663,
+    "cooc_count": 177563,
+    "unigram_w1": 854311,
+    "unigram_w2": 13651680
+  },
+  {
+    "w1": "on",
+    "w2": "what",
+    "pmi": -0.6571966417040899,
+    "cooc_count": 982211,
+    "unigram_w1": 13651680,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "on",
+    "w2": "s",
+    "pmi": -0.8339169604993407,
+    "cooc_count": 3159362,
+    "unigram_w1": 13651680,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": -0.8134748370718807,
+    "cooc_count": 406776,
+    "unigram_w1": 20393563,
+    "unigram_w2": 1054296
+  },
+  {
+    "w1": "love",
+    "w2": "name",
+    "pmi": -0.8394748058199857,
+    "cooc_count": 16603,
+    "unigram_w1": 1054296,
+    "unigram_w2": 854311
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": -0.23580829122522975,
+    "cooc_count": 115608,
+    "unigram_w1": 1054296,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": -0.7024180145526565,
+    "cooc_count": 278282,
+    "unigram_w1": 1054296,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "for",
+    "w2": "name",
+    "pmi": -1.1179025983379136,
+    "cooc_count": 243107,
+    "unigram_w1": 20393563,
+    "unigram_w2": 854311
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": -0.8146087557787677,
+    "cooc_count": 1253570,
+    "unigram_w1": 20393563,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": -1.0036521722593112,
+    "cooc_count": 3982826,
+    "unigram_w1": 20393563,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": -1.0053129497854192,
+    "cooc_count": 43396,
+    "unigram_w1": 854311,
+    "unigram_w2": 3252732
+  },
+  {
+    "w1": "name",
+    "w2": "s",
+    "pmi": -0.8742958820240745,
+    "cooc_count": 189886,
+    "unigram_w1": 854311,
+    "unigram_w2": 12485086
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": -0.5675044453030437,
+    "cooc_count": 982569,
+    "unigram_w1": 12485086,
+    "unigram_w2": 3252732
+  }
+]

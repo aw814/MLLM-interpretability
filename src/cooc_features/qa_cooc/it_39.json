@@ -1,0 +1,818 @@
+[
+  {
+    "w1": "da",
+    "w2": "decennio",
+    "pmi": -0.5050752142545767,
+    "cooc_count": 8272,
+    "unigram_w1": 13261659,
+    "unigram_w2": 23100
+  },
+  {
+    "w1": "anni",
+    "w2": "decennio",
+    "pmi": 0.7673839680474082,
+    "cooc_count": 4706,
+    "unigram_w1": 2113573,
+    "unigram_w2": 23100
+  },
+  {
+    "w1": "2000",
+    "w2": "decennio",
+    "pmi": 0.6621453978887536,
+    "cooc_count": 312,
+    "unigram_w1": 155677,
+    "unigram_w2": 23100
+  },
+  {
+    "w1": "decennio",
+    "w2": "per",
+    "pmi": -0.7054483691702618,
+    "cooc_count": 11988,
+    "unigram_w1": 23100,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "decennio",
+    "w2": "game",
+    "pmi": -2.02769916654488,
+    "cooc_count": 9,
+    "unigram_w1": 23100,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "decennio",
+    "w2": "statistiche",
+    "pmi": 0.04134417349691557,
+    "cooc_count": 53,
+    "unigram_w1": 23100,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "decennio",
+    "w2": "singola",
+    "pmi": -0.06219184053748273,
+    "cooc_count": 77,
+    "unigram_w1": 23100,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "carriera",
+    "w2": "decennio",
+    "pmi": -0.052043388514358135,
+    "cooc_count": 100,
+    "unigram_w1": 101915,
+    "unigram_w2": 23100
+  },
+  {
+    "w1": "decennio",
+    "w2": "hanno",
+    "pmi": 0.1393607742383676,
+    "cooc_count": 2420,
+    "unigram_w1": 23100,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "decennio",
+    "w2": "iniziato",
+    "pmi": 0.09786227183531872,
+    "cooc_count": 161,
+    "unigram_w1": 23100,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "a",
+    "w2": "decennio",
+    "pmi": -0.7876022310756435,
+    "cooc_count": 11781,
+    "unigram_w1": 25053558,
+    "unigram_w2": 23100
+  },
+  {
+    "w1": "bowl",
+    "w2": "decennio",
+    "pmi": 1.772237993666003,
+    "cooc_count": 26,
+    "unigram_w1": 4275,
+    "unigram_w2": 23100
+  },
+  {
+    "w1": "decennio",
+    "w2": "stagione",
+    "pmi": -0.28760994780810384,
+    "cooc_count": 247,
+    "unigram_w1": 23100,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "anni",
+    "w2": "da",
+    "pmi": -0.5735049184941149,
+    "cooc_count": 706801,
+    "unigram_w1": 2113573,
+    "unigram_w2": 13261659
+  },
+  {
+    "w1": "2000",
+    "w2": "da",
+    "pmi": -0.9055158047782392,
+    "cooc_count": 37352,
+    "unigram_w1": 155677,
+    "unigram_w2": 13261659
+  },
+  {
+    "w1": "da",
+    "w2": "per",
+    "pmi": -1.0235532701444048,
+    "cooc_count": 5007044,
+    "unigram_w1": 13261659,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "da",
+    "w2": "game",
+    "pmi": -0.7212751408590409,
+    "cooc_count": 19081,
+    "unigram_w1": 13261659,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "da",
+    "w2": "statistiche",
+    "pmi": -0.8773216958731105,
+    "cooc_count": 12142,
+    "unigram_w1": 13261659,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "da",
+    "w2": "singola",
+    "pmi": -0.49275185426643414,
+    "cooc_count": 28740,
+    "unigram_w1": 13261659,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "carriera",
+    "w2": "da",
+    "pmi": -0.6662084545992297,
+    "cooc_count": 31064,
+    "unigram_w1": 101915,
+    "unigram_w2": 13261659
+  },
+  {
+    "w1": "da",
+    "w2": "hanno",
+    "pmi": -0.7887784399188162,
+    "cooc_count": 549181,
+    "unigram_w1": 13261659,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "da",
+    "w2": "iniziato",
+    "pmi": -0.6010762433921328,
+    "cooc_count": 45948,
+    "unigram_w1": 13261659,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "contare",
+    "w2": "da",
+    "pmi": -0.6288501415265549,
+    "cooc_count": 14629,
+    "unigram_w1": 46235,
+    "unigram_w2": 13261659
+  },
+  {
+    "w1": "a",
+    "w2": "da",
+    "pmi": -1.0112964802635538,
+    "cooc_count": 5407778,
+    "unigram_w1": 25053558,
+    "unigram_w2": 13261659
+  },
+  {
+    "w1": "bowl",
+    "w2": "da",
+    "pmi": -0.8916823037283442,
+    "cooc_count": 1040,
+    "unigram_w1": 4275,
+    "unigram_w2": 13261659
+  },
+  {
+    "w1": "da",
+    "w2": "stagione",
+    "pmi": -0.724251288152185,
+    "cooc_count": 91633,
+    "unigram_w1": 13261659,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "2000",
+    "w2": "anni",
+    "pmi": 0.10842491210902543,
+    "cooc_count": 16409,
+    "unigram_w1": 155677,
+    "unigram_w2": 2113573
+  },
+  {
+    "w1": "anni",
+    "w2": "per",
+    "pmi": -0.7987901758935019,
+    "cooc_count": 999112,
+    "unigram_w1": 2113573,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "anni",
+    "w2": "game",
+    "pmi": -1.1723306222194994,
+    "cooc_count": 1937,
+    "unigram_w1": 2113573,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "anni",
+    "w2": "statistiche",
+    "pmi": -0.5655803671963132,
+    "cooc_count": 2643,
+    "unigram_w1": 2113573,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "anni",
+    "w2": "singola",
+    "pmi": -0.8668246623792883,
+    "cooc_count": 3151,
+    "unigram_w1": 2113573,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "anni",
+    "w2": "carriera",
+    "pmi": 0.7146039591571607,
+    "cooc_count": 19695,
+    "unigram_w1": 2113573,
+    "unigram_w2": 101915
+  },
+  {
+    "w1": "anni",
+    "w2": "hanno",
+    "pmi": -0.22067056321012604,
+    "cooc_count": 154476,
+    "unigram_w1": 2113573,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "anni",
+    "w2": "iniziato",
+    "pmi": 0.32205318060163307,
+    "cooc_count": 18433,
+    "unigram_w1": 2113573,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "anni",
+    "w2": "contare",
+    "pmi": -0.16864890998256846,
+    "cooc_count": 3694,
+    "unigram_w1": 2113573,
+    "unigram_w2": 46235
+  },
+  {
+    "w1": "a",
+    "w2": "anni",
+    "pmi": -0.7983940804863732,
+    "cooc_count": 1066352,
+    "unigram_w1": 25053558,
+    "unigram_w2": 2113573
+  },
+  {
+    "w1": "anni",
+    "w2": "bowl",
+    "pmi": -0.8488694916030963,
+    "cooc_count": 173,
+    "unigram_w1": 2113573,
+    "unigram_w2": 4275
+  },
+  {
+    "w1": "anni",
+    "w2": "stagione",
+    "pmi": -0.5796530529372478,
+    "cooc_count": 16876,
+    "unigram_w1": 2113573,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "2000",
+    "w2": "per",
+    "pmi": -0.9588481122104818,
+    "cooc_count": 62706,
+    "unigram_w1": 155677,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "2000",
+    "w2": "game",
+    "pmi": -0.5418874937964675,
+    "cooc_count": 268,
+    "unigram_w1": 155677,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "2000",
+    "w2": "statistiche",
+    "pmi": -0.8464658837026952,
+    "cooc_count": 147,
+    "unigram_w1": 155677,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "2000",
+    "w2": "singola",
+    "pmi": -0.7379988896710756,
+    "cooc_count": 264,
+    "unigram_w1": 155677,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "2000",
+    "w2": "carriera",
+    "pmi": 0.05090088020414282,
+    "cooc_count": 747,
+    "unigram_w1": 155677,
+    "unigram_w2": 101915
+  },
+  {
+    "w1": "2000",
+    "w2": "hanno",
+    "pmi": -0.9960359980235017,
+    "cooc_count": 5240,
+    "unigram_w1": 155677,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "2000",
+    "w2": "iniziato",
+    "pmi": -0.1944585759088849,
+    "cooc_count": 810,
+    "unigram_w1": 155677,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "2000",
+    "w2": "contare",
+    "pmi": -0.5818054085323724,
+    "cooc_count": 180,
+    "unigram_w1": 155677,
+    "unigram_w2": 46235
+  },
+  {
+    "w1": "2000",
+    "w2": "a",
+    "pmi": -0.9172383069828912,
+    "cooc_count": 69742,
+    "unigram_w1": 155677,
+    "unigram_w2": 25053558
+  },
+  {
+    "w1": "2000",
+    "w2": "bowl",
+    "pmi": -0.6857590736794941,
+    "cooc_count": 15,
+    "unigram_w1": 155677,
+    "unigram_w2": 4275
+  },
+  {
+    "w1": "2000",
+    "w2": "stagione",
+    "pmi": -0.44865177517162547,
+    "cooc_count": 1417,
+    "unigram_w1": 155677,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "game",
+    "w2": "per",
+    "pmi": -0.9658504294371204,
+    "cooc_count": 26457,
+    "unigram_w1": 66145,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "per",
+    "w2": "statistiche",
+    "pmi": -0.6408555715646607,
+    "cooc_count": 27236,
+    "unigram_w1": 23483078,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "per",
+    "w2": "singola",
+    "pmi": -0.7995181215759134,
+    "cooc_count": 37447,
+    "unigram_w1": 23483078,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "carriera",
+    "w2": "per",
+    "pmi": -0.7817999200284305,
+    "cooc_count": 49002,
+    "unigram_w1": 101915,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "hanno",
+    "w2": "per",
+    "pmi": -0.8080034862478068,
+    "cooc_count": 953945,
+    "unigram_w1": 2036703,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "iniziato",
+    "w2": "per",
+    "pmi": -0.9170936094509615,
+    "cooc_count": 59317,
+    "unigram_w1": 141241,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "contare",
+    "w2": "per",
+    "pmi": -0.5794906962403689,
+    "cooc_count": 27215,
+    "unigram_w1": 46235,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "a",
+    "w2": "per",
+    "pmi": -1.1124430855208511,
+    "cooc_count": 8654632,
+    "unigram_w1": 25053558,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "bowl",
+    "w2": "per",
+    "pmi": -0.9240086646046504,
+    "cooc_count": 1783,
+    "unigram_w1": 4275,
+    "unigram_w2": 23483078
+  },
+  {
+    "w1": "per",
+    "w2": "stagione",
+    "pmi": -0.6824765958436878,
+    "cooc_count": 169181,
+    "unigram_w1": 23483078,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "game",
+    "w2": "statistiche",
+    "pmi": -0.7468579198445423,
+    "cooc_count": 69,
+    "unigram_w1": 66145,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "game",
+    "w2": "singola",
+    "pmi": -0.45406764083230294,
+    "cooc_count": 149,
+    "unigram_w1": 66145,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "carriera",
+    "w2": "game",
+    "pmi": -0.16405281440948222,
+    "cooc_count": 256,
+    "unigram_w1": 101915,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "game",
+    "w2": "hanno",
+    "pmi": -0.7732533568155715,
+    "cooc_count": 2782,
+    "unigram_w1": 66145,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "game",
+    "w2": "iniziato",
+    "pmi": -0.804450160681153,
+    "cooc_count": 187,
+    "unigram_w1": 66145,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "contare",
+    "w2": "game",
+    "pmi": 0.4471478016388985,
+    "cooc_count": 214,
+    "unigram_w1": 46235,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "a",
+    "w2": "game",
+    "pmi": -1.0047667664371298,
+    "cooc_count": 27149,
+    "unigram_w1": 25053558,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "bowl",
+    "w2": "game",
+    "pmi": 2.241248264369455,
+    "cooc_count": 119,
+    "unigram_w1": 4275,
+    "unigram_w2": 66145
+  },
+  {
+    "w1": "game",
+    "w2": "stagione",
+    "pmi": 0.6995410103471968,
+    "cooc_count": 1898,
+    "unigram_w1": 66145,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "singola",
+    "w2": "statistiche",
+    "pmi": -0.5176470438104968,
+    "cooc_count": 104,
+    "unigram_w1": 79275,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "carriera",
+    "w2": "statistiche",
+    "pmi": 0.6174310051981112,
+    "cooc_count": 416,
+    "unigram_w1": 101915,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "hanno",
+    "w2": "statistiche",
+    "pmi": -0.34388076456226446,
+    "cooc_count": 3179,
+    "unigram_w1": 2036703,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "iniziato",
+    "w2": "statistiche",
+    "pmi": -0.6397163458856486,
+    "cooc_count": 164,
+    "unigram_w1": 141241,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "contare",
+    "w2": "statistiche",
+    "pmi": 0.2599497130293107,
+    "cooc_count": 132,
+    "unigram_w1": 46235,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "a",
+    "w2": "statistiche",
+    "pmi": -0.941148240606745,
+    "cooc_count": 21520,
+    "unigram_w1": 25053558,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "stagione",
+    "w2": "statistiche",
+    "pmi": -0.05626397481092108,
+    "cooc_count": 663,
+    "unigram_w1": 318596,
+    "unigram_w2": 49199
+  },
+  {
+    "w1": "carriera",
+    "w2": "singola",
+    "pmi": -1.939060058817685,
+    "cooc_count": 52,
+    "unigram_w1": 101915,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "hanno",
+    "w2": "singola",
+    "pmi": -1.1179882510517198,
+    "cooc_count": 2362,
+    "unigram_w1": 2036703,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "iniziato",
+    "w2": "singola",
+    "pmi": -1.1477280938255758,
+    "cooc_count": 159,
+    "unigram_w1": 141241,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "contare",
+    "w2": "singola",
+    "pmi": -0.2557146454344294,
+    "cooc_count": 127,
+    "unigram_w1": 46235,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "a",
+    "w2": "singola",
+    "pmi": -0.7743159988718917,
+    "cooc_count": 40971,
+    "unigram_w1": 25053558,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "bowl",
+    "w2": "singola",
+    "pmi": 0.5391477907693399,
+    "cooc_count": 26,
+    "unigram_w1": 4275,
+    "unigram_w2": 79275
+  },
+  {
+    "w1": "singola",
+    "w2": "stagione",
+    "pmi": -1.0978432998847332,
+    "cooc_count": 377,
+    "unigram_w1": 79275,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "carriera",
+    "w2": "hanno",
+    "pmi": -0.3757019356783548,
+    "cooc_count": 6379,
+    "unigram_w1": 101915,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "carriera",
+    "w2": "iniziato",
+    "pmi": 1.6710081425392358,
+    "cooc_count": 3425,
+    "unigram_w1": 101915,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "carriera",
+    "w2": "contare",
+    "pmi": -0.04781313594522767,
+    "cooc_count": 201,
+    "unigram_w1": 101915,
+    "unigram_w2": 46235
+  },
+  {
+    "w1": "a",
+    "w2": "carriera",
+    "pmi": -0.7171069290313818,
+    "cooc_count": 55773,
+    "unigram_w1": 25053558,
+    "unigram_w2": 101915
+  },
+  {
+    "w1": "bowl",
+    "w2": "carriera",
+    "pmi": 0.6133538790926851,
+    "cooc_count": 36,
+    "unigram_w1": 4275,
+    "unigram_w2": 101915
+  },
+  {
+    "w1": "carriera",
+    "w2": "stagione",
+    "pmi": 0.8437342979237188,
+    "cooc_count": 3378,
+    "unigram_w1": 101915,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "hanno",
+    "w2": "iniziato",
+    "pmi": 0.4737867014583126,
+    "cooc_count": 20673,
+    "unigram_w1": 2036703,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "contare",
+    "w2": "hanno",
+    "pmi": -0.21748131403972246,
+    "cooc_count": 3390,
+    "unigram_w1": 46235,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "a",
+    "w2": "hanno",
+    "pmi": -0.8088361348768,
+    "cooc_count": 1016895,
+    "unigram_w1": 25053558,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "bowl",
+    "w2": "hanno",
+    "pmi": -2.4993776269736134,
+    "cooc_count": 32,
+    "unigram_w1": 4275,
+    "unigram_w2": 2036703
+  },
+  {
+    "w1": "hanno",
+    "w2": "stagione",
+    "pmi": -0.45777909164477026,
+    "cooc_count": 18370,
+    "unigram_w1": 2036703,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "contare",
+    "w2": "iniziato",
+    "pmi": -0.3841417379265059,
+    "cooc_count": 199,
+    "unigram_w1": 46235,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "a",
+    "w2": "iniziato",
+    "pmi": -0.5656381418143323,
+    "cooc_count": 89935,
+    "unigram_w1": 25053558,
+    "unigram_w2": 141241
+  },
+  {
+    "w1": "iniziato",
+    "w2": "stagione",
+    "pmi": 0.00024475518778589695,
+    "cooc_count": 2014,
+    "unigram_w1": 141241,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "a",
+    "w2": "contare",
+    "pmi": -0.6496425464715007,
+    "cooc_count": 27068,
+    "unigram_w1": 25053558,
+    "unigram_w2": 46235
+  },
+  {
+    "w1": "bowl",
+    "w2": "contare",
+    "pmi": 0.6534503301988829,
+    "cooc_count": 17,
+    "unigram_w1": 4275,
+    "unigram_w2": 46235
+  },
+  {
+    "w1": "contare",
+    "w2": "stagione",
+    "pmi": 0.08973638334701424,
+    "cooc_count": 721,
+    "unigram_w1": 46235,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "a",
+    "w2": "bowl",
+    "pmi": -0.8986997185596272,
+    "cooc_count": 1951,
+    "unigram_w1": 25053558,
+    "unigram_w2": 4275
+  },
+  {
+    "w1": "a",
+    "w2": "stagione",
+    "pmi": -0.7997380561797536,
+    "cooc_count": 160524,
+    "unigram_w1": 25053558,
+    "unigram_w2": 318596
+  },
+  {
+    "w1": "bowl",
+    "w2": "stagione",
+    "pmi": 1.3410886842686442,
+    "cooc_count": 233,
+    "unigram_w1": 4275,
+    "unigram_w2": 318596
+  }
+]

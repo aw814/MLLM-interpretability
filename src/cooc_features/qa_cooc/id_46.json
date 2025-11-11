@@ -1,0 +1,186 @@
+[
+  {
+    "w1": "apa",
+    "w2": "keagamaan",
+    "pmi": -1.8589307201160246,
+    "cooc_count": 897,
+    "unigram_w1": 1190133,
+    "unigram_w2": 12121
+  },
+  {
+    "w1": "apa",
+    "w2": "praktik",
+    "pmi": -1.8755601621552078,
+    "cooc_count": 2644,
+    "unigram_w1": 1190133,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "animisme",
+    "w2": "apa",
+    "pmi": -2.2757167038486714,
+    "cooc_count": 6,
+    "unigram_w1": 123,
+    "unigram_w2": 1190133
+  },
+  {
+    "w1": "apa",
+    "w2": "dianut",
+    "pmi": -1.7556157315196361,
+    "cooc_count": 236,
+    "unigram_w1": 1190133,
+    "unigram_w2": 2876
+  },
+  {
+    "w1": "apa",
+    "w2": "orang",
+    "pmi": -1.5930303483424555,
+    "cooc_count": 263118,
+    "unigram_w1": 1190133,
+    "unigram_w2": 2725320
+  },
+  {
+    "w1": "apa",
+    "w2": "oleh",
+    "pmi": -1.0766692440991177,
+    "cooc_count": 321181,
+    "unigram_w1": 1190133,
+    "unigram_w2": 1985016
+  },
+  {
+    "w1": "perdukunan",
+    "w2": "praktik",
+    "pmi": 3.0311314658827397,
+    "cooc_count": 88,
+    "unigram_w1": 293,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "orang",
+    "w2": "perdukunan",
+    "pmi": -0.4409752344122219,
+    "cooc_count": 205,
+    "unigram_w1": 2725320,
+    "unigram_w2": 293
+  },
+  {
+    "w1": "oleh",
+    "w2": "perdukunan",
+    "pmi": -1.4396931504648631,
+    "cooc_count": 55,
+    "unigram_w1": 1985016,
+    "unigram_w2": 293
+  },
+  {
+    "w1": "keagamaan",
+    "w2": "praktik",
+    "pmi": 0.7201504542839693,
+    "cooc_count": 361,
+    "unigram_w1": 12121,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "animisme",
+    "w2": "keagamaan",
+    "pmi": 3.9851405888008733,
+    "cooc_count": 32,
+    "unigram_w1": 123,
+    "unigram_w2": 12121
+  },
+  {
+    "w1": "dianut",
+    "w2": "keagamaan",
+    "pmi": 1.5418205924282642,
+    "cooc_count": 65,
+    "unigram_w1": 2876,
+    "unigram_w2": 12121
+  },
+  {
+    "w1": "keagamaan",
+    "w2": "orang",
+    "pmi": -1.503749666992962,
+    "cooc_count": 2930,
+    "unigram_w1": 12121,
+    "unigram_w2": 2725320
+  },
+  {
+    "w1": "keagamaan",
+    "w2": "oleh",
+    "pmi": -0.8264706199813966,
+    "cooc_count": 4201,
+    "unigram_w1": 12121,
+    "unigram_w2": 1985016
+  },
+  {
+    "w1": "animisme",
+    "w2": "praktik",
+    "pmi": 2.8875188078489096,
+    "cooc_count": 32,
+    "unigram_w1": 123,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "dianut",
+    "w2": "praktik",
+    "pmi": -0.11927054577511256,
+    "cooc_count": 37,
+    "unigram_w1": 2876,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "orang",
+    "w2": "praktik",
+    "pmi": -1.9320554763459834,
+    "cooc_count": 5722,
+    "unigram_w1": 2725320,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "oleh",
+    "w2": "praktik",
+    "pmi": -0.9071176268982333,
+    "cooc_count": 11615,
+    "unigram_w1": 1985016,
+    "unigram_w2": 36327
+  },
+  {
+    "w1": "animisme",
+    "w2": "orang",
+    "pmi": -1.8514745221825575,
+    "cooc_count": 21,
+    "unigram_w1": 123,
+    "unigram_w2": 2725320
+  },
+  {
+    "w1": "animisme",
+    "w2": "oleh",
+    "pmi": -0.5015006381469648,
+    "cooc_count": 59,
+    "unigram_w1": 123,
+    "unigram_w2": 1985016
+  },
+  {
+    "w1": "dianut",
+    "w2": "orang",
+    "pmi": -1.6279733952273578,
+    "cooc_count": 614,
+    "unigram_w1": 2876,
+    "unigram_w2": 2725320
+  },
+  {
+    "w1": "dianut",
+    "w2": "oleh",
+    "pmi": -0.016778300672118586,
+    "cooc_count": 2240,
+    "unigram_w1": 2876,
+    "unigram_w2": 1985016
+  },
+  {
+    "w1": "oleh",
+    "w2": "orang",
+    "pmi": -1.3773507911025533,
+    "cooc_count": 544487,
+    "unigram_w1": 1985016,
+    "unigram_w2": 2725320
+  }
+]

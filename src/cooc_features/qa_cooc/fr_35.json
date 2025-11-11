@@ -1,0 +1,426 @@
+[
+  {
+    "w1": "mouse",
+    "w2": "sorti",
+    "pmi": -0.7156714282126255,
+    "cooc_count": 15,
+    "unigram_w1": 3231,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "est",
+    "w2": "mouse",
+    "pmi": -1.975768974214694,
+    "cooc_count": 896,
+    "unigram_w1": 10891896,
+    "unigram_w2": 3231
+  },
+  {
+    "w1": "lorsque",
+    "w2": "mouse",
+    "pmi": -0.691462098864632,
+    "cooc_count": 84,
+    "unigram_w1": 282688,
+    "unigram_w2": 3231
+  },
+  {
+    "w1": "mouse",
+    "w2": "nom",
+    "pmi": -2.9452464473854714,
+    "cooc_count": 11,
+    "unigram_w1": 3231,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "little",
+    "w2": "mouse",
+    "pmi": -0.6432264560386762,
+    "cooc_count": 7,
+    "unigram_w1": 22448,
+    "unigram_w2": 3231
+  },
+  {
+    "w1": "mouse",
+    "w2": "était",
+    "pmi": -1.7152392026032262,
+    "cooc_count": 95,
+    "unigram_w1": 3231,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "head",
+    "w2": "label",
+    "pmi": 0.3674010941623576,
+    "cooc_count": 223,
+    "unigram_w1": 12551,
+    "unigram_w2": 67009
+  },
+  {
+    "w1": "label",
+    "w2": "sorti",
+    "pmi": 0.21754108656725046,
+    "cooc_count": 791,
+    "unigram_w1": 67009,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "est",
+    "w2": "label",
+    "pmi": -1.9695727938239314,
+    "cooc_count": 18698,
+    "unigram_w1": 10891896,
+    "unigram_w2": 67009
+  },
+  {
+    "w1": "label",
+    "w2": "lorsque",
+    "pmi": -4.076776705687794,
+    "cooc_count": 59,
+    "unigram_w1": 67009,
+    "unigram_w2": 282688
+  },
+  {
+    "w1": "label",
+    "w2": "nom",
+    "pmi": -1.5421452392832093,
+    "cooc_count": 928,
+    "unigram_w1": 67009,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "label",
+    "w2": "little",
+    "pmi": -0.08778236825203703,
+    "cooc_count": 253,
+    "unigram_w1": 67009,
+    "unigram_w2": 22448
+  },
+  {
+    "w1": "label",
+    "w2": "était",
+    "pmi": -2.6078276778193863,
+    "cooc_count": 807,
+    "unigram_w1": 67009,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "hungry",
+    "w2": "label",
+    "pmi": 1.5304027056912188,
+    "cooc_count": 22,
+    "unigram_w1": 387,
+    "unigram_w2": 67009
+  },
+  {
+    "w1": "head",
+    "w2": "sorti",
+    "pmi": -0.9520888896616887,
+    "cooc_count": 46,
+    "unigram_w1": 12551,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "est",
+    "w2": "head",
+    "pmi": -2.009534801946744,
+    "cooc_count": 3365,
+    "unigram_w1": 10891896,
+    "unigram_w2": 12551
+  },
+  {
+    "w1": "head",
+    "w2": "lorsque",
+    "pmi": -1.725697363437529,
+    "cooc_count": 116,
+    "unigram_w1": 12551,
+    "unigram_w2": 282688
+  },
+  {
+    "w1": "head",
+    "w2": "nom",
+    "pmi": -1.650294369770253,
+    "cooc_count": 156,
+    "unigram_w1": 12551,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "head",
+    "w2": "little",
+    "pmi": 2.336121484966069,
+    "cooc_count": 535,
+    "unigram_w1": 12551,
+    "unigram_w2": 22448
+  },
+  {
+    "w1": "head",
+    "w2": "était",
+    "pmi": -1.8453812352473857,
+    "cooc_count": 324,
+    "unigram_w1": 12551,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "head",
+    "w2": "pretty",
+    "pmi": 0.2675092494842153,
+    "cooc_count": 18,
+    "unigram_w1": 12551,
+    "unigram_w2": 5977
+  },
+  {
+    "w1": "est",
+    "w2": "sorti",
+    "pmi": -0.8752171769302128,
+    "cooc_count": 43109,
+    "unigram_w1": 10891896,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "lorsque",
+    "w2": "sorti",
+    "pmi": -1.5100793594488102,
+    "cooc_count": 593,
+    "unigram_w1": 282688,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "nom",
+    "w2": "sorti",
+    "pmi": -0.5157342464220321,
+    "cooc_count": 1999,
+    "unigram_w1": 352555,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "little",
+    "w2": "sorti",
+    "pmi": -0.9313146669892659,
+    "cooc_count": 84,
+    "unigram_w1": 22448,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "sorti",
+    "w2": "était",
+    "pmi": -0.16361355120372523,
+    "cooc_count": 7176,
+    "unigram_w1": 51717,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "hungry",
+    "w2": "sorti",
+    "pmi": 2.309318556124105,
+    "cooc_count": 37,
+    "unigram_w1": 387,
+    "unigram_w2": 51717
+  },
+  {
+    "w1": "est",
+    "w2": "nellie",
+    "pmi": -1.2625153845784074,
+    "cooc_count": 219,
+    "unigram_w1": 10891896,
+    "unigram_w2": 387
+  },
+  {
+    "w1": "lorsque",
+    "w2": "nellie",
+    "pmi": 0.5262038997029321,
+    "cooc_count": 34,
+    "unigram_w1": 282688,
+    "unigram_w2": 387
+  },
+  {
+    "w1": "nellie",
+    "w2": "nom",
+    "pmi": -1.0237948700529063,
+    "cooc_count": 9,
+    "unigram_w1": 387,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "nellie",
+    "w2": "était",
+    "pmi": -0.5634748829529407,
+    "cooc_count": 36,
+    "unigram_w1": 387,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "est",
+    "w2": "lorsque",
+    "pmi": -0.8630404956017492,
+    "cooc_count": 238523,
+    "unigram_w1": 10891896,
+    "unigram_w2": 282688
+  },
+  {
+    "w1": "est",
+    "w2": "mckay",
+    "pmi": -1.73282878594189,
+    "cooc_count": 1054,
+    "unigram_w1": 10891896,
+    "unigram_w2": 2981
+  },
+  {
+    "w1": "est",
+    "w2": "nom",
+    "pmi": -1.1207985759735912,
+    "cooc_count": 229883,
+    "unigram_w1": 10891896,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "est",
+    "w2": "little",
+    "pmi": -1.7149720721922275,
+    "cooc_count": 8080,
+    "unigram_w1": 10891896,
+    "unigram_w2": 22448
+  },
+  {
+    "w1": "est",
+    "w2": "était",
+    "pmi": -1.2474612548708173,
+    "cooc_count": 511262,
+    "unigram_w1": 10891896,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "est",
+    "w2": "hungry",
+    "pmi": -2.608535846560358,
+    "cooc_count": 57,
+    "unigram_w1": 10891896,
+    "unigram_w2": 387
+  },
+  {
+    "w1": "est",
+    "w2": "pretty",
+    "pmi": -1.7700940925189672,
+    "cooc_count": 2036,
+    "unigram_w1": 10891896,
+    "unigram_w2": 5977
+  },
+  {
+    "w1": "lorsque",
+    "w2": "nom",
+    "pmi": -0.9901630277890825,
+    "cooc_count": 6799,
+    "unigram_w1": 282688,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "little",
+    "w2": "lorsque",
+    "pmi": -2.1119288438475214,
+    "cooc_count": 141,
+    "unigram_w1": 22448,
+    "unigram_w2": 282688
+  },
+  {
+    "w1": "lorsque",
+    "w2": "était",
+    "pmi": -0.7486662572686004,
+    "cooc_count": 21851,
+    "unigram_w1": 282688,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "lorsque",
+    "w2": "pretty",
+    "pmi": -3.172456623246165,
+    "cooc_count": 13,
+    "unigram_w1": 282688,
+    "unigram_w2": 5977
+  },
+  {
+    "w1": "mckay",
+    "w2": "nom",
+    "pmi": -4.163996559369306,
+    "cooc_count": 3,
+    "unigram_w1": 2981,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "mckay",
+    "w2": "était",
+    "pmi": -0.9574746052027536,
+    "cooc_count": 187,
+    "unigram_w1": 2981,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "little",
+    "w2": "nom",
+    "pmi": -1.2436806367794484,
+    "cooc_count": 419,
+    "unigram_w1": 22448,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "nom",
+    "w2": "était",
+    "pmi": -0.8786428649089447,
+    "cooc_count": 23930,
+    "unigram_w1": 352555,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "hungry",
+    "w2": "nom",
+    "pmi": 0.33432861410028786,
+    "cooc_count": 35,
+    "unigram_w1": 387,
+    "unigram_w2": 352555
+  },
+  {
+    "w1": "nom",
+    "w2": "pretty",
+    "pmi": -1.4364802261345577,
+    "cooc_count": 92,
+    "unigram_w1": 352555,
+    "unigram_w2": 5977
+  },
+  {
+    "w1": "little",
+    "w2": "était",
+    "pmi": -1.827403393821746,
+    "cooc_count": 590,
+    "unigram_w1": 22448,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "hungry",
+    "w2": "little",
+    "pmi": 3.8637190079870583,
+    "cooc_count": 76,
+    "unigram_w1": 387,
+    "unigram_w2": 22448
+  },
+  {
+    "w1": "little",
+    "w2": "pretty",
+    "pmi": 4.359455980320621,
+    "cooc_count": 1927,
+    "unigram_w1": 22448,
+    "unigram_w2": 5977
+  },
+  {
+    "w1": "hungry",
+    "w2": "était",
+    "pmi": -1.2025548422426102,
+    "cooc_count": 19,
+    "unigram_w1": 387,
+    "unigram_w2": 889964
+  },
+  {
+    "w1": "pretty",
+    "w2": "était",
+    "pmi": -1.9497692440728314,
+    "cooc_count": 139,
+    "unigram_w1": 5977,
+    "unigram_w2": 889964
+  }
+]

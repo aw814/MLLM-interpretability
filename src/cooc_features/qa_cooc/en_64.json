@@ -1,0 +1,154 @@
+[
+  {
+    "w1": "did",
+    "w2": "harry",
+    "pmi": -2.36921745940162,
+    "cooc_count": 1010,
+    "unigram_w1": 143324,
+    "unigram_w2": 18719
+  },
+  {
+    "w1": "did",
+    "w2": "purchase",
+    "pmi": -2.5292699437350037,
+    "cooc_count": 3769,
+    "unigram_w1": 143324,
+    "unigram_w2": 81978
+  },
+  {
+    "w1": "did",
+    "w2": "sinclair",
+    "pmi": -1.216782397861451,
+    "cooc_count": 144,
+    "unigram_w1": 143324,
+    "unigram_w2": 843
+  },
+  {
+    "w1": "decade",
+    "w2": "did",
+    "pmi": -0.8812870037808321,
+    "cooc_count": 1072,
+    "unigram_w1": 4487,
+    "unigram_w2": 143324
+  },
+  {
+    "w1": "did",
+    "w2": "stable",
+    "pmi": -2.610006654695965,
+    "cooc_count": 566,
+    "unigram_w1": 143324,
+    "unigram_w2": 13346
+  },
+  {
+    "w1": "did",
+    "w2": "f",
+    "pmi": -3.8094569738342847,
+    "cooc_count": 4440,
+    "unigram_w1": 143324,
+    "unigram_w2": 347402
+  },
+  {
+    "w1": "harry",
+    "w2": "purchase",
+    "pmi": -4.103293372916788,
+    "cooc_count": 102,
+    "unigram_w1": 18719,
+    "unigram_w2": 81978
+  },
+  {
+    "w1": "decade",
+    "w2": "harry",
+    "pmi": -4.436705233490609,
+    "cooc_count": 4,
+    "unigram_w1": 4487,
+    "unigram_w2": 18719
+  },
+  {
+    "w1": "harry",
+    "w2": "stable",
+    "pmi": -3.329513043641958,
+    "cooc_count": 36,
+    "unigram_w1": 18719,
+    "unigram_w2": 13346
+  },
+  {
+    "w1": "f",
+    "w2": "harry",
+    "pmi": -3.4802141359528473,
+    "cooc_count": 806,
+    "unigram_w1": 347402,
+    "unigram_w2": 18719
+  },
+  {
+    "w1": "decade",
+    "w2": "purchase",
+    "pmi": -1.665121859206464,
+    "cooc_count": 280,
+    "unigram_w1": 4487,
+    "unigram_w2": 81978
+  },
+  {
+    "w1": "purchase",
+    "w2": "stable",
+    "pmi": -3.689463484070866,
+    "cooc_count": 110,
+    "unigram_w1": 81978,
+    "unigram_w2": 13346
+  },
+  {
+    "w1": "f",
+    "w2": "purchase",
+    "pmi": -4.5442442979548465,
+    "cooc_count": 1218,
+    "unigram_w1": 347402,
+    "unigram_w2": 81978
+  },
+  {
+    "w1": "1910s",
+    "w2": "decade",
+    "pmi": 3.781672439922076,
+    "cooc_count": 84,
+    "unigram_w1": 106,
+    "unigram_w2": 4487
+  },
+  {
+    "w1": "1910s",
+    "w2": "f",
+    "pmi": -0.5676258439269,
+    "cooc_count": 84,
+    "unigram_w1": 106,
+    "unigram_w2": 347402
+  },
+  {
+    "w1": "f",
+    "w2": "sinclair",
+    "pmi": -2.572160836329737,
+    "cooc_count": 90,
+    "unigram_w1": 347402,
+    "unigram_w2": 843
+  },
+  {
+    "w1": "decade",
+    "w2": "stable",
+    "pmi": -1.9881696968062423,
+    "cooc_count": 33,
+    "unigram_w1": 4487,
+    "unigram_w2": 13346
+  },
+  {
+    "w1": "decade",
+    "w2": "f",
+    "pmi": -3.187115092934592,
+    "cooc_count": 259,
+    "unigram_w1": 4487,
+    "unigram_w2": 347402
+  },
+  {
+    "w1": "f",
+    "w2": "stable",
+    "pmi": -3.666459051233357,
+    "cooc_count": 477,
+    "unigram_w1": 347402,
+    "unigram_w2": 13346
+  }
+]

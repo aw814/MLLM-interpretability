@@ -1,0 +1,122 @@
+[
+  {
+    "w1": "first",
+    "w2": "i",
+    "pmi": -1.6500443547902641,
+    "cooc_count": 536690,
+    "unigram_w1": 1193913,
+    "unigram_w2": 13600356
+  },
+  {
+    "w1": "first",
+    "w2": "who",
+    "pmi": -0.5529454933448872,
+    "cooc_count": 145638,
+    "unigram_w1": 1193913,
+    "unigram_w2": 1232076
+  },
+  {
+    "w1": "first",
+    "w2": "mayor",
+    "pmi": -0.4554362711785891,
+    "cooc_count": 3419,
+    "unigram_w1": 1193913,
+    "unigram_w2": 26237
+  },
+  {
+    "w1": "first",
+    "w2": "turkey",
+    "pmi": -1.4877080016788773,
+    "cooc_count": 2151,
+    "unigram_w1": 1193913,
+    "unigram_w2": 46341
+  },
+  {
+    "w1": "female",
+    "w2": "first",
+    "pmi": -0.43072460157830783,
+    "cooc_count": 8340,
+    "unigram_w1": 62438,
+    "unigram_w2": 1193913
+  },
+  {
+    "w1": "i",
+    "w2": "who",
+    "pmi": -1.5716911793875146,
+    "cooc_count": 598986,
+    "unigram_w1": 13600356,
+    "unigram_w2": 1232076
+  },
+  {
+    "w1": "i",
+    "w2": "mayor",
+    "pmi": -2.2897135371787987,
+    "cooc_count": 6221,
+    "unigram_w1": 13600356,
+    "unigram_w2": 26237
+  },
+  {
+    "w1": "i",
+    "w2": "turkey",
+    "pmi": -2.3238558234186897,
+    "cooc_count": 10619,
+    "unigram_w1": 13600356,
+    "unigram_w2": 46341
+  },
+  {
+    "w1": "female",
+    "w2": "i",
+    "pmi": -2.0693123023429294,
+    "cooc_count": 18455,
+    "unigram_w1": 62438,
+    "unigram_w2": 13600356
+  },
+  {
+    "w1": "mayor",
+    "w2": "who",
+    "pmi": 0.10506948610754394,
+    "cooc_count": 6180,
+    "unigram_w1": 26237,
+    "unigram_w2": 1232076
+  },
+  {
+    "w1": "turkey",
+    "w2": "who",
+    "pmi": -1.1702915874846547,
+    "cooc_count": 3049,
+    "unigram_w1": 46341,
+    "unigram_w2": 1232076
+  },
+  {
+    "w1": "female",
+    "w2": "who",
+    "pmi": -0.24781279161027217,
+    "cooc_count": 10334,
+    "unigram_w1": 62438,
+    "unigram_w2": 1232076
+  },
+  {
+    "w1": "mayor",
+    "w2": "turkey",
+    "pmi": -1.0395102390377386,
+    "cooc_count": 74,
+    "unigram_w1": 26237,
+    "unigram_w2": 46341
+  },
+  {
+    "w1": "female",
+    "w2": "mayor",
+    "pmi": -1.3376572050222315,
+    "cooc_count": 74,
+    "unigram_w1": 62438,
+    "unigram_w2": 26237
+  },
+  {
+    "w1": "female",
+    "w2": "turkey",
+    "pmi": -3.377365424298902,
+    "cooc_count": 17,
+    "unigram_w1": 62438,
+    "unigram_w2": 46341
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "w1": "hôpital",
+    "w2": "nom",
+    "pmi": -1.2759863904922693,
+    "cooc_count": 811,
+    "unigram_w1": 81089,
+    "unigram_w2": 558145
+  },
+  {
+    "w1": "b",
+    "w2": "hôpital",
+    "pmi": -1.363428549439299,
+    "cooc_count": 682,
+    "unigram_w1": 512255,
+    "unigram_w2": 81089
+  },
+  {
+    "w1": "d",
+    "w2": "hôpital",
+    "pmi": -0.962224871021147,
+    "cooc_count": 45710,
+    "unigram_w1": 22986482,
+    "unigram_w2": 81089
+  },
+  {
+    "w1": "est",
+    "w2": "hôpital",
+    "pmi": -0.9945643702747552,
+    "cooc_count": 30874,
+    "unigram_w1": 16036111,
+    "unigram_w2": 81089
+  },
+  {
+    "w1": "général",
+    "w2": "hôpital",
+    "pmi": 0.5566703065691009,
+    "cooc_count": 3029,
+    "unigram_w1": 333513,
+    "unigram_w2": 81089
+  },
+  {
+    "w1": "catégorie",
+    "w2": "hôpital",
+    "pmi": -0.20279910545117416,
+    "cooc_count": 740,
+    "unigram_w1": 174132,
+    "unigram_w2": 81089
+  },
+  {
+    "w1": "hôpital",
+    "w2": "origine",
+    "pmi": -0.9460701576542454,
+    "cooc_count": 604,
+    "unigram_w1": 81089,
+    "unigram_w2": 298870
+  },
+  {
+    "w1": "d",
+    "w2": "entebbe",
+    "pmi": -1.678125259127432,
+    "cooc_count": 81,
+    "unigram_w1": 22986482,
+    "unigram_w2": 294
+  },
+  {
+    "w1": "entebbe",
+    "w2": "est",
+    "pmi": -3.0734538968542173,
+    "cooc_count": 14,
+    "unigram_w1": 294,
+    "unigram_w2": 16036111
+  },
+  {
+    "w1": "b",
+    "w2": "nom",
+    "pmi": -1.1093856007261529,
+    "cooc_count": 6052,
+    "unigram_w1": 512255,
+    "unigram_w2": 558145
+  },
+  {
+    "w1": "d",
+    "w2": "nom",
+    "pmi": -1.0709229797581141,
+    "cooc_count": 282221,
+    "unigram_w1": 22986482,
+    "unigram_w2": 558145
+  },
+  {
+    "w1": "est",
+    "w2": "nom",
+    "pmi": -0.8620950286102025,
+    "cooc_count": 242610,
+    "unigram_w1": 16036111,
+    "unigram_w2": 558145
+  },
+  {
+    "w1": "général",
+    "w2": "nom",
+    "pmi": -0.6739856121058321,
+    "cooc_count": 6090,
+    "unigram_w1": 333513,
+    "unigram_w2": 558145
+  },
+  {
+    "w1": "catégorie",
+    "w2": "nom",
+    "pmi": -0.4641637532447363,
+    "cooc_count": 3922,
+    "unigram_w1": 174132,
+    "unigram_w2": 558145
+  },
+  {
+    "w1": "nom",
+    "w2": "origine",
+    "pmi": -0.1882857486370734,
+    "cooc_count": 8870,
+    "unigram_w1": 558145,
+    "unigram_w2": 298870
+  },
+  {
+    "w1": "b",
+    "w2": "d",
+    "pmi": -1.2975409953586314,
+    "cooc_count": 206495,
+    "unigram_w1": 512255,
+    "unigram_w2": 22986482
+  },
+  {
+    "w1": "b",
+    "w2": "est",
+    "pmi": -1.5836062958896033,
+    "cooc_count": 108218,
+    "unigram_w1": 512255,
+    "unigram_w2": 16036111
+  },
+  {
+    "w1": "b",
+    "w2": "général",
+    "pmi": -1.0714828951567001,
+    "cooc_count": 3756,
+    "unigram_w1": 512255,
+    "unigram_w2": 333513
+  },
+  {
+    "w1": "b",
+    "w2": "catégorie",
+    "pmi": 0.35513240068216895,
+    "cooc_count": 8167,
+    "unigram_w1": 512255,
+    "unigram_w2": 174132
+  },
+  {
+    "w1": "b",
+    "w2": "origine",
+    "pmi": -1.2768414903129917,
+    "cooc_count": 2741,
+    "unigram_w1": 512255,
+    "unigram_w2": 298870
+  },
+  {
+    "w1": "d",
+    "w2": "est",
+    "pmi": -1.1720060502167673,
+    "cooc_count": 7328946,
+    "unigram_w1": 22986482,
+    "unigram_w2": 16036111
+  },
+  {
+    "w1": "d",
+    "w2": "général",
+    "pmi": -0.881257723916463,
+    "cooc_count": 203857,
+    "unigram_w1": 22986482,
+    "unigram_w2": 333513
+  },
+  {
+    "w1": "catégorie",
+    "w2": "d",
+    "pmi": -0.9867230625551217,
+    "cooc_count": 95783,
+    "unigram_w1": 174132,
+    "unigram_w2": 22986482
+  },
+  {
+    "w1": "d",
+    "w2": "origine",
+    "pmi": -0.6611105229457521,
+    "cooc_count": 227669,
+    "unigram_w1": 22986482,
+    "unigram_w2": 298870
+  },
+  {
+    "w1": "est",
+    "w2": "général",
+    "pmi": -0.8813506578677628,
+    "cooc_count": 142204,
+    "unigram_w1": 16036111,
+    "unigram_w2": 333513
+  },
+  {
+    "w1": "catégorie",
+    "w2": "est",
+    "pmi": -1.0536105351974052,
+    "cooc_count": 62498,
+    "unigram_w1": 174132,
+    "unigram_w2": 16036111
+  },
+  {
+    "w1": "est",
+    "w2": "origine",
+    "pmi": -0.9482464670863743,
+    "cooc_count": 119187,
+    "unigram_w1": 16036111,
+    "unigram_w2": 298870
+  },
+  {
+    "w1": "catégorie",
+    "w2": "général",
+    "pmi": -0.3557123294551603,
+    "cooc_count": 2612,
+    "unigram_w1": 174132,
+    "unigram_w2": 333513
+  },
+  {
+    "w1": "général",
+    "w2": "origine",
+    "pmi": -1.205783925260347,
+    "cooc_count": 1916,
+    "unigram_w1": 333513,
+    "unigram_w2": 298870
+  },
+  {
+    "w1": "catégorie",
+    "w2": "origine",
+    "pmi": -1.1602264601118688,
+    "cooc_count": 1047,
+    "unigram_w1": 174132,
+    "unigram_w2": 298870
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "w1": "comprou",
+    "w2": "harry",
+    "pmi": -2.4115661412747764,
+    "cooc_count": 72,
+    "unigram_w1": 3759,
+    "unigram_w2": 14722
+  },
+  {
+    "w1": "1910",
+    "w2": "comprou",
+    "pmi": -1.0929182290034167,
+    "cooc_count": 23,
+    "unigram_w1": 1258,
+    "unigram_w2": 3759
+  },
+  {
+    "w1": "comprou",
+    "w2": "década",
+    "pmi": -1.9870629236923723,
+    "cooc_count": 86,
+    "unigram_w1": 3759,
+    "unigram_w2": 11502
+  },
+  {
+    "w1": "comprou",
+    "w2": "f",
+    "pmi": -5.0799277667113545,
+    "cooc_count": 46,
+    "unigram_w1": 3759,
+    "unigram_w2": 135596
+  },
+  {
+    "w1": "1910",
+    "w2": "harry",
+    "pmi": -3.195707181188669,
+    "cooc_count": 11,
+    "unigram_w1": 1258,
+    "unigram_w2": 14722
+  },
+  {
+    "w1": "década",
+    "w2": "harry",
+    "pmi": -2.789320392185429,
+    "cooc_count": 151,
+    "unigram_w1": 11502,
+    "unigram_w2": 14722
+  },
+  {
+    "w1": "f",
+    "w2": "harry",
+    "pmi": -4.8846874424384215,
+    "cooc_count": 219,
+    "unigram_w1": 135596,
+    "unigram_w2": 14722
+  },
+  {
+    "w1": "1910",
+    "w2": "década",
+    "pmi": 0.6142249259811854,
+    "cooc_count": 388,
+    "unigram_w1": 1258,
+    "unigram_w2": 11502
+  },
+  {
+    "w1": "1910",
+    "w2": "f",
+    "pmi": -3.1044091555843227,
+    "cooc_count": 111,
+    "unigram_w1": 1258,
+    "unigram_w2": 135596
+  },
+  {
+    "w1": "f",
+    "w2": "sinclair",
+    "pmi": -3.289877018067642,
+    "cooc_count": 14,
+    "unigram_w1": 135596,
+    "unigram_w2": 191
+  },
+  {
+    "w1": "década",
+    "w2": "f",
+    "pmi": -4.160469074976674,
+    "cooc_count": 353,
+    "unigram_w1": 11502,
+    "unigram_w2": 135596
+  }
+]

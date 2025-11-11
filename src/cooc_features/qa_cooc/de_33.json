@@ -1,0 +1,42 @@
+[
+  {
+    "w1": "befand",
+    "w2": "deutschland",
+    "pmi": -1.8386101416040703,
+    "cooc_count": 375,
+    "unigram_w1": 1306,
+    "unigram_w2": 296098
+  },
+  {
+    "w1": "befand",
+    "w2": "land",
+    "pmi": -1.0120893160103897,
+    "cooc_count": 231,
+    "unigram_w1": 1306,
+    "unigram_w2": 79811
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "deutschland",
+    "pmi": -2.595184839536732,
+    "cooc_count": 681,
+    "unigram_w1": 5054,
+    "unigram_w2": 296098
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "land",
+    "pmi": -2.437079976516283,
+    "cooc_count": 215,
+    "unigram_w1": 5054,
+    "unigram_w2": 79811
+  },
+  {
+    "w1": "deutschland",
+    "w2": "land",
+    "pmi": -1.95009709283895,
+    "cooc_count": 20499,
+    "unigram_w1": 296098,
+    "unigram_w2": 79811
+  }
+]

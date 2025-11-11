@@ -1,0 +1,170 @@
+[
+  {
+    "w1": "general",
+    "w2": "hospital",
+    "pmi": -0.24645435967633067,
+    "cooc_count": 8358,
+    "unigram_w1": 164228,
+    "unigram_w2": 75220
+  },
+  {
+    "w1": "general",
+    "w2": "original",
+    "pmi": -1.865378607099439,
+    "cooc_count": 2483,
+    "unigram_w1": 164228,
+    "unigram_w2": 112797
+  },
+  {
+    "w1": "general",
+    "w2": "what",
+    "pmi": -1.5167475938840331,
+    "cooc_count": 30203,
+    "unigram_w1": 164228,
+    "unigram_w2": 968194
+  },
+  {
+    "w1": "general",
+    "w2": "grade",
+    "pmi": -1.5113194057549346,
+    "cooc_count": 2489,
+    "unigram_w1": 164228,
+    "unigram_w2": 79356
+  },
+  {
+    "w1": "general",
+    "w2": "name",
+    "pmi": -2.25513755618588,
+    "cooc_count": 7279,
+    "unigram_w1": 164228,
+    "unigram_w2": 488273
+  },
+  {
+    "w1": "b",
+    "w2": "general",
+    "pmi": -3.024257681738331,
+    "cooc_count": 8375,
+    "unigram_w1": 1212273,
+    "unigram_w2": 164228
+  },
+  {
+    "w1": "hospital",
+    "w2": "original",
+    "pmi": -2.2335345910000646,
+    "cooc_count": 787,
+    "unigram_w1": 75220,
+    "unigram_w2": 112797
+  },
+  {
+    "w1": "hospital",
+    "w2": "what",
+    "pmi": -2.1325537729412436,
+    "cooc_count": 7473,
+    "unigram_w1": 75220,
+    "unigram_w2": 968194
+  },
+  {
+    "w1": "grade",
+    "w2": "hospital",
+    "pmi": -2.267850408036382,
+    "cooc_count": 535,
+    "unigram_w1": 79356,
+    "unigram_w2": 75220
+  },
+  {
+    "w1": "hospital",
+    "w2": "name",
+    "pmi": -2.920462672956275,
+    "cooc_count": 1714,
+    "unigram_w1": 75220,
+    "unigram_w2": 488273
+  },
+  {
+    "w1": "b",
+    "w2": "hospital",
+    "pmi": -3.806771312309332,
+    "cooc_count": 1754,
+    "unigram_w1": 1212273,
+    "unigram_w2": 75220
+  },
+  {
+    "w1": "original",
+    "w2": "what",
+    "pmi": -1.5781982499650047,
+    "cooc_count": 19508,
+    "unigram_w1": 112797,
+    "unigram_w2": 968194
+  },
+  {
+    "w1": "grade",
+    "w2": "original",
+    "pmi": -1.634101188116325,
+    "cooc_count": 1512,
+    "unigram_w1": 79356,
+    "unigram_w2": 112797
+  },
+  {
+    "w1": "name",
+    "w2": "original",
+    "pmi": -1.702407225198208,
+    "cooc_count": 8689,
+    "unigram_w1": 488273,
+    "unigram_w2": 112797
+  },
+  {
+    "w1": "b",
+    "w2": "original",
+    "pmi": -3.0500053434401413,
+    "cooc_count": 5606,
+    "unigram_w1": 1212273,
+    "unigram_w2": 112797
+  },
+  {
+    "w1": "grade",
+    "w2": "what",
+    "pmi": -2.3544494475252775,
+    "cooc_count": 6315,
+    "unigram_w1": 79356,
+    "unigram_w2": 968194
+  },
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": -2.217067356725342,
+    "cooc_count": 44578,
+    "unigram_w1": 488273,
+    "unigram_w2": 968194
+  },
+  {
+    "w1": "b",
+    "w2": "what",
+    "pmi": -3.7544622446736744,
+    "cooc_count": 23789,
+    "unigram_w1": 1212273,
+    "unigram_w2": 968194
+  },
+  {
+    "w1": "grade",
+    "w2": "name",
+    "pmi": -2.770405976707335,
+    "cooc_count": 2101,
+    "unigram_w1": 79356,
+    "unigram_w2": 488273
+  },
+  {
+    "w1": "b",
+    "w2": "grade",
+    "pmi": -2.8397193808463412,
+    "cooc_count": 4867,
+    "unigram_w1": 1212273,
+    "unigram_w2": 79356
+  },
+  {
+    "w1": "b",
+    "w2": "name",
+    "pmi": -3.1383149788747713,
+    "cooc_count": 22216,
+    "unigram_w1": 1212273,
+    "unigram_w2": 488273
+  }
+]

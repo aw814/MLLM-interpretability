@@ -1,0 +1,642 @@
+[
+  {
+    "w1": "mouse",
+    "w2": "released",
+    "pmi": -0.8890957714575655,
+    "cooc_count": 371,
+    "unigram_w1": 51046,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "label",
+    "w2": "mouse",
+    "pmi": -1.864065640889372,
+    "cooc_count": 227,
+    "unigram_w1": 167937,
+    "unigram_w2": 51046
+  },
+  {
+    "w1": "head",
+    "w2": "mouse",
+    "pmi": -1.4629806535741836,
+    "cooc_count": 559,
+    "unigram_w1": 276913,
+    "unigram_w2": 51046
+  },
+  {
+    "w1": "mouse",
+    "w2": "name",
+    "pmi": -1.7309674998561901,
+    "cooc_count": 1002,
+    "unigram_w1": 51046,
+    "unigram_w2": 648910
+  },
+  {
+    "w1": "mouse",
+    "w2": "what",
+    "pmi": -1.8166439419327494,
+    "cooc_count": 2934,
+    "unigram_w1": 51046,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "mouse",
+    "w2": "when",
+    "pmi": -1.155894783756355,
+    "cooc_count": 4927,
+    "unigram_w1": 51046,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "mouse",
+    "w2": "record",
+    "pmi": -1.434764312907331,
+    "cooc_count": 434,
+    "unigram_w1": 51046,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "little",
+    "w2": "mouse",
+    "pmi": -1.1458192972679258,
+    "cooc_count": 1465,
+    "unigram_w1": 528479,
+    "unigram_w2": 51046
+  },
+  {
+    "w1": "hungry",
+    "w2": "mouse",
+    "pmi": -3.9231697177148384,
+    "cooc_count": 3,
+    "unigram_w1": 17398,
+    "unigram_w2": 51046
+  },
+  {
+    "w1": "mouse",
+    "w2": "s",
+    "pmi": -1.9325667850361428,
+    "cooc_count": 10268,
+    "unigram_w1": 51046,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "mouse",
+    "w2": "pretty",
+    "pmi": -1.1928915080961573,
+    "cooc_count": 552,
+    "unigram_w1": 51046,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "label",
+    "w2": "released",
+    "pmi": -0.5045140825466059,
+    "cooc_count": 1793,
+    "unigram_w1": 167937,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "head",
+    "w2": "released",
+    "pmi": -1.1777344759423456,
+    "cooc_count": 1508,
+    "unigram_w1": 276913,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "name",
+    "w2": "released",
+    "pmi": -1.2005764205753406,
+    "cooc_count": 3454,
+    "unigram_w1": 648910,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "released",
+    "w2": "what",
+    "pmi": -1.2368506914057522,
+    "cooc_count": 10626,
+    "unigram_w1": 103531,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "released",
+    "w2": "when",
+    "pmi": -0.6787633750632862,
+    "cooc_count": 16103,
+    "unigram_w1": 103531,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "record",
+    "w2": "released",
+    "pmi": -0.4808314414603951,
+    "cooc_count": 2285,
+    "unigram_w1": 209010,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "little",
+    "w2": "released",
+    "pmi": -1.2301505950263527,
+    "cooc_count": 2731,
+    "unigram_w1": 528479,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "hungry",
+    "w2": "released",
+    "pmi": -0.7521921617433376,
+    "cooc_count": 145,
+    "unigram_w1": 17398,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "released",
+    "w2": "s",
+    "pmi": -0.9160366834329164,
+    "cooc_count": 57553,
+    "unigram_w1": 103531,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "pretty",
+    "w2": "released",
+    "pmi": -1.132715555463435,
+    "cooc_count": 1189,
+    "unigram_w1": 208724,
+    "unigram_w2": 103531
+  },
+  {
+    "w1": "head",
+    "w2": "label",
+    "pmi": -2.107863747477035,
+    "cooc_count": 965,
+    "unigram_w1": 276913,
+    "unigram_w2": 167937
+  },
+  {
+    "w1": "label",
+    "w2": "name",
+    "pmi": 0.9186741981638993,
+    "cooc_count": 46642,
+    "unigram_w1": 167937,
+    "unigram_w2": 648910
+  },
+  {
+    "w1": "label",
+    "w2": "what",
+    "pmi": -2.559121239473371,
+    "cooc_count": 4594,
+    "unigram_w1": 167937,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "label",
+    "w2": "when",
+    "pmi": -2.4530872053478747,
+    "cooc_count": 4430,
+    "unigram_w1": 167937,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "label",
+    "w2": "record",
+    "pmi": -0.6601585481176602,
+    "cooc_count": 3098,
+    "unigram_w1": 167937,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "label",
+    "w2": "little",
+    "pmi": -2.454634718037317,
+    "cooc_count": 1302,
+    "unigram_w1": 167937,
+    "unigram_w2": 528479
+  },
+  {
+    "w1": "hungry",
+    "w2": "label",
+    "pmi": -2.28081809574536,
+    "cooc_count": 51,
+    "unigram_w1": 17398,
+    "unigram_w2": 167937
+  },
+  {
+    "w1": "label",
+    "w2": "s",
+    "pmi": -2.4015776521129357,
+    "cooc_count": 21134,
+    "unigram_w1": 167937,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "label",
+    "w2": "pretty",
+    "pmi": -2.275679008653473,
+    "cooc_count": 615,
+    "unigram_w1": 167937,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "head",
+    "w2": "nellie",
+    "pmi": -0.35117748765664203,
+    "cooc_count": 50,
+    "unigram_w1": 276913,
+    "unigram_w2": 1502
+  },
+  {
+    "w1": "head",
+    "w2": "name",
+    "pmi": -1.4558507942076493,
+    "cooc_count": 7157,
+    "unigram_w1": 276913,
+    "unigram_w2": 648910
+  },
+  {
+    "w1": "head",
+    "w2": "what",
+    "pmi": -1.1440816693335805,
+    "cooc_count": 31184,
+    "unigram_w1": 276913,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "head",
+    "w2": "when",
+    "pmi": -0.8008359463729203,
+    "cooc_count": 38121,
+    "unigram_w1": 276913,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "head",
+    "w2": "record",
+    "pmi": -1.006491306305342,
+    "cooc_count": 3613,
+    "unigram_w1": 276913,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "head",
+    "w2": "little",
+    "pmi": -0.7032148753593794,
+    "cooc_count": 12372,
+    "unigram_w1": 276913,
+    "unigram_w2": 528479
+  },
+  {
+    "w1": "head",
+    "w2": "hungry",
+    "pmi": -0.47053493137302904,
+    "cooc_count": 514,
+    "unigram_w1": 276913,
+    "unigram_w2": 17398
+  },
+  {
+    "w1": "head",
+    "w2": "s",
+    "pmi": -1.1729644691591128,
+    "cooc_count": 119058,
+    "unigram_w1": 276913,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "head",
+    "w2": "pretty",
+    "pmi": -0.9374400850502228,
+    "cooc_count": 3866,
+    "unigram_w1": 276913,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "name",
+    "w2": "nellie",
+    "pmi": 0.09469500498491518,
+    "cooc_count": 183,
+    "unigram_w1": 648910,
+    "unigram_w2": 1502
+  },
+  {
+    "w1": "nellie",
+    "w2": "what",
+    "pmi": -1.2912296452828451,
+    "cooc_count": 146,
+    "unigram_w1": 1502,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "nellie",
+    "w2": "when",
+    "pmi": -2.443571258541887,
+    "cooc_count": 40,
+    "unigram_w1": 1502,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "nellie",
+    "w2": "record",
+    "pmi": 0.30858022778515,
+    "cooc_count": 73,
+    "unigram_w1": 1502,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "little",
+    "w2": "nellie",
+    "pmi": -0.5527913583850071,
+    "cooc_count": 78,
+    "unigram_w1": 528479,
+    "unigram_w2": 1502
+  },
+  {
+    "w1": "nellie",
+    "w2": "s",
+    "pmi": -0.9076446791403524,
+    "cooc_count": 842,
+    "unigram_w1": 1502,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "nellie",
+    "w2": "pretty",
+    "pmi": -2.188750451500703,
+    "cooc_count": 6,
+    "unigram_w1": 1502,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "mckay",
+    "w2": "name",
+    "pmi": -0.5836806223636177,
+    "cooc_count": 126,
+    "unigram_w1": 2038,
+    "unigram_w2": 648910
+  },
+  {
+    "w1": "mckay",
+    "w2": "what",
+    "pmi": -1.6241805908485112,
+    "cooc_count": 142,
+    "unigram_w1": 2038,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "mckay",
+    "w2": "when",
+    "pmi": -1.481795036513153,
+    "cooc_count": 142,
+    "unigram_w1": 2038,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "mckay",
+    "w2": "record",
+    "pmi": -1.1515563788926815,
+    "cooc_count": 23,
+    "unigram_w1": 2038,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "little",
+    "w2": "mckay",
+    "pmi": -1.6883110419170275,
+    "cooc_count": 34,
+    "unigram_w1": 528479,
+    "unigram_w2": 2038
+  },
+  {
+    "w1": "mckay",
+    "w2": "s",
+    "pmi": -0.8387166117689977,
+    "cooc_count": 1224,
+    "unigram_w1": 2038,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": -1.7125623218269534,
+    "cooc_count": 41389,
+    "unigram_w1": 648910,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "name",
+    "w2": "when",
+    "pmi": -1.368864912650835,
+    "cooc_count": 50619,
+    "unigram_w1": 648910,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "name",
+    "w2": "record",
+    "pmi": -1.163966525375419,
+    "cooc_count": 7233,
+    "unigram_w1": 648910,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "little",
+    "w2": "name",
+    "pmi": -1.5672492676195349,
+    "cooc_count": 12219,
+    "unigram_w1": 528479,
+    "unigram_w2": 648910
+  },
+  {
+    "w1": "hungry",
+    "w2": "name",
+    "pmi": -2.1482484493954916,
+    "cooc_count": 225,
+    "unigram_w1": 17398,
+    "unigram_w2": 648910
+  },
+  {
+    "w1": "name",
+    "w2": "s",
+    "pmi": -1.5641929376882082,
+    "cooc_count": 188665,
+    "unigram_w1": 648910,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "name",
+    "w2": "pretty",
+    "pmi": -1.6660305502937873,
+    "cooc_count": 4372,
+    "unigram_w1": 648910,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "what",
+    "w2": "when",
+    "pmi": -0.5646416617377356,
+    "cooc_count": 360898,
+    "unigram_w1": 2070073,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "record",
+    "w2": "what",
+    "pmi": -1.5418963869427997,
+    "cooc_count": 15812,
+    "unigram_w1": 209010,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "little",
+    "w2": "what",
+    "pmi": -0.7582706389683758,
+    "cooc_count": 87533,
+    "unigram_w1": 528479,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "hungry",
+    "w2": "what",
+    "pmi": -0.6472573321961336,
+    "cooc_count": 3220,
+    "unigram_w1": 17398,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": -1.068656865421227,
+    "cooc_count": 987873,
+    "unigram_w1": 8134972,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "pretty",
+    "w2": "what",
+    "pmi": -0.6169771683851509,
+    "cooc_count": 39818,
+    "unigram_w1": 208724,
+    "unigram_w2": 2070073
+  },
+  {
+    "w1": "record",
+    "w2": "when",
+    "pmi": -1.0906933359174096,
+    "cooc_count": 21533,
+    "unigram_w1": 209010,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "little",
+    "w2": "when",
+    "pmi": -0.5014345949589301,
+    "cooc_count": 98147,
+    "unigram_w1": 528479,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "hungry",
+    "w2": "when",
+    "pmi": -0.17574678569027355,
+    "cooc_count": 4475,
+    "unigram_w1": 17398,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "s",
+    "w2": "when",
+    "pmi": -1.0724775725372429,
+    "cooc_count": 853502,
+    "unigram_w1": 8134972,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "pretty",
+    "w2": "when",
+    "pmi": -0.6198081566116892,
+    "cooc_count": 34436,
+    "unigram_w1": 208724,
+    "unigram_w2": 1795347
+  },
+  {
+    "w1": "little",
+    "w2": "record",
+    "pmi": -1.6740505402373125,
+    "cooc_count": 3537,
+    "unigram_w1": 528479,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "hungry",
+    "w2": "record",
+    "pmi": -1.1687467282017616,
+    "cooc_count": 193,
+    "unigram_w1": 17398,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "record",
+    "w2": "s",
+    "pmi": -1.231973081513293,
+    "cooc_count": 84714,
+    "unigram_w1": 209010,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "pretty",
+    "w2": "record",
+    "pmi": -1.7037999965966113,
+    "cooc_count": 1356,
+    "unigram_w1": 208724,
+    "unigram_w2": 209010
+  },
+  {
+    "w1": "hungry",
+    "w2": "little",
+    "pmi": -0.12777088449038942,
+    "cooc_count": 1382,
+    "unigram_w1": 17398,
+    "unigram_w2": 528479
+  },
+  {
+    "w1": "little",
+    "w2": "s",
+    "pmi": -1.0587806961501685,
+    "cooc_count": 254702,
+    "unigram_w1": 528479,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "little",
+    "w2": "pretty",
+    "pmi": 0.04592670890576539,
+    "cooc_count": 19725,
+    "unigram_w1": 528479,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "hungry",
+    "w2": "s",
+    "pmi": -1.0505874159993498,
+    "cooc_count": 8454,
+    "unigram_w1": 17398,
+    "unigram_w2": 8134972
+  },
+  {
+    "w1": "hungry",
+    "w2": "pretty",
+    "pmi": -0.05164144082057738,
+    "cooc_count": 589,
+    "unigram_w1": 17398,
+    "unigram_w2": 208724
+  },
+  {
+    "w1": "pretty",
+    "w2": "s",
+    "pmi": -0.9126975036170625,
+    "cooc_count": 116418,
+    "unigram_w1": 208724,
+    "unigram_w2": 8134972
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "w1": "auskunftsersuchen",
+    "w2": "verlangt",
+    "pmi": 3.0553227328061743,
+    "cooc_count": 36,
+    "unigram_w1": 191,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "verlangt",
+    "pmi": -0.6885486822573418,
+    "cooc_count": 296,
+    "unigram_w1": 66369,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "brasilien",
+    "w2": "verlangt",
+    "pmi": -0.5067104873577433,
+    "cooc_count": 100,
+    "unigram_w1": 18694,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "person",
+    "w2": "verlangt",
+    "pmi": 0.19240395003963195,
+    "cooc_count": 2230,
+    "unigram_w1": 207198,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "verlangt",
+    "w2": "welche",
+    "pmi": -0.4892616810367717,
+    "cooc_count": 2105,
+    "unigram_w1": 27035,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "verlangt",
+    "pmi": -0.5821700516666354,
+    "cooc_count": 363,
+    "unigram_w1": 73178,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "verlangt",
+    "pmi": -1.195280002442178,
+    "cooc_count": 29,
+    "unigram_w1": 10793,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "innerhalb",
+    "w2": "verlangt",
+    "pmi": -0.740602842874879,
+    "cooc_count": 729,
+    "unigram_w1": 172190,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "verlangt",
+    "w2": "werden",
+    "pmi": -0.686524386266058,
+    "cooc_count": 13005,
+    "unigram_w1": 27035,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "erfüllt",
+    "w2": "verlangt",
+    "pmi": -1.0602829338658235,
+    "cooc_count": 138,
+    "unigram_w1": 44874,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "dass",
+    "w2": "verlangt",
+    "pmi": -0.5428112359149772,
+    "cooc_count": 12482,
+    "unigram_w1": 2419161,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "eines",
+    "w2": "verlangt",
+    "pmi": -0.8882786982995269,
+    "cooc_count": 2331,
+    "unigram_w1": 638201,
+    "unigram_w2": 27035
+  },
+  {
+    "w1": "auskunftsersuchen",
+    "w2": "person",
+    "pmi": -1.4661264519769475,
+    "cooc_count": 3,
+    "unigram_w1": 191,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "auskunftsersuchen",
+    "w2": "werden",
+    "pmi": -1.079865005334243,
+    "cooc_count": 62,
+    "unigram_w1": 191,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "auskunftsersuchen",
+    "w2": "dass",
+    "pmi": -0.2773078192762401,
+    "cooc_count": 115,
+    "unigram_w1": 191,
+    "unigram_w2": 2419161
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "brasilien",
+    "pmi": -2.575991226022679,
+    "cooc_count": 31,
+    "unigram_w1": 66369,
+    "unigram_w2": 18694
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "person",
+    "pmi": 1.5628660215802537,
+    "cooc_count": 21554,
+    "unigram_w1": 66369,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "welche",
+    "pmi": -0.9890457312482233,
+    "cooc_count": 3135,
+    "unigram_w1": 66369,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "betroffenen",
+    "pmi": -1.1660806169968485,
+    "cooc_count": 497,
+    "unigram_w1": 73178,
+    "unigram_w2": 66369
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "innerhalb",
+    "pmi": -1.1959864021300253,
+    "cooc_count": 1135,
+    "unigram_w1": 66369,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "werden",
+    "pmi": -0.7781188159729953,
+    "cooc_count": 29132,
+    "unigram_w1": 66369,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "erfüllt",
+    "pmi": -1.4519123726307797,
+    "cooc_count": 229,
+    "unigram_w1": 66369,
+    "unigram_w2": 44874
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "dass",
+    "pmi": -1.2126830417800891,
+    "cooc_count": 15682,
+    "unigram_w1": 66369,
+    "unigram_w2": 2419161
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "datenschutzgesetz",
+    "pmi": 1.1502646447754297,
+    "cooc_count": 44,
+    "unigram_w1": 66369,
+    "unigram_w2": 639
+  },
+  {
+    "w1": "betroffenen",
+    "w2": "eines",
+    "pmi": -0.7024576031400672,
+    "cooc_count": 6891,
+    "unigram_w1": 66369,
+    "unigram_w2": 638201
+  },
+  {
+    "w1": "datenschutzverordnung",
+    "w2": "werden",
+    "pmi": 0.04527403766729533,
+    "cooc_count": 19,
+    "unigram_w1": 19,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "dass",
+    "w2": "datenschutzverordnung",
+    "pmi": 0.2300334804071399,
+    "cooc_count": 19,
+    "unigram_w1": 2419161,
+    "unigram_w2": 19
+  },
+  {
+    "w1": "brasilien",
+    "w2": "person",
+    "pmi": -2.1925961507396954,
+    "cooc_count": 142,
+    "unigram_w1": 18694,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "brasilien",
+    "w2": "welche",
+    "pmi": -1.71327952549788,
+    "cooc_count": 428,
+    "unigram_w1": 18694,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "brasilien",
+    "pmi": -4.315883710629855,
+    "cooc_count": 6,
+    "unigram_w1": 73178,
+    "unigram_w2": 18694
+  },
+  {
+    "w1": "brasilien",
+    "w2": "innerhalb",
+    "pmi": -1.176449487443253,
+    "cooc_count": 326,
+    "unigram_w1": 18694,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "brasilien",
+    "w2": "werden",
+    "pmi": -1.6154177539631727,
+    "cooc_count": 3552,
+    "unigram_w1": 18694,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "brasilien",
+    "w2": "dass",
+    "pmi": -1.6119668677618235,
+    "cooc_count": 2963,
+    "unigram_w1": 18694,
+    "unigram_w2": 2419161
+  },
+  {
+    "w1": "brasilien",
+    "w2": "eines",
+    "pmi": -1.3777189335138396,
+    "cooc_count": 988,
+    "unigram_w1": 18694,
+    "unigram_w2": 638201
+  },
+  {
+    "w1": "person",
+    "w2": "welche",
+    "pmi": -0.8308207668563702,
+    "cooc_count": 11465,
+    "unigram_w1": 207198,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "person",
+    "pmi": -0.3263726338130889,
+    "cooc_count": 3593,
+    "unigram_w1": 73178,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "person",
+    "pmi": -1.4343323935002594,
+    "cooc_count": 175,
+    "unigram_w1": 10793,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "innerhalb",
+    "w2": "person",
+    "pmi": -1.4046633910377215,
+    "cooc_count": 2876,
+    "unigram_w1": 172190,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "person",
+    "w2": "werden",
+    "pmi": -1.1897986676870522,
+    "cooc_count": 60256,
+    "unigram_w1": 207198,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "erfüllt",
+    "w2": "person",
+    "pmi": -1.1093482612995873,
+    "cooc_count": 1007,
+    "unigram_w1": 44874,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "dass",
+    "w2": "person",
+    "pmi": -1.364045045016306,
+    "cooc_count": 42081,
+    "unigram_w1": 2419161,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "person",
+    "w2": "zeitrahmens",
+    "pmi": 1.1229920948753633,
+    "cooc_count": 41,
+    "unigram_w1": 207198,
+    "unigram_w2": 196
+  },
+  {
+    "w1": "eines",
+    "w2": "person",
+    "pmi": -1.0996632227156131,
+    "cooc_count": 14461,
+    "unigram_w1": 638201,
+    "unigram_w2": 207198
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "welche",
+    "pmi": -0.7013287409448202,
+    "cooc_count": 4609,
+    "unigram_w1": 73178,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "welche",
+    "pmi": -0.6300533460200576,
+    "cooc_count": 730,
+    "unigram_w1": 10793,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "innerhalb",
+    "w2": "welche",
+    "pmi": -1.202225143460221,
+    "cooc_count": 6572,
+    "unigram_w1": 172190,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "welche",
+    "w2": "werden",
+    "pmi": -0.7510804282618332,
+    "cooc_count": 174391,
+    "unigram_w1": 386702,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "erfüllt",
+    "w2": "welche",
+    "pmi": -0.5004809305551005,
+    "cooc_count": 3455,
+    "unigram_w1": 44874,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "dass",
+    "w2": "welche",
+    "pmi": -1.1861575712302934,
+    "cooc_count": 93828,
+    "unigram_w1": 2419161,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "datenschutzgesetz",
+    "w2": "welche",
+    "pmi": 0.5089254987237465,
+    "cooc_count": 135,
+    "unigram_w1": 639,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "eines",
+    "w2": "welche",
+    "pmi": -0.9129046252196239,
+    "cooc_count": 32531,
+    "unigram_w1": 638201,
+    "unigram_w2": 386702
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "bestimmten",
+    "pmi": -1.353645719549761,
+    "cooc_count": 67,
+    "unigram_w1": 10793,
+    "unigram_w2": 73178
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "innerhalb",
+    "pmi": -0.2668677217046918,
+    "cooc_count": 3169,
+    "unigram_w1": 73178,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "werden",
+    "pmi": -0.7166239724817485,
+    "cooc_count": 34158,
+    "unigram_w1": 73178,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "erfüllt",
+    "pmi": -0.25826548336826066,
+    "cooc_count": 833,
+    "unigram_w1": 73178,
+    "unigram_w2": 44874
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "dass",
+    "pmi": -0.876508715776263,
+    "cooc_count": 24200,
+    "unigram_w1": 73178,
+    "unigram_w2": 2419161
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "zeitrahmens",
+    "pmi": 1.851397438316257,
+    "cooc_count": 30,
+    "unigram_w1": 73178,
+    "unigram_w2": 196
+  },
+  {
+    "w1": "bestimmten",
+    "w2": "eines",
+    "pmi": -0.08104805896993454,
+    "cooc_count": 14144,
+    "unigram_w1": 73178,
+    "unigram_w2": 638201
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "innerhalb",
+    "pmi": -1.0910320487543699,
+    "cooc_count": 205,
+    "unigram_w1": 10793,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "werden",
+    "pmi": -1.7643405448383547,
+    "cooc_count": 1767,
+    "unigram_w1": 10793,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "dass",
+    "pmi": -1.6158858670289453,
+    "cooc_count": 1704,
+    "unigram_w1": 10793,
+    "unigram_w2": 2419161
+  },
+  {
+    "w1": "allgemeines",
+    "w2": "eines",
+    "pmi": -1.1160961650484382,
+    "cooc_count": 741,
+    "unigram_w1": 10793,
+    "unigram_w2": 638201
+  },
+  {
+    "w1": "innerhalb",
+    "w2": "werden",
+    "pmi": -0.759350241858662,
+    "cooc_count": 77013,
+    "unigram_w1": 172190,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "erfüllt",
+    "w2": "innerhalb",
+    "pmi": -0.25219927932457387,
+    "cooc_count": 1972,
+    "unigram_w1": 44874,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "dass",
+    "w2": "innerhalb",
+    "pmi": -0.8970779479722449,
+    "cooc_count": 55784,
+    "unigram_w1": 2419161,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "datenschutzgesetz",
+    "w2": "innerhalb",
+    "pmi": -0.6428544482785262,
+    "cooc_count": 19,
+    "unigram_w1": 639,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "innerhalb",
+    "w2": "zeitrahmens",
+    "pmi": 2.841520439862537,
+    "cooc_count": 190,
+    "unigram_w1": 172190,
+    "unigram_w2": 196
+  },
+  {
+    "w1": "eines",
+    "w2": "innerhalb",
+    "pmi": -0.09418183725787557,
+    "cooc_count": 32847,
+    "unigram_w1": 638201,
+    "unigram_w2": 172190
+  },
+  {
+    "w1": "erfüllt",
+    "w2": "werden",
+    "pmi": -0.6203982834213658,
+    "cooc_count": 23062,
+    "unigram_w1": 44874,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "dass",
+    "w2": "werden",
+    "pmi": -0.9379361447083899,
+    "cooc_count": 905028,
+    "unigram_w1": 2419161,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "datenschutzgesetz",
+    "w2": "werden",
+    "pmi": -1.01195303483796,
+    "cooc_count": 222,
+    "unigram_w1": 639,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "werden",
+    "w2": "zeitrahmens",
+    "pmi": -1.07395753820355,
+    "cooc_count": 64,
+    "unigram_w1": 2910079,
+    "unigram_w2": 196
+  },
+  {
+    "w1": "eines",
+    "w2": "werden",
+    "pmi": -0.8756946437367585,
+    "cooc_count": 254089,
+    "unigram_w1": 638201,
+    "unigram_w2": 2910079
+  },
+  {
+    "w1": "dass",
+    "w2": "erfüllt",
+    "pmi": -0.7433212878442319,
+    "cooc_count": 16954,
+    "unigram_w1": 2419161,
+    "unigram_w2": 44874
+  },
+  {
+    "w1": "datenschutzgesetz",
+    "w2": "erfüllt",
+    "pmi": 1.5416361623338033,
+    "cooc_count": 44,
+    "unigram_w1": 639,
+    "unigram_w2": 44874
+  },
+  {
+    "w1": "eines",
+    "w2": "erfüllt",
+    "pmi": -0.48241043235432596,
+    "cooc_count": 5806,
+    "unigram_w1": 638201,
+    "unigram_w2": 44874
+  },
+  {
+    "w1": "dass",
+    "w2": "datenschutzgesetz",
+    "pmi": -1.1178831856138518,
+    "cooc_count": 166,
+    "unigram_w1": 2419161,
+    "unigram_w2": 639
+  },
+  {
+    "w1": "dass",
+    "w2": "zeitrahmens",
+    "pmi": -1.4645622403672673,
+    "cooc_count": 36,
+    "unigram_w1": 2419161,
+    "unigram_w2": 196
+  },
+  {
+    "w1": "dass",
+    "w2": "eines",
+    "pmi": -0.9588305174092028,
+    "cooc_count": 194375,
+    "unigram_w1": 2419161,
+    "unigram_w2": 638201
+  },
+  {
+    "w1": "eines",
+    "w2": "zeitrahmens",
+    "pmi": 0.869409083920876,
+    "cooc_count": 98,
+    "unigram_w1": 638201,
+    "unigram_w2": 196
+  }
+]

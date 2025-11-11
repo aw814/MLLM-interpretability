@@ -1,0 +1,858 @@
+[
+  {
+    "w1": "pesaje",
+    "w2": "sistemas",
+    "pmi": -0.35513870419406385,
+    "cooc_count": 33,
+    "unigram_w1": 1541,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "dentro",
+    "w2": "sistemas",
+    "pmi": -0.43156168027537745,
+    "cooc_count": 6859,
+    "unigram_w1": 345732,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "sistemas",
+    "w2": "tipo",
+    "pmi": -0.6558862658180528,
+    "cooc_count": 10828,
+    "unigram_w1": 192648,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "peso",
+    "w2": "sistemas",
+    "pmi": -1.850237174599853,
+    "cooc_count": 1186,
+    "unigram_w1": 246994,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "sistemas",
+    "w2": "vehículos",
+    "pmi": -0.5291081410755429,
+    "cooc_count": 1757,
+    "unigram_w1": 192648,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "aceptables",
+    "w2": "sistemas",
+    "pmi": -2.87621018719234,
+    "cooc_count": 5,
+    "unigram_w1": 2905,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "movimiento",
+    "w2": "sistemas",
+    "pmi": -0.8436632483665235,
+    "cooc_count": 1833,
+    "unigram_w1": 139513,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "para",
+    "w2": "sistemas",
+    "pmi": -1.1826124142205678,
+    "cooc_count": 121368,
+    "unigram_w1": 12964631,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "road",
+    "w2": "sistemas",
+    "pmi": -1.5535067298977248,
+    "cooc_count": 164,
+    "unigram_w1": 25385,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "sistemas",
+    "pmi": -0.9669545029035862,
+    "cooc_count": 243,
+    "unigram_w1": 20922,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "límites",
+    "w2": "sistemas",
+    "pmi": -0.6639879064235664,
+    "cooc_count": 666,
+    "unigram_w1": 42354,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "international",
+    "w2": "sistemas",
+    "pmi": -0.7082238250103242,
+    "cooc_count": 550,
+    "unigram_w1": 36559,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "proporciona",
+    "w2": "sistemas",
+    "pmi": 0.11411132255935261,
+    "cooc_count": 1840,
+    "unigram_w1": 53742,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "dynamics",
+    "w2": "sistemas",
+    "pmi": -0.9405741011132116,
+    "cooc_count": 35,
+    "unigram_w1": 2935,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "salgan",
+    "w2": "sistemas",
+    "pmi": -1.6129780683711252,
+    "cooc_count": 59,
+    "unigram_w1": 9692,
+    "unigram_w2": 192648
+  },
+  {
+    "w1": "sistemas",
+    "w2": "terminales",
+    "pmi": 0.25151119438605707,
+    "cooc_count": 476,
+    "unigram_w1": 192648,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "pesaje",
+    "w2": "tipo",
+    "pmi": -0.5022232665515782,
+    "cooc_count": 101,
+    "unigram_w1": 1541,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "pesaje",
+    "w2": "peso",
+    "pmi": 1.4489304638971028,
+    "cooc_count": 257,
+    "unigram_w1": 1541,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "para",
+    "w2": "pesaje",
+    "pmi": -0.8983643151333719,
+    "cooc_count": 1290,
+    "unigram_w1": 12964631,
+    "unigram_w2": 1541
+  },
+  {
+    "w1": "international",
+    "w2": "pesaje",
+    "pmi": 0.2081863027209364,
+    "cooc_count": 11,
+    "unigram_w1": 36559,
+    "unigram_w2": 1541
+  },
+  {
+    "w1": "dentro",
+    "w2": "tipo",
+    "pmi": -0.6416440009800629,
+    "cooc_count": 19711,
+    "unigram_w1": 345732,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "dentro",
+    "w2": "peso",
+    "pmi": -1.3199777411601736,
+    "cooc_count": 3617,
+    "unigram_w1": 345732,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "dentro",
+    "w2": "vehículos",
+    "pmi": -0.7018240940796484,
+    "cooc_count": 2653,
+    "unigram_w1": 345732,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "aceptables",
+    "w2": "dentro",
+    "pmi": 0.691604064198989,
+    "cooc_count": 318,
+    "unigram_w1": 2905,
+    "unigram_w2": 345732
+  },
+  {
+    "w1": "dentro",
+    "w2": "movimiento",
+    "pmi": -0.25675589133028603,
+    "cooc_count": 5916,
+    "unigram_w1": 345732,
+    "unigram_w2": 139513
+  },
+  {
+    "w1": "dentro",
+    "w2": "para",
+    "pmi": -0.9613048430075096,
+    "cooc_count": 271764,
+    "unigram_w1": 345732,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "dentro",
+    "w2": "road",
+    "pmi": -1.439079722216145,
+    "cooc_count": 330,
+    "unigram_w1": 345732,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "dentro",
+    "pmi": -0.7871475773162439,
+    "cooc_count": 522,
+    "unigram_w1": 20922,
+    "unigram_w2": 345732
+  },
+  {
+    "w1": "dentro",
+    "w2": "límites",
+    "pmi": 0.8948057566384234,
+    "cooc_count": 5681,
+    "unigram_w1": 345732,
+    "unigram_w2": 42354
+  },
+  {
+    "w1": "dentro",
+    "w2": "international",
+    "pmi": -1.546157308962964,
+    "cooc_count": 427,
+    "unigram_w1": 345732,
+    "unigram_w2": 36559
+  },
+  {
+    "w1": "dentro",
+    "w2": "proporciona",
+    "pmi": -0.6703325483719311,
+    "cooc_count": 1507,
+    "unigram_w1": 345732,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "dentro",
+    "w2": "dynamics",
+    "pmi": -3.001279839877537,
+    "cooc_count": 8,
+    "unigram_w1": 345732,
+    "unigram_w2": 2935
+  },
+  {
+    "w1": "dentro",
+    "w2": "salgan",
+    "pmi": -1.0230413031849628,
+    "cooc_count": 191,
+    "unigram_w1": 345732,
+    "unigram_w2": 9692
+  },
+  {
+    "w1": "dentro",
+    "w2": "terminales",
+    "pmi": -0.2353076162084869,
+    "cooc_count": 525,
+    "unigram_w1": 345732,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "peso",
+    "w2": "tipo",
+    "pmi": -0.5856968368972099,
+    "cooc_count": 14892,
+    "unigram_w1": 246994,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "tipo",
+    "w2": "vehículos",
+    "pmi": -0.3635771096208463,
+    "cooc_count": 7351,
+    "unigram_w1": 683046,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "tipo",
+    "w2": "wim",
+    "pmi": 0.8365486908073873,
+    "cooc_count": 38,
+    "unigram_w1": 683046,
+    "unigram_w2": 152
+  },
+  {
+    "w1": "aceptables",
+    "w2": "tipo",
+    "pmi": -0.07802235018724109,
+    "cooc_count": 291,
+    "unigram_w1": 2905,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "movimiento",
+    "w2": "tipo",
+    "pmi": -0.8041439268478444,
+    "cooc_count": 6761,
+    "unigram_w1": 139513,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "para",
+    "w2": "tipo",
+    "pmi": -1.0647362119335835,
+    "cooc_count": 484153,
+    "unigram_w1": 12964631,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "road",
+    "w2": "tipo",
+    "pmi": -1.4028775994112528,
+    "cooc_count": 676,
+    "unigram_w1": 25385,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "tipo",
+    "pmi": -1.3977766802472333,
+    "cooc_count": 560,
+    "unigram_w1": 20922,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "límites",
+    "w2": "tipo",
+    "pmi": -0.5638695943795102,
+    "cooc_count": 2610,
+    "unigram_w1": 42354,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "international",
+    "w2": "tipo",
+    "pmi": -1.4326546934753916,
+    "cooc_count": 945,
+    "unigram_w1": 36559,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "proporciona",
+    "w2": "tipo",
+    "pmi": -0.34065597895661215,
+    "cooc_count": 4140,
+    "unigram_w1": 53742,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "dynamics",
+    "w2": "tipo",
+    "pmi": -1.0887908458730127,
+    "cooc_count": 107,
+    "unigram_w1": 2935,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "salgan",
+    "w2": "tipo",
+    "pmi": -0.8447456905064601,
+    "cooc_count": 451,
+    "unigram_w1": 9692,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "terminales",
+    "w2": "tipo",
+    "pmi": -0.24131969356069657,
+    "cooc_count": 1031,
+    "unigram_w1": 12118,
+    "unigram_w2": 683046
+  },
+  {
+    "w1": "peso",
+    "w2": "vehículos",
+    "pmi": -1.913916333102154,
+    "cooc_count": 564,
+    "unigram_w1": 246994,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "movimiento",
+    "w2": "peso",
+    "pmi": -0.8925339626719309,
+    "cooc_count": 2238,
+    "unigram_w1": 139513,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "para",
+    "w2": "peso",
+    "pmi": -1.2533984016785051,
+    "cooc_count": 144972,
+    "unigram_w1": 12964631,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "peso",
+    "w2": "road",
+    "pmi": -1.2778550068721573,
+    "cooc_count": 277,
+    "unigram_w1": 246994,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "peso",
+    "pmi": -1.0773035197603418,
+    "cooc_count": 279,
+    "unigram_w1": 20922,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "límites",
+    "w2": "peso",
+    "pmi": -1.1580268905481614,
+    "cooc_count": 521,
+    "unigram_w1": 42354,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "international",
+    "w2": "peso",
+    "pmi": -1.6498703609078422,
+    "cooc_count": 275,
+    "unigram_w1": 36559,
+    "unigram_w2": 246994
+  },
+  {
+    "w1": "peso",
+    "w2": "proporciona",
+    "pmi": -0.7030116610679392,
+    "cooc_count": 1042,
+    "unigram_w1": 246994,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "peso",
+    "w2": "salgan",
+    "pmi": -2.0269918621862715,
+    "cooc_count": 50,
+    "unigram_w1": 246994,
+    "unigram_w2": 9692
+  },
+  {
+    "w1": "peso",
+    "w2": "terminales",
+    "pmi": -1.7435654073863376,
+    "cooc_count": 83,
+    "unigram_w1": 246994,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "aceptables",
+    "w2": "vehículos",
+    "pmi": -1.2410905726075925,
+    "cooc_count": 13,
+    "unigram_w1": 2905,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "movimiento",
+    "w2": "vehículos",
+    "pmi": -1.1281135844151073,
+    "cooc_count": 699,
+    "unigram_w1": 139513,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "para",
+    "w2": "vehículos",
+    "pmi": -1.1777339767376003,
+    "cooc_count": 61812,
+    "unigram_w1": 12964631,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "road",
+    "w2": "vehículos",
+    "pmi": 0.06648972311280156,
+    "cooc_count": 420,
+    "unigram_w1": 25385,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "vehículos",
+    "pmi": -0.7434551742731947,
+    "cooc_count": 154,
+    "unigram_w1": 20922,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "límites",
+    "w2": "vehículos",
+    "pmi": -0.23569416514716182,
+    "cooc_count": 518,
+    "unigram_w1": 42354,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "international",
+    "w2": "vehículos",
+    "pmi": -1.74341408354494,
+    "cooc_count": 99,
+    "unigram_w1": 36559,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "proporciona",
+    "w2": "vehículos",
+    "pmi": -1.174725273591148,
+    "cooc_count": 257,
+    "unigram_w1": 53742,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "dynamics",
+    "w2": "vehículos",
+    "pmi": -0.48410948287011046,
+    "cooc_count": 28,
+    "unigram_w1": 2935,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "salgan",
+    "w2": "vehículos",
+    "pmi": 0.1708762075725511,
+    "cooc_count": 178,
+    "unigram_w1": 9692,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "terminales",
+    "w2": "vehículos",
+    "pmi": 0.5371426328419638,
+    "cooc_count": 321,
+    "unigram_w1": 12118,
+    "unigram_w2": 97637
+  },
+  {
+    "w1": "para",
+    "w2": "wim",
+    "pmi": -1.2785473793606668,
+    "cooc_count": 87,
+    "unigram_w1": 12964631,
+    "unigram_w2": 152
+  },
+  {
+    "w1": "aceptables",
+    "w2": "para",
+    "pmi": -0.9127904120206013,
+    "cooc_count": 2397,
+    "unigram_w1": 2905,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "aceptables",
+    "w2": "límites",
+    "pmi": 1.7913276570273116,
+    "cooc_count": 117,
+    "unigram_w1": 2905,
+    "unigram_w2": 42354
+  },
+  {
+    "w1": "aceptables",
+    "w2": "proporciona",
+    "pmi": -1.2630680797948544,
+    "cooc_count": 7,
+    "unigram_w1": 2905,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "aceptables",
+    "w2": "terminales",
+    "pmi": 1.9440862854777945,
+    "cooc_count": 39,
+    "unigram_w1": 2905,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "movimiento",
+    "w2": "para",
+    "pmi": -1.1421861630542713,
+    "cooc_count": 91519,
+    "unigram_w1": 139513,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "movimiento",
+    "w2": "road",
+    "pmi": -0.8796278015425002,
+    "cooc_count": 233,
+    "unigram_w1": 139513,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "movimiento",
+    "pmi": -0.8191890497861959,
+    "cooc_count": 204,
+    "unigram_w1": 20922,
+    "unigram_w2": 139513
+  },
+  {
+    "w1": "límites",
+    "w2": "movimiento",
+    "pmi": -0.40003050788203465,
+    "cooc_count": 628,
+    "unigram_w1": 42354,
+    "unigram_w2": 139513
+  },
+  {
+    "w1": "international",
+    "w2": "movimiento",
+    "pmi": -2.3134085659492367,
+    "cooc_count": 80,
+    "unigram_w1": 36559,
+    "unigram_w2": 139513
+  },
+  {
+    "w1": "movimiento",
+    "w2": "proporciona",
+    "pmi": -0.21376934096807437,
+    "cooc_count": 960,
+    "unigram_w1": 139513,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "dynamics",
+    "w2": "movimiento",
+    "pmi": -0.7720178783267475,
+    "cooc_count": 30,
+    "unigram_w1": 2935,
+    "unigram_w2": 139513
+  },
+  {
+    "w1": "movimiento",
+    "w2": "salgan",
+    "pmi": -1.8713010481966423,
+    "cooc_count": 33,
+    "unigram_w1": 139513,
+    "unigram_w2": 9692
+  },
+  {
+    "w1": "movimiento",
+    "w2": "terminales",
+    "pmi": -1.3285198801903249,
+    "cooc_count": 71,
+    "unigram_w1": 139513,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "para",
+    "w2": "road",
+    "pmi": -1.4409154322859115,
+    "cooc_count": 12352,
+    "unigram_w1": 12964631,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "para",
+    "pmi": -0.7633964679960729,
+    "cooc_count": 20045,
+    "unigram_w1": 20922,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "límites",
+    "w2": "para",
+    "pmi": -1.0785594756413617,
+    "cooc_count": 29609,
+    "unigram_w1": 42354,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "international",
+    "w2": "para",
+    "pmi": -1.4618833996588927,
+    "cooc_count": 17420,
+    "unigram_w1": 36559,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "para",
+    "w2": "proporciona",
+    "pmi": -0.8697574328281902,
+    "cooc_count": 46294,
+    "unigram_w1": 12964631,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "dynamics",
+    "w2": "para",
+    "pmi": -1.4824716906090003,
+    "cooc_count": 1370,
+    "unigram_w1": 2935,
+    "unigram_w2": 12964631
+  },
+  {
+    "w1": "para",
+    "w2": "salgan",
+    "pmi": -0.8030194524575507,
+    "cooc_count": 8925,
+    "unigram_w1": 12964631,
+    "unigram_w2": 9692
+  },
+  {
+    "w1": "para",
+    "w2": "terminales",
+    "pmi": -1.1267417672788929,
+    "cooc_count": 8073,
+    "unigram_w1": 12964631,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "límites",
+    "w2": "road",
+    "pmi": -3.752276974746037,
+    "cooc_count": 4,
+    "unigram_w1": 42354,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "international",
+    "w2": "road",
+    "pmi": 1.2449337280648913,
+    "cooc_count": 511,
+    "unigram_w1": 36559,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "proporciona",
+    "w2": "road",
+    "pmi": 0.07433516662004976,
+    "cooc_count": 233,
+    "unigram_w1": 53742,
+    "unigram_w2": 25385
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "límites",
+    "pmi": 0.09821099253110718,
+    "cooc_count": 155,
+    "unigram_w1": 20922,
+    "unigram_w2": 42354
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "international",
+    "pmi": -1.2145597122049145,
+    "cooc_count": 36,
+    "unigram_w1": 20922,
+    "unigram_w2": 36559
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "proporciona",
+    "pmi": -2.092303622109547,
+    "cooc_count": 22,
+    "unigram_w1": 20922,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "asegurarse",
+    "w2": "terminales",
+    "pmi": -0.22810730446982,
+    "cooc_count": 32,
+    "unigram_w1": 20922,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "international",
+    "w2": "límites",
+    "pmi": -1.789768214676538,
+    "cooc_count": 41,
+    "unigram_w1": 36559,
+    "unigram_w2": 42354
+  },
+  {
+    "w1": "límites",
+    "w2": "proporciona",
+    "pmi": -1.519159853720662,
+    "cooc_count": 79,
+    "unigram_w1": 42354,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "límites",
+    "w2": "salgan",
+    "pmi": -0.016830607061177564,
+    "cooc_count": 64,
+    "unigram_w1": 42354,
+    "unigram_w2": 9692
+  },
+  {
+    "w1": "international",
+    "w2": "proporciona",
+    "pmi": -0.5653224998867395,
+    "cooc_count": 177,
+    "unigram_w1": 36559,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "dynamics",
+    "w2": "international",
+    "pmi": 2.0102022194390763,
+    "cooc_count": 127,
+    "unigram_w1": 2935,
+    "unigram_w2": 36559
+  },
+  {
+    "w1": "international",
+    "w2": "terminales",
+    "pmi": -1.4793806420224715,
+    "cooc_count": 16,
+    "unigram_w1": 36559,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "dynamics",
+    "w2": "proporciona",
+    "pmi": 0.6927707136017932,
+    "cooc_count": 50,
+    "unigram_w1": 2935,
+    "unigram_w2": 53742
+  },
+  {
+    "w1": "proporciona",
+    "w2": "terminales",
+    "pmi": 0.35319579770964565,
+    "cooc_count": 147,
+    "unigram_w1": 53742,
+    "unigram_w2": 12118
+  },
+  {
+    "w1": "salgan",
+    "w2": "terminales",
+    "pmi": 0.37149409270207223,
+    "cooc_count": 27,
+    "unigram_w1": 9692,
+    "unigram_w2": 12118
+  }
+]

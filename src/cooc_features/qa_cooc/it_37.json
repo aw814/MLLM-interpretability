@@ -1,0 +1,170 @@
+[
+  {
+    "w1": "prima",
+    "w2": "stata",
+    "pmi": -0.735919641450059,
+    "cooc_count": 74409,
+    "unigram_w1": 1096335,
+    "unigram_w2": 892128
+  },
+  {
+    "w1": "chi",
+    "w2": "prima",
+    "pmi": -0.8050857755548854,
+    "cooc_count": 66198,
+    "unigram_w1": 850521,
+    "unigram_w2": 1096335
+  },
+  {
+    "w1": "donna",
+    "w2": "prima",
+    "pmi": -2.2340062290832976,
+    "cooc_count": 33709,
+    "unigram_w1": 1807833,
+    "unigram_w2": 1096335
+  },
+  {
+    "w1": "prima",
+    "w2": "sindaco",
+    "pmi": -0.728402279571464,
+    "cooc_count": 10940,
+    "unigram_w1": 1096335,
+    "unigram_w2": 130183
+  },
+  {
+    "w1": "prima",
+    "w2": "turchia",
+    "pmi": -0.7016063813791332,
+    "cooc_count": 2080,
+    "unigram_w1": 1096335,
+    "unigram_w2": 24097
+  },
+  {
+    "w1": "prima",
+    "w2": "è",
+    "pmi": -0.8161898101981798,
+    "cooc_count": 816649,
+    "unigram_w1": 1096335,
+    "unigram_w2": 10609576
+  },
+  {
+    "w1": "chi",
+    "w2": "stata",
+    "pmi": -1.6624914121409224,
+    "cooc_count": 22854,
+    "unigram_w1": 850521,
+    "unigram_w2": 892128
+  },
+  {
+    "w1": "donna",
+    "w2": "stata",
+    "pmi": -2.7115573274528275,
+    "cooc_count": 17015,
+    "unigram_w1": 1807833,
+    "unigram_w2": 892128
+  },
+  {
+    "w1": "sindaco",
+    "w2": "stata",
+    "pmi": -0.657540389406071,
+    "cooc_count": 9556,
+    "unigram_w1": 130183,
+    "unigram_w2": 892128
+  },
+  {
+    "w1": "stata",
+    "w2": "turchia",
+    "pmi": -1.3786787071312785,
+    "cooc_count": 860,
+    "unigram_w1": 892128,
+    "unigram_w2": 24097
+  },
+  {
+    "w1": "stata",
+    "w2": "è",
+    "pmi": -0.6316244631212363,
+    "cooc_count": 799236,
+    "unigram_w1": 892128,
+    "unigram_w2": 10609576
+  },
+  {
+    "w1": "chi",
+    "w2": "donna",
+    "pmi": -2.5207821688258765,
+    "cooc_count": 19631,
+    "unigram_w1": 850521,
+    "unigram_w2": 1807833
+  },
+  {
+    "w1": "chi",
+    "w2": "sindaco",
+    "pmi": -1.0162919912401698,
+    "cooc_count": 6364,
+    "unigram_w1": 850521,
+    "unigram_w2": 130183
+  },
+  {
+    "w1": "chi",
+    "w2": "turchia",
+    "pmi": -1.4812003930266926,
+    "cooc_count": 740,
+    "unigram_w1": 850521,
+    "unigram_w2": 24097
+  },
+  {
+    "w1": "chi",
+    "w2": "è",
+    "pmi": -0.891053507374165,
+    "cooc_count": 587847,
+    "unigram_w1": 850521,
+    "unigram_w2": 10609576
+  },
+  {
+    "w1": "donna",
+    "w2": "sindaco",
+    "pmi": -3.4812222258808037,
+    "cooc_count": 1150,
+    "unigram_w1": 1807833,
+    "unigram_w2": 130183
+  },
+  {
+    "w1": "donna",
+    "w2": "turchia",
+    "pmi": -1.7669224477991168,
+    "cooc_count": 1182,
+    "unigram_w1": 1807833,
+    "unigram_w2": 24097
+  },
+  {
+    "w1": "donna",
+    "w2": "è",
+    "pmi": -2.8050718115485553,
+    "cooc_count": 184285,
+    "unigram_w1": 1807833,
+    "unigram_w2": 10609576
+  },
+  {
+    "w1": "sindaco",
+    "w2": "turchia",
+    "pmi": -1.1936627924141734,
+    "cooc_count": 151,
+    "unigram_w1": 130183,
+    "unigram_w2": 24097
+  },
+  {
+    "w1": "sindaco",
+    "w2": "è",
+    "pmi": -1.0541323126184912,
+    "cooc_count": 76438,
+    "unigram_w1": 130183,
+    "unigram_w2": 10609576
+  },
+  {
+    "w1": "turchia",
+    "w2": "è",
+    "pmi": -1.1306120272260456,
+    "cooc_count": 13107,
+    "unigram_w1": 24097,
+    "unigram_w2": 10609576
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "w1": "whitehaven",
+    "w2": "year",
+    "pmi": -2.7059427665023392,
+    "cooc_count": 19,
+    "unigram_w1": 342,
+    "unigram_w2": 661482
+  },
+  {
+    "w1": "become",
+    "w2": "whitehaven",
+    "pmi": -0.362073896703981,
+    "cooc_count": 22,
+    "unigram_w1": 73495,
+    "unigram_w2": 342
+  },
+  {
+    "w1": "school",
+    "w2": "whitehaven",
+    "pmi": -2.3337482373394716,
+    "cooc_count": 22,
+    "unigram_w1": 527892,
+    "unigram_w2": 342
+  },
+  {
+    "w1": "academy",
+    "w2": "year",
+    "pmi": -1.7571549211430275,
+    "cooc_count": 5361,
+    "unigram_w1": 37365,
+    "unigram_w2": 661482
+  },
+  {
+    "w1": "become",
+    "w2": "year",
+    "pmi": -1.2518454380947732,
+    "cooc_count": 17478,
+    "unigram_w1": 73495,
+    "unigram_w2": 661482
+  },
+  {
+    "w1": "school",
+    "w2": "year",
+    "pmi": -1.7456306898490084,
+    "cooc_count": 76618,
+    "unigram_w1": 527892,
+    "unigram_w2": 661482
+  },
+  {
+    "w1": "2014",
+    "w2": "year",
+    "pmi": -2.2534493328697027,
+    "cooc_count": 35358,
+    "unigram_w1": 404804,
+    "unigram_w2": 661482
+  },
+  {
+    "w1": "did",
+    "w2": "year",
+    "pmi": -1.4065966804387717,
+    "cooc_count": 42261,
+    "unigram_w1": 207450,
+    "unigram_w2": 661482
+  },
+  {
+    "w1": "academy",
+    "w2": "become",
+    "pmi": -1.2075413833225739,
+    "cooc_count": 1032,
+    "unigram_w1": 37365,
+    "unigram_w2": 73495
+  },
+  {
+    "w1": "academy",
+    "w2": "school",
+    "pmi": -1.0653680744498812,
+    "cooc_count": 8545,
+    "unigram_w1": 37365,
+    "unigram_w2": 527892
+  },
+  {
+    "w1": "2014",
+    "w2": "academy",
+    "pmi": -2.0075649154250064,
+    "cooc_count": 2554,
+    "unigram_w1": 404804,
+    "unigram_w2": 37365
+  },
+  {
+    "w1": "academy",
+    "w2": "did",
+    "pmi": -2.0043984251462117,
+    "cooc_count": 1313,
+    "unigram_w1": 37365,
+    "unigram_w2": 207450
+  },
+  {
+    "w1": "become",
+    "w2": "school",
+    "pmi": -1.357954866721081,
+    "cooc_count": 12544,
+    "unigram_w1": 73495,
+    "unigram_w2": 527892
+  },
+  {
+    "w1": "2014",
+    "w2": "become",
+    "pmi": -2.3201554796822514,
+    "cooc_count": 3675,
+    "unigram_w1": 404804,
+    "unigram_w2": 73495
+  },
+  {
+    "w1": "become",
+    "w2": "did",
+    "pmi": -0.6413538455218459,
+    "cooc_count": 10093,
+    "unigram_w1": 73495,
+    "unigram_w2": 207450
+  },
+  {
+    "w1": "2014",
+    "w2": "school",
+    "pmi": -3.2073762518494235,
+    "cooc_count": 10870,
+    "unigram_w1": 404804,
+    "unigram_w2": 527892
+  },
+  {
+    "w1": "did",
+    "w2": "school",
+    "pmi": -2.0686874918101537,
+    "cooc_count": 17395,
+    "unigram_w1": 207450,
+    "unigram_w2": 527892
+  },
+  {
+    "w1": "2014",
+    "w2": "did",
+    "pmi": -2.440830485047941,
+    "cooc_count": 9194,
+    "unigram_w1": 404804,
+    "unigram_w2": 207450
+  }
+]

@@ -1,0 +1,778 @@
+[
+  {
+    "w1": "contribuiu",
+    "w2": "para",
+    "pmi": -0.7261384117508083,
+    "cooc_count": 13384,
+    "unigram_w1": 13877,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "jack",
+    "pmi": -0.020575163250474125,
+    "cooc_count": 48,
+    "unigram_w1": 13877,
+    "unigram_w2": 23682
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "álbum",
+    "pmi": -0.34000495309884315,
+    "cooc_count": 113,
+    "unigram_w1": 13877,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "quem",
+    "pmi": -1.140445882123485,
+    "cooc_count": 534,
+    "unigram_w1": 13877,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "to",
+    "pmi": -4.680518840316726,
+    "cooc_count": 15,
+    "unigram_w1": 13877,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "johnson",
+    "pmi": -1.2583507051479446,
+    "cooc_count": 8,
+    "unigram_w1": 13877,
+    "unigram_w2": 13609
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "the",
+    "pmi": -2.649495308920709,
+    "cooc_count": 269,
+    "unigram_w1": 13877,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "para",
+    "w2": "youngblood",
+    "pmi": -0.903407047554217,
+    "cooc_count": 290,
+    "unigram_w1": 13371659,
+    "unigram_w2": 359
+  },
+  {
+    "w1": "quem",
+    "w2": "youngblood",
+    "pmi": 0.8685529510286871,
+    "cooc_count": 103,
+    "unigram_w1": 807369,
+    "unigram_w2": 359
+  },
+  {
+    "w1": "the",
+    "w2": "youngblood",
+    "pmi": -2.02459164717828,
+    "cooc_count": 13,
+    "unigram_w1": 1839310,
+    "unigram_w2": 359
+  },
+  {
+    "w1": "keys",
+    "w2": "para",
+    "pmi": -1.5516750619373667,
+    "cooc_count": 1427,
+    "unigram_w1": 3378,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "jack",
+    "w2": "keys",
+    "pmi": -2.4788271991551,
+    "cooc_count": 1,
+    "unigram_w1": 23682,
+    "unigram_w2": 3378
+  },
+  {
+    "w1": "keys",
+    "w2": "álbum",
+    "pmi": -0.22045659232277248,
+    "cooc_count": 31,
+    "unigram_w1": 3378,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "jim",
+    "w2": "keys",
+    "pmi": 2.6940141030169062,
+    "cooc_count": 50,
+    "unigram_w1": 6712,
+    "unigram_w2": 3378
+  },
+  {
+    "w1": "keys",
+    "w2": "quem",
+    "pmi": -0.7503973740526335,
+    "cooc_count": 192,
+    "unigram_w1": 3378,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "keys",
+    "w2": "to",
+    "pmi": 0.2934762172905907,
+    "cooc_count": 528,
+    "unigram_w1": 3378,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "keys",
+    "w2": "mississippi",
+    "pmi": 3.461741371207238,
+    "cooc_count": 27,
+    "unigram_w1": 3378,
+    "unigram_w2": 1682
+  },
+  {
+    "w1": "keys",
+    "w2": "the",
+    "pmi": 0.1070267704976767,
+    "cooc_count": 1031,
+    "unigram_w1": 3378,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "oldham",
+    "w2": "para",
+    "pmi": -2.6334307421087044,
+    "cooc_count": 117,
+    "unigram_w1": 817,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "kingdom",
+    "w2": "oldham",
+    "pmi": 3.712487110528668,
+    "cooc_count": 29,
+    "unigram_w1": 5813,
+    "unigram_w2": 817
+  },
+  {
+    "w1": "north",
+    "w2": "oldham",
+    "pmi": 2.315700506221888,
+    "cooc_count": 24,
+    "unigram_w1": 19446,
+    "unigram_w2": 817
+  },
+  {
+    "w1": "oldham",
+    "w2": "to",
+    "pmi": -0.6441970584797821,
+    "cooc_count": 50,
+    "unigram_w1": 817,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "oldham",
+    "w2": "the",
+    "pmi": -2.1160208450072115,
+    "cooc_count": 27,
+    "unigram_w1": 817,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "jack",
+    "w2": "para",
+    "pmi": -1.337065023757518,
+    "cooc_count": 12399,
+    "unigram_w1": 23682,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "allstars",
+    "w2": "para",
+    "pmi": -0.6899655820464576,
+    "cooc_count": 28,
+    "unigram_w1": 28,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "para",
+    "w2": "ry",
+    "pmi": -1.2467009071165263,
+    "cooc_count": 149,
+    "unigram_w1": 13371659,
+    "unigram_w2": 260
+  },
+  {
+    "w1": "para",
+    "w2": "álbum",
+    "pmi": -1.557275649507515,
+    "cooc_count": 32234,
+    "unigram_w1": 13371659,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "ashford",
+    "w2": "para",
+    "pmi": -2.028924200265405,
+    "cooc_count": 146,
+    "unigram_w1": 557,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "mavis",
+    "w2": "para",
+    "pmi": -0.7528794074570269,
+    "cooc_count": 154,
+    "unigram_w1": 164,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "kingdom",
+    "w2": "para",
+    "pmi": -1.5960726650888954,
+    "cooc_count": 2349,
+    "unigram_w1": 5813,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "north",
+    "w2": "para",
+    "pmi": -1.7767688231223244,
+    "cooc_count": 6559,
+    "unigram_w1": 19446,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "jim",
+    "w2": "para",
+    "pmi": -1.2437136367278252,
+    "cooc_count": 3858,
+    "unigram_w1": 6712,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "para",
+    "w2": "staples",
+    "pmi": -1.2456988751346685,
+    "cooc_count": 553,
+    "unigram_w1": 13371659,
+    "unigram_w2": 964
+  },
+  {
+    "w1": "para",
+    "w2": "quem",
+    "pmi": -0.9496574446460403,
+    "cooc_count": 622715,
+    "unigram_w1": 13371659,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "para",
+    "w2": "to",
+    "pmi": -2.6281827728276115,
+    "cooc_count": 112538,
+    "unigram_w1": 13371659,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "mississippi",
+    "w2": "para",
+    "pmi": -1.4418812009445032,
+    "cooc_count": 793,
+    "unigram_w1": 1682,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "alvin",
+    "w2": "para",
+    "pmi": -1.3402052615951263,
+    "cooc_count": 500,
+    "unigram_w1": 958,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "johnson",
+    "w2": "para",
+    "pmi": -1.4745360246792507,
+    "cooc_count": 6210,
+    "unigram_w1": 13609,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "para",
+    "w2": "the",
+    "pmi": -2.8474966591018482,
+    "cooc_count": 212643,
+    "unigram_w1": 13371659,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "hart",
+    "w2": "para",
+    "pmi": -1.4343264359898906,
+    "cooc_count": 1256,
+    "unigram_w1": 2644,
+    "unigram_w2": 13371659
+  },
+  {
+    "w1": "jack",
+    "w2": "álbum",
+    "pmi": -0.43708927040756124,
+    "cooc_count": 175,
+    "unigram_w1": 23682,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "jack",
+    "w2": "jim",
+    "pmi": 1.3671591432188595,
+    "cooc_count": 93,
+    "unigram_w1": 23682,
+    "unigram_w2": 6712
+  },
+  {
+    "w1": "jack",
+    "w2": "quem",
+    "pmi": -1.2570561394881588,
+    "cooc_count": 811,
+    "unigram_w1": 23682,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "jack",
+    "w2": "to",
+    "pmi": -0.9828290448191891,
+    "cooc_count": 1033,
+    "unigram_w1": 23682,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "jack",
+    "w2": "mississippi",
+    "pmi": 1.1088448155759167,
+    "cooc_count": 18,
+    "unigram_w1": 23682,
+    "unigram_w2": 1682
+  },
+  {
+    "w1": "jack",
+    "w2": "johnson",
+    "pmi": 1.4983633087799906,
+    "cooc_count": 215,
+    "unigram_w1": 23682,
+    "unigram_w2": 13609
+  },
+  {
+    "w1": "jack",
+    "w2": "the",
+    "pmi": -0.9900630954174079,
+    "cooc_count": 2413,
+    "unigram_w1": 23682,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "hart",
+    "w2": "jack",
+    "pmi": 2.042829816257124,
+    "cooc_count": 72,
+    "unigram_w1": 2644,
+    "unigram_w2": 23682
+  },
+  {
+    "w1": "ry",
+    "w2": "to",
+    "pmi": 0.500760405364693,
+    "cooc_count": 50,
+    "unigram_w1": 260,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "ry",
+    "w2": "the",
+    "pmi": 0.44262995414526873,
+    "cooc_count": 111,
+    "unigram_w1": 260,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "kingdom",
+    "w2": "álbum",
+    "pmi": -0.34710916543146536,
+    "cooc_count": 47,
+    "unigram_w1": 5813,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "north",
+    "w2": "álbum",
+    "pmi": 0.07999556168087926,
+    "cooc_count": 241,
+    "unigram_w1": 19446,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "jim",
+    "w2": "álbum",
+    "pmi": -0.9070697431020691,
+    "cooc_count": 31,
+    "unigram_w1": 6712,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "staples",
+    "w2": "álbum",
+    "pmi": 1.6599470164957004,
+    "cooc_count": 58,
+    "unigram_w1": 964,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "quem",
+    "w2": "álbum",
+    "pmi": -1.3181579726788093,
+    "cooc_count": 2472,
+    "unigram_w1": 807369,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "to",
+    "w2": "álbum",
+    "pmi": -1.274222180714027,
+    "cooc_count": 2501,
+    "unigram_w1": 781729,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "mississippi",
+    "w2": "álbum",
+    "pmi": 1.346921553231103,
+    "cooc_count": 74,
+    "unigram_w1": 1682,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "alvin",
+    "w2": "álbum",
+    "pmi": 1.1022550840554464,
+    "cooc_count": 33,
+    "unigram_w1": 958,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "johnson",
+    "w2": "álbum",
+    "pmi": 0.5430956635103658,
+    "cooc_count": 268,
+    "unigram_w1": 13609,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "the",
+    "w2": "álbum",
+    "pmi": -0.5307105681552362,
+    "cooc_count": 12377,
+    "unigram_w1": 1839310,
+    "unigram_w2": 76733
+  },
+  {
+    "w1": "ashford",
+    "w2": "the",
+    "pmi": -1.4178659434345973,
+    "cooc_count": 37,
+    "unigram_w1": 557,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "mavis",
+    "w2": "staples",
+    "pmi": 7.6395450187794305,
+    "cooc_count": 49,
+    "unigram_w1": 164,
+    "unigram_w2": 964
+  },
+  {
+    "w1": "mavis",
+    "w2": "the",
+    "pmi": -0.09251297727142822,
+    "cooc_count": 41,
+    "unigram_w1": 164,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "kingdom",
+    "w2": "north",
+    "pmi": 1.252971146938314,
+    "cooc_count": 59,
+    "unigram_w1": 5813,
+    "unigram_w2": 19446
+  },
+  {
+    "w1": "kingdom",
+    "w2": "quem",
+    "pmi": -1.8685744892898006,
+    "cooc_count": 108,
+    "unigram_w1": 5813,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "kingdom",
+    "w2": "to",
+    "pmi": 0.31244119789690333,
+    "cooc_count": 926,
+    "unigram_w1": 5813,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "johnson",
+    "w2": "kingdom",
+    "pmi": 0.7904402958633614,
+    "cooc_count": 26,
+    "unigram_w1": 13609,
+    "unigram_w2": 5813
+  },
+  {
+    "w1": "kingdom",
+    "w2": "the",
+    "pmi": 0.05426251033791774,
+    "cooc_count": 1683,
+    "unigram_w1": 5813,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "jim",
+    "w2": "north",
+    "pmi": 0.9234538206975298,
+    "cooc_count": 49,
+    "unigram_w1": 6712,
+    "unigram_w2": 19446
+  },
+  {
+    "w1": "north",
+    "w2": "quem",
+    "pmi": -4.292514418282545,
+    "cooc_count": 32,
+    "unigram_w1": 19446,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "north",
+    "w2": "to",
+    "pmi": -0.365873668428376,
+    "cooc_count": 1572,
+    "unigram_w1": 19446,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "mississippi",
+    "w2": "north",
+    "pmi": 4.1807380329858965,
+    "cooc_count": 319,
+    "unigram_w1": 1682,
+    "unigram_w2": 19446
+  },
+  {
+    "w1": "johnson",
+    "w2": "north",
+    "pmi": 1.8012627051051384,
+    "cooc_count": 239,
+    "unigram_w1": 13609,
+    "unigram_w2": 19446
+  },
+  {
+    "w1": "north",
+    "w2": "the",
+    "pmi": 0.0024886081777241954,
+    "cooc_count": 5346,
+    "unigram_w1": 19446,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "hart",
+    "w2": "north",
+    "pmi": -2.0367624302376317,
+    "cooc_count": 1,
+    "unigram_w1": 2644,
+    "unigram_w2": 19446
+  },
+  {
+    "w1": "jim",
+    "w2": "staples",
+    "pmi": 2.9803778795124005,
+    "cooc_count": 19,
+    "unigram_w1": 6712,
+    "unigram_w2": 964
+  },
+  {
+    "w1": "jim",
+    "w2": "quem",
+    "pmi": -0.7030413497517296,
+    "cooc_count": 400,
+    "unigram_w1": 6712,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "jim",
+    "w2": "to",
+    "pmi": -1.0638112581965928,
+    "cooc_count": 270,
+    "unigram_w1": 6712,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "jim",
+    "w2": "mississippi",
+    "pmi": 0.17243853498355755,
+    "cooc_count": 2,
+    "unigram_w1": 6712,
+    "unigram_w2": 1682
+  },
+  {
+    "w1": "jim",
+    "w2": "the",
+    "pmi": -0.5396571216678812,
+    "cooc_count": 1073,
+    "unigram_w1": 6712,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "staples",
+    "w2": "to",
+    "pmi": -0.4312128225100798,
+    "cooc_count": 73,
+    "unigram_w1": 964,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "staples",
+    "w2": "the",
+    "pmi": -0.18823818094558256,
+    "cooc_count": 219,
+    "unigram_w1": 964,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "quem",
+    "w2": "to",
+    "pmi": -2.6607830675627917,
+    "cooc_count": 6577,
+    "unigram_w1": 807369,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "mississippi",
+    "w2": "quem",
+    "pmi": -2.9126972164471927,
+    "cooc_count": 11,
+    "unigram_w1": 1682,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "johnson",
+    "w2": "quem",
+    "pmi": -1.1023910194170445,
+    "cooc_count": 544,
+    "unigram_w1": 13609,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "quem",
+    "w2": "the",
+    "pmi": -2.8182685945620776,
+    "cooc_count": 13220,
+    "unigram_w1": 807369,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "hart",
+    "w2": "quem",
+    "pmi": -2.7671695761302555,
+    "cooc_count": 20,
+    "unigram_w1": 2644,
+    "unigram_w2": 807369
+  },
+  {
+    "w1": "alvin",
+    "w2": "to",
+    "pmi": -0.9542286313252236,
+    "cooc_count": 43,
+    "unigram_w1": 958,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "johnson",
+    "w2": "to",
+    "pmi": -1.8436146474764592,
+    "cooc_count": 251,
+    "unigram_w1": 13609,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "the",
+    "w2": "to",
+    "pmi": 0.4591225549119676,
+    "cooc_count": 339288,
+    "unigram_w1": 1839310,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "hart",
+    "w2": "to",
+    "pmi": -0.6617249677992707,
+    "cooc_count": 159,
+    "unigram_w1": 2644,
+    "unigram_w2": 781729
+  },
+  {
+    "w1": "johnson",
+    "w2": "mississippi",
+    "pmi": 2.0682938510146656,
+    "cooc_count": 27,
+    "unigram_w1": 13609,
+    "unigram_w2": 1682
+  },
+  {
+    "w1": "mississippi",
+    "w2": "the",
+    "pmi": -1.5906626744144272,
+    "cooc_count": 94,
+    "unigram_w1": 1682,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "alvin",
+    "w2": "the",
+    "pmi": -0.07800495078184984,
+    "cooc_count": 243,
+    "unigram_w1": 958,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "johnson",
+    "w2": "the",
+    "pmi": -0.5923041071104019,
+    "cooc_count": 2064,
+    "unigram_w1": 13609,
+    "unigram_w2": 1839310
+  },
+  {
+    "w1": "hart",
+    "w2": "johnson",
+    "pmi": 2.327480809804124,
+    "cooc_count": 55,
+    "unigram_w1": 2644,
+    "unigram_w2": 13609
+  },
+  {
+    "w1": "hart",
+    "w2": "the",
+    "pmi": -0.39800269404052485,
+    "cooc_count": 487,
+    "unigram_w1": 2644,
+    "unigram_w2": 1839310
+  }
+]
