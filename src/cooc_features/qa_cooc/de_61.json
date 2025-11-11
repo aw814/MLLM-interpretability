@@ -1,0 +1,946 @@
+[
+  {
+    "w1": "dem",
+    "w2": "song",
+    "pmi": -0.8149554981087883,
+    "cooc_count": 14675,
+    "unigram_w1": 5598318,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "dem",
+    "w2": "that",
+    "pmi": -2.46222737247164,
+    "cooc_count": 10869,
+    "unigram_w1": 5598318,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "dem",
+    "w2": "motion",
+    "pmi": -1.1960836478025538,
+    "cooc_count": 1869,
+    "unigram_w1": 5598318,
+    "unigram_w2": 10116
+  },
+  {
+    "w1": "dem",
+    "w2": "heart",
+    "pmi": -1.9560301305024281,
+    "cooc_count": 2423,
+    "unigram_w1": 5598318,
+    "unigram_w2": 28041
+  },
+  {
+    "w1": "dem",
+    "w2": "wie",
+    "pmi": -0.7792804427295023,
+    "cooc_count": 1005956,
+    "unigram_w1": 5598318,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "album",
+    "w2": "dem",
+    "pmi": -0.8732533987685487,
+    "cooc_count": 21977,
+    "unigram_w1": 86132,
+    "unigram_w2": 5598318
+  },
+  {
+    "w1": "dem",
+    "w2": "love",
+    "pmi": -1.8263012449913116,
+    "cooc_count": 6486,
+    "unigram_w1": 5598318,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "dem",
+    "w2": "heißt",
+    "pmi": -0.6033756495606014,
+    "cooc_count": 54059,
+    "unigram_w1": 5598318,
+    "unigram_w2": 161755
+  },
+  {
+    "w1": "dem",
+    "w2": "for",
+    "pmi": -2.2631735617784243,
+    "cooc_count": 50604,
+    "unigram_w1": 5598318,
+    "unigram_w2": 796188
+  },
+  {
+    "w1": "auf",
+    "w2": "dem",
+    "pmi": -0.6447545723669023,
+    "cooc_count": 2638662,
+    "unigram_w1": 8228944,
+    "unigram_w2": 5598318
+  },
+  {
+    "w1": "dem",
+    "w2": "what",
+    "pmi": -2.198057076813635,
+    "cooc_count": 3850,
+    "unigram_w1": 5598318,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "dem",
+    "w2": "is",
+    "pmi": -2.3091662029254203,
+    "cooc_count": 45208,
+    "unigram_w1": 5598318,
+    "unigram_w2": 744767
+  },
+  {
+    "w1": "dem",
+    "w2": "veröffentlicht",
+    "pmi": -0.8007891271854707,
+    "cooc_count": 55800,
+    "unigram_w1": 5598318,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "dem",
+    "w2": "wurde",
+    "pmi": -0.5631712185304825,
+    "cooc_count": 511965,
+    "unigram_w1": 5598318,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "dem",
+    "w2": "s",
+    "pmi": -1.4832616038086002,
+    "cooc_count": 212235,
+    "unigram_w1": 5598318,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "song",
+    "w2": "that",
+    "pmi": -0.16572368305483515,
+    "cooc_count": 1047,
+    "unigram_w1": 54257,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "motion",
+    "w2": "song",
+    "pmi": 0.06613008621101019,
+    "cooc_count": 64,
+    "unigram_w1": 10116,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "heart",
+    "w2": "song",
+    "pmi": 1.5933367016505038,
+    "cooc_count": 817,
+    "unigram_w1": 28041,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "song",
+    "w2": "wie",
+    "pmi": -0.7588115481156383,
+    "cooc_count": 9951,
+    "unigram_w1": 54257,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "album",
+    "w2": "song",
+    "pmi": 2.48054428796035,
+    "cooc_count": 6094,
+    "unigram_w1": 86132,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "love",
+    "w2": "song",
+    "pmi": 1.6598443432698136,
+    "cooc_count": 2053,
+    "unigram_w1": 65929,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "heißt",
+    "w2": "song",
+    "pmi": 0.09468099898870366,
+    "cooc_count": 1053,
+    "unigram_w1": 161755,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "for",
+    "w2": "song",
+    "pmi": -0.5967429293795489,
+    "cooc_count": 2596,
+    "unigram_w1": 796188,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "auf",
+    "w2": "song",
+    "pmi": -1.0469800094575559,
+    "cooc_count": 17104,
+    "unigram_w1": 8228944,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "song",
+    "w2": "what",
+    "pmi": 0.642508408391525,
+    "cooc_count": 639,
+    "unigram_w1": 54257,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "is",
+    "w2": "song",
+    "pmi": -0.5322929314320611,
+    "cooc_count": 2590,
+    "unigram_w1": 744767,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "song",
+    "w2": "veröffentlicht",
+    "pmi": 0.1192028423894509,
+    "cooc_count": 1357,
+    "unigram_w1": 54257,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "song",
+    "w2": "wurde",
+    "pmi": -0.6182269412231314,
+    "cooc_count": 4696,
+    "unigram_w1": 54257,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "s",
+    "w2": "song",
+    "pmi": -0.6300339937798854,
+    "cooc_count": 4828,
+    "unigram_w1": 1530863,
+    "unigram_w2": 54257
+  },
+  {
+    "w1": "motion",
+    "w2": "that",
+    "pmi": 0.36834828360204064,
+    "cooc_count": 333,
+    "unigram_w1": 10116,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "heart",
+    "w2": "that",
+    "pmi": 0.9412769749318944,
+    "cooc_count": 1637,
+    "unigram_w1": 28041,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "that",
+    "w2": "wie",
+    "pmi": -2.2009820671645857,
+    "cooc_count": 9048,
+    "unigram_w1": 208674,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "album",
+    "w2": "that",
+    "pmi": -0.7474481420012075,
+    "cooc_count": 929,
+    "unigram_w1": 86132,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": 1.3616505995921968,
+    "cooc_count": 5860,
+    "unigram_w1": 65929,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "heißt",
+    "w2": "that",
+    "pmi": -2.756437607017312,
+    "cooc_count": 234,
+    "unigram_w1": 161755,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": 1.219637610924383,
+    "cooc_count": 61399,
+    "unigram_w1": 796188,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "auf",
+    "w2": "that",
+    "pmi": -2.3347181101957233,
+    "cooc_count": 18149,
+    "unigram_w1": 8228944,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 2.1749117973239653,
+    "cooc_count": 11377,
+    "unigram_w1": 208674,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "is",
+    "w2": "that",
+    "pmi": 1.612482430614544,
+    "cooc_count": 85070,
+    "unigram_w1": 744767,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "that",
+    "w2": "veröffentlicht",
+    "pmi": -1.4843245835235905,
+    "cooc_count": 1050,
+    "unigram_w1": 208674,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "that",
+    "w2": "wurde",
+    "pmi": -2.375108232193468,
+    "cooc_count": 3117,
+    "unigram_w1": 208674,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": -0.03359432488679577,
+    "cooc_count": 33714,
+    "unigram_w1": 1530863,
+    "unigram_w2": 208674
+  },
+  {
+    "w1": "motion",
+    "w2": "wie",
+    "pmi": -1.0011779594272003,
+    "cooc_count": 1456,
+    "unigram_w1": 10116,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "album",
+    "w2": "motion",
+    "pmi": -0.6428789786101896,
+    "cooc_count": 50,
+    "unigram_w1": 86132,
+    "unigram_w2": 10116
+  },
+  {
+    "w1": "love",
+    "w2": "motion",
+    "pmi": 0.6611605041760172,
+    "cooc_count": 141,
+    "unigram_w1": 65929,
+    "unigram_w2": 10116
+  },
+  {
+    "w1": "for",
+    "w2": "motion",
+    "pmi": -0.08429426113546507,
+    "cooc_count": 808,
+    "unigram_w1": 796188,
+    "unigram_w2": 10116
+  },
+  {
+    "w1": "auf",
+    "w2": "motion",
+    "pmi": -1.0422786469871637,
+    "cooc_count": 3204,
+    "unigram_w1": 8228944,
+    "unigram_w2": 10116
+  },
+  {
+    "w1": "motion",
+    "w2": "what",
+    "pmi": 0.2689368888252121,
+    "cooc_count": 82,
+    "unigram_w1": 10116,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "is",
+    "w2": "motion",
+    "pmi": -0.15958451154408565,
+    "cooc_count": 701,
+    "unigram_w1": 744767,
+    "unigram_w2": 10116
+  },
+  {
+    "w1": "motion",
+    "w2": "veröffentlicht",
+    "pmi": -0.9255787601663094,
+    "cooc_count": 89,
+    "unigram_w1": 10116,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "motion",
+    "w2": "wurde",
+    "pmi": -0.9410306607468689,
+    "cooc_count": 634,
+    "unigram_w1": 10116,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "motion",
+    "w2": "s",
+    "pmi": -0.33920326258157224,
+    "cooc_count": 1204,
+    "unigram_w1": 10116,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "heart",
+    "w2": "wie",
+    "pmi": -1.7877422813290367,
+    "cooc_count": 1838,
+    "unigram_w1": 28041,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "album",
+    "w2": "heart",
+    "pmi": 0.926838290441216,
+    "cooc_count": 666,
+    "unigram_w1": 86132,
+    "unigram_w2": 28041
+  },
+  {
+    "w1": "heart",
+    "w2": "love",
+    "pmi": 1.9526708281001979,
+    "cooc_count": 1422,
+    "unigram_w1": 28041,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "heart",
+    "w2": "heißt",
+    "pmi": -1.7858126138625423,
+    "cooc_count": 83,
+    "unigram_w1": 28041,
+    "unigram_w2": 161755
+  },
+  {
+    "w1": "for",
+    "w2": "heart",
+    "pmi": 0.28368756246098437,
+    "cooc_count": 3236,
+    "unigram_w1": 796188,
+    "unigram_w2": 28041
+  },
+  {
+    "w1": "auf",
+    "w2": "heart",
+    "pmi": -1.985826911314626,
+    "cooc_count": 3457,
+    "unigram_w1": 8228944,
+    "unigram_w2": 28041
+  },
+  {
+    "w1": "heart",
+    "w2": "what",
+    "pmi": 0.1945263789761881,
+    "cooc_count": 211,
+    "unigram_w1": 28041,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "heart",
+    "w2": "is",
+    "pmi": 0.437128029035757,
+    "cooc_count": 3529,
+    "unigram_w1": 28041,
+    "unigram_w2": 744767
+  },
+  {
+    "w1": "heart",
+    "w2": "veröffentlicht",
+    "pmi": -0.17227284163824427,
+    "cooc_count": 524,
+    "unigram_w1": 28041,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "heart",
+    "w2": "wurde",
+    "pmi": -1.613573149186136,
+    "cooc_count": 897,
+    "unigram_w1": 28041,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "heart",
+    "w2": "s",
+    "pmi": 0.11039160862585881,
+    "cooc_count": 5232,
+    "unigram_w1": 28041,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "album",
+    "w2": "wie",
+    "pmi": -0.9513024494755684,
+    "cooc_count": 13031,
+    "unigram_w1": 86132,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "love",
+    "w2": "wie",
+    "pmi": -1.4361805637835223,
+    "cooc_count": 6142,
+    "unigram_w1": 65929,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "heißt",
+    "w2": "wie",
+    "pmi": -0.18065895516702768,
+    "cooc_count": 52888,
+    "unigram_w1": 161755,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "for",
+    "w2": "wie",
+    "pmi": -2.092475281322726,
+    "cooc_count": 38479,
+    "unigram_w1": 796188,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "auf",
+    "w2": "wie",
+    "pmi": -0.7762097084005481,
+    "cooc_count": 1483198,
+    "unigram_w1": 8228944,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "what",
+    "w2": "wie",
+    "pmi": -1.6452272250991173,
+    "cooc_count": 4290,
+    "unigram_w1": 56756,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "is",
+    "w2": "wie",
+    "pmi": -2.0482084326686554,
+    "cooc_count": 37623,
+    "unigram_w1": 744767,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "veröffentlicht",
+    "w2": "wie",
+    "pmi": -1.0067619196823632,
+    "cooc_count": 29113,
+    "unigram_w1": 203404,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "wie",
+    "w2": "wurde",
+    "pmi": -0.8032626560547874,
+    "cooc_count": 258152,
+    "unigram_w1": 3588915,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "s",
+    "w2": "wie",
+    "pmi": -1.3156807425859438,
+    "cooc_count": 160880,
+    "unigram_w1": 1530863,
+    "unigram_w2": 3588915
+  },
+  {
+    "w1": "album",
+    "w2": "love",
+    "pmi": 1.378147981577399,
+    "cooc_count": 2459,
+    "unigram_w1": 86132,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "album",
+    "w2": "heißt",
+    "pmi": -0.1683525027056255,
+    "cooc_count": 1285,
+    "unigram_w1": 86132,
+    "unigram_w2": 161755
+  },
+  {
+    "w1": "album",
+    "w2": "for",
+    "pmi": -1.051217281516114,
+    "cooc_count": 2616,
+    "unigram_w1": 86132,
+    "unigram_w2": 796188
+  },
+  {
+    "w1": "album",
+    "w2": "auf",
+    "pmi": -0.9228766125194694,
+    "cooc_count": 30740,
+    "unigram_w1": 86132,
+    "unigram_w2": 8228944
+  },
+  {
+    "w1": "album",
+    "w2": "what",
+    "pmi": 0.0340030134014114,
+    "cooc_count": 552,
+    "unigram_w1": 86132,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "album",
+    "w2": "is",
+    "pmi": -0.8619245531628414,
+    "cooc_count": 2957,
+    "unigram_w1": 86132,
+    "unigram_w2": 744767
+  },
+  {
+    "w1": "album",
+    "w2": "veröffentlicht",
+    "pmi": 0.7163373436209294,
+    "cooc_count": 3914,
+    "unigram_w1": 86132,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "album",
+    "w2": "wurde",
+    "pmi": -0.6820343719974166,
+    "cooc_count": 6994,
+    "unigram_w1": 86132,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "album",
+    "w2": "s",
+    "pmi": -0.7578137942451253,
+    "cooc_count": 6745,
+    "unigram_w1": 86132,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "heißt",
+    "w2": "love",
+    "pmi": -1.4950434948760678,
+    "cooc_count": 261,
+    "unigram_w1": 161755,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": 0.6504232399777137,
+    "cooc_count": 10979,
+    "unigram_w1": 796188,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "auf",
+    "w2": "love",
+    "pmi": -1.6705067557165552,
+    "cooc_count": 11141,
+    "unigram_w1": 8228944,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": 1.7718145676004295,
+    "cooc_count": 2402,
+    "unigram_w1": 65929,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "is",
+    "w2": "love",
+    "pmi": 0.6962015773060939,
+    "cooc_count": 10751,
+    "unigram_w1": 744767,
+    "unigram_w2": 65929
+  },
+  {
+    "w1": "love",
+    "w2": "veröffentlicht",
+    "pmi": -0.6915295046122558,
+    "cooc_count": 733,
+    "unigram_w1": 65929,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "love",
+    "w2": "wurde",
+    "pmi": -1.489747065445723,
+    "cooc_count": 2387,
+    "unigram_w1": 65929,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": -0.2847453424134496,
+    "cooc_count": 8286,
+    "unigram_w1": 65929,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "for",
+    "w2": "heißt",
+    "pmi": -2.153872233032157,
+    "cooc_count": 1631,
+    "unigram_w1": 796188,
+    "unigram_w2": 161755
+  },
+  {
+    "w1": "auf",
+    "w2": "heißt",
+    "pmi": -0.6884303567886589,
+    "cooc_count": 72982,
+    "unigram_w1": 8228944,
+    "unigram_w2": 161755
+  },
+  {
+    "w1": "heißt",
+    "w2": "what",
+    "pmi": -2.0345495512344995,
+    "cooc_count": 131,
+    "unigram_w1": 161755,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "heißt",
+    "w2": "is",
+    "pmi": -2.2235343164854333,
+    "cooc_count": 1423,
+    "unigram_w1": 161755,
+    "unigram_w2": 744767
+  },
+  {
+    "w1": "heißt",
+    "w2": "veröffentlicht",
+    "pmi": -0.8577422929998973,
+    "cooc_count": 1523,
+    "unigram_w1": 161755,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "heißt",
+    "w2": "wurde",
+    "pmi": -0.5776381256180559,
+    "cooc_count": 14580,
+    "unigram_w1": 161755,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "heißt",
+    "w2": "s",
+    "pmi": -1.2417963583266578,
+    "cooc_count": 7807,
+    "unigram_w1": 161755,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "auf",
+    "w2": "for",
+    "pmi": -2.2096410696684066,
+    "cooc_count": 78473,
+    "unigram_w1": 8228944,
+    "unigram_w2": 796188
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 1.1403103080000356,
+    "cooc_count": 15426,
+    "unigram_w1": 796188,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "for",
+    "w2": "is",
+    "pmi": 1.2857455036769396,
+    "cooc_count": 234112,
+    "unigram_w1": 796188,
+    "unigram_w2": 744767
+  },
+  {
+    "w1": "for",
+    "w2": "veröffentlicht",
+    "pmi": -1.278868330466963,
+    "cooc_count": 4920,
+    "unigram_w1": 796188,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "for",
+    "w2": "wurde",
+    "pmi": -2.3663013770259242,
+    "cooc_count": 11998,
+    "unigram_w1": 796188,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": -0.541376141944428,
+    "cooc_count": 77416,
+    "unigram_w1": 796188,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "auf",
+    "w2": "what",
+    "pmi": -2.008972686098968,
+    "cooc_count": 6837,
+    "unigram_w1": 8228944,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "auf",
+    "w2": "is",
+    "pmi": -2.325323596901064,
+    "cooc_count": 65386,
+    "unigram_w1": 8228944,
+    "unigram_w2": 744767
+  },
+  {
+    "w1": "auf",
+    "w2": "veröffentlicht",
+    "pmi": -0.9424864224263467,
+    "cooc_count": 71184,
+    "unigram_w1": 8228944,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "auf",
+    "w2": "wurde",
+    "pmi": -0.8256326163370254,
+    "cooc_count": 578817,
+    "unigram_w1": 8228944,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "auf",
+    "w2": "s",
+    "pmi": -1.4346195060979392,
+    "cooc_count": 327513,
+    "unigram_w1": 8228944,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "is",
+    "w2": "what",
+    "pmi": 1.6000584724283293,
+    "cooc_count": 22852,
+    "unigram_w1": 744767,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "veröffentlicht",
+    "w2": "what",
+    "pmi": -1.1325050191340646,
+    "cooc_count": 406,
+    "unigram_w1": 203404,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "what",
+    "w2": "wurde",
+    "pmi": -1.8172498497536445,
+    "cooc_count": 1481,
+    "unigram_w1": 56756,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 0.30229052032199527,
+    "cooc_count": 12830,
+    "unigram_w1": 1530863,
+    "unigram_w2": 56756
+  },
+  {
+    "w1": "is",
+    "w2": "veröffentlicht",
+    "pmi": -1.6127033278460698,
+    "cooc_count": 3296,
+    "unigram_w1": 744767,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "is",
+    "w2": "wurde",
+    "pmi": -2.6566411346494365,
+    "cooc_count": 8395,
+    "unigram_w1": 744767,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "is",
+    "w2": "s",
+    "pmi": -0.5283450854009002,
+    "cooc_count": 73366,
+    "unigram_w1": 744767,
+    "unigram_w2": 1530863
+  },
+  {
+    "w1": "veröffentlicht",
+    "w2": "wurde",
+    "pmi": 0.1303923587203212,
+    "cooc_count": 37218,
+    "unigram_w1": 203404,
+    "unigram_w2": 1471531
+  },
+  {
+    "w1": "s",
+    "w2": "veröffentlicht",
+    "pmi": -1.1527916808199676,
+    "cooc_count": 10731,
+    "unigram_w1": 1530863,
+    "unigram_w2": 203404
+  },
+  {
+    "w1": "s",
+    "w2": "wurde",
+    "pmi": -1.4934495993319088,
+    "cooc_count": 55221,
+    "unigram_w1": 1530863,
+    "unigram_w2": 1471531
+  }
+]

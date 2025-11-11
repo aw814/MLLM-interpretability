@@ -1,0 +1,58 @@
+[
+  {
+    "w1": "paese",
+    "w2": "trovava",
+    "pmi": -1.0970476976350914,
+    "cooc_count": 705,
+    "unigram_w1": 187190,
+    "unigram_w2": 21032
+  },
+  {
+    "w1": "germania",
+    "w2": "trovava",
+    "pmi": -1.6893384785627,
+    "cooc_count": 123,
+    "unigram_w1": 59051,
+    "unigram_w2": 21032
+  },
+  {
+    "w1": "si",
+    "w2": "trovava",
+    "pmi": -0.7397531641438652,
+    "cooc_count": 20838,
+    "unigram_w1": 3870602,
+    "unigram_w2": 21032
+  },
+  {
+    "w1": "germania",
+    "w2": "paese",
+    "pmi": 0.1313241967699028,
+    "cooc_count": 6761,
+    "unigram_w1": 59051,
+    "unigram_w2": 187190
+  },
+  {
+    "w1": "paese",
+    "w2": "si",
+    "pmi": -1.0782567153345413,
+    "cooc_count": 132205,
+    "unigram_w1": 187190,
+    "unigram_w2": 3870602
+  },
+  {
+    "w1": "germania",
+    "w2": "si",
+    "pmi": -1.4202016892821885,
+    "cooc_count": 29627,
+    "unigram_w1": 59051,
+    "unigram_w2": 3870602
+  },
+  {
+    "w1": "afn",
+    "w2": "si",
+    "pmi": -2.7702626049936816,
+    "cooc_count": 45,
+    "unigram_w1": 346,
+    "unigram_w2": 3870602
+  }
+]

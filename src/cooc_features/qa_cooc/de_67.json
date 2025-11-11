@@ -1,0 +1,90 @@
+[
+  {
+    "w1": "früher",
+    "w2": "genannt",
+    "pmi": -0.370524228272606,
+    "cooc_count": 1210,
+    "unigram_w1": 56597,
+    "unigram_w2": 35885
+  },
+  {
+    "w1": "früher",
+    "w2": "wie",
+    "pmi": -0.8287098154152689,
+    "cooc_count": 36568,
+    "unigram_w1": 56597,
+    "unigram_w2": 1714811
+  },
+  {
+    "w1": "früher",
+    "w2": "wurde",
+    "pmi": -0.9057982792377883,
+    "cooc_count": 14089,
+    "unigram_w1": 56597,
+    "unigram_w2": 713632
+  },
+  {
+    "w1": "kunstturnen",
+    "w2": "wie",
+    "pmi": -1.1201658765450961,
+    "cooc_count": 42,
+    "unigram_w1": 87,
+    "unigram_w2": 1714811
+  },
+  {
+    "w1": "kunstturnen",
+    "w2": "synchronschwimmen",
+    "pmi": 7.455757604739526,
+    "cooc_count": 20,
+    "unigram_w1": 87,
+    "unigram_w2": 154
+  },
+  {
+    "w1": "kunstturnen",
+    "w2": "wurde",
+    "pmi": 0.07929824185373928,
+    "cooc_count": 58,
+    "unigram_w1": 87,
+    "unigram_w2": 713632
+  },
+  {
+    "w1": "genannt",
+    "w2": "wie",
+    "pmi": -1.0072830171735614,
+    "cooc_count": 19394,
+    "unigram_w1": 35885,
+    "unigram_w2": 1714811
+  },
+  {
+    "w1": "genannt",
+    "w2": "wurde",
+    "pmi": -0.39634477848512595,
+    "cooc_count": 14868,
+    "unigram_w1": 35885,
+    "unigram_w2": 713632
+  },
+  {
+    "w1": "synchronschwimmen",
+    "w2": "wie",
+    "pmi": -1.715307911883202,
+    "cooc_count": 41,
+    "unigram_w1": 154,
+    "unigram_w2": 1714811
+  },
+  {
+    "w1": "wie",
+    "w2": "wurde",
+    "pmi": -1.3641247240570686,
+    "cooc_count": 269932,
+    "unigram_w1": 1714811,
+    "unigram_w2": 713632
+  },
+  {
+    "w1": "synchronschwimmen",
+    "w2": "wurde",
+    "pmi": -2.354964675115506,
+    "cooc_count": 9,
+    "unigram_w1": 154,
+    "unigram_w2": 713632
+  }
+]

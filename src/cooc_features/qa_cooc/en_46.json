@@ -1,0 +1,98 @@
+[
+  {
+    "w1": "religious",
+    "w2": "shamanism",
+    "pmi": 2.5240973902781114,
+    "cooc_count": 26,
+    "unigram_w1": 23633,
+    "unigram_w2": 60
+  },
+  {
+    "w1": "religious",
+    "w2": "what",
+    "pmi": -1.8337162480417397,
+    "cooc_count": 5664,
+    "unigram_w1": 23633,
+    "unigram_w2": 1020647
+  },
+  {
+    "w1": "follow",
+    "w2": "religious",
+    "pmi": -1.4440968683176991,
+    "cooc_count": 642,
+    "unigram_w1": 78357,
+    "unigram_w2": 23633
+  },
+  {
+    "w1": "did",
+    "w2": "religious",
+    "pmi": -1.8960778477998008,
+    "cooc_count": 1395,
+    "unigram_w1": 267553,
+    "unigram_w2": 23633
+  },
+  {
+    "w1": "practice",
+    "w2": "religious",
+    "pmi": -1.0358567800769591,
+    "cooc_count": 1358,
+    "unigram_w1": 110191,
+    "unigram_w2": 23633
+  },
+  {
+    "w1": "shamanism",
+    "w2": "what",
+    "pmi": -1.0338112234573833,
+    "cooc_count": 32,
+    "unigram_w1": 60,
+    "unigram_w2": 1020647
+  },
+  {
+    "w1": "follow",
+    "w2": "what",
+    "pmi": -1.4927730103923835,
+    "cooc_count": 26409,
+    "unigram_w1": 78357,
+    "unigram_w2": 1020647
+  },
+  {
+    "w1": "did",
+    "w2": "what",
+    "pmi": -1.0480821935358207,
+    "cooc_count": 140673,
+    "unigram_w1": 267553,
+    "unigram_w2": 1020647
+  },
+  {
+    "w1": "practice",
+    "w2": "what",
+    "pmi": -1.964818438363659,
+    "cooc_count": 23164,
+    "unigram_w1": 110191,
+    "unigram_w2": 1020647
+  },
+  {
+    "w1": "did",
+    "w2": "follow",
+    "pmi": -1.474150471953192,
+    "cooc_count": 7053,
+    "unigram_w1": 267553,
+    "unigram_w2": 78357
+  },
+  {
+    "w1": "follow",
+    "w2": "practice",
+    "pmi": -1.5892293755501667,
+    "cooc_count": 2589,
+    "unigram_w1": 78357,
+    "unigram_w2": 110191
+  },
+  {
+    "w1": "did",
+    "w2": "practice",
+    "pmi": -2.21758246369205,
+    "cooc_count": 4716,
+    "unigram_w1": 267553,
+    "unigram_w2": 110191
+  }
+]

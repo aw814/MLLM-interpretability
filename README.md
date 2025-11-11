@@ -168,3 +168,34 @@ bow/
 * Each `.json` file contains a **vocabulary dictionary** mapping tokens → feature indices.
 * Each `.pkl` file stores a serialized tuple `(vectorizer, feature_matrix)` for fast reloading and reuse.
 * `metadata.csv` aligns all samples with their IDs and language info, ensuring easy downstream merging.
+
+
+## 5. QA Co-Occurrence Feature Extraction (Chunked Execution)
+
+This module (`src/cooc_features.py`) computes multilingual keyword co-occurrence and PMI-based features for each QA pair in `data/processed/eclektic_long_subset.csv`. It streams documents from a large text corpus via Hugging Face `datasets`, processes a sliding window over tokens, and aggregates statistics per `(q_id, language)` pair. It supports chunked processing and iterative saving, so you can run it on different slices of the data and accumulate results in a single CSV.
+
+### Key Features
+- Extracts keywords per QA pair using language-aware tokenization (`build_language_and_qa_keywords`).
+- Streams corpus documents per language and computes co-occurrence counts within a fixed-size sliding window (default `window_size=50`, `max_docs=100000`).
+- Computes PMI-based statistics for observed keyword pairs and aggregates them per QA pair.
+- Tracks keywords that never appear in the sampled corpus (`cooc_unseen_keywords_count`, `cooc_unseen_keywords_ratio`).
+- Saves results incrementally every 12 rows to `data/processed/eclektic_long_with_cooc_features.csv`.
+- Writes per-QA pair co-occurrence details to `cooc_features/qa_cooc/` as JSON files.
+
+### Usage
+Run in chunks to process parts of `data/processed/eclektic_long_subset.csv` sequentially. Each run reads the same input CSV, slices rows by index, and appends features to a shared output file:
+
+```bash
+# First 100 rows
+python src/cooc_features.py --start_idx 0 --end_idx 100
+
+# Next 100 rows
+python src/cooc_features.py --start_idx 100 --end_idx 200
+
+# Continue to the end
+python src/cooc_features.py --start_idx 200
+```
+
+On the first run with `--start_idx 0`, any existing `data/processed/eclektic_long_with_cooc_features.csv` is removed and recreated. Subsequent runs with `--start_idx > 0` append new rows to the same CSV.
+
+Output columns include: `question`, `answer`, `language`, `q_id`, `cooc_num_pairs`, `cooc_total_pairs`, `cooc_unseen_keywords_count`, `cooc_unseen_keywords_ratio`, and aggregated PMI metrics (`cooc_avg_pmi`, `cooc_max_pmi`, `cooc_min_pmi`, `cooc_std_pmi`).

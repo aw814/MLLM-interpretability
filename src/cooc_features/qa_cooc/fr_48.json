@@ -1,0 +1,66 @@
+[
+  {
+    "w1": "nom",
+    "w2": "protagoniste",
+    "pmi": -1.533403063279614,
+    "cooc_count": 65,
+    "unigram_w1": 173976,
+    "unigram_w2": 483
+  },
+  {
+    "w1": "protagoniste",
+    "w2": "était",
+    "pmi": -0.9054622004879035,
+    "cooc_count": 294,
+    "unigram_w1": 483,
+    "unigram_w2": 419964
+  },
+  {
+    "w1": "nom",
+    "w2": "romans",
+    "pmi": -2.1188350811253067,
+    "cooc_count": 881,
+    "unigram_w1": 173976,
+    "unigram_w2": 11756
+  },
+  {
+    "w1": "nom",
+    "w2": "était",
+    "pmi": -2.309999992808596,
+    "cooc_count": 25996,
+    "unigram_w1": 173976,
+    "unigram_w2": 419964
+  },
+  {
+    "w1": "charlie",
+    "w2": "nom",
+    "pmi": -2.8310649221996873,
+    "cooc_count": 297,
+    "unigram_w1": 8079,
+    "unigram_w2": 173976
+  },
+  {
+    "w1": "romans",
+    "w2": "était",
+    "pmi": -2.554935331612149,
+    "cooc_count": 1375,
+    "unigram_w1": 11756,
+    "unigram_w2": 419964
+  },
+  {
+    "w1": "charlie",
+    "w2": "romans",
+    "pmi": -2.0460538169741103,
+    "cooc_count": 44,
+    "unigram_w1": 8079,
+    "unigram_w2": 11756
+  },
+  {
+    "w1": "charlie",
+    "w2": "était",
+    "pmi": -2.371660765738218,
+    "cooc_count": 1135,
+    "unigram_w1": 8079,
+    "unigram_w2": 419964
+  }
+]

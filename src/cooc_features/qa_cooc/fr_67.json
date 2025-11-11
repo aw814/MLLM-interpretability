@@ -1,0 +1,138 @@
+[
+  {
+    "w1": "appelait",
+    "w2": "artistique",
+    "pmi": -2.613082466630773,
+    "cooc_count": 11,
+    "unigram_w1": 8103,
+    "unigram_w2": 20608
+  },
+  {
+    "w1": "artistique",
+    "w2": "comment",
+    "pmi": -1.3525204745650234,
+    "cooc_count": 2137,
+    "unigram_w1": 20608,
+    "unigram_w2": 446275
+  },
+  {
+    "w1": "artistique",
+    "w2": "auparavant",
+    "pmi": -0.8768228019765235,
+    "cooc_count": 77,
+    "unigram_w1": 20608,
+    "unigram_w2": 9993
+  },
+  {
+    "w1": "artistique",
+    "w2": "synchronisée",
+    "pmi": 0.958410803826767,
+    "cooc_count": 31,
+    "unigram_w1": 20608,
+    "unigram_w2": 642
+  },
+  {
+    "w1": "artistique",
+    "w2": "natation",
+    "pmi": 0.3354456548156744,
+    "cooc_count": 165,
+    "unigram_w1": 20608,
+    "unigram_w2": 6371
+  },
+  {
+    "w1": "artistique",
+    "w2": "s",
+    "pmi": -1.4198478210701915,
+    "cooc_count": 9386,
+    "unigram_w1": 20608,
+    "unigram_w2": 2096614
+  },
+  {
+    "w1": "appelait",
+    "w2": "comment",
+    "pmi": -2.048362823518678,
+    "cooc_count": 419,
+    "unigram_w1": 8103,
+    "unigram_w2": 446275
+  },
+  {
+    "w1": "appelait",
+    "w2": "auparavant",
+    "pmi": 0.6756613928730547,
+    "cooc_count": 143,
+    "unigram_w1": 8103,
+    "unigram_w2": 9993
+  },
+  {
+    "w1": "appelait",
+    "w2": "s",
+    "pmi": -0.6624369328387494,
+    "cooc_count": 7871,
+    "unigram_w1": 8103,
+    "unigram_w2": 2096614
+  },
+  {
+    "w1": "auparavant",
+    "w2": "comment",
+    "pmi": -1.5708505856750377,
+    "cooc_count": 833,
+    "unigram_w1": 9993,
+    "unigram_w2": 446275
+  },
+  {
+    "w1": "comment",
+    "w2": "synchronisée",
+    "pmi": -1.6388093992419062,
+    "cooc_count": 50,
+    "unigram_w1": 446275,
+    "unigram_w2": 642
+  },
+  {
+    "w1": "comment",
+    "w2": "natation",
+    "pmi": -2.2436370022168783,
+    "cooc_count": 271,
+    "unigram_w1": 446275,
+    "unigram_w2": 6371
+  },
+  {
+    "w1": "comment",
+    "w2": "s",
+    "pmi": -1.8842321579155241,
+    "cooc_count": 127752,
+    "unigram_w1": 446275,
+    "unigram_w2": 2096614
+  },
+  {
+    "w1": "auparavant",
+    "w2": "s",
+    "pmi": -0.7925041448599659,
+    "cooc_count": 8523,
+    "unigram_w1": 9993,
+    "unigram_w2": 2096614
+  },
+  {
+    "w1": "natation",
+    "w2": "synchronisée",
+    "pmi": 4.550548985903687,
+    "cooc_count": 348,
+    "unigram_w1": 6371,
+    "unigram_w2": 642
+  },
+  {
+    "w1": "s",
+    "w2": "synchronisée",
+    "pmi": -1.779855998366219,
+    "cooc_count": 204,
+    "unigram_w1": 2096614,
+    "unigram_w2": 642
+  },
+  {
+    "w1": "natation",
+    "w2": "s",
+    "pmi": -1.6751031996233807,
+    "cooc_count": 2248,
+    "unigram_w1": 6371,
+    "unigram_w2": 2096614
+  }
+]

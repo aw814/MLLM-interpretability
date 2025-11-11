@@ -1,0 +1,578 @@
+[
+  {
+    "w1": "alla",
+    "w2": "clark",
+    "pmi": -1.248910039924691,
+    "cooc_count": 497,
+    "unigram_w1": 2320629,
+    "unigram_w2": 2191
+  },
+  {
+    "w1": "alla",
+    "w2": "nelle",
+    "pmi": -0.8752035646281877,
+    "cooc_count": 168892,
+    "unigram_w1": 2320629,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "alla",
+    "w2": "partito",
+    "pmi": -1.12977225431453,
+    "cooc_count": 27272,
+    "unigram_w1": 2320629,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "alla",
+    "w2": "laburista",
+    "pmi": -1.3832505791740253,
+    "cooc_count": 260,
+    "unigram_w1": 2320629,
+    "unigram_w2": 1311
+  },
+  {
+    "w1": "1999",
+    "w2": "alla",
+    "pmi": -1.2649659644340863,
+    "cooc_count": 8764,
+    "unigram_w1": 39261,
+    "unigram_w2": 2320629
+  },
+  {
+    "w1": "alla",
+    "w2": "helen",
+    "pmi": -0.8828674993983455,
+    "cooc_count": 630,
+    "unigram_w1": 2320629,
+    "unigram_w2": 1926
+  },
+  {
+    "w1": "alla",
+    "w2": "condotto",
+    "pmi": -1.2703941395444454,
+    "cooc_count": 8598,
+    "unigram_w1": 2320629,
+    "unigram_w2": 38727
+  },
+  {
+    "w1": "alla",
+    "w2": "zelanda",
+    "pmi": -2.068262474849935,
+    "cooc_count": 1720,
+    "unigram_w1": 2320629,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "alla",
+    "w2": "generali",
+    "pmi": -0.8147624975070193,
+    "cooc_count": 12773,
+    "unigram_w1": 2320629,
+    "unigram_w2": 36478
+  },
+  {
+    "w1": "alla",
+    "w2": "vittoria",
+    "pmi": -0.7967594190521382,
+    "cooc_count": 31668,
+    "unigram_w1": 2320629,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "alla",
+    "w2": "ha",
+    "pmi": -1.0994371551481679,
+    "cooc_count": 797129,
+    "unigram_w1": 2320629,
+    "unigram_w2": 3026212
+  },
+  {
+    "w1": "alla",
+    "w2": "nuova",
+    "pmi": -0.9634163564368518,
+    "cooc_count": 127600,
+    "unigram_w1": 2320629,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "alla",
+    "w2": "elezioni",
+    "pmi": -1.2664909577227108,
+    "cooc_count": 12800,
+    "unigram_w1": 2320629,
+    "unigram_w2": 57429
+  },
+  {
+    "w1": "clark",
+    "w2": "nelle",
+    "pmi": -2.363463874551175,
+    "cooc_count": 36,
+    "unigram_w1": 2191,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "clark",
+    "w2": "vittoria",
+    "pmi": -1.3613725732971378,
+    "cooc_count": 17,
+    "unigram_w1": 2191,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "clark",
+    "w2": "ha",
+    "pmi": -1.019785355555737,
+    "cooc_count": 815,
+    "unigram_w1": 2191,
+    "unigram_w2": 3026212
+  },
+  {
+    "w1": "clark",
+    "w2": "nuova",
+    "pmi": -1.94817402856925,
+    "cooc_count": 45,
+    "unigram_w1": 2191,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "nelle",
+    "w2": "partito",
+    "pmi": -1.1345234146600491,
+    "cooc_count": 5993,
+    "unigram_w1": 512385,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "laburista",
+    "w2": "nelle",
+    "pmi": -0.7238847558631839,
+    "cooc_count": 111,
+    "unigram_w1": 1311,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "1999",
+    "w2": "nelle",
+    "pmi": -1.2033664957414136,
+    "cooc_count": 2058,
+    "unigram_w1": 39261,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "helen",
+    "w2": "nelle",
+    "pmi": -0.025056457385745395,
+    "cooc_count": 328,
+    "unigram_w1": 1926,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "condotto",
+    "w2": "nelle",
+    "pmi": -1.289755325749625,
+    "cooc_count": 1862,
+    "unigram_w1": 38727,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "nelle",
+    "w2": "zelanda",
+    "pmi": -1.308324451481721,
+    "cooc_count": 812,
+    "unigram_w1": 512385,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "generali",
+    "w2": "nelle",
+    "pmi": -0.4112698631274954,
+    "cooc_count": 4222,
+    "unigram_w1": 36478,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "nelle",
+    "w2": "vittoria",
+    "pmi": -0.8406360902227131,
+    "cooc_count": 6692,
+    "unigram_w1": 512385,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "ha",
+    "w2": "nelle",
+    "pmi": -1.0684769351122834,
+    "cooc_count": 181537,
+    "unigram_w1": 3026212,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "nelle",
+    "w2": "nuova",
+    "pmi": -1.1442460146480373,
+    "cooc_count": 23513,
+    "unigram_w1": 512385,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "elezioni",
+    "w2": "nelle",
+    "pmi": -0.6277617242230031,
+    "cooc_count": 5353,
+    "unigram_w1": 57429,
+    "unigram_w2": 512385
+  },
+  {
+    "w1": "laburista",
+    "w2": "partito",
+    "pmi": 2.675001231307276,
+    "cooc_count": 692,
+    "unigram_w1": 1311,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "1999",
+    "w2": "partito",
+    "pmi": -1.6995057719475908,
+    "cooc_count": 261,
+    "unigram_w1": 39261,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "helen",
+    "w2": "partito",
+    "pmi": -1.113745616975615,
+    "cooc_count": 23,
+    "unigram_w1": 1926,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "condotto",
+    "w2": "partito",
+    "pmi": -1.1703983556259228,
+    "cooc_count": 437,
+    "unigram_w1": 38727,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "partito",
+    "w2": "zelanda",
+    "pmi": -2.632332069007955,
+    "cooc_count": 45,
+    "unigram_w1": 106724,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "generali",
+    "w2": "partito",
+    "pmi": -1.5345120478507843,
+    "cooc_count": 286,
+    "unigram_w1": 36478,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "partito",
+    "w2": "vittoria",
+    "pmi": -0.5282366319035019,
+    "cooc_count": 1905,
+    "unigram_w1": 106724,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "ha",
+    "w2": "partito",
+    "pmi": -1.0167871205678074,
+    "cooc_count": 39818,
+    "unigram_w1": 3026212,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "nuova",
+    "w2": "partito",
+    "pmi": -1.323446754229284,
+    "cooc_count": 4094,
+    "unigram_w1": 422813,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "elezioni",
+    "w2": "partito",
+    "pmi": 1.3703464632196354,
+    "cooc_count": 8223,
+    "unigram_w1": 57429,
+    "unigram_w2": 106724
+  },
+  {
+    "w1": "generali",
+    "w2": "laburista",
+    "pmi": -2.0979008201679754,
+    "cooc_count": 2,
+    "unigram_w1": 36478,
+    "unigram_w2": 1311
+  },
+  {
+    "w1": "laburista",
+    "w2": "vittoria",
+    "pmi": 0.7134310931508517,
+    "cooc_count": 81,
+    "unigram_w1": 1311,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "ha",
+    "w2": "laburista",
+    "pmi": -1.0314614989142326,
+    "cooc_count": 482,
+    "unigram_w1": 3026212,
+    "unigram_w2": 1311
+  },
+  {
+    "w1": "laburista",
+    "w2": "nuova",
+    "pmi": -0.8845598358182112,
+    "cooc_count": 78,
+    "unigram_w1": 1311,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "elezioni",
+    "w2": "laburista",
+    "pmi": 2.6412159676416116,
+    "cooc_count": 360,
+    "unigram_w1": 57429,
+    "unigram_w2": 1311
+  },
+  {
+    "w1": "1999",
+    "w2": "helen",
+    "pmi": 0.621975580985952,
+    "cooc_count": 48,
+    "unigram_w1": 39261,
+    "unigram_w2": 1926
+  },
+  {
+    "w1": "1999",
+    "w2": "condotto",
+    "pmi": -1.194071342390379,
+    "cooc_count": 157,
+    "unigram_w1": 39261,
+    "unigram_w2": 38727
+  },
+  {
+    "w1": "1999",
+    "w2": "generali",
+    "pmi": -0.28512760763324096,
+    "cooc_count": 367,
+    "unigram_w1": 39261,
+    "unigram_w2": 36478
+  },
+  {
+    "w1": "1999",
+    "w2": "vittoria",
+    "pmi": -1.1350389078749026,
+    "cooc_count": 382,
+    "unigram_w1": 39261,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "1999",
+    "w2": "ha",
+    "pmi": -1.4126056203280424,
+    "cooc_count": 9860,
+    "unigram_w1": 39261,
+    "unigram_w2": 3026212
+  },
+  {
+    "w1": "1999",
+    "w2": "nuova",
+    "pmi": -1.2799702144094156,
+    "cooc_count": 1573,
+    "unigram_w1": 39261,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "1999",
+    "w2": "elezioni",
+    "pmi": -1.7922992548488172,
+    "cooc_count": 128,
+    "unigram_w1": 39261,
+    "unigram_w2": 57429
+  },
+  {
+    "w1": "ha",
+    "w2": "helen",
+    "pmi": -1.3249644378529422,
+    "cooc_count": 528,
+    "unigram_w1": 3026212,
+    "unigram_w2": 1926
+  },
+  {
+    "w1": "helen",
+    "w2": "nuova",
+    "pmi": -1.2692149444125822,
+    "cooc_count": 78,
+    "unigram_w1": 1926,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "condotto",
+    "w2": "generali",
+    "pmi": -1.782345672466601,
+    "cooc_count": 81,
+    "unigram_w1": 38727,
+    "unigram_w2": 36478
+  },
+  {
+    "w1": "condotto",
+    "w2": "vittoria",
+    "pmi": -1.0029796792450982,
+    "cooc_count": 430,
+    "unigram_w1": 38727,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "condotto",
+    "w2": "ha",
+    "pmi": -0.5198988439853861,
+    "cooc_count": 23748,
+    "unigram_w1": 38727,
+    "unigram_w2": 3026212
+  },
+  {
+    "w1": "condotto",
+    "w2": "nuova",
+    "pmi": -1.6906727530848726,
+    "cooc_count": 1029,
+    "unigram_w1": 38727,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "condotto",
+    "w2": "elezioni",
+    "pmi": -1.802321152917362,
+    "cooc_count": 125,
+    "unigram_w1": 38727,
+    "unigram_w2": 57429
+  },
+  {
+    "w1": "generali",
+    "w2": "zelanda",
+    "pmi": -1.754539922551577,
+    "cooc_count": 37,
+    "unigram_w1": 36478,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "vittoria",
+    "w2": "zelanda",
+    "pmi": -1.4033976320698507,
+    "cooc_count": 128,
+    "unigram_w1": 88826,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "ha",
+    "w2": "zelanda",
+    "pmi": -1.7453034264558998,
+    "cooc_count": 3098,
+    "unigram_w1": 3026212,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "nuova",
+    "w2": "zelanda",
+    "pmi": 1.7993266629378941,
+    "cooc_count": 14988,
+    "unigram_w1": 422813,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "elezioni",
+    "w2": "zelanda",
+    "pmi": -2.035108264358164,
+    "cooc_count": 44,
+    "unigram_w1": 57429,
+    "unigram_w2": 17205
+  },
+  {
+    "w1": "generali",
+    "w2": "vittoria",
+    "pmi": -1.8652736393791705,
+    "cooc_count": 171,
+    "unigram_w1": 36478,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "generali",
+    "w2": "ha",
+    "pmi": -1.526488751559622,
+    "cooc_count": 8175,
+    "unigram_w1": 36478,
+    "unigram_w2": 3026212
+  },
+  {
+    "w1": "generali",
+    "w2": "nuova",
+    "pmi": -1.2322059179962317,
+    "cooc_count": 1533,
+    "unigram_w1": 36478,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "elezioni",
+    "w2": "generali",
+    "pmi": -0.12508737878320872,
+    "cooc_count": 630,
+    "unigram_w1": 57429,
+    "unigram_w2": 36478
+  },
+  {
+    "w1": "ha",
+    "w2": "vittoria",
+    "pmi": -0.8677907922257075,
+    "cooc_count": 38465,
+    "unigram_w1": 3026212,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "nuova",
+    "w2": "vittoria",
+    "pmi": -1.3223970752430667,
+    "cooc_count": 3411,
+    "unigram_w1": 422813,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "elezioni",
+    "w2": "vittoria",
+    "pmi": 0.15649055466589323,
+    "cooc_count": 2033,
+    "unigram_w1": 57429,
+    "unigram_w2": 88826
+  },
+  {
+    "w1": "ha",
+    "w2": "nuova",
+    "pmi": -1.2362285344950146,
+    "cooc_count": 126667,
+    "unigram_w1": 3026212,
+    "unigram_w2": 422813
+  },
+  {
+    "w1": "elezioni",
+    "w2": "ha",
+    "pmi": -1.1446844384496038,
+    "cooc_count": 18854,
+    "unigram_w1": 57429,
+    "unigram_w2": 3026212
+  },
+  {
+    "w1": "elezioni",
+    "w2": "nuova",
+    "pmi": -0.9389345817702869,
+    "cooc_count": 3236,
+    "unigram_w1": 57429,
+    "unigram_w2": 422813
+  }
+]

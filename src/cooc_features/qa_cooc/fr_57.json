@@ -1,0 +1,386 @@
+[
+  {
+    "w1": "partie",
+    "w2": "quoi",
+    "pmi": -0.5918179156366253,
+    "cooc_count": 7961,
+    "unigram_w1": 713059,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "partie",
+    "w2": "santo",
+    "pmi": -2.1007022140954223,
+    "cooc_count": 24,
+    "unigram_w1": 713059,
+    "unigram_w2": 5099
+  },
+  {
+    "w1": "formation",
+    "w2": "partie",
+    "pmi": -0.7137824773498644,
+    "cooc_count": 10224,
+    "unigram_w1": 542704,
+    "unigram_w2": 713059
+  },
+  {
+    "w1": "grès",
+    "w2": "partie",
+    "pmi": -0.009069583720277245,
+    "cooc_count": 293,
+    "unigram_w1": 7687,
+    "unigram_w2": 713059
+  },
+  {
+    "w1": "partie",
+    "w2": "schiste",
+    "pmi": -1.2970241639187214,
+    "cooc_count": 53,
+    "unigram_w1": 713059,
+    "unigram_w2": 5041
+  },
+  {
+    "w1": "basse",
+    "w2": "partie",
+    "pmi": 0.04862506170407226,
+    "cooc_count": 5431,
+    "unigram_w1": 134497,
+    "unigram_w2": 713059
+  },
+  {
+    "w1": "d",
+    "w2": "partie",
+    "pmi": -0.8397793163325793,
+    "cooc_count": 404598,
+    "unigram_w1": 24360469,
+    "unigram_w2": 713059
+  },
+  {
+    "w1": "partie",
+    "w2": "plus",
+    "pmi": -0.633723192824702,
+    "cooc_count": 156230,
+    "unigram_w1": 713059,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "constituée",
+    "w2": "partie",
+    "pmi": 0.6709519385647443,
+    "cooc_count": 1790,
+    "unigram_w1": 23791,
+    "unigram_w2": 713059
+  },
+  {
+    "w1": "est",
+    "w2": "partie",
+    "pmi": -0.6621156889780695,
+    "cooc_count": 341468,
+    "unigram_w1": 17212882,
+    "unigram_w2": 713059
+  },
+  {
+    "w1": "formation",
+    "w2": "quoi",
+    "pmi": -1.1250173581457958,
+    "cooc_count": 3555,
+    "unigram_w1": 542704,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "grès",
+    "w2": "quoi",
+    "pmi": -2.1537224812571365,
+    "cooc_count": 18,
+    "unigram_w1": 7687,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "quoi",
+    "w2": "schiste",
+    "pmi": 0.2530291993143514,
+    "cooc_count": 131,
+    "unigram_w1": 374060,
+    "unigram_w2": 5041
+  },
+  {
+    "w1": "basse",
+    "w2": "quoi",
+    "pmi": -1.4337592482458292,
+    "cooc_count": 647,
+    "unigram_w1": 134497,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "d",
+    "w2": "quoi",
+    "pmi": -0.9996804593532451,
+    "cooc_count": 180882,
+    "unigram_w1": 24360469,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "plus",
+    "w2": "quoi",
+    "pmi": -0.49776998468920397,
+    "cooc_count": 93891,
+    "unigram_w1": 7654861,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "constituée",
+    "w2": "quoi",
+    "pmi": -1.0322074501833531,
+    "cooc_count": 171,
+    "unigram_w1": 23791,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "est",
+    "w2": "quoi",
+    "pmi": -0.4457081728158803,
+    "cooc_count": 222408,
+    "unigram_w1": 17212882,
+    "unigram_w2": 374060
+  },
+  {
+    "w1": "espiritu",
+    "w2": "santo",
+    "pmi": 8.099344152841923,
+    "cooc_count": 441,
+    "unigram_w1": 487,
+    "unigram_w2": 5099
+  },
+  {
+    "w1": "d",
+    "w2": "santo",
+    "pmi": -1.1995512347036956,
+    "cooc_count": 2019,
+    "unigram_w1": 24360469,
+    "unigram_w2": 5099
+  },
+  {
+    "w1": "plus",
+    "w2": "santo",
+    "pmi": -1.1184991904314288,
+    "cooc_count": 688,
+    "unigram_w1": 7654861,
+    "unigram_w2": 5099
+  },
+  {
+    "w1": "est",
+    "w2": "santo",
+    "pmi": -1.495638075854699,
+    "cooc_count": 1061,
+    "unigram_w1": 17212882,
+    "unigram_w2": 5099
+  },
+  {
+    "w1": "formation",
+    "w2": "grès",
+    "pmi": -2.643653356155497,
+    "cooc_count": 16,
+    "unigram_w1": 542704,
+    "unigram_w2": 7687
+  },
+  {
+    "w1": "formation",
+    "w2": "schiste",
+    "pmi": -2.0498769839623368,
+    "cooc_count": 19,
+    "unigram_w1": 542704,
+    "unigram_w2": 5041
+  },
+  {
+    "w1": "basse",
+    "w2": "formation",
+    "pmi": -1.3312773898532886,
+    "cooc_count": 1040,
+    "unigram_w1": 134497,
+    "unigram_w2": 542704
+  },
+  {
+    "w1": "d",
+    "w2": "formation",
+    "pmi": -0.9271421938227362,
+    "cooc_count": 282176,
+    "unigram_w1": 24360469,
+    "unigram_w2": 542704
+  },
+  {
+    "w1": "formation",
+    "w2": "plus",
+    "pmi": -1.1675938248393478,
+    "cooc_count": 69718,
+    "unigram_w1": 542704,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "constituée",
+    "w2": "formation",
+    "pmi": -1.032590099763008,
+    "cooc_count": 248,
+    "unigram_w1": 23791,
+    "unigram_w2": 542704
+  },
+  {
+    "w1": "est",
+    "w2": "formation",
+    "pmi": -1.2103285726761728,
+    "cooc_count": 150211,
+    "unigram_w1": 17212882,
+    "unigram_w2": 542704
+  },
+  {
+    "w1": "d",
+    "w2": "espiritu",
+    "pmi": -0.46741182773739826,
+    "cooc_count": 401,
+    "unigram_w1": 24360469,
+    "unigram_w2": 487
+  },
+  {
+    "w1": "espiritu",
+    "w2": "plus",
+    "pmi": 0.07152597729195873,
+    "cooc_count": 216,
+    "unigram_w1": 487,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "espiritu",
+    "w2": "est",
+    "pmi": -0.8308658877581276,
+    "cooc_count": 197,
+    "unigram_w1": 487,
+    "unigram_w2": 17212882
+  },
+  {
+    "w1": "d",
+    "w2": "grès",
+    "pmi": -0.977375532321261,
+    "cooc_count": 3801,
+    "unigram_w1": 24360469,
+    "unigram_w2": 7687
+  },
+  {
+    "w1": "grès",
+    "w2": "plus",
+    "pmi": -0.9594521141326361,
+    "cooc_count": 1216,
+    "unigram_w1": 7687,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "est",
+    "w2": "grès",
+    "pmi": -1.0312054337780352,
+    "cooc_count": 2545,
+    "unigram_w1": 17212882,
+    "unigram_w2": 7687
+  },
+  {
+    "w1": "d",
+    "w2": "schiste",
+    "pmi": -0.9897395792996097,
+    "cooc_count": 2462,
+    "unigram_w1": 24360469,
+    "unigram_w2": 5041
+  },
+  {
+    "w1": "plus",
+    "w2": "schiste",
+    "pmi": -0.9726198129748441,
+    "cooc_count": 787,
+    "unigram_w1": 7654861,
+    "unigram_w2": 5041
+  },
+  {
+    "w1": "est",
+    "w2": "schiste",
+    "pmi": -0.9606358454354454,
+    "cooc_count": 1791,
+    "unigram_w1": 17212882,
+    "unigram_w2": 5041
+  },
+  {
+    "w1": "basse",
+    "w2": "d",
+    "pmi": -1.2226575884498279,
+    "cooc_count": 52039,
+    "unigram_w1": 134497,
+    "unigram_w2": 24360469
+  },
+  {
+    "w1": "basse",
+    "w2": "plus",
+    "pmi": -0.899301558406797,
+    "cooc_count": 22595,
+    "unigram_w1": 134497,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "basse",
+    "w2": "constituée",
+    "pmi": -1.3668070543733215,
+    "cooc_count": 44,
+    "unigram_w1": 134497,
+    "unigram_w2": 23791
+  },
+  {
+    "w1": "basse",
+    "w2": "est",
+    "pmi": -1.110585292273761,
+    "cooc_count": 41131,
+    "unigram_w1": 134497,
+    "unigram_w2": 17212882
+  },
+  {
+    "w1": "d",
+    "w2": "plus",
+    "pmi": -0.988831645646796,
+    "cooc_count": 3741993,
+    "unigram_w1": 24360469,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "constituée",
+    "w2": "d",
+    "pmi": -0.6045083015006605,
+    "cooc_count": 17080,
+    "unigram_w1": 23791,
+    "unigram_w2": 24360469
+  },
+  {
+    "w1": "d",
+    "w2": "est",
+    "pmi": -1.1225358035102153,
+    "cooc_count": 7361262,
+    "unigram_w1": 24360469,
+    "unigram_w2": 17212882
+  },
+  {
+    "w1": "constituée",
+    "w2": "plus",
+    "pmi": -1.0722596302228995,
+    "cooc_count": 3362,
+    "unigram_w1": 23791,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "est",
+    "w2": "plus",
+    "pmi": -0.7683845691400077,
+    "cooc_count": 3296172,
+    "unigram_w1": 17212882,
+    "unigram_w2": 7654861
+  },
+  {
+    "w1": "constituée",
+    "w2": "est",
+    "pmi": -0.2768937135608921,
+    "cooc_count": 16747,
+    "unigram_w1": 23791,
+    "unigram_w2": 17212882
+  }
+]

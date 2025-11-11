@@ -1,0 +1,946 @@
+[
+  {
+    "w1": "be",
+    "w2": "protection",
+    "pmi": -1.2672532514063723,
+    "cooc_count": 39515,
+    "unigram_w1": 4847793,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "be",
+    "w2": "fulfilled",
+    "pmi": -0.5471963788095837,
+    "cooc_count": 5348,
+    "unigram_w1": 4847793,
+    "unigram_w2": 7915
+  },
+  {
+    "w1": "be",
+    "w2": "regulation",
+    "pmi": -1.2861338926008066,
+    "cooc_count": 14036,
+    "unigram_w1": 4847793,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "be",
+    "w2": "subject",
+    "pmi": -0.906150098561909,
+    "cooc_count": 79111,
+    "unigram_w1": 4847793,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "be",
+    "w2": "general",
+    "pmi": -1.1461798821709595,
+    "cooc_count": 96367,
+    "unigram_w1": 4847793,
+    "unigram_w2": 259611
+  },
+  {
+    "w1": "be",
+    "w2": "within",
+    "pmi": -0.847816923160443,
+    "cooc_count": 203276,
+    "unigram_w1": 4847793,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "be",
+    "w2": "specific",
+    "pmi": -0.771852969560808,
+    "cooc_count": 100864,
+    "unigram_w1": 4847793,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "be",
+    "w2": "brazil",
+    "pmi": -1.6472120567268926,
+    "cooc_count": 5466,
+    "unigram_w1": 4847793,
+    "unigram_w2": 24303
+  },
+  {
+    "w1": "be",
+    "w2": "time",
+    "pmi": -0.9673781705784673,
+    "cooc_count": 759158,
+    "unigram_w1": 4847793,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "be",
+    "w2": "requests",
+    "pmi": -0.9253182405456826,
+    "cooc_count": 19368,
+    "unigram_w1": 4847793,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "be",
+    "pmi": -1.2865515816634863,
+    "cooc_count": 101271,
+    "unigram_w1": 313937,
+    "unigram_w2": 4847793
+  },
+  {
+    "w1": "be",
+    "w2": "law",
+    "pmi": -1.4347776252128779,
+    "cooc_count": 87895,
+    "unigram_w1": 4847793,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "be",
+    "w2": "requires",
+    "pmi": -0.7843972329637025,
+    "cooc_count": 44379,
+    "unigram_w1": 4847793,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "be",
+    "w2": "frame",
+    "pmi": -1.917482192180372,
+    "cooc_count": 25930,
+    "unigram_w1": 4847793,
+    "unigram_w2": 151067
+  },
+  {
+    "w1": "be",
+    "w2": "data",
+    "pmi": -1.9379525037068444,
+    "cooc_count": 194707,
+    "unigram_w1": 4847793,
+    "unigram_w2": 1157814
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "protection",
+    "pmi": -2.343127288202346,
+    "cooc_count": 22,
+    "unigram_w1": 7915,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "protection",
+    "w2": "regulation",
+    "pmi": 0.7622559829345449,
+    "cooc_count": 2698,
+    "unigram_w1": 120154,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "protection",
+    "w2": "subject",
+    "pmi": -1.0884664562337298,
+    "cooc_count": 1634,
+    "unigram_w1": 120154,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "general",
+    "w2": "protection",
+    "pmi": -0.5223632320947159,
+    "cooc_count": 4457,
+    "unigram_w1": 259611,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "protection",
+    "w2": "within",
+    "pmi": -1.2067001508761424,
+    "cooc_count": 3519,
+    "unigram_w1": 120154,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "protection",
+    "w2": "specific",
+    "pmi": -1.0326761555094774,
+    "cooc_count": 1926,
+    "unigram_w1": 120154,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "brazil",
+    "w2": "protection",
+    "pmi": -1.7768863546326206,
+    "cooc_count": 119,
+    "unigram_w1": 24303,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "protection",
+    "w2": "time",
+    "pmi": -1.6090438393316926,
+    "cooc_count": 9905,
+    "unigram_w1": 120154,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "protection",
+    "w2": "requests",
+    "pmi": -0.7344404068409097,
+    "cooc_count": 581,
+    "unigram_w1": 120154,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "protection",
+    "pmi": -0.5046477055654317,
+    "cooc_count": 5486,
+    "unigram_w1": 313937,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "law",
+    "w2": "protection",
+    "pmi": -0.2645103119588643,
+    "cooc_count": 7021,
+    "unigram_w1": 316006,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "protection",
+    "w2": "requires",
+    "pmi": -0.3997050819722512,
+    "cooc_count": 1616,
+    "unigram_w1": 120154,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "frame",
+    "w2": "protection",
+    "pmi": -1.222287588578027,
+    "cooc_count": 1288,
+    "unigram_w1": 151067,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "data",
+    "w2": "protection",
+    "pmi": -0.5412216821659517,
+    "cooc_count": 19506,
+    "unigram_w1": 1157814,
+    "unigram_w2": 120154
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "regulation",
+    "pmi": -0.7291160397051896,
+    "cooc_count": 40,
+    "unigram_w1": 7915,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "subject",
+    "pmi": -1.5477304664635407,
+    "cooc_count": 68,
+    "unigram_w1": 7915,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "general",
+    "pmi": -1.7857392372306435,
+    "cooc_count": 83,
+    "unigram_w1": 7915,
+    "unigram_w2": 259611
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "within",
+    "pmi": -0.749984394782331,
+    "cooc_count": 366,
+    "unigram_w1": 7915,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "specific",
+    "pmi": -0.9705874094150885,
+    "cooc_count": 135,
+    "unigram_w1": 7915,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "time",
+    "pmi": -0.9653459759568894,
+    "cooc_count": 1242,
+    "unigram_w1": 7915,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "requests",
+    "pmi": -0.4671535982506446,
+    "cooc_count": 50,
+    "unigram_w1": 7915,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "fulfilled",
+    "pmi": -1.8947781467186848,
+    "cooc_count": 90,
+    "unigram_w1": 313937,
+    "unigram_w2": 7915
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "law",
+    "pmi": -1.1332985298987546,
+    "cooc_count": 194,
+    "unigram_w1": 7915,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "requires",
+    "pmi": -2.428342431424003,
+    "cooc_count": 14,
+    "unigram_w1": 7915,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "data",
+    "w2": "fulfilled",
+    "pmi": -2.170255424172458,
+    "cooc_count": 252,
+    "unigram_w1": 1157814,
+    "unigram_w2": 7915
+  },
+  {
+    "w1": "regulation",
+    "w2": "subject",
+    "pmi": -0.1945220811934322,
+    "cooc_count": 1446,
+    "unigram_w1": 43493,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "general",
+    "w2": "regulation",
+    "pmi": 0.03038209085474465,
+    "cooc_count": 2804,
+    "unigram_w1": 259611,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "regulation",
+    "w2": "within",
+    "pmi": -0.7645963255662588,
+    "cooc_count": 1982,
+    "unigram_w1": 43493,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "regulation",
+    "w2": "specific",
+    "pmi": -0.7380870236484205,
+    "cooc_count": 936,
+    "unigram_w1": 43493,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "brazil",
+    "w2": "regulation",
+    "pmi": -2.6494638421064494,
+    "cooc_count": 18,
+    "unigram_w1": 24303,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "regulation",
+    "w2": "time",
+    "pmi": -1.7274569827165445,
+    "cooc_count": 3185,
+    "unigram_w1": 43493,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "regulation",
+    "w2": "requests",
+    "pmi": -1.170362030215233,
+    "cooc_count": 136,
+    "unigram_w1": 43493,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "regulation",
+    "pmi": -1.6092231979961273,
+    "cooc_count": 658,
+    "unigram_w1": 313937,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "law",
+    "w2": "regulation",
+    "pmi": 0.5550836777302077,
+    "cooc_count": 5768,
+    "unigram_w1": 316006,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "regulation",
+    "w2": "requires",
+    "pmi": 0.08311442894326557,
+    "cooc_count": 948,
+    "unigram_w1": 43493,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "frame",
+    "w2": "regulation",
+    "pmi": -3.036225907214459,
+    "cooc_count": 76,
+    "unigram_w1": 151067,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "data",
+    "w2": "regulation",
+    "pmi": -1.3079261225781869,
+    "cooc_count": 3280,
+    "unigram_w1": 1157814,
+    "unigram_w2": 43493
+  },
+  {
+    "w1": "general",
+    "w2": "subject",
+    "pmi": -0.8299568102055567,
+    "cooc_count": 4572,
+    "unigram_w1": 259611,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "subject",
+    "w2": "within",
+    "pmi": -0.8867746311860358,
+    "cooc_count": 6761,
+    "unigram_w1": 167644,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "specific",
+    "w2": "subject",
+    "pmi": -0.4929620419558402,
+    "cooc_count": 4610,
+    "unigram_w1": 186880,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "brazil",
+    "w2": "subject",
+    "pmi": -1.4553562742688964,
+    "cooc_count": 229,
+    "unigram_w1": 24303,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "subject",
+    "w2": "time",
+    "pmi": -1.067822082576223,
+    "cooc_count": 23744,
+    "unigram_w1": 167644,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "requests",
+    "w2": "subject",
+    "pmi": -0.3530751991621389,
+    "cooc_count": 1187,
+    "unigram_w1": 41837,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "access",
+    "w2": "subject",
+    "pmi": -1.1608975760107147,
+    "cooc_count": 3971,
+    "unigram_w1": 313937,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "law",
+    "w2": "subject",
+    "pmi": -0.8479373125670858,
+    "cooc_count": 5466,
+    "unigram_w1": 316006,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "requires",
+    "w2": "subject",
+    "pmi": -0.6040494482166455,
+    "cooc_count": 1838,
+    "unigram_w1": 83263,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "frame",
+    "w2": "subject",
+    "pmi": -2.1537578316275923,
+    "cooc_count": 708,
+    "unigram_w1": 151067,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "data",
+    "w2": "subject",
+    "pmi": -1.7866666444096593,
+    "cooc_count": 7833,
+    "unigram_w1": 1157814,
+    "unigram_w2": 167644
+  },
+  {
+    "w1": "general",
+    "w2": "within",
+    "pmi": -0.9796888109124617,
+    "cooc_count": 9541,
+    "unigram_w1": 259611,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "general",
+    "w2": "specific",
+    "pmi": -0.06409682572806655,
+    "cooc_count": 10962,
+    "unigram_w1": 259611,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "brazil",
+    "w2": "general",
+    "pmi": -1.3374585343208663,
+    "cooc_count": 399,
+    "unigram_w1": 24303,
+    "unigram_w2": 259611
+  },
+  {
+    "w1": "general",
+    "w2": "time",
+    "pmi": -1.3520725513139191,
+    "cooc_count": 27672,
+    "unigram_w1": 259611,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "general",
+    "w2": "requests",
+    "pmi": -1.0408891955177166,
+    "cooc_count": 924,
+    "unigram_w1": 259611,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "general",
+    "pmi": -1.2244118258185936,
+    "cooc_count": 5771,
+    "unigram_w1": 313937,
+    "unigram_w2": 259611
+  },
+  {
+    "w1": "general",
+    "w2": "law",
+    "pmi": -0.6116216385864532,
+    "cooc_count": 10721,
+    "unigram_w1": 259611,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "general",
+    "w2": "requires",
+    "pmi": -0.5936687056789345,
+    "cooc_count": 2876,
+    "unigram_w1": 259611,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "frame",
+    "w2": "general",
+    "pmi": -1.7695541407303972,
+    "cooc_count": 1610,
+    "unigram_w1": 151067,
+    "unigram_w2": 259611
+  },
+  {
+    "w1": "data",
+    "w2": "general",
+    "pmi": -1.765141411642439,
+    "cooc_count": 12394,
+    "unigram_w1": 1157814,
+    "unigram_w2": 259611
+  },
+  {
+    "w1": "specific",
+    "w2": "within",
+    "pmi": -0.45971087335797645,
+    "cooc_count": 11552,
+    "unigram_w1": 186880,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "brazil",
+    "w2": "within",
+    "pmi": -2.4465816655776043,
+    "cooc_count": 206,
+    "unigram_w1": 24303,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "time",
+    "w2": "within",
+    "pmi": -0.9110889913195845,
+    "cooc_count": 67319,
+    "unigram_w1": 1710308,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "requests",
+    "w2": "within",
+    "pmi": -0.5294275924687808,
+    "cooc_count": 2412,
+    "unigram_w1": 41837,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "access",
+    "w2": "within",
+    "pmi": -0.6710612881860761,
+    "cooc_count": 15709,
+    "unigram_w1": 313937,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "law",
+    "w2": "within",
+    "pmi": -1.2082138517111085,
+    "cooc_count": 9241,
+    "unigram_w1": 316006,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "requires",
+    "w2": "within",
+    "pmi": -0.4860724904128241,
+    "cooc_count": 5013,
+    "unigram_w1": 83263,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "frame",
+    "w2": "within",
+    "pmi": -0.9472384523018905,
+    "cooc_count": 5735,
+    "unigram_w1": 151067,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "data",
+    "w2": "within",
+    "pmi": -1.578553595809277,
+    "cooc_count": 23379,
+    "unigram_w1": 1157814,
+    "unigram_w2": 406353
+  },
+  {
+    "w1": "brazil",
+    "w2": "specific",
+    "pmi": -2.392532108048915,
+    "cooc_count": 100,
+    "unigram_w1": 24303,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "specific",
+    "w2": "time",
+    "pmi": -1.088452499935817,
+    "cooc_count": 25928,
+    "unigram_w1": 186880,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "requests",
+    "w2": "specific",
+    "pmi": -0.01255184327843033,
+    "cooc_count": 1860,
+    "unigram_w1": 41837,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "access",
+    "w2": "specific",
+    "pmi": -0.6822667007995017,
+    "cooc_count": 7144,
+    "unigram_w1": 313937,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "law",
+    "w2": "specific",
+    "pmi": -1.2985003655373024,
+    "cooc_count": 3883,
+    "unigram_w1": 316006,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "requires",
+    "w2": "specific",
+    "pmi": -0.006821693473431372,
+    "cooc_count": 3723,
+    "unigram_w1": 83263,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "frame",
+    "w2": "specific",
+    "pmi": -1.5935389372075672,
+    "cooc_count": 1382,
+    "unigram_w1": 151067,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "data",
+    "w2": "specific",
+    "pmi": -1.1578804574873158,
+    "cooc_count": 16375,
+    "unigram_w1": 1157814,
+    "unigram_w2": 186880
+  },
+  {
+    "w1": "brazil",
+    "w2": "time",
+    "pmi": -1.5524929769677438,
+    "cooc_count": 2120,
+    "unigram_w1": 24303,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "brazil",
+    "w2": "requests",
+    "pmi": -2.067029505377133,
+    "cooc_count": 31,
+    "unigram_w1": 24303,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "brazil",
+    "pmi": -1.6527967476343413,
+    "cooc_count": 352,
+    "unigram_w1": 313937,
+    "unigram_w2": 24303
+  },
+  {
+    "w1": "brazil",
+    "w2": "law",
+    "pmi": -1.5491871832763098,
+    "cooc_count": 393,
+    "unigram_w1": 24303,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "brazil",
+    "w2": "requires",
+    "pmi": -0.6839083312903871,
+    "cooc_count": 246,
+    "unigram_w1": 24303,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "brazil",
+    "w2": "frame",
+    "pmi": -2.872936035983638,
+    "cooc_count": 50,
+    "unigram_w1": 24303,
+    "unigram_w2": 151067
+  },
+  {
+    "w1": "brazil",
+    "w2": "data",
+    "pmi": -2.8201097399062203,
+    "cooc_count": 404,
+    "unigram_w1": 24303,
+    "unigram_w2": 1157814
+  },
+  {
+    "w1": "requests",
+    "w2": "time",
+    "pmi": -0.7695255999333603,
+    "cooc_count": 7985,
+    "unigram_w1": 41837,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "access",
+    "w2": "time",
+    "pmi": -1.356493848955995,
+    "cooc_count": 33315,
+    "unigram_w1": 313937,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "law",
+    "w2": "time",
+    "pmi": -1.8297998913151536,
+    "cooc_count": 20890,
+    "unigram_w1": 316006,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "requires",
+    "w2": "time",
+    "pmi": -0.8851043375484468,
+    "cooc_count": 14157,
+    "unigram_w1": 83263,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "frame",
+    "w2": "time",
+    "pmi": -1.1779991941289651,
+    "cooc_count": 19164,
+    "unigram_w1": 151067,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "data",
+    "w2": "time",
+    "pmi": -1.8433861663093614,
+    "cooc_count": 75506,
+    "unigram_w1": 1157814,
+    "unigram_w2": 1710308
+  },
+  {
+    "w1": "access",
+    "w2": "requests",
+    "pmi": -0.20833724207122573,
+    "cooc_count": 2569,
+    "unigram_w1": 313937,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "law",
+    "w2": "requests",
+    "pmi": -0.7663807443360814,
+    "cooc_count": 1480,
+    "unigram_w1": 316006,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "requests",
+    "w2": "requires",
+    "pmi": -0.562810450679965,
+    "cooc_count": 478,
+    "unigram_w1": 41837,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "frame",
+    "w2": "requests",
+    "pmi": -2.997407017074124,
+    "cooc_count": 76,
+    "unigram_w1": 151067,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "data",
+    "w2": "requests",
+    "pmi": -0.8222349352155351,
+    "cooc_count": 5128,
+    "unigram_w1": 1157814,
+    "unigram_w2": 41837
+  },
+  {
+    "w1": "access",
+    "w2": "law",
+    "pmi": -1.5852112727620842,
+    "cooc_count": 4897,
+    "unigram_w1": 313937,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "access",
+    "w2": "requires",
+    "pmi": -0.5599769528459563,
+    "cooc_count": 3597,
+    "unigram_w1": 313937,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "access",
+    "w2": "frame",
+    "pmi": -2.181154073374896,
+    "cooc_count": 1290,
+    "unigram_w1": 313937,
+    "unigram_w2": 151067
+  },
+  {
+    "w1": "access",
+    "w2": "data",
+    "pmi": -0.6307398680752412,
+    "cooc_count": 46601,
+    "unigram_w1": 313937,
+    "unigram_w2": 1157814
+  },
+  {
+    "w1": "law",
+    "w2": "requires",
+    "pmi": -0.18651496272295748,
+    "cooc_count": 5260,
+    "unigram_w1": 316006,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "frame",
+    "w2": "law",
+    "pmi": -3.3003869874117893,
+    "cooc_count": 424,
+    "unigram_w1": 151067,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "data",
+    "w2": "law",
+    "pmi": -2.073067297669649,
+    "cooc_count": 11088,
+    "unigram_w1": 1157814,
+    "unigram_w2": 316006
+  },
+  {
+    "w1": "frame",
+    "w2": "requires",
+    "pmi": -1.7192541947869904,
+    "cooc_count": 543,
+    "unigram_w1": 151067,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "data",
+    "w2": "requires",
+    "pmi": -1.366668458644736,
+    "cooc_count": 5921,
+    "unigram_w1": 1157814,
+    "unigram_w2": 83263
+  },
+  {
+    "w1": "data",
+    "w2": "frame",
+    "pmi": -2.3136966339430924,
+    "cooc_count": 4167,
+    "unigram_w1": 1157814,
+    "unigram_w2": 151067
+  }
+]

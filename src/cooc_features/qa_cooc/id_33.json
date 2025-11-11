@@ -1,0 +1,34 @@
+[
+  {
+    "w1": "jerman",
+    "w2": "negara",
+    "pmi": -2.495917971953609,
+    "cooc_count": 13382,
+    "unigram_w1": 73793,
+    "unigram_w2": 628438
+  },
+  {
+    "w1": "berlokasi",
+    "w2": "negara",
+    "pmi": -2.0278210559101533,
+    "cooc_count": 1757,
+    "unigram_w1": 6067,
+    "unigram_w2": 628438
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "jerman",
+    "pmi": 1.3534088832764881,
+    "cooc_count": 28,
+    "unigram_w1": 28,
+    "unigram_w2": 73793
+  },
+  {
+    "w1": "berlokasi",
+    "w2": "jerman",
+    "pmi": -1.5050081648913354,
+    "cooc_count": 348,
+    "unigram_w1": 6067,
+    "unigram_w2": 73793
+  }
+]

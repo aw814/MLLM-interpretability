@@ -1,0 +1,66 @@
+[
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": -2.7181021017199574,
+    "cooc_count": 43206,
+    "unigram_w1": 433923,
+    "unigram_w2": 892936
+  },
+  {
+    "w1": "name",
+    "w2": "protagonist",
+    "pmi": -1.2709324600950038,
+    "cooc_count": 289,
+    "unigram_w1": 433923,
+    "unigram_w2": 1405
+  },
+  {
+    "w1": "charlie",
+    "w2": "name",
+    "pmi": -2.927330244946644,
+    "cooc_count": 386,
+    "unigram_w1": 9834,
+    "unigram_w2": 433923
+  },
+  {
+    "w1": "name",
+    "w2": "novels",
+    "pmi": -2.8814624673050906,
+    "cooc_count": 281,
+    "unigram_w1": 433923,
+    "unigram_w2": 6838
+  },
+  {
+    "w1": "protagonist",
+    "w2": "what",
+    "pmi": -1.2341379350723098,
+    "cooc_count": 617,
+    "unigram_w1": 1405,
+    "unigram_w2": 892936
+  },
+  {
+    "w1": "charlie",
+    "w2": "what",
+    "pmi": -2.0705870989076467,
+    "cooc_count": 1871,
+    "unigram_w1": 9834,
+    "unigram_w2": 892936
+  },
+  {
+    "w1": "novels",
+    "w2": "what",
+    "pmi": -1.7902232624214218,
+    "cooc_count": 1722,
+    "unigram_w1": 6838,
+    "unigram_w2": 892936
+  },
+  {
+    "w1": "novels",
+    "w2": "protagonist",
+    "pmi": 2.1256675453163973,
+    "cooc_count": 136,
+    "unigram_w1": 6838,
+    "unigram_w2": 1405
+  }
+]

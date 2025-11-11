@@ -1,0 +1,154 @@
+[
+  {
+    "w1": "previously",
+    "w2": "what",
+    "pmi": -1.092755335841125,
+    "cooc_count": 6892,
+    "unigram_w1": 50954,
+    "unigram_w2": 1479481
+  },
+  {
+    "w1": "synchronized",
+    "w2": "what",
+    "pmi": -1.3429424473301057,
+    "cooc_count": 194,
+    "unigram_w1": 1842,
+    "unigram_w2": 1479481
+  },
+  {
+    "w1": "known",
+    "w2": "what",
+    "pmi": -1.29094541045297,
+    "cooc_count": 31183,
+    "unigram_w1": 281076,
+    "unigram_w2": 1479481
+  },
+  {
+    "w1": "swimming",
+    "w2": "what",
+    "pmi": -1.6661973696313888,
+    "cooc_count": 2461,
+    "unigram_w1": 32284,
+    "unigram_w2": 1479481
+  },
+  {
+    "w1": "as",
+    "w2": "what",
+    "pmi": -1.4213956447224803,
+    "cooc_count": 649245,
+    "unigram_w1": 6667581,
+    "unigram_w2": 1479481
+  },
+  {
+    "w1": "artistic",
+    "w2": "what",
+    "pmi": -0.9269213083733354,
+    "cooc_count": 1936,
+    "unigram_w1": 12126,
+    "unigram_w2": 1479481
+  },
+  {
+    "w1": "previously",
+    "w2": "synchronized",
+    "pmi": -2.5491300611807235,
+    "cooc_count": 2,
+    "unigram_w1": 50954,
+    "unigram_w2": 1842
+  },
+  {
+    "w1": "known",
+    "w2": "previously",
+    "pmi": -0.25406258827908934,
+    "cooc_count": 3029,
+    "unigram_w1": 281076,
+    "unigram_w2": 50954
+  },
+  {
+    "w1": "as",
+    "w2": "previously",
+    "pmi": -0.8547389638912786,
+    "cooc_count": 39407,
+    "unigram_w1": 6667581,
+    "unigram_w2": 50954
+  },
+  {
+    "w1": "artistic",
+    "w2": "previously",
+    "pmi": -0.4728168613995691,
+    "cooc_count": 105,
+    "unigram_w1": 12126,
+    "unigram_w2": 50954
+  },
+  {
+    "w1": "known",
+    "w2": "synchronized",
+    "pmi": -1.0581587741001885,
+    "cooc_count": 49,
+    "unigram_w1": 281076,
+    "unigram_w2": 1842
+  },
+  {
+    "w1": "swimming",
+    "w2": "synchronized",
+    "pmi": 2.169901329327093,
+    "cooc_count": 142,
+    "unigram_w1": 32284,
+    "unigram_w2": 1842
+  },
+  {
+    "w1": "as",
+    "w2": "synchronized",
+    "pmi": -1.3387197876407422,
+    "cooc_count": 878,
+    "unigram_w1": 6667581,
+    "unigram_w2": 1842
+  },
+  {
+    "w1": "known",
+    "w2": "swimming",
+    "pmi": -1.559870074264353,
+    "cooc_count": 520,
+    "unigram_w1": 281076,
+    "unigram_w2": 32284
+  },
+  {
+    "w1": "as",
+    "w2": "known",
+    "pmi": -0.7547416736888057,
+    "cooc_count": 240241,
+    "unigram_w1": 6667581,
+    "unigram_w2": 281076
+  },
+  {
+    "w1": "artistic",
+    "w2": "known",
+    "pmi": -0.5748975779623162,
+    "cooc_count": 523,
+    "unigram_w1": 12126,
+    "unigram_w2": 281076
+  },
+  {
+    "w1": "as",
+    "w2": "swimming",
+    "pmi": -1.659994958969568,
+    "cooc_count": 11160,
+    "unigram_w1": 6667581,
+    "unigram_w2": 32284
+  },
+  {
+    "w1": "artistic",
+    "w2": "swimming",
+    "pmi": -1.9623754969883815,
+    "cooc_count": 15,
+    "unigram_w1": 12126,
+    "unigram_w2": 32284
+  },
+  {
+    "w1": "artistic",
+    "w2": "as",
+    "pmi": -1.0893364093557247,
+    "cooc_count": 7417,
+    "unigram_w1": 12126,
+    "unigram_w2": 6667581
+  }
+]

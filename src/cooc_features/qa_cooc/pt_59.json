@@ -1,0 +1,122 @@
+[
+  {
+    "w1": "se",
+    "w2": "tornou",
+    "pmi": -0.5772081503014388,
+    "cooc_count": 130219,
+    "unigram_w1": 5093015,
+    "unigram_w2": 133800
+  },
+  {
+    "w1": "escola",
+    "w2": "tornou",
+    "pmi": -1.932711573713284,
+    "cooc_count": 1819,
+    "unigram_w1": 275944,
+    "unigram_w2": 133800
+  },
+  {
+    "w1": "academia",
+    "w2": "tornou",
+    "pmi": -1.2402941256550353,
+    "cooc_count": 531,
+    "unigram_w1": 40306,
+    "unigram_w2": 133800
+  },
+  {
+    "w1": "ano",
+    "w2": "tornou",
+    "pmi": -1.6206367797879122,
+    "cooc_count": 6681,
+    "unigram_w1": 741818,
+    "unigram_w2": 133800
+  },
+  {
+    "w1": "2014",
+    "w2": "tornou",
+    "pmi": -2.708899410294226,
+    "cooc_count": 1501,
+    "unigram_w1": 494838,
+    "unigram_w2": 133800
+  },
+  {
+    "w1": "escola",
+    "w2": "se",
+    "pmi": -1.5494604660900677,
+    "cooc_count": 101577,
+    "unigram_w1": 275944,
+    "unigram_w2": 5093015
+  },
+  {
+    "w1": "academia",
+    "w2": "se",
+    "pmi": -1.3894203686298532,
+    "cooc_count": 17412,
+    "unigram_w1": 40306,
+    "unigram_w2": 5093015
+  },
+  {
+    "w1": "ano",
+    "w2": "se",
+    "pmi": -1.479137259956707,
+    "cooc_count": 292963,
+    "unigram_w1": 741818,
+    "unigram_w2": 5093015
+  },
+  {
+    "w1": "2014",
+    "w2": "se",
+    "pmi": -2.2265934637673452,
+    "cooc_count": 92547,
+    "unigram_w1": 494838,
+    "unigram_w2": 5093015
+  },
+  {
+    "w1": "academia",
+    "w2": "escola",
+    "pmi": -0.2810305872927631,
+    "cooc_count": 2858,
+    "unigram_w1": 40306,
+    "unigram_w2": 275944
+  },
+  {
+    "w1": "ano",
+    "w2": "escola",
+    "pmi": -0.8433591941254678,
+    "cooc_count": 29976,
+    "unigram_w1": 741818,
+    "unigram_w2": 275944
+  },
+  {
+    "w1": "2014",
+    "w2": "escola",
+    "pmi": -2.008062848702503,
+    "cooc_count": 6239,
+    "unigram_w1": 494838,
+    "unigram_w2": 275944
+  },
+  {
+    "w1": "academia",
+    "w2": "ano",
+    "pmi": -1.0877899768016384,
+    "cooc_count": 3429,
+    "unigram_w1": 40306,
+    "unigram_w2": 741818
+  },
+  {
+    "w1": "2014",
+    "w2": "academia",
+    "pmi": -2.1662139113004657,
+    "cooc_count": 778,
+    "unigram_w1": 494838,
+    "unigram_w2": 40306
+  },
+  {
+    "w1": "2014",
+    "w2": "ano",
+    "pmi": -1.0057342120467831,
+    "cooc_count": 45698,
+    "unigram_w1": 494838,
+    "unigram_w2": 741818
+  }
+]

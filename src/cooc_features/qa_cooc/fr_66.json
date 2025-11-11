@@ -1,0 +1,538 @@
+[
+  {
+    "w1": "ming",
+    "w2": "t",
+    "pmi": -2.3581322562472664,
+    "cooc_count": 47,
+    "unigram_w1": 1592,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "news",
+    "w2": "t",
+    "pmi": -1.6903163725513046,
+    "cooc_count": 3893,
+    "unigram_w1": 67624,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "t",
+    "w2": "été",
+    "pmi": -2.1872765946307466,
+    "cooc_count": 73694,
+    "unigram_w1": 1913218,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": -1.5394167134351513,
+    "cooc_count": 152562,
+    "unigram_w1": 2278914,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "lancée",
+    "w2": "t",
+    "pmi": -2.2264074998172925,
+    "cooc_count": 740,
+    "unigram_w1": 21972,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "1993",
+    "w2": "t",
+    "pmi": -2.335168605201695,
+    "cooc_count": 890,
+    "unigram_w1": 29462,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "année",
+    "w2": "t",
+    "pmi": -2.0432791968855923,
+    "cooc_count": 19515,
+    "unigram_w1": 482475,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "pao",
+    "w2": "t",
+    "pmi": -2.059459832207266,
+    "cooc_count": 79,
+    "unigram_w1": 1985,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "t",
+    "w2": "édition",
+    "pmi": -2.1918353798038517,
+    "cooc_count": 4901,
+    "unigram_w1": 1913218,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": -1.6774201254220806,
+    "cooc_count": 542660,
+    "unigram_w1": 9305581,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "quelle",
+    "w2": "t",
+    "pmi": -1.0247749122412604,
+    "cooc_count": 18683,
+    "unigram_w1": 166810,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "daily",
+    "w2": "t",
+    "pmi": -1.8627131420364003,
+    "cooc_count": 529,
+    "unigram_w1": 10918,
+    "unigram_w2": 1913218
+  },
+  {
+    "w1": "ming",
+    "w2": "news",
+    "pmi": 1.0463221179272155,
+    "cooc_count": 50,
+    "unigram_w1": 1592,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "ming",
+    "w2": "été",
+    "pmi": -1.240807392680125,
+    "cooc_count": 158,
+    "unigram_w1": 1592,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "elle",
+    "w2": "ming",
+    "pmi": -0.6694594250495473,
+    "cooc_count": 303,
+    "unigram_w1": 2278914,
+    "unigram_w2": 1592
+  },
+  {
+    "w1": "année",
+    "w2": "ming",
+    "pmi": 0.09658664131772692,
+    "cooc_count": 138,
+    "unigram_w1": 482475,
+    "unigram_w2": 1592
+  },
+  {
+    "w1": "a",
+    "w2": "ming",
+    "pmi": -0.7952575587169466,
+    "cooc_count": 1091,
+    "unigram_w1": 9305581,
+    "unigram_w2": 1592
+  },
+  {
+    "w1": "ming",
+    "w2": "quelle",
+    "pmi": -0.1576754653960436,
+    "cooc_count": 37,
+    "unigram_w1": 1592,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "news",
+    "w2": "été",
+    "pmi": -1.3999511472351855,
+    "cooc_count": 5724,
+    "unigram_w1": 67624,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "elle",
+    "w2": "news",
+    "pmi": -1.8391149529949078,
+    "cooc_count": 3996,
+    "unigram_w1": 2278914,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "lancée",
+    "w2": "news",
+    "pmi": -0.8953588654245234,
+    "cooc_count": 99,
+    "unigram_w1": 21972,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "1993",
+    "w2": "news",
+    "pmi": -3.218861740009949,
+    "cooc_count": 13,
+    "unigram_w1": 29462,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "année",
+    "w2": "news",
+    "pmi": -1.1077068277987905,
+    "cooc_count": 1758,
+    "unigram_w1": 482475,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "news",
+    "w2": "édition",
+    "pmi": -0.28169192646520286,
+    "cooc_count": 1170,
+    "unigram_w1": 67624,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "news",
+    "pmi": -1.2378565441721014,
+    "cooc_count": 29769,
+    "unigram_w1": 9305581,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "news",
+    "w2": "quelle",
+    "pmi": -1.2851172236941806,
+    "cooc_count": 509,
+    "unigram_w1": 67624,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "daily",
+    "w2": "news",
+    "pmi": 2.180546001287485,
+    "cooc_count": 1066,
+    "unigram_w1": 10918,
+    "unigram_w2": 67624
+  },
+  {
+    "w1": "elle",
+    "w2": "été",
+    "pmi": -1.3492738993401365,
+    "cooc_count": 202925,
+    "unigram_w1": 2278914,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "lancée",
+    "w2": "été",
+    "pmi": 0.06325756115395288,
+    "cooc_count": 8034,
+    "unigram_w1": 21972,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "1993",
+    "w2": "été",
+    "pmi": -0.9522681144945908,
+    "cooc_count": 3902,
+    "unigram_w1": 29462,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "année",
+    "w2": "été",
+    "pmi": -0.7384804582946131,
+    "cooc_count": 79131,
+    "unigram_w1": 482475,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "pao",
+    "w2": "été",
+    "pmi": -1.5133949583277986,
+    "cooc_count": 150,
+    "unigram_w1": 1985,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "édition",
+    "w2": "été",
+    "pmi": -0.954957544508893,
+    "cooc_count": 18568,
+    "unigram_w1": 140575,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "a",
+    "w2": "été",
+    "pmi": -0.663700230032799,
+    "cooc_count": 1644720,
+    "unigram_w1": 9305581,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "quelle",
+    "w2": "été",
+    "pmi": -1.4414201986760156,
+    "cooc_count": 13546,
+    "unigram_w1": 166810,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "daily",
+    "w2": "été",
+    "pmi": -1.3925648643673993,
+    "cooc_count": 931,
+    "unigram_w1": 10918,
+    "unigram_w2": 2104145
+  },
+  {
+    "w1": "elle",
+    "w2": "lancée",
+    "pmi": -0.6471967864721634,
+    "cooc_count": 4276,
+    "unigram_w1": 2278914,
+    "unigram_w2": 21972
+  },
+  {
+    "w1": "1993",
+    "w2": "elle",
+    "pmi": -1.3557470122759827,
+    "cooc_count": 2823,
+    "unigram_w1": 29462,
+    "unigram_w2": 2278914
+  },
+  {
+    "w1": "année",
+    "w2": "elle",
+    "pmi": -1.2054779144558976,
+    "cooc_count": 53726,
+    "unigram_w1": 482475,
+    "unigram_w2": 2278914
+  },
+  {
+    "w1": "elle",
+    "w2": "pao",
+    "pmi": -1.516223722043495,
+    "cooc_count": 162,
+    "unigram_w1": 2278914,
+    "unigram_w2": 1985
+  },
+  {
+    "w1": "elle",
+    "w2": "édition",
+    "pmi": -1.5918485290633257,
+    "cooc_count": 10637,
+    "unigram_w1": 2278914,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": -1.281317762352294,
+    "cooc_count": 960542,
+    "unigram_w1": 9305581,
+    "unigram_w2": 2278914
+  },
+  {
+    "w1": "elle",
+    "w2": "quelle",
+    "pmi": -0.7646022301428316,
+    "cooc_count": 28867,
+    "unigram_w1": 2278914,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "daily",
+    "w2": "elle",
+    "pmi": -1.6792506930588424,
+    "cooc_count": 757,
+    "unigram_w1": 10918,
+    "unigram_w2": 2278914
+  },
+  {
+    "w1": "1993",
+    "w2": "lancée",
+    "pmi": -0.7884160524173425,
+    "cooc_count": 48,
+    "unigram_w1": 29462,
+    "unigram_w2": 21972
+  },
+  {
+    "w1": "année",
+    "w2": "lancée",
+    "pmi": -0.002462542432200308,
+    "cooc_count": 1725,
+    "unigram_w1": 482475,
+    "unigram_w2": 21972
+  },
+  {
+    "w1": "lancée",
+    "w2": "édition",
+    "pmi": 0.6864978592044685,
+    "cooc_count": 1001,
+    "unigram_w1": 21972,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "lancée",
+    "pmi": -0.7521326954166861,
+    "cooc_count": 15721,
+    "unigram_w1": 9305581,
+    "unigram_w2": 21972
+  },
+  {
+    "w1": "lancée",
+    "w2": "quelle",
+    "pmi": -0.6929276327077643,
+    "cooc_count": 299,
+    "unigram_w1": 21972,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "1993",
+    "w2": "année",
+    "pmi": -0.6091169178451136,
+    "cooc_count": 1261,
+    "unigram_w1": 29462,
+    "unigram_w2": 482475
+  },
+  {
+    "w1": "1993",
+    "w2": "édition",
+    "pmi": -0.33764518797252463,
+    "cooc_count": 482,
+    "unigram_w1": 29462,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "1993",
+    "w2": "a",
+    "pmi": -1.0574313055409803,
+    "cooc_count": 15534,
+    "unigram_w1": 29462,
+    "unigram_w2": 9305581
+  },
+  {
+    "w1": "1993",
+    "w2": "quelle",
+    "pmi": -1.5807581141102427,
+    "cooc_count": 165,
+    "unigram_w1": 29462,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "a",
+    "w2": "torontoise",
+    "pmi": -0.4173611781456892,
+    "cooc_count": 13,
+    "unigram_w1": 9305581,
+    "unigram_w2": 13
+  },
+  {
+    "w1": "année",
+    "w2": "pao",
+    "pmi": -2.278706148316659,
+    "cooc_count": 16,
+    "unigram_w1": 482475,
+    "unigram_w2": 1985
+  },
+  {
+    "w1": "année",
+    "w2": "édition",
+    "pmi": 0.1402995809559004,
+    "cooc_count": 12730,
+    "unigram_w1": 482475,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "année",
+    "pmi": -1.0926919566339612,
+    "cooc_count": 245574,
+    "unigram_w1": 9305581,
+    "unigram_w2": 482475
+  },
+  {
+    "w1": "année",
+    "w2": "quelle",
+    "pmi": -0.7217647723412951,
+    "cooc_count": 6379,
+    "unigram_w1": 482475,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "année",
+    "w2": "daily",
+    "pmi": -1.626190044853779,
+    "cooc_count": 169,
+    "unigram_w1": 482475,
+    "unigram_w2": 10918
+  },
+  {
+    "w1": "pao",
+    "w2": "édition",
+    "pmi": -0.1292274646555957,
+    "cooc_count": 40,
+    "unigram_w1": 1985,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "pao",
+    "pmi": -1.8773373282703314,
+    "cooc_count": 461,
+    "unigram_w1": 9305581,
+    "unigram_w2": 1985
+  },
+  {
+    "w1": "a",
+    "w2": "édition",
+    "pmi": -1.2196819324552612,
+    "cooc_count": 63018,
+    "unigram_w1": 9305581,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "quelle",
+    "w2": "édition",
+    "pmi": -1.0209549932227384,
+    "cooc_count": 1378,
+    "unigram_w1": 166810,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "daily",
+    "w2": "édition",
+    "pmi": -3.037994158201944,
+    "cooc_count": 12,
+    "unigram_w1": 10918,
+    "unigram_w2": 140575
+  },
+  {
+    "w1": "a",
+    "w2": "quelle",
+    "pmi": -1.1386693014080425,
+    "cooc_count": 81089,
+    "unigram_w1": 9305581,
+    "unigram_w2": 166810
+  },
+  {
+    "w1": "a",
+    "w2": "daily",
+    "pmi": -0.8590107634675354,
+    "cooc_count": 7020,
+    "unigram_w1": 9305581,
+    "unigram_w2": 10918
+  },
+  {
+    "w1": "daily",
+    "w2": "quelle",
+    "pmi": -2.0564289342512567,
+    "cooc_count": 38,
+    "unigram_w1": 10918,
+    "unigram_w2": 166810
+  }
+]

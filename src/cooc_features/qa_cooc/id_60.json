@@ -1,0 +1,770 @@
+[
+  {
+    "w1": "clark",
+    "w2": "meraih",
+    "pmi": -2.607547151233414,
+    "cooc_count": 6,
+    "unigram_w1": 2493,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "clark",
+    "w2": "selandia",
+    "pmi": 1.6896992541858555,
+    "cooc_count": 47,
+    "unigram_w1": 2493,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "clark",
+    "w2": "dalam",
+    "pmi": -0.9304106818577493,
+    "cooc_count": 1164,
+    "unigram_w1": 2493,
+    "unigram_w2": 6507987
+  },
+  {
+    "w1": "clark",
+    "w2": "helen",
+    "pmi": 3.6034878365776946,
+    "cooc_count": 49,
+    "unigram_w1": 2493,
+    "unigram_w2": 2942
+  },
+  {
+    "w1": "baru",
+    "w2": "clark",
+    "pmi": -0.8399919818470709,
+    "cooc_count": 313,
+    "unigram_w1": 1598710,
+    "unigram_w2": 2493
+  },
+  {
+    "w1": "apa",
+    "w2": "clark",
+    "pmi": -2.622914473950184,
+    "cooc_count": 42,
+    "unigram_w1": 1275816,
+    "unigram_w2": 2493
+  },
+  {
+    "w1": "clark",
+    "w2": "tahun",
+    "pmi": -0.8347327320125584,
+    "cooc_count": 465,
+    "unigram_w1": 2493,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "clark",
+    "w2": "umum",
+    "pmi": -1.4898786735720122,
+    "cooc_count": 79,
+    "unigram_w1": 2493,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "meraih",
+    "pmi": -1.2743780598208176,
+    "cooc_count": 223,
+    "unigram_w1": 24428,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "meraih",
+    "w2": "selandia",
+    "pmi": -2.1465658829421734,
+    "cooc_count": 73,
+    "unigram_w1": 179480,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "buruh",
+    "w2": "meraih",
+    "pmi": -2.913315774549086,
+    "cooc_count": 99,
+    "unigram_w1": 55847,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "dalam",
+    "w2": "meraih",
+    "pmi": -1.003706508093264,
+    "cooc_count": 77878,
+    "unigram_w1": 6507987,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "1999",
+    "w2": "meraih",
+    "pmi": -1.158023994698387,
+    "cooc_count": 431,
+    "unigram_w1": 42027,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "baru",
+    "w2": "meraih",
+    "pmi": -1.3737399963637549,
+    "cooc_count": 13214,
+    "unigram_w1": 1598710,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "meraih",
+    "w2": "pemilihan",
+    "pmi": -1.3130468014539087,
+    "cooc_count": 931,
+    "unigram_w1": 179480,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "meraih",
+    "w2": "partai",
+    "pmi": -0.7591199357757913,
+    "cooc_count": 2311,
+    "unigram_w1": 179480,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "apa",
+    "w2": "meraih",
+    "pmi": -1.3530127696790115,
+    "cooc_count": 10766,
+    "unigram_w1": 1275816,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "meraih",
+    "w2": "tahun",
+    "pmi": -1.0516827520857257,
+    "cooc_count": 26948,
+    "unigram_w1": 179480,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "kemenangan",
+    "w2": "meraih",
+    "pmi": 1.9320134883692404,
+    "cooc_count": 60529,
+    "unigram_w1": 268552,
+    "unigram_w2": 179480
+  },
+  {
+    "w1": "meraih",
+    "w2": "umum",
+    "pmi": -2.121898507825937,
+    "cooc_count": 3023,
+    "unigram_w1": 179480,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "selandia",
+    "pmi": -1.5523198004475054,
+    "cooc_count": 18,
+    "unigram_w1": 24428,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "buruh",
+    "w2": "dipimpin",
+    "pmi": -1.0367650444585752,
+    "cooc_count": 88,
+    "unigram_w1": 55847,
+    "unigram_w2": 24428
+  },
+  {
+    "w1": "dalam",
+    "w2": "dipimpin",
+    "pmi": -0.7539318757777412,
+    "cooc_count": 13607,
+    "unigram_w1": 6507987,
+    "unigram_w2": 24428
+  },
+  {
+    "w1": "1999",
+    "w2": "dipimpin",
+    "pmi": -0.5569694845933342,
+    "cooc_count": 107,
+    "unigram_w1": 42027,
+    "unigram_w2": 24428
+  },
+  {
+    "w1": "baru",
+    "w2": "dipimpin",
+    "pmi": -0.9292795652498947,
+    "cooc_count": 2805,
+    "unigram_w1": 1598710,
+    "unigram_w2": 24428
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "pemilihan",
+    "pmi": -0.19396697336080768,
+    "cooc_count": 388,
+    "unigram_w1": 24428,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "partai",
+    "pmi": 0.46612629014447104,
+    "cooc_count": 1071,
+    "unigram_w1": 24428,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "apa",
+    "w2": "dipimpin",
+    "pmi": -1.7045428190360596,
+    "cooc_count": 1031,
+    "unigram_w1": 1275816,
+    "unigram_w2": 24428
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "tahun",
+    "pmi": -0.5338308534606122,
+    "cooc_count": 6156,
+    "unigram_w1": 24428,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "kemenangan",
+    "pmi": -1.1183838747759167,
+    "cooc_count": 390,
+    "unigram_w1": 24428,
+    "unigram_w2": 268552
+  },
+  {
+    "w1": "dipimpin",
+    "w2": "umum",
+    "pmi": -0.8059357549312997,
+    "cooc_count": 1534,
+    "unigram_w1": 24428,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "buruh",
+    "w2": "selandia",
+    "pmi": -2.379205593850245,
+    "cooc_count": 18,
+    "unigram_w1": 55847,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "dalam",
+    "w2": "selandia",
+    "pmi": -2.0247183473934958,
+    "cooc_count": 2990,
+    "unigram_w1": 6507987,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "1999",
+    "w2": "selandia",
+    "pmi": -0.7511673072676093,
+    "cooc_count": 69,
+    "unigram_w1": 42027,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "helen",
+    "w2": "selandia",
+    "pmi": 1.545149845745863,
+    "cooc_count": 48,
+    "unigram_w1": 2942,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "baru",
+    "w2": "selandia",
+    "pmi": 0.94731256067006,
+    "cooc_count": 14346,
+    "unigram_w1": 1598710,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "pemilihan",
+    "w2": "selandia",
+    "pmi": -1.7515647224340376,
+    "cooc_count": 64,
+    "unigram_w1": 106005,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "partai",
+    "w2": "selandia",
+    "pmi": -3.1302030571837562,
+    "cooc_count": 23,
+    "unigram_w1": 151220,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "apa",
+    "w2": "selandia",
+    "pmi": -1.922870079158558,
+    "cooc_count": 649,
+    "unigram_w1": 1275816,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "selandia",
+    "w2": "tahun",
+    "pmi": -1.5679037420712851,
+    "cooc_count": 1714,
+    "unigram_w1": 19129,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "kemenangan",
+    "w2": "selandia",
+    "pmi": -1.5416887401612005,
+    "cooc_count": 200,
+    "unigram_w1": 268552,
+    "unigram_w2": 19129
+  },
+  {
+    "w1": "selandia",
+    "w2": "umum",
+    "pmi": -2.977064303840004,
+    "cooc_count": 137,
+    "unigram_w1": 19129,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "buruh",
+    "w2": "dalam",
+    "pmi": -1.4762438228276145,
+    "cooc_count": 15107,
+    "unigram_w1": 55847,
+    "unigram_w2": 6507987
+  },
+  {
+    "w1": "1999",
+    "w2": "buruh",
+    "pmi": -1.712878690604296,
+    "cooc_count": 77,
+    "unigram_w1": 42027,
+    "unigram_w2": 55847
+  },
+  {
+    "w1": "buruh",
+    "w2": "helen",
+    "pmi": 0.36373864993842325,
+    "cooc_count": 43,
+    "unigram_w1": 55847,
+    "unigram_w2": 2942
+  },
+  {
+    "w1": "baru",
+    "w2": "buruh",
+    "pmi": -1.7906202627356846,
+    "cooc_count": 2710,
+    "unigram_w1": 1598710,
+    "unigram_w2": 55847
+  },
+  {
+    "w1": "buruh",
+    "w2": "pemilihan",
+    "pmi": -1.5746863349267022,
+    "cooc_count": 223,
+    "unigram_w1": 55847,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "buruh",
+    "w2": "partai",
+    "pmi": -0.013936855762547672,
+    "cooc_count": 1515,
+    "unigram_w1": 55847,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "apa",
+    "w2": "buruh",
+    "pmi": -2.160500730762997,
+    "cooc_count": 1494,
+    "unigram_w1": 1275816,
+    "unigram_w2": 55847
+  },
+  {
+    "w1": "buruh",
+    "w2": "tahun",
+    "pmi": -1.2302357111219981,
+    "cooc_count": 7014,
+    "unigram_w1": 55847,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "buruh",
+    "w2": "kemenangan",
+    "pmi": -2.685669733589147,
+    "cooc_count": 186,
+    "unigram_w1": 55847,
+    "unigram_w2": 268552
+  },
+  {
+    "w1": "buruh",
+    "w2": "umum",
+    "pmi": -2.2876008514710255,
+    "cooc_count": 797,
+    "unigram_w1": 55847,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "1999",
+    "w2": "dalam",
+    "pmi": -1.1928011816449842,
+    "cooc_count": 15094,
+    "unigram_w1": 42027,
+    "unigram_w2": 6507987
+  },
+  {
+    "w1": "dalam",
+    "w2": "helen",
+    "pmi": -1.8457128495604407,
+    "cooc_count": 550,
+    "unigram_w1": 6507987,
+    "unigram_w2": 2942
+  },
+  {
+    "w1": "baru",
+    "w2": "dalam",
+    "pmi": -1.2654007748184821,
+    "cooc_count": 533969,
+    "unigram_w1": 1598710,
+    "unigram_w2": 6507987
+  },
+  {
+    "w1": "dalam",
+    "w2": "pemilihan",
+    "pmi": -0.9339630870961168,
+    "cooc_count": 49319,
+    "unigram_w1": 6507987,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "dalam",
+    "w2": "partai",
+    "pmi": -1.4171316424625053,
+    "cooc_count": 43397,
+    "unigram_w1": 6507987,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "apa",
+    "w2": "dalam",
+    "pmi": -1.1577415277731977,
+    "cooc_count": 474559,
+    "unigram_w1": 1275816,
+    "unigram_w2": 6507987
+  },
+  {
+    "w1": "dalam",
+    "w2": "tahun",
+    "pmi": -1.2592779237120084,
+    "cooc_count": 793962,
+    "unigram_w1": 6507987,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "dalam",
+    "w2": "kemenangan",
+    "pmi": -0.9718172300264741,
+    "cooc_count": 120303,
+    "unigram_w1": 6507987,
+    "unigram_w2": 268552
+  },
+  {
+    "w1": "dalam",
+    "w2": "umum",
+    "pmi": -0.8016036128391075,
+    "cooc_count": 410455,
+    "unigram_w1": 6507987,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "1999",
+    "w2": "helen",
+    "pmi": 0.25413790411287607,
+    "cooc_count": 29,
+    "unigram_w1": 42027,
+    "unigram_w2": 2942
+  },
+  {
+    "w1": "1999",
+    "w2": "baru",
+    "pmi": -1.5535398497853605,
+    "cooc_count": 2585,
+    "unigram_w1": 42027,
+    "unigram_w2": 1598710
+  },
+  {
+    "w1": "1999",
+    "w2": "pemilihan",
+    "pmi": -0.6085096910584336,
+    "cooc_count": 441,
+    "unigram_w1": 42027,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "1999",
+    "w2": "partai",
+    "pmi": -0.8958250482389206,
+    "cooc_count": 472,
+    "unigram_w1": 42027,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "1999",
+    "w2": "apa",
+    "pmi": -2.155436644867832,
+    "cooc_count": 1130,
+    "unigram_w1": 42027,
+    "unigram_w2": 1275816
+  },
+  {
+    "w1": "1999",
+    "w2": "tahun",
+    "pmi": 0.34750124662542076,
+    "cooc_count": 25568,
+    "unigram_w1": 42027,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "1999",
+    "w2": "kemenangan",
+    "pmi": -2.159052726285676,
+    "cooc_count": 237,
+    "unigram_w1": 42027,
+    "unigram_w2": 268552
+  },
+  {
+    "w1": "1999",
+    "w2": "umum",
+    "pmi": -1.2317495391560611,
+    "cooc_count": 1724,
+    "unigram_w1": 42027,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "baru",
+    "w2": "helen",
+    "pmi": -1.9396136346526316,
+    "cooc_count": 123,
+    "unigram_w1": 1598710,
+    "unigram_w2": 2942
+  },
+  {
+    "w1": "helen",
+    "w2": "pemilihan",
+    "pmi": -0.9028377038732891,
+    "cooc_count": 23,
+    "unigram_w1": 2942,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "helen",
+    "w2": "partai",
+    "pmi": -0.26644700207654365,
+    "cooc_count": 62,
+    "unigram_w1": 2942,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "apa",
+    "w2": "helen",
+    "pmi": -1.681999823412786,
+    "cooc_count": 127,
+    "unigram_w1": 1275816,
+    "unigram_w2": 2942
+  },
+  {
+    "w1": "helen",
+    "w2": "tahun",
+    "pmi": -1.7218379559654537,
+    "cooc_count": 226,
+    "unigram_w1": 2942,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "helen",
+    "w2": "umum",
+    "pmi": -4.079019194621545,
+    "cooc_count": 7,
+    "unigram_w1": 2942,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "baru",
+    "w2": "pemilihan",
+    "pmi": -1.3822960953962724,
+    "cooc_count": 7738,
+    "unigram_w1": 1598710,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "baru",
+    "w2": "partai",
+    "pmi": -1.6002251569076076,
+    "cooc_count": 8877,
+    "unigram_w1": 1598710,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "apa",
+    "w2": "baru",
+    "pmi": -1.1343094002645593,
+    "cooc_count": 119341,
+    "unigram_w1": 1275816,
+    "unigram_w2": 1598710
+  },
+  {
+    "w1": "baru",
+    "w2": "tahun",
+    "pmi": -0.7318343942498222,
+    "cooc_count": 330513,
+    "unigram_w1": 1598710,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "baru",
+    "w2": "kemenangan",
+    "pmi": -1.675333637878327,
+    "cooc_count": 14624,
+    "unigram_w1": 1598710,
+    "unigram_w2": 268552
+  },
+  {
+    "w1": "baru",
+    "w2": "umum",
+    "pmi": -1.1893862117158347,
+    "cooc_count": 68419,
+    "unigram_w1": 1598710,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "partai",
+    "w2": "pemilihan",
+    "pmi": 0.767306454701064,
+    "cooc_count": 6281,
+    "unigram_w1": 151220,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "apa",
+    "w2": "pemilihan",
+    "pmi": -1.451543634858585,
+    "cooc_count": 5762,
+    "unigram_w1": 1275816,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "pemilihan",
+    "w2": "tahun",
+    "pmi": -1.0835435202090817,
+    "cooc_count": 15417,
+    "unigram_w1": 106005,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "kemenangan",
+    "w2": "pemilihan",
+    "pmi": -1.0402156155141813,
+    "cooc_count": 1830,
+    "unigram_w1": 268552,
+    "unigram_w2": 106005
+  },
+  {
+    "w1": "pemilihan",
+    "w2": "umum",
+    "pmi": 0.35938735314529535,
+    "cooc_count": 21348,
+    "unigram_w1": 106005,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "apa",
+    "w2": "partai",
+    "pmi": -1.8952886509090234,
+    "cooc_count": 5274,
+    "unigram_w1": 1275816,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "partai",
+    "w2": "tahun",
+    "pmi": -1.5917012231462067,
+    "cooc_count": 13231,
+    "unigram_w1": 151220,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "kemenangan",
+    "w2": "partai",
+    "pmi": -0.5344444812268637,
+    "cooc_count": 4329,
+    "unigram_w1": 268552,
+    "unigram_w2": 151220
+  },
+  {
+    "w1": "partai",
+    "w2": "umum",
+    "pmi": -0.6433200190803987,
+    "cooc_count": 11173,
+    "unigram_w1": 151220,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "apa",
+    "w2": "tahun",
+    "pmi": -1.6420914866965037,
+    "cooc_count": 106142,
+    "unigram_w1": 1275816,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "apa",
+    "w2": "kemenangan",
+    "pmi": -1.7488668619464043,
+    "cooc_count": 10843,
+    "unigram_w1": 1275816,
+    "unigram_w2": 268552
+  },
+  {
+    "w1": "apa",
+    "w2": "umum",
+    "pmi": -1.8055779520682993,
+    "cooc_count": 29484,
+    "unigram_w1": 1275816,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "kemenangan",
+    "w2": "tahun",
+    "pmi": -2.097233871618043,
+    "cooc_count": 14173,
+    "unigram_w1": 268552,
+    "unigram_w2": 2362622
+  },
+  {
+    "w1": "tahun",
+    "w2": "umum",
+    "pmi": -1.4518688465662222,
+    "cooc_count": 77769,
+    "unigram_w1": 2362622,
+    "unigram_w2": 772849
+  },
+  {
+    "w1": "kemenangan",
+    "w2": "umum",
+    "pmi": -2.8573239226645306,
+    "cooc_count": 2168,
+    "unigram_w1": 268552,
+    "unigram_w2": 772849
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "w1": "1988",
+    "w2": "released",
+    "pmi": -0.19716050291511203,
+    "cooc_count": 272,
+    "unigram_w1": 20531,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "one",
+    "w2": "released",
+    "pmi": -1.0041386054757977,
+    "cooc_count": 16872,
+    "unigram_w1": 2854131,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "album",
+    "w2": "released",
+    "pmi": 1.937362297380278,
+    "cooc_count": 12151,
+    "unigram_w1": 108503,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "released",
+    "w2": "year",
+    "pmi": -0.31254936756848084,
+    "cooc_count": 14879,
+    "unigram_w1": 122224,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "brown",
+    "w2": "released",
+    "pmi": -1.161113537182141,
+    "cooc_count": 868,
+    "unigram_w1": 171791,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "released",
+    "w2": "what",
+    "pmi": -1.3290042966560618,
+    "cooc_count": 9441,
+    "unigram_w1": 122224,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "kiss",
+    "w2": "released",
+    "pmi": -0.7405817287346071,
+    "cooc_count": 103,
+    "unigram_w1": 13387,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "more",
+    "w2": "released",
+    "pmi": -1.0730133736165046,
+    "cooc_count": 16693,
+    "unigram_w1": 3025197,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "greg",
+    "w2": "released",
+    "pmi": -0.6355429613033913,
+    "cooc_count": 175,
+    "unigram_w1": 20477,
+    "unigram_w2": 122224
+  },
+  {
+    "w1": "released",
+    "w2": "s",
+    "pmi": -0.929774108751132,
+    "cooc_count": 56882,
+    "unigram_w1": 122224,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "1988",
+    "w2": "one",
+    "pmi": -1.5276761828084906,
+    "cooc_count": 1679,
+    "unigram_w1": 20531,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "1988",
+    "w2": "album",
+    "pmi": 0.34198100904535733,
+    "cooc_count": 414,
+    "unigram_w1": 20531,
+    "unigram_w2": 108503
+  },
+  {
+    "w1": "1988",
+    "w2": "year",
+    "pmi": -0.7871051570344669,
+    "cooc_count": 1555,
+    "unigram_w1": 20531,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "1988",
+    "w2": "brown",
+    "pmi": -0.8301797850523271,
+    "cooc_count": 203,
+    "unigram_w1": 20531,
+    "unigram_w2": 171791
+  },
+  {
+    "w1": "1988",
+    "w2": "what",
+    "pmi": -2.131229564836961,
+    "cooc_count": 711,
+    "unigram_w1": 20531,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "1988",
+    "w2": "kiss",
+    "pmi": 0.19279840470239498,
+    "cooc_count": 44,
+    "unigram_w1": 20531,
+    "unigram_w2": 13387
+  },
+  {
+    "w1": "1988",
+    "w2": "more",
+    "pmi": -1.4230087564157028,
+    "cooc_count": 1976,
+    "unigram_w1": 20531,
+    "unigram_w2": 3025197
+  },
+  {
+    "w1": "1988",
+    "w2": "greg",
+    "pmi": -0.27873982919516027,
+    "cooc_count": 42,
+    "unigram_w1": 20531,
+    "unigram_w2": 20477
+  },
+  {
+    "w1": "1988",
+    "w2": "s",
+    "pmi": -1.0768628209089448,
+    "cooc_count": 8248,
+    "unigram_w1": 20531,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "goodnight",
+    "w2": "one",
+    "pmi": -2.2165572304952423,
+    "cooc_count": 71,
+    "unigram_w1": 1729,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "album",
+    "w2": "one",
+    "pmi": -1.0852510681253273,
+    "cooc_count": 13811,
+    "unigram_w1": 108503,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "one",
+    "w2": "year",
+    "pmi": -0.8444104153034704,
+    "cooc_count": 204130,
+    "unigram_w1": 2854131,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "brown",
+    "w2": "one",
+    "pmi": -1.4929012018029273,
+    "cooc_count": 14546,
+    "unigram_w1": 171791,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "one",
+    "w2": "what",
+    "pmi": -0.8719047536548963,
+    "cooc_count": 348218,
+    "unigram_w1": 2854131,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "kiss",
+    "w2": "one",
+    "pmi": -1.0864186785058454,
+    "cooc_count": 1702,
+    "unigram_w1": 13387,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "more",
+    "w2": "one",
+    "pmi": -0.7050104516752537,
+    "cooc_count": 563214,
+    "unigram_w1": 3025197,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "greg",
+    "w2": "one",
+    "pmi": -1.1978019360174863,
+    "cooc_count": 2329,
+    "unigram_w1": 20477,
+    "unigram_w2": 2854131
+  },
+  {
+    "w1": "one",
+    "w2": "s",
+    "pmi": -1.0517188315363317,
+    "cooc_count": 1175797,
+    "unigram_w1": 2854131,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "album",
+    "w2": "goodnight",
+    "pmi": 1.5000379688818508,
+    "cooc_count": 111,
+    "unigram_w1": 108503,
+    "unigram_w2": 1729
+  },
+  {
+    "w1": "goodnight",
+    "w2": "year",
+    "pmi": -1.5844058053926084,
+    "cooc_count": 59,
+    "unigram_w1": 1729,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "brown",
+    "w2": "goodnight",
+    "pmi": -0.03140687201825511,
+    "cooc_count": 38,
+    "unigram_w1": 171791,
+    "unigram_w2": 1729
+  },
+  {
+    "w1": "goodnight",
+    "w2": "what",
+    "pmi": -0.9302044375662356,
+    "cooc_count": 199,
+    "unigram_w1": 1729,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "goodnight",
+    "w2": "kiss",
+    "pmi": 4.946786711821216,
+    "cooc_count": 430,
+    "unigram_w1": 1729,
+    "unigram_w2": 13387
+  },
+  {
+    "w1": "goodnight",
+    "w2": "more",
+    "pmi": -1.4812000970257342,
+    "cooc_count": 157,
+    "unigram_w1": 1729,
+    "unigram_w2": 3025197
+  },
+  {
+    "w1": "goodnight",
+    "w2": "s",
+    "pmi": -0.7807196760274243,
+    "cooc_count": 934,
+    "unigram_w1": 1729,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "album",
+    "w2": "year",
+    "pmi": -0.9369964951995998,
+    "cooc_count": 7074,
+    "unigram_w1": 108503,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "album",
+    "w2": "brown",
+    "pmi": -1.9138248131464881,
+    "cooc_count": 363,
+    "unigram_w1": 108503,
+    "unigram_w2": 171791
+  },
+  {
+    "w1": "album",
+    "w2": "what",
+    "pmi": -1.2975448916509142,
+    "cooc_count": 8649,
+    "unigram_w1": 108503,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "album",
+    "w2": "kiss",
+    "pmi": 0.4867700752763918,
+    "cooc_count": 312,
+    "unigram_w1": 108503,
+    "unigram_w2": 13387
+  },
+  {
+    "w1": "album",
+    "w2": "more",
+    "pmi": -1.1676439523496764,
+    "cooc_count": 13481,
+    "unigram_w1": 108503,
+    "unigram_w2": 3025197
+  },
+  {
+    "w1": "album",
+    "w2": "greg",
+    "pmi": -0.11673092347305952,
+    "cooc_count": 261,
+    "unigram_w1": 108503,
+    "unigram_w2": 20477
+  },
+  {
+    "w1": "album",
+    "w2": "s",
+    "pmi": -1.1068174454176254,
+    "cooc_count": 42303,
+    "unigram_w1": 108503,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "brown",
+    "w2": "year",
+    "pmi": -1.4521600454963663,
+    "cooc_count": 6691,
+    "unigram_w1": 171791,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "what",
+    "w2": "year",
+    "pmi": -1.251072640123916,
+    "cooc_count": 105253,
+    "unigram_w1": 2210104,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "kiss",
+    "w2": "year",
+    "pmi": -1.9949513238915657,
+    "cooc_count": 303,
+    "unigram_w1": 13387,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "more",
+    "w2": "year",
+    "pmi": -0.9503375930215396,
+    "cooc_count": 194618,
+    "unigram_w1": 3025197,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "greg",
+    "w2": "year",
+    "pmi": -0.6426147541287214,
+    "cooc_count": 1792,
+    "unigram_w1": 20477,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "s",
+    "w2": "year",
+    "pmi": -1.0033168202189024,
+    "cooc_count": 545013,
+    "unigram_w1": 8932769,
+    "unigram_w2": 1260456
+  },
+  {
+    "w1": "brown",
+    "w2": "what",
+    "pmi": -1.662671422349054,
+    "cooc_count": 9505,
+    "unigram_w1": 171791,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "brown",
+    "w2": "kiss",
+    "pmi": -1.9780642935638795,
+    "cooc_count": 42,
+    "unigram_w1": 171791,
+    "unigram_w2": 13387
+  },
+  {
+    "w1": "brown",
+    "w2": "more",
+    "pmi": -1.2367017862163088,
+    "cooc_count": 19920,
+    "unigram_w1": 171791,
+    "unigram_w2": 3025197
+  },
+  {
+    "w1": "brown",
+    "w2": "greg",
+    "pmi": 0.026764360778430647,
+    "cooc_count": 477,
+    "unigram_w1": 171791,
+    "unigram_w2": 20477
+  },
+  {
+    "w1": "brown",
+    "w2": "s",
+    "pmi": -1.2711998805163784,
+    "cooc_count": 56825,
+    "unigram_w1": 171791,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "kiss",
+    "w2": "what",
+    "pmi": -1.003422794872744,
+    "cooc_count": 1432,
+    "unigram_w1": 13387,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "more",
+    "w2": "what",
+    "pmi": -0.8468952988456834,
+    "cooc_count": 378436,
+    "unigram_w1": 3025197,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "greg",
+    "w2": "what",
+    "pmi": -1.0716264141444258,
+    "cooc_count": 2046,
+    "unigram_w1": 20477,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": -0.969408749135383,
+    "cooc_count": 988594,
+    "unigram_w1": 8932769,
+    "unigram_w2": 2210104
+  },
+  {
+    "w1": "kiss",
+    "w2": "more",
+    "pmi": -1.0770457027490414,
+    "cooc_count": 1821,
+    "unigram_w1": 13387,
+    "unigram_w2": 3025197
+  },
+  {
+    "w1": "kiss",
+    "w2": "s",
+    "pmi": -1.1995644979265927,
+    "cooc_count": 4757,
+    "unigram_w1": 13387,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "greg",
+    "w2": "more",
+    "pmi": -1.0953182858832304,
+    "cooc_count": 2735,
+    "unigram_w1": 20477,
+    "unigram_w2": 3025197
+  },
+  {
+    "w1": "more",
+    "w2": "s",
+    "pmi": -1.155718797371252,
+    "cooc_count": 1123170,
+    "unigram_w1": 3025197,
+    "unigram_w2": 8932769
+  },
+  {
+    "w1": "greg",
+    "w2": "s",
+    "pmi": -0.8632838839606303,
+    "cooc_count": 10185,
+    "unigram_w1": 20477,
+    "unigram_w2": 8932769
+  }
+]
