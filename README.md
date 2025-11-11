@@ -93,23 +93,6 @@ This feature classifies English source questions into linguistic categories usin
 #### Classification Method
 - **Model**: [`facebook/bart-large-mnli`](https://huggingface.co/facebook/bart-large-mnli) (zero-shot classification)
 
-#### Categories
-
-| Type | Description | Example |
-|------|-------------|---------|
-| **wh** | Information/fact questions (What, When, Where, Which, Who, Whom, Whose, Why) | *What is the capital of France?*<br>*Can you tell me what the capital is?* |
-| **how** | Process/explanation questions | *How did this event happen?*<br>*In what way does this work?* |
-| **yes_no** | Confirmation questions requiring true/false answers | *Is Paris the capital of France?*<br>*Does France have a capital?* |
-| **imperative** | Commands/requests for enumeration or description | *Name two rivers in France.*<br>*List the major cities.* |
-| **other** | Questions that don't fit the above patterns | *France capital?* |
-
-#### Detailed Classification
-
-The `question_type_detail` feature provides granular categories:
-- **wh**: Split into specific wh-words (what, when, where, which, who, whom, whose, why)
-- **imperative**: Split into specific command verbs (name, list, describe, explain, give, provide, identify, state, mention, tell)
-- **how, yes_no, other**: Remain the same as general classification
-
 #### Usage
 
 ```bash
@@ -119,10 +102,37 @@ python src/add_question_type.py \
 ```
 
 **Output:**
-Adds two new columns to the dataset:
-- `question_type`: General category (wh, how, yes_no, imperative, other)
-- `question_type_detail`: Specific subcategory (21 possible values)
+Adds two new columns to the dataset: `question_type`
 - ⚠️ **English only**: Only supports `original_lang == 'en'` so far
+
+#### Categories
+
+The `question_type` feature provides 21 detailed categories:
+
+**Wh-questions** (8 types):
+- `what`, `when`, `where`, `which`, `who`, `whom`, `whose`, `why`
+
+**How questions** (1 type):
+- `how`
+
+**Yes/No questions** (1 type):
+- `yes_no` - Confirmation questions requiring true/false answers
+
+**Imperative commands** (10 types):
+- `name`, `list`, `describe`, `explain`, `give`, `provide`, `identify`, `state`, `mention`, `tell`
+
+**Other** (1 type):
+- `other` - Questions that don't fit the above patterns
+
+#### Examples
+
+| Question Type | Example |
+|---------------|---------|
+| **what** | *What is the capital of France?*<br>*Can you tell me what the capital is?* |
+| **how** | *How did this event happen?*<br>*In what way does this work?* |
+| **yes_no** | *Is Paris the capital of France?*<br>*Does France have a capital?* |
+| **list** | *List the major cities in France.*<br>*Can you enumerate the regions?* |
+| **describe** | *Describe the French Revolution.*<br>*Tell me about the characteristics.* |
 
 ### Bag-of-Words Features
 

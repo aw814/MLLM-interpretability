@@ -10,14 +10,9 @@ from transformers import pipeline
 #     --output data/processed/eclektic_long_subset_with_question_type.csv
 # ```
 # `classify_question_type`:
-# - Get feature `question_type` as 'wh', 'how', 'yes_no', 'imperative', or 'other' based on the `original_question` field.
-# - Uses BART-large-mnli for zero-shot classification
-
-# `classify_question_type_detail()`: 
-# - Get feature `question_type_detail`
-# - Splits wh into: what, when, where, which, who, whom, whose, why
-# - Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
-# - Keeps how, yes_no, and other the same
+# - Get feature `question_type` with detailed categories based on the `original_question` field
+# - Categories: what, when, where, which, who, whom, whose, why, how, yes_no,
+#   name, list, describe, explain, give, provide, identify, state, mention, tell, other
 # - Uses BART-large-mnli for zero-shot classification
 
 # Note: So far only supports English source questions (`original_lang` == 'en')
@@ -29,45 +24,6 @@ print("Model loaded successfully!")
 
 
 def classify_question_type(question: str) -> str:
-    """
-    Classify English question into types using BART zero-shot classification.
-    
-    Args:
-        question: English question text
-
-    Returns:
-        Question type: 'wh', 'how', 'yes_no', 'imperative', or 'other'
-    """
-    if not isinstance(question, str) or not question.strip():
-        return 'other'
-    
-    question = question.strip()
-    
-    # Define candidate labels for general classification
-    candidate_labels = [
-        'wh-question asking what, when, where, which, who, whom, whose, or why',
-        'how question',
-        'yes-no question requiring true or false answer',
-        'imperative command requesting to name, list, describe, explain, give, provide, identify, state, mention, or tell',
-        'other type of question or statement'
-    ]
-    
-    result = classifier(question, candidate_labels)
-    
-    # Map labels back to simple types
-    label_map = {
-        'wh-question asking what, when, where, which, who, whom, whose, or why': 'wh',
-        'how question': 'how',
-        'yes-no question requiring true or false answer': 'yes_no',
-        'imperative command requesting to name, list, describe, explain, give, provide, identify, state, mention, or tell': 'imperative',
-        'other type of question or statement': 'other'
-    }
-    
-    top_label = result['labels'][0]
-    return label_map[top_label]
-
-
-def classify_question_type_detail(question: str) -> str:
     """
     Classify English question into detailed types using BART zero-shot classification.
     
@@ -85,55 +41,60 @@ def classify_question_type_detail(question: str) -> str:
     question = question.strip()
     
     # Define all detailed candidate labels
+    # Wh-questions: asking about specific information
+    # How: asking about process or method
+    # Yes/No: questions requiring binary answer
+    # Imperatives: commands requesting specific actions
+    # Other: statements or non-standard questions
     candidate_labels = [
-        'what question',
-        'when question',
-        'where question',
-        'which question',
-        'who question',
-        'whom question',
-        'whose question',
-        'why question',
-        'how question',
-        'yes-no question',
-        'command to name something',
-        'command to list items',
-        'command to describe something',
-        'command to explain something',
-        'command to give information',
-        'command to provide information',
-        'command to identify something',
-        'command to state information',
-        'command to mention something',
-        'command to tell something',
-        'other type of question or statement'
+        'what',      # asking about things, definitions, or identity
+        'when',      # asking about time
+        'where',     # asking about location or place
+        'which',     # asking for selection or choice
+        'who',       # asking about people or agents
+        'whom',      # asking about people as objects
+        'whose',     # asking about possession or ownership
+        'why',       # asking about reasons or causes
+        'how',       # asking about manner, method, or process
+        'yes or no', # requiring true/false or binary answer
+        'name',      # command to identify or specify
+        'list',      # command to enumerate items
+        'describe',  # command to characterize or depict
+        'explain',   # command to clarify or elucidate
+        'give',      # command to provide something
+        'provide',   # command to supply information
+        'identify',  # command to recognize or determine
+        'state',     # command to declare or assert
+        'mention',   # command to refer to or cite
+        'tell',      # command to inform or relate
+        'other'      # non-standard or unclear question type
     ]
     
     result = classifier(question, candidate_labels)
     
     # Map labels back to simple types
     label_map = {
-        'what question': 'what',
-        'when question': 'when',
-        'where question': 'where',
-        'which question': 'which',
-        'who question': 'who',
-        'whom question': 'whom',
-        'whose question': 'whose',
-        'why question': 'why',
-        'how question': 'how',
-        'yes-no question': 'yes_no',
-        'command to name something': 'name',
-        'command to list items': 'list',
-        'command to describe something': 'describe',
-        'command to explain something': 'explain',
-        'command to give information': 'give',
-        'command to provide information': 'provide',
-        'command to identify something': 'identify',
-        'command to state information': 'state',
-        'command to mention something': 'mention',
-        'command to tell something': 'tell',
-        'other type of question or statement': 'other'
+        'what': 'what',
+        'when': 'when',
+        'where': 'where',
+        'which': 'which',
+        'who': 'who',
+        'whom': 'whom',
+        'whose': 'whose',
+        'why': 'why',
+        'how': 'how',
+        'yes or no': 'yes_no',
+        'name': 'name',
+        'list': 'list',
+        'describe': 'describe',
+        'explain': 'explain',
+        'give': 'give',
+        'provide': 'provide',
+        'identify': 'identify',
+        'state': 'state',
+        'mention': 'mention',
+        'tell': 'tell',
+        'other': 'other'
     }
     
     top_label = result['labels'][0]
@@ -142,7 +103,7 @@ def classify_question_type_detail(question: str) -> str:
 
 def add_question_type_column(input_path: str, output_path: str):
     """
-    Read CSV, add question_type and question_type_detail columns based on original_question, and save.
+    Read CSV, add question_type column based on original_question, and save.
     
     Args:
         input_path: Path to input CSV
@@ -173,29 +134,18 @@ def add_question_type_column(input_path: str, output_path: str):
     print(f"Classifying questions using BART-large-mnli...")
     print(f"Total questions to classify: {len(df)}")
     
-    # Classify each question (both general and detailed)
+    # Classify each question with detailed categories
     # Note: This may take some time for large datasets
-    print("\nClassifying general question types...")
+    print("\nClassifying question types...")
     df['question_type'] = df['original_question'].apply(classify_question_type)
     
-    print("Classifying detailed question types...")
-    df['question_type_detail'] = df['original_question'].apply(classify_question_type_detail)
-    
-    # Print distribution for general type
+    # Print distribution
     print("\n" + "="*60)
-    print("Question Type Distribution (General):")
+    print("Question Type Distribution:")
     print("="*60)
     print(df['question_type'].value_counts())
     print(f"\nPercentages:")
     print(df['question_type'].value_counts(normalize=True) * 100)
-    
-    # Print distribution for detailed type
-    print("\n" + "="*60)
-    print("Question Type Distribution (Detailed):")
-    print("="*60)
-    print(df['question_type_detail'].value_counts())
-    print(f"\nPercentages:")
-    print(df['question_type_detail'].value_counts(normalize=True) * 100)
     
     # Save to output
     print(f"\nSaving results to: {output_path}")
