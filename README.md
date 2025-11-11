@@ -1,3 +1,4 @@
+# MLLM-interpretability
 
 ## 1. Project Overview
 
@@ -85,6 +86,38 @@ python src/qa_topic_extraction.py --output data/processed/eclektic_long_topics.c
 ```
 The script reads `data/processed/eclektic_long_subset.csv` and writes a compact CSV with the topic features.
 
+### Question Type Feature
+
+This feature classifies English source questions into linguistic categories based on their structure.
+
+#### Categories
+
+| Type | Description | Example |
+|------|-------------|---------|
+| **wh** | Information/fact questions starting with What, When, Where, Which, Who, Whom, Whose, Why | *What is the capital of France?* |
+| **how** | Process/explanation questions | *How did this event happen?* |
+| **yes_no** | Confirmation questions starting with auxiliary verbs (Is, Are, Do, Can, etc.) | *Is Paris the capital of France?* |
+| **imperative** | Commands/requests for enumeration or description (Name, List, Describe, etc.) | *Name two rivers in France.* |
+| **other** | Questions that don't fit the above patterns | *France capital?* |
+
+#### Usage
+```bash
+
+python src/add_question_type.py \
+    --input data/processed/eclektic_long_subset.csv \
+    --output data/processed/eclektic_long_subset_with_question_type.csv
+```
+`classify_question_type`:
+
+- Get feature `question_type` as 'wh', 'how', 'yes_no', 'imperative', or 'other' based on the `original_question` field.
+
+`classify_question_type_detail()`: 
+
+- Get feature `question_type_detail`
+- Splits wh into: what, when, where, which, who, whom, whose, why
+- Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
+- Keeps how, yes_no, and other the same
+
 ### Bag-of-Words Features
 
 Branch: `feat/bagofwords`
@@ -151,3 +184,55 @@ q_id,original_lang,language,title,url,word1,word2,word3,...
 33,en,fr,AFN Bremerhaven,https://en.wikipedia.org/wiki/AFN_Bremerhaven,0.031,0.028,0.019,...
 33,en,he,AFN Bremerhaven,https://en.wikipedia.org/wiki/AFN_Bremerhaven,0.041,0.033,0.007,...
 ```
+
+---
+# 🧩 Feature Engineering — Syntactic Complexity
+
+This module extracts **syntactic complexity features** from the ECLeKTic multilingual QA dataset.  
+It provides implementations based on **Stanza** — to compute comparable structural indicators across languages.
+
+
+## 📘 Overview
+
+We quantify a question’s **syntactic complexity** (as a proxy for reasoning difficulty and cross-lingual transfer robustness) with three dependency-based features:
+
+| Feature | Description |
+|----------|--------------|
+| **`avg_dep_depth`** | Average dependency path length from each token to the sentence root (overall structural depth). |
+| **`max_tree_depth`** | Maximum dependency tree depth (deepest syntactic nesting). |
+| **`num_clauses`** | Count of subordinate / relative clauses (labels: `ccomp`, `advcl`, `relcl`, `acl`). |
+
+The output CSV can be merged with other features (topic, frequency, BoW, question type) for downstream modeling.
+
+---
+
+## ⚙️ Implementation A — spaCy (`syntactic_features_spacy.py`)
+
+**Pros:** Fast, lightweight; good for English-only baselines.  
+**Cons:** Not multilingual by default.
+### Language Filtering & Data Cleaning
+
+- Script Location: /src/data_processing.py
+
+- Load the full ECLeKTic dataset (.jsonl format).
+
+- Filter to a predefined subset of languages (default: English, French, Hebrew, Chinese).
+
+- Reshape the data from wide multilingual format to a long format suitable for modeling.
+
+- Export a clean, reproducible subset in .csv under /data/processed/.
+
+### Output Data Structure (long format)
+
+
+## ⚙️ Implementation B — Stanza (syntactic_features_stanza.py)
+
+**Pros:** Fully multilingual — supports 60+ languages via Universal Dependencies.
+
+**Cons:** Cross-lingual structural comparability ensured by UD framework. Slower; requires downloading per-language models.
+
+## References
+
+Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton, and Christopher D. Manning.
+“Stanza: A Python Natural Language Processing Toolkit for Many Human Languages.” ACL 2020.
+
