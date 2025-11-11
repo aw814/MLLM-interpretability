@@ -88,35 +88,53 @@ The script reads `data/processed/eclektic_long_subset.csv` and writes a compact 
 
 ### Question Type Feature
 
-This feature classifies English source questions into linguistic categories based on their structure.
+This feature classifies English source questions into linguistic categories using **BART-large-mnli** zero-shot classification for semantic understanding.
 
-#### Categories
-
-| Type | Description | Example |
-|------|-------------|---------|
-| **wh** | Information/fact questions starting with What, When, Where, Which, Who, Whom, Whose, Why | *What is the capital of France?* |
-| **how** | Process/explanation questions | *How did this event happen?* |
-| **yes_no** | Confirmation questions starting with auxiliary verbs (Is, Are, Do, Can, etc.) | *Is Paris the capital of France?* |
-| **imperative** | Commands/requests for enumeration or description (Name, List, Describe, etc.) | *Name two rivers in France.* |
-| **other** | Questions that don't fit the above patterns | *France capital?* |
+#### Classification Method
+- **Model**: [`facebook/bart-large-mnli`](https://huggingface.co/facebook/bart-large-mnli) (zero-shot classification)
 
 #### Usage
-```bash
 
+```bash
 python src/add_question_type.py \
     --input data/processed/eclektic_long_subset.csv \
     --output data/processed/eclektic_long_subset_with_question_type.csv
 ```
-`classify_question_type`:
 
-- Get feature `question_type` as 'wh', 'how', 'yes_no', 'imperative', or 'other' based on the `original_question` field.
+**Output:**
+Adds two new columns to the dataset: `question_type`
+- ⚠️ **English only**: Only supports `original_lang == 'en'` so far
 
-`classify_question_type_detail()`: 
+#### Categories
 
-- Get feature `question_type_detail`
-- Splits wh into: what, when, where, which, who, whom, whose, why
-- Splits imperative into: name, list, describe, explain, give, provide, identify, state, mention, tell
-- Keeps how, yes_no, and other the same
+The `question_type` feature provides 11 detailed categories:
+
+**Wh-questions** (8 types):
+- `what` - asking about things, definitions, or identity
+- `when` - asking about time
+- `where` - asking about location or place
+- `which` - asking for selection or choice
+- `who` - asking about people or agents
+- `whom` - asking about people as objects
+- `whose` - asking about possession or ownership
+- `why` - asking about reasons or causes
+
+**How questions** (1 type):
+- `how` - asking about manner, method, or process
+
+**Yes/No questions** (1 type):
+- `yes_no` - requiring true/false or binary answer
+
+**Other** (1 type):
+- `other` - non-standard or unclear question type
+
+#### Examples
+
+| Question Type | Example |
+|---------------|---------|
+| **what** | *What is the capital of France?*<br>*Can you tell me what the capital is?* |
+| **how** | *How did this event happen?*<br>*In what way does this work?* |
+| **yes_no** | *Is Paris the capital of France?*<br>*Does France have a capital?* |
 
 ### Bag-of-Words Features
 
