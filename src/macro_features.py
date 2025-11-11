@@ -1,7 +1,9 @@
 """
 macro_features_reorg.py
 -----------------------
-Clean module exposing exactly five functions:
+Clean module exposing language macro-feature helpers:
+  - get_language_family(language: str) -> str | None
+  - get_language_genus(language: str) -> str | None
   - check_languages_family(language1, language2) -> bool
   - check_languages_genus(language1, language2) -> bool
   - get_script(language: str) -> str | None
@@ -192,17 +194,29 @@ _SYLLABLES = {
 #  Public API (5 functions)
 # =========================
 
+def get_language_family(language: str) -> Optional[str]:
+    """Return the language family (e.g., 'Indo-European') or None if unknown."""
+    info = _LANG2FAMILY.get(language.lower())
+    return info[0] if info else None
+
+
+def get_language_genus(language: str) -> Optional[str]:
+    """Return the language genus/sub-branch (e.g., 'Germanic') or None if unknown."""
+    info = _LANG2FAMILY.get(language.lower())
+    return info[1] if info else None
+
+
 def check_languages_family(language1: str, language2: str) -> bool:
     """Return True if two languages share the same family (case-insensitive)."""
-    fam1 = _LANG2FAMILY.get(language1.lower(), ("Unknown", "Unknown"))[0]
-    fam2 = _LANG2FAMILY.get(language2.lower(), ("Unknown", "Unknown"))[0]
-    return fam1 != "Unknown" and fam1 == fam2
+    fam1 = get_language_family(language1)
+    fam2 = get_language_family(language2)
+    return fam1 is not None and fam1 == fam2
 
 def check_languages_genus(language1: str, language2: str) -> bool:
     """Return True if two languages share the same genus/sub-branch (case-insensitive)."""
-    gen1 = _LANG2FAMILY.get(language1.lower(), ("Unknown", "Unknown"))[1]
-    gen2 = _LANG2FAMILY.get(language2.lower(), ("Unknown", "Unknown"))[1]
-    return gen1 != "Unknown" and gen1 == gen2
+    gen1 = get_language_genus(language1)
+    gen2 = get_language_genus(language2)
+    return gen1 is not None and gen1 == gen2
 
 def get_script(language: str) -> Optional[str]:
     """Return a human-friendly script label for a language using Unicode heuristic on sample text."""
@@ -224,3 +238,77 @@ def get_wiki_size(language: str):
     if live is not None:
         return live
     return _WIKI_COUNTS_CACHE.get(lang)
+
+
+if __name__ == "__main__":
+    import sys
+    try:
+        import pandas as pd
+    except ImportError:
+        print("pandas is required to run macro_features.py as a script.")
+        sys.exit(1)
+
+    if len(sys.argv) != 3:
+        print("Usage: python macro_features.py INPUT.csv OUTPUT.csv")
+        sys.exit(1)
+
+    input_csv, output_csv = sys.argv[1], sys.argv[2]
+    df = pd.read_csv(input_csv)
+    print(f"Loaded {len(df)} rows from {input_csv}")
+
+    # Expect language-pair columns in the dataset
+    required_cols = {"source_lang", "target_lang"}
+    if not required_cols.issubset(df.columns):
+        raise SystemExit(
+            "Expected columns 'source_lang' and 'target_lang' in the input CSV."
+        )
+
+    # Map ISO 639-1 codes to language names used in this module
+    CODE_TO_LANG_NAME = {
+        "en": "english",
+        "fr": "french",
+        "de": "german",
+        "es": "spanish",
+        "pt": "portuguese",
+        "it": "italian",
+        "zh": "chinese",
+        "ja": "japanese",
+        "ko": "korean",
+        "he": "hebrew",
+        "hi": "hindi",
+        "id": "indonesian",
+        "ru": "russian",
+        "tr": "turkish",
+    }
+
+    def to_lang_name(lang_val: str) -> str:
+        if not isinstance(lang_val, str):
+            return ""
+        lang_val = lang_val.strip().lower()
+        return CODE_TO_LANG_NAME.get(lang_val, lang_val)
+
+    # Normalized language-name columns
+    df["source_lang_name"] = df["source_lang"].apply(to_lang_name)
+    df["target_lang_name"] = df["target_lang"].apply(to_lang_name)
+
+    # Family / genus per language
+    df["source_family"] = df["source_lang_name"].apply(get_language_family)
+    df["source_genus"] = df["source_lang_name"].apply(get_language_genus)
+    df["target_family"] = df["target_lang_name"].apply(get_language_family)
+    df["target_genus"] = df["target_lang_name"].apply(get_language_genus)
+
+    # Script / syllable counts / wiki size per language
+    # NOTE: For CLI usage we **do not** use live Wikipedia API calls to avoid hanging;
+    # we rely only on the cached `_WIKI_COUNTS_CACHE`.
+    for side in ["source", "target"]:
+        name_col = f"{side}_lang_name"
+        print(f"Computing script / syllables / wiki_size for {side} language...")
+        df[f"{side}_script"] = df[name_col].map(get_script)
+        df[f"{side}_syllables"] = df[name_col].map(get_syllable_count)
+        df[f"{side}_wiki_size"] = df[name_col].map(
+            lambda lang: _WIKI_COUNTS_CACHE.get(str(lang).lower())
+        )
+
+    print(f"Saving to {output_csv} ...")
+    df.to_csv(output_csv, index=False)
+    print(f"Wrote macro features to {output_csv}")
