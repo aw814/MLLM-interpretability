@@ -273,3 +273,13 @@ python src/cooc_features.py --start_idx 200
 On the first run with `--start_idx 0`, any existing `data/processed/eclektic_long_with_cooc_features.csv` is removed and recreated. Subsequent runs with `--start_idx > 0` append new rows to the same CSV.
 
 Output columns include: `question`, `answer`, `language`, `q_id`, `cooc_num_pairs`, `cooc_total_pairs`, `cooc_unseen_keywords_count`, `cooc_unseen_keywords_ratio`, and aggregated PMI metrics (`cooc_avg_pmi`, `cooc_max_pmi`, `cooc_min_pmi`, `cooc_std_pmi`).
+
+
+## Training Simple Classifiers
+
+This module trains a set of baseline classifiers to predict `correct_target` from different feature groups. It loads `data/processed/training_data.csv`, automatically detects numeric vs. categorical columns, and applies a scikit-learn preprocessing pipeline (median imputation + scaling for numeric features, most-frequent imputation + one-hot encoding for categorical features). For each predefined feature set (`qa_topic`, `language_version_count`, `question_type`, `cooc`, `syntactic`, `linguistic`, `wiki_size`, and `all`), it evaluates multiple models (Logistic Regression, Random Forest, SVM, LDA, KNN) using 5×2 repeated stratified cross-validation with accuracy, balanced accuracy, macro-F1, and ROC-AUC (OVR) as metrics. Aggregated results are saved as `model_feature_results.csv` in the script directory and printed as a formatted table.
+
+**Usage:**
+```bash
+python src/train_simple_classifiers.py
+```
