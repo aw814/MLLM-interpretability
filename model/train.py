@@ -15,10 +15,6 @@ from sklearn.svm import SVC
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.neighbors import KNeighborsClassifier
 
-# Silence some benign warnings
-warnings.filterwarnings("ignore", category=UserWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
-
 
 DATA_PATH = "/home/ubuntu/MLLM-interpretability/data/processed/training_data.csv"
 TARGET_COLUMN = "correct_target"
