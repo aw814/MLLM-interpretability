@@ -277,9 +277,9 @@ Output columns include: `question`, `answer`, `language`, `q_id`, `cooc_num_pair
 
 ## Training Simple Classifiers
 
-This module trains a set of baseline classifiers to predict `correct_target` from different feature groups. It loads `data/processed/training_data.csv`, automatically detects numeric vs. categorical columns, and applies a scikit-learn preprocessing pipeline (median imputation + scaling for numeric features, most-frequent imputation + one-hot encoding for categorical features). For each predefined feature set (`qa_topic`, `language_version_count`, `question_type`, `cooc`, `syntactic`, `linguistic`, `wiki_size`, and `all`), it evaluates multiple models (Logistic Regression, Random Forest, SVM, LDA, KNN) using 5×2 repeated stratified cross-validation with accuracy, balanced accuracy, macro-F1, and ROC-AUC (OVR) as metrics. Aggregated results are saved as `model_feature_results.csv` in the script directory and printed as a formatted table.
+The module is under model directory, it trains a set of baseline classifiers to predict `correct_target` from different feature groups. It loads `data/processed/training_data.csv`, automatically detects numeric vs. categorical columns, and applies a scikit-learn preprocessing pipeline (median imputation + scaling for numeric features, most-frequent imputation + one-hot encoding for categorical features). For each predefined feature set (`qa_topic`, `language_version_count`, `question_type`, `cooc`, `syntactic`, `linguistic`, `wiki_size`, and `all`), it evaluates multiple models (Logistic Regression, Random Forest, SVM, LDA, KNN) using 5×2 repeated stratified cross-validation with accuracy, balanced accuracy, macro-F1, and ROC-AUC (OVR) as metrics. Aggregated results are saved as `model_feature_results.csv` in the script directory and printed as a formatted table.
 
 **Usage:**
 ```bash
-python src/train_simple_classifiers.py
+python src/train.py
 ```

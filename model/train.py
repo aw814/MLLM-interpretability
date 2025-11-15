@@ -16,7 +16,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.neighbors import KNeighborsClassifier
 
 
-DATA_PATH = "/home/ubuntu/MLLM-interpretability/data/processed/training_data.csv"
+DATA_PATH = "../data/processed/training_data.csv"
 TARGET_COLUMN = "correct_target"
 ID_COLUMNS = []
 
