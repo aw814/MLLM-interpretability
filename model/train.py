@@ -2,7 +2,9 @@ import os
 import warnings
 import numpy as np
 import pandas as pd
+import shap
 
+from sklearn.base import clone
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -22,6 +24,101 @@ ID_COLUMNS = []
 
 def filter_rows(df):
     return df
+
+def compute_shap_importances(
+    X: pd.DataFrame,
+    y: pd.Series,
+    features: list[str],
+    feature_set_name: str,
+    max_background: int = 200,
+    max_eval_samples: int = 1000,
+) -> list[dict]:
+    """
+    For a given feature set, fit each model on the *preprocessed numeric* data
+    and compute global SHAP importances (mean |SHAP| per transformed feature).
+
+    Returns a list of rows (dicts) that can be turned into a DataFrame.
+    """
+    # Keep only available columns
+    present = [c for c in features if c in X.columns]
+    if not present:
+        print(f"[WARN] SHAP: Feature set '{feature_set_name}' has no columns present. Skipping.")
+        return []
+    missing = sorted(set(features) - set(present))
+    if missing:
+        print(f"[INFO] SHAP: Feature set '{feature_set_name}': missing columns ignored -> {missing}")
+
+    # Build and fit preprocessor on the full data for this feature set
+    numeric_cols, cat_cols = detect_feature_types(X, present)
+    pre = build_preprocessor(numeric_cols, cat_cols)
+
+    # Fit on the whole dataset and transform to a numeric matrix
+    Z = pre.fit_transform(X[present])  # shape: (n_samples, n_transformed_features)
+    n_samples, n_features_trans = Z.shape
+
+    # Try to get transformed feature names (includes one-hot columns)
+    if hasattr(pre, "get_feature_names_out"):
+        feature_names = pre.get_feature_names_out(present)
+    else:
+        feature_names = np.array([f"feat_{i}" for i in range(n_features_trans)])
+
+    # Subsample indices for background and evaluation (for speed)
+    rng = np.random.RandomState(42)
+
+    if n_samples <= max_background:
+        bg_idx = np.arange(n_samples)
+    else:
+        bg_idx = rng.choice(n_samples, size=max_background, replace=False)
+
+    if n_samples <= max_eval_samples:
+        eval_idx = np.arange(n_samples)
+    else:
+        eval_idx = rng.choice(n_samples, size=max_eval_samples, replace=False)
+
+    background = Z[bg_idx]
+    X_eval_trans = Z[eval_idx]
+
+    models = get_models()
+    shap_rows = []
+
+    for model_name, base_model in models.items():
+        print(f"[SHAP] Computing SHAP values for feature_set='{feature_set_name}', model='{model_name}'")
+
+        # Clone the model so we don't mutate the original
+        model = clone(base_model)
+        model.fit(Z, y)
+
+        # Use predict_proba if available, otherwise predict
+        if hasattr(model, "predict_proba"):
+            f = model.predict_proba
+        else:
+            f = model.predict
+
+        # IMPORTANT: we feed SHAP *numeric* transformed data, not the raw DataFrame
+        explainer = shap.Explainer(f, background)
+        shap_values = explainer(X_eval_trans)
+
+        # shap_values.values shape:
+        #  - (n_samples, n_features, n_outputs) for multiclass
+        #  - (n_samples, n_features) for binary/single-output
+        vals = shap_values.values
+        if vals.ndim == 3:
+            # Average over classes/outputs first, then over samples
+            vals = np.mean(np.abs(vals), axis=2)  # (n_samples, n_features)
+        else:
+            vals = np.abs(vals)
+
+        mean_abs_shap = vals.mean(axis=0)  # per transformed feature
+
+        for feat_name, importance in zip(feature_names, mean_abs_shap):
+            shap_rows.append({
+                "feature_set": feature_set_name,
+                "model": model_name,
+                "feature": str(feat_name),
+                "mean_abs_shap": float(importance),
+            })
+
+    return shap_rows
 
 
 qa_topic_feat = "qa_topic"
@@ -193,7 +290,7 @@ def main():
     y = df[TARGET_COLUMN]
     X = df.drop(columns=[TARGET_COLUMN])
 
-    # Evaluate each feature set
+    # === 1) Cross-validated performance, unchanged ===
     all_rows = []
     for name, cols in FEATURE_SETS.items():
         rows = evaluate_models(X, y, cols, name)
@@ -209,16 +306,44 @@ def main():
                  "balanced_acc_mean", "balanced_acc_std",
                  "f1_macro_mean", "f1_macro_std",
                  "roc_auc_ovr_mean", "roc_auc_ovr_std"]
-    results = results[col_order].sort_values(["feature_set", "f1_macro_mean", "accuracy_mean"], ascending=[True, False, False])
+    results = results[col_order].sort_values(
+        ["feature_set", "f1_macro_mean", "accuracy_mean"],
+        ascending=[True, False, False]
+    )
 
-    out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "model_feature_results.csv")
-    results.to_csv(out_path, index=False)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    out_path_perf = os.path.join(script_dir, "model_feature_results.csv")
+    results.to_csv(out_path_perf, index=False)
 
     # Pretty print top-lines
     with pd.option_context("display.max_rows", None, "display.max_columns", None, "display.width", 120):
         print("\n=== Model Performance by Feature Set ===")
         print(results.to_string(index=False))
-        print(f"\nSaved detailed results to: {out_path}")
+        print(f"\nSaved detailed performance results to: {out_path_perf}")
+
+    # === 2) SHAP analysis for each model × feature set ===
+    shap_all_rows = []
+    for name, cols in FEATURE_SETS.items():
+        shap_rows = compute_shap_importances(X, y, cols, name)
+        shap_all_rows.extend(shap_rows)
+
+    if not shap_all_rows:
+        raise RuntimeError("No SHAP results produced. Check feature columns and SHAP configuration.")
+
+    shap_df = pd.DataFrame(shap_all_rows)
+    shap_df = shap_df.sort_values(["feature_set", "model", "mean_abs_shap"], ascending=[True, True, False])
+
+    out_path_shap = os.path.join(script_dir, "model_feature_shap_importances.csv")
+    shap_df.to_csv(out_path_shap, index=False)
+
+    # Optionally print a small summary
+    print("\n=== Top 10 Features by SHAP Importance (per model & feature set) ===")
+    for (fs, model), grp in shap_df.groupby(["feature_set", "model"]):
+        top = grp.head(10)
+        print(f"\n[Feature set: {fs} | Model: {model}]")
+        print(top[["feature", "mean_abs_shap"]].to_string(index=False))
+    print(f"\nSaved SHAP feature importances to: {out_path_shap}")
+
 
 if __name__ == "__main__":
     main()
