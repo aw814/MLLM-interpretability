@@ -23,7 +23,7 @@ class Config:
     csv_path: str
     max_examples: int | None
     source_lang: str
-    target_lang: str
+    target_lang: str | list[str]
     tested_model: str
     judge_model: str
     temperature: float
@@ -38,9 +38,16 @@ def load_config(path: str) -> Config:
     eval_ = cfg.get("eval", {})
     models = cfg.get("models", {})
     decode = cfg.get("decode", {})
-    outdir = cfg.get("artifacts_dir", "./artifacts")
+    outdir = os.path.abspath(cfg.get("artifacts_dir", "./artifacts"))
 
-    os.makedirs(outdir, exist_ok=True)
+    try:
+        os.makedirs(outdir, exist_ok=True)
+    except PermissionError:
+        # Fallback to a writable directory under the user's home.
+        home_fallback = os.path.join(os.path.expanduser("~"), "MLLM-interpretability_artifacts")
+        print(f"[warn] Cannot write to artifacts_dir={outdir}, falling back to {home_fallback}")
+        outdir = home_fallback
+        os.makedirs(outdir, exist_ok=True)
 
     resolved = {
         "csv_path": data.get("csv_path"),
@@ -55,8 +62,18 @@ def load_config(path: str) -> Config:
     }
 
     # persist resolved config for provenance
-    with open(os.path.join(outdir, "run_config.resolved.yaml"), "w", encoding="utf-8") as f:
-        yaml.safe_dump(resolved, f, sort_keys=False)
+    resolved_path = os.path.join(outdir, "run_config.resolved.yaml")
+    try:
+        with open(resolved_path, "w", encoding="utf-8") as f:
+            yaml.safe_dump(resolved, f, sort_keys=False)
+    except PermissionError:
+        # Try home fallback if initial write fails
+        outdir = os.path.join(os.path.expanduser("~"), "MLLM-interpretability_artifacts")
+        os.makedirs(outdir, exist_ok=True)
+        resolved_path = os.path.join(outdir, "run_config.resolved.yaml")
+        with open(resolved_path, "w", encoding="utf-8") as f:
+            yaml.safe_dump(resolved, f, sort_keys=False)
+        resolved["artifacts_dir"] = outdir
 
     return Config(**resolved)  # type: ignore
 

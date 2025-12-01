@@ -1,19 +1,9 @@
 csv_path: ../data/processed/eclektic_long_subset.csv
 max_examples: 50
 source_lang: en
-target_lang:
-- he
-- zh
-- de
-- es
-- hi
-- id
-- it
-- ja
-- ko
-- pt
-tested_model: gpt-4o
-judge_model: gpt-5
+target_lang: he
+tested_model: gemini-2.0-flash
+judge_model: gemini-2.5-flash
 temperature: 1.0
 max_tokens: 128
-artifacts_dir: ./artifacts
+artifacts_dir: /project/6101776/xzhan576/MLLM-interpretability/eval/artifacts

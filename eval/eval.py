@@ -1,26 +1,56 @@
 from __future__ import annotations
 import os
 import pandas as pd
-from openrouter_client import OpenRouterClient, OpenAIClient
-from prompts import qa_user_message, judge_user_message, judge_system_message, JudgeFields
+from google import genai 
+from google.genai.errors import APIError 
+
+from prompts import qa_user_message, judge_user_message, judge_system_message, JudgeFields 
 from pathlib import Path
 from typing import Dict, Tuple
 import time
 import csv
 
-def answer_question(client: OpenRouterClient, model: str, question: str, temperature: float, max_tokens: int) -> str:
-    messages = [qa_user_message(question)]
-    return client.chat(model=model, messages=messages, temperature=temperature, max_tokens=max_tokens)
+
+def answer_question(client: genai.Client, model: str, question: str, temperature: float, max_tokens: int) -> str:
+
+    contents = question 
+
+    response = client.models.generate_content(
+        model=model,
+        contents=contents, 
+        config=genai.types.GenerateContentConfig(
+            temperature=temperature,
+            max_output_tokens=max_tokens,
+        )
+    )
+    return response.text.strip()
+
 
 def judge_correct(
-    client: OpenRouterClient|OpenAIClient,
+    client: genai.Client,
     judge_model: str,
     context: str,
     question: str,
     answer: str,
 ) -> bool:
-    messages = [judge_system_message(), judge_user_message(JudgeFields(context=context, question=question, answer=answer))]
-    out = client.chat(model=judge_model, messages=messages, temperature=0.0, max_tokens=4)
+
+    system_message = judge_system_message()
+    user_message = judge_user_message(JudgeFields(context=context, question=question, answer=answer))
+    
+    contents = [
+        genai.types.Content(role="system", parts=[genai.types.Part.from_text(system_message)]),
+        genai.types.Content(role="user", parts=[genai.types.Part.from_text(user_message)])
+    ]
+
+    response = client.models.generate_content(
+        model=judge_model,
+        contents=contents,
+        config=genai.types.GenerateContentConfig(
+            temperature=0.0,
+            max_output_tokens=4,
+        )
+    )
+    out = response.text
     return out.strip().upper().startswith("Y")  # YES → True, else False
 
 # ---- Helpers for retries and atomic/resumable I/O --------------------------
@@ -33,13 +63,17 @@ def _call_with_retry(fn, *args, retries: int = 3, backoff: float = 1.5, **kwargs
     for attempt in range(retries):
         try:
             return fn(*args, **kwargs)
-        except Exception as e:
+
+        except (APIError, Exception) as e:
             last = e
             if attempt < retries - 1:
+                print(f"Attempt {attempt + 1} failed with error: {e}. Retrying in {backoff ** attempt}s...")
                 time.sleep(backoff ** attempt)
             else:
                 raise
     raise last
+
+
 
 def _load_source_cache(path: Path) -> pd.DataFrame:
     if not path.exists():
@@ -95,8 +129,8 @@ def run_pairwise_eval(
     out_dir = Path(outdir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # client = OpenRouterClient()
-    client = OpenAIClient()
+    # 替换 OpenRouterClient/OpenAIClient 为 genai.Client
+    client = genai.Client()
 
     # Normalize identifiers early
     df = df.copy()
@@ -156,6 +190,7 @@ def run_pairwise_eval(
             a_src = _call_with_retry(
                 answer_question, client, tested_model, row["q_src"], temperature, max_tokens
             )
+
             correct_s = _call_with_retry(
                 judge_correct,
                 client,
@@ -181,10 +216,11 @@ def run_pairwise_eval(
             a_tgt = a_src
             correct_t = correct_s
         else:
+
             a_tgt = _call_with_retry(
                 answer_question, client, tested_model, row["q_tgt"], temperature, max_tokens
             )
-            # 3) Judge target (do NOT re-judge source)
+
             correct_t = _call_with_retry(
                 judge_correct,
                 client,
