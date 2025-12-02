@@ -1,34 +1,26 @@
 [
   {
+    "w1": "berlokasi",
+    "w2": "jerman",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 5349,
+    "unigram_w2": 73645
+  },
+  {
     "w1": "jerman",
     "w2": "negara",
-    "pmi": -2.495917971953609,
-    "cooc_count": 13382,
-    "unigram_w1": 73793,
-    "unigram_w2": 628438
+    "pmi": 0.0,
+    "cooc_count": 14135,
+    "unigram_w1": 73645,
+    "unigram_w2": 653118
   },
   {
     "w1": "berlokasi",
     "w2": "negara",
-    "pmi": -2.0278210559101533,
-    "cooc_count": 1757,
-    "unigram_w1": 6067,
-    "unigram_w2": 628438
-  },
-  {
-    "w1": "bremerhaven",
-    "w2": "jerman",
-    "pmi": 1.3534088832764881,
-    "cooc_count": 28,
-    "unigram_w1": 28,
-    "unigram_w2": 73793
-  },
-  {
-    "w1": "berlokasi",
-    "w2": "jerman",
-    "pmi": -1.5050081648913354,
-    "cooc_count": 348,
-    "unigram_w1": 6067,
-    "unigram_w2": 73793
+    "pmi": 0.0,
+    "cooc_count": 1660,
+    "unigram_w1": 5349,
+    "unigram_w2": 653118
   }
 ]

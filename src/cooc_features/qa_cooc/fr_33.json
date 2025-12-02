@@ -2,41 +2,33 @@
   {
     "w1": "pays",
     "w2": "trouvait",
-    "pmi": -1.3464611662226,
-    "cooc_count": 618,
-    "unigram_w1": 248412,
-    "unigram_w2": 1312
+    "pmi": 0.0,
+    "cooc_count": 480,
+    "unigram_w1": 263863,
+    "unigram_w2": 1356
   },
   {
     "w1": "allemagne",
     "w2": "pays",
-    "pmi": -1.3077286258459122,
-    "cooc_count": 26039,
-    "unigram_w1": 53180,
-    "unigram_w2": 248412
-  },
-  {
-    "w1": "afn",
-    "w2": "pays",
-    "pmi": -2.6316979796932376,
-    "cooc_count": 37,
-    "unigram_w1": 284,
-    "unigram_w2": 248412
+    "pmi": 0.0,
+    "cooc_count": 25974,
+    "unigram_w1": 63422,
+    "unigram_w2": 263863
   },
   {
     "w1": "allemagne",
     "w2": "trouvait",
-    "pmi": -1.849516716750066,
-    "cooc_count": 80,
-    "unigram_w1": 53180,
-    "unigram_w2": 1312
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 63422,
+    "unigram_w2": 1356
   },
   {
     "w1": "allemagne",
     "w2": "bremerhaven",
-    "pmi": 0.9477646180800868,
+    "pmi": 0.824208913552139,
     "cooc_count": 80,
-    "unigram_w1": 53180,
+    "unigram_w1": 63422,
     "unigram_w2": 80
   }
 ]

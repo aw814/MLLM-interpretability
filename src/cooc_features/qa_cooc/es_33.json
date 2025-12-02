@@ -2,57 +2,65 @@
   {
     "w1": "estaba",
     "w2": "país",
-    "pmi": -2.3816926486626397,
-    "cooc_count": 9975,
-    "unigram_w1": 109254,
-    "unigram_w2": 139660
-  },
-  {
-    "w1": "alemania",
-    "w2": "país",
-    "pmi": -1.4940516303211993,
-    "cooc_count": 7637,
-    "unigram_w1": 34431,
-    "unigram_w2": 139660
-  },
-  {
-    "w1": "país",
-    "w2": "ubicado",
-    "pmi": -1.7988673792157992,
-    "cooc_count": 2232,
-    "unigram_w1": 139660,
-    "unigram_w2": 13649
-  },
-  {
-    "w1": "afn",
-    "w2": "país",
-    "pmi": -1.5065652990891791,
-    "cooc_count": 46,
-    "unigram_w1": 210,
-    "unigram_w2": 139660
+    "pmi": 0.0,
+    "cooc_count": 9442,
+    "unigram_w1": 108342,
+    "unigram_w2": 145426
   },
   {
     "w1": "alemania",
     "w2": "estaba",
-    "pmi": -2.8595266253279434,
-    "cooc_count": 1525,
-    "unigram_w1": 34431,
-    "unigram_w2": 109254
+    "pmi": 0.0,
+    "cooc_count": 1602,
+    "unigram_w1": 45644,
+    "unigram_w2": 108342
   },
   {
     "w1": "estaba",
     "w2": "ubicado",
-    "pmi": -1.699746776706382,
-    "cooc_count": 1928,
-    "unigram_w1": 109254,
-    "unigram_w2": 13649
+    "pmi": 0.0,
+    "cooc_count": 1834,
+    "unigram_w1": 108342,
+    "unigram_w2": 12962
+  },
+  {
+    "w1": "alemania",
+    "w2": "país",
+    "pmi": 0.0,
+    "cooc_count": 8054,
+    "unigram_w1": 45644,
+    "unigram_w2": 145426
+  },
+  {
+    "w1": "país",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 2653,
+    "unigram_w1": 145426,
+    "unigram_w2": 12962
+  },
+  {
+    "w1": "afn",
+    "w2": "país",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 1883,
+    "unigram_w2": 145426
   },
   {
     "w1": "alemania",
     "w2": "ubicado",
-    "pmi": -2.1903732723926064,
-    "cooc_count": 372,
-    "unigram_w1": 34431,
-    "unigram_w2": 13649
+    "pmi": 0.0,
+    "cooc_count": 262,
+    "unigram_w1": 45644,
+    "unigram_w2": 12962
+  },
+  {
+    "w1": "alemania",
+    "w2": "bremerhaven",
+    "pmi": 0.04490906633805226,
+    "cooc_count": 27,
+    "unigram_w1": 45644,
+    "unigram_w2": 83
   }
 ]

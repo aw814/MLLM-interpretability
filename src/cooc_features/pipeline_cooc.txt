@@ -1,7 +1,0 @@
-Step 0 - choose mC4
-Step 1 - Extract keywords from the QA
-Step 2 - Two keywords co-occur within the sliding window of length 50 tokens
-Step 3 - Stream mC4 and collect counts,
-    Unigram counts for keywords
-    cooccurrence counts (keyword–keyword within the window)
-    compute PMI
