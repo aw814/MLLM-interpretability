@@ -5,7 +5,7 @@ import os
 import json
 import itertools
 from datasets import load_dataset
-from tokenizers import get_language_config,get_stopwords_for_lang
+from tokenizers import get_language_config, get_stopwords_for_lang
 import argparse
 from pathlib import Path
 
@@ -135,24 +135,96 @@ def compute_cooc_for_language(
 
     return unigram_counts, cooc_counts, total_windows
 
+def compute_cooc_for_language_multi(
+    lang_code: str,
+    keyword_vocab: set[str],
+    window_sizes: list[int],
+    max_docs: int = 100,
+):
+    if lang_code == "he":
+        lang_code = "iw"  # Dataset uses 'iw' for Hebrew
+
+    train_iter = load_dataset("bertin-project/mc4-sampling", lang_code, split="train", streaming=True, sampling_method="random")
+
+    key_set = set(keyword_vocab)
+    # For each window size, track unigram, cooc, and total_windows
+    stats = {
+        w: {
+            "unigram_counts": Counter(),
+            "cooc_counts": Counter(),
+            "total_windows": 0,
+        }
+        for w in window_sizes
+    }
+
+    from tqdm import tqdm
+    for idx, ex in enumerate(tqdm(train_iter, total=max_docs, desc=f"{lang_code} docs")):
+        if idx >= max_docs:
+            break
+
+        text = ex.get("text", "")
+        toks = tokenize(text, lang=lang_code)
+        if not toks:
+            continue
+
+        # For each window size, compute windows and update corresponding stats
+        for w in window_sizes:
+            s = stats[w]
+            for win in sliding_windows(toks, w):
+                win_keywords = [token for token in win if token in key_set]
+                if len(win_keywords) < 2:
+                    continue
+
+                s["total_windows"] += 1
+                s["unigram_counts"].update(win_keywords)
+
+                unique_kws = sorted(set(win_keywords))
+                for w1, w2 in itertools.combinations(unique_kws, 2):
+                    s["cooc_counts"][(w1, w2)] += 1
+
+    # Return mapping from window size to (unigram_counts, cooc_counts, total_windows)
+    return {
+        w: (
+            stats[w]["unigram_counts"],
+            stats[w]["cooc_counts"],
+            stats[w]["total_windows"],
+        )
+        for w in window_sizes
+    }
+
 def compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=1):
+    """
+    Compute PPMI instead of PMI:
+        PPMI = max(PMI, 0)
+    """
     import math
     pmi = {}
     for (w1, w2), cooc_count in cooc_counts.items():
         if cooc_count < min_cooc:
             continue
+
         uni_w1 = unigram_counts.get(w1, 0)
         uni_w2 = unigram_counts.get(w2, 0)
         if uni_w1 == 0 or uni_w2 == 0:
             continue
+
         p_w1 = uni_w1 / total_windows
         p_w2 = uni_w2 / total_windows
         p_w1_w2 = cooc_count / total_windows
-        if p_w1_w2 == 0 or p_w1 == 0 or p_w2 == 0:
+
+        if p_w1_w2 <= 0 or p_w1 <= 0 or p_w2 <= 0:
             continue
+
+        # Standard PMI
         pmi_val = math.log(p_w1_w2 / (p_w1 * p_w2))
-        pmi[(w1, w2)] = pmi_val
+
+        # Convert to PPMI
+        ppmi_val = max(pmi_val, 0.0)
+
+        pmi[(w1, w2)] = ppmi_val
+
     return pmi
+
 
 def save_qa_pair_details(q_id, lang, pairs_info, out_dir="data/intermediate/qa_cooc"):
     os.makedirs(out_dir, exist_ok=True)
@@ -167,11 +239,19 @@ def build_qa_cooc_features(
     df,
     qa_keywords,
     per_qa_out_dir="./cooc_features/qa_cooc",
-    window_size=50,
+    window_sizes=None,
     max_docs=100000,
     min_cooc=1,
     iterative_out_csv: str | None = None,
 ):
+    if window_sizes is None:
+        window_sizes = [50]
+    elif isinstance(window_sizes, int):
+        window_sizes = [window_sizes]
+    else:
+        window_sizes = list(window_sizes)
+    window_sizes = sorted(set(window_sizes))
+
     if iterative_out_csv is not None:
         iterative_out_csv = str(iterative_out_csv)
 
@@ -191,14 +271,31 @@ def build_qa_cooc_features(
             feature_row = {
                 "q_id": qid,
                 "language": lang,
-                "cooc_num_pairs": 0,
-                "cooc_total_pairs": 0,
-                "cooc_coverage_ratio": np.nan,
-                "cooc_avg_pmi": np.nan,
-                "cooc_max_pmi": np.nan,
-                "cooc_min_pmi": np.nan,
-                "cooc_std_pmi": np.nan,
             }
+            default_w = window_sizes[0]
+            for w in window_sizes:
+                suffix = f"_w{w}" if len(window_sizes) > 1 else ""
+                feature_row[f"cooc_num_pairs{suffix}"] = 0
+                feature_row[f"cooc_total_pairs{suffix}"] = 0
+                feature_row[f"cooc_coverage_ratio{suffix}"] = np.nan
+                feature_row[f"cooc_unseen_keywords_count{suffix}"] = 0
+                feature_row[f"cooc_unseen_keywords_ratio{suffix}"] = np.nan
+                feature_row[f"cooc_avg_pmi{suffix}"] = np.nan
+                feature_row[f"cooc_max_pmi{suffix}"] = np.nan
+                feature_row[f"cooc_min_pmi{suffix}"] = np.nan
+                feature_row[f"cooc_std_pmi{suffix}"] = np.nan
+
+            if len(window_sizes) > 1:
+                feature_row["cooc_num_pairs"] = feature_row[f"cooc_num_pairs_w{default_w}"]
+                feature_row["cooc_total_pairs"] = feature_row[f"cooc_total_pairs_w{default_w}"]
+                feature_row["cooc_coverage_ratio"] = feature_row[f"cooc_coverage_ratio_w{default_w}"]
+                feature_row["cooc_unseen_keywords_count"] = feature_row[f"cooc_unseen_keywords_count_w{default_w}"]
+                feature_row["cooc_unseen_keywords_ratio"] = feature_row[f"cooc_unseen_keywords_ratio_w{default_w}"]
+                feature_row["cooc_avg_pmi"] = feature_row[f"cooc_avg_pmi_w{default_w}"]
+                feature_row["cooc_max_pmi"] = feature_row[f"cooc_max_pmi_w{default_w}"]
+                feature_row["cooc_min_pmi"] = feature_row[f"cooc_min_pmi_w{default_w}"]
+                feature_row["cooc_std_pmi"] = feature_row[f"cooc_std_pmi_w{default_w}"]
+
             base_info = {
                 "question": row["question"],
                 "answer": row["answer"],
@@ -218,73 +315,114 @@ def build_qa_cooc_features(
                 batch_rows = []
             continue
 
-        unigram_counts, cooc_counts, total_windows = compute_cooc_for_language(
-            lang_code=lang,
-            keyword_vocab=set(unique_kws),
-            window_size=window_size,
-            max_docs=max_docs,
-        )
-        pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
-
-        seen_kws = [w for w in unique_kws if w in unigram_counts]
-        unseen_kws = [w for w in unique_kws if w not in unigram_counts]
-        num_unseen = len(unseen_kws)
-        unseen_ratio = (num_unseen / len(unique_kws)) if unique_kws else np.nan
-
-        pmi_vals = []
-        pair_details = []
-
-        for i in range(len(unique_kws)):
-            for j in range(i + 1, len(unique_kws)):
-                w1, w2 = sorted((unique_kws[i], unique_kws[j]))
-                pmi_val = pmi_dict.get((w1, w2))
-                if pmi_val is None:
-                    continue
-
-                cooc_count = cooc_counts.get((w1, w2))
-                uni_w1 = unigram_counts.get(w1)
-                uni_w2 = unigram_counts.get(w2)
-
-                pmi_vals.append(pmi_val)
-                pair_details.append({
-                    "w1": w1,
-                    "w2": w2,
-                    "pmi": pmi_val,
-                    "cooc_count": cooc_count,
-                    "unigram_w1": uni_w1,
-                    "unigram_w2": uni_w2,
-                })
-
-        num_pairs = len(pmi_vals)
-        n_k = len(unique_kws)
-        total_pairs = n_k * (n_k - 1) / 2 if n_k > 1 else 0
-        coverage_ratio = (num_pairs / total_pairs) if total_pairs > 0 else np.nan
-
-        if pair_details:
-            save_qa_pair_details(qid, lang, pair_details, per_qa_out_dir)
-
-        if pmi_vals:
-            arr = np.array(pmi_vals, dtype=float)
-            avg_pmi = arr.mean()
-            max_pmi = arr.max()
-            min_pmi = arr.min()
-            std_pmi = arr.std()
+        # Compute co-occurrence stats for one or many window sizes
+        stats_per_w = {}
+        if len(window_sizes) == 1:
+            w = window_sizes[0]
+            unigram_counts, cooc_counts, total_windows = compute_cooc_for_language(
+                lang_code=lang,
+                keyword_vocab=set(unique_kws),
+                window_size=w,
+                max_docs=max_docs,
+            )
+            pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
+            stats_per_w[w] = (unigram_counts, cooc_counts, total_windows, pmi_dict)
         else:
-            avg_pmi = max_pmi = min_pmi = std_pmi = np.nan
+            multi_stats = compute_cooc_for_language_multi(
+                lang_code=lang,
+                keyword_vocab=set(unique_kws),
+                window_sizes=window_sizes,
+                max_docs=max_docs,
+            )
+            for w, (unigram_counts, cooc_counts, total_windows) in multi_stats.items():
+                pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
+                stats_per_w[w] = (unigram_counts, cooc_counts, total_windows, pmi_dict)
 
         feature_row = {
             "q_id": qid,
             "language": lang,
-            "cooc_num_pairs": num_pairs,
-            "cooc_total_pairs": total_pairs,
-            "cooc_coverage_ratio": coverage_ratio,
-            "cooc_unseen_keywords_count": num_unseen,
-            "cooc_unseen_keywords_ratio": unseen_ratio,
-            "cooc_avg_pmi": avg_pmi,
-            "cooc_max_pmi": max_pmi,
-            "cooc_min_pmi": min_pmi,
-            "cooc_std_pmi": std_pmi,
         }
+
+        # For backward compatibility, treat the first window size as "default"
+        default_w = window_sizes[0]
+
+        # For each window size, compute PPMI-based summary features
+        for w in window_sizes:
+            unigram_counts, cooc_counts, total_windows, pmi_dict = stats_per_w[w]
+
+            seen_kws = [kw for kw in unique_kws if kw in unigram_counts]
+            unseen_kws = [kw for kw in unique_kws if kw not in unigram_counts]
+            num_unseen = len(unseen_kws)
+            unseen_ratio = (num_unseen / len(unique_kws)) if unique_kws else np.nan
+
+            pmi_vals = []
+            pair_details = []
+
+            for i in range(len(unique_kws)):
+                for j in range(i + 1, len(unique_kws)):
+                    w1, w2 = sorted((unique_kws[i], unique_kws[j]))
+                    pmi_val = pmi_dict.get((w1, w2))
+                    if pmi_val is None:
+                        continue
+
+                    cooc_count = cooc_counts.get((w1, w2))
+                    uni_w1 = unigram_counts.get(w1)
+                    uni_w2 = unigram_counts.get(w2)
+
+                    pmi_vals.append(pmi_val)
+                    pair_details.append({
+                        "w1": w1,
+                        "w2": w2,
+                        "pmi": pmi_val,
+                        "cooc_count": cooc_count,
+                        "unigram_w1": uni_w1,
+                        "unigram_w2": uni_w2,
+                        "window_size": w,
+                    })
+
+            num_pairs = len(pmi_vals)
+            n_k = len(unique_kws)
+            total_pairs = n_k * (n_k - 1) / 2 if n_k > 1 else 0
+            coverage_ratio = (num_pairs / total_pairs) if total_pairs > 0 else np.nan
+
+            # Only save per-QA pair details for the default window size to avoid explosion in files
+            if w == default_w and pair_details:
+                save_qa_pair_details(qid, lang, pair_details, per_qa_out_dir)
+
+            if pmi_vals:
+                arr = np.array(pmi_vals, dtype=float)
+                avg_pmi = arr.mean()
+                max_pmi = arr.max()
+                min_pmi = arr.min()
+                std_pmi = arr.std()
+            else:
+                avg_pmi = max_pmi = min_pmi = std_pmi = np.nan
+
+            # Add suffix for window-specific features if more than one window size is used
+            suffix = f"_w{w}" if len(window_sizes) > 1 else ""
+
+            feature_row[f"cooc_num_pairs{suffix}"] = num_pairs
+            feature_row[f"cooc_total_pairs{suffix}"] = total_pairs
+            feature_row[f"cooc_coverage_ratio{suffix}"] = coverage_ratio
+            feature_row[f"cooc_unseen_keywords_count{suffix}"] = num_unseen
+            feature_row[f"cooc_unseen_keywords_ratio{suffix}"] = unseen_ratio
+            feature_row[f"cooc_avg_pmi{suffix}"] = avg_pmi
+            feature_row[f"cooc_max_pmi{suffix}"] = max_pmi
+            feature_row[f"cooc_min_pmi{suffix}"] = min_pmi
+            feature_row[f"cooc_std_pmi{suffix}"] = std_pmi
+
+        # For backward compatibility, also expose the default window size without suffix
+        if len(window_sizes) > 1:
+            feature_row["cooc_num_pairs"] = feature_row[f"cooc_num_pairs_w{default_w}"]
+            feature_row["cooc_total_pairs"] = feature_row[f"cooc_total_pairs_w{default_w}"]
+            feature_row["cooc_coverage_ratio"] = feature_row[f"cooc_coverage_ratio_w{default_w}"]
+            feature_row["cooc_unseen_keywords_count"] = feature_row[f"cooc_unseen_keywords_count_w{default_w}"]
+            feature_row["cooc_unseen_keywords_ratio"] = feature_row[f"cooc_unseen_keywords_ratio_w{default_w}"]
+            feature_row["cooc_avg_pmi"] = feature_row[f"cooc_avg_pmi_w{default_w}"]
+            feature_row["cooc_max_pmi"] = feature_row[f"cooc_max_pmi_w{default_w}"]
+            feature_row["cooc_min_pmi"] = feature_row[f"cooc_min_pmi_w{default_w}"]
+            feature_row["cooc_std_pmi"] = feature_row[f"cooc_std_pmi_w{default_w}"]
+
         base_info = {
             "question": row["question"],
             "answer": row["answer"],
@@ -320,7 +458,15 @@ def main():
     parser = argparse.ArgumentParser(description="Compute QA co-occurrence features in chunks.")
     parser.add_argument("--start_idx", type=int, default=0, help="Start index (inclusive) of the DataFrame slice to process.")
     parser.add_argument("--end_idx", type=int, default=None, help="End index (exclusive) of the DataFrame slice to process.")
+    parser.add_argument(
+        "--window_sizes",
+        type=str,
+        default="50",
+        help="Comma-separated list of window sizes, e.g., '20,50,100'.",
+    )
     args = parser.parse_args()
+
+    window_sizes = [int(x) for x in args.window_sizes.split(",") if x.strip()]
 
     project_root = Path(__file__).resolve().parents[1]
 
@@ -357,6 +503,7 @@ def main():
         df,
         qa_keywords=qa_keywords,
         per_qa_out_dir="./cooc_features/qa_cooc",
+        window_sizes=window_sizes,
         iterative_out_csv=out_csv,
     )
     print(f"Saved QA-level co-occurrence features to {out_csv}")

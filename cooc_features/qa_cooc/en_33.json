@@ -1,0 +1,42 @@
+[
+  {
+    "w1": "germany",
+    "w2": "located",
+    "pmi": 0.0,
+    "cooc_count": 786,
+    "unigram_w1": 40240,
+    "unigram_w2": 62614
+  },
+  {
+    "w1": "country",
+    "w2": "located",
+    "pmi": 0.0,
+    "cooc_count": 8030,
+    "unigram_w1": 121468,
+    "unigram_w2": 62614
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "located",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 704,
+    "unigram_w2": 62614
+  },
+  {
+    "w1": "country",
+    "w2": "germany",
+    "pmi": 0.0,
+    "cooc_count": 4528,
+    "unigram_w1": 121468,
+    "unigram_w2": 40240
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "germany",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 704,
+    "unigram_w2": 40240
+  }
+]
