@@ -3,7 +3,6 @@ max_examples: 50
 source_lang: en
 target_lang:
 - he
-- zh
 - de
 - es
 - hi
@@ -12,7 +11,8 @@ target_lang:
 - ja
 - ko
 - pt
-tested_model: gpt-4o
+- fr
+tested_model: gemini-2.0-flash
 judge_model: gpt-5
 temperature: 1.0
 max_tokens: 128

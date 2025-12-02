@@ -28,7 +28,7 @@ def main():
         judge_model=cfg.judge_model,
         temperature=cfg.temperature,
         max_tokens=cfg.max_tokens,
-        outdir=cfg.artifacts_dir,
+        outdir=os.path.join(cfg.artifacts_dir, cfg.tested_model),
     )
     # Note: run_pairwise_eval() is resumable — it skips any q_id already completed in previous runs,
     # so preds may contain both previously saved and newly generated results.

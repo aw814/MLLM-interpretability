@@ -1,19 +1,46 @@
 from __future__ import annotations
 import os
 import pandas as pd
-from openrouter_client import OpenRouterClient, OpenAIClient
+from openrouter_client import OpenRouterClient, OpenAIClient, GoogleClient
 from prompts import qa_user_message, judge_user_message, judge_system_message, JudgeFields
 from pathlib import Path
-from typing import Dict, Tuple
+from typing import Dict, Tuple, Protocol
 import time
 import csv
 
-def answer_question(client: OpenRouterClient, model: str, question: str, temperature: float, max_tokens: int) -> str:
+
+# --- Protocol for chat clients and client selection helper ---
+class ChatClient(Protocol):
+    def chat(
+        self,
+        model: str,
+        messages: list[dict],
+        temperature: float,
+        max_tokens: int,
+    ) -> str: ...
+
+
+def _get_client_for_model(model: str) -> ChatClient:
+    """
+    Select the appropriate client implementation based on the model name.
+
+    Convention:
+      - "openrouter/..." → OpenRouterClient
+      - "gpt-..."        → OpenAIClient
+      - everything else  → GoogleClient (Gemini)
+    """
+    if model.startswith("openrouter/"):
+        return OpenRouterClient()
+    if model.startswith("gpt-"):
+        return OpenAIClient()
+    return GoogleClient()
+
+def answer_question(client: ChatClient, model: str, question: str, temperature: float, max_tokens: int) -> str:
     messages = [qa_user_message(question)]
     return client.chat(model=model, messages=messages, temperature=temperature, max_tokens=max_tokens)
 
 def judge_correct(
-    client: OpenRouterClient|OpenAIClient,
+    client: ChatClient,
     judge_model: str,
     context: str,
     question: str,
@@ -95,8 +122,8 @@ def run_pairwise_eval(
     out_dir = Path(outdir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # client = OpenRouterClient()
-    client = OpenAIClient()
+    tested_client = _get_client_for_model(tested_model)
+    judge_client = _get_client_for_model(judge_model)
 
     # Normalize identifiers early
     df = df.copy()
@@ -154,11 +181,11 @@ def run_pairwise_eval(
             a_src, correct_s = source_cache[qid]
         else:
             a_src = _call_with_retry(
-                answer_question, client, tested_model, row["q_src"], temperature, max_tokens
+                answer_question, tested_client, tested_model, row["q_src"], temperature, max_tokens
             )
             correct_s = _call_with_retry(
                 judge_correct,
-                client,
+                judge_client,
                 judge_model,
                 context=row["c_src"],
                 question=row["q_src"],
@@ -182,12 +209,12 @@ def run_pairwise_eval(
             correct_t = correct_s
         else:
             a_tgt = _call_with_retry(
-                answer_question, client, tested_model, row["q_tgt"], temperature, max_tokens
+                answer_question, tested_client, tested_model, row["q_tgt"], temperature, max_tokens
             )
             # 3) Judge target (do NOT re-judge source)
             correct_t = _call_with_retry(
                 judge_correct,
-                client,
+                judge_client,
                 judge_model,
                 context=row["c_tgt"],
                 question=row["q_tgt"],

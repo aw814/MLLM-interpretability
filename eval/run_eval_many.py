@@ -37,7 +37,7 @@ def main():
     print(f"[info] Source: {source}")
     print(f"[info] Targets: {targets}")
     print(f"[info] Concurrency: {workers}")
-    print(f"[info] Artifacts dir: {os.path.abspath(cfg.artifacts_dir)}")
+    print(f"[info] Artifacts dir: {os.path.join(cfg.artifacts_dir, cfg.tested_model)}")
 
     # Submit all targets concurrently
     futures = {}
@@ -52,7 +52,7 @@ def main():
                 judge_model=cfg.judge_model,
                 temperature=cfg.temperature,
                 max_tokens=cfg.max_tokens,
-                outdir=cfg.artifacts_dir,
+                outdir=os.path.join(cfg.artifacts_dir, cfg.tested_model),
             )] = tgt
 
         # Collect results

@@ -4,10 +4,11 @@ data:
 
 eval:
   source_lang: "en"
-  target_lang: ["he", "zh", "de", "es", "hi", "id", "it", "ja", "ko", "pt", "fr"]
-
+  target_lang: ["he", "de", "es", "hi", "id", "it", "ja", "ko", "pt", "fr"]
+  # target_lang: ["zh"]
 models:
-  tested_model: "gpt-4o"
+  tested_model: "gemini-2.0-flash"
+  # tested_model: "gpt-4o"
   judge_model:  "gpt-5"
 
 decode:
