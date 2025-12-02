@@ -1,0 +1,623 @@
+[
+  {
+    "w1": "a",
+    "w2": "générales",
+    "pmi": 0.0,
+    "cooc_count": 373,
+    "unigram_w1": 2730698,
+    "unigram_w2": 11540,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "générales",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 640934,
+    "unigram_w2": 11540,
+    "window_size": 10
+  },
+  {
+    "w1": "générales",
+    "w2": "parti",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 11540,
+    "unigram_w2": 46443,
+    "window_size": 10
+  },
+  {
+    "w1": "générales",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 11540,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "générales",
+    "w2": "victoire",
+    "pmi": 0.4542602077974143,
+    "cooc_count": 20,
+    "unigram_w1": 11540,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "générales",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1936,
+    "unigram_w1": 11540,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "générales",
+    "w2": "élections",
+    "pmi": 3.609405711592062,
+    "cooc_count": 386,
+    "unigram_w1": 11540,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": 0.2923699331615506,
+    "cooc_count": 105725,
+    "unigram_w1": 2730698,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "néo",
+    "pmi": 0.0,
+    "cooc_count": 318,
+    "unigram_w1": 2730698,
+    "unigram_w2": 3879,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "travailliste",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 2730698,
+    "unigram_w2": 608,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "parti",
+    "pmi": 0.0,
+    "cooc_count": 4327,
+    "unigram_w1": 2730698,
+    "unigram_w2": 46443,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 1506,
+    "unigram_w1": 17488,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "helen",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 2730698,
+    "unigram_w2": 807,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "victoire",
+    "pmi": 0.0,
+    "cooc_count": 2064,
+    "unigram_w1": 2730698,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 372391,
+    "unigram_w1": 2730698,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "clark",
+    "pmi": 0.0,
+    "cooc_count": 188,
+    "unigram_w1": 2730698,
+    "unigram_w2": 1602,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "mené",
+    "pmi": 1.0433387549786817,
+    "cooc_count": 2278,
+    "unigram_w1": 2730698,
+    "unigram_w2": 6517,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "élections",
+    "pmi": 0.0,
+    "cooc_count": 1644,
+    "unigram_w1": 2730698,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "néo",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 640934,
+    "unigram_w2": 3879,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "travailliste",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 640934,
+    "unigram_w2": 608,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "parti",
+    "pmi": 0.0,
+    "cooc_count": 688,
+    "unigram_w1": 640934,
+    "unigram_w2": 46443,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": 0.892839666453013,
+    "cooc_count": 20925,
+    "unigram_w1": 640934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 17488,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "helen",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 640934,
+    "unigram_w2": 807,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "victoire",
+    "pmi": 0.0,
+    "cooc_count": 291,
+    "unigram_w1": 640934,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 115331,
+    "unigram_w1": 640934,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 1602,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "mené",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 640934,
+    "unigram_w2": 6517,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "élections",
+    "pmi": 0.0,
+    "cooc_count": 173,
+    "unigram_w1": 640934,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "travailliste",
+    "pmi": 2.2410153000346593,
+    "cooc_count": 1,
+    "unigram_w1": 3879,
+    "unigram_w2": 608,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "parti",
+    "pmi": 1.8564528673736787,
+    "cooc_count": 52,
+    "unigram_w1": 3879,
+    "unigram_w2": 46443,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3879,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "néo",
+    "pmi": 0.49135788401860686,
+    "cooc_count": 5,
+    "unigram_w1": 17488,
+    "unigram_w2": 3879,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "victoire",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 3879,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "zélandaises",
+    "pmi": 8.553209773640623,
+    "cooc_count": 68,
+    "unigram_w1": 3879,
+    "unigram_w2": 75,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 741,
+    "unigram_w1": 3879,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "néo",
+    "w2": "élections",
+    "pmi": 1.2287168645373545,
+    "cooc_count": 12,
+    "unigram_w1": 3879,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "parti",
+    "w2": "travailliste",
+    "pmi": 5.769634108670213,
+    "cooc_count": 408,
+    "unigram_w1": 46443,
+    "unigram_w2": 608,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "travailliste",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 296470,
+    "unigram_w2": 608,
+    "window_size": 10
+  },
+  {
+    "w1": "travailliste",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 608,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "travailliste",
+    "w2": "élections",
+    "pmi": 2.206405912657255,
+    "cooc_count": 5,
+    "unigram_w1": 608,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "parti",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 312,
+    "unigram_w1": 46443,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "parti",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 17488,
+    "unigram_w2": 46443,
+    "window_size": 10
+  },
+  {
+    "w1": "parti",
+    "w2": "victoire",
+    "pmi": 1.2864772661752635,
+    "cooc_count": 185,
+    "unigram_w1": 46443,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "parti",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 7356,
+    "unigram_w1": 46443,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "mené",
+    "w2": "parti",
+    "pmi": 0.4308948276232607,
+    "cooc_count": 21,
+    "unigram_w1": 6517,
+    "unigram_w2": 46443,
+    "window_size": 10
+  },
+  {
+    "w1": "parti",
+    "w2": "élections",
+    "pmi": 2.3433807593571925,
+    "cooc_count": 438,
+    "unigram_w1": 46443,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 17488,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "victoire",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 296470,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 32727,
+    "unigram_w1": 296470,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "t",
+    "pmi": 0.15468923481830685,
+    "cooc_count": 25,
+    "unigram_w1": 1602,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "mené",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 6517,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "élections",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 296470,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "helen",
+    "pmi": 1.14507615131447,
+    "cooc_count": 2,
+    "unigram_w1": 17488,
+    "unigram_w2": 807,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "victoire",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 17488,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 2886,
+    "unigram_w1": 17488,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "mené",
+    "pmi": 0.1548426819201481,
+    "cooc_count": 6,
+    "unigram_w1": 17488,
+    "unigram_w2": 6517,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "élections",
+    "pmi": 1.2081645853251235,
+    "cooc_count": 53,
+    "unigram_w1": 17488,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "helen",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 120,
+    "unigram_w1": 807,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "helen",
+    "pmi": 5.03941563087876,
+    "cooc_count": 9,
+    "unigram_w1": 1602,
+    "unigram_w2": 807,
+    "window_size": 10
+  },
+  {
+    "w1": "victoire",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 5848,
+    "unigram_w1": 24402,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "mené",
+    "w2": "victoire",
+    "pmi": 1.3257699139774626,
+    "cooc_count": 27,
+    "unigram_w1": 6517,
+    "unigram_w2": 24402,
+    "window_size": 10
+  },
+  {
+    "w1": "victoire",
+    "w2": "élections",
+    "pmi": 1.529695320338313,
+    "cooc_count": 102,
+    "unigram_w1": 24402,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "zélandaises",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 75,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 1602,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "mené",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1736,
+    "unigram_w1": 6517,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "à",
+    "w2": "élections",
+    "pmi": 0.0,
+    "cooc_count": 4391,
+    "unigram_w1": 6581895,
+    "unigram_w2": 20078,
+    "window_size": 10
+  },
+  {
+    "w1": "mené",
+    "w2": "élections",
+    "pmi": 0.5275585488509867,
+    "cooc_count": 10,
+    "unigram_w1": 6517,
+    "unigram_w2": 20078,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "w1": "年",
+    "w2": "版",
+    "pmi": 0.0,
+    "cooc_count": 6198,
+    "unigram_w1": 982471,
+    "unigram_w2": 414730,
+    "window_size": 10
+  },
+  {
+    "w1": "多伦多",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 1680,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "明报",
+    "pmi": 0.6662820625627398,
+    "cooc_count": 23,
+    "unigram_w1": 982471,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 54808,
+    "unigram_w1": 982471,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 321,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2015,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "创办",
+    "w2": "年",
+    "pmi": 1.331756785651886,
+    "cooc_count": 1271,
+    "unigram_w1": 4971,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "版",
+    "pmi": 0.0,
+    "cooc_count": 21415,
+    "unigram_w1": 2216630,
+    "unigram_w2": 414730,
+    "window_size": 10
+  },
+  {
+    "w1": "版",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 49066,
+    "unigram_w1": 414730,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "版",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2015,
+    "unigram_w2": 414730,
+    "window_size": 10
+  },
+  {
+    "w1": "创办",
+    "w2": "版",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 4971,
+    "unigram_w2": 414730,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "版",
+    "pmi": 0.0,
+    "cooc_count": 7439,
+    "unigram_w1": 2356497,
+    "unigram_w2": 414730,
+    "window_size": 10
+  },
+  {
+    "w1": "多伦多",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 1680,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "多伦多",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 631,
+    "unigram_w1": 1680,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "创办",
+    "w2": "多伦多",
+    "pmi": 2.3472340170436734,
+    "cooc_count": 6,
+    "unigram_w1": 4971,
+    "unigram_w2": 1680,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "多伦多",
+    "pmi": 0.0979465762958548,
+    "cooc_count": 300,
+    "unigram_w1": 2356497,
+    "unigram_w2": 1680,
+    "window_size": 10
+  },
+  {
+    "w1": "明报",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 175,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "明报",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 175,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "明报",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 2356497,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "是",
+    "pmi": 1.5910991440458373,
+    "cooc_count": 240,
+    "unigram_w1": 321,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 2015,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "创办",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 564,
+    "unigram_w1": 4971,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 195632,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 198,
+    "unigram_w1": 321,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 2015,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "创办",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2361,
+    "unigram_w1": 4971,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 321,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "创办",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 560,
+    "unigram_w1": 4971,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "w1": "加拿大",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 998,
+    "unigram_w1": 19990,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "正式",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 19990,
+    "unigram_w2": 53726,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 19990,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "哪一年",
+    "pmi": 2.6107308449111892,
+    "cooc_count": 6,
+    "unigram_w1": 19990,
+    "unigram_w2": 321,
+    "window_size": 10
+  },
+  {
+    "w1": "于",
+    "w2": "加拿大",
+    "pmi": 0.0,
+    "cooc_count": 141,
+    "unigram_w1": 224720,
+    "unigram_w2": 19990,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "国旗",
+    "pmi": 0.7769455370190681,
+    "cooc_count": 9,
+    "unigram_w1": 19990,
+    "unigram_w2": 3013,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "正式",
+    "pmi": 0.7989624605961251,
+    "cooc_count": 8063,
+    "unigram_w1": 982471,
+    "unigram_w2": 53726,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "开始",
+    "pmi": 0.37765720419125537,
+    "cooc_count": 11709,
+    "unigram_w1": 982471,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 321,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "于",
+    "w2": "年",
+    "pmi": 1.0748811045295983,
+    "cooc_count": 44441,
+    "unigram_w1": 224720,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "国旗",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 3013,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "开始",
+    "w2": "正式",
+    "pmi": 1.7076538763850797,
+    "cooc_count": 2421,
+    "unigram_w1": 118899,
+    "unigram_w2": 53726,
+    "window_size": 10
+  },
+  {
+    "w1": "于",
+    "w2": "正式",
+    "pmi": 1.3292025527994353,
+    "cooc_count": 3134,
+    "unigram_w1": 224720,
+    "unigram_w2": 53726,
+    "window_size": 10
+  },
+  {
+    "w1": "国旗",
+    "w2": "正式",
+    "pmi": 0.5867883260852842,
+    "cooc_count": 20,
+    "unigram_w1": 3013,
+    "unigram_w2": 53726,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "开始",
+    "pmi": 4.005742430539007,
+    "cooc_count": 144,
+    "unigram_w1": 321,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "于",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 1797,
+    "unigram_w1": 224720,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "国旗",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 3013,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "于",
+    "w2": "国旗",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 224720,
+    "unigram_w2": 3013,
+    "window_size": 10
+  }
+]

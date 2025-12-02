@@ -1,0 +1,524 @@
+[
+  {
+    "w1": "的",
+    "w2": "美丽",
+    "pmi": 0.009897225008736025,
+    "cooc_count": 16627,
+    "unigram_w1": 10165533,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "麦凯",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 10165533,
+    "unigram_w2": 29,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 16505,
+    "unigram_w1": 25138,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "hungry",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 43,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "时",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 93907,
+    "unigram_w1": 267178,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 148451,
+    "unigram_w1": 399309,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "唱片",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1310,
+    "unigram_w1": 2992,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 17905,
+    "unigram_w1": 44864,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "小",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 76198,
+    "unigram_w1": 188896,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6823,
+    "unigram_w1": 15807,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "脑袋",
+    "pmi": 0.0,
+    "cooc_count": 2636,
+    "unigram_w1": 10165533,
+    "unigram_w2": 4007,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "美丽",
+    "pmi": 0.0776812138971429,
+    "cooc_count": 44,
+    "unigram_w1": 25138,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "时",
+    "w2": "美丽",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 267178,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "美丽",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 399309,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "美丽",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 44864,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "小",
+    "w2": "美丽",
+    "pmi": 0.0,
+    "cooc_count": 171,
+    "unigram_w1": 188896,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "美丽",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 15807,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "美丽",
+    "pmi": 0.0,
+    "cooc_count": 83,
+    "unigram_w1": 303848,
+    "unigram_w2": 23571,
+    "window_size": 10
+  },
+  {
+    "w1": "美丽",
+    "w2": "脑袋",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 23571,
+    "unigram_w2": 4007,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "pretty",
+    "pmi": 8.56628173031149,
+    "cooc_count": 7,
+    "unigram_w1": 200,
+    "unigram_w2": 97,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "mouse",
+    "pmi": 8.816648154482076,
+    "cooc_count": 5,
+    "unigram_w1": 348,
+    "unigram_w2": 31,
+    "window_size": 10
+  },
+  {
+    "w1": "hungry",
+    "w2": "little",
+    "pmi": 8.825907479894873,
+    "cooc_count": 7,
+    "unigram_w1": 43,
+    "unigram_w2": 348,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "公司",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 348,
+    "unigram_w2": 399309,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "麦凯",
+    "pmi": 1.8380511765138918,
+    "cooc_count": 5,
+    "unigram_w1": 399309,
+    "unigram_w2": 29,
+    "window_size": 10
+  },
+  {
+    "w1": "小",
+    "w2": "麦凯",
+    "pmi": 1.6702993988406512,
+    "cooc_count": 2,
+    "unigram_w1": 188896,
+    "unigram_w2": 29,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 342,
+    "unigram_w1": 25138,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "名字",
+    "pmi": 0.0,
+    "cooc_count": 655,
+    "unigram_w1": 399309,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "名字",
+    "pmi": 3.289515319286564,
+    "cooc_count": 2079,
+    "unigram_w1": 44864,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "小",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 25138,
+    "unigram_w2": 188896,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "名字",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15807,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "名字",
+    "pmi": 1.388576720333737,
+    "cooc_count": 2104,
+    "unigram_w1": 303848,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 2469,
+    "unigram_w1": 399309,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "唱片",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2992,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 473,
+    "unigram_w1": 44864,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "小",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 2590,
+    "unigram_w1": 188896,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 15807,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "时",
+    "pmi": 0.0,
+    "cooc_count": 1708,
+    "unigram_w1": 303848,
+    "unigram_w2": 267178,
+    "window_size": 10
+  },
+  {
+    "w1": "时",
+    "w2": "脑袋",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 267178,
+    "unigram_w2": 4007,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "唱片",
+    "pmi": 1.8363786556356338,
+    "cooc_count": 515,
+    "unigram_w1": 399309,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "叫",
+    "pmi": 0.0,
+    "cooc_count": 353,
+    "unigram_w1": 399309,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "小",
+    "pmi": 0.0,
+    "cooc_count": 1768,
+    "unigram_w1": 399309,
+    "unigram_w2": 188896,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "发行",
+    "pmi": 0.7862659699802356,
+    "cooc_count": 952,
+    "unigram_w1": 399309,
+    "unigram_w2": 15807,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "公司",
+    "pmi": 0.0,
+    "cooc_count": 5282,
+    "unigram_w1": 303848,
+    "unigram_w2": 399309,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "唱片",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 44864,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "唱片",
+    "w2": "小",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2992,
+    "unigram_w2": 188896,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "唱片",
+    "pmi": 3.098160547351888,
+    "cooc_count": 72,
+    "unigram_w1": 15807,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "唱片",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 303848,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "小",
+    "pmi": 0.09920180211053736,
+    "cooc_count": 643,
+    "unigram_w1": 44864,
+    "unigram_w2": 188896,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "叫",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15807,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "叫",
+    "pmi": 1.8969422156284015,
+    "cooc_count": 6243,
+    "unigram_w1": 303848,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "脑袋",
+    "pmi": 0.31942418933340516,
+    "cooc_count": 17,
+    "unigram_w1": 44864,
+    "unigram_w2": 4007,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "小",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 15807,
+    "unigram_w2": 188896,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "小",
+    "pmi": 0.0,
+    "cooc_count": 1929,
+    "unigram_w1": 303848,
+    "unigram_w2": 188896,
+    "window_size": 10
+  },
+  {
+    "w1": "小",
+    "w2": "脑袋",
+    "pmi": 1.4146259526528868,
+    "cooc_count": 214,
+    "unigram_w1": 188896,
+    "unigram_w2": 4007,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "发行",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 303848,
+    "unigram_w2": 15807,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "脑袋",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 15807,
+    "unigram_w2": 4007,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "脑袋",
+    "pmi": 0.09510753737381493,
+    "cooc_count": 92,
+    "unigram_w1": 303848,
+    "unigram_w2": 4007,
+    "window_size": 10
+  }
+]

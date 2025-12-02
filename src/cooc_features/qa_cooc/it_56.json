@@ -1,0 +1,344 @@
+[
+  {
+    "w1": "chi",
+    "w2": "mediano",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 261788,
+    "unigram_w2": 793,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "mediano",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 1138754,
+    "unigram_w2": 793,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "mediano",
+    "pmi": 1.0096244485517167,
+    "cooc_count": 26,
+    "unigram_w1": 250781,
+    "unigram_w2": 793,
+    "window_size": 10
+  },
+  {
+    "w1": "mediano",
+    "w2": "nella",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 793,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 261788,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "università",
+    "pmi": 0.026441891049265028,
+    "cooc_count": 5,
+    "unigram_w1": 1631,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "università",
+    "pmi": 1.7256367696205308,
+    "cooc_count": 19094,
+    "unigram_w1": 1138754,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "stagione",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 70437,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 250781,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "nella",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 821,
+    "unigram_w1": 605181,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "chi",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 1631,
+    "unigram_w2": 261788,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "detroit",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 261788,
+    "unigram_w2": 1494,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 4100,
+    "unigram_w1": 261788,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "stagione",
+    "pmi": 0.0,
+    "cooc_count": 249,
+    "unigram_w1": 261788,
+    "unigram_w2": 70437,
+    "window_size": 10
+  },
+  {
+    "w1": "calcistica",
+    "w2": "chi",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1190,
+    "unigram_w2": 261788,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "era",
+    "pmi": 0.3095546499326582,
+    "cooc_count": 4262,
+    "unigram_w1": 261788,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "nella",
+    "pmi": 0.0,
+    "cooc_count": 3494,
+    "unigram_w1": 261788,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 1631,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "era",
+    "pmi": 0.36260703971927266,
+    "cooc_count": 28,
+    "unigram_w1": 1631,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "nella",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 1631,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "detroit",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 1138754,
+    "unigram_w2": 1494,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "stagione",
+    "pmi": 1.64609665952383,
+    "cooc_count": 26,
+    "unigram_w1": 1494,
+    "unigram_w2": 70437,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "era",
+    "pmi": 0.7290566791165446,
+    "cooc_count": 37,
+    "unigram_w1": 1494,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "nella",
+    "pmi": 0.5138573469605567,
+    "cooc_count": 72,
+    "unigram_w1": 1494,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "stagione",
+    "pmi": 0.0,
+    "cooc_count": 2195,
+    "unigram_w1": 1138754,
+    "unigram_w2": 70437,
+    "window_size": 10
+  },
+  {
+    "w1": "calcistica",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 1190,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 8971,
+    "unigram_w1": 1138754,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "nella",
+    "pmi": 0.0,
+    "cooc_count": 32385,
+    "unigram_w1": 1138754,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "lloyd",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 1138754,
+    "unigram_w2": 689,
+    "window_size": 10
+  },
+  {
+    "w1": "calcistica",
+    "w2": "stagione",
+    "pmi": 3.520778679527965,
+    "cooc_count": 135,
+    "unigram_w1": 1190,
+    "unigram_w2": 70437,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "stagione",
+    "pmi": 0.0,
+    "cooc_count": 520,
+    "unigram_w1": 250781,
+    "unigram_w2": 70437,
+    "window_size": 10
+  },
+  {
+    "w1": "nella",
+    "w2": "stagione",
+    "pmi": 1.2156415391934747,
+    "cooc_count": 6848,
+    "unigram_w1": 605181,
+    "unigram_w2": 70437,
+    "window_size": 10
+  },
+  {
+    "w1": "calcistica",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 1190,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "calcistica",
+    "w2": "nella",
+    "pmi": 0.9306031261862726,
+    "cooc_count": 87,
+    "unigram_w1": 1190,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 508,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "nella",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 508,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nella",
+    "pmi": 0.0,
+    "cooc_count": 5438,
+    "unigram_w1": 250781,
+    "unigram_w2": 605181,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "nella",
+    "pmi": 0.2692588606450873,
+    "cooc_count": 26,
+    "unigram_w1": 689,
+    "unigram_w2": 605181,
+    "window_size": 10
+  }
+]

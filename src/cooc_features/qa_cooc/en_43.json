@@ -1,0 +1,668 @@
+[
+  {
+    "w1": "outsourced",
+    "w2": "who",
+    "pmi": 0.05870138958297765,
+    "cooc_count": 22,
+    "unigram_w1": 960,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "used",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 3222,
+    "unigram_w1": 276621,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "obtains",
+    "w2": "who",
+    "pmi": 0.3041831075443823,
+    "cooc_count": 29,
+    "unigram_w1": 990,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 9732,
+    "unigram_w1": 625314,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "who",
+    "pmi": 0.22907952648909505,
+    "cooc_count": 366,
+    "unigram_w1": 13469,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 1467,
+    "unigram_w1": 89242,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "south",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 818,
+    "unigram_w1": 91384,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 9095,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "someone",
+    "w2": "who",
+    "pmi": 2.0063997376259546,
+    "cooc_count": 11746,
+    "unigram_w1": 73091,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "term",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 759,
+    "unigram_w1": 68681,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 5298,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 328,
+    "unigram_w1": 32089,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "services",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 2118,
+    "unigram_w1": 190942,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourced",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 960,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourced",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 960,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "outsourced",
+    "pmi": 1.3663629212651625,
+    "cooc_count": 16,
+    "unigram_w1": 89242,
+    "unigram_w2": 960,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourced",
+    "w2": "south",
+    "pmi": 1.5657878449355997,
+    "cooc_count": 20,
+    "unigram_w1": 960,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourced",
+    "w2": "term",
+    "pmi": 1.0528779609466419,
+    "cooc_count": 9,
+    "unigram_w1": 960,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourced",
+    "w2": "services",
+    "pmi": 2.7006907132592017,
+    "cooc_count": 130,
+    "unigram_w1": 960,
+    "unigram_w2": 190942,
+    "window_size": 10
+  },
+  {
+    "w1": "obtains",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 990,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "used",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 4007,
+    "unigram_w1": 276621,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "used",
+    "pmi": 1.815197873641882,
+    "cooc_count": 1090,
+    "unigram_w1": 13469,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 417,
+    "unigram_w1": 89242,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "south",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 405,
+    "unigram_w1": 91384,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 9095,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "someone",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 433,
+    "unigram_w1": 73091,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "term",
+    "w2": "used",
+    "pmi": 0.6849433517549172,
+    "cooc_count": 1795,
+    "unigram_w1": 68681,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "used",
+    "pmi": 0.27611483323453284,
+    "cooc_count": 92,
+    "unigram_w1": 5298,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 174,
+    "unigram_w1": 32089,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "services",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 1159,
+    "unigram_w1": 190942,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "obtains",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 990,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "obtains",
+    "w2": "south",
+    "pmi": 1.4837228918812955,
+    "cooc_count": 19,
+    "unigram_w1": 990,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "obtains",
+    "w2": "services",
+    "pmi": 0.28729125392486576,
+    "cooc_count": 12,
+    "unigram_w1": 990,
+    "unigram_w2": 190942,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "what",
+    "pmi": 0.8952506214550126,
+    "cooc_count": 982,
+    "unigram_w1": 13469,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1229,
+    "unigram_w1": 89242,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "south",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 575,
+    "unigram_w1": 91384,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 9095,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "someone",
+    "w2": "what",
+    "pmi": 0.04320064540885087,
+    "cooc_count": 2273,
+    "unigram_w1": 73091,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "term",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1234,
+    "unigram_w1": 68681,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 5298,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 281,
+    "unigram_w1": 32089,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "services",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1811,
+    "unigram_w1": 190942,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "government",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 13469,
+    "unigram_w2": 89242,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "south",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 13469,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "someone",
+    "pmi": 1.0425571247371588,
+    "cooc_count": 133,
+    "unigram_w1": 13469,
+    "unigram_w2": 73091,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "term",
+    "pmi": 2.1624756296541356,
+    "cooc_count": 383,
+    "unigram_w1": 13469,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "facilitate",
+    "pmi": 0.8560253875062799,
+    "cooc_count": 8,
+    "unigram_w1": 13469,
+    "unigram_w2": 5298,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "describe",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 32089,
+    "unigram_w2": 13469,
+    "window_size": 10
+  },
+  {
+    "w1": "describe",
+    "w2": "services",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 13469,
+    "unigram_w2": 190942,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "south",
+    "pmi": 0.0,
+    "cooc_count": 380,
+    "unigram_w1": 89242,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "government",
+    "pmi": 1.7388549388874022,
+    "cooc_count": 220,
+    "unigram_w1": 9095,
+    "unigram_w2": 89242,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "someone",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 89242,
+    "unigram_w2": 73091,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "term",
+    "pmi": 0.1255979836793567,
+    "cooc_count": 331,
+    "unigram_w1": 89242,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "government",
+    "pmi": 0.9460658242016676,
+    "cooc_count": 58,
+    "unigram_w1": 5298,
+    "unigram_w2": 89242,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "government",
+    "pmi": 0.10171874903971537,
+    "cooc_count": 151,
+    "unigram_w1": 32089,
+    "unigram_w2": 89242,
+    "window_size": 10
+  },
+  {
+    "w1": "government",
+    "w2": "services",
+    "pmi": 0.39022564252300496,
+    "cooc_count": 1199,
+    "unigram_w1": 89242,
+    "unigram_w2": 190942,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "south",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 9095,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "someone",
+    "w2": "south",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 73091,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "south",
+    "w2": "term",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 91384,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "south",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 5298,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "south",
+    "pmi": 4.721754037268437,
+    "cooc_count": 15694,
+    "unigram_w1": 32089,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "services",
+    "w2": "south",
+    "pmi": 0.0,
+    "cooc_count": 672,
+    "unigram_w1": 190942,
+    "unigram_w2": 91384,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "term",
+    "pmi": 2.156182662015301,
+    "cooc_count": 257,
+    "unigram_w1": 9095,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "facilitate",
+    "pmi": 1.7341991399345729,
+    "cooc_count": 13,
+    "unigram_w1": 9095,
+    "unigram_w2": 5298,
+    "window_size": 10
+  },
+  {
+    "w1": "contracts",
+    "w2": "services",
+    "pmi": 0.84210482834106,
+    "cooc_count": 192,
+    "unigram_w1": 9095,
+    "unigram_w2": 190942,
+    "window_size": 10
+  },
+  {
+    "w1": "someone",
+    "w2": "term",
+    "pmi": 0.0,
+    "cooc_count": 122,
+    "unigram_w1": 73091,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "someone",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 32089,
+    "unigram_w2": 73091,
+    "window_size": 10
+  },
+  {
+    "w1": "services",
+    "w2": "someone",
+    "pmi": 0.0,
+    "cooc_count": 132,
+    "unigram_w1": 190942,
+    "unigram_w2": 73091,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "term",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 5298,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "term",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 32089,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "services",
+    "w2": "term",
+    "pmi": 0.0,
+    "cooc_count": 544,
+    "unigram_w1": 190942,
+    "unigram_w2": 68681,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "facilitate",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 32089,
+    "unigram_w2": 5298,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitate",
+    "w2": "services",
+    "pmi": 1.0302796558719156,
+    "cooc_count": 135,
+    "unigram_w1": 5298,
+    "unigram_w2": 190942,
+    "window_size": 10
+  },
+  {
+    "w1": "africa",
+    "w2": "services",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 32089,
+    "unigram_w2": 190942,
+    "window_size": 10
+  }
+]

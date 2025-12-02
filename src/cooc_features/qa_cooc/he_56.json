@@ -1,0 +1,380 @@
+[
+  {
+    "w1": "לויד",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 744,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "מה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 139793,
+    "unigram_w1": 904899,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מה",
+    "w2": "שמו",
+    "pmi": 0.0,
+    "cooc_count": 1391,
+    "unigram_w1": 904899,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 15885,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2020,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 38174,
+    "unigram_w1": 629162,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "בעונת",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 6186,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "האחורי",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 141,
+    "unigram_w1": 8222,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "הרץ",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 2800,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "הפוטבול",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 541,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "ברזיל",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 7896,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "דטרויט",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 1248,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "לויד",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 744,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "לויד",
+    "pmi": 0.7447287367521667,
+    "cooc_count": 72,
+    "unigram_w1": 629162,
+    "unigram_w2": 744,
+    "window_size": 10
+  },
+  {
+    "w1": "של",
+    "w2": "שמו",
+    "pmi": 0.15064695145867033,
+    "cooc_count": 16894,
+    "unigram_w1": 4999599,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "של",
+    "pmi": 0.12101110131565215,
+    "cooc_count": 6547,
+    "unigram_w1": 15885,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 474,
+    "unigram_w1": 2020,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 129144,
+    "unigram_w1": 629162,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "בעונת",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1227,
+    "unigram_w1": 6186,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "האחורי",
+    "w2": "של",
+    "pmi": 0.3741841403940563,
+    "cooc_count": 4365,
+    "unigram_w1": 8222,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הרץ",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 932,
+    "unigram_w1": 2800,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הפוטבול",
+    "w2": "של",
+    "pmi": 0.08923856841586085,
+    "cooc_count": 216,
+    "unigram_w1": 541,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ברזיל",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1660,
+    "unigram_w1": 7896,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "דטרויט",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 347,
+    "unigram_w1": 1248,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "שמו",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 15885,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "שמו",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2020,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "שמו",
+    "pmi": 0.09752798535351363,
+    "cooc_count": 2016,
+    "unigram_w1": 629162,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "בעונת",
+    "w2": "שמו",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 6186,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "האחורי",
+    "w2": "שמו",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 8222,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "הרץ",
+    "w2": "שמו",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2800,
+    "unigram_w2": 39793,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "אוניברסיטת",
+    "pmi": 0.7577022820955932,
+    "cooc_count": 5,
+    "unigram_w1": 2020,
+    "unigram_w2": 15885,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 15885,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "היה",
+    "pmi": 0.3745256406123824,
+    "cooc_count": 135,
+    "unigram_w1": 2020,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "בעונת",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 238,
+    "unigram_w1": 6186,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "האחורי",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 8222,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "הרץ",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 629162,
+    "unigram_w2": 2800,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "הפוטבול",
+    "pmi": 0.04478091174420409,
+    "cooc_count": 26,
+    "unigram_w1": 629162,
+    "unigram_w2": 541,
+    "window_size": 10
+  },
+  {
+    "w1": "ברזיל",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 7896,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "דטרויט",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 1248,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "בעונת",
+    "w2": "הפוטבול",
+    "pmi": 3.6060090520050827,
+    "cooc_count": 9,
+    "unigram_w1": 6186,
+    "unigram_w2": 541,
+    "window_size": 10
+  },
+  {
+    "w1": "בעונת",
+    "w2": "דטרויט",
+    "pmi": 3.568638478139963,
+    "cooc_count": 20,
+    "unigram_w1": 6186,
+    "unigram_w2": 1248,
+    "window_size": 10
+  },
+  {
+    "w1": "האחורי",
+    "w2": "הרץ",
+    "pmi": 4.308617980441542,
+    "cooc_count": 125,
+    "unigram_w1": 8222,
+    "unigram_w2": 2800,
+    "window_size": 10
+  }
+]

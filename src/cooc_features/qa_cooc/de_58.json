@@ -1,0 +1,893 @@
+[
+  {
+    "w1": "fand",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 170,
+    "unigram_w1": 30141,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "fand",
+    "w2": "statt",
+    "pmi": 3.2654062179102894,
+    "cooc_count": 2976,
+    "unigram_w1": 30141,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "fand",
+    "pmi": 0.0,
+    "cooc_count": 1780,
+    "unigram_w1": 1375079,
+    "unigram_w2": 30141,
+    "window_size": 10
+  },
+  {
+    "w1": "fand",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 30141,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "fand",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 30141,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "fand",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 137298,
+    "unigram_w2": 30141,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "fand",
+    "pmi": 0.0,
+    "cooc_count": 1450,
+    "unigram_w1": 1249892,
+    "unigram_w2": 30141,
+    "window_size": 10
+  },
+  {
+    "w1": "fand",
+    "w2": "finale",
+    "pmi": 1.0032003689580886,
+    "cooc_count": 53,
+    "unigram_w1": 30141,
+    "unigram_w2": 12017,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "fand",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 6558,
+    "unigram_w2": 30141,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "fand",
+    "pmi": 1.3521694397312816,
+    "cooc_count": 35,
+    "unigram_w1": 5598,
+    "unigram_w2": 30141,
+    "window_size": 10
+  },
+  {
+    "w1": "fand",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 30141,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "fand",
+    "pmi": 0.0,
+    "cooc_count": 3847,
+    "unigram_w1": 2705342,
+    "unigram_w2": 30141,
+    "window_size": 10
+  },
+  {
+    "w1": "fand",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 30141,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "sommerspielen",
+    "w2": "stadt",
+    "pmi": 1.3737970725839708,
+    "cooc_count": 4,
+    "unigram_w1": 175,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "stadt",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 362,
+    "unigram_w1": 107833,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 5890,
+    "unigram_w1": 1375079,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 32867,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "männer",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 49576,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 421,
+    "unigram_w1": 137298,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 3173,
+    "unigram_w1": 1249892,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 12017,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "stadt",
+    "pmi": 0.7076531498366841,
+    "cooc_count": 77,
+    "unigram_w1": 6558,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 5598,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "olympischen",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 4008,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "stadt",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 107833,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 9363,
+    "unigram_w1": 2705342,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "stadt",
+    "pmi": 0.03752866194444497,
+    "cooc_count": 217,
+    "unigram_w1": 36122,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "sommerspielen",
+    "pmi": 2.78505524309926,
+    "cooc_count": 5,
+    "unigram_w1": 32867,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "sommerspielen",
+    "pmi": 1.7713805235756472,
+    "cooc_count": 69,
+    "unigram_w1": 1249892,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "sommerspielen",
+    "pmi": 5.836048812344942,
+    "cooc_count": 18,
+    "unigram_w1": 5598,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "olympischen",
+    "w2": "sommerspielen",
+    "pmi": 7.674243236431915,
+    "cooc_count": 81,
+    "unigram_w1": 4008,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "sommerspielen",
+    "pmi": 1.6092899161796206,
+    "cooc_count": 127,
+    "unigram_w1": 2705342,
+    "unigram_w2": 175,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 4970,
+    "unigram_w1": 1375079,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 32867,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "männer",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 49576,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 505,
+    "unigram_w1": 137298,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 3434,
+    "unigram_w1": 1249892,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "statt",
+    "pmi": 0.8310257783178037,
+    "cooc_count": 104,
+    "unigram_w1": 12017,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "statt",
+    "pmi": 0.6840918127937639,
+    "cooc_count": 49,
+    "unigram_w1": 6558,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "statt",
+    "pmi": 0.8006954037223908,
+    "cooc_count": 47,
+    "unigram_w1": 5598,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "olympischen",
+    "w2": "statt",
+    "pmi": 0.2291038084894709,
+    "cooc_count": 19,
+    "unigram_w1": 4008,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "statt",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 70257,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 5765,
+    "unigram_w1": 2705342,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "statt",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 36122,
+    "unigram_w2": 70257,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 1213,
+    "unigram_w1": 1375079,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 970,
+    "unigram_w1": 1375079,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "des",
+    "pmi": 0.0,
+    "cooc_count": 3681,
+    "unigram_w1": 137298,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "des",
+    "pmi": 0.0,
+    "cooc_count": 56171,
+    "unigram_w1": 1249892,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "finale",
+    "pmi": 0.14106618172324217,
+    "cooc_count": 1021,
+    "unigram_w1": 1375079,
+    "unigram_w2": 12017,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "des",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 6558,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "des",
+    "pmi": 0.0,
+    "cooc_count": 387,
+    "unigram_w1": 5598,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "olympischen",
+    "pmi": 0.47176563540025257,
+    "cooc_count": 474,
+    "unigram_w1": 1375079,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 1732,
+    "unigram_w1": 1375079,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "des",
+    "pmi": 0.0,
+    "cooc_count": 159909,
+    "unigram_w1": 2705342,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 685,
+    "unigram_w1": 1375079,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 32867,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "meter",
+    "pmi": 2.115886644396029,
+    "cooc_count": 2009,
+    "unigram_w1": 137298,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 1002,
+    "unigram_w1": 1249892,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "meter",
+    "pmi": 1.4896204939473776,
+    "cooc_count": 94,
+    "unigram_w1": 12017,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "olympischen",
+    "pmi": 0.4422509346223434,
+    "cooc_count": 11,
+    "unigram_w1": 32867,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 32867,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 2530,
+    "unigram_w1": 2705342,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 36122,
+    "unigram_w2": 32867,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 313,
+    "unigram_w1": 137298,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 1598,
+    "unigram_w1": 1249892,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "männer",
+    "pmi": 0.0010238836941740162,
+    "cooc_count": 32,
+    "unigram_w1": 12017,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "männer",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 49576,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 2666,
+    "unigram_w1": 2705342,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "männer",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 36122,
+    "unigram_w2": 49576,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "bei",
+    "pmi": 0.0,
+    "cooc_count": 6352,
+    "unigram_w1": 137298,
+    "unigram_w2": 1249892,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 137298,
+    "unigram_w2": 12017,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 137298,
+    "unigram_w2": 6558,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 137298,
+    "unigram_w2": 5598,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "olympischen",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 137298,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 137298,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 6180,
+    "unigram_w1": 137298,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 137298,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 419,
+    "unigram_w1": 1249892,
+    "unigram_w2": 12017,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "bei",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 6558,
+    "unigram_w2": 1249892,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "bei",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 5598,
+    "unigram_w2": 1249892,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "olympischen",
+    "pmi": 1.3177596503888755,
+    "cooc_count": 1004,
+    "unigram_w1": 1249892,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 2069,
+    "unigram_w1": 1249892,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 175988,
+    "unigram_w1": 1249892,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 1369,
+    "unigram_w1": 1249892,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5598,
+    "unigram_w2": 12017,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "olympischen",
+    "pmi": 2.3827069729468944,
+    "cooc_count": 28,
+    "unigram_w1": 12017,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 1179,
+    "unigram_w1": 2705342,
+    "unigram_w2": 12017,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 12017,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 6558,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 313,
+    "unigram_w1": 6558,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "los",
+    "pmi": 6.123142560593999,
+    "cooc_count": 5800,
+    "unigram_w1": 6558,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "olympischen",
+    "pmi": 2.522465586709801,
+    "cooc_count": 15,
+    "unigram_w1": 5598,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 445,
+    "unigram_w1": 5598,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "los",
+    "pmi": 0.013700924187053423,
+    "cooc_count": 11,
+    "unigram_w1": 5598,
+    "unigram_w2": 36122,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "olympischen",
+    "pmi": 1.126601461802222,
+    "cooc_count": 1795,
+    "unigram_w1": 2705342,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "olympischen",
+    "pmi": 0.7225114009391626,
+    "cooc_count": 16,
+    "unigram_w1": 36122,
+    "unigram_w2": 4008,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 3404,
+    "unigram_w1": 2705342,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 36122,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 2642,
+    "unigram_w1": 2705342,
+    "unigram_w2": 36122,
+    "window_size": 10
+  }
+]

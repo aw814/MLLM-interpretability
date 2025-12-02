@@ -1,0 +1,1046 @@
+[
+  {
+    "w1": "in",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 185,
+    "unigram_w1": 217820,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 108533,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "nom",
+    "pmi": 0.3551996651703695,
+    "cooc_count": 247,
+    "unigram_w1": 35380,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "nom",
+    "pmi": 0.16629152224065086,
+    "cooc_count": 222,
+    "unigram_w1": 38411,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 3546,
+    "unigram_w1": 108533,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 133098,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 4927,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 17594,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 5977,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 128014,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 6325,
+    "unigram_w1": 108533,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "nom",
+    "pmi": 0.8407921138732588,
+    "cooc_count": 172,
+    "unigram_w1": 15160,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 14857,
+    "unigram_w1": 3640850,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 101,
+    "unigram_w1": 108533,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "that",
+    "pmi": 2.5687507220519414,
+    "cooc_count": 4691,
+    "unigram_w1": 217820,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "what",
+    "pmi": 2.1389892292580495,
+    "cooc_count": 941,
+    "unigram_w1": 217820,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "in",
+    "pmi": 0.08144175654535073,
+    "cooc_count": 377,
+    "unigram_w1": 35380,
+    "unigram_w2": 217820,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "lequel",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 217820,
+    "unigram_w2": 38411,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 8399,
+    "unigram_w1": 217820,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "is",
+    "pmi": 2.397503424502378,
+    "cooc_count": 14375,
+    "unigram_w1": 217820,
+    "unigram_w2": 133098,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "motion",
+    "pmi": 2.2073877011794596,
+    "cooc_count": 440,
+    "unigram_w1": 217820,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "love",
+    "pmi": 2.164997731358335,
+    "cooc_count": 1506,
+    "unigram_w1": 217820,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "in",
+    "pmi": 2.8047205594842906,
+    "cooc_count": 970,
+    "unigram_w1": 5977,
+    "unigram_w2": 217820,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "in",
+    "pmi": 2.2374469681364904,
+    "cooc_count": 11781,
+    "unigram_w1": 128014,
+    "unigram_w2": 217820,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 4622,
+    "unigram_w1": 217820,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "in",
+    "pmi": 0.17846642790683862,
+    "cooc_count": 178,
+    "unigram_w1": 15160,
+    "unigram_w2": 217820,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "in",
+    "pmi": 0.0,
+    "cooc_count": 4490,
+    "unigram_w1": 3640850,
+    "unigram_w2": 217820,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 133,
+    "unigram_w1": 217820,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 3.5634055476993254,
+    "cooc_count": 657,
+    "unigram_w1": 36598,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 35380,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 38411,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": 0.28684359428229284,
+    "cooc_count": 2737,
+    "unigram_w1": 1244878,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "that",
+    "pmi": 3.439060633390956,
+    "cooc_count": 6844,
+    "unigram_w1": 133098,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "that",
+    "pmi": 1.9296401045443472,
+    "cooc_count": 56,
+    "unigram_w1": 4927,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": 2.469191209706481,
+    "cooc_count": 343,
+    "unigram_w1": 17594,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "that",
+    "pmi": 1.9452064321261662,
+    "cooc_count": 69,
+    "unigram_w1": 5977,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": 2.6220999030858256,
+    "cooc_count": 2908,
+    "unigram_w1": 128014,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "sur",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 173,
+    "unigram_w1": 2220129,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "that",
+    "pmi": 0.2143455216419445,
+    "cooc_count": 31,
+    "unigram_w1": 15160,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 254,
+    "unigram_w1": 3640850,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "sortie",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 58574,
+    "unigram_w2": 36598,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "what",
+    "pmi": 0.8937580685068321,
+    "cooc_count": 44,
+    "unigram_w1": 35380,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 0.9310466769283128,
+    "cooc_count": 1607,
+    "unigram_w1": 1244878,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "what",
+    "pmi": 3.6540311369051475,
+    "cooc_count": 2616,
+    "unigram_w1": 133098,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "what",
+    "pmi": 1.7200421693736427,
+    "cooc_count": 14,
+    "unigram_w1": 4927,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": 2.8580131957392645,
+    "cooc_count": 156,
+    "unigram_w1": 17594,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "what",
+    "pmi": 2.6013684201824008,
+    "cooc_count": 41,
+    "unigram_w1": 5977,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 3.008962505962019,
+    "cooc_count": 1320,
+    "unigram_w1": 128014,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "sur",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 2220129,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "what",
+    "pmi": 1.946038789670259,
+    "cooc_count": 54,
+    "unigram_w1": 15160,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 222,
+    "unigram_w1": 3640850,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "sortie",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 58574,
+    "unigram_w2": 11283,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "lequel",
+    "pmi": 0.6967060812116378,
+    "cooc_count": 123,
+    "unigram_w1": 35380,
+    "unigram_w2": 38411,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 1167,
+    "unigram_w1": 35380,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "is",
+    "pmi": 0.3522069211275977,
+    "cooc_count": 302,
+    "unigram_w1": 35380,
+    "unigram_w2": 133098,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "motion",
+    "pmi": 2.097018402542726,
+    "cooc_count": 64,
+    "unigram_w1": 35380,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "love",
+    "pmi": 1.8582645188046079,
+    "cooc_count": 180,
+    "unigram_w1": 35380,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "heart",
+    "pmi": 1.8880815592942954,
+    "cooc_count": 63,
+    "unigram_w1": 35380,
+    "unigram_w2": 5977,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "for",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 35380,
+    "unigram_w2": 128014,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 3052,
+    "unigram_w1": 35380,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "chanson",
+    "pmi": 2.6193401914471433,
+    "cooc_count": 332,
+    "unigram_w1": 35380,
+    "unigram_w2": 15160,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 4017,
+    "unigram_w1": 35380,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "sortie",
+    "pmi": 2.2310679022751287,
+    "cooc_count": 870,
+    "unigram_w1": 35380,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "s",
+    "pmi": 0.011872768834465653,
+    "cooc_count": 2182,
+    "unigram_w1": 38411,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "lequel",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 133098,
+    "unigram_w2": 38411,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 38411,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "love",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 38411,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "lequel",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 128014,
+    "unigram_w2": 38411,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "sur",
+    "pmi": 0.7878610946173175,
+    "cooc_count": 8455,
+    "unigram_w1": 38411,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "lequel",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 15160,
+    "unigram_w2": 38411,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "lequel",
+    "pmi": 0.038374203756783534,
+    "cooc_count": 6553,
+    "unigram_w1": 3640850,
+    "unigram_w2": 38411,
+    "window_size": 10
+  },
+  {
+    "w1": "lequel",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 38411,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 3710,
+    "unigram_w1": 133098,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 4927,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 815,
+    "unigram_w1": 17594,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 228,
+    "unigram_w1": 5977,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 4628,
+    "unigram_w1": 128014,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 79517,
+    "unigram_w1": 1244878,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 570,
+    "unigram_w1": 15160,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 203387,
+    "unigram_w1": 3640850,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 1582,
+    "unigram_w1": 1244878,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "motion",
+    "pmi": 0.8758761859638566,
+    "cooc_count": 71,
+    "unigram_w1": 133098,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "love",
+    "pmi": 2.204172049106839,
+    "cooc_count": 957,
+    "unigram_w1": 133098,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "is",
+    "pmi": 2.1976601458649068,
+    "cooc_count": 323,
+    "unigram_w1": 5977,
+    "unigram_w2": 133098,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "is",
+    "pmi": 3.001604213698078,
+    "cooc_count": 15457,
+    "unigram_w1": 128014,
+    "unigram_w2": 133098,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 1704,
+    "unigram_w1": 133098,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "is",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 15160,
+    "unigram_w2": 133098,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "is",
+    "pmi": 0.0,
+    "cooc_count": 1678,
+    "unigram_w1": 3640850,
+    "unigram_w2": 133098,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 133098,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 17594,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "motion",
+    "pmi": 1.4561634197093418,
+    "cooc_count": 122,
+    "unigram_w1": 128014,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 305,
+    "unigram_w1": 4927,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "motion",
+    "pmi": 0.5773810969285226,
+    "cooc_count": 6,
+    "unigram_w1": 15160,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 347,
+    "unigram_w1": 3640850,
+    "unigram_w2": 4927,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 4927,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "love",
+    "pmi": 2.909443705458503,
+    "cooc_count": 87,
+    "unigram_w1": 5977,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": 2.1772551366823594,
+    "cooc_count": 896,
+    "unigram_w1": 128014,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 667,
+    "unigram_w1": 17594,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "love",
+    "pmi": 2.2577261047950614,
+    "cooc_count": 115,
+    "unigram_w1": 15160,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "love",
+    "pmi": 0.0,
+    "cooc_count": 838,
+    "unigram_w1": 3640850,
+    "unigram_w2": 17594,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 17594,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "heart",
+    "pmi": 1.5465502239281783,
+    "cooc_count": 162,
+    "unigram_w1": 128014,
+    "unigram_w2": 5977,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 5977,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "heart",
+    "pmi": 2.2300193011465623,
+    "cooc_count": 38,
+    "unigram_w1": 15160,
+    "unigram_w2": 5977,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "heart",
+    "pmi": 0.0,
+    "cooc_count": 197,
+    "unigram_w1": 3640850,
+    "unigram_w2": 5977,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 5977,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 2366,
+    "unigram_w1": 128014,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "for",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 15160,
+    "unigram_w2": 128014,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "for",
+    "pmi": 0.0,
+    "cooc_count": 1679,
+    "unigram_w1": 3640850,
+    "unigram_w2": 128014,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 128014,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 1250,
+    "unigram_w1": 15160,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 185230,
+    "unigram_w1": 3640850,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "sortie",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 3648,
+    "unigram_w1": 58574,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 2123,
+    "unigram_w1": 15160,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "chanson",
+    "w2": "sortie",
+    "pmi": 0.16020860085397176,
+    "cooc_count": 47,
+    "unigram_w1": 15160,
+    "unigram_w2": 58574,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "sortie",
+    "pmi": 0.0,
+    "cooc_count": 5883,
+    "unigram_w1": 3640850,
+    "unigram_w2": 58574,
+    "window_size": 10
+  }
+]

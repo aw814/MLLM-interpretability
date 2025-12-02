@@ -1,0 +1,614 @@
+[
+  {
+    "w1": "guerra",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 637,
+    "unigram_w1": 36886,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "joseph",
+    "pmi": 1.14274401605895,
+    "cooc_count": 25,
+    "unigram_w1": 36886,
+    "unigram_w2": 3059,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "guerra",
+    "pmi": 0.6737064644136287,
+    "cooc_count": 46,
+    "unigram_w1": 8997,
+    "unigram_w2": 36886,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "segunda",
+    "pmi": 2.6161776604647087,
+    "cooc_count": 3705,
+    "unigram_w1": 36886,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 1631,
+    "unigram_w1": 642224,
+    "unigram_w2": 36886,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "mundial",
+    "pmi": 3.641099302053082,
+    "cooc_count": 5558,
+    "unigram_w1": 36886,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "guerra",
+    "pmi": 1.4911454646123772,
+    "cooc_count": 1642,
+    "unigram_w1": 141809,
+    "unigram_w2": 36886,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "posição",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 36886,
+    "unigram_w2": 34018,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "guerra",
+    "pmi": 0.20695726157008215,
+    "cooc_count": 528,
+    "unigram_w1": 164695,
+    "unigram_w2": 36886,
+    "window_size": 10
+  },
+  {
+    "w1": "artilheiro",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 1890,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 3059,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "quando",
+    "pmi": 0.030291290307491205,
+    "cooc_count": 223,
+    "unigram_w1": 8997,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "abatido",
+    "w2": "quando",
+    "pmi": 0.40416985062588756,
+    "cooc_count": 25,
+    "unigram_w1": 694,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "traseiro",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 340283,
+    "unigram_w2": 4731,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 1301,
+    "unigram_w1": 340283,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "quando",
+    "pmi": 0.13639347335181226,
+    "cooc_count": 17700,
+    "unigram_w1": 642224,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2522,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "mundial",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 466,
+    "unigram_w1": 55916,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 1922,
+    "unigram_w1": 141809,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "posição",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 689,
+    "unigram_w1": 34018,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "quando",
+    "pmi": 0.7711213038128514,
+    "cooc_count": 8563,
+    "unigram_w1": 164695,
+    "unigram_w2": 340283,
+    "window_size": 10
+  },
+  {
+    "w1": "abatido",
+    "w2": "artilheiro",
+    "pmi": 3.7647891821438018,
+    "cooc_count": 4,
+    "unigram_w1": 694,
+    "unigram_w2": 1890,
+    "window_size": 10
+  },
+  {
+    "w1": "artilheiro",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1890,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "artilheiro",
+    "w2": "foi",
+    "pmi": 1.2944775405962696,
+    "cooc_count": 313,
+    "unigram_w1": 1890,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "artilheiro",
+    "w2": "mundial",
+    "pmi": 0.47426758772769695,
+    "cooc_count": 12,
+    "unigram_w1": 1890,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "artilheiro",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1890,
+    "unigram_w2": 141809,
+    "window_size": 10
+  },
+  {
+    "w1": "artilheiro",
+    "w2": "era",
+    "pmi": 0.5979956781668202,
+    "cooc_count": 40,
+    "unigram_w1": 1890,
+    "unigram_w2": 164695,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 3059,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "joseph",
+    "pmi": 0.13566731617913236,
+    "cooc_count": 159,
+    "unigram_w1": 642224,
+    "unigram_w2": 3059,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "joseph",
+    "pmi": 2.216085941342736,
+    "cooc_count": 5,
+    "unigram_w1": 2522,
+    "unigram_w2": 3059,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 3059,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 141809,
+    "unigram_w2": 3059,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "joseph",
+    "pmi": 0.0651911476820543,
+    "cooc_count": 38,
+    "unigram_w1": 164695,
+    "unigram_w2": 3059,
+    "window_size": 10
+  },
+  {
+    "w1": "abatido",
+    "w2": "avião",
+    "pmi": 4.788472375212602,
+    "cooc_count": 53,
+    "unigram_w1": 694,
+    "unigram_w2": 8997,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 8997,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "foi",
+    "pmi": 0.0,
+    "cooc_count": 322,
+    "unigram_w1": 8997,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 8997,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 8997,
+    "unigram_w2": 141809,
+    "window_size": 10
+  },
+  {
+    "w1": "avião",
+    "w2": "era",
+    "pmi": 0.6114920535943386,
+    "cooc_count": 193,
+    "unigram_w1": 8997,
+    "unigram_w2": 164695,
+    "window_size": 10
+  },
+  {
+    "w1": "abatido",
+    "w2": "segunda",
+    "pmi": 0.4512960581503041,
+    "cooc_count": 8,
+    "unigram_w1": 694,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "abatido",
+    "w2": "foi",
+    "pmi": 0.9445836522754387,
+    "cooc_count": 81,
+    "unigram_w1": 694,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "abatido",
+    "w2": "durante",
+    "pmi": 0.45848584113432095,
+    "cooc_count": 11,
+    "unigram_w1": 694,
+    "unigram_w2": 141809,
+    "window_size": 10
+  },
+  {
+    "w1": "segunda",
+    "w2": "traseiro",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 103878,
+    "unigram_w2": 4731,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "traseiro",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 642224,
+    "unigram_w2": 4731,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "traseiro",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 141809,
+    "unigram_w2": 4731,
+    "window_size": 10
+  },
+  {
+    "w1": "posição",
+    "w2": "traseiro",
+    "pmi": 0.4019752827354349,
+    "cooc_count": 17,
+    "unigram_w1": 34018,
+    "unigram_w2": 4731,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "traseiro",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 164695,
+    "unigram_w2": 4731,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "segunda",
+    "pmi": 0.08780334515542779,
+    "cooc_count": 5147,
+    "unigram_w1": 642224,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 2522,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "mundial",
+    "w2": "segunda",
+    "pmi": 1.980047456384351,
+    "cooc_count": 2973,
+    "unigram_w1": 55916,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "segunda",
+    "pmi": 0.48693799144762334,
+    "cooc_count": 1694,
+    "unigram_w1": 141809,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "posição",
+    "w2": "segunda",
+    "pmi": 1.3382464364946012,
+    "cooc_count": 952,
+    "unigram_w1": 34018,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 640,
+    "unigram_w1": 164695,
+    "unigram_w2": 103878,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "foi",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 2522,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 1767,
+    "unigram_w1": 642224,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "foi",
+    "pmi": 0.24833857669688209,
+    "cooc_count": 8250,
+    "unigram_w1": 141809,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "posição",
+    "pmi": 0.0,
+    "cooc_count": 764,
+    "unigram_w1": 642224,
+    "unigram_w2": 34018,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "foi",
+    "pmi": 0.0,
+    "cooc_count": 5329,
+    "unigram_w1": 164695,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 2522,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2522,
+    "unigram_w2": 141809,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "posição",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2522,
+    "unigram_w2": 34018,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 2522,
+    "unigram_w2": 164695,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "mundial",
+    "pmi": 0.5901519042722071,
+    "cooc_count": 1011,
+    "unigram_w1": 141809,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "mundial",
+    "w2": "posição",
+    "pmi": 0.6558760324188854,
+    "cooc_count": 259,
+    "unigram_w1": 55916,
+    "unigram_w2": 34018,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 314,
+    "unigram_w1": 164695,
+    "unigram_w2": 55916,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "posição",
+    "pmi": 0.0,
+    "cooc_count": 219,
+    "unigram_w1": 141809,
+    "unigram_w2": 34018,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 1152,
+    "unigram_w1": 141809,
+    "unigram_w2": 164695,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "posição",
+    "pmi": 0.0,
+    "cooc_count": 219,
+    "unigram_w1": 164695,
+    "unigram_w2": 34018,
+    "window_size": 10
+  }
+]

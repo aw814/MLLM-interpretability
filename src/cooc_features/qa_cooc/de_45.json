@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "1941",
+    "w2": "hieß",
+    "pmi": 1.2621036749964727,
+    "cooc_count": 4,
+    "unigram_w1": 2053,
+    "unigram_w2": 10278,
+    "window_size": 10
+  },
+  {
+    "w1": "hieß",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 477,
+    "unigram_w1": 10278,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "gebiet",
+    "w2": "hieß",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 17124,
+    "unigram_w2": 10278,
+    "window_size": 10
+  },
+  {
+    "w1": "crossing",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 495,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "crossing",
+    "w2": "gebiet",
+    "pmi": 1.4809808491741088,
+    "cooc_count": 2,
+    "unigram_w1": 495,
+    "unigram_w2": 17124,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "errichtete",
+    "pmi": 4.031278998426066,
+    "cooc_count": 7,
+    "unigram_w1": 2053,
+    "unigram_w2": 1128,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2053,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "errichtete",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1128,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "gebiet",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 365,
+    "unigram_w1": 17124,
+    "unigram_w2": 946950,
+    "window_size": 10
+  }
+]

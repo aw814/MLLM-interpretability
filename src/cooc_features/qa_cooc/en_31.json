@@ -1,0 +1,218 @@
+[
+  {
+    "w1": "first",
+    "w2": "merit",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 435341,
+    "unigram_w2": 2713,
+    "window_size": 10
+  },
+  {
+    "w1": "merit",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 2713,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "award",
+    "w2": "merit",
+    "pmi": 3.548126845995392,
+    "cooc_count": 156,
+    "unigram_w1": 34743,
+    "unigram_w2": 2713,
+    "window_size": 10
+  },
+  {
+    "w1": "merit",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 2713,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "first",
+    "pmi": 0.0016777244947612413,
+    "cooc_count": 150,
+    "unigram_w1": 7222,
+    "unigram_w2": 435341,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 7222,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "nih",
+    "pmi": 1.9134704224918537,
+    "cooc_count": 4,
+    "unigram_w1": 7222,
+    "unigram_w2": 1716,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "award",
+    "pmi": 1.2803940652609458,
+    "cooc_count": 43,
+    "unigram_w1": 7222,
+    "unigram_w2": 34743,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "year",
+    "pmi": 0.08694182600992569,
+    "cooc_count": 129,
+    "unigram_w1": 7222,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "created",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 7222,
+    "unigram_w2": 56204,
+    "window_size": 10
+  },
+  {
+    "w1": "first",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 6555,
+    "unigram_w1": 435341,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "first",
+    "w2": "nih",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 435341,
+    "unigram_w2": 1716,
+    "window_size": 10
+  },
+  {
+    "w1": "award",
+    "w2": "first",
+    "pmi": 0.0,
+    "cooc_count": 537,
+    "unigram_w1": 34743,
+    "unigram_w2": 435341,
+    "window_size": 10
+  },
+  {
+    "w1": "first",
+    "w2": "year",
+    "pmi": 0.3997553128573728,
+    "cooc_count": 10632,
+    "unigram_w1": 435341,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "first",
+    "pmi": 0.0,
+    "cooc_count": 826,
+    "unigram_w1": 56204,
+    "unigram_w2": 435341,
+    "window_size": 10
+  },
+  {
+    "w1": "nih",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1716,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "award",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 34743,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 3920,
+    "unigram_w1": 625314,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 708,
+    "unigram_w1": 56204,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "award",
+    "w2": "nih",
+    "pmi": 1.3542251441552493,
+    "cooc_count": 11,
+    "unigram_w1": 34743,
+    "unigram_w2": 1716,
+    "window_size": 10
+  },
+  {
+    "w1": "nih",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1716,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "award",
+    "w2": "year",
+    "pmi": 1.291587117892584,
+    "cooc_count": 2070,
+    "unigram_w1": 34743,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "award",
+    "w2": "created",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 34743,
+    "unigram_w2": 56204,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 272,
+    "unigram_w1": 56204,
+    "unigram_w2": 343794,
+    "window_size": 10
+  }
+]

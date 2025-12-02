@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "berlokasi",
+    "w2": "negara",
+    "pmi": 0.6176058849891105,
+    "cooc_count": 186,
+    "unigram_w1": 7203,
+    "unigram_w2": 214549,
+    "window_size": 10
+  },
+  {
+    "w1": "berlokasi",
+    "w2": "jerman",
+    "pmi": 0.5687543061026415,
+    "cooc_count": 21,
+    "unigram_w1": 7203,
+    "unigram_w2": 25436,
+    "window_size": 10
+  },
+  {
+    "w1": "jerman",
+    "w2": "negara",
+    "pmi": 1.1341654605006537,
+    "cooc_count": 1101,
+    "unigram_w1": 25436,
+    "unigram_w2": 214549,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "w1": "3",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 38730,
+    "unigram_w1": 667631,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "mois",
+    "pmi": 0.012736578789292855,
+    "cooc_count": 24457,
+    "unigram_w1": 2730698,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "lieu",
+    "pmi": 0.2431333069245369,
+    "cooc_count": 19944,
+    "unigram_w1": 2730698,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "eu",
+    "pmi": 1.0415758005689197,
+    "cooc_count": 43308,
+    "unigram_w1": 2730698,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 77721,
+    "unigram_w1": 1080970,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "festa",
+    "pmi": 0.44447103047548436,
+    "cooc_count": 29,
+    "unigram_w1": 2730698,
+    "unigram_w2": 151,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "mars",
+    "pmi": 0.0,
+    "cooc_count": 9442,
+    "unigram_w1": 2730698,
+    "unigram_w2": 137144,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 2050,
+    "unigram_w1": 2730698,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "k",
+    "pmi": 0.002567279785345332,
+    "cooc_count": 5210,
+    "unigram_w1": 2730698,
+    "unigram_w2": 42202,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "mois",
+    "pmi": 0.845072134346828,
+    "cooc_count": 13745,
+    "unigram_w1": 667631,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 1751,
+    "unigram_w1": 667631,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 1740,
+    "unigram_w1": 667631,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "3",
+    "pmi": 1.1508061636474045,
+    "cooc_count": 102862,
+    "unigram_w1": 1080970,
+    "unigram_w2": 667631,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "mars",
+    "pmi": 0.28127909248674465,
+    "cooc_count": 5470,
+    "unigram_w1": 667631,
+    "unigram_w2": 137144,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 143,
+    "unigram_w1": 667631,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "k",
+    "pmi": 0.4754730038156276,
+    "cooc_count": 2044,
+    "unigram_w1": 667631,
+    "unigram_w2": 42202,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "mois",
+    "pmi": 0.0,
+    "cooc_count": 1089,
+    "unigram_w1": 127008,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "mois",
+    "pmi": 0.0,
+    "cooc_count": 833,
+    "unigram_w1": 124116,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "mois",
+    "pmi": 0.32038415598561776,
+    "cooc_count": 13169,
+    "unigram_w1": 1080970,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "festa",
+    "w2": "mois",
+    "pmi": 0.4039999821752616,
+    "cooc_count": 2,
+    "unigram_w1": 151,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "mars",
+    "w2": "mois",
+    "pmi": 1.0070659526534578,
+    "cooc_count": 3320,
+    "unigram_w1": 137144,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "mois",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 196102,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "mois",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 42202,
+    "unigram_w2": 196102,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "lieu",
+    "pmi": 2.738832451977334,
+    "cooc_count": 10996,
+    "unigram_w1": 124116,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 2254,
+    "unigram_w1": 1080970,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "mars",
+    "pmi": 0.4112287997399163,
+    "cooc_count": 1185,
+    "unigram_w1": 127008,
+    "unigram_w2": 137144,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "événement",
+    "pmi": 0.9453447229376838,
+    "cooc_count": 454,
+    "unigram_w1": 127008,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 42202,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 1762,
+    "unigram_w1": 1080970,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "mars",
+    "pmi": 0.0,
+    "cooc_count": 397,
+    "unigram_w1": 124116,
+    "unigram_w2": 137144,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 144,
+    "unigram_w1": 124116,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "k",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 124116,
+    "unigram_w2": 42202,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "mars",
+    "pmi": 0.06260832489790437,
+    "cooc_count": 7117,
+    "unigram_w1": 1080970,
+    "unigram_w2": 137144,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 153,
+    "unigram_w1": 1080970,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "k",
+    "pmi": 0.6293530754788248,
+    "cooc_count": 3860,
+    "unigram_w1": 1080970,
+    "unigram_w2": 42202,
+    "window_size": 10
+  },
+  {
+    "w1": "mars",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 127,
+    "unigram_w1": 137144,
+    "unigram_w2": 30800,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "mars",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 42202,
+    "unigram_w2": 137144,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "événement",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 42202,
+    "unigram_w2": 30800,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,1496 @@
+[
+  {
+    "w1": "dynamics",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 488,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 488,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "dynamics",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 454697,
+    "unigram_w2": 488,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 488,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "dynamics",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 995165,
+    "unigram_w2": 488,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 1848,
+    "unigram_w1": 235066,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 2698,
+    "unigram_w1": 454697,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 22515,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 29991,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 235066,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 30553,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "jenis",
+    "pmi": 0.019667652199614208,
+    "cooc_count": 5547,
+    "unigram_w1": 356514,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 16948,
+    "unigram_w1": 1714536,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "wim",
+    "pmi": 0.03061978778610421,
+    "cooc_count": 7,
+    "unigram_w1": 235066,
+    "unigram_w2": 445,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 11931,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 143,
+    "unigram_w1": 33636,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "jenis",
+    "pmi": 0.07506836583998745,
+    "cooc_count": 1700,
+    "unigram_w1": 103373,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 38045,
+    "unigram_w1": 235066,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 235066,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 235066,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "jenis",
+    "pmi": 0.7088738866453925,
+    "cooc_count": 1127,
+    "unigram_w1": 36360,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "kendaraan",
+    "pmi": 0.5622725335012043,
+    "cooc_count": 1500,
+    "unigram_w1": 235066,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 12785,
+    "unigram_w1": 995165,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 3722,
+    "unigram_w1": 454697,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 22515,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 306,
+    "unigram_w1": 29991,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 14358,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 223,
+    "unigram_w1": 30553,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 2392,
+    "unigram_w1": 356514,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "sistem",
+    "pmi": 0.5361783821458769,
+    "cooc_count": 69930,
+    "unigram_w1": 1714536,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 11931,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 181,
+    "unigram_w1": 33636,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 517,
+    "unigram_w1": 103373,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "sistem",
+    "w2": "untuk",
+    "pmi": 0.05905300279889863,
+    "cooc_count": 81698,
+    "unigram_w1": 367627,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "memastikan",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 576,
+    "unigram_w1": 43670,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "sistem",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 104,
+    "unigram_w1": 367627,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 36360,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "kendaraan",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 710,
+    "unigram_w1": 56035,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "penimbangan",
+    "w2": "sistem",
+    "pmi": 0.6515565287882933,
+    "cooc_count": 13,
+    "unigram_w1": 284,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "sistem",
+    "pmi": 0.0,
+    "cooc_count": 22618,
+    "unigram_w1": 995165,
+    "unigram_w2": 367627,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 454697,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "batas",
+    "pmi": 0.0,
+    "cooc_count": 551,
+    "unigram_w1": 454697,
+    "unigram_w2": 29991,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 454697,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "diterima",
+    "pmi": 0.072065436060935,
+    "cooc_count": 969,
+    "unigram_w1": 454697,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "bahwa",
+    "pmi": 0.0,
+    "cooc_count": 5961,
+    "unigram_w1": 356514,
+    "unigram_w2": 454697,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 36969,
+    "unigram_w1": 454697,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "wim",
+    "pmi": 0.06400203107032429,
+    "cooc_count": 14,
+    "unigram_w1": 454697,
+    "unigram_w2": 445,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "berangkat",
+    "pmi": 0.0,
+    "cooc_count": 210,
+    "unigram_w1": 454697,
+    "unigram_w2": 11931,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 709,
+    "unigram_w1": 454697,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "berat",
+    "pmi": 0.0,
+    "cooc_count": 1496,
+    "unigram_w1": 454697,
+    "unigram_w2": 103373,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 56498,
+    "unigram_w1": 454697,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "memastikan",
+    "pmi": 2.1557322032993995,
+    "cooc_count": 11127,
+    "unigram_w1": 454697,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 454697,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "disediakan",
+    "pmi": 0.0,
+    "cooc_count": 244,
+    "unigram_w1": 454697,
+    "unigram_w2": 36360,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 634,
+    "unigram_w1": 454697,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "bahwa",
+    "w2": "dapat",
+    "pmi": 0.13917973332216177,
+    "cooc_count": 33753,
+    "unigram_w1": 454697,
+    "unigram_w2": 995165,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 29991,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "road",
+    "pmi": 0.32370176577025345,
+    "cooc_count": 29,
+    "unigram_w1": 22515,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 30553,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 356514,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 1312,
+    "unigram_w1": 1714536,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 11931,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 33636,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 103373,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 1402,
+    "unigram_w1": 22515,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 22515,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "terminal",
+    "pmi": 2.001259848401828,
+    "cooc_count": 134,
+    "unigram_w1": 22515,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 36360,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 22515,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 208,
+    "unigram_w1": 995165,
+    "unigram_w2": 22515,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "diterima",
+    "pmi": 0.5492637387990883,
+    "cooc_count": 103,
+    "unigram_w1": 29991,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "batas",
+    "pmi": 0.0,
+    "cooc_count": 353,
+    "unigram_w1": 356514,
+    "unigram_w2": 29991,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 3221,
+    "unigram_w1": 29991,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "berangkat",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 29991,
+    "unigram_w2": 11931,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 29991,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "berat",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 29991,
+    "unigram_w2": 103373,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 4339,
+    "unigram_w1": 29991,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "memastikan",
+    "pmi": 0.023244382195566578,
+    "cooc_count": 87,
+    "unigram_w1": 29991,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "terminal",
+    "pmi": 1.2355450733478965,
+    "cooc_count": 83,
+    "unigram_w1": 29991,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "disediakan",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 29991,
+    "unigram_w2": 36360,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 29991,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "batas",
+    "w2": "dapat",
+    "pmi": 0.0,
+    "cooc_count": 1313,
+    "unigram_w1": 29991,
+    "unigram_w2": 995165,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 356514,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 476,
+    "unigram_w1": 1714536,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "road",
+    "pmi": 0.23050496425890987,
+    "cooc_count": 14,
+    "unigram_w1": 11931,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 33636,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 103373,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 1065,
+    "unigram_w1": 14358,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "memastikan",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 43670,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 14358,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 36360,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "kendaraan",
+    "w2": "road",
+    "pmi": 1.0004382516345838,
+    "cooc_count": 142,
+    "unigram_w1": 56035,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 995165,
+    "unigram_w2": 14358,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "diterima",
+    "pmi": 0.0,
+    "cooc_count": 573,
+    "unigram_w1": 356514,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "diterima",
+    "pmi": 0.0,
+    "cooc_count": 3107,
+    "unigram_w1": 1714536,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "diterima",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 11931,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 30553,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "diterima",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 103373,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 3345,
+    "unigram_w1": 30553,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "memastikan",
+    "pmi": 0.1538912365663956,
+    "cooc_count": 101,
+    "unigram_w1": 30553,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 30553,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "diterima",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 36360,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "diterima",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 30553,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "diterima",
+    "pmi": 0.6468231703626711,
+    "cooc_count": 3768,
+    "unigram_w1": 995165,
+    "unigram_w2": 30553,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 23173,
+    "unigram_w1": 356514,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "berangkat",
+    "pmi": 0.0,
+    "cooc_count": 125,
+    "unigram_w1": 356514,
+    "unigram_w2": 11931,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 331,
+    "unigram_w1": 356514,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "berat",
+    "pmi": 0.0,
+    "cooc_count": 1134,
+    "unigram_w1": 356514,
+    "unigram_w2": 103373,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 62568,
+    "unigram_w1": 356514,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 544,
+    "unigram_w1": 356514,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 356514,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "disediakan",
+    "pmi": 0.0,
+    "cooc_count": 348,
+    "unigram_w1": 356514,
+    "unigram_w2": 36360,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 416,
+    "unigram_w1": 356514,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "dapat",
+    "pmi": 0.0,
+    "cooc_count": 16483,
+    "unigram_w1": 356514,
+    "unigram_w2": 995165,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "wim",
+    "pmi": 0.25656127880931295,
+    "cooc_count": 64,
+    "unigram_w1": 1714536,
+    "unigram_w2": 445,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 401,
+    "unigram_w1": 11931,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "gerakan",
+    "pmi": 0.016471546958879122,
+    "cooc_count": 3805,
+    "unigram_w1": 1714536,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 8819,
+    "unigram_w1": 103373,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 231011,
+    "unigram_w1": 1714536,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 3086,
+    "unigram_w1": 1714536,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 572,
+    "unigram_w1": 1714536,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "disediakan",
+    "pmi": 0.0,
+    "cooc_count": 2014,
+    "unigram_w1": 1714536,
+    "unigram_w2": 36360,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 3378,
+    "unigram_w1": 1714536,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "penimbangan",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 1714536,
+    "unigram_w2": 284,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "dapat",
+    "pmi": 0.0,
+    "cooc_count": 96850,
+    "unigram_w1": 1714536,
+    "unigram_w2": 995165,
+    "window_size": 10
+  },
+  {
+    "w1": "untuk",
+    "w2": "wim",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 3227806,
+    "unigram_w2": 445,
+    "window_size": 10
+  },
+  {
+    "w1": "memastikan",
+    "w2": "wim",
+    "pmi": 2.5405033192498143,
+    "cooc_count": 16,
+    "unigram_w1": 43670,
+    "unigram_w2": 445,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "wim",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 995165,
+    "unigram_w2": 445,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 11931,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "berat",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 11931,
+    "unigram_w2": 103373,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 2224,
+    "unigram_w1": 11931,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "memastikan",
+    "pmi": 0.06261248375658285,
+    "cooc_count": 36,
+    "unigram_w1": 11931,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "terminal",
+    "pmi": 3.291421332232406,
+    "cooc_count": 258,
+    "unigram_w1": 11931,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "kendaraan",
+    "pmi": 0.762377910447207,
+    "cooc_count": 93,
+    "unigram_w1": 11931,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "berangkat",
+    "w2": "dapat",
+    "pmi": 0.0,
+    "cooc_count": 290,
+    "unigram_w1": 11931,
+    "unigram_w2": 995165,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 172,
+    "unigram_w1": 103373,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 5053,
+    "unigram_w1": 33636,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 33636,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 33636,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "gerakan",
+    "w2": "kendaraan",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 33636,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "gerakan",
+    "pmi": 0.0,
+    "cooc_count": 1331,
+    "unigram_w1": 995165,
+    "unigram_w2": 33636,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 20463,
+    "unigram_w1": 103373,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 103373,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 103373,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "disediakan",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 103373,
+    "unigram_w2": 36360,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "kendaraan",
+    "pmi": 0.4970631235260908,
+    "cooc_count": 618,
+    "unigram_w1": 103373,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "penimbangan",
+    "pmi": 3.205479804103381,
+    "cooc_count": 47,
+    "unigram_w1": 103373,
+    "unigram_w2": 284,
+    "window_size": 10
+  },
+  {
+    "w1": "berat",
+    "w2": "dapat",
+    "pmi": 0.0,
+    "cooc_count": 5528,
+    "unigram_w1": 103373,
+    "unigram_w2": 995165,
+    "window_size": 10
+  },
+  {
+    "w1": "memastikan",
+    "w2": "untuk",
+    "pmi": 0.7552030426962567,
+    "cooc_count": 19468,
+    "unigram_w1": 43670,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "terminal",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 1435,
+    "unigram_w1": 12395,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "untuk",
+    "pmi": 0.1260256317292048,
+    "cooc_count": 8640,
+    "unigram_w1": 36360,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "kendaraan",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 11392,
+    "unigram_w1": 56035,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "penimbangan",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 284,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 163021,
+    "unigram_w1": 995165,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "memastikan",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 43670,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "memastikan",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 36360,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "kendaraan",
+    "w2": "memastikan",
+    "pmi": 0.6327006780808312,
+    "cooc_count": 299,
+    "unigram_w1": 56035,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "memastikan",
+    "pmi": 0.08671037826348237,
+    "cooc_count": 3076,
+    "unigram_w1": 995165,
+    "unigram_w2": 43670,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 36360,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "kendaraan",
+    "w2": "terminal",
+    "pmi": 1.504831285742248,
+    "cooc_count": 203,
+    "unigram_w1": 56035,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "terminal",
+    "pmi": 0.0,
+    "cooc_count": 348,
+    "unigram_w1": 995165,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "kendaraan",
+    "pmi": 0.02072398131676585,
+    "cooc_count": 135,
+    "unigram_w1": 36360,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "disediakan",
+    "w2": "penimbangan",
+    "pmi": 1.0933539197632038,
+    "cooc_count": 2,
+    "unigram_w1": 36360,
+    "unigram_w2": 284,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "disediakan",
+    "pmi": 0.0,
+    "cooc_count": 1459,
+    "unigram_w1": 995165,
+    "unigram_w2": 36360,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "kendaraan",
+    "pmi": 0.06235769254944213,
+    "cooc_count": 3852,
+    "unigram_w1": 995165,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "dapat",
+    "w2": "penimbangan",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 995165,
+    "unigram_w2": 284,
+    "window_size": 10
+  }
+]

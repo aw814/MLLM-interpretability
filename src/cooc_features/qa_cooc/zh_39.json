@@ -1,0 +1,353 @@
+[
+  {
+    "w1": "从",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 284,
+    "unigram_w1": 305264,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 16513,
+    "unigram_w1": 305264,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "计入",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 305264,
+    "unigram_w2": 893,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "单",
+    "pmi": 0.0,
+    "cooc_count": 299,
+    "unigram_w1": 305264,
+    "unigram_w2": 15446,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "开始",
+    "pmi": 1.878523351256865,
+    "cooc_count": 16319,
+    "unigram_w1": 305264,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "职业生涯",
+    "pmi": 0.7648259343960014,
+    "cooc_count": 100,
+    "unigram_w1": 305264,
+    "unigram_w2": 2219,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "统计",
+    "pmi": 0.0,
+    "cooc_count": 325,
+    "unigram_w1": 305264,
+    "unigram_w2": 20547,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "赛季",
+    "pmi": 0.21384664281074758,
+    "cooc_count": 349,
+    "unigram_w1": 305264,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "从",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 11009,
+    "unigram_w2": 305264,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "年代",
+    "pmi": 1.0731771352184534,
+    "cooc_count": 1076,
+    "unigram_w1": 305264,
+    "unigram_w2": 17541,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 4676,
+    "unigram_w1": 1514452,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "单",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 15446,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 83,
+    "unigram_w1": 57949,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "统计",
+    "pmi": 0.33180955847246224,
+    "cooc_count": 114,
+    "unigram_w1": 57949,
+    "unigram_w2": 20547,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 11009,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "年代",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 57949,
+    "unigram_w2": 17541,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "计入",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 1514452,
+    "unigram_w2": 893,
+    "window_size": 10
+  },
+  {
+    "w1": "单",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 974,
+    "unigram_w1": 15446,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 5589,
+    "unigram_w1": 1514452,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "职业生涯",
+    "pmi": 0.26513405280496233,
+    "cooc_count": 301,
+    "unigram_w1": 1514452,
+    "unigram_w2": 2219,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "统计",
+    "pmi": 0.0,
+    "cooc_count": 1775,
+    "unigram_w1": 1514452,
+    "unigram_w2": 20547,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 525,
+    "unigram_w1": 1514452,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 11009,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "年代",
+    "pmi": 0.0,
+    "cooc_count": 1077,
+    "unigram_w1": 1514452,
+    "unigram_w2": 17541,
+    "window_size": 10
+  },
+  {
+    "w1": "开始",
+    "w2": "计入",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 118899,
+    "unigram_w2": 893,
+    "window_size": 10
+  },
+  {
+    "w1": "统计",
+    "w2": "计入",
+    "pmi": 3.379261034209306,
+    "cooc_count": 37,
+    "unigram_w1": 20547,
+    "unigram_w2": 893,
+    "window_size": 10
+  },
+  {
+    "w1": "单",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 15446,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "单",
+    "w2": "统计",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 15446,
+    "unigram_w2": 20547,
+    "window_size": 10
+  },
+  {
+    "w1": "单",
+    "w2": "赛季",
+    "pmi": 2.1383921720429444,
+    "cooc_count": 121,
+    "unigram_w1": 15446,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "开始",
+    "w2": "职业生涯",
+    "pmi": 1.48458496583431,
+    "cooc_count": 80,
+    "unigram_w1": 118899,
+    "unigram_w2": 2219,
+    "window_size": 10
+  },
+  {
+    "w1": "开始",
+    "w2": "统计",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 118899,
+    "unigram_w2": 20547,
+    "window_size": 10
+  },
+  {
+    "w1": "开始",
+    "w2": "赛季",
+    "pmi": 1.2754869152301,
+    "cooc_count": 393,
+    "unigram_w1": 118899,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "开始",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 11009,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "年代",
+    "w2": "开始",
+    "pmi": 1.3079509837954097,
+    "cooc_count": 530,
+    "unigram_w1": 17541,
+    "unigram_w2": 118899,
+    "window_size": 10
+  },
+  {
+    "w1": "统计",
+    "w2": "职业生涯",
+    "pmi": 0.8040279285643003,
+    "cooc_count": 7,
+    "unigram_w1": 20547,
+    "unigram_w2": 2219,
+    "window_size": 10
+  },
+  {
+    "w1": "职业生涯",
+    "w2": "赛季",
+    "pmi": 3.0670846865610795,
+    "cooc_count": 44,
+    "unigram_w1": 2219,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "统计",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 20547,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "年代",
+    "w2": "统计",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 17541,
+    "unigram_w2": 20547,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 11009,
+    "unigram_w2": 13436,
+    "window_size": 10
+  }
+]

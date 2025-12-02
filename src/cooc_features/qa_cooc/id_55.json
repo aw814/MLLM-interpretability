@@ -1,0 +1,164 @@
+[
+  {
+    "w1": "apa",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 1998,
+    "unigram_w1": 356514,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "television",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 356514,
+    "unigram_w2": 1053,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "televisi",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 356514,
+    "unigram_w2": 19208,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "menayangkan",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 356514,
+    "unigram_w2": 1732,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "jaringan",
+    "pmi": 0.0,
+    "cooc_count": 562,
+    "unigram_w1": 356514,
+    "unigram_w2": 85527,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "invention",
+    "pmi": 0.6495918529315747,
+    "cooc_count": 7,
+    "unigram_w1": 356514,
+    "unigram_w2": 158,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "the",
+    "pmi": 0.9347827936547085,
+    "cooc_count": 164,
+    "unigram_w1": 1053,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "televisi",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 122,
+    "unigram_w1": 19208,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "the",
+    "pmi": 1.2524702566629136,
+    "cooc_count": 153,
+    "unigram_w1": 715,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "menayangkan",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 1732,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "the",
+    "pmi": 2.429161784996507,
+    "cooc_count": 599,
+    "unigram_w1": 863,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "jaringan",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 85527,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "the",
+    "pmi": 0.1296151177358893,
+    "cooc_count": 11,
+    "unigram_w1": 158,
+    "unigram_w2": 942311,
+    "window_size": 10
+  },
+  {
+    "w1": "televisi",
+    "w2": "television",
+    "pmi": 3.0952207056072893,
+    "cooc_count": 29,
+    "unigram_w1": 19208,
+    "unigram_w2": 1053,
+    "window_size": 10
+  },
+  {
+    "w1": "jaringan",
+    "w2": "television",
+    "pmi": 0.3138611606542056,
+    "cooc_count": 8,
+    "unigram_w1": 85527,
+    "unigram_w2": 1053,
+    "window_size": 10
+  },
+  {
+    "w1": "menayangkan",
+    "w2": "televisi",
+    "pmi": 3.9924652334301665,
+    "cooc_count": 117,
+    "unigram_w1": 1732,
+    "unigram_w2": 19208,
+    "window_size": 10
+  },
+  {
+    "w1": "jaringan",
+    "w2": "televisi",
+    "pmi": 0.8441647393722382,
+    "cooc_count": 248,
+    "unigram_w1": 85527,
+    "unigram_w2": 19208,
+    "window_size": 10
+  },
+  {
+    "w1": "jaringan",
+    "w2": "menayangkan",
+    "pmi": 0.7813084797093879,
+    "cooc_count": 21,
+    "unigram_w1": 85527,
+    "unigram_w2": 1732,
+    "window_size": 10
+  }
+]

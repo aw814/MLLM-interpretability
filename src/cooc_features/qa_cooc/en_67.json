@@ -1,0 +1,137 @@
+[
+  {
+    "w1": "as",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 27427,
+    "unigram_w1": 2018363,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "as",
+    "w2": "swimming",
+    "pmi": 0.0,
+    "cooc_count": 597,
+    "unigram_w1": 2018363,
+    "unigram_w2": 12682,
+    "window_size": 10
+  },
+  {
+    "w1": "artistic",
+    "w2": "as",
+    "pmi": 0.0,
+    "cooc_count": 519,
+    "unigram_w1": 7408,
+    "unigram_w2": 2018363,
+    "window_size": 10
+  },
+  {
+    "w1": "as",
+    "w2": "synchronized",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 2018363,
+    "unigram_w2": 1000,
+    "window_size": 10
+  },
+  {
+    "w1": "as",
+    "w2": "previously",
+    "pmi": 0.5306221244033306,
+    "cooc_count": 3757,
+    "unigram_w1": 2018363,
+    "unigram_w2": 22989,
+    "window_size": 10
+  },
+  {
+    "w1": "as",
+    "w2": "known",
+    "pmi": 1.4424292684653444,
+    "cooc_count": 34931,
+    "unigram_w1": 2018363,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "swimming",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 12682,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "artistic",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 7408,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "synchronized",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 1000,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "previously",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 339,
+    "unigram_w1": 22989,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "known",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1640,
+    "unigram_w1": 85881,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "swimming",
+    "w2": "synchronized",
+    "pmi": 4.3959406181257865,
+    "cooc_count": 49,
+    "unigram_w1": 12682,
+    "unigram_w2": 1000,
+    "window_size": 10
+  },
+  {
+    "w1": "known",
+    "w2": "swimming",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 85881,
+    "unigram_w2": 12682,
+    "window_size": 10
+  },
+  {
+    "w1": "artistic",
+    "w2": "known",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 7408,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "known",
+    "w2": "previously",
+    "pmi": 1.2998699445705606,
+    "cooc_count": 345,
+    "unigram_w1": 85881,
+    "unigram_w2": 22989,
+    "window_size": 10
+  }
+]

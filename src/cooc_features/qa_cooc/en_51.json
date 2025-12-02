@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "del",
+    "w2": "does",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 12788,
+    "unigram_w2": 190426,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "sacro",
+    "pmi": 6.623393475527966,
+    "cooc_count": 11,
+    "unigram_w1": 12788,
+    "unigram_w2": 24,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "long",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 12788,
+    "unigram_w2": 204112,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 12788,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "del",
+    "pmi": 6.224897036735896,
+    "cooc_count": 8,
+    "unigram_w1": 26,
+    "unigram_w2": 12788,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "office",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 12788,
+    "unigram_w2": 109867,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "how",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 12788,
+    "unigram_w2": 485479,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "del",
+    "pmi": 6.767563266357545,
+    "cooc_count": 9,
+    "unigram_w1": 17,
+    "unigram_w2": 12788,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "four",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 12788,
+    "unigram_w2": 95228,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "remain",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 190426,
+    "unigram_w2": 22678,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "long",
+    "pmi": 0.29157851702977305,
+    "cooc_count": 2478,
+    "unigram_w1": 190426,
+    "unigram_w2": 204112,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 767,
+    "unigram_w1": 190426,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "office",
+    "pmi": 0.0,
+    "cooc_count": 267,
+    "unigram_w1": 190426,
+    "unigram_w2": 109867,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "how",
+    "pmi": 1.1968986834478959,
+    "cooc_count": 14574,
+    "unigram_w1": 190426,
+    "unigram_w2": 485479,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "four",
+    "pmi": 0.0,
+    "cooc_count": 203,
+    "unigram_w1": 190426,
+    "unigram_w2": 95228,
+    "window_size": 10
+  },
+  {
+    "w1": "long",
+    "w2": "remain",
+    "pmi": 0.7675546349820584,
+    "cooc_count": 475,
+    "unigram_w1": 204112,
+    "unigram_w2": 22678,
+    "window_size": 10
+  },
+  {
+    "w1": "remain",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 287,
+    "unigram_w1": 22678,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "office",
+    "w2": "remain",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 109867,
+    "unigram_w2": 22678,
+    "window_size": 10
+  },
+  {
+    "w1": "how",
+    "w2": "remain",
+    "pmi": 0.0,
+    "cooc_count": 261,
+    "unigram_w1": 485479,
+    "unigram_w2": 22678,
+    "window_size": 10
+  },
+  {
+    "w1": "four",
+    "w2": "remain",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 95228,
+    "unigram_w2": 22678,
+    "window_size": 10
+  },
+  {
+    "w1": "long",
+    "w2": "rector",
+    "pmi": 1.169889136480892,
+    "cooc_count": 14,
+    "unigram_w1": 204112,
+    "unigram_w2": 447,
+    "window_size": 10
+  },
+  {
+    "w1": "rector",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 447,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "office",
+    "w2": "rector",
+    "pmi": 2.8137917724480275,
+    "cooc_count": 39,
+    "unigram_w1": 109867,
+    "unigram_w2": 447,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "sacro",
+    "pmi": 12.620888752224065,
+    "cooc_count": 9,
+    "unigram_w1": 26,
+    "unigram_w2": 24,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "sacro",
+    "pmi": 12.927988910532948,
+    "cooc_count": 8,
+    "unigram_w1": 17,
+    "unigram_w2": 24,
+    "window_size": 10
+  },
+  {
+    "w1": "long",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 1904,
+    "unigram_w1": 204112,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "long",
+    "w2": "office",
+    "pmi": 0.0,
+    "cooc_count": 352,
+    "unigram_w1": 204112,
+    "unigram_w2": 109867,
+    "window_size": 10
+  },
+  {
+    "w1": "how",
+    "w2": "long",
+    "pmi": 0.9239520797629418,
+    "cooc_count": 11890,
+    "unigram_w1": 485479,
+    "unigram_w2": 204112,
+    "window_size": 10
+  },
+  {
+    "w1": "four",
+    "w2": "long",
+    "pmi": 0.0,
+    "cooc_count": 544,
+    "unigram_w1": 95228,
+    "unigram_w2": 204112,
+    "window_size": 10
+  },
+  {
+    "w1": "office",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 747,
+    "unigram_w1": 109867,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "how",
+    "w2": "years",
+    "pmi": 0.0,
+    "cooc_count": 2622,
+    "unigram_w1": 485479,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "four",
+    "w2": "years",
+    "pmi": 1.7276376012622379,
+    "cooc_count": 7263,
+    "unigram_w1": 95228,
+    "unigram_w2": 284559,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "cuore",
+    "pmi": 12.714414810234889,
+    "cooc_count": 7,
+    "unigram_w1": 17,
+    "unigram_w2": 26,
+    "window_size": 10
+  },
+  {
+    "w1": "how",
+    "w2": "office",
+    "pmi": 0.0,
+    "cooc_count": 859,
+    "unigram_w1": 485479,
+    "unigram_w2": 109867,
+    "window_size": 10
+  },
+  {
+    "w1": "four",
+    "w2": "office",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 95228,
+    "unigram_w2": 109867,
+    "window_size": 10
+  },
+  {
+    "w1": "four",
+    "w2": "how",
+    "pmi": 0.0,
+    "cooc_count": 428,
+    "unigram_w1": 95228,
+    "unigram_w2": 485479,
+    "window_size": 10
+  }
+]

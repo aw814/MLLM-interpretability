@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "fernsehsender",
+    "w2": "strahlte",
+    "pmi": 5.38119340860354,
+    "cooc_count": 6,
+    "unigram_w1": 895,
+    "unigram_w2": 575,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "strahlte",
+    "pmi": 0.9536852084498075,
+    "cooc_count": 85,
+    "unigram_w1": 1061532,
+    "unigram_w2": 575,
+    "window_size": 10
+  },
+  {
+    "w1": "größte",
+    "w2": "television",
+    "pmi": 0.01911894711373597,
+    "cooc_count": 1,
+    "unigram_w1": 19105,
+    "unigram_w2": 957,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "television",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1061532,
+    "unigram_w2": 957,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "fernsehsender",
+    "pmi": 5.44399430984257,
+    "cooc_count": 2,
+    "unigram_w1": 180,
+    "unigram_w2": 895,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "cbc",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 1061532,
+    "unigram_w2": 180,
+    "window_size": 10
+  },
+  {
+    "w1": "erfindung",
+    "w2": "größte",
+    "pmi": 0.6703162428151718,
+    "cooc_count": 9,
+    "unigram_w1": 4491,
+    "unigram_w2": 19105,
+    "window_size": 10
+  },
+  {
+    "w1": "größte",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 19105,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "größte",
+    "pmi": 0.0,
+    "cooc_count": 408,
+    "unigram_w1": 1061532,
+    "unigram_w2": 19105,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "fernsehsender",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 1061532,
+    "unigram_w2": 895,
+    "window_size": 10
+  },
+  {
+    "w1": "erfindung",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 4491,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "erfindung",
+    "pmi": 0.0,
+    "cooc_count": 188,
+    "unigram_w1": 1061532,
+    "unigram_w2": 4491,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "kanadische",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 1061532,
+    "unigram_w2": 876,
+    "window_size": 10
+  },
+  {
+    "w1": "aus",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 1832,
+    "unigram_w1": 1061532,
+    "unigram_w2": 33494,
+    "window_size": 10
+  }
+]

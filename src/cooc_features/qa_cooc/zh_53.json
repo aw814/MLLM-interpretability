@@ -1,0 +1,470 @@
+[
+  {
+    "w1": "john",
+    "w2": "of",
+    "pmi": 3.7070548885512986,
+    "cooc_count": 12,
+    "unigram_w1": 598,
+    "unigram_w2": 7170,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "john",
+    "pmi": 6.706046769182327,
+    "cooc_count": 9,
+    "unigram_w1": 268,
+    "unigram_w2": 598,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 598,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 6.245532989141142,
+    "cooc_count": 36,
+    "unigram_w1": 598,
+    "unigram_w2": 1699,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 598,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "圣约翰",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 115,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "圣约翰",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 115,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 30065,
+    "unigram_w1": 399309,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "公司",
+    "pmi": 0.0,
+    "cooc_count": 5282,
+    "unigram_w1": 303848,
+    "unigram_w2": 399309,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "公司",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 7170,
+    "unigram_w2": 399309,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 148451,
+    "unigram_w1": 399309,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "医疗保健",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 399309,
+    "unigram_w2": 925,
+    "window_size": 10
+  },
+  {
+    "w1": "上帝",
+    "w2": "公司",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 3867,
+    "unigram_w2": 399309,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "类型",
+    "pmi": 0.0,
+    "cooc_count": 325,
+    "unigram_w1": 399309,
+    "unigram_w2": 15680,
+    "window_size": 10
+  },
+  {
+    "w1": "公司",
+    "w2": "集团",
+    "pmi": 0.1336722802577365,
+    "cooc_count": 7864,
+    "unigram_w1": 399309,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "天主教",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 963,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "天主教",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 359,
+    "unigram_w1": 963,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "天主教",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 963,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "是",
+    "pmi": 0.937328771102239,
+    "cooc_count": 118150,
+    "unigram_w1": 303848,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 7170,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 268,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 1699,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "医疗保健",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 925,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "上帝",
+    "w2": "是",
+    "pmi": 0.21471158636900137,
+    "cooc_count": 730,
+    "unigram_w1": 3867,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "类型",
+    "pmi": 0.0,
+    "cooc_count": 1707,
+    "unigram_w1": 2216630,
+    "unigram_w2": 15680,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 8654,
+    "unigram_w1": 2216630,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 7170,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1699,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "上帝",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 3867,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "类型",
+    "pmi": 0.11433762511109086,
+    "cooc_count": 367,
+    "unigram_w1": 303848,
+    "unigram_w2": 15680,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 1012,
+    "unigram_w1": 303848,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "of",
+    "pmi": 5.160246228132223,
+    "cooc_count": 23,
+    "unigram_w1": 268,
+    "unigram_w2": 7170,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "of",
+    "pmi": 6.374025860405147,
+    "cooc_count": 52,
+    "unigram_w1": 180,
+    "unigram_w2": 7170,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 150,
+    "unigram_w1": 7170,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "st",
+    "pmi": 4.220995138876548,
+    "cooc_count": 57,
+    "unigram_w1": 7170,
+    "unigram_w2": 1699,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "of",
+    "pmi": 5.345677091425444,
+    "cooc_count": 25,
+    "unigram_w1": 242,
+    "unigram_w2": 7170,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 7170,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 9.0770368657697,
+    "cooc_count": 39,
+    "unigram_w1": 268,
+    "unigram_w2": 242,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "集团",
+    "pmi": 0.07956338259530807,
+    "cooc_count": 5,
+    "unigram_w1": 268,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 180,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "上帝",
+    "pmi": 3.040208783810088,
+    "cooc_count": 1,
+    "unigram_w1": 180,
+    "unigram_w2": 3867,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 1699,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "医疗保健",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 335,
+    "unigram_w1": 925,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "上帝",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2436,
+    "unigram_w1": 3867,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "类型",
+    "pmi": 0.0,
+    "cooc_count": 8818,
+    "unigram_w1": 10165533,
+    "unigram_w2": 15680,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 242,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 32784,
+    "unigram_w1": 10165533,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "st",
+    "pmi": 5.51257722753429,
+    "cooc_count": 7,
+    "unigram_w1": 242,
+    "unigram_w2": 1699,
+    "window_size": 10
+  },
+  {
+    "w1": "医疗保健",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 925,
+    "unigram_w2": 250769,
+    "window_size": 10
+  },
+  {
+    "w1": "类型",
+    "w2": "集团",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15680,
+    "unigram_w2": 250769,
+    "window_size": 10
+  }
+]

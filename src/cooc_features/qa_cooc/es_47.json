@@ -1,0 +1,668 @@
+[
+  {
+    "w1": "26",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 16813,
+    "unigram_w1": 97191,
+    "unigram_w2": 6497163,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 4985,
+    "unigram_w1": 97191,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 97191,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "noviembre",
+    "pmi": 1.9670524989306948,
+    "cooc_count": 3551,
+    "unigram_w1": 97191,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "lanzamiento",
+    "pmi": 0.2932535234645286,
+    "cooc_count": 117,
+    "unigram_w1": 97191,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "evento",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 97191,
+    "unigram_w2": 42141,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "cabo",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 97191,
+    "unigram_w2": 70358,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "cuándo",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 97191,
+    "unigram_w2": 15439,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 217,
+    "unigram_w1": 97191,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 97191,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "26",
+    "pmi": 1.8126229354735928,
+    "cooc_count": 3492,
+    "unigram_w1": 103438,
+    "unigram_w2": 97191,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "jabalina",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 6497163,
+    "unigram_w2": 336,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 865858,
+    "unigram_w1": 6497163,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "asiáticos",
+    "pmi": 0.0,
+    "cooc_count": 578,
+    "unigram_w1": 6497163,
+    "unigram_w2": 3090,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "llevó",
+    "pmi": 0.6073490782909321,
+    "cooc_count": 16148,
+    "unigram_w1": 6497163,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "noviembre",
+    "pmi": 0.0,
+    "cooc_count": 15435,
+    "unigram_w1": 6497163,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "lanzamiento",
+    "pmi": 0.0,
+    "cooc_count": 2093,
+    "unigram_w1": 6497163,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "evento",
+    "pmi": 0.0,
+    "cooc_count": 8636,
+    "unigram_w1": 6497163,
+    "unigram_w2": 42141,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "cabo",
+    "pmi": 0.8251072888136042,
+    "cooc_count": 59147,
+    "unigram_w1": 6497163,
+    "unigram_w2": 70358,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "cuándo",
+    "pmi": 0.0,
+    "cooc_count": 3688,
+    "unigram_w1": 6497163,
+    "unigram_w2": 15439,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 18702,
+    "unigram_w1": 6497163,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 1429,
+    "unigram_w1": 6497163,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 18443,
+    "unigram_w1": 103438,
+    "unigram_w2": 6497163,
+    "window_size": 10
+  },
+  {
+    "w1": "jabalina",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 336,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "jabalina",
+    "w2": "lanzamiento",
+    "pmi": 5.403094441663513,
+    "cooc_count": 67,
+    "unigram_w1": 336,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 3090,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "se",
+    "pmi": 0.8269559888211836,
+    "cooc_count": 10026,
+    "unigram_w1": 23882,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "noviembre",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 7004,
+    "unigram_w1": 90134,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzamiento",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 1641,
+    "unigram_w1": 15836,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "evento",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 6866,
+    "unigram_w1": 42141,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "se",
+    "pmi": 0.5060946223528124,
+    "cooc_count": 21430,
+    "unigram_w1": 70358,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "se",
+    "pmi": 0.07084640234610923,
+    "cooc_count": 3043,
+    "unigram_w1": 15439,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 10556,
+    "unigram_w1": 135115,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "masculino",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 834,
+    "unigram_w1": 9858,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 5629,
+    "unigram_w1": 103438,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "cuándo",
+    "pmi": 0.7967351351561102,
+    "cooc_count": 6,
+    "unigram_w1": 3090,
+    "unigram_w2": 15439,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "juegos",
+    "pmi": 1.6799332603760257,
+    "cooc_count": 127,
+    "unigram_w1": 3090,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "masculino",
+    "pmi": 1.2453486025327136,
+    "cooc_count": 6,
+    "unigram_w1": 3090,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "asiáticos",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 103438,
+    "unigram_w2": 3090,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "noviembre",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 23882,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzamiento",
+    "w2": "llevó",
+    "pmi": 0.3019284961288956,
+    "cooc_count": 29,
+    "unigram_w1": 15836,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "evento",
+    "w2": "llevó",
+    "pmi": 1.1976443719290657,
+    "cooc_count": 189,
+    "unigram_w1": 42141,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "llevó",
+    "pmi": 4.117860763302583,
+    "cooc_count": 5852,
+    "unigram_w1": 70358,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 15439,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 135115,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 23882,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 103438,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzamiento",
+    "w2": "noviembre",
+    "pmi": 0.5117350297689943,
+    "cooc_count": 135,
+    "unigram_w1": 15836,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "evento",
+    "w2": "noviembre",
+    "pmi": 0.0,
+    "cooc_count": 144,
+    "unigram_w1": 42141,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "noviembre",
+    "pmi": 0.0,
+    "cooc_count": 241,
+    "unigram_w1": 70358,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "noviembre",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 15439,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "noviembre",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 135115,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "noviembre",
+    "pmi": 2.1364821394188573,
+    "cooc_count": 4477,
+    "unigram_w1": 103438,
+    "unigram_w2": 90134,
+    "window_size": 10
+  },
+  {
+    "w1": "evento",
+    "w2": "lanzamiento",
+    "pmi": 1.2939902498939369,
+    "cooc_count": 138,
+    "unigram_w1": 42141,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "lanzamiento",
+    "pmi": 0.1979666308835604,
+    "cooc_count": 77,
+    "unigram_w1": 70358,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "lanzamiento",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 15439,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "lanzamiento",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 135115,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzamiento",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 15836,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "lanzamiento",
+    "pmi": 0.22237549496342224,
+    "cooc_count": 116,
+    "unigram_w1": 103438,
+    "unigram_w2": 15836,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "evento",
+    "pmi": 1.0657413056100253,
+    "cooc_count": 488,
+    "unigram_w1": 70358,
+    "unigram_w2": 42141,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "evento",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15439,
+    "unigram_w2": 42141,
+    "window_size": 10
+  },
+  {
+    "w1": "evento",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 42141,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "evento",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 42141,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "evento",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 103438,
+    "unigram_w2": 42141,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "cuándo",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 70358,
+    "unigram_w2": 15439,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 70358,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "cabo",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 70358,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "cabo",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 103438,
+    "unigram_w2": 70358,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 15439,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "cuándo",
+    "w2": "masculino",
+    "pmi": 0.5529136496567333,
+    "cooc_count": 15,
+    "unigram_w1": 15439,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "cuándo",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 103438,
+    "unigram_w2": 15439,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 135115,
+    "unigram_w2": 9858,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 180,
+    "unigram_w1": 103438,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "masculino",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 103438,
+    "unigram_w2": 9858,
+    "window_size": 10
+  }
+]

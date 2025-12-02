@@ -1,0 +1,731 @@
+[
+  {
+    "w1": "apa",
+    "w2": "memperoleh",
+    "pmi": 0.0,
+    "cooc_count": 502,
+    "unigram_w1": 356514,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "digunakan",
+    "pmi": 0.0,
+    "cooc_count": 3030,
+    "unigram_w1": 356514,
+    "unigram_w2": 246867,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 1496,
+    "unigram_w1": 356514,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 1070,
+    "unigram_w1": 356514,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "outsourcing",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 356514,
+    "unigram_w2": 1592,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 298,
+    "unigram_w1": 356514,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "kontrak",
+    "pmi": 0.0,
+    "cooc_count": 274,
+    "unigram_w1": 356514,
+    "unigram_w2": 29026,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "apa",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 15816,
+    "unigram_w2": 356514,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "mendeskripsikan",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 356514,
+    "unigram_w2": 3321,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 62568,
+    "unigram_w1": 356514,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 1540,
+    "unigram_w1": 356514,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "istilah",
+    "pmi": 0.0,
+    "cooc_count": 803,
+    "unigram_w1": 356514,
+    "unigram_w2": 48789,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "memfasilitasi",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 356514,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "memperoleh",
+    "pmi": 0.0,
+    "cooc_count": 384,
+    "unigram_w1": 246867,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "memperoleh",
+    "w2": "seseorang",
+    "pmi": 0.07515026714613193,
+    "cooc_count": 259,
+    "unigram_w1": 48069,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "memperoleh",
+    "pmi": 0.6612188295565524,
+    "cooc_count": 750,
+    "unigram_w1": 124103,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "memperoleh",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 48069,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "memperoleh",
+    "pmi": 0.6814513147903368,
+    "cooc_count": 179,
+    "unigram_w1": 29026,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "memperoleh",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 15816,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "memperoleh",
+    "w2": "untuk",
+    "pmi": 0.4788553932845344,
+    "cooc_count": 16255,
+    "unigram_w1": 48069,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "memperoleh",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 48069,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "memperoleh",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 48789,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "memfasilitasi",
+    "w2": "memperoleh",
+    "pmi": 0.050065356470333604,
+    "cooc_count": 18,
+    "unigram_w1": 5488,
+    "unigram_w2": 48069,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 619,
+    "unigram_w1": 246867,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 906,
+    "unigram_w1": 246867,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "outsourcing",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 246867,
+    "unigram_w2": 1592,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 552,
+    "unigram_w1": 246867,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "kontrak",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 246867,
+    "unigram_w2": 29026,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "digunakan",
+    "pmi": 0.6875994198276189,
+    "cooc_count": 504,
+    "unigram_w1": 15816,
+    "unigram_w2": 246867,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "mendeskripsikan",
+    "pmi": 0.5144156649620963,
+    "cooc_count": 89,
+    "unigram_w1": 246867,
+    "unigram_w2": 3321,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "untuk",
+    "pmi": 0.801944789365363,
+    "cooc_count": 115319,
+    "unigram_w1": 246867,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 486,
+    "unigram_w1": 246867,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "istilah",
+    "pmi": 1.0288263806869133,
+    "cooc_count": 2187,
+    "unigram_w1": 246867,
+    "unigram_w2": 48789,
+    "window_size": 10
+  },
+  {
+    "w1": "digunakan",
+    "w2": "memfasilitasi",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 246867,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 135,
+    "unigram_w1": 124103,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "selatan",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 73082,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 29026,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 15816,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "mendeskripsikan",
+    "w2": "seseorang",
+    "pmi": 0.28173619510415343,
+    "cooc_count": 22,
+    "unigram_w1": 3321,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "seseorang",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 14388,
+    "unigram_w1": 77010,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "pemerintah",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 163604,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 48789,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "memfasilitasi",
+    "w2": "seseorang",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 5488,
+    "unigram_w2": 77010,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "outsourcing",
+    "pmi": 1.3608150197260038,
+    "cooc_count": 50,
+    "unigram_w1": 124103,
+    "unigram_w2": 1592,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 183,
+    "unigram_w1": 124103,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 119,
+    "unigram_w1": 29026,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 15816,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "mendeskripsikan",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 124103,
+    "unigram_w2": 3321,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 24548,
+    "unigram_w1": 124103,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 730,
+    "unigram_w1": 124103,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 48789,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "memfasilitasi",
+    "pmi": 1.1599791016746333,
+    "cooc_count": 141,
+    "unigram_w1": 124103,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourcing",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1592,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "outsourcing",
+    "pmi": 3.5745407346831493,
+    "cooc_count": 107,
+    "unigram_w1": 29026,
+    "unigram_w2": 1592,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourcing",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 1592,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "outsourcing",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1592,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 29026,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "selatan",
+    "pmi": 4.566069644882699,
+    "cooc_count": 7214,
+    "unigram_w1": 15816,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "mendeskripsikan",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3321,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "selatan",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 6141,
+    "unigram_w1": 73082,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "pemerintah",
+    "w2": "selatan",
+    "pmi": 0.2812344415551367,
+    "cooc_count": 1028,
+    "unigram_w1": 163604,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "selatan",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 48789,
+    "unigram_w2": 73082,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "kontrak",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 15816,
+    "unigram_w2": 29026,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 4578,
+    "unigram_w1": 29026,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 291,
+    "unigram_w1": 29026,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "kontrak",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 48789,
+    "unigram_w2": 29026,
+    "window_size": 10
+  },
+  {
+    "w1": "kontrak",
+    "w2": "memfasilitasi",
+    "pmi": 0.7551815505781664,
+    "cooc_count": 22,
+    "unigram_w1": 29026,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "mendeskripsikan",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 15816,
+    "unigram_w2": 3321,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 2076,
+    "unigram_w1": 15816,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 15816,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "istilah",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 15816,
+    "unigram_w2": 48789,
+    "window_size": 10
+  },
+  {
+    "w1": "afrika",
+    "w2": "memfasilitasi",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 15816,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "mendeskripsikan",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 633,
+    "unigram_w1": 3321,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "mendeskripsikan",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 3321,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "mendeskripsikan",
+    "pmi": 1.6174160612346975,
+    "cooc_count": 53,
+    "unigram_w1": 48789,
+    "unigram_w2": 3321,
+    "window_size": 10
+  },
+  {
+    "w1": "pemerintah",
+    "w2": "untuk",
+    "pmi": 0.0,
+    "cooc_count": 26775,
+    "unigram_w1": 163604,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "untuk",
+    "pmi": 0.30999110154200943,
+    "cooc_count": 13935,
+    "unigram_w1": 48789,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "memfasilitasi",
+    "w2": "untuk",
+    "pmi": 0.6990738110482365,
+    "cooc_count": 2313,
+    "unigram_w1": 5488,
+    "unigram_w2": 3227806,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "pemerintah",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 48789,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "memfasilitasi",
+    "w2": "pemerintah",
+    "pmi": 1.6082054706920101,
+    "cooc_count": 291,
+    "unigram_w1": 5488,
+    "unigram_w2": 163604,
+    "window_size": 10
+  },
+  {
+    "w1": "istilah",
+    "w2": "memfasilitasi",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 48789,
+    "unigram_w2": 5488,
+    "window_size": 10
+  }
+]

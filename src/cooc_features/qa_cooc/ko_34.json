@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "도시가",
+    "w2": "일부",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 869,
+    "unigram_w2": 14873,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "일부",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 55483,
+    "unigram_w2": 14873,
+    "window_size": 10
+  },
+  {
+    "w1": "따르면,",
+    "w2": "일부",
+    "pmi": 0.4960144725057468,
+    "cooc_count": 82,
+    "unigram_w1": 6388,
+    "unigram_w2": 14873,
+    "window_size": 10
+  },
+  {
+    "w1": "고대",
+    "w2": "일부",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 3039,
+    "unigram_w2": 14873,
+    "window_size": 10
+  },
+  {
+    "w1": "도시가",
+    "w2": "어떤",
+    "pmi": 0.5742619201670612,
+    "cooc_count": 45,
+    "unigram_w1": 869,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "도시가",
+    "w2": "따르면,",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 869,
+    "unigram_w2": 6388,
+    "window_size": 10
+  },
+  {
+    "w1": "고대",
+    "w2": "도시가",
+    "pmi": 2.3801977850890195,
+    "cooc_count": 15,
+    "unigram_w1": 3039,
+    "unigram_w2": 869,
+    "window_size": 10
+  },
+  {
+    "w1": "따르면,",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 6388,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "고대",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 3039,
+    "unigram_w2": 55483,
+    "window_size": 10
+  }
+]

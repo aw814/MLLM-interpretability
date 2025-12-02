@@ -1,0 +1,1379 @@
+[
+  {
+    "w1": "ajustar",
+    "w2": "antes",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 4635,
+    "unigram_w2": 176076,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "monitorear",
+    "pmi": 2.894083311355191,
+    "cooc_count": 8,
+    "unigram_w1": 4635,
+    "unigram_w2": 1685,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 4635,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "ajustar",
+    "pmi": 0.0,
+    "cooc_count": 1248,
+    "unigram_w1": 6497163,
+    "unigram_w2": 4635,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "mezcla",
+    "pmi": 0.4679946818499891,
+    "cooc_count": 8,
+    "unigram_w1": 4635,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "propósito",
+    "pmi": 1.0643783844356598,
+    "cooc_count": 16,
+    "unigram_w1": 4635,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "específico",
+    "pmi": 1.1664536106795897,
+    "cooc_count": 8,
+    "unigram_w1": 4635,
+    "unigram_w2": 9482,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "materiales",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 4635,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 4635,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4635,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "producción",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 4635,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "ajustar",
+    "w2": "cruda",
+    "pmi": 2.80445419647183,
+    "cooc_count": 8,
+    "unigram_w1": 4635,
+    "unigram_w2": 1843,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 176076,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "utilizados",
+    "pmi": 1.295796049730943,
+    "cooc_count": 13,
+    "unigram_w1": 6231,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "utilizados",
+    "pmi": 0.30360258471340257,
+    "cooc_count": 42,
+    "unigram_w1": 54296,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 1270,
+    "unigram_w1": 6497163,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "mezcla",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 19065,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "química",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 8427,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "utilizados",
+    "pmi": 3.1144417898641383,
+    "cooc_count": 486,
+    "unigram_w1": 37794,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "molino",
+    "w2": "utilizados",
+    "pmi": 0.9424955454509995,
+    "cooc_count": 43,
+    "unigram_w1": 29344,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 186016,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 37292,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "producción",
+    "w2": "utilizados",
+    "pmi": 0.24355094277441128,
+    "cooc_count": 44,
+    "unigram_w1": 60402,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "utilizados",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1843,
+    "unigram_w2": 10071,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "cemento",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 176076,
+    "unigram_w2": 6231,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "granel",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 176076,
+    "unigram_w2": 1206,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 258,
+    "unigram_w1": 176076,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "antes",
+    "pmi": 0.0,
+    "cooc_count": 39083,
+    "unigram_w1": 6497163,
+    "unigram_w2": 176076,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "mezcla",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 176076,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 176076,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "justo",
+    "pmi": 2.068542174743423,
+    "cooc_count": 2329,
+    "unigram_w1": 176076,
+    "unigram_w2": 29482,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 176076,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "química",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 176076,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "específico",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 176076,
+    "unigram_w2": 9482,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "materiales",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 176076,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "molino",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 176076,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "era",
+    "pmi": 0.5722418699085686,
+    "cooc_count": 3291,
+    "unigram_w1": 176076,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "crudo",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 176076,
+    "unigram_w2": 5146,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 205,
+    "unigram_w1": 176076,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "producción",
+    "pmi": 0.0,
+    "cooc_count": 236,
+    "unigram_w1": 176076,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "antes",
+    "w2": "proporciones",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 176076,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "analizador",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 6497163,
+    "unigram_w2": 565,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "material",
+    "pmi": 1.7555863408462908,
+    "cooc_count": 111,
+    "unigram_w1": 6231,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "cemento",
+    "pmi": 0.0,
+    "cooc_count": 676,
+    "unigram_w1": 6497163,
+    "unigram_w2": 6231,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "mezcla",
+    "pmi": 2.267039775521524,
+    "cooc_count": 65,
+    "unigram_w1": 6231,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 6231,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "química",
+    "pmi": 2.4644139236346114,
+    "cooc_count": 35,
+    "unigram_w1": 6231,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "específico",
+    "pmi": 0.1774057955753781,
+    "cooc_count": 4,
+    "unigram_w1": 6231,
+    "unigram_w2": 9482,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "materiales",
+    "pmi": 2.2123773838008236,
+    "cooc_count": 122,
+    "unigram_w1": 6231,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "molino",
+    "pmi": 4.083040870667878,
+    "cooc_count": 615,
+    "unigram_w1": 6231,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 6231,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "crudo",
+    "pmi": 3.409620170308332,
+    "cooc_count": 55,
+    "unigram_w1": 6231,
+    "unigram_w2": 5146,
+    "window_size": 10
+  },
+  {
+    "w1": "cemento",
+    "w2": "producción",
+    "pmi": 1.416821296438279,
+    "cooc_count": 88,
+    "unigram_w1": 6231,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "monitorear",
+    "pmi": 0.0,
+    "cooc_count": 354,
+    "unigram_w1": 6497163,
+    "unigram_w2": 1685,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "monitorear",
+    "pmi": 0.6754092913140399,
+    "cooc_count": 7,
+    "unigram_w1": 37292,
+    "unigram_w2": 1685,
+    "window_size": 10
+  },
+  {
+    "w1": "monitorear",
+    "w2": "producción",
+    "pmi": 1.2429880252718235,
+    "cooc_count": 20,
+    "unigram_w1": 1685,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "granel",
+    "w2": "material",
+    "pmi": 1.460872597030829,
+    "cooc_count": 16,
+    "unigram_w1": 1206,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "granel",
+    "pmi": 0.8582524000052871,
+    "cooc_count": 1048,
+    "unigram_w1": 6497163,
+    "unigram_w2": 1206,
+    "window_size": 10
+  },
+  {
+    "w1": "granel",
+    "w2": "materiales",
+    "pmi": 3.0759357650598074,
+    "cooc_count": 56,
+    "unigram_w1": 1206,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "granel",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 186016,
+    "unigram_w2": 1206,
+    "window_size": 10
+  },
+  {
+    "w1": "granel",
+    "w2": "producción",
+    "pmi": 1.5261511963836043,
+    "cooc_count": 19,
+    "unigram_w1": 1206,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 8187,
+    "unigram_w1": 6497163,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "mezcla",
+    "pmi": 0.8330135582249442,
+    "cooc_count": 135,
+    "unigram_w1": 54296,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 54296,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 29482,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "química",
+    "pmi": 0.9185394062014623,
+    "cooc_count": 65,
+    "unigram_w1": 54296,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "específico",
+    "w2": "material",
+    "pmi": 1.462479615567593,
+    "cooc_count": 126,
+    "unigram_w1": 9482,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "materiales",
+    "pmi": 1.5713793969573897,
+    "cooc_count": 560,
+    "unigram_w1": 54296,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "molino",
+    "pmi": 0.07121585552537021,
+    "cooc_count": 97,
+    "unigram_w1": 54296,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 202,
+    "unigram_w1": 186016,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "material",
+    "pmi": 0.9009349053661355,
+    "cooc_count": 39,
+    "unigram_w1": 5146,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 37292,
+    "unigram_w2": 54296,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "producción",
+    "pmi": 0.2839590927486775,
+    "cooc_count": 247,
+    "unigram_w1": 54296,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "proporciones",
+    "pmi": 0.5789491773173219,
+    "cooc_count": 14,
+    "unigram_w1": 54296,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "mezcla",
+    "pmi": 0.0,
+    "cooc_count": 2985,
+    "unigram_w1": 6497163,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 7027,
+    "unigram_w1": 6497163,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "justo",
+    "pmi": 0.0,
+    "cooc_count": 5985,
+    "unigram_w1": 6497163,
+    "unigram_w2": 29482,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 5041,
+    "unigram_w1": 6497163,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "química",
+    "pmi": 0.0,
+    "cooc_count": 1284,
+    "unigram_w1": 6497163,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "específico",
+    "pmi": 0.0,
+    "cooc_count": 1882,
+    "unigram_w1": 6497163,
+    "unigram_w2": 9482,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "materiales",
+    "pmi": 0.0,
+    "cooc_count": 6616,
+    "unigram_w1": 6497163,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "molino",
+    "pmi": 0.0,
+    "cooc_count": 1832,
+    "unigram_w1": 6497163,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 34549,
+    "unigram_w1": 6497163,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "crudo",
+    "pmi": 0.0,
+    "cooc_count": 923,
+    "unigram_w1": 6497163,
+    "unigram_w2": 5146,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 5174,
+    "unigram_w1": 6497163,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "producción",
+    "pmi": 0.0,
+    "cooc_count": 12044,
+    "unigram_w1": 6497163,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "cruda",
+    "pmi": 0.0,
+    "cooc_count": 332,
+    "unigram_w1": 6497163,
+    "unigram_w2": 1843,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "proporciones",
+    "pmi": 0.0,
+    "cooc_count": 449,
+    "unigram_w1": 6497163,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "mezcla",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 29482,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "mezcla",
+    "w2": "química",
+    "pmi": 2.067414621413811,
+    "cooc_count": 72,
+    "unigram_w1": 19065,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "específico",
+    "w2": "mezcla",
+    "pmi": 0.31185140432330394,
+    "cooc_count": 14,
+    "unigram_w1": 9482,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "mezcla",
+    "pmi": 0.6338444011738087,
+    "cooc_count": 77,
+    "unigram_w1": 37794,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "mezcla",
+    "w2": "molino",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 19065,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "mezcla",
+    "pmi": 0.0,
+    "cooc_count": 177,
+    "unigram_w1": 186016,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "mezcla",
+    "pmi": 1.6851670069905746,
+    "cooc_count": 30,
+    "unigram_w1": 5146,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "mezcla",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 37292,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "mezcla",
+    "w2": "producción",
+    "pmi": 0.025859741603596654,
+    "cooc_count": 67,
+    "unigram_w1": 19065,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "mezcla",
+    "pmi": 2.401837113858601,
+    "cooc_count": 22,
+    "unigram_w1": 1843,
+    "unigram_w2": 19065,
+    "window_size": 10
+  },
+  {
+    "w1": "mezcla",
+    "w2": "proporciones",
+    "pmi": 1.7590769360337746,
+    "cooc_count": 16,
+    "unigram_w1": 19065,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 29482,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "propósito",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21002,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "propósito",
+    "w2": "química",
+    "pmi": 0.17889167421148125,
+    "cooc_count": 12,
+    "unigram_w1": 21002,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "específico",
+    "w2": "propósito",
+    "pmi": 2.0419387153883544,
+    "cooc_count": 87,
+    "unigram_w1": 9482,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 37794,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "propósito",
+    "pmi": 0.5211715893385728,
+    "cooc_count": 373,
+    "unigram_w1": 186016,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 5146,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "propósito",
+    "pmi": 1.405144066045076,
+    "cooc_count": 181,
+    "unigram_w1": 37292,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "producción",
+    "w2": "propósito",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 60402,
+    "unigram_w2": 21002,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "ubicado",
+    "pmi": 0.9756987449118166,
+    "cooc_count": 86,
+    "unigram_w1": 29482,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "materiales",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 29482,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "molino",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 29482,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "justo",
+    "pmi": 0.5351929545954113,
+    "cooc_count": 531,
+    "unigram_w1": 186016,
+    "unigram_w2": 29482,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "justo",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 5146,
+    "unigram_w2": 29482,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "justo",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 37292,
+    "unigram_w2": 29482,
+    "window_size": 10
+  },
+  {
+    "w1": "justo",
+    "w2": "producción",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 29482,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "química",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 8427,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 37794,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "molino",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 29344,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 186016,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "producción",
+    "w2": "ubicado",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 60402,
+    "unigram_w2": 19393,
+    "window_size": 10
+  },
+  {
+    "w1": "específico",
+    "w2": "química",
+    "pmi": 0.9741140810153562,
+    "cooc_count": 12,
+    "unigram_w1": 9482,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "química",
+    "pmi": 2.062279393440696,
+    "cooc_count": 142,
+    "unigram_w1": 37794,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "molino",
+    "w2": "química",
+    "pmi": 0.1927279436894442,
+    "cooc_count": 17,
+    "unigram_w1": 29344,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "química",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 186016,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "química",
+    "pmi": 1.179824523527566,
+    "cooc_count": 8,
+    "unigram_w1": 5146,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "química",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 37292,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "producción",
+    "w2": "química",
+    "pmi": 0.24849839137616564,
+    "cooc_count": 37,
+    "unigram_w1": 60402,
+    "unigram_w2": 8427,
+    "window_size": 10
+  },
+  {
+    "w1": "específico",
+    "w2": "materiales",
+    "pmi": 0.03302034587314847,
+    "cooc_count": 21,
+    "unigram_w1": 9482,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "específico",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 186016,
+    "unigram_w2": 9482,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "específico",
+    "pmi": 0.4030668232452804,
+    "cooc_count": 30,
+    "unigram_w1": 37292,
+    "unigram_w2": 9482,
+    "window_size": 10
+  },
+  {
+    "w1": "específico",
+    "w2": "producción",
+    "pmi": 0.23319811774653884,
+    "cooc_count": 41,
+    "unigram_w1": 9482,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "molino",
+    "pmi": 0.7108353404752147,
+    "cooc_count": 128,
+    "unigram_w1": 37794,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "materiales",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 186016,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "materiales",
+    "pmi": 0.16462281623163616,
+    "cooc_count": 13,
+    "unigram_w1": 5146,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "materiales",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 37292,
+    "unigram_w2": 37794,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "producción",
+    "pmi": 0.6742052226728473,
+    "cooc_count": 254,
+    "unigram_w1": 37794,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "materiales",
+    "w2": "proporciones",
+    "pmi": 0.4994166245718928,
+    "cooc_count": 9,
+    "unigram_w1": 37794,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "molino",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 186016,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "molino",
+    "pmi": 2.1568008157680616,
+    "cooc_count": 74,
+    "unigram_w1": 5146,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "molino",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 37292,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "molino",
+    "w2": "producción",
+    "pmi": 0.5198319343711766,
+    "cooc_count": 169,
+    "unigram_w1": 29344,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "molino",
+    "pmi": 0.9590022994155943,
+    "cooc_count": 8,
+    "unigram_w1": 1843,
+    "unigram_w2": 29344,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 5146,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "era",
+    "pmi": 1.1046164091537798,
+    "cooc_count": 1187,
+    "unigram_w1": 37292,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "producción",
+    "pmi": 0.0,
+    "cooc_count": 157,
+    "unigram_w1": 186016,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 1843,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "proporciones",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 186016,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "crudo",
+    "w2": "producción",
+    "pmi": 2.5732193121843987,
+    "cooc_count": 231,
+    "unigram_w1": 5146,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "crudo",
+    "pmi": 3.5648681191167007,
+    "cooc_count": 19,
+    "unigram_w1": 1843,
+    "unigram_w2": 5146,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "producción",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 37292,
+    "unigram_w2": 60402,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "cuál",
+    "pmi": 1.1247766771633658,
+    "cooc_count": 12,
+    "unigram_w1": 1843,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "proporciones",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 37292,
+    "unigram_w2": 2549,
+    "window_size": 10
+  },
+  {
+    "w1": "cruda",
+    "w2": "producción",
+    "pmi": 0.79668396644973,
+    "cooc_count": 14,
+    "unigram_w1": 1843,
+    "unigram_w2": 60402,
+    "window_size": 10
+  }
+]

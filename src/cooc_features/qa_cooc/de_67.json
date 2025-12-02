@@ -1,0 +1,65 @@
+[
+  {
+    "w1": "kunstturnen",
+    "w2": "wie",
+    "pmi": 0.8146624108658114,
+    "cooc_count": 7,
+    "unigram_w1": 61,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "wie",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 9712,
+    "unigram_w1": 946950,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "früher",
+    "w2": "wurde",
+    "pmi": 0.4590078815937657,
+    "cooc_count": 1007,
+    "unigram_w1": 30053,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "genannt",
+    "w2": "wurde",
+    "pmi": 1.154605535387117,
+    "cooc_count": 1354,
+    "unigram_w1": 20155,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "früher",
+    "w2": "wie",
+    "pmi": 0.6288828854733861,
+    "cooc_count": 2864,
+    "unigram_w1": 30053,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "genannt",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 928,
+    "unigram_w1": 20155,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "früher",
+    "w2": "genannt",
+    "pmi": 1.2636343826687153,
+    "cooc_count": 115,
+    "unigram_w1": 30053,
+    "unigram_w2": 20155,
+    "window_size": 10
+  }
+]

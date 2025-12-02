@@ -1,0 +1,911 @@
+[
+  {
+    "w1": "guerra",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 566,
+    "unigram_w1": 46530,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 46530,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 4408,
+    "unigram_w1": 46530,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 756,
+    "unigram_w1": 46530,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "guerra",
+    "pmi": 0.2748325961793596,
+    "cooc_count": 4,
+    "unigram_w1": 1371,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "mondiale",
+    "pmi": 4.348612234604927,
+    "cooc_count": 7399,
+    "unigram_w1": 46530,
+    "unigram_w2": 43145,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2934,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "seconda",
+    "pmi": 3.1981759563597785,
+    "cooc_count": 4919,
+    "unigram_w1": 46530,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7456,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "guerra",
+    "pmi": 1.9955275286639385,
+    "cooc_count": 2227,
+    "unigram_w1": 136587,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 1653,
+    "unigram_w1": 1138754,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "guerra",
+    "pmi": 0.3245895568320323,
+    "cooc_count": 769,
+    "unigram_w1": 250781,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "guerra",
+    "pmi": 0.16195758688190345,
+    "cooc_count": 34,
+    "unigram_w1": 13046,
+    "unigram_w2": 46530,
+    "window_size": 10
+  },
+  {
+    "w1": "posizione",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 717,
+    "unigram_w1": 71127,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "è",
+    "pmi": 0.07604865721983772,
+    "cooc_count": 49973,
+    "unigram_w1": 296360,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "quando",
+    "pmi": 0.1480578830911879,
+    "cooc_count": 46,
+    "unigram_w1": 2810,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 4793,
+    "unigram_w1": 296360,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 1371,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "mondiale",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 294,
+    "unigram_w1": 43145,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2934,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 695,
+    "unigram_w1": 296360,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 7456,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 1402,
+    "unigram_w1": 136587,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 6800,
+    "unigram_w1": 1138754,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "quando",
+    "pmi": 0.8849769867113152,
+    "cooc_count": 8578,
+    "unigram_w1": 250781,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 20727,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "quando",
+    "pmi": 0.2730571227305296,
+    "cooc_count": 242,
+    "unigram_w1": 13046,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "posizione",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 9117,
+    "unigram_w1": 71127,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2810,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "posizione",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 545,
+    "unigram_w1": 71127,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "mondiale",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 43145,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2934,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "posizione",
+    "w2": "seconda",
+    "pmi": 1.0368305824243733,
+    "cooc_count": 866,
+    "unigram_w1": 71127,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 7456,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 244,
+    "unigram_w1": 136587,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 3454,
+    "unigram_w1": 1138754,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 605,
+    "unigram_w1": 250781,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "posizione",
+    "w2": "qual",
+    "pmi": 0.0790050320487094,
+    "cooc_count": 76,
+    "unigram_w1": 71127,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "posizione",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 13046,
+    "unigram_w2": 71127,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 247,
+    "unigram_w1": 2810,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "stato",
+    "w2": "è",
+    "pmi": 1.2590420292057993,
+    "cooc_count": 229395,
+    "unigram_w1": 416774,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "è",
+    "pmi": 0.38223803553859587,
+    "cooc_count": 314,
+    "unigram_w1": 1371,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "mitragliere",
+    "w2": "è",
+    "pmi": 0.24670281675855663,
+    "cooc_count": 4,
+    "unigram_w1": 20,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "mondiale",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 4332,
+    "unigram_w1": 43145,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 2934,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "seconda",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 9850,
+    "unigram_w1": 90628,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 771,
+    "unigram_w1": 7456,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 11649,
+    "unigram_w1": 136587,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 103165,
+    "unigram_w1": 1138754,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 13114,
+    "unigram_w1": 250781,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "è",
+    "pmi": 1.6041437282067725,
+    "cooc_count": 16110,
+    "unigram_w1": 20727,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 1164,
+    "unigram_w1": 13046,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 2810,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2810,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 136587,
+    "unigram_w2": 2810,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 122,
+    "unigram_w1": 1138754,
+    "unigram_w2": 2810,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "joseph",
+    "pmi": 0.199983436541599,
+    "cooc_count": 41,
+    "unigram_w1": 250781,
+    "unigram_w2": 2810,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "stato",
+    "pmi": 1.6013661708994016,
+    "cooc_count": 135,
+    "unigram_w1": 1371,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "mondiale",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 537,
+    "unigram_w1": 43145,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 2934,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "seconda",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 767,
+    "unigram_w1": 90628,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 7456,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 1991,
+    "unigram_w1": 136587,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 15864,
+    "unigram_w1": 1138754,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "stato",
+    "pmi": 1.2744548182432176,
+    "cooc_count": 17808,
+    "unigram_w1": 250781,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 408,
+    "unigram_w1": 20727,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 231,
+    "unigram_w1": 13046,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1371,
+    "unigram_w2": 136587,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "dell",
+    "pmi": 0.3256745279541724,
+    "cooc_count": 103,
+    "unigram_w1": 1371,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 1371,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "abbattuto",
+    "w2": "aereo",
+    "pmi": 4.930838552007787,
+    "cooc_count": 118,
+    "unigram_w1": 1371,
+    "unigram_w2": 13046,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "mitragliere",
+    "pmi": 2.1157335230690797,
+    "cooc_count": 9,
+    "unigram_w1": 1138754,
+    "unigram_w2": 20,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "mondiale",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2934,
+    "unigram_w2": 43145,
+    "window_size": 10
+  },
+  {
+    "w1": "mondiale",
+    "w2": "seconda",
+    "pmi": 3.111869155205484,
+    "cooc_count": 4184,
+    "unigram_w1": 43145,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "mondiale",
+    "pmi": 1.5038927136533482,
+    "cooc_count": 1263,
+    "unigram_w1": 136587,
+    "unigram_w2": 43145,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "mondiale",
+    "pmi": 0.41380141047226326,
+    "cooc_count": 3540,
+    "unigram_w1": 1138754,
+    "unigram_w2": 43145,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "mondiale",
+    "pmi": 0.0,
+    "cooc_count": 305,
+    "unigram_w1": 250781,
+    "unigram_w2": 43145,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "mondiale",
+    "pmi": 0.40000724627596485,
+    "cooc_count": 40,
+    "unigram_w1": 13046,
+    "unigram_w2": 43145,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2934,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 2934,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 7456,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "seconda",
+    "pmi": 0.8675314957736768,
+    "cooc_count": 1404,
+    "unigram_w1": 136587,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 4793,
+    "unigram_w1": 1138754,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 667,
+    "unigram_w1": 250781,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 20727,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "seconda",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 13046,
+    "unigram_w2": 90628,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 7456,
+    "unigram_w2": 136587,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 311,
+    "unigram_w1": 7456,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 7456,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "coda",
+    "w2": "qual",
+    "pmi": 0.20094420327436535,
+    "cooc_count": 9,
+    "unigram_w1": 7456,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "coda",
+    "pmi": 1.2998885947952254,
+    "cooc_count": 17,
+    "unigram_w1": 13046,
+    "unigram_w2": 7456,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 5445,
+    "unigram_w1": 1138754,
+    "unigram_w2": 136587,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 1216,
+    "unigram_w1": 136587,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 136587,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "durante",
+    "pmi": 0.13344353239260645,
+    "cooc_count": 97,
+    "unigram_w1": 13046,
+    "unigram_w2": 136587,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 8971,
+    "unigram_w1": 1138754,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 562,
+    "unigram_w1": 1138754,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "dell",
+    "pmi": 0.3080577787289354,
+    "cooc_count": 963,
+    "unigram_w1": 13046,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "qual",
+    "pmi": 0.4895735329693281,
+    "cooc_count": 404,
+    "unigram_w1": 250781,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "era",
+    "pmi": 0.02001848202927292,
+    "cooc_count": 159,
+    "unigram_w1": 13046,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "aereo",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 13046,
+    "unigram_w2": 20727,
+    "window_size": 10
+  }
+]

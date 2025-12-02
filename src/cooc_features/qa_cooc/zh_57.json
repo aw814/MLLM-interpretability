@@ -1,0 +1,317 @@
+[
+  {
+    "w1": "什么",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 9400,
+    "unigram_w1": 303848,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "下部",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 933,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "圣灵",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 1514452,
+    "unigram_w2": 460,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "组成",
+    "pmi": 0.46095850839122915,
+    "cooc_count": 2819,
+    "unigram_w1": 1514452,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "粉",
+    "pmi": 0.0,
+    "cooc_count": 356,
+    "unigram_w1": 1514452,
+    "unigram_w2": 6538,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "组",
+    "pmi": 0.0,
+    "cooc_count": 1057,
+    "unigram_w1": 1514452,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "砂岩",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 1514452,
+    "unigram_w2": 215,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 11154,
+    "unigram_w1": 1514452,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 14011,
+    "unigram_w1": 1514452,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "页岩",
+    "pmi": 0.03744025668576488,
+    "cooc_count": 70,
+    "unigram_w1": 1514452,
+    "unigram_w2": 648,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "圣灵",
+    "pmi": 0.04047567447182426,
+    "cooc_count": 10,
+    "unigram_w1": 303848,
+    "unigram_w2": 460,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "组成",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 303848,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "粉",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 303848,
+    "unigram_w2": 6538,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "组",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 303848,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 3269,
+    "unigram_w1": 303848,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 555,
+    "unigram_w1": 303848,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "下部",
+    "w2": "组",
+    "pmi": 1.6164289077811629,
+    "cooc_count": 6,
+    "unigram_w1": 933,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "下部",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 933,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "下部",
+    "w2": "由",
+    "pmi": 1.220114384109584,
+    "cooc_count": 37,
+    "unigram_w1": 933,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "粉",
+    "w2": "组成",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 6538,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "组",
+    "w2": "组成",
+    "pmi": 2.434512842153595,
+    "cooc_count": 249,
+    "unigram_w1": 18589,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "砂岩",
+    "w2": "组成",
+    "pmi": 2.475359493136479,
+    "cooc_count": 3,
+    "unigram_w1": 215,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "组成",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 281634,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "组成",
+    "pmi": 2.842485439208992,
+    "cooc_count": 3432,
+    "unigram_w1": 170382,
+    "unigram_w2": 17086,
+    "window_size": 10
+  },
+  {
+    "w1": "粉",
+    "w2": "组",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 6538,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "砂岩",
+    "w2": "粉",
+    "pmi": 5.704671140882251,
+    "cooc_count": 29,
+    "unigram_w1": 215,
+    "unigram_w2": 6538,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "粉",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 281634,
+    "unigram_w2": 6538,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "粉",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 170382,
+    "unigram_w2": 6538,
+    "window_size": 10
+  },
+  {
+    "w1": "砂岩",
+    "w2": "组",
+    "pmi": 2.6787309723926795,
+    "cooc_count": 4,
+    "unigram_w1": 215,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "组",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 281634,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "组",
+    "pmi": 0.23040449179362946,
+    "cooc_count": 274,
+    "unigram_w1": 170382,
+    "unigram_w2": 18589,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "砂岩",
+    "pmi": 1.1564051858648765,
+    "cooc_count": 8,
+    "unigram_w1": 170382,
+    "unigram_w2": 215,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 891,
+    "unigram_w1": 281634,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "页岩",
+    "pmi": 0.24373431758103695,
+    "cooc_count": 16,
+    "unigram_w1": 281634,
+    "unigram_w2": 648,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "页岩",
+    "pmi": 0.9694432495144197,
+    "cooc_count": 20,
+    "unigram_w1": 170382,
+    "unigram_w2": 648,
+    "window_size": 10
+  }
+]

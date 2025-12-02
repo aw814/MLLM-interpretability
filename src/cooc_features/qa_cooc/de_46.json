@@ -1,0 +1,38 @@
+[
+  {
+    "w1": "praxis",
+    "w2": "religiöse",
+    "pmi": 2.1241618819913963,
+    "cooc_count": 45,
+    "unigram_w1": 29632,
+    "unigram_w2": 3383,
+    "window_size": 10
+  },
+  {
+    "w1": "praxis",
+    "w2": "schamanismus",
+    "pmi": 0.9898626265342658,
+    "cooc_count": 11,
+    "unigram_w1": 29632,
+    "unigram_w2": 2571,
+    "window_size": 10
+  },
+  {
+    "w1": "praxis",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 29632,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "religiöse",
+    "w2": "welche",
+    "pmi": 0.3867990284848504,
+    "cooc_count": 37,
+    "unigram_w1": 3383,
+    "unigram_w2": 138445,
+    "window_size": 10
+  }
+]

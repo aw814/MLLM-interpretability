@@ -1,0 +1,254 @@
+[
+  {
+    "w1": "bandera",
+    "w2": "debate",
+    "pmi": 0.026351454589553274,
+    "cooc_count": 13,
+    "unigram_w1": 9652,
+    "unigram_w2": 23138,
+    "window_size": 10
+  },
+  {
+    "w1": "comenzó",
+    "w2": "debate",
+    "pmi": 0.07896938704551276,
+    "cooc_count": 42,
+    "unigram_w1": 29585,
+    "unigram_w2": 23138,
+    "window_size": 10
+  },
+  {
+    "w1": "debate",
+    "w2": "sobre",
+    "pmi": 1.9261546687965396,
+    "cooc_count": 4675,
+    "unigram_w1": 23138,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "debate",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 276410,
+    "unigram_w2": 23138,
+    "window_size": 10
+  },
+  {
+    "w1": "debate",
+    "w2": "oficialmente",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 23138,
+    "unigram_w2": 6518,
+    "window_size": 10
+  },
+  {
+    "w1": "debate",
+    "w2": "gran",
+    "pmi": 0.0,
+    "cooc_count": 324,
+    "unigram_w1": 23138,
+    "unigram_w2": 273070,
+    "window_size": 10
+  },
+  {
+    "w1": "bandera",
+    "w2": "comenzó",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 9652,
+    "unigram_w2": 29585,
+    "window_size": 10
+  },
+  {
+    "w1": "bandera",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 216,
+    "unigram_w1": 9652,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "bandera",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 276410,
+    "unigram_w2": 9652,
+    "window_size": 10
+  },
+  {
+    "w1": "bandera",
+    "w2": "oficialmente",
+    "pmi": 0.9255353816555631,
+    "cooc_count": 9,
+    "unigram_w1": 9652,
+    "unigram_w2": 6518,
+    "window_size": 10
+  },
+  {
+    "w1": "bandera",
+    "w2": "gran",
+    "pmi": 0.0,
+    "cooc_count": 125,
+    "unigram_w1": 9652,
+    "unigram_w2": 273070,
+    "window_size": 10
+  },
+  {
+    "w1": "comenzó",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 363,
+    "unigram_w1": 29585,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "comenzó",
+    "pmi": 0.601410145285938,
+    "cooc_count": 846,
+    "unigram_w1": 276410,
+    "unigram_w2": 29585,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "comenzó",
+    "pmi": 1.4759433347658815,
+    "cooc_count": 19,
+    "unigram_w1": 2589,
+    "unigram_w2": 29585,
+    "window_size": 10
+  },
+  {
+    "w1": "comenzó",
+    "w2": "oficialmente",
+    "pmi": 0.49858023384963646,
+    "cooc_count": 18,
+    "unigram_w1": 29585,
+    "unigram_w2": 6518,
+    "window_size": 10
+  },
+  {
+    "w1": "comenzó",
+    "w2": "gran",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 29585,
+    "unigram_w2": 273070,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 2695,
+    "unigram_w1": 276410,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "canadiense",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 3663,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 2589,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "oficialmente",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 6518,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "gran",
+    "w2": "sobre",
+    "pmi": 0.0,
+    "cooc_count": 4787,
+    "unigram_w1": 273070,
+    "unigram_w2": 519256,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "canadiense",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 276410,
+    "unigram_w2": 3663,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "año",
+    "pmi": 1.1720838842401233,
+    "cooc_count": 131,
+    "unigram_w1": 2589,
+    "unigram_w2": 276410,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "oficialmente",
+    "pmi": 0.5775973684697978,
+    "cooc_count": 182,
+    "unigram_w1": 276410,
+    "unigram_w2": 6518,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "gran",
+    "pmi": 0.0,
+    "cooc_count": 2171,
+    "unigram_w1": 276410,
+    "unigram_w2": 273070,
+    "window_size": 10
+  },
+  {
+    "w1": "canadiense",
+    "w2": "gran",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 3663,
+    "unigram_w2": 273070,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "gran",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 2589,
+    "unigram_w2": 273070,
+    "window_size": 10
+  },
+  {
+    "w1": "gran",
+    "w2": "oficialmente",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 273070,
+    "unigram_w2": 6518,
+    "window_size": 10
+  }
+]

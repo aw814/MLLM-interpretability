@@ -1,0 +1,191 @@
+[
+  {
+    "w1": "maire",
+    "w2": "qui",
+    "pmi": 0.0,
+    "cooc_count": 1230,
+    "unigram_w1": 20895,
+    "unigram_w2": 1964044,
+    "window_size": 10
+  },
+  {
+    "w1": "femme",
+    "w2": "maire",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 216111,
+    "unigram_w2": 20895,
+    "window_size": 10
+  },
+  {
+    "w1": "maire",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 20895,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "maire",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 138814,
+    "unigram_w2": 20895,
+    "window_size": 10
+  },
+  {
+    "w1": "maire",
+    "w2": "première",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 20895,
+    "unigram_w2": 147875,
+    "window_size": 10
+  },
+  {
+    "w1": "femme",
+    "w2": "qui",
+    "pmi": 0.0,
+    "cooc_count": 9576,
+    "unigram_w1": 216111,
+    "unigram_w2": 1964044,
+    "window_size": 10
+  },
+  {
+    "w1": "qui",
+    "w2": "turquie",
+    "pmi": 0.0,
+    "cooc_count": 437,
+    "unigram_w1": 1964044,
+    "unigram_w2": 9445,
+    "window_size": 10
+  },
+  {
+    "w1": "qui",
+    "w2": "était",
+    "pmi": 0.20357201902011748,
+    "cooc_count": 32134,
+    "unigram_w1": 1964044,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "qui",
+    "pmi": 0.0,
+    "cooc_count": 1804,
+    "unigram_w1": 138814,
+    "unigram_w2": 1964044,
+    "window_size": 10
+  },
+  {
+    "w1": "première",
+    "w2": "qui",
+    "pmi": 0.0,
+    "cooc_count": 7650,
+    "unigram_w1": 147875,
+    "unigram_w2": 1964044,
+    "window_size": 10
+  },
+  {
+    "w1": "femme",
+    "w2": "turquie",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 216111,
+    "unigram_w2": 9445,
+    "window_size": 10
+  },
+  {
+    "w1": "femme",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 1332,
+    "unigram_w1": 216111,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "femme",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 436,
+    "unigram_w1": 216111,
+    "unigram_w2": 138814,
+    "window_size": 10
+  },
+  {
+    "w1": "femme",
+    "w2": "première",
+    "pmi": 0.0,
+    "cooc_count": 868,
+    "unigram_w1": 216111,
+    "unigram_w2": 147875,
+    "window_size": 10
+  },
+  {
+    "w1": "turquie",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 9445,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "turquie",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 138814,
+    "unigram_w2": 9445,
+    "window_size": 10
+  },
+  {
+    "w1": "première",
+    "w2": "turquie",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 147875,
+    "unigram_w2": 9445,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 258,
+    "unigram_w1": 138814,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "première",
+    "w2": "était",
+    "pmi": 0.45080767101721797,
+    "cooc_count": 3098,
+    "unigram_w1": 147875,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "lhan",
+    "pmi": 5.073632662919125,
+    "cooc_count": 18,
+    "unigram_w1": 138814,
+    "unigram_w2": 18,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "première",
+    "pmi": 0.0,
+    "cooc_count": 208,
+    "unigram_w1": 138814,
+    "unigram_w2": 147875,
+    "window_size": 10
+  }
+]

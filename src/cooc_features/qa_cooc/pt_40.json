@@ -1,0 +1,614 @@
+[
+  {
+    "w1": "mississippi",
+    "w2": "north",
+    "pmi": 4.920644868547903,
+    "cooc_count": 11,
+    "unigram_w1": 311,
+    "unigram_w2": 3651,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "the",
+    "pmi": 0.7447976438056974,
+    "cooc_count": 18,
+    "unigram_w1": 311,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 311,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "mavis",
+    "w2": "para",
+    "pmi": 1.0931175359585317,
+    "cooc_count": 10,
+    "unigram_w1": 15,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 3014,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "quem",
+    "pmi": 0.06081003007612922,
+    "cooc_count": 49,
+    "unigram_w1": 3014,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "jack",
+    "pmi": 2.154866810283306,
+    "cooc_count": 8,
+    "unigram_w1": 3014,
+    "unigram_w2": 4354,
+    "window_size": 10
+  },
+  {
+    "w1": "contribuiu",
+    "w2": "para",
+    "pmi": 1.1377279657252557,
+    "cooc_count": 2101,
+    "unigram_w1": 3014,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "spooner",
+    "pmi": 1.1419077001279638,
+    "cooc_count": 7,
+    "unigram_w1": 3162003,
+    "unigram_w2": 10,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "north",
+    "pmi": 1.434913273425915,
+    "cooc_count": 2,
+    "unigram_w1": 1846,
+    "unigram_w2": 3651,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "the",
+    "pmi": 0.48016163029022246,
+    "cooc_count": 82,
+    "unigram_w1": 1846,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "quem",
+    "pmi": 0.2968228558155316,
+    "cooc_count": 38,
+    "unigram_w1": 1846,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "to",
+    "pmi": 0.19119527433418415,
+    "cooc_count": 25,
+    "unigram_w1": 1846,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "johnson",
+    "pmi": 2.2355230587968484,
+    "cooc_count": 4,
+    "unigram_w1": 1846,
+    "unigram_w2": 3279,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "álbum",
+    "pmi": 0.7036626629336977,
+    "cooc_count": 5,
+    "unigram_w1": 1846,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "jim",
+    "pmi": 2.5115823817824268,
+    "cooc_count": 7,
+    "unigram_w1": 4354,
+    "unigram_w2": 1846,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 194,
+    "unigram_w1": 1846,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "the",
+    "pmi": 1.7122307106837125,
+    "cooc_count": 556,
+    "unigram_w1": 3651,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "north",
+    "pmi": 3.6261016790528546,
+    "cooc_count": 17,
+    "unigram_w1": 1754,
+    "unigram_w2": 3651,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 3651,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "to",
+    "pmi": 0.865050461376527,
+    "cooc_count": 97,
+    "unigram_w1": 3651,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "álbum",
+    "pmi": 0.6094693612429772,
+    "cooc_count": 9,
+    "unigram_w1": 3651,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "oldham",
+    "pmi": 5.870726281206778,
+    "cooc_count": 15,
+    "unigram_w1": 3651,
+    "unigram_w2": 164,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 500,
+    "unigram_w1": 3651,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "ashford",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 79,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "cooder",
+    "w2": "ry",
+    "pmi": 11.860128703596313,
+    "cooc_count": 9,
+    "unigram_w1": 10,
+    "unigram_w2": 90,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "the",
+    "pmi": 1.5798857405143398,
+    "cooc_count": 234,
+    "unigram_w1": 1754,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "the",
+    "pmi": 0.532940446636905,
+    "cooc_count": 31,
+    "unigram_w1": 662,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "quem",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 472,
+    "unigram_w1": 216487,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "to",
+    "pmi": 2.4932853322315647,
+    "cooc_count": 52642,
+    "unigram_w1": 388901,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "the",
+    "pmi": 2.228175277905331,
+    "cooc_count": 212,
+    "unigram_w1": 831,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "the",
+    "pmi": 0.47565876366469295,
+    "cooc_count": 145,
+    "unigram_w1": 3279,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "alvin",
+    "w2": "the",
+    "pmi": 0.26998245756273986,
+    "cooc_count": 9,
+    "unigram_w1": 250,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "ry",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 90,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "staples",
+    "w2": "the",
+    "pmi": 0.23461531372544836,
+    "cooc_count": 9,
+    "unigram_w1": 259,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "álbum",
+    "pmi": 0.7378540492899472,
+    "cooc_count": 1090,
+    "unigram_w1": 388901,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "the",
+    "pmi": 0.6792003613198843,
+    "cooc_count": 236,
+    "unigram_w1": 4354,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 7297,
+    "unigram_w1": 3162003,
+    "unigram_w2": 388901,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1754,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "to",
+    "pmi": 1.2719369336460116,
+    "cooc_count": 70,
+    "unigram_w1": 1754,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "oldham",
+    "pmi": 6.198363381822123,
+    "cooc_count": 10,
+    "unigram_w1": 1754,
+    "unigram_w2": 164,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 1754,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "to",
+    "pmi": 0.5627796660533093,
+    "cooc_count": 13,
+    "unigram_w1": 662,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 662,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "quem",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 229,
+    "unigram_w1": 216487,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 3279,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "quem",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 216487,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 4354,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "quem",
+    "pmi": 0.3323794223240876,
+    "cooc_count": 67446,
+    "unigram_w1": 3162003,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "to",
+    "pmi": 2.3243429612738735,
+    "cooc_count": 95,
+    "unigram_w1": 831,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 3279,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "alvin",
+    "w2": "to",
+    "pmi": 1.0510764883463706,
+    "cooc_count": 8,
+    "unigram_w1": 250,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 186,
+    "unigram_w1": 158293,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 4354,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "oldham",
+    "w2": "to",
+    "pmi": 1.0026673491386828,
+    "cooc_count": 5,
+    "unigram_w1": 164,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 3552,
+    "unigram_w1": 3162003,
+    "unigram_w2": 158293,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "álbum",
+    "pmi": 0.5855185512668919,
+    "cooc_count": 2,
+    "unigram_w1": 831,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 831,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3279,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "johnson",
+    "pmi": 4.239650112994622,
+    "cooc_count": 70,
+    "unigram_w1": 4354,
+    "unigram_w2": 3279,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 332,
+    "unigram_w1": 3279,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "alvin",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 250,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "ry",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3162003,
+    "unigram_w2": 90,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "staples",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 3162003,
+    "unigram_w2": 259,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 4354,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 1836,
+    "unigram_w1": 3162003,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 497,
+    "unigram_w1": 4354,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "oldham",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 164,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  }
+]

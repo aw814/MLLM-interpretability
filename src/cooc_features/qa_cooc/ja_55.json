@@ -1,0 +1,767 @@
+[
+  {
+    "w1": "た",
+    "w2": "テレビ局",
+    "pmi": 0.0,
+    "cooc_count": 869,
+    "unigram_w1": 26828306,
+    "unigram_w2": 4630,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "た",
+    "pmi": 0.3207502385477497,
+    "cooc_count": 7490485,
+    "unigram_w1": 26162896,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 187693,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 2096552,
+    "unigram_w1": 11759829,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "グレイ",
+    "pmi": 0.0,
+    "cooc_count": 438,
+    "unigram_w1": 26828306,
+    "unigram_w2": 5154,
+    "window_size": 10
+  },
+  {
+    "w1": "cbcテレビ",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 168,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "を",
+    "pmi": 0.0,
+    "cooc_count": 5625814,
+    "unigram_w1": 26828306,
+    "unigram_w2": 30836390,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 625420,
+    "unigram_w1": 26828306,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "テスト",
+    "pmi": 0.0,
+    "cooc_count": 8406,
+    "unigram_w1": 26828306,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "インベンション",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 26828306,
+    "unigram_w2": 400,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 1435093,
+    "unigram_w1": 26828306,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 5141625,
+    "unigram_w1": 26828306,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 18450,
+    "unigram_w1": 26828306,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "カナディアン",
+    "pmi": 0.0,
+    "cooc_count": 285,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1863,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "テレビ局",
+    "pmi": 0.0,
+    "cooc_count": 633,
+    "unigram_w1": 26162896,
+    "unigram_w2": 4630,
+    "window_size": 10
+  },
+  {
+    "w1": "テレビ局",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 4630,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "テレビ局",
+    "pmi": 0.0,
+    "cooc_count": 258,
+    "unigram_w1": 11759829,
+    "unigram_w2": 4630,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "テレビ局",
+    "pmi": 0.08281862703079107,
+    "cooc_count": 1201,
+    "unigram_w1": 30836390,
+    "unigram_w2": 4630,
+    "window_size": 10
+  },
+  {
+    "w1": "テレビ局",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 304,
+    "unigram_w1": 4630,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "テレビ局",
+    "pmi": 0.0,
+    "cooc_count": 255,
+    "unigram_w1": 8705379,
+    "unigram_w2": 4630,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "テレビ局",
+    "pmi": 0.02518315209929616,
+    "cooc_count": 1232,
+    "unigram_w1": 33509041,
+    "unigram_w2": 4630,
+    "window_size": 10
+  },
+  {
+    "w1": "テレビ局",
+    "w2": "放送",
+    "pmi": 4.04016003860439,
+    "cooc_count": 204,
+    "unigram_w1": 4630,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 180720,
+    "unigram_w1": 26162896,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "し",
+    "pmi": 0.0,
+    "cooc_count": 2083488,
+    "unigram_w1": 11759829,
+    "unigram_w2": 26162896,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "グレイ",
+    "pmi": 0.0,
+    "cooc_count": 249,
+    "unigram_w1": 26162896,
+    "unigram_w2": 5154,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "を",
+    "pmi": 0.08268130057261511,
+    "cooc_count": 6785599,
+    "unigram_w1": 26162896,
+    "unigram_w2": 30836390,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 519222,
+    "unigram_w1": 26162896,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "テスト",
+    "pmi": 0.0,
+    "cooc_count": 8479,
+    "unigram_w1": 26162896,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "インベンション",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 26162896,
+    "unigram_w2": 400,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 992684,
+    "unigram_w1": 26162896,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 4343677,
+    "unigram_w1": 26162896,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 13473,
+    "unigram_w1": 26162896,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "し",
+    "w2": "カナディアン",
+    "pmi": 0.0,
+    "cooc_count": 239,
+    "unigram_w1": 26162896,
+    "unigram_w2": 1863,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "何",
+    "pmi": 1.4703277843766105,
+    "cooc_count": 427413,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "グレイ",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5154,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 230102,
+    "unigram_w1": 30836390,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 23781,
+    "unigram_w1": 11320816,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "テスト",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 52136,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 71778,
+    "unigram_w1": 8705379,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "何",
+    "pmi": 0.0518398876523243,
+    "cooc_count": 294827,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 336,
+    "unigram_w1": 1078849,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "カナディアン",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 1863,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "か",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 239,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "を",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 239,
+    "unigram_w2": 30836390,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 239,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "グレイ",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 11759829,
+    "unigram_w2": 5154,
+    "window_size": 10
+  },
+  {
+    "w1": "cbcテレビ",
+    "w2": "か",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 168,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "を",
+    "pmi": 0.0,
+    "cooc_count": 1482912,
+    "unigram_w1": 11759829,
+    "unigram_w2": 30836390,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 242610,
+    "unigram_w1": 11759829,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "テスト",
+    "pmi": 0.0,
+    "cooc_count": 2012,
+    "unigram_w1": 11759829,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "インベンション",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 11759829,
+    "unigram_w2": 400,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 504609,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 2794,
+    "unigram_w1": 11759829,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "カナディアン",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1863,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "グレイ",
+    "pmi": 0.0,
+    "cooc_count": 553,
+    "unigram_w1": 30836390,
+    "unigram_w2": 5154,
+    "window_size": 10
+  },
+  {
+    "w1": "グレイ",
+    "w2": "・",
+    "pmi": 1.251291906163555,
+    "cooc_count": 1579,
+    "unigram_w1": 5154,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "グレイ",
+    "w2": "テスト",
+    "pmi": 4.865709595841052,
+    "cooc_count": 270,
+    "unigram_w1": 5154,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "グレイ",
+    "pmi": 0.0,
+    "cooc_count": 231,
+    "unigram_w1": 8705379,
+    "unigram_w2": 5154,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "グレイ",
+    "pmi": 0.0,
+    "cooc_count": 616,
+    "unigram_w1": 33509041,
+    "unigram_w2": 5154,
+    "window_size": 10
+  },
+  {
+    "w1": "cbcテレビ",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 168,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "cbcテレビ",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 168,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 888024,
+    "unigram_w1": 30836390,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "テスト",
+    "pmi": 0.16280559846408413,
+    "cooc_count": 14650,
+    "unigram_w1": 30836390,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "インベンション",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 30836390,
+    "unigram_w2": 400,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "を",
+    "pmi": 0.0,
+    "cooc_count": 1336326,
+    "unigram_w1": 8705379,
+    "unigram_w2": 30836390,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "を",
+    "pmi": 0.0,
+    "cooc_count": 4938790,
+    "unigram_w1": 33509041,
+    "unigram_w2": 30836390,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 18830,
+    "unigram_w1": 30836390,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "を",
+    "w2": "カナディアン",
+    "pmi": 0.0,
+    "cooc_count": 309,
+    "unigram_w1": 30836390,
+    "unigram_w2": 1863,
+    "window_size": 10
+  },
+  {
+    "w1": "テスト",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 4561,
+    "unigram_w1": 52136,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "インベンション",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 400,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 272109,
+    "unigram_w1": 8705379,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 962111,
+    "unigram_w1": 33509041,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 7052,
+    "unigram_w1": 11320816,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "カナディアン",
+    "w2": "・",
+    "pmi": 0.08611346281072002,
+    "cooc_count": 178,
+    "unigram_w1": 1863,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "テスト",
+    "pmi": 0.0,
+    "cooc_count": 3312,
+    "unigram_w1": 8705379,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "テスト",
+    "pmi": 0.0,
+    "cooc_count": 11900,
+    "unigram_w1": 33509041,
+    "unigram_w2": 52136,
+    "window_size": 10
+  },
+  {
+    "w1": "テスト",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 52136,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "インベンション",
+    "pmi": 0.8326451655712075,
+    "cooc_count": 62,
+    "unigram_w1": 8705379,
+    "unigram_w2": 400,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "インベンション",
+    "pmi": 0.16165765271138544,
+    "cooc_count": 122,
+    "unigram_w1": 33509041,
+    "unigram_w2": 400,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "は",
+    "pmi": 0.10498293108232228,
+    "cooc_count": 2508846,
+    "unigram_w1": 8705379,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 5530,
+    "unigram_w1": 8705379,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "カナディアン",
+    "pmi": 0.7277135880480372,
+    "cooc_count": 260,
+    "unigram_w1": 8705379,
+    "unigram_w2": 1863,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "放送",
+    "pmi": 0.0,
+    "cooc_count": 20233,
+    "unigram_w1": 33509041,
+    "unigram_w2": 100115,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "カナディアン",
+    "pmi": 0.0,
+    "cooc_count": 445,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1863,
+    "window_size": 10
+  }
+]

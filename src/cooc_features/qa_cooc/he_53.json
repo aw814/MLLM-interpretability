@@ -1,0 +1,740 @@
+[
+  {
+    "w1": "john",
+    "w2": "בריאות",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2512,
+    "unigram_w2": 40361,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 212,
+    "unigram_w1": 2512,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 2512,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "of",
+    "pmi": 2.2355773740637024,
+    "cooc_count": 249,
+    "unigram_w1": 2512,
+    "unigram_w2": 145116,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "john",
+    "pmi": 2.623262391964562,
+    "cooc_count": 6,
+    "unigram_w1": 2373,
+    "unigram_w2": 2512,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "john",
+    "pmi": 2.6506028390458303,
+    "cooc_count": 6,
+    "unigram_w1": 2309,
+    "unigram_w2": 2512,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 5.451951801828133,
+    "cooc_count": 208,
+    "unigram_w1": 2512,
+    "unigram_w2": 4861,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 2512,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2512,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "john",
+    "pmi": 2.4049344626799622,
+    "cooc_count": 6,
+    "unigram_w1": 2952,
+    "unigram_w2": 2512,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "רווח",
+    "pmi": 0.025013731699586216,
+    "cooc_count": 48,
+    "unigram_w1": 40361,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 8379,
+    "unigram_w1": 40361,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 649,
+    "unigram_w1": 40361,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "בריאות",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 145116,
+    "unigram_w2": 40361,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "בריאות",
+    "pmi": 0.8273069213968397,
+    "cooc_count": 16,
+    "unigram_w1": 2373,
+    "unigram_w2": 40361,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "בריאות",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 4861,
+    "unigram_w2": 40361,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 1145,
+    "unigram_w1": 40361,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "מטרות",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 40361,
+    "unigram_w2": 22083,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 40361,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "בריאות",
+    "pmi": 1.9472641340457701,
+    "cooc_count": 61,
+    "unigram_w1": 2952,
+    "unigram_w2": 40361,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "בריאות",
+    "pmi": 0.0,
+    "cooc_count": 139,
+    "unigram_w1": 83727,
+    "unigram_w2": 40361,
+    "window_size": 10
+  },
+  {
+    "w1": "בריאות",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 40361,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "רווח",
+    "w2": "של",
+    "pmi": 0.04600702385251656,
+    "cooc_count": 6072,
+    "unigram_w1": 15880,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ללא",
+    "w2": "רווח",
+    "pmi": 2.095442751414241,
+    "cooc_count": 2143,
+    "unigram_w1": 227283,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "רווח",
+    "pmi": 0.0,
+    "cooc_count": 714,
+    "unigram_w1": 891504,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "מטרות",
+    "w2": "רווח",
+    "pmi": 3.735082353863116,
+    "cooc_count": 1073,
+    "unigram_w1": 22083,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "קבוצת",
+    "w2": "רווח",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 46584,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "רווח",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 83727,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "סוג",
+    "w2": "רווח",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 87076,
+    "unigram_w2": 15880,
+    "window_size": 10
+  },
+  {
+    "w1": "ללא",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 46636,
+    "unigram_w1": 227283,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 4947,
+    "unigram_w1": 145116,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 205,
+    "unigram_w1": 2373,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 2309,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "קתולית",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 123,
+    "unigram_w1": 618,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 301,
+    "unigram_w1": 4861,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 225188,
+    "unigram_w1": 891504,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מטרות",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3473,
+    "unigram_w1": 22083,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "קבוצת",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 16217,
+    "unigram_w1": 46584,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 2952,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 13221,
+    "unigram_w1": 83727,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "סוג",
+    "w2": "של",
+    "pmi": 0.33401777242734776,
+    "cooc_count": 44408,
+    "unigram_w1": 87076,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 145116,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 2373,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 4861,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 10413,
+    "unigram_w1": 891504,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "ללא",
+    "w2": "מטרות",
+    "pmi": 1.2330115672753608,
+    "cooc_count": 1258,
+    "unigram_w1": 227283,
+    "unigram_w2": 22083,
+    "window_size": 10
+  },
+  {
+    "w1": "ללא",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 487,
+    "unigram_w1": 227283,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2952,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "ללא",
+    "pmi": 0.0,
+    "cooc_count": 417,
+    "unigram_w1": 83727,
+    "unigram_w2": 227283,
+    "window_size": 10
+  },
+  {
+    "w1": "ללא",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 1019,
+    "unigram_w1": 227283,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "of",
+    "pmi": 3.0230916232597496,
+    "cooc_count": 517,
+    "unigram_w1": 2373,
+    "unigram_w2": 145116,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "of",
+    "pmi": 3.4317524492700375,
+    "cooc_count": 757,
+    "unigram_w1": 2309,
+    "unigram_w2": 145116,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "st",
+    "pmi": 1.9660424863105597,
+    "cooc_count": 368,
+    "unigram_w1": 145116,
+    "unigram_w2": 4861,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 497,
+    "unigram_w1": 145116,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "מטרות",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 145116,
+    "unigram_w2": 22083,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 145116,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "of",
+    "pmi": 3.109228706501311,
+    "cooc_count": 701,
+    "unigram_w1": 2952,
+    "unigram_w2": 145116,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "איזה",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 145116,
+    "unigram_w2": 83727,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 145116,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "st",
+    "pmi": 3.0617097511753055,
+    "cooc_count": 18,
+    "unigram_w1": 2373,
+    "unigram_w2": 4861,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 2373,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 6.441540387734249,
+    "cooc_count": 321,
+    "unigram_w1": 2373,
+    "unigram_w2": 2952,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2373,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "st",
+    "pmi": 1.5849728014802997,
+    "cooc_count": 4,
+    "unigram_w1": 2309,
+    "unigram_w2": 4861,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 2309,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "איזה",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2309,
+    "unigram_w2": 83727,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2309,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "קתולית",
+    "pmi": 0.21711705163558254,
+    "cooc_count": 50,
+    "unigram_w1": 891504,
+    "unigram_w2": 618,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 4861,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "st",
+    "pmi": 1.3393044251144317,
+    "cooc_count": 4,
+    "unigram_w1": 2952,
+    "unigram_w2": 4861,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 4861,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "מטרות",
+    "pmi": 0.0,
+    "cooc_count": 624,
+    "unigram_w1": 891504,
+    "unigram_w2": 22083,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 2646,
+    "unigram_w1": 891504,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 2952,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "היא",
+    "pmi": 0.0,
+    "cooc_count": 3189,
+    "unigram_w1": 83727,
+    "unigram_w2": 891504,
+    "window_size": 10
+  },
+  {
+    "w1": "היא",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 3742,
+    "unigram_w1": 891504,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "מטרות",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 22083,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "מטרות",
+    "pmi": 0.46964596861293123,
+    "cooc_count": 216,
+    "unigram_w1": 83727,
+    "unigram_w2": 22083,
+    "window_size": 10
+  },
+  {
+    "w1": "מטרות",
+    "w2": "סוג",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 22083,
+    "unigram_w2": 87076,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 83727,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "סוג",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 87076,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "סוג",
+    "pmi": 1.8920139038586057,
+    "cooc_count": 3532,
+    "unigram_w1": 83727,
+    "unigram_w2": 87076,
+    "window_size": 10
+  }
+]

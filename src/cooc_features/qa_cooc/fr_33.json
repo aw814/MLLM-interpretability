@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "pays",
+    "w2": "trouvait",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 174813,
+    "unigram_w2": 5507,
+    "window_size": 10
+  },
+  {
+    "w1": "allemagne",
+    "w2": "bremerhaven",
+    "pmi": 5.764455691773228,
+    "cooc_count": 8,
+    "unigram_w1": 29292,
+    "unigram_w2": 19,
+    "window_size": 10
+  },
+  {
+    "w1": "allemagne",
+    "w2": "pays",
+    "pmi": 2.1206622658341274,
+    "cooc_count": 1925,
+    "unigram_w1": 29292,
+    "unigram_w2": 174813,
+    "window_size": 10
+  }
+]

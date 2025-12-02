@@ -1,0 +1,110 @@
+[
+  {
+    "w1": "charlie",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 1402,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "siapa",
+    "pmi": 0.8617504495297517,
+    "cooc_count": 13,
+    "unigram_w1": 1402,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "novel",
+    "pmi": 2.2324497329255153,
+    "cooc_count": 14,
+    "unigram_w1": 1402,
+    "unigram_w2": 16504,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "nama",
+    "pmi": 0.16972648039461138,
+    "cooc_count": 18,
+    "unigram_w1": 1402,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "protagonis",
+    "pmi": 0.11829703390767478,
+    "cooc_count": 63,
+    "unigram_w1": 1714536,
+    "unigram_w2": 503,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "siapa",
+    "pmi": 0.0,
+    "cooc_count": 3320,
+    "unigram_w1": 1714536,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "novel",
+    "pmi": 0.12018128426037798,
+    "cooc_count": 2071,
+    "unigram_w1": 1714536,
+    "unigram_w2": 16504,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 9166,
+    "unigram_w1": 1714536,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "protagonis",
+    "pmi": 1.137632964049459,
+    "cooc_count": 17,
+    "unigram_w1": 166941,
+    "unigram_w2": 503,
+    "window_size": 10
+  },
+  {
+    "w1": "novel",
+    "w2": "siapa",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 16504,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "siapa",
+    "pmi": 0.386074874765559,
+    "cooc_count": 962,
+    "unigram_w1": 166941,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "novel",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 166941,
+    "unigram_w2": 16504,
+    "window_size": 10
+  }
+]

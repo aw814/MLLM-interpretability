@@ -1,0 +1,272 @@
+[
+  {
+    "w1": "是",
+    "w2": "辛克莱",
+    "pmi": 0.4155642750404346,
+    "cooc_count": 6,
+    "unigram_w1": 2216630,
+    "unigram_w2": 26,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "辛克莱",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 10165533,
+    "unigram_w2": 26,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "收购",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 57949,
+    "unigram_w2": 12678,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "是",
+    "pmi": 0.7834270980628015,
+    "cooc_count": 19319,
+    "unigram_w1": 57949,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 14024,
+    "unigram_w1": 57949,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 5217,
+    "unigram_w1": 57949,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "年代",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 57949,
+    "unigram_w2": 17541,
+    "window_size": 10
+  },
+  {
+    "w1": "哈里",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 681,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "哈里",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 267,
+    "unigram_w1": 681,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哈里",
+    "w2": "在",
+    "pmi": 0.40309634178802645,
+    "cooc_count": 165,
+    "unigram_w1": 681,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "收购",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 703,
+    "unigram_w1": 12678,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "收购",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 5302,
+    "unigram_w1": 12678,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "收购",
+    "pmi": 0.0,
+    "cooc_count": 1204,
+    "unigram_w1": 2356497,
+    "unigram_w2": 12678,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "马场",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 2216630,
+    "unigram_w2": 476,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 14701,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "卡斯",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 962,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 195632,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "年代",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 2278,
+    "unigram_w1": 17541,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "马场",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 10165533,
+    "unigram_w2": 476,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "马场",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 2356497,
+    "unigram_w2": 476,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 281,
+    "unigram_w1": 14701,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 14701,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "卡斯",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 353,
+    "unigram_w1": 962,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "卡斯",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 962,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 181,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 246,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "年代",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 10299,
+    "unigram_w1": 17541,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年代",
+    "pmi": 0.20090297297341894,
+    "cooc_count": 3472,
+    "unigram_w1": 2356497,
+    "unigram_w2": 17541,
+    "window_size": 10
+  }
+]

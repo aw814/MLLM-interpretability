@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "3",
+    "w2": "festa",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 320695,
+    "unigram_w2": 136,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "몇",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 320695,
+    "unigram_w2": 19561,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "3월",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 320695,
+    "unigram_w2": 27931,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "k",
+    "pmi": 0.0437831091539384,
+    "cooc_count": 3425,
+    "unigram_w1": 320695,
+    "unigram_w2": 19450,
+    "window_size": 10
+  },
+  {
+    "w1": "festa",
+    "w2": "k",
+    "pmi": 2.848571097734296,
+    "cooc_count": 24,
+    "unigram_w1": 136,
+    "unigram_w2": 19450,
+    "window_size": 10
+  },
+  {
+    "w1": "3월",
+    "w2": "몇",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 27931,
+    "unigram_w2": 19561,
+    "window_size": 10
+  },
+  {
+    "w1": "몇",
+    "w2": "월에",
+    "pmi": 0.9444824394231554,
+    "cooc_count": 23,
+    "unigram_w1": 19561,
+    "unigram_w2": 870,
+    "window_size": 10
+  },
+  {
+    "w1": "3월",
+    "w2": "이벤트는",
+    "pmi": 1.5029148720023682,
+    "cooc_count": 45,
+    "unigram_w1": 27931,
+    "unigram_w2": 682,
+    "window_size": 10
+  },
+  {
+    "w1": "3월",
+    "w2": "k",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 27931,
+    "unigram_w2": 19450,
+    "window_size": 10
+  }
+]

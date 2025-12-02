@@ -1,0 +1,515 @@
+[
+  {
+    "w1": "a",
+    "w2": "il",
+    "pmi": 0.5732242396785521,
+    "cooc_count": 514680,
+    "unigram_w1": 2730698,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 10497,
+    "unigram_w1": 2730698,
+    "unigram_w2": 91933,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "décennie",
+    "pmi": 0.0,
+    "cooc_count": 367,
+    "unigram_w1": 2730698,
+    "unigram_w2": 3411,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "acheté",
+    "pmi": 0.2507490978158474,
+    "cooc_count": 2385,
+    "unigram_w1": 2730698,
+    "unigram_w2": 15073,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4469,
+    "unigram_w1": 2730698,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 616,
+    "unigram_w1": 2730698,
+    "unigram_w2": 8975,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "sinclair",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 2730698,
+    "unigram_w2": 316,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 1952,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "écurie",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 2730698,
+    "unigram_w2": 1903,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "années",
+    "pmi": 0.05605939168384816,
+    "cooc_count": 15843,
+    "unigram_w1": 2730698,
+    "unigram_w2": 121647,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "cours",
+    "pmi": 0.0,
+    "cooc_count": 8890,
+    "unigram_w1": 2730698,
+    "unigram_w2": 143361,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 1772,
+    "unigram_w1": 91933,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "décennie",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 3411,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "t",
+    "pmi": 0.8403267347343326,
+    "cooc_count": 72987,
+    "unigram_w1": 2356131,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 1517,
+    "unigram_w1": 15073,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4536,
+    "unigram_w1": 2356131,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 310,
+    "unigram_w1": 8975,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "sinclair",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2356131,
+    "unigram_w2": 316,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 152,
+    "unigram_w1": 1952,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "écurie",
+    "pmi": 0.0,
+    "cooc_count": 137,
+    "unigram_w1": 2356131,
+    "unigram_w2": 1903,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 12016,
+    "unigram_w1": 121647,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 6075,
+    "unigram_w1": 143361,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "t",
+    "pmi": 1.2755932745386551,
+    "cooc_count": 4401,
+    "unigram_w1": 91933,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 15073,
+    "unigram_w2": 91933,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 91933,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 91933,
+    "unigram_w2": 8975,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "sinclair",
+    "pmi": 1.6758754550583477,
+    "cooc_count": 7,
+    "unigram_w1": 91933,
+    "unigram_w2": 316,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "f",
+    "pmi": 0.5481550822321672,
+    "cooc_count": 14,
+    "unigram_w1": 1952,
+    "unigram_w2": 91933,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 121647,
+    "unigram_w2": 91933,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 143361,
+    "unigram_w2": 91933,
+    "window_size": 10
+  },
+  {
+    "w1": "décennie",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 3411,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "décennie",
+    "pmi": 1.7240510816731554,
+    "cooc_count": 13,
+    "unigram_w1": 15073,
+    "unigram_w2": 3411,
+    "window_size": 10
+  },
+  {
+    "w1": "décennie",
+    "w2": "quelle",
+    "pmi": 0.2992169009602578,
+    "cooc_count": 13,
+    "unigram_w1": 3411,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "décennie",
+    "pmi": 1.9761581584654475,
+    "cooc_count": 135,
+    "unigram_w1": 121647,
+    "unigram_w2": 3411,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "décennie",
+    "pmi": 2.508759684270991,
+    "cooc_count": 271,
+    "unigram_w1": 143361,
+    "unigram_w2": 3411,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 15073,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "t",
+    "pmi": 0.5944759720105592,
+    "cooc_count": 1518,
+    "unigram_w1": 62661,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "t",
+    "pmi": 0.008413869818672098,
+    "cooc_count": 121,
+    "unigram_w1": 8975,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "sinclair",
+    "w2": "t",
+    "pmi": 0.8616644169855443,
+    "cooc_count": 10,
+    "unigram_w1": 316,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 1952,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 437,
+    "unigram_w1": 121647,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 628,
+    "unigram_w1": 143361,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 15073,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "années",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 15073,
+    "unigram_w2": 121647,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "cours",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 15073,
+    "unigram_w2": 143361,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "écurie",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 62661,
+    "unigram_w2": 1903,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 121647,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 196,
+    "unigram_w1": 143361,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "harry",
+    "pmi": 0.21431981326249563,
+    "cooc_count": 61,
+    "unigram_w1": 121647,
+    "unigram_w2": 8975,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 143361,
+    "unigram_w2": 8975,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "sinclair",
+    "pmi": 1.0593398612928522,
+    "cooc_count": 5,
+    "unigram_w1": 121647,
+    "unigram_w2": 316,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "années",
+    "pmi": 1.541057400900772,
+    "cooc_count": 50,
+    "unigram_w1": 1952,
+    "unigram_w2": 121647,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "cours",
+    "pmi": 0.1728420799391079,
+    "cooc_count": 15,
+    "unigram_w1": 1952,
+    "unigram_w2": 143361,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "écurie",
+    "pmi": 0.42704601738929554,
+    "cooc_count": 16,
+    "unigram_w1": 121647,
+    "unigram_w2": 1903,
+    "window_size": 10
+  },
+  {
+    "w1": "cours",
+    "w2": "écurie",
+    "pmi": 0.5347372162372094,
+    "cooc_count": 21,
+    "unigram_w1": 143361,
+    "unigram_w2": 1903,
+    "window_size": 10
+  },
+  {
+    "w1": "années",
+    "w2": "cours",
+    "pmi": 1.7072305019342882,
+    "cooc_count": 4336,
+    "unigram_w1": 121647,
+    "unigram_w2": 143361,
+    "window_size": 10
+  }
+]

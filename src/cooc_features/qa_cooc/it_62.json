@@ -1,0 +1,1379 @@
+[
+  {
+    "w1": "entro",
+    "w2": "generale",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 51273,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "vengano",
+    "pmi": 1.5534100447797403,
+    "cooc_count": 81,
+    "unigram_w1": 51273,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "entro",
+    "pmi": 0.0,
+    "cooc_count": 120,
+    "unigram_w1": 65910,
+    "unigram_w2": 51273,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "richieste",
+    "pmi": 1.0055009467433622,
+    "cooc_count": 190,
+    "unigram_w1": 51273,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 336,
+    "unigram_w1": 51273,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "impone",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 51273,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "legge",
+    "pmi": 0.35516627465063394,
+    "cooc_count": 412,
+    "unigram_w1": 51273,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "periodo",
+    "pmi": 0.6210516867393969,
+    "cooc_count": 363,
+    "unigram_w1": 51273,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "soddisfatte",
+    "pmi": 0.09721801848604895,
+    "cooc_count": 2,
+    "unigram_w1": 51273,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "entro",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 155120,
+    "unigram_w2": 51273,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "protezione",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 51273,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "normativa",
+    "pmi": 0.01673739354002886,
+    "cooc_count": 52,
+    "unigram_w1": 51273,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "interessato",
+    "pmi": 0.6571741186801566,
+    "cooc_count": 89,
+    "unigram_w1": 51273,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 51273,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "entro",
+    "w2": "tempo",
+    "pmi": 0.044799731474816355,
+    "cooc_count": 765,
+    "unigram_w1": 51273,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "entro",
+    "pmi": 0.0,
+    "cooc_count": 1721,
+    "unigram_w1": 1307344,
+    "unigram_w2": 51273,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "entro",
+    "pmi": 0.04247707591436947,
+    "cooc_count": 2902,
+    "unigram_w1": 1138754,
+    "unigram_w2": 51273,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "generale",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1507,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 71350,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "generale",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 65910,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "richieste",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 71350,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "sulla",
+    "pmi": 0.2984217569673243,
+    "cooc_count": 1446,
+    "unigram_w1": 71350,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "impone",
+    "pmi": 0.21838562862350772,
+    "cooc_count": 22,
+    "unigram_w1": 71350,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "legge",
+    "pmi": 0.03439513947400311,
+    "cooc_count": 416,
+    "unigram_w1": 71350,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 175,
+    "unigram_w1": 71350,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "generale",
+    "pmi": 0.0,
+    "cooc_count": 508,
+    "unigram_w1": 155120,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "protezione",
+    "pmi": 0.9161610072322616,
+    "cooc_count": 402,
+    "unigram_w1": 71350,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "normativa",
+    "pmi": 0.7186672505785704,
+    "cooc_count": 146,
+    "unigram_w1": 71350,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "interessato",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 71350,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "specifico",
+    "pmi": 0.9334923157933297,
+    "cooc_count": 201,
+    "unigram_w1": 71350,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 324,
+    "unigram_w1": 71350,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "generale",
+    "pmi": 0.06038975899556392,
+    "cooc_count": 4720,
+    "unigram_w1": 1307344,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "generale",
+    "pmi": 0.5882591001364383,
+    "cooc_count": 6970,
+    "unigram_w1": 1138754,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 1507,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "impone",
+    "pmi": 3.064261141223515,
+    "cooc_count": 8,
+    "unigram_w1": 1507,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "legge",
+    "pmi": 0.34609295327922734,
+    "cooc_count": 12,
+    "unigram_w1": 1507,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1507,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "dati",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1507,
+    "unigram_w2": 155120,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "protezione",
+    "pmi": 1.079770435885773,
+    "cooc_count": 10,
+    "unigram_w1": 1507,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "normativa",
+    "pmi": 2.4829088110448856,
+    "cooc_count": 18,
+    "unigram_w1": 1507,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1507,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 1507,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "brasiliana",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 1507,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "vengano",
+    "pmi": 0.04332922880630015,
+    "cooc_count": 23,
+    "unigram_w1": 65910,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "richieste",
+    "w2": "vengano",
+    "pmi": 1.0056869968844118,
+    "cooc_count": 26,
+    "unigram_w1": 28461,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "sulla",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 315675,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 118258,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "periodo",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 79867,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "soddisfatte",
+    "w2": "vengano",
+    "pmi": 4.689021288210486,
+    "cooc_count": 27,
+    "unigram_w1": 743,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "vengano",
+    "pmi": 1.108171982355691,
+    "cooc_count": 157,
+    "unigram_w1": 155120,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "protezione",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 47317,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "vengano",
+    "pmi": 0.35719235223270074,
+    "cooc_count": 10,
+    "unigram_w1": 20937,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "vengano",
+    "pmi": 0.4602364262221159,
+    "cooc_count": 10,
+    "unigram_w1": 18887,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "specifico",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 23252,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "tempo",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 299492,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 350,
+    "unigram_w1": 1307344,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "vengano",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 1138754,
+    "unigram_w2": 7015,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "richieste",
+    "pmi": 0.1323238106369967,
+    "cooc_count": 102,
+    "unigram_w1": 65910,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 488,
+    "unigram_w1": 65910,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "impone",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 65910,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "legge",
+    "pmi": 0.0,
+    "cooc_count": 184,
+    "unigram_w1": 65910,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 65910,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "dati",
+    "pmi": 1.417079080312113,
+    "cooc_count": 2009,
+    "unigram_w1": 65910,
+    "unigram_w2": 155120,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "protezione",
+    "pmi": 0.7579178613487378,
+    "cooc_count": 317,
+    "unigram_w1": 65910,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "normativa",
+    "pmi": 0.221087044992704,
+    "cooc_count": 82,
+    "unigram_w1": 65910,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "interessato",
+    "pmi": 0.044546256762957655,
+    "cooc_count": 62,
+    "unigram_w1": 65910,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 65910,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 279,
+    "unigram_w1": 65910,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 2326,
+    "unigram_w1": 65910,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "accesso",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 2819,
+    "unigram_w1": 65910,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "richieste",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 235,
+    "unigram_w1": 28461,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "richieste",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 118258,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "periodo",
+    "w2": "richieste",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 79867,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "richieste",
+    "w2": "soddisfatte",
+    "pmi": 4.018052097416882,
+    "cooc_count": 56,
+    "unigram_w1": 28461,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "richieste",
+    "pmi": 0.694074995165339,
+    "cooc_count": 421,
+    "unigram_w1": 155120,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "protezione",
+    "w2": "richieste",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 47317,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "richieste",
+    "pmi": 0.39179286199759816,
+    "cooc_count": 42,
+    "unigram_w1": 20937,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "richieste",
+    "pmi": 1.5693516730760626,
+    "cooc_count": 123,
+    "unigram_w1": 18887,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "richieste",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 28461,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "richieste",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 238,
+    "unigram_w1": 28461,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "richieste",
+    "pmi": 0.17338320492121173,
+    "cooc_count": 2108,
+    "unigram_w1": 1307344,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "richieste",
+    "pmi": 0.0,
+    "cooc_count": 1003,
+    "unigram_w1": 1138754,
+    "unigram_w2": 28461,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 5203,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "sulla",
+    "pmi": 0.8311813111304172,
+    "cooc_count": 4083,
+    "unigram_w1": 118258,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "periodo",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 441,
+    "unigram_w1": 79867,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "sulla",
+    "pmi": 0.563029853956407,
+    "cooc_count": 4096,
+    "unigram_w1": 155120,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "protezione",
+    "w2": "sulla",
+    "pmi": 0.9342275170947552,
+    "cooc_count": 1811,
+    "unigram_w1": 47317,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "sulla",
+    "pmi": 1.9920813970963254,
+    "cooc_count": 2308,
+    "unigram_w1": 20937,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 18887,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "specifico",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 249,
+    "unigram_w1": 23252,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "sulla",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 2105,
+    "unigram_w1": 315675,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "sulla",
+    "pmi": 0.10758637327787308,
+    "cooc_count": 21892,
+    "unigram_w1": 1307344,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 16706,
+    "unigram_w1": 1138754,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "legge",
+    "pmi": 2.442154771179781,
+    "cooc_count": 337,
+    "unigram_w1": 5203,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "periodo",
+    "pmi": 0.2334535928690584,
+    "cooc_count": 25,
+    "unigram_w1": 5203,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "impone",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 155120,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "protezione",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 5203,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "normativa",
+    "pmi": 2.886022083638169,
+    "cooc_count": 93,
+    "unigram_w1": 5203,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "interessato",
+    "pmi": 1.0955239940895867,
+    "cooc_count": 14,
+    "unigram_w1": 5203,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "specifico",
+    "pmi": 0.8134987268104698,
+    "cooc_count": 13,
+    "unigram_w1": 5203,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "impone",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 5203,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "impone",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 1307344,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "impone",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 1138754,
+    "unigram_w2": 5203,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 118258,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "legge",
+    "pmi": 0.03393757259336542,
+    "cooc_count": 904,
+    "unigram_w1": 155120,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "protezione",
+    "pmi": 0.25216803134140753,
+    "cooc_count": 343,
+    "unigram_w1": 118258,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "normativa",
+    "pmi": 1.4583002980236444,
+    "cooc_count": 507,
+    "unigram_w1": 118258,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "legge",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 18887,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 118258,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "legge",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 436,
+    "unigram_w1": 118258,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "legge",
+    "pmi": 0.0,
+    "cooc_count": 4804,
+    "unigram_w1": 1307344,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "legge",
+    "pmi": 0.02114288747700149,
+    "cooc_count": 6552,
+    "unigram_w1": 1138754,
+    "unigram_w2": 118258,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 438,
+    "unigram_w1": 155120,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "periodo",
+    "w2": "protezione",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 79867,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 20937,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 18887,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "periodo",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 79867,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "periodo",
+    "w2": "tempo",
+    "pmi": 1.0475201455771475,
+    "cooc_count": 3248,
+    "unigram_w1": 79867,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "periodo",
+    "pmi": 0.0,
+    "cooc_count": 2635,
+    "unigram_w1": 1307344,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "periodo",
+    "pmi": 0.1528705933385837,
+    "cooc_count": 5048,
+    "unigram_w1": 1138754,
+    "unigram_w2": 79867,
+    "window_size": 10
+  },
+  {
+    "w1": "protezione",
+    "w2": "soddisfatte",
+    "pmi": 0.8706598579203544,
+    "cooc_count": 4,
+    "unigram_w1": 47317,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "soddisfatte",
+    "w2": "specifico",
+    "pmi": 2.274285527601313,
+    "cooc_count": 8,
+    "unigram_w1": 743,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "soddisfatte",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 743,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "soddisfatte",
+    "pmi": 0.3398695284988231,
+    "cooc_count": 65,
+    "unigram_w1": 1307344,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "soddisfatte",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 1138754,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "protezione",
+    "pmi": 2.739111623442217,
+    "cooc_count": 5410,
+    "unigram_w1": 155120,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "normativa",
+    "pmi": 1.1650348885836106,
+    "cooc_count": 496,
+    "unigram_w1": 155120,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "interessato",
+    "pmi": 2.0104002581614107,
+    "cooc_count": 1042,
+    "unigram_w1": 155120,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 132,
+    "unigram_w1": 155120,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 1043,
+    "unigram_w1": 155120,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "dei",
+    "pmi": 1.4487170746288818,
+    "cooc_count": 41130,
+    "unigram_w1": 155120,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "dati",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 8326,
+    "unigram_w1": 155120,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "protezione",
+    "pmi": 1.539415880185323,
+    "cooc_count": 220,
+    "unigram_w1": 20937,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "protezione",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 18887,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "protezione",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 47317,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "protezione",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 273,
+    "unigram_w1": 47317,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "protezione",
+    "pmi": 1.119417965765637,
+    "cooc_count": 9026,
+    "unigram_w1": 1307344,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "protezione",
+    "pmi": 0.04169472259271538,
+    "cooc_count": 2676,
+    "unigram_w1": 1138754,
+    "unigram_w2": 47317,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "normativa",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 18887,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "specifico",
+    "pmi": 0.9338042668596946,
+    "cooc_count": 59,
+    "unigram_w1": 20937,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "normativa",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 133,
+    "unigram_w1": 20937,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "normativa",
+    "pmi": 0.21832033031104237,
+    "cooc_count": 1622,
+    "unigram_w1": 1307344,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "normativa",
+    "pmi": 0.0,
+    "cooc_count": 787,
+    "unigram_w1": 1138754,
+    "unigram_w2": 20937,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "specifico",
+    "pmi": 0.7879522934324855,
+    "cooc_count": 46,
+    "unigram_w1": 18887,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "interessato",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 18887,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "interessato",
+    "pmi": 0.0,
+    "cooc_count": 944,
+    "unigram_w1": 1307344,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "interessato",
+    "pmi": 0.9653085581868899,
+    "cooc_count": 2690,
+    "unigram_w1": 1138754,
+    "unigram_w2": 18887,
+    "window_size": 10
+  },
+  {
+    "w1": "specifico",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 23252,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 928,
+    "unigram_w1": 1307344,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "specifico",
+    "pmi": 0.0,
+    "cooc_count": 1054,
+    "unigram_w1": 1138754,
+    "unigram_w2": 23252,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 8481,
+    "unigram_w1": 1307344,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 6776,
+    "unigram_w1": 1138754,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 61540,
+    "unigram_w1": 1307344,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  }
+]

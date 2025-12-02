@@ -1,0 +1,137 @@
+[
+  {
+    "w1": "הייתה",
+    "w2": "הראשונה",
+    "pmi": 1.4687266430270312,
+    "cooc_count": 6178,
+    "unigram_w1": 171282,
+    "unigram_w2": 113687,
+    "window_size": 10
+  },
+  {
+    "w1": "הייתה",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 1573,
+    "unigram_w1": 171282,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "הייתה",
+    "w2": "ראשת",
+    "pmi": 0.45591287460025354,
+    "cooc_count": 18,
+    "unigram_w1": 171282,
+    "unigram_w2": 912,
+    "window_size": 10
+  },
+  {
+    "w1": "בטורקיה",
+    "w2": "הייתה",
+    "pmi": 0.23069070176364417,
+    "cooc_count": 43,
+    "unigram_w1": 2729,
+    "unigram_w2": 171282,
+    "window_size": 10
+  },
+  {
+    "w1": "הייתה",
+    "w2": "העיר",
+    "pmi": 0.0,
+    "cooc_count": 1475,
+    "unigram_w1": 171282,
+    "unigram_w2": 146023,
+    "window_size": 10
+  },
+  {
+    "w1": "הראשונה",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 1030,
+    "unigram_w1": 113687,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "הראשונה",
+    "w2": "ראשת",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 113687,
+    "unigram_w2": 912,
+    "window_size": 10
+  },
+  {
+    "w1": "בטורקיה",
+    "w2": "הראשונה",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 2729,
+    "unigram_w2": 113687,
+    "window_size": 10
+  },
+  {
+    "w1": "העיר",
+    "w2": "הראשונה",
+    "pmi": 0.0,
+    "cooc_count": 925,
+    "unigram_w1": 146023,
+    "unigram_w2": 113687,
+    "window_size": 10
+  },
+  {
+    "w1": "אילהן",
+    "w2": "הראשונה",
+    "pmi": 2.4161376149567717,
+    "cooc_count": 4,
+    "unigram_w1": 43,
+    "unigram_w2": 113687,
+    "window_size": 10
+  },
+  {
+    "w1": "מי",
+    "w2": "ראשת",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 301519,
+    "unigram_w2": 912,
+    "window_size": 10
+  },
+  {
+    "w1": "בטורקיה",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 2729,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "העיר",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 1049,
+    "unigram_w1": 146023,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "העיר",
+    "w2": "ראשת",
+    "pmi": 3.3418593918227675,
+    "cooc_count": 275,
+    "unigram_w1": 146023,
+    "unigram_w2": 912,
+    "window_size": 10
+  },
+  {
+    "w1": "בטורקיה",
+    "w2": "העיר",
+    "pmi": 0.4576791600112839,
+    "cooc_count": 46,
+    "unigram_w1": 2729,
+    "unigram_w2": 146023,
+    "window_size": 10
+  }
+]

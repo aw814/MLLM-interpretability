@@ -1,0 +1,893 @@
+[
+  {
+    "w1": "farfalla",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 3009,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "farfalla",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 246,
+    "unigram_w1": 3009,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "farfalla",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 176574,
+    "unigram_w2": 3009,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "farfalla",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 497267,
+    "unigram_w2": 3009,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "farfalla",
+    "pmi": 2.2517840791670958,
+    "cooc_count": 135,
+    "unigram_w1": 99093,
+    "unigram_w2": 3009,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "farfalla",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 1307344,
+    "unigram_w2": 3009,
+    "window_size": 10
+  },
+  {
+    "w1": "farfalla",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3009,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "farfalla",
+    "w2": "metri",
+    "pmi": 0.9583328929958674,
+    "cooc_count": 17,
+    "unigram_w1": 3009,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "si",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 280560,
+    "unigram_w1": 1869781,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "maschili",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 184,
+    "unigram_w1": 3270,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "olimpiadi",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 3949,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 269,
+    "unigram_w1": 9300,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "estive",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 172,
+    "unigram_w1": 5254,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 10866,
+    "unigram_w1": 176574,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 33110,
+    "unigram_w1": 497267,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 2729,
+    "unigram_w1": 99093,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 66109,
+    "unigram_w1": 1307344,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 3907,
+    "unigram_w1": 61303,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "si",
+    "w2": "svolta",
+    "pmi": 1.0459024676466924,
+    "cooc_count": 4401,
+    "unigram_w1": 1869781,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "metri",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 3213,
+    "unigram_w1": 45488,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 4565,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 430,
+    "unigram_w1": 14982,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "maschili",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 236,
+    "unigram_w1": 3270,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "olimpiadi",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 297,
+    "unigram_w1": 3949,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 532,
+    "unigram_w1": 9300,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "estive",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 251,
+    "unigram_w1": 5254,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 20454,
+    "unigram_w1": 176574,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 42382,
+    "unigram_w1": 497267,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 6203,
+    "unigram_w1": 99093,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 118838,
+    "unigram_w1": 1307344,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 7336,
+    "unigram_w1": 61303,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "svolta",
+    "w2": "è",
+    "pmi": 0.7235514140028086,
+    "cooc_count": 5594,
+    "unigram_w1": 17362,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "metri",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 4384,
+    "unigram_w1": 45488,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 452,
+    "unigram_w1": 4565,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 683,
+    "unigram_w1": 14982,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "maschili",
+    "w2": "olimpiadi",
+    "pmi": 0.4859235342825292,
+    "cooc_count": 1,
+    "unigram_w1": 3270,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "estive",
+    "w2": "maschili",
+    "pmi": 2.146306374379007,
+    "cooc_count": 7,
+    "unigram_w1": 5254,
+    "unigram_w2": 3270,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "maschili",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 176574,
+    "unigram_w2": 3270,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "maschili",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 497267,
+    "unigram_w2": 3270,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "maschili",
+    "pmi": 0.9009132731937985,
+    "cooc_count": 38,
+    "unigram_w1": 99093,
+    "unigram_w2": 3270,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "maschili",
+    "pmi": 0.3184226425988959,
+    "cooc_count": 280,
+    "unigram_w1": 1307344,
+    "unigram_w2": 3270,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "maschili",
+    "pmi": 1.3811432949276574,
+    "cooc_count": 38,
+    "unigram_w1": 61303,
+    "unigram_w2": 3270,
+    "window_size": 10
+  },
+  {
+    "w1": "maschili",
+    "w2": "svolta",
+    "pmi": 0.10371429528553515,
+    "cooc_count": 3,
+    "unigram_w1": 3270,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "maschili",
+    "w2": "metri",
+    "pmi": 2.2008204450380693,
+    "cooc_count": 64,
+    "unigram_w1": 3270,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "olimpiadi",
+    "pmi": 1.9256057688204815,
+    "cooc_count": 12,
+    "unigram_w1": 9300,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "estive",
+    "w2": "olimpiadi",
+    "pmi": 3.3075606939326723,
+    "cooc_count": 27,
+    "unigram_w1": 5254,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "olimpiadi",
+    "pmi": 0.3471210689386718,
+    "cooc_count": 47,
+    "unigram_w1": 176574,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "olimpiadi",
+    "pmi": 2.251683649521724,
+    "cooc_count": 889,
+    "unigram_w1": 497267,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "olimpiadi",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 1307344,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "olimpiadi",
+    "pmi": 1.2925543560892898,
+    "cooc_count": 42,
+    "unigram_w1": 61303,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "olimpiadi",
+    "pmi": 2.6372016549327597,
+    "cooc_count": 12,
+    "unigram_w1": 4565,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "olimpiadi",
+    "pmi": 1.6029213682812586,
+    "cooc_count": 14,
+    "unigram_w1": 14982,
+    "unigram_w2": 3949,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "città",
+    "pmi": 0.5232233719602862,
+    "cooc_count": 132,
+    "unigram_w1": 9300,
+    "unigram_w2": 176574,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 497267,
+    "unigram_w2": 9300,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 99093,
+    "unigram_w2": 9300,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 162,
+    "unigram_w1": 9300,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 9300,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 9300,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "metri",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 9300,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "angeles",
+    "pmi": 2.473796817638007,
+    "cooc_count": 24,
+    "unigram_w1": 4565,
+    "unigram_w2": 9300,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "los",
+    "pmi": 7.115046492690823,
+    "cooc_count": 8166,
+    "unigram_w1": 9300,
+    "unigram_w2": 14982,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "estive",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 176574,
+    "unigram_w2": 5254,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "estive",
+    "pmi": 0.4283325330956132,
+    "cooc_count": 191,
+    "unigram_w1": 497267,
+    "unigram_w2": 5254,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "estive",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 99093,
+    "unigram_w2": 5254,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "estive",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 1307344,
+    "unigram_w2": 5254,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "città",
+    "pmi": 0.0,
+    "cooc_count": 2743,
+    "unigram_w1": 497267,
+    "unigram_w2": 176574,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "città",
+    "pmi": 0.0,
+    "cooc_count": 321,
+    "unigram_w1": 99093,
+    "unigram_w2": 176574,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 6690,
+    "unigram_w1": 176574,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 176574,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 176574,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "metri",
+    "pmi": 0.21208268311641457,
+    "cooc_count": 473,
+    "unigram_w1": 176574,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "città",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 4565,
+    "unigram_w2": 176574,
+    "window_size": 10
+  },
+  {
+    "w1": "città",
+    "w2": "los",
+    "pmi": 0.3893330427206356,
+    "cooc_count": 186,
+    "unigram_w1": 176574,
+    "unigram_w2": 14982,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "alle",
+    "pmi": 0.0,
+    "cooc_count": 728,
+    "unigram_w1": 99093,
+    "unigram_w2": 497267,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 21671,
+    "unigram_w1": 497267,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 619,
+    "unigram_w1": 497267,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 233,
+    "unigram_w1": 497267,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "metri",
+    "pmi": 0.0,
+    "cooc_count": 257,
+    "unigram_w1": 497267,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "alle",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 4565,
+    "unigram_w2": 497267,
+    "window_size": 10
+  },
+  {
+    "w1": "alle",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 497267,
+    "unigram_w2": 14982,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 2212,
+    "unigram_w1": 99093,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 144,
+    "unigram_w1": 99093,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 99093,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "metri",
+    "pmi": 2.417635546082802,
+    "cooc_count": 2409,
+    "unigram_w1": 99093,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 99093,
+    "unigram_w2": 4565,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 99093,
+    "unigram_w2": 14982,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 2933,
+    "unigram_w1": 1307344,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 683,
+    "unigram_w1": 1307344,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "metri",
+    "pmi": 0.0,
+    "cooc_count": 1149,
+    "unigram_w1": 1307344,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 101,
+    "unigram_w1": 4565,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 1307344,
+    "unigram_w2": 14982,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "svolta",
+    "pmi": 0.6066627032940735,
+    "cooc_count": 93,
+    "unigram_w1": 61303,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "metri",
+    "pmi": 0.030879491029914632,
+    "cooc_count": 137,
+    "unigram_w1": 61303,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "finale",
+    "pmi": 0.7421331162387058,
+    "cooc_count": 28,
+    "unigram_w1": 4565,
+    "unigram_w2": 61303,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 61303,
+    "unigram_w2": 14982,
+    "window_size": 10
+  },
+  {
+    "w1": "metri",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 45488,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 14982,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "metri",
+    "pmi": 0.04623839067802983,
+    "cooc_count": 34,
+    "unigram_w1": 14982,
+    "unigram_w2": 45488,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "los",
+    "pmi": 1.9544021228527302,
+    "cooc_count": 23,
+    "unigram_w1": 4565,
+    "unigram_w2": 14982,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "w1": "isis",
+    "w2": "originale",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 3772,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "nome",
+    "pmi": 0.41203998157453114,
+    "cooc_count": 24,
+    "unigram_w1": 3772,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "isis",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 250781,
+    "unigram_w2": 3772,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 3772,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "software",
+    "pmi": 0.44247626724436134,
+    "cooc_count": 13,
+    "unigram_w1": 3772,
+    "unigram_w2": 46481,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "originale",
+    "pmi": 0.19596225758526753,
+    "cooc_count": 293,
+    "unigram_w1": 88463,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "originale",
+    "pmi": 0.0,
+    "cooc_count": 522,
+    "unigram_w1": 250781,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "originale",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 57157,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "originale",
+    "w2": "software",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 57157,
+    "unigram_w2": 46481,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nome",
+    "pmi": 0.19084526926338127,
+    "cooc_count": 1279,
+    "unigram_w1": 250781,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "qual",
+    "pmi": 0.654118297226288,
+    "cooc_count": 168,
+    "unigram_w1": 88463,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "software",
+    "pmi": 0.05042405784520994,
+    "cooc_count": 206,
+    "unigram_w1": 88463,
+    "unigram_w2": 46481,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "qual",
+    "pmi": 0.4895735329693281,
+    "cooc_count": 404,
+    "unigram_w1": 250781,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "software",
+    "pmi": 0.0,
+    "cooc_count": 121,
+    "unigram_w1": 250781,
+    "unigram_w2": 46481,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "software",
+    "pmi": 0.7484060548826509,
+    "cooc_count": 97,
+    "unigram_w1": 20727,
+    "unigram_w2": 46481,
+    "window_size": 10
+  }
+]

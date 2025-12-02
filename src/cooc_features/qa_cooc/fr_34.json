@@ -1,0 +1,281 @@
+[
+  {
+    "w1": "auteurs",
+    "w2": "certains",
+    "pmi": 1.6278019583440695,
+    "cooc_count": 444,
+    "unigram_w1": 18446,
+    "unigram_w2": 104814,
+    "window_size": 10
+  },
+  {
+    "w1": "auteurs",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 18446,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "auteurs",
+    "w2": "cité",
+    "pmi": 0.27697804626872974,
+    "cooc_count": 22,
+    "unigram_w1": 18446,
+    "unigram_w2": 20050,
+    "window_size": 10
+  },
+  {
+    "w1": "antique",
+    "w2": "auteurs",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5622,
+    "unigram_w2": 18446,
+    "window_size": 10
+  },
+  {
+    "w1": "auteurs",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 1102,
+    "unigram_w1": 18446,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "auteurs",
+    "w2": "selon",
+    "pmi": 0.6158110747879872,
+    "cooc_count": 205,
+    "unigram_w1": 18446,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "auteurs",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 2726,
+    "unigram_w1": 18446,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "certains",
+    "w2": "identifiée",
+    "pmi": 0.16162336881729844,
+    "cooc_count": 8,
+    "unigram_w1": 104814,
+    "unigram_w2": 1440,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "identifiée",
+    "pmi": 0.17630379897315107,
+    "cooc_count": 282,
+    "unigram_w1": 3640850,
+    "unigram_w2": 1440,
+    "window_size": 10
+  },
+  {
+    "w1": "identifiée",
+    "w2": "selon",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1440,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "identifiée",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 338,
+    "unigram_w1": 1440,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "certains",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 104814,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "certains",
+    "w2": "cité",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 104814,
+    "unigram_w2": 20050,
+    "window_size": 10
+  },
+  {
+    "w1": "antique",
+    "w2": "certains",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5622,
+    "unigram_w2": 104814,
+    "window_size": 10
+  },
+  {
+    "w1": "certains",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 9135,
+    "unigram_w1": 104814,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "certains",
+    "w2": "selon",
+    "pmi": 0.6278831902493295,
+    "cooc_count": 1179,
+    "unigram_w1": 104814,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "certains",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 21411,
+    "unigram_w1": 104814,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "cité",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 20050,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "quelle",
+    "pmi": 0.44183208072764724,
+    "cooc_count": 16003,
+    "unigram_w1": 3640850,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "selon",
+    "pmi": 0.0,
+    "cooc_count": 272,
+    "unigram_w1": 62661,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 11511,
+    "unigram_w1": 62661,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "antique",
+    "w2": "cité",
+    "pmi": 3.1276858563459657,
+    "cooc_count": 116,
+    "unigram_w1": 5622,
+    "unigram_w2": 20050,
+    "window_size": 10
+  },
+  {
+    "w1": "cité",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 2347,
+    "unigram_w1": 20050,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "cité",
+    "w2": "selon",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 20050,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "cité",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 4287,
+    "unigram_w1": 20050,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "antique",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 5622,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "antique",
+    "w2": "selon",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 5622,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "antique",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 900,
+    "unigram_w1": 5622,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "selon",
+    "pmi": 0.0,
+    "cooc_count": 14517,
+    "unigram_w1": 3640850,
+    "unigram_w2": 133135,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 640601,
+    "unigram_w1": 3640850,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "selon",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 22180,
+    "unigram_w1": 133135,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  }
+]

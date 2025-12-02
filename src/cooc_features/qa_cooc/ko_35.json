@@ -1,0 +1,56 @@
+[
+  {
+    "w1": "때",
+    "w2": "헤드가",
+    "pmi": 1.4171874347919537,
+    "cooc_count": 8,
+    "unigram_w1": 73792,
+    "unigram_w2": 50,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "이름은",
+    "pmi": 0.19113190045439332,
+    "cooc_count": 134,
+    "unigram_w1": 73792,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "리틀",
+    "w2": "프리티",
+    "pmi": 5.688249166344388,
+    "cooc_count": 9,
+    "unigram_w1": 707,
+    "unigram_w2": 82,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "마우스",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 73792,
+    "unigram_w2": 1736,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "리틀",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 73792,
+    "unigram_w2": 707,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "레이블",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 73792,
+    "unigram_w2": 900,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "nuoto",
+    "w2": "sincronizzato",
+    "pmi": 6.973221544831448,
+    "cooc_count": 119,
+    "unigram_w1": 6273,
+    "unigram_w2": 373,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "sincronizzato",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1080433,
+    "unigram_w2": 373,
+    "window_size": 10
+  },
+  {
+    "w1": "noto",
+    "w2": "precedentemente",
+    "pmi": 1.8037434197345839,
+    "cooc_count": 54,
+    "unigram_w1": 28497,
+    "unigram_w2": 6551,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "noto",
+    "pmi": 1.367605388397302,
+    "cooc_count": 5758,
+    "unigram_w1": 1080433,
+    "unigram_w2": 28497,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "noto",
+    "pmi": 0.6650625905437987,
+    "cooc_count": 662,
+    "unigram_w1": 250781,
+    "unigram_w2": 28497,
+    "window_size": 10
+  },
+  {
+    "w1": "artistico",
+    "w2": "noto",
+    "pmi": 0.27326064121312815,
+    "cooc_count": 21,
+    "unigram_w1": 11771,
+    "unigram_w2": 28497,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "precedentemente",
+    "pmi": 0.7461134558548376,
+    "cooc_count": 711,
+    "unigram_w1": 1080433,
+    "unigram_w2": 6551,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "precedentemente",
+    "pmi": 0.9231818721711947,
+    "cooc_count": 197,
+    "unigram_w1": 250781,
+    "unigram_w2": 6551,
+    "window_size": 10
+  },
+  {
+    "w1": "artistico",
+    "w2": "precedentemente",
+    "pmi": 0.30835722475022115,
+    "cooc_count": 5,
+    "unigram_w1": 11771,
+    "unigram_w2": 6551,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "nuoto",
+    "pmi": 0.0,
+    "cooc_count": 209,
+    "unigram_w1": 1080433,
+    "unigram_w2": 6273,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nuoto",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 250781,
+    "unigram_w2": 6273,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 11804,
+    "unigram_w1": 1080433,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "artistico",
+    "w2": "come",
+    "pmi": 0.0,
+    "cooc_count": 496,
+    "unigram_w1": 11771,
+    "unigram_w2": 1080433,
+    "window_size": 10
+  },
+  {
+    "w1": "artistico",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 11771,
+    "unigram_w2": 250781,
+    "window_size": 10
+  }
+]

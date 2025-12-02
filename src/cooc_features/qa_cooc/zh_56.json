@@ -1,0 +1,605 @@
+[
+  {
+    "w1": "年",
+    "w2": "橄榄球",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 982471,
+    "unigram_w2": 371,
+    "window_size": 10
+  },
+  {
+    "w1": "中卫",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 1551,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4830,
+    "unigram_w1": 303848,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 341,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 431,
+    "unigram_w1": 25138,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "劳埃德",
+    "w2": "年",
+    "pmi": 1.7792830886829492,
+    "cooc_count": 4,
+    "unigram_w1": 10,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 26958,
+    "unigram_w1": 754775,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 534,
+    "unigram_w1": 44864,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "底特律",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 982471,
+    "unigram_w2": 469,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 439,
+    "unigram_w1": 982471,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "年",
+    "pmi": 0.19786753971813106,
+    "cooc_count": 5117,
+    "unigram_w1": 62195,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "布",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 911,
+    "unigram_w1": 16933,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "尔",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 5599,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "拉齐",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 982471,
+    "unigram_w2": 113,
+    "window_size": 10
+  },
+  {
+    "w1": "橄榄球",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 371,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "橄榄球",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 754775,
+    "unigram_w2": 371,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "橄榄球",
+    "pmi": 1.252101254425789,
+    "cooc_count": 4,
+    "unigram_w1": 44864,
+    "unigram_w2": 371,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "橄榄球",
+    "pmi": 2.4295397319522603,
+    "cooc_count": 18,
+    "unigram_w1": 62195,
+    "unigram_w2": 371,
+    "window_size": 10
+  },
+  {
+    "w1": "中卫",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1551,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "中卫",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 634,
+    "unigram_w1": 1551,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "中卫",
+    "pmi": 0.2569606917010724,
+    "cooc_count": 104,
+    "unigram_w1": 754775,
+    "unigram_w2": 1551,
+    "window_size": 10
+  },
+  {
+    "w1": "中卫",
+    "w2": "赛季",
+    "pmi": 2.776546028328023,
+    "cooc_count": 23,
+    "unigram_w1": 1551,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "中卫",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1551,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "中卫",
+    "w2": "尔",
+    "pmi": 3.288990196021945,
+    "cooc_count": 16,
+    "unigram_w1": 1551,
+    "unigram_w2": 5599,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "名字",
+    "pmi": 1.388576720333737,
+    "cooc_count": 2104,
+    "unigram_w1": 303848,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 3838,
+    "unigram_w1": 754775,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "叫",
+    "pmi": 1.8969422156284015,
+    "cooc_count": 6243,
+    "unigram_w1": 303848,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 303848,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 501,
+    "unigram_w1": 303848,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "布",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 303848,
+    "unigram_w2": 16933,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "尔",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 303848,
+    "unigram_w2": 5599,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 341,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 16505,
+    "unigram_w1": 25138,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "名字",
+    "pmi": 0.0,
+    "cooc_count": 632,
+    "unigram_w1": 754775,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "名字",
+    "pmi": 3.289515319286564,
+    "cooc_count": 2079,
+    "unigram_w1": 44864,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 25138,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 25138,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "布",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 25138,
+    "unigram_w2": 16933,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "尔",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 25138,
+    "unigram_w2": 5599,
+    "window_size": 10
+  },
+  {
+    "w1": "劳埃德",
+    "w2": "的",
+    "pmi": 0.35888648781228777,
+    "cooc_count": 10,
+    "unigram_w1": 10,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 391427,
+    "unigram_w1": 754775,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 17905,
+    "unigram_w1": 44864,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "底特律",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 469,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 6436,
+    "unigram_w1": 10165533,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 21368,
+    "unigram_w1": 62195,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "布",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 4550,
+    "unigram_w1": 16933,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "尔",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1507,
+    "unigram_w1": 5599,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "拉齐",
+    "w2": "的",
+    "pmi": 0.16409816225320317,
+    "cooc_count": 93,
+    "unigram_w1": 113,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "叫",
+    "pmi": 0.0,
+    "cooc_count": 669,
+    "unigram_w1": 754775,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "底特律",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 754775,
+    "unigram_w2": 469,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 686,
+    "unigram_w1": 754775,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 1208,
+    "unigram_w1": 754775,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "布",
+    "pmi": 0.5042789541643627,
+    "cooc_count": 1454,
+    "unigram_w1": 754775,
+    "unigram_w2": 16933,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "尔",
+    "pmi": 0.0,
+    "cooc_count": 265,
+    "unigram_w1": 754775,
+    "unigram_w2": 5599,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "拉齐",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 754775,
+    "unigram_w2": 113,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 44864,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 44864,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "布",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 44864,
+    "unigram_w2": 16933,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "尔",
+    "pmi": 0.28715988249359037,
+    "cooc_count": 23,
+    "unigram_w1": 44864,
+    "unigram_w2": 5599,
+    "window_size": 10
+  },
+  {
+    "w1": "底特律",
+    "w2": "赛季",
+    "pmi": 0.8371042071291329,
+    "cooc_count": 1,
+    "unigram_w1": 469,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "赛季",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 62195,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "尔",
+    "w2": "赛季",
+    "pmi": 0.1491231554545742,
+    "cooc_count": 6,
+    "unigram_w1": 5599,
+    "unigram_w2": 13436,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "布",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 62195,
+    "unigram_w2": 16933,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "尔",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 62195,
+    "unigram_w2": 5599,
+    "window_size": 10
+  },
+  {
+    "w1": "尔",
+    "w2": "布",
+    "pmi": 2.9702240637519535,
+    "cooc_count": 127,
+    "unigram_w1": 5599,
+    "unigram_w2": 16933,
+    "window_size": 10
+  }
+]

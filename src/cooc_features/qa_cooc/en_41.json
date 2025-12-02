@@ -1,0 +1,1010 @@
+[
+  {
+    "w1": "played",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 156,
+    "unigram_w1": 35399,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "university",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 697,
+    "unigram_w1": 138450,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "university",
+    "pmi": 0.31023412578434556,
+    "cooc_count": 12410,
+    "unigram_w1": 1379972,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 11629,
+    "unigram_w1": 2460921,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "team",
+    "w2": "university",
+    "pmi": 0.05919788315358856,
+    "cooc_count": 1122,
+    "unigram_w1": 160367,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "university",
+    "pmi": 1.9594401586523442,
+    "cooc_count": 365,
+    "unigram_w1": 7801,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "university",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 573,
+    "unigram_w1": 138450,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 155330,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 728,
+    "unigram_w1": 133904,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "university",
+    "pmi": 1.6200993722627333,
+    "cooc_count": 658,
+    "unigram_w1": 19745,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "university",
+    "pmi": 1.0187038109933648,
+    "cooc_count": 199,
+    "unigram_w1": 10896,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "university",
+    "pmi": 0.3859307129794073,
+    "cooc_count": 436,
+    "unigram_w1": 44948,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "university",
+    "pmi": 0.5689907561621455,
+    "cooc_count": 1087,
+    "unigram_w1": 93315,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "university",
+    "pmi": 0.06662621788970258,
+    "cooc_count": 39,
+    "unigram_w1": 5533,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "trans",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 4847,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "played",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 339,
+    "unigram_w1": 35399,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "played",
+    "pmi": 0.0,
+    "cooc_count": 1153,
+    "unigram_w1": 1379972,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "played",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 2605,
+    "unigram_w1": 35399,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "played",
+    "w2": "team",
+    "pmi": 0.9918292075434165,
+    "cooc_count": 729,
+    "unigram_w1": 35399,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "played",
+    "pmi": 0.3678074627001047,
+    "cooc_count": 19,
+    "unigram_w1": 7801,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "played",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 35399,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "played",
+    "pmi": 0.0,
+    "cooc_count": 83,
+    "unigram_w1": 155330,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "played",
+    "pmi": 0.0,
+    "cooc_count": 113,
+    "unigram_w1": 133904,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "played",
+    "pmi": 2.1041919145861874,
+    "cooc_count": 273,
+    "unigram_w1": 19745,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "played",
+    "pmi": 0.13374710245610685,
+    "cooc_count": 21,
+    "unigram_w1": 10896,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "played",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 44948,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "played",
+    "pmi": 0.06560352690800642,
+    "cooc_count": 168,
+    "unigram_w1": 93315,
+    "unigram_w2": 35399,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 24366,
+    "unigram_w1": 1379972,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 0.15536321277208362,
+    "cooc_count": 85614,
+    "unigram_w1": 2460921,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "team",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1939,
+    "unigram_w1": 160367,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 7801,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 1127,
+    "unigram_w1": 625314,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 2525,
+    "unigram_w1": 155330,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1243,
+    "unigram_w1": 133904,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 186,
+    "unigram_w1": 19745,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 10896,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 317,
+    "unigram_w1": 44948,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1032,
+    "unigram_w1": 93315,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 5533,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "trans",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 4847,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 93266,
+    "unigram_w1": 1379972,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 6467,
+    "unigram_w1": 1379972,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 335,
+    "unigram_w1": 7801,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 3684,
+    "unigram_w1": 1379972,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 5859,
+    "unigram_w1": 1379972,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 3901,
+    "unigram_w1": 133904,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 838,
+    "unigram_w1": 19745,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 520,
+    "unigram_w1": 10896,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 1480,
+    "unigram_w1": 44948,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 4492,
+    "unigram_w1": 93315,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "from",
+    "pmi": 0.0,
+    "cooc_count": 285,
+    "unigram_w1": 5533,
+    "unigram_w2": 1379972,
+    "window_size": 10
+  },
+  {
+    "w1": "from",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 1379972,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 18617,
+    "unigram_w1": 2460921,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "s",
+    "pmi": 0.19837078947727146,
+    "cooc_count": 1115,
+    "unigram_w1": 7801,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "women",
+    "pmi": 1.096571878408951,
+    "cooc_count": 45667,
+    "unigram_w1": 2460921,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 14189,
+    "unigram_w1": 155330,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 5569,
+    "unigram_w1": 133904,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "s",
+    "pmi": 0.4311902053002229,
+    "cooc_count": 3562,
+    "unigram_w1": 19745,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 696,
+    "unigram_w1": 10896,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 3723,
+    "unigram_w1": 44948,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 7734,
+    "unigram_w1": 93315,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "s",
+    "pmi": 0.16515870609979186,
+    "cooc_count": 765,
+    "unigram_w1": 5533,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 263,
+    "unigram_w1": 2460921,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "team",
+    "pmi": 0.9232224101779973,
+    "cooc_count": 150,
+    "unigram_w1": 7801,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "team",
+    "w2": "women",
+    "pmi": 0.14925612059009932,
+    "cooc_count": 1154,
+    "unigram_w1": 160367,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 695,
+    "unigram_w1": 155330,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 366,
+    "unigram_w1": 133904,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "team",
+    "pmi": 2.6031721681761106,
+    "cooc_count": 2037,
+    "unigram_w1": 19745,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 10896,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "team",
+    "pmi": 0.6790040535545366,
+    "cooc_count": 677,
+    "unigram_w1": 44948,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 437,
+    "unigram_w1": 93315,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "team",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 5533,
+    "unigram_w2": 160367,
+    "window_size": 10
+  },
+  {
+    "w1": "team",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 160367,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "women",
+    "pmi": 1.73095147670592,
+    "cooc_count": 273,
+    "unigram_w1": 7801,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 7801,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "athletic",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 133904,
+    "unigram_w2": 7801,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "basketball",
+    "pmi": 2.4957881296803506,
+    "cooc_count": 89,
+    "unigram_w1": 7801,
+    "unigram_w2": 19745,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "athletic",
+    "pmi": 0.7988808826158864,
+    "cooc_count": 9,
+    "unigram_w1": 10896,
+    "unigram_w2": 7801,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "conference",
+    "pmi": 3.0453320121070333,
+    "cooc_count": 351,
+    "unigram_w1": 7801,
+    "unigram_w2": 44948,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "athletic",
+    "pmi": 0.4971224558862809,
+    "cooc_count": 57,
+    "unigram_w1": 93315,
+    "unigram_w2": 7801,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 420,
+    "unigram_w1": 155330,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 133904,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "women",
+    "pmi": 2.0365812663947485,
+    "cooc_count": 938,
+    "unigram_w1": 19745,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "women",
+    "pmi": 0.9747216685607349,
+    "cooc_count": 179,
+    "unigram_w1": 10896,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "women",
+    "pmi": 0.5079524001677147,
+    "cooc_count": 463,
+    "unigram_w1": 44948,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "women",
+    "pmi": 0.7770291827524294,
+    "cooc_count": 1258,
+    "unigram_w1": 93315,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "trans",
+    "w2": "women",
+    "pmi": 0.35857177095745985,
+    "cooc_count": 43,
+    "unigram_w1": 4847,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 293,
+    "unigram_w1": 133904,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 19745,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 10896,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 44948,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 417,
+    "unigram_w1": 93315,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "name",
+    "pmi": 0.29535512060968205,
+    "cooc_count": 55,
+    "unigram_w1": 5533,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 155330,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "basketball",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 133904,
+    "unigram_w2": 19745,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 10896,
+    "unigram_w2": 133904,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "conference",
+    "pmi": 0.3651221869178582,
+    "cooc_count": 413,
+    "unigram_w1": 133904,
+    "unigram_w2": 44948,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "american",
+    "pmi": 0.0,
+    "cooc_count": 340,
+    "unigram_w1": 133904,
+    "unigram_w2": 93315,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "campbell",
+    "pmi": 0.10001234221615514,
+    "cooc_count": 39,
+    "unigram_w1": 133904,
+    "unigram_w2": 5533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 133904,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "basketball",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 10896,
+    "unigram_w2": 19745,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "conference",
+    "pmi": 1.1831511096659357,
+    "cooc_count": 138,
+    "unigram_w1": 19745,
+    "unigram_w2": 44948,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "basketball",
+    "pmi": 0.9235855254370471,
+    "cooc_count": 221,
+    "unigram_w1": 93315,
+    "unigram_w2": 19745,
+    "window_size": 10
+  },
+  {
+    "w1": "basketball",
+    "w2": "campbell",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 19745,
+    "unigram_w2": 5533,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "conference",
+    "pmi": 1.1270680888562425,
+    "cooc_count": 72,
+    "unigram_w1": 10896,
+    "unigram_w2": 44948,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "american",
+    "pmi": 0.6525268624040061,
+    "cooc_count": 93,
+    "unigram_w1": 10896,
+    "unigram_w2": 93315,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "campbell",
+    "pmi": 1.7783914160260865,
+    "cooc_count": 17,
+    "unigram_w1": 10896,
+    "unigram_w2": 5533,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "trans",
+    "pmi": 0.8693077482506592,
+    "cooc_count": 6,
+    "unigram_w1": 10896,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "conference",
+    "pmi": 0.666396196230697,
+    "cooc_count": 389,
+    "unigram_w1": 93315,
+    "unigram_w2": 44948,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 44948,
+    "unigram_w2": 4847,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "campbell",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 93315,
+    "unigram_w2": 5533,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 93315,
+    "unigram_w2": 4847,
+    "window_size": 10
+  }
+]

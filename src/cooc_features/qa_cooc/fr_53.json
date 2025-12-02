@@ -1,0 +1,920 @@
+[
+  {
+    "w1": "est",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 1329,
+    "unigram_w1": 3640850,
+    "unigram_w2": 19012,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 19012,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 67271,
+    "unigram_w2": 19012,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "john",
+    "pmi": 1.3456446444588779,
+    "cooc_count": 27,
+    "unigram_w1": 8200,
+    "unigram_w2": 19012,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "non",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 19012,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "of",
+    "pmi": 1.1303750657459029,
+    "cooc_count": 759,
+    "unigram_w1": 19012,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "john",
+    "pmi": 0.6492633699547817,
+    "cooc_count": 8,
+    "unigram_w1": 4875,
+    "unigram_w2": 19012,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "john",
+    "pmi": 1.9782245936583713,
+    "cooc_count": 18,
+    "unigram_w1": 2904,
+    "unigram_w2": 19012,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 19012,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 2.3719461362042686,
+    "cooc_count": 575,
+    "unigram_w1": 19012,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 2312,
+    "unigram_w1": 19012,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 120185,
+    "unigram_w2": 19012,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 11671,
+    "unigram_w1": 3640850,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "est",
+    "pmi": 0.09933788708480475,
+    "cooc_count": 12198,
+    "unigram_w1": 67271,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "lucratif",
+    "pmi": 0.0,
+    "cooc_count": 473,
+    "unigram_w1": 3640850,
+    "unigram_w2": 3622,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 1139,
+    "unigram_w1": 8200,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "non",
+    "pmi": 0.0,
+    "cooc_count": 36845,
+    "unigram_w1": 3640850,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 4865,
+    "unigram_w1": 3640850,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 171,
+    "unigram_w1": 4875,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "god",
+    "pmi": 0.0,
+    "cooc_count": 139,
+    "unigram_w1": 3640850,
+    "unigram_w2": 2904,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 8836,
+    "unigram_w1": 3640850,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 2535,
+    "unigram_w1": 3640850,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 640601,
+    "unigram_w1": 3640850,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "groupe",
+    "pmi": 0.0,
+    "cooc_count": 12597,
+    "unigram_w1": 3640850,
+    "unigram_w2": 120185,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "soins",
+    "pmi": 0.0,
+    "cooc_count": 2213,
+    "unigram_w1": 3640850,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 3640850,
+    "unigram_w2": 7219,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 67271,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "lucratif",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 3622,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 8200,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "non",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 1134,
+    "unigram_w1": 274544,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 1320,
+    "unigram_w1": 285879,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "santé",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 107015,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 62575,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "type",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 18425,
+    "unigram_w1": 122959,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 256,
+    "unigram_w1": 120185,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "soins",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 35744,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7219,
+    "unigram_w2": 122959,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "lucratif",
+    "pmi": 5.491591195359408,
+    "cooc_count": 2666,
+    "unigram_w1": 67271,
+    "unigram_w2": 3622,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "catholique",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 67271,
+    "unigram_w2": 8200,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "non",
+    "pmi": 1.0814608038057438,
+    "cooc_count": 2456,
+    "unigram_w1": 67271,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "of",
+    "pmi": 1.3134026389373652,
+    "cooc_count": 3225,
+    "unigram_w1": 67271,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "care",
+    "pmi": 0.8026705110986458,
+    "cooc_count": 33,
+    "unigram_w1": 67271,
+    "unigram_w2": 4875,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "god",
+    "pmi": 1.6083835910376874,
+    "cooc_count": 44,
+    "unigram_w1": 67271,
+    "unigram_w2": 2904,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 67271,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 67271,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 10568,
+    "unigram_w1": 67271,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "groupe",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 67271,
+    "unigram_w2": 120185,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "soins",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 67271,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "but",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 67271,
+    "unigram_w2": 7219,
+    "window_size": 10
+  },
+  {
+    "w1": "lucratif",
+    "w2": "non",
+    "pmi": 3.864968101554438,
+    "cooc_count": 2139,
+    "unigram_w1": 3622,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "lucratif",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 3622,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "lucratif",
+    "w2": "santé",
+    "pmi": 0.722535858918881,
+    "cooc_count": 36,
+    "unigram_w1": 3622,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "lucratif",
+    "w2": "à",
+    "pmi": 0.6031554795406124,
+    "cooc_count": 1965,
+    "unigram_w1": 3622,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "lucratif",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 120185,
+    "unigram_w2": 3622,
+    "window_size": 10
+  },
+  {
+    "w1": "lucratif",
+    "w2": "soins",
+    "pmi": 0.9436537102307174,
+    "cooc_count": 15,
+    "unigram_w1": 3622,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "non",
+    "pmi": 0.5782636289288725,
+    "cooc_count": 181,
+    "unigram_w1": 8200,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 8200,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 8200,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 8200,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1483,
+    "unigram_w1": 8200,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "catholique",
+    "w2": "groupe",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 8200,
+    "unigram_w2": 120185,
+    "window_size": 10
+  },
+  {
+    "w1": "non",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 738,
+    "unigram_w1": 274544,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "non",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 4875,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "non",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2904,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "non",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 572,
+    "unigram_w1": 274544,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "non",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 274544,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "non",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 44443,
+    "unigram_w1": 274544,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "non",
+    "pmi": 0.0,
+    "cooc_count": 633,
+    "unigram_w1": 120185,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "non",
+    "w2": "soins",
+    "pmi": 0.0,
+    "cooc_count": 253,
+    "unigram_w1": 274544,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "non",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 7219,
+    "unigram_w2": 274544,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "of",
+    "pmi": 2.671668636829704,
+    "cooc_count": 909,
+    "unigram_w1": 4875,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "of",
+    "pmi": 3.2082287847856654,
+    "cooc_count": 926,
+    "unigram_w1": 2904,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 285879,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 623,
+    "unigram_w1": 285879,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 8835,
+    "unigram_w1": 285879,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 248,
+    "unigram_w1": 120185,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "soins",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 285879,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "of",
+    "pmi": 2.5928144812441367,
+    "cooc_count": 1244,
+    "unigram_w1": 7219,
+    "unigram_w2": 285879,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "god",
+    "pmi": 1.5474153787322689,
+    "cooc_count": 3,
+    "unigram_w1": 4875,
+    "unigram_w2": 2904,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "santé",
+    "pmi": 1.000806258833854,
+    "cooc_count": 64,
+    "unigram_w1": 4875,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "st",
+    "pmi": 0.08657655081108104,
+    "cooc_count": 15,
+    "unigram_w1": 4875,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 4875,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "groupe",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 4875,
+    "unigram_w2": 120185,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "soins",
+    "pmi": 2.2425748573440885,
+    "cooc_count": 74,
+    "unigram_w1": 4875,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 6.312399634227299,
+    "cooc_count": 875,
+    "unigram_w1": 4875,
+    "unigram_w2": 7219,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 2904,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "groupe",
+    "pmi": 0.016479694453125755,
+    "cooc_count": 16,
+    "unigram_w1": 2904,
+    "unigram_w2": 120185,
+    "window_size": 10
+  },
+  {
+    "w1": "santé",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 113,
+    "unigram_w1": 107015,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "santé",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 17471,
+    "unigram_w1": 107015,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "santé",
+    "pmi": 0.0,
+    "cooc_count": 356,
+    "unigram_w1": 120185,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "santé",
+    "w2": "soins",
+    "pmi": 3.0532385939751543,
+    "cooc_count": 3654,
+    "unigram_w1": 107015,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "santé",
+    "pmi": 1.691073855826611,
+    "cooc_count": 189,
+    "unigram_w1": 7219,
+    "unigram_w2": 107015,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 16028,
+    "unigram_w1": 62575,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 167,
+    "unigram_w1": 120185,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "soins",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 35744,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 7219,
+    "unigram_w2": 62575,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 18830,
+    "unigram_w1": 120185,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "soins",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 7393,
+    "unigram_w1": 35744,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 362,
+    "unigram_w1": 7219,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "soins",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 120185,
+    "unigram_w2": 35744,
+    "window_size": 10
+  },
+  {
+    "w1": "groupe",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 120185,
+    "unigram_w2": 7219,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "soins",
+    "pmi": 1.330103063350966,
+    "cooc_count": 44,
+    "unigram_w1": 7219,
+    "unigram_w2": 35744,
+    "window_size": 10
+  }
+]

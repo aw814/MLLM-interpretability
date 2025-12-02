@@ -1,0 +1,821 @@
+[
+  {
+    "w1": "专辑",
+    "w2": "战士",
+    "pmi": 1.891253353121583,
+    "cooc_count": 16,
+    "unigram_w1": 3593,
+    "unigram_w2": 9779,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "发行",
+    "pmi": 4.058983979588968,
+    "cooc_count": 226,
+    "unigram_w1": 3593,
+    "unigram_w2": 15807,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 178,
+    "unigram_w1": 3593,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "专辑",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 75119,
+    "unigram_w2": 3593,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "专辑",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 50492,
+    "unigram_w2": 3593,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "专辑",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 32947,
+    "unigram_w2": 3593,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 289,
+    "unigram_w1": 3593,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1571,
+    "unigram_w1": 3593,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 3593,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 3593,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 508,
+    "unigram_w1": 3593,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "战士",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 15807,
+    "unigram_w2": 9779,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "战士",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 982471,
+    "unigram_w2": 9779,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "战士",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 75119,
+    "unigram_w2": 9779,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "战士",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 32947,
+    "unigram_w2": 9779,
+    "window_size": 10
+  },
+  {
+    "w1": "战士",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 958,
+    "unigram_w1": 9779,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "战士",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 5951,
+    "unigram_w1": 9779,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "战士",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 9779,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "战士",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 9779,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "战士",
+    "pmi": 0.1260379145868281,
+    "cooc_count": 1796,
+    "unigram_w1": 2356497,
+    "unigram_w2": 9779,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "年",
+    "pmi": 0.49473672859726864,
+    "cooc_count": 1750,
+    "unigram_w1": 15807,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "发行",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 75119,
+    "unigram_w2": 15807,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "发行",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 50492,
+    "unigram_w2": 15807,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "发行",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 32947,
+    "unigram_w2": 15807,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 1301,
+    "unigram_w1": 15807,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6823,
+    "unigram_w1": 15807,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "日",
+    "pmi": 0.25187823450326813,
+    "cooc_count": 983,
+    "unigram_w1": 15807,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "月",
+    "pmi": 0.4224815545793587,
+    "cooc_count": 1480,
+    "unigram_w1": 15807,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "发行",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 1609,
+    "unigram_w1": 15807,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "大卫",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 1637,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "大卫",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 156,
+    "unigram_w1": 1637,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "大卫",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 873,
+    "unigram_w1": 1637,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "大卫",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 1637,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "大卫",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 1637,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "大卫",
+    "pmi": 0.0,
+    "cooc_count": 158,
+    "unigram_w1": 2356497,
+    "unigram_w2": 1637,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 499,
+    "unigram_w1": 75119,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 306,
+    "unigram_w1": 50492,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 487,
+    "unigram_w1": 32947,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 54808,
+    "unigram_w1": 982471,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一天",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 311,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 391,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "日",
+    "pmi": 1.4430694993379312,
+    "cooc_count": 201072,
+    "unigram_w1": 982471,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "月",
+    "pmi": 1.7098225001613117,
+    "cooc_count": 333286,
+    "unigram_w1": 982471,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "7",
+    "pmi": 3.6234583691882345,
+    "cooc_count": 9764,
+    "unigram_w1": 50492,
+    "unigram_w2": 75119,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "7",
+    "pmi": 3.404043798502221,
+    "cooc_count": 5116,
+    "unigram_w1": 32947,
+    "unigram_w2": 75119,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 287,
+    "unigram_w1": 75119,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "david",
+    "pmi": 3.1896838626733968,
+    "cooc_count": 49,
+    "unigram_w1": 75119,
+    "unigram_w2": 391,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "nail",
+    "pmi": 2.047695299679935,
+    "cooc_count": 1,
+    "unigram_w1": 75119,
+    "unigram_w2": 25,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2623,
+    "unigram_w1": 75119,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 611,
+    "unigram_w1": 75119,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 620,
+    "unigram_w1": 75119,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 289,
+    "unigram_w1": 75119,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "2016",
+    "pmi": 3.5296496396727925,
+    "cooc_count": 3899,
+    "unigram_w1": 50492,
+    "unigram_w2": 32947,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 294,
+    "unigram_w1": 50492,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "david",
+    "pmi": 2.0930174522478486,
+    "cooc_count": 11,
+    "unigram_w1": 50492,
+    "unigram_w2": 391,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "nail",
+    "pmi": 2.444953914566643,
+    "cooc_count": 1,
+    "unigram_w1": 50492,
+    "unigram_w2": 25,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2519,
+    "unigram_w1": 50492,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 393,
+    "unigram_w1": 50492,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 340,
+    "unigram_w1": 50492,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 198,
+    "unigram_w1": 50492,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 274,
+    "unigram_w1": 32947,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "david",
+    "pmi": 3.648397402193743,
+    "cooc_count": 34,
+    "unigram_w1": 32947,
+    "unigram_w2": 391,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2239,
+    "unigram_w1": 32947,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 363,
+    "unigram_w1": 32947,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 391,
+    "unigram_w1": 32947,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 274,
+    "unigram_w1": 32947,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一天",
+    "w2": "是",
+    "pmi": 0.3164957015502646,
+    "cooc_count": 65,
+    "unigram_w1": 311,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 21750,
+    "unigram_w1": 703570,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "奈尔",
+    "w2": "是",
+    "pmi": 0.7069160763811781,
+    "cooc_count": 42,
+    "unigram_w1": 136,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 30481,
+    "unigram_w1": 2216630,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 195632,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一天",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 311,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一天",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 311,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一天",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 311,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一天",
+    "w2": "在",
+    "pmi": 0.12397152969227436,
+    "cooc_count": 57,
+    "unigram_w1": 311,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 391,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 391,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 391,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 391,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "nail",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 25,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 124006,
+    "unigram_w1": 703570,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "奈尔",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 136,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 175840,
+    "unigram_w1": 893148,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "月",
+    "pmi": 2.402513963051227,
+    "cooc_count": 477130,
+    "unigram_w1": 703570,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 98938,
+    "unigram_w1": 2356497,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "奈尔",
+    "pmi": 0.373794191100633,
+    "cooc_count": 32,
+    "unigram_w1": 2356497,
+    "unigram_w2": 136,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 102872,
+    "unigram_w1": 2356497,
+    "unigram_w2": 893148,
+    "window_size": 10
+  }
+]

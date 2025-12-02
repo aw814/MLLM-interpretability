@@ -1,0 +1,452 @@
+[
+  {
+    "w1": "מה",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 18971,
+    "unigram_w1": 904899,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "מה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 139793,
+    "unigram_w1": 904899,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2567,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 371,
+    "unigram_w1": 15848,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 38174,
+    "unigram_w1": 629162,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 700,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 2705,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "כאשר",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 8933,
+    "unigram_w1": 253782,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 2442,
+    "unigram_w1": 44561,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "pretty",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1392,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "הלייבל",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 503,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "של",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 55708,
+    "unigram_w1": 4999599,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 2567,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 385,
+    "unigram_w1": 15848,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "נלי",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 533,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "שם",
+    "pmi": 0.19064928239693246,
+    "cooc_count": 19327,
+    "unigram_w1": 629162,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 700,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 2705,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "כאשר",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 2651,
+    "unigram_w1": 253782,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "שם",
+    "pmi": 0.05482212396717101,
+    "cooc_count": 1195,
+    "unigram_w1": 44561,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "הלייבל",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 503,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 2567,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מקיי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 249,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 5451,
+    "unigram_w1": 15848,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "נלי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 533,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 129144,
+    "unigram_w1": 629162,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 700,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 2705,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "hungry",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 98,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "כאשר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 55768,
+    "unigram_w1": 253782,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 7963,
+    "unigram_w1": 44561,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "pretty",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 1392,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הלייבל",
+    "w2": "של",
+    "pmi": 0.14808143518786332,
+    "cooc_count": 213,
+    "unigram_w1": 503,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 2567,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "pretty",
+    "pmi": 4.926776623450964,
+    "cooc_count": 36,
+    "unigram_w1": 2567,
+    "unigram_w2": 1392,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "מקיי",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 629162,
+    "unigram_w2": 249,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 679,
+    "unigram_w1": 15848,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "כאשר",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 15848,
+    "unigram_w2": 253782,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "יצא",
+    "pmi": 2.541470038016164,
+    "cooc_count": 655,
+    "unigram_w1": 15848,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "pretty",
+    "w2": "האלבום",
+    "pmi": 1.314711746715663,
+    "cooc_count": 6,
+    "unigram_w1": 1392,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "הלייבל",
+    "pmi": 3.37407229233845,
+    "cooc_count": 17,
+    "unigram_w1": 15848,
+    "unigram_w2": 503,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "נלי",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 629162,
+    "unigram_w2": 533,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "נלי",
+    "pmi": 0.5477242552615638,
+    "cooc_count": 3,
+    "unigram_w1": 44561,
+    "unigram_w2": 533,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "היה",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2705,
+    "unigram_w2": 629162,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "כאשר",
+    "pmi": 0.0,
+    "cooc_count": 8748,
+    "unigram_w1": 629162,
+    "unigram_w2": 253782,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "יצא",
+    "pmi": 0.0,
+    "cooc_count": 1434,
+    "unigram_w1": 629162,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "היה",
+    "w2": "הלייבל",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 629162,
+    "unigram_w2": 503,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "כאשר",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2705,
+    "unigram_w2": 253782,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "כאשר",
+    "pmi": 0.0,
+    "cooc_count": 719,
+    "unigram_w1": 44561,
+    "unigram_w2": 253782,
+    "window_size": 10
+  },
+  {
+    "w1": "הלייבל",
+    "w2": "כאשר",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 503,
+    "unigram_w2": 253782,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "w1": "did",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 179517,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 179517,
+    "unigram_w2": 93559,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 10305,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 179517,
+    "unigram_w2": 9674,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "sinclair",
+    "pmi": 0.14102707256245825,
+    "cooc_count": 7,
+    "unigram_w1": 179517,
+    "unigram_w2": 711,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "stable",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 179517,
+    "unigram_w2": 11355,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 93559,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 10305,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 9674,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "purchase",
+    "w2": "stable",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 57601,
+    "unigram_w2": 11355,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 93559,
+    "unigram_w2": 9674,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "sinclair",
+    "pmi": 0.7927047301966968,
+    "cooc_count": 7,
+    "unigram_w1": 93559,
+    "unigram_w2": 711,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "stable",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 93559,
+    "unigram_w2": 11355,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "stable",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 10305,
+    "unigram_w2": 11355,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "stable",
+    "pmi": 0.2911140843899997,
+    "cooc_count": 7,
+    "unigram_w1": 9674,
+    "unigram_w2": 11355,
+    "window_size": 10
+  }
+]

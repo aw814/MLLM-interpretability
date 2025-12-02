@@ -1,0 +1,776 @@
+[
+  {
+    "w1": "एथलेटिक",
+    "w2": "टीम",
+    "pmi": 1.425238930171597,
+    "cooc_count": 26,
+    "unigram_w1": 822,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "टीम",
+    "w2": "थी",
+    "pmi": 0.0,
+    "cooc_count": 3103,
+    "unigram_w1": 213566,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "टीम",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4164,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "खेली",
+    "w2": "टीम",
+    "pmi": 2.2887021306925694,
+    "cooc_count": 578,
+    "unigram_w1": 7706,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "टीम",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 213566,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "टीम",
+    "pmi": 0.0,
+    "cooc_count": 504,
+    "unigram_w1": 340928,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "टीम",
+    "w2": "महिला",
+    "pmi": 1.2557929135788513,
+    "cooc_count": 4511,
+    "unigram_w1": 213566,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "टीम",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 3843,
+    "unigram_w1": 213566,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "टीम",
+    "pmi": 0.2061844883788826,
+    "cooc_count": 70598,
+    "unigram_w1": 7553000,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "टीम",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 14371,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "टीम",
+    "w2": "बास्केटबॉल",
+    "pmi": 2.0166819062768266,
+    "cooc_count": 90,
+    "unigram_w1": 213566,
+    "unigram_w2": 1575,
+    "window_size": 10
+  },
+  {
+    "w1": "टीम",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 29452,
+    "unigram_w1": 213566,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "टीम",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2260,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "कॉन्फ्रेंस",
+    "w2": "टीम",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 7315,
+    "unigram_w2": 213566,
+    "window_size": 10
+  },
+  {
+    "w1": "एथलेटिक",
+    "w2": "थी",
+    "pmi": 0.4917242792606776,
+    "cooc_count": 21,
+    "unigram_w1": 822,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "एथलेटिक",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 822,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "एथलेटिक",
+    "w2": "तक",
+    "pmi": 0.38913410939932896,
+    "cooc_count": 33,
+    "unigram_w1": 822,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "एथलेटिक",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 822,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "एथलेटिक",
+    "w2": "बास्केटबॉल",
+    "pmi": 3.076833038258747,
+    "cooc_count": 1,
+    "unigram_w1": 822,
+    "unigram_w2": 1575,
+    "window_size": 10
+  },
+  {
+    "w1": "एथलेटिक",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 822,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "थी",
+    "pmi": 0.058817311455834284,
+    "cooc_count": 69,
+    "unigram_w1": 4164,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "खेली",
+    "w2": "थी",
+    "pmi": 1.7253807874502958,
+    "cooc_count": 676,
+    "unigram_w1": 7706,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "थी",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 139,
+    "unigram_w1": 438731,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "थी",
+    "pmi": 0.9915085534444574,
+    "cooc_count": 14357,
+    "unigram_w1": 340928,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "थी",
+    "w2": "महिला",
+    "pmi": 0.50569706274849,
+    "cooc_count": 4377,
+    "unigram_w1": 438731,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "तक",
+    "w2": "थी",
+    "pmi": 0.0,
+    "cooc_count": 8918,
+    "unigram_w1": 763919,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "कैंपबेल",
+    "w2": "थी",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 944,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "थी",
+    "pmi": 0.40081075615743295,
+    "cooc_count": 176191,
+    "unigram_w1": 7553000,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "थी",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 14371,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "थी",
+    "w2": "बास्केटबॉल",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 438731,
+    "unigram_w2": 1575,
+    "window_size": 10
+  },
+  {
+    "w1": "थी",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 65176,
+    "unigram_w1": 438731,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "ट्रांस",
+    "w2": "थी",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 890,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "कॉन्फ्रेंस",
+    "w2": "थी",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 7315,
+    "unigram_w2": 438731,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 2.3508941881298697,
+    "cooc_count": 34,
+    "unigram_w1": 4164,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "किस",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 4164,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 4164,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 4164,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 798,
+    "unigram_w1": 4164,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 496,
+    "unigram_w1": 4164,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "अमेरिकन",
+    "w2": "कॉन्फ्रेंस",
+    "pmi": 1.9981117830654123,
+    "cooc_count": 8,
+    "unigram_w1": 4164,
+    "unigram_w2": 7315,
+    "window_size": 10
+  },
+  {
+    "w1": "खेली",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 7706,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "खेली",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 136,
+    "unigram_w1": 7706,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "खेली",
+    "pmi": 0.5123979341447423,
+    "cooc_count": 3460,
+    "unigram_w1": 7553000,
+    "unigram_w2": 7706,
+    "window_size": 10
+  },
+  {
+    "w1": "खेली",
+    "w2": "बास्केटबॉल",
+    "pmi": 0.8388189081288239,
+    "cooc_count": 1,
+    "unigram_w1": 7706,
+    "unigram_w2": 1575,
+    "window_size": 10
+  },
+  {
+    "w1": "खेली",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 968,
+    "unigram_w1": 7706,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 340928,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "महिला",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 168951,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "तक",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 393,
+    "unigram_w1": 763919,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 5154,
+    "unigram_w1": 7553000,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "यूनिवर्सिटी",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 3797,
+    "unigram_w1": 21847,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "कॉन्फ्रेंस",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7315,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "महिला",
+    "pmi": 0.14274942780048192,
+    "cooc_count": 2366,
+    "unigram_w1": 340928,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 3774,
+    "unigram_w1": 340928,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "कैंपबेल",
+    "pmi": 4.045666463787741,
+    "cooc_count": 655,
+    "unigram_w1": 340928,
+    "unigram_w2": 944,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 73287,
+    "unigram_w1": 340928,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "किस",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 14371,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 60101,
+    "unigram_w1": 340928,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "ट्रांस",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 340928,
+    "unigram_w2": 890,
+    "window_size": 10
+  },
+  {
+    "w1": "तक",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 2238,
+    "unigram_w1": 763919,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "कैंपबेल",
+    "w2": "महिला",
+    "pmi": 4.14362679379402,
+    "cooc_count": 358,
+    "unigram_w1": 944,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "महिला",
+    "pmi": 0.08873977603377976,
+    "cooc_count": 49661,
+    "unigram_w1": 7553000,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 14371,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "बास्केटबॉल",
+    "w2": "महिला",
+    "pmi": 1.5578719120494071,
+    "cooc_count": 45,
+    "unigram_w1": 1575,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "महिला",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 25960,
+    "unigram_w1": 168951,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "ट्रांस",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 890,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "कॉन्फ्रेंस",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 7315,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "कैंपबेल",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 944,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 143491,
+    "unigram_w1": 7553000,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 14371,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "तक",
+    "w2": "बास्केटबॉल",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 763919,
+    "unigram_w2": 1575,
+    "window_size": 10
+  },
+  {
+    "w1": "तक",
+    "w2": "से",
+    "pmi": 0.10899265303135593,
+    "cooc_count": 178132,
+    "unigram_w1": 763919,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "ट्रांस",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 890,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "कॉन्फ्रेंस",
+    "w2": "तक",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 7315,
+    "unigram_w2": 763919,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "कैंपबेल",
+    "pmi": 0.7747372342864891,
+    "cooc_count": 551,
+    "unigram_w1": 7553000,
+    "unigram_w2": 944,
+    "window_size": 10
+  },
+  {
+    "w1": "कैंपबेल",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 944,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 212,
+    "unigram_w1": 14371,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "बास्केटबॉल",
+    "pmi": 0.0,
+    "cooc_count": 297,
+    "unigram_w1": 7553000,
+    "unigram_w2": 1575,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 1139084,
+    "unigram_w1": 7553000,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 2260,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "ट्रांस",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 7553000,
+    "unigram_w2": 890,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "कॉन्फ्रेंस",
+    "pmi": 0.0,
+    "cooc_count": 1559,
+    "unigram_w1": 7553000,
+    "unigram_w2": 7315,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 14371,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 4.590694774628577,
+    "cooc_count": 114,
+    "unigram_w1": 2260,
+    "unigram_w2": 14371,
+    "window_size": 10
+  },
+  {
+    "w1": "बास्केटबॉल",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 1575,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "ट्रांस",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 174,
+    "unigram_w1": 890,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "कॉन्फ्रेंस",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 776,
+    "unigram_w1": 7315,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  }
+]

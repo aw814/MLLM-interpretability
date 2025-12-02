@@ -1,0 +1,182 @@
+[
+  {
+    "w1": "1986",
+    "w2": "פרס",
+    "pmi": 1.5137484255463054,
+    "cooc_count": 53,
+    "unigram_w1": 5699,
+    "unigram_w2": 28022,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "פרס",
+    "pmi": 0.0,
+    "cooc_count": 5169,
+    "unigram_w1": 3599592,
+    "unigram_w2": 28022,
+    "window_size": 10
+  },
+  {
+    "w1": "הוכרז",
+    "w2": "פרס",
+    "pmi": 2.3446619129492547,
+    "cooc_count": 58,
+    "unigram_w1": 2717,
+    "unigram_w2": 28022,
+    "window_size": 10
+  },
+  {
+    "w1": "לראשונה",
+    "w2": "פרס",
+    "pmi": 0.04890074939208348,
+    "cooc_count": 80,
+    "unigram_w1": 37221,
+    "unigram_w2": 28022,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "פרס",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 6547,
+    "unigram_w2": 28022,
+    "window_size": 10
+  },
+  {
+    "w1": "פרס",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 237,
+    "unigram_w1": 28022,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 446,
+    "unigram_w1": 5699,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "הוכרז",
+    "pmi": 1.6686775667270675,
+    "cooc_count": 6,
+    "unigram_w1": 5699,
+    "unigram_w2": 2717,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "לראשונה",
+    "pmi": 1.748209679546519,
+    "cooc_count": 89,
+    "unigram_w1": 5699,
+    "unigram_w2": 37221,
+    "window_size": 10
+  },
+  {
+    "w1": "1986",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 5699,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "nih",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 214,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "הוכרז",
+    "w2": "על",
+    "pmi": 0.35814980442736405,
+    "cooc_count": 1022,
+    "unigram_w1": 2717,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "לראשונה",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 5676,
+    "unigram_w1": 37221,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 706,
+    "unigram_w1": 6547,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 20403,
+    "unigram_w1": 3599592,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "הוכרז",
+    "w2": "לראשונה",
+    "pmi": 1.0448581379464537,
+    "cooc_count": 21,
+    "unigram_w1": 2717,
+    "unigram_w2": 37221,
+    "window_size": 10
+  },
+  {
+    "w1": "הוכרז",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 2717,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "לראשונה",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 6547,
+    "unigram_w2": 37221,
+    "window_size": 10
+  },
+  {
+    "w1": "לראשונה",
+    "w2": "שנה",
+    "pmi": 0.6385224879516272,
+    "cooc_count": 890,
+    "unigram_w1": 37221,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "שנה",
+    "pmi": 0.6727635491277156,
+    "cooc_count": 162,
+    "unigram_w1": 6547,
+    "unigram_w2": 172874,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "w1": "कौनसा",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 9301,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 276,
+    "unigram_w1": 9301,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "बनाया",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 9301,
+    "unigram_w2": 90873,
+    "window_size": 10
+  },
+  {
+    "w1": "अड्डा",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 4334,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "अड्डा",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 151,
+    "unigram_w1": 4334,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "अड्डा",
+    "w2": "बनाया",
+    "pmi": 0.8248554989375421,
+    "cooc_count": 32,
+    "unigram_w1": 4334,
+    "unigram_w2": 90873,
+    "window_size": 10
+  },
+  {
+    "w1": "अड्डा",
+    "w2": "सैनिक",
+    "pmi": 2.9717049676422147,
+    "cooc_count": 42,
+    "unigram_w1": 4334,
+    "unigram_w2": 13937,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 527,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 10968,
+    "unigram_w1": 984779,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "बनाया",
+    "w2": "साल",
+    "pmi": 0.01817969294255958,
+    "cooc_count": 1205,
+    "unigram_w1": 90873,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "क्रॉसिंग",
+    "w2": "साल",
+    "pmi": 0.5181736703005962,
+    "cooc_count": 27,
+    "unigram_w1": 1235,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "एरिया",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 8231,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "साल",
+    "w2": "सैनिक",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 365646,
+    "unigram_w2": 13937,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "बनाया",
+    "pmi": 2.060064323790773,
+    "cooc_count": 25006,
+    "unigram_w1": 984779,
+    "unigram_w2": 90873,
+    "window_size": 10
+  },
+  {
+    "w1": "क्रॉसिंग",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 1235,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "एरिया",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 8231,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "सैनिक",
+    "pmi": 0.0,
+    "cooc_count": 327,
+    "unigram_w1": 984779,
+    "unigram_w2": 13937,
+    "window_size": 10
+  },
+  {
+    "w1": "क्रॉसिंग",
+    "w2": "बनाया",
+    "pmi": 0.4062989984000974,
+    "cooc_count": 6,
+    "unigram_w1": 1235,
+    "unigram_w2": 90873,
+    "window_size": 10
+  },
+  {
+    "w1": "एरिया",
+    "w2": "बनाया",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 8231,
+    "unigram_w2": 90873,
+    "window_size": 10
+  },
+  {
+    "w1": "बनाया",
+    "w2": "सैनिक",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 90873,
+    "unigram_w2": 13937,
+    "window_size": 10
+  },
+  {
+    "w1": "एरिया",
+    "w2": "क्रॉसिंग",
+    "pmi": 2.114707231208049,
+    "cooc_count": 3,
+    "unigram_w1": 8231,
+    "unigram_w2": 1235,
+    "window_size": 10
+  },
+  {
+    "w1": "एरिया",
+    "w2": "सैनिक",
+    "pmi": 0.9905140112808775,
+    "cooc_count": 11,
+    "unigram_w1": 8231,
+    "unigram_w2": 13937,
+    "window_size": 10
+  }
+]

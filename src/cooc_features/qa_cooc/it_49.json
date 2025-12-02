@@ -1,0 +1,407 @@
+[
+  {
+    "w1": "1998",
+    "w2": "acquistato",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 13011,
+    "unigram_w2": 11604,
+    "window_size": 10
+  },
+  {
+    "w1": "acquistato",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 724,
+    "unigram_w1": 11604,
+    "unigram_w2": 2579321,
+    "window_size": 10
+  },
+  {
+    "w1": "acquistato",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 577,
+    "unigram_w1": 11604,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "acquistato",
+    "w2": "ha",
+    "pmi": 1.0979742017628524,
+    "cooc_count": 1819,
+    "unigram_w1": 11604,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "acquistato",
+    "w2": "cosa",
+    "pmi": 0.0,
+    "cooc_count": 101,
+    "unigram_w1": 11604,
+    "unigram_w2": 216704,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 214,
+    "unigram_w1": 3904,
+    "unigram_w2": 2579321,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "collaborazione",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 3904,
+    "unigram_w2": 57027,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 3904,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 3904,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "cosa",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 3904,
+    "unigram_w2": 216704,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "management",
+    "pmi": 3.934977590047676,
+    "cooc_count": 144,
+    "unigram_w1": 3904,
+    "unigram_w2": 15135,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "geographic",
+    "pmi": 3.191766810409742,
+    "cooc_count": 4,
+    "unigram_w1": 3904,
+    "unigram_w2": 884,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 640,
+    "unigram_w1": 13011,
+    "unigram_w2": 2579321,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "collaborazione",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 13011,
+    "unigram_w2": 57027,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "nel",
+    "pmi": 1.2164020815584329,
+    "cooc_count": 2326,
+    "unigram_w1": 13011,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 496,
+    "unigram_w1": 13011,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "cosa",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 13011,
+    "unigram_w2": 216704,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 13011,
+    "unigram_w2": 15135,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 1363,
+    "unigram_w2": 2579321,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 1363,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 1363,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "collaborazione",
+    "w2": "con",
+    "pmi": 1.6269301218710805,
+    "cooc_count": 35652,
+    "unigram_w1": 57027,
+    "unigram_w2": 2579321,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 73428,
+    "unigram_w1": 2579321,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 78279,
+    "unigram_w1": 2579321,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 317,
+    "unigram_w2": 2579321,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "cosa",
+    "pmi": 0.0,
+    "cooc_count": 14799,
+    "unigram_w1": 2579321,
+    "unigram_w2": 216704,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 872,
+    "unigram_w1": 2579321,
+    "unigram_w2": 15135,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 2579321,
+    "unigram_w2": 884,
+    "window_size": 10
+  },
+  {
+    "w1": "collaborazione",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 1563,
+    "unigram_w1": 57027,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "collaborazione",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 2038,
+    "unigram_w1": 57027,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "collaborazione",
+    "pmi": 1.9412640359369888,
+    "cooc_count": 6,
+    "unigram_w1": 317,
+    "unigram_w2": 57027,
+    "window_size": 10
+  },
+  {
+    "w1": "collaborazione",
+    "w2": "cosa",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 57027,
+    "unigram_w2": 216704,
+    "window_size": 10
+  },
+  {
+    "w1": "collaborazione",
+    "w2": "management",
+    "pmi": 0.6903603663946487,
+    "cooc_count": 82,
+    "unigram_w1": 57027,
+    "unigram_w2": 15135,
+    "window_size": 10
+  },
+  {
+    "w1": "collaborazione",
+    "w2": "geographic",
+    "pmi": 1.0698594270038844,
+    "cooc_count": 7,
+    "unigram_w1": 57027,
+    "unigram_w2": 884,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 47672,
+    "unigram_w1": 1097614,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 317,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 6592,
+    "unigram_w1": 216704,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "management",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 656,
+    "unigram_w1": 15135,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 884,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 317,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 9764,
+    "unigram_w1": 216704,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 405,
+    "unigram_w1": 1097614,
+    "unigram_w2": 15135,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "ha",
+    "pmi": 0.07860311127652746,
+    "cooc_count": 50,
+    "unigram_w1": 884,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 216704,
+    "unigram_w2": 15135,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 216704,
+    "unigram_w2": 884,
+    "window_size": 10
+  }
+]

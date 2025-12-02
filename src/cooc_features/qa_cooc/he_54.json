@@ -1,0 +1,227 @@
+[
+  {
+    "w1": "התקיים",
+    "w2": "חודש",
+    "pmi": 0.8836326198851542,
+    "cooc_count": 78,
+    "unigram_w1": 8690,
+    "unigram_w2": 50787,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "חודש",
+    "pmi": 0.3485727465174219,
+    "cooc_count": 88,
+    "unigram_w1": 16741,
+    "unigram_w2": 50787,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "חודש",
+    "pmi": 0.0,
+    "cooc_count": 1193,
+    "unigram_w1": 487514,
+    "unigram_w2": 50787,
+    "window_size": 10
+  },
+  {
+    "w1": "חודש",
+    "w2": "מרץ",
+    "pmi": 2.7702154636146665,
+    "cooc_count": 1696,
+    "unigram_w1": 50787,
+    "unigram_w2": 28643,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "חודש",
+    "pmi": 0.0,
+    "cooc_count": 2547,
+    "unigram_w1": 804913,
+    "unigram_w2": 50787,
+    "window_size": 10
+  },
+  {
+    "w1": "אירוע",
+    "w2": "חודש",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 41155,
+    "unigram_w2": 50787,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "התקיים",
+    "pmi": 0.34475361018734735,
+    "cooc_count": 15,
+    "unigram_w1": 16741,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "התקיים",
+    "pmi": 0.020987415131429744,
+    "cooc_count": 316,
+    "unigram_w1": 487514,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "התקיים",
+    "pmi": 0.0,
+    "cooc_count": 286,
+    "unigram_w1": 804913,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "אירוע",
+    "w2": "התקיים",
+    "pmi": 2.8375377351142417,
+    "cooc_count": 446,
+    "unigram_w1": 41155,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 178,
+    "unigram_w1": 487514,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "מרץ",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 16741,
+    "unigram_w2": 28643,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 804913,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "אירוע",
+    "w2": "באיזה",
+    "pmi": 1.2348225164356097,
+    "cooc_count": 173,
+    "unigram_w1": 41155,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "מרץ",
+    "pmi": 0.7269522820818854,
+    "cooc_count": 2110,
+    "unigram_w1": 487514,
+    "unigram_w2": 28643,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "3",
+    "pmi": 1.1745517550203377,
+    "cooc_count": 92769,
+    "unigram_w1": 804913,
+    "unigram_w2": 487514,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "אירוע",
+    "pmi": 0.0,
+    "cooc_count": 370,
+    "unigram_w1": 487514,
+    "unigram_w2": 41155,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "k",
+    "pmi": 1.585597019585147,
+    "cooc_count": 4156,
+    "unigram_w1": 487514,
+    "unigram_w2": 23906,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "מרץ",
+    "pmi": 0.5369866016266407,
+    "cooc_count": 2881,
+    "unigram_w1": 804913,
+    "unigram_w2": 28643,
+    "window_size": 10
+  },
+  {
+    "w1": "אירוע",
+    "w2": "מרץ",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 41155,
+    "unigram_w2": 28643,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "מרץ",
+    "pmi": 1.9254290372961913,
+    "cooc_count": 343,
+    "unigram_w1": 23906,
+    "unigram_w2": 28643,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "אירוע",
+    "pmi": 0.0,
+    "cooc_count": 491,
+    "unigram_w1": 804913,
+    "unigram_w2": 41155,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "k",
+    "pmi": 1.7016280034824707,
+    "cooc_count": 7706,
+    "unigram_w1": 804913,
+    "unigram_w2": 23906,
+    "window_size": 10
+  },
+  {
+    "w1": "festa",
+    "w2": "אירוע",
+    "pmi": 4.226696625792767,
+    "cooc_count": 7,
+    "unigram_w1": 34,
+    "unigram_w2": 41155,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "אירוע",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 23906,
+    "unigram_w2": 41155,
+    "window_size": 10
+  }
+]

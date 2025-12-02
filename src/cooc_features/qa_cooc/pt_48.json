@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "charlie",
+    "w2": "nome",
+    "pmi": 0.41358498189878556,
+    "cooc_count": 24,
+    "unigram_w1": 2159,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2159,
+    "unigram_w2": 164695,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "protagonista",
+    "pmi": 2.4512336419149743,
+    "cooc_count": 11,
+    "unigram_w1": 2159,
+    "unigram_w2": 6214,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "romances",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 104023,
+    "unigram_w2": 2188,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "romances",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 164695,
+    "unigram_w2": 2188,
+    "window_size": 10
+  },
+  {
+    "w1": "protagonista",
+    "w2": "romances",
+    "pmi": 2.748045837191749,
+    "cooc_count": 15,
+    "unigram_w1": 6214,
+    "unigram_w2": 2188,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nome",
+    "pmi": 0.34649858128950267,
+    "cooc_count": 1712,
+    "unigram_w1": 164695,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "protagonista",
+    "pmi": 0.16735553867692887,
+    "cooc_count": 54,
+    "unigram_w1": 104023,
+    "unigram_w2": 6214,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "protagonista",
+    "pmi": 0.2935992206569619,
+    "cooc_count": 97,
+    "unigram_w1": 164695,
+    "unigram_w2": 6214,
+    "window_size": 10
+  }
+]

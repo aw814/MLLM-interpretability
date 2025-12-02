@@ -1,0 +1,578 @@
+[
+  {
+    "w1": "的",
+    "w2": "飞机",
+    "pmi": 0.0,
+    "cooc_count": 7898,
+    "unigram_w1": 10165533,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "飞机",
+    "pmi": 2.10696849362216,
+    "cooc_count": 26,
+    "unigram_w1": 2578,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "位置",
+    "w2": "飞机",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 74621,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "被",
+    "w2": "飞机",
+    "pmi": 0.07689620824926903,
+    "cooc_count": 536,
+    "unigram_w1": 404691,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "期间",
+    "w2": "飞机",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 49435,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "击落",
+    "w2": "飞机",
+    "pmi": 4.100951453655427,
+    "cooc_count": 78,
+    "unigram_w1": 1053,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "飞机",
+    "pmi": 0.0,
+    "cooc_count": 1188,
+    "unigram_w1": 2216630,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "飞机",
+    "pmi": 0.0,
+    "cooc_count": 2665,
+    "unigram_w1": 2356497,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "飞机",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 303848,
+    "unigram_w2": 17850,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1124,
+    "unigram_w1": 2578,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "炮手",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 83,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "尾",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1435,
+    "unigram_w1": 4471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "奥古斯特",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 73,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "位置",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 51414,
+    "unigram_w1": 74621,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 175465,
+    "unigram_w1": 10165533,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "期间",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 18209,
+    "unigram_w1": 49435,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "击落",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 418,
+    "unigram_w1": 1053,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 122,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "泰利",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 148,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 219,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "多纳",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 100,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "约瑟夫",
+    "pmi": 0.0,
+    "cooc_count": 208,
+    "unigram_w1": 10165533,
+    "unigram_w2": 407,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "被",
+    "pmi": 0.5235421964838606,
+    "cooc_count": 121,
+    "unigram_w1": 2578,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "期间",
+    "pmi": 4.154575750858541,
+    "cooc_count": 558,
+    "unigram_w1": 2578,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 2578,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "在",
+    "pmi": 0.0774113300405038,
+    "cooc_count": 451,
+    "unigram_w1": 2578,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "二战",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2578,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "尾",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 4471,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "尾",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 371,
+    "unigram_w1": 4471,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "尾",
+    "pmi": 0.0,
+    "cooc_count": 579,
+    "unigram_w1": 2356497,
+    "unigram_w2": 4471,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "尾",
+    "pmi": 0.06891988071503004,
+    "cooc_count": 100,
+    "unigram_w1": 303848,
+    "unigram_w2": 4471,
+    "window_size": 10
+  },
+  {
+    "w1": "奥古斯特",
+    "w2": "是",
+    "pmi": 0.3640306249252518,
+    "cooc_count": 16,
+    "unigram_w1": 73,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "位置",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 744,
+    "unigram_w1": 74621,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "位置",
+    "w2": "期间",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 74621,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "位置",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 4722,
+    "unigram_w1": 74621,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "位置",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 8225,
+    "unigram_w1": 74621,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "位置",
+    "pmi": 0.0,
+    "cooc_count": 836,
+    "unigram_w1": 303848,
+    "unigram_w2": 74621,
+    "window_size": 10
+  },
+  {
+    "w1": "期间",
+    "w2": "被",
+    "pmi": 0.06576308922947977,
+    "cooc_count": 1468,
+    "unigram_w1": 49435,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "击落",
+    "w2": "被",
+    "pmi": 2.449122429632727,
+    "cooc_count": 339,
+    "unigram_w1": 1053,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 34799,
+    "unigram_w1": 2216630,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 45527,
+    "unigram_w1": 2356497,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 3329,
+    "unigram_w1": 303848,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "约瑟夫",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 407,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "击落",
+    "w2": "期间",
+    "pmi": 1.558800803898603,
+    "cooc_count": 17,
+    "unigram_w1": 1053,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "期间",
+    "pmi": 0.0,
+    "cooc_count": 2530,
+    "unigram_w1": 2216630,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "期间",
+    "pmi": 0.6373947466971649,
+    "cooc_count": 15140,
+    "unigram_w1": 2356497,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "多纳",
+    "w2": "期间",
+    "pmi": 3.2770403633244904,
+    "cooc_count": 9,
+    "unigram_w1": 100,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "期间",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 303848,
+    "unigram_w2": 49435,
+    "window_size": 10
+  },
+  {
+    "w1": "击落",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 1053,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "击落",
+    "w2": "在",
+    "pmi": 0.19885274160430094,
+    "cooc_count": 208,
+    "unigram_w1": 1053,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "击落",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 303848,
+    "unigram_w2": 1053,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 219,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 195632,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "多纳",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 100,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "是",
+    "pmi": 0.937328771102239,
+    "cooc_count": 118150,
+    "unigram_w1": 303848,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "约瑟夫",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 2216630,
+    "unigram_w2": 407,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 219,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "多纳",
+    "pmi": 0.6812788908485933,
+    "cooc_count": 32,
+    "unigram_w1": 2356497,
+    "unigram_w2": 100,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 19863,
+    "unigram_w1": 303848,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "约瑟夫",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 2356497,
+    "unigram_w2": 407,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "约瑟夫",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 303848,
+    "unigram_w2": 407,
+    "window_size": 10
+  }
+]

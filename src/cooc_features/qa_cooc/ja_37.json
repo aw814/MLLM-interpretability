@@ -1,0 +1,524 @@
+[
+  {
+    "w1": "の",
+    "w2": "誰",
+    "pmi": 0.0,
+    "cooc_count": 97848,
+    "unigram_w1": 67342455,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "トルコ",
+    "pmi": 0.0,
+    "cooc_count": 5189,
+    "unigram_w1": 67342455,
+    "unigram_w2": 10635,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "市長",
+    "pmi": 0.0,
+    "cooc_count": 5071,
+    "unigram_w1": 67342455,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4003473,
+    "unigram_w1": 11759829,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "初",
+    "pmi": 0.0,
+    "cooc_count": 138343,
+    "unigram_w1": 67342455,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "女性",
+    "pmi": 0.0,
+    "cooc_count": 310774,
+    "unigram_w1": 67342455,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 2501659,
+    "unigram_w1": 67342455,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 13786514,
+    "unigram_w1": 33426612,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "イルハン",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 67342455,
+    "unigram_w2": 139,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 13777172,
+    "unigram_w1": 67342455,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4122922,
+    "unigram_w1": 8705379,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "市長",
+    "w2": "誰",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 10792,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "誰",
+    "pmi": 1.1753843438606442,
+    "cooc_count": 87539,
+    "unigram_w1": 11759829,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "初",
+    "w2": "誰",
+    "pmi": 0.0,
+    "cooc_count": 334,
+    "unigram_w1": 296211,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "女性",
+    "w2": "誰",
+    "pmi": 0.23489828619440445,
+    "cooc_count": 1761,
+    "unigram_w1": 605908,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "誰",
+    "pmi": 0.0,
+    "cooc_count": 6277,
+    "unigram_w1": 11320816,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "誰",
+    "pmi": 0.17352135079859357,
+    "cooc_count": 91367,
+    "unigram_w1": 33426612,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "誰",
+    "pmi": 0.06227115659693394,
+    "cooc_count": 81949,
+    "unigram_w1": 33509041,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "誰",
+    "pmi": 0.0,
+    "cooc_count": 18942,
+    "unigram_w1": 8705379,
+    "unigram_w2": 296761,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "トルコ",
+    "pmi": 0.0,
+    "cooc_count": 232,
+    "unigram_w1": 11759829,
+    "unigram_w2": 10635,
+    "window_size": 10
+  },
+  {
+    "w1": "トルコ",
+    "w2": "初",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 10635,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "トルコ",
+    "w2": "女性",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 10635,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "トルコ",
+    "w2": "・",
+    "pmi": 0.4165454019424039,
+    "cooc_count": 1414,
+    "unigram_w1": 10635,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "トルコ",
+    "pmi": 0.0,
+    "cooc_count": 1804,
+    "unigram_w1": 33426612,
+    "unigram_w2": 10635,
+    "window_size": 10
+  },
+  {
+    "w1": "イルハン",
+    "w2": "トルコ",
+    "pmi": 6.54948887698201,
+    "cooc_count": 8,
+    "unigram_w1": 139,
+    "unigram_w2": 10635,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "トルコ",
+    "pmi": 0.0,
+    "cooc_count": 2308,
+    "unigram_w1": 33509041,
+    "unigram_w2": 10635,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "トルコ",
+    "pmi": 0.0,
+    "cooc_count": 464,
+    "unigram_w1": 8705379,
+    "unigram_w2": 10635,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "市長",
+    "pmi": 0.0,
+    "cooc_count": 263,
+    "unigram_w1": 11759829,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "初",
+    "w2": "市長",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 296211,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "女性",
+    "w2": "市長",
+    "pmi": 0.529730456088277,
+    "cooc_count": 86,
+    "unigram_w1": 605908,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "市長",
+    "pmi": 0.0,
+    "cooc_count": 933,
+    "unigram_w1": 11320816,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "市長",
+    "pmi": 0.0,
+    "cooc_count": 1685,
+    "unigram_w1": 33426612,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "市長",
+    "pmi": 0.11579191074761613,
+    "cooc_count": 3144,
+    "unigram_w1": 33509041,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "市長",
+    "pmi": 0.0,
+    "cooc_count": 372,
+    "unigram_w1": 8705379,
+    "unigram_w2": 10792,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "初",
+    "pmi": 0.11739122711818327,
+    "cooc_count": 30333,
+    "unigram_w1": 11759829,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "女性",
+    "pmi": 0.0,
+    "cooc_count": 21542,
+    "unigram_w1": 11759829,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 242610,
+    "unigram_w1": 11759829,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "で",
+    "pmi": 0.0,
+    "cooc_count": 2292146,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33426612,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 504609,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "初",
+    "w2": "女性",
+    "pmi": 0.0,
+    "cooc_count": 888,
+    "unigram_w1": 296211,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "初",
+    "pmi": 0.0,
+    "cooc_count": 11755,
+    "unigram_w1": 11320816,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "初",
+    "pmi": 0.0,
+    "cooc_count": 69159,
+    "unigram_w1": 33426612,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "初",
+    "pmi": 0.0,
+    "cooc_count": 69736,
+    "unigram_w1": 33509041,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "初",
+    "pmi": 0.0,
+    "cooc_count": 7315,
+    "unigram_w1": 8705379,
+    "unigram_w2": 296211,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "女性",
+    "pmi": 0.0,
+    "cooc_count": 24895,
+    "unigram_w1": 11320816,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "女性",
+    "pmi": 0.0,
+    "cooc_count": 127019,
+    "unigram_w1": 33426612,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "女性",
+    "pmi": 0.11475859066476869,
+    "cooc_count": 176335,
+    "unigram_w1": 33509041,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "女性",
+    "pmi": 0.3286560981631901,
+    "cooc_count": 56736,
+    "unigram_w1": 8705379,
+    "unigram_w2": 605908,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 831559,
+    "unigram_w1": 33426612,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "イルハン",
+    "w2": "・",
+    "pmi": 0.7956362159938609,
+    "cooc_count": 27,
+    "unigram_w1": 139,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 962111,
+    "unigram_w1": 33509041,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 272109,
+    "unigram_w1": 8705379,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "イルハン",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 33426612,
+    "unigram_w2": 139,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 8244036,
+    "unigram_w1": 33426612,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "で",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 1659932,
+    "unigram_w1": 33426612,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "イルハン",
+    "pmi": 0.36587094053684643,
+    "cooc_count": 52,
+    "unigram_w1": 33509041,
+    "unigram_w2": 139,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "は",
+    "pmi": 0.10498293108232228,
+    "cooc_count": 2508846,
+    "unigram_w1": 8705379,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  }
+]

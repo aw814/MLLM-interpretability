@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "了",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 71273,
+    "unigram_w1": 2335068,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "购买",
+    "pmi": 0.0,
+    "cooc_count": 4188,
+    "unigram_w1": 2335068,
+    "unigram_w2": 37958,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 2950,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 31519,
+    "unigram_w1": 2335068,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "合作",
+    "pmi": 0.0,
+    "cooc_count": 11114,
+    "unigram_w1": 2335068,
+    "unigram_w2": 128027,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "管理层",
+    "pmi": 0.17502048627546257,
+    "cooc_count": 491,
+    "unigram_w1": 2335068,
+    "unigram_w2": 2569,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1155684,
+    "unigram_w1": 2335068,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 46460,
+    "unigram_w1": 580253,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "了",
+    "pmi": 0.8002289384096672,
+    "cooc_count": 5,
+    "unigram_w1": 14,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 302,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "购买",
+    "pmi": 0.0,
+    "cooc_count": 1142,
+    "unigram_w1": 982471,
+    "unigram_w2": 37958,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2950,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4830,
+    "unigram_w1": 303848,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "合作",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4033,
+    "unigram_w1": 128027,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "管理层",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 982471,
+    "unigram_w2": 2569,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 20465,
+    "unigram_w1": 580253,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 302,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "capital",
+    "pmi": 8.75637384862727,
+    "cooc_count": 17,
+    "unigram_w1": 129,
+    "unigram_w2": 302,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "与",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 302,
+    "unigram_w2": 580253,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "购买",
+    "pmi": 0.0,
+    "cooc_count": 296,
+    "unigram_w1": 303848,
+    "unigram_w2": 37958,
+    "window_size": 10
+  },
+  {
+    "w1": "合作",
+    "w2": "购买",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 128027,
+    "unigram_w2": 37958,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "购买",
+    "pmi": 0.0,
+    "cooc_count": 18158,
+    "unigram_w1": 10165533,
+    "unigram_w2": 37958,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "购买",
+    "pmi": 0.0,
+    "cooc_count": 520,
+    "unigram_w1": 580253,
+    "unigram_w2": 37958,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 2950,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "与",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2950,
+    "unigram_w2": 580253,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "合作",
+    "pmi": 0.0,
+    "cooc_count": 352,
+    "unigram_w1": 303848,
+    "unigram_w2": 128027,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "管理层",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 303848,
+    "unigram_w2": 2569,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 2635,
+    "unigram_w1": 580253,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "合作",
+    "w2": "管理层",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 128027,
+    "unigram_w2": 2569,
+    "window_size": 10
+  },
+  {
+    "w1": "合作",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 52837,
+    "unigram_w1": 128027,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "合作",
+    "pmi": 1.4442978468327625,
+    "cooc_count": 21636,
+    "unigram_w1": 580253,
+    "unigram_w2": 128027,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "管理层",
+    "pmi": 0.0,
+    "cooc_count": 1299,
+    "unigram_w1": 10165533,
+    "unigram_w2": 2569,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "管理层",
+    "pmi": 0.17492947962238573,
+    "cooc_count": 122,
+    "unigram_w1": 580253,
+    "unigram_w2": 2569,
+    "window_size": 10
+  },
+  {
+    "w1": "与",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 281393,
+    "unigram_w1": 580253,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  }
+]

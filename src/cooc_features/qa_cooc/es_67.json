@@ -1,0 +1,155 @@
+[
+  {
+    "w1": "cómo",
+    "w2": "se",
+    "pmi": 0.05138862351708729,
+    "cooc_count": 36636,
+    "unigram_w1": 189529,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "natación",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 354,
+    "unigram_w1": 4763,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "llamaba",
+    "w2": "se",
+    "pmi": 1.2258839533850894,
+    "cooc_count": 2784,
+    "unigram_w1": 4450,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "anteriormente",
+    "w2": "se",
+    "pmi": 0.3890422633833672,
+    "cooc_count": 4066,
+    "unigram_w1": 15007,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "artística",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 759,
+    "unigram_w1": 7007,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "sincronizado",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 3238610,
+    "unigram_w2": 446,
+    "window_size": 10
+  },
+  {
+    "w1": "nado",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 883,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "cómo",
+    "w2": "natación",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 189529,
+    "unigram_w2": 4763,
+    "window_size": 10
+  },
+  {
+    "w1": "cómo",
+    "w2": "llamaba",
+    "pmi": 0.8330777549970478,
+    "cooc_count": 110,
+    "unigram_w1": 189529,
+    "unigram_w2": 4450,
+    "window_size": 10
+  },
+  {
+    "w1": "anteriormente",
+    "w2": "cómo",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 15007,
+    "unigram_w2": 189529,
+    "window_size": 10
+  },
+  {
+    "w1": "artística",
+    "w2": "cómo",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 7007,
+    "unigram_w2": 189529,
+    "window_size": 10
+  },
+  {
+    "w1": "artística",
+    "w2": "natación",
+    "pmi": 3.099925779573747,
+    "cooc_count": 42,
+    "unigram_w1": 7007,
+    "unigram_w2": 4763,
+    "window_size": 10
+  },
+  {
+    "w1": "natación",
+    "w2": "sincronizado",
+    "pmi": 4.062512286696162,
+    "cooc_count": 7,
+    "unigram_w1": 4763,
+    "unigram_w2": 446,
+    "window_size": 10
+  },
+  {
+    "w1": "nado",
+    "w2": "natación",
+    "pmi": 4.800891719043427,
+    "cooc_count": 29,
+    "unigram_w1": 883,
+    "unigram_w2": 4763,
+    "window_size": 10
+  },
+  {
+    "w1": "anteriormente",
+    "w2": "llamaba",
+    "pmi": 1.3076800070207564,
+    "cooc_count": 14,
+    "unigram_w1": 15007,
+    "unigram_w2": 4450,
+    "window_size": 10
+  },
+  {
+    "w1": "anteriormente",
+    "w2": "artística",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 15007,
+    "unigram_w2": 7007,
+    "window_size": 10
+  },
+  {
+    "w1": "nado",
+    "w2": "sincronizado",
+    "pmi": 7.7908939844020235,
+    "cooc_count": 54,
+    "unigram_w1": 883,
+    "unigram_w2": 446,
+    "window_size": 10
+  }
+]

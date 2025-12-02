@@ -1,0 +1,1424 @@
+[
+  {
+    "w1": "jeux",
+    "w2": "olympiques",
+    "pmi": 5.2957472495265545,
+    "cooc_count": 4478,
+    "unigram_w1": 80148,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 80148,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "jeux",
+    "pmi": 0.2527093451071709,
+    "cooc_count": 133,
+    "unigram_w1": 28582,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 7673,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 80148,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 4634,
+    "unigram_w1": 2730698,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "jeux",
+    "pmi": 0.1438174435613486,
+    "cooc_count": 40,
+    "unigram_w1": 9585,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 825,
+    "unigram_w1": 80148,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 80148,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 124116,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "papillon",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 80148,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "masculin",
+    "pmi": 0.8635053361364666,
+    "cooc_count": 43,
+    "unigram_w1": 80148,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 11718,
+    "unigram_w1": 4842659,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 348,
+    "unigram_w1": 123482,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 80148,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 80148,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 216,
+    "unigram_w1": 80148,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 367,
+    "unigram_w1": 640934,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "olympiques",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 6211,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "olympiques",
+    "pmi": 1.2521177390149545,
+    "cooc_count": 28,
+    "unigram_w1": 28582,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "olympiques",
+    "pmi": 1.02674217393188,
+    "cooc_count": 6,
+    "unigram_w1": 7673,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "olympiques",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 6211,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 404,
+    "unigram_w1": 2730698,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "olympiques",
+    "pmi": 1.9028627592979104,
+    "cooc_count": 18,
+    "unigram_w1": 9585,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "olympiques",
+    "w2": "été",
+    "pmi": 0.770384126994556,
+    "cooc_count": 339,
+    "unigram_w1": 6211,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 127008,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 124116,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "masculin",
+    "w2": "olympiques",
+    "pmi": 3.0271540623837114,
+    "cooc_count": 29,
+    "unigram_w1": 5017,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 1308,
+    "unigram_w1": 4842659,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 123482,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "olympiques",
+    "pmi": 1.5722319709688524,
+    "cooc_count": 19,
+    "unigram_w1": 14082,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "mètres",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 30675,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "olympiques",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 6211,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "olympiques",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 640934,
+    "unigram_w2": 6211,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 28582,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 7673,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "t",
+    "pmi": 0.5944759720105592,
+    "cooc_count": 1518,
+    "unigram_w1": 62661,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9585,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 4208,
+    "unigram_w1": 296470,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 486,
+    "unigram_w1": 127008,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 1259,
+    "unigram_w1": 124116,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "papillon",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 4247,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "masculin",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 5017,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 25317,
+    "unigram_w1": 4842659,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 982,
+    "unigram_w1": 123482,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 14082,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "mètres",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 30675,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 512,
+    "unigram_w1": 296470,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": 0.892839666453013,
+    "cooc_count": 20925,
+    "unigram_w1": 640934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "finale",
+    "pmi": 1.2920464076774982,
+    "cooc_count": 36,
+    "unigram_w1": 7673,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 28582,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 2343,
+    "unigram_w1": 2730698,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 9585,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 28582,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "lieu",
+    "pmi": 0.3742557394877362,
+    "cooc_count": 238,
+    "unigram_w1": 28582,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 124116,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "papillon",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 28582,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "masculin",
+    "pmi": 1.8222824510287368,
+    "cooc_count": 40,
+    "unigram_w1": 28582,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 2844,
+    "unigram_w1": 4842659,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 123482,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 28582,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "mètres",
+    "pmi": 0.1294496415902608,
+    "cooc_count": 45,
+    "unigram_w1": 28582,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "finale",
+    "w2": "ville",
+    "pmi": 0.03526320106542211,
+    "cooc_count": 227,
+    "unigram_w1": 28582,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "finale",
+    "pmi": 0.0,
+    "cooc_count": 409,
+    "unigram_w1": 640934,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "a",
+    "pmi": 0.49629178586943373,
+    "cooc_count": 1552,
+    "unigram_w1": 7673,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "angeles",
+    "pmi": 1.5736939640231646,
+    "cooc_count": 16,
+    "unigram_w1": 7673,
+    "unigram_w2": 9585,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 7673,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 7673,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 7673,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 648,
+    "unigram_w1": 7673,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 123482,
+    "unigram_w2": 7673,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "los",
+    "pmi": 1.0554645617993084,
+    "cooc_count": 14,
+    "unigram_w1": 7673,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7673,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 7673,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 7673,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4469,
+    "unigram_w1": 2730698,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 745,
+    "unigram_w1": 62661,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 127008,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 166,
+    "unigram_w1": 124116,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 5997,
+    "unigram_w1": 4842659,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 123482,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 14082,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "mètres",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 30675,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "ville",
+    "pmi": 0.23387987916183095,
+    "cooc_count": 607,
+    "unigram_w1": 62661,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 1703,
+    "unigram_w1": 640934,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 640,
+    "unigram_w1": 2730698,
+    "unigram_w2": 9585,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "été",
+    "pmi": 1.404852042000135,
+    "cooc_count": 281098,
+    "unigram_w1": 2730698,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "lieu",
+    "pmi": 0.2431333069245369,
+    "cooc_count": 19944,
+    "unigram_w1": 2730698,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "eu",
+    "pmi": 1.0415758005689197,
+    "cooc_count": 43308,
+    "unigram_w1": 2730698,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "papillon",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 2730698,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "masculin",
+    "pmi": 0.0,
+    "cooc_count": 329,
+    "unigram_w1": 2730698,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 294701,
+    "unigram_w1": 2730698,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 6768,
+    "unigram_w1": 123482,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 970,
+    "unigram_w1": 2730698,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 1597,
+    "unigram_w1": 2730698,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 12774,
+    "unigram_w1": 2730698,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": 0.2923699331615506,
+    "cooc_count": 105725,
+    "unigram_w1": 2730698,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 9585,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 9585,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 9585,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "masculin",
+    "pmi": 0.32459305814490524,
+    "cooc_count": 3,
+    "unigram_w1": 9585,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 492,
+    "unigram_w1": 9585,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 123482,
+    "unigram_w2": 9585,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "los",
+    "pmi": 7.222614112968955,
+    "cooc_count": 8339,
+    "unigram_w1": 9585,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9585,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "ville",
+    "pmi": 0.31801147298727406,
+    "cooc_count": 101,
+    "unigram_w1": 9585,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 130,
+    "unigram_w1": 9585,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 1237,
+    "unigram_w1": 127008,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 1369,
+    "unigram_w1": 124116,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "papillon",
+    "w2": "été",
+    "pmi": 0.0780832729665021,
+    "cooc_count": 116,
+    "unigram_w1": 4247,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "masculin",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 5017,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 69035,
+    "unigram_w1": 4842659,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 734,
+    "unigram_w1": 123482,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 14082,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "mètres",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 302,
+    "unigram_w1": 30675,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "ville",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 2125,
+    "unigram_w1": 170021,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 14396,
+    "unigram_w1": 640934,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "lieu",
+    "pmi": 2.738832451977334,
+    "cooc_count": 10996,
+    "unigram_w1": 124116,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "masculin",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 127008,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 23073,
+    "unigram_w1": 4842659,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 177,
+    "unigram_w1": 123482,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 127008,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 116,
+    "unigram_w1": 127008,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "ville",
+    "pmi": 0.07823876817694295,
+    "cooc_count": 1053,
+    "unigram_w1": 127008,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 1969,
+    "unigram_w1": 640934,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "papillon",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 124116,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "masculin",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 124116,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 15104,
+    "unigram_w1": 4842659,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 194,
+    "unigram_w1": 123482,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 124116,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 124116,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 236,
+    "unigram_w1": 124116,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "eu",
+    "pmi": 0.0007766732742403668,
+    "cooc_count": 3590,
+    "unigram_w1": 640934,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "papillon",
+    "pmi": 0.0,
+    "cooc_count": 513,
+    "unigram_w1": 4842659,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "papillon",
+    "pmi": 0.16890855386282738,
+    "cooc_count": 28,
+    "unigram_w1": 123482,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "mètres",
+    "w2": "papillon",
+    "pmi": 0.4265760268846295,
+    "cooc_count": 9,
+    "unigram_w1": 30675,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "papillon",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 640934,
+    "unigram_w2": 4247,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "masculin",
+    "pmi": 0.0,
+    "cooc_count": 629,
+    "unigram_w1": 4842659,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "masculin",
+    "pmi": 0.10407195400178797,
+    "cooc_count": 31,
+    "unigram_w1": 123482,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "masculin",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 14082,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "masculin",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 5017,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "masculin",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 640934,
+    "unigram_w2": 5017,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 13596,
+    "unigram_w1": 123482,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 687,
+    "unigram_w1": 4842659,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 4757,
+    "unigram_w1": 4842659,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 26309,
+    "unigram_w1": 4842659,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 77020,
+    "unigram_w1": 4842659,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 123482,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "mètres",
+    "pmi": 2.2227484913848206,
+    "cooc_count": 1577,
+    "unigram_w1": 123482,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 483,
+    "unigram_w1": 123482,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 915,
+    "unigram_w1": 123482,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "mètres",
+    "pmi": 0.36287142495780655,
+    "cooc_count": 28,
+    "unigram_w1": 14082,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "ville",
+    "pmi": 0.47724824576120983,
+    "cooc_count": 174,
+    "unigram_w1": 14082,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 640934,
+    "unigram_w2": 14082,
+    "window_size": 10
+  },
+  {
+    "w1": "mètres",
+    "w2": "ville",
+    "pmi": 0.49806703507642897,
+    "cooc_count": 387,
+    "unigram_w1": 30675,
+    "unigram_w2": 170021,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "mètres",
+    "pmi": 0.0,
+    "cooc_count": 493,
+    "unigram_w1": 640934,
+    "unigram_w2": 30675,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "ville",
+    "pmi": 0.0,
+    "cooc_count": 2608,
+    "unigram_w1": 640934,
+    "unigram_w2": 170021,
+    "window_size": 10
+  }
+]

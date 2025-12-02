@@ -1,0 +1,866 @@
+[
+  {
+    "w1": "חוץ",
+    "w2": "ממשלתיים",
+    "pmi": 2.470216754142176,
+    "cooc_count": 92,
+    "unigram_w1": 45462,
+    "unigram_w2": 2343,
+    "window_size": 10
+  },
+  {
+    "w1": "ממשלתיים",
+    "w2": "שירותים",
+    "pmi": 1.7739577008572909,
+    "cooc_count": 26,
+    "unigram_w1": 2343,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "ממשלתיים",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 357,
+    "unigram_w1": 2343,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "ממשלתיים",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2343,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "ממשלתיים",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 2343,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "ממשלתיים",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 522345,
+    "unigram_w2": 2343,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "ממשלתיים",
+    "pmi": 1.7674740065552672,
+    "cooc_count": 24,
+    "unigram_w1": 23948,
+    "unigram_w2": 2343,
+    "window_size": 10
+  },
+  {
+    "w1": "במיקור",
+    "w2": "חוץ",
+    "pmi": 5.630297367816961,
+    "cooc_count": 622,
+    "unigram_w1": 672,
+    "unigram_w2": 45462,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "שירותים",
+    "pmi": 0.9022746436602423,
+    "cooc_count": 211,
+    "unigram_w1": 45462,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "חוץ",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 16741,
+    "unigram_w2": 45462,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "מישהו",
+    "pmi": 0.0,
+    "cooc_count": 234,
+    "unigram_w1": 45462,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "חוץ",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 17327,
+    "unigram_w2": 45462,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 6542,
+    "unigram_w1": 45462,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "חוץ",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 23358,
+    "unigram_w2": 45462,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 45462,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 45462,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "מונח",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 45462,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "לתאר",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 45462,
+    "unigram_w2": 13959,
+    "window_size": 10
+  },
+  {
+    "w1": "חוזים",
+    "w2": "חוץ",
+    "pmi": 0.7450300191463839,
+    "cooc_count": 27,
+    "unigram_w1": 3860,
+    "unigram_w2": 45462,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "כדי",
+    "pmi": 0.0,
+    "cooc_count": 612,
+    "unigram_w1": 45462,
+    "unigram_w2": 522345,
+    "window_size": 10
+  },
+  {
+    "w1": "חוץ",
+    "w2": "לקדם",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 45462,
+    "unigram_w2": 23948,
+    "window_size": 10
+  },
+  {
+    "w1": "במיקור",
+    "w2": "שירותים",
+    "pmi": 2.537378983060236,
+    "cooc_count": 16,
+    "unigram_w1": 672,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "במיקור",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 672,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "במיקור",
+    "w2": "משתמשים",
+    "pmi": 0.30915496209781745,
+    "cooc_count": 2,
+    "unigram_w1": 672,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "במיקור",
+    "w2": "כדי",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 672,
+    "unigram_w2": 522345,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 16741,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "מישהו",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 80329,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 17327,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 3926,
+    "unigram_w1": 3599592,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 23358,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "משתמשים",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 29911,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "מנת",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 205,
+    "unigram_w1": 195209,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "מונח",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 6162,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "חוזים",
+    "w2": "שירותים",
+    "pmi": 0.5815754963462646,
+    "cooc_count": 13,
+    "unigram_w1": 3860,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "שירותים",
+    "pmi": 0.0,
+    "cooc_count": 507,
+    "unigram_w1": 522345,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "שירותים",
+    "pmi": 0.14265222787978898,
+    "cooc_count": 52,
+    "unigram_w1": 23948,
+    "unigram_w2": 25776,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "מישהו",
+    "pmi": 0.1663358380098881,
+    "cooc_count": 116,
+    "unigram_w1": 16741,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 17327,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 1914,
+    "unigram_w1": 16741,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "בדרום",
+    "pmi": 0.04913419216821966,
+    "cooc_count": 30,
+    "unigram_w1": 16741,
+    "unigram_w2": 23358,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "משתמשים",
+    "pmi": 1.5767997752190661,
+    "cooc_count": 177,
+    "unigram_w1": 16741,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 16741,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "מונח",
+    "pmi": 0.059916489867797615,
+    "cooc_count": 8,
+    "unigram_w1": 16741,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "לתאר",
+    "pmi": 0.3816277117000177,
+    "cooc_count": 25,
+    "unigram_w1": 16741,
+    "unigram_w2": 13959,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "כדי",
+    "pmi": 0.0,
+    "cooc_count": 446,
+    "unigram_w1": 16741,
+    "unigram_w2": 522345,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "לקדם",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 16741,
+    "unigram_w2": 23948,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "מישהו",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 17327,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "מישהו",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 12936,
+    "unigram_w1": 80329,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "מישהו",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 23358,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "מישהו",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 80329,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "מישהו",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 104,
+    "unigram_w1": 80329,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "מונח",
+    "w2": "מישהו",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 6162,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "לתאר",
+    "w2": "מישהו",
+    "pmi": 0.3394141141698002,
+    "cooc_count": 115,
+    "unigram_w1": 13959,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "מישהו",
+    "pmi": 0.0,
+    "cooc_count": 1536,
+    "unigram_w1": 522345,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "מישהו",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 23948,
+    "unigram_w2": 80329,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 1848,
+    "unigram_w1": 17327,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "בדרום",
+    "pmi": 4.539050612197928,
+    "cooc_count": 2767,
+    "unigram_w1": 17327,
+    "unigram_w2": 23358,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 17327,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 17327,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "מונח",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 17327,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "לתאר",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 17327,
+    "unigram_w2": 13959,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "כדי",
+    "pmi": 0.0,
+    "cooc_count": 231,
+    "unigram_w1": 17327,
+    "unigram_w2": 522345,
+    "window_size": 10
+  },
+  {
+    "w1": "אפריקה",
+    "w2": "לקדם",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 17327,
+    "unigram_w2": 23948,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 2889,
+    "unigram_w1": 23358,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "משתמשים",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 5324,
+    "unigram_w1": 29911,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "מנת",
+    "w2": "על",
+    "pmi": 1.2240513681337286,
+    "cooc_count": 174549,
+    "unigram_w1": 195209,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "מונח",
+    "w2": "על",
+    "pmi": 0.2759818895961739,
+    "cooc_count": 2135,
+    "unigram_w1": 6162,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "לתאר",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 1140,
+    "unigram_w1": 13959,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "שמשיג",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 3599592,
+    "unigram_w2": 177,
+    "window_size": 10
+  },
+  {
+    "w1": "חוזים",
+    "w2": "על",
+    "pmi": 0.09140965544171344,
+    "cooc_count": 1112,
+    "unigram_w1": 3860,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 81855,
+    "unigram_w1": 522345,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 3296,
+    "unigram_w1": 23948,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 23358,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 23358,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "מונח",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 23358,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "לתאר",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 23358,
+    "unigram_w2": 13959,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "כדי",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 23358,
+    "unigram_w2": 522345,
+    "window_size": 10
+  },
+  {
+    "w1": "בדרום",
+    "w2": "לקדם",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 23358,
+    "unigram_w2": 23948,
+    "window_size": 10
+  },
+  {
+    "w1": "מנת",
+    "w2": "משתמשים",
+    "pmi": 0.21920208484732903,
+    "cooc_count": 531,
+    "unigram_w1": 195209,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "מונח",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 6162,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "לתאר",
+    "w2": "משתמשים",
+    "pmi": 1.361509874659793,
+    "cooc_count": 119,
+    "unigram_w1": 13959,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "משתמשים",
+    "pmi": 0.8533814235117586,
+    "cooc_count": 2679,
+    "unigram_w1": 522345,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "משתמשים",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 23948,
+    "unigram_w2": 29911,
+    "window_size": 10
+  },
+  {
+    "w1": "מונח",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 6162,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "לתאר",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 183,
+    "unigram_w1": 13959,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "חוזים",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 3860,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "מנת",
+    "pmi": 0.0,
+    "cooc_count": 1419,
+    "unigram_w1": 522345,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "מנת",
+    "pmi": 1.4280066482314067,
+    "cooc_count": 1424,
+    "unigram_w1": 23948,
+    "unigram_w2": 195209,
+    "window_size": 10
+  },
+  {
+    "w1": "לתאר",
+    "w2": "מונח",
+    "pmi": 2.0334122979988796,
+    "cooc_count": 48,
+    "unigram_w1": 13959,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "מונח",
+    "pmi": 0.0,
+    "cooc_count": 101,
+    "unigram_w1": 522345,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "מונח",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 23948,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "לתאר",
+    "pmi": 0.9031155971982858,
+    "cooc_count": 1314,
+    "unigram_w1": 522345,
+    "unigram_w2": 13959,
+    "window_size": 10
+  },
+  {
+    "w1": "לקדם",
+    "w2": "לתאר",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 23948,
+    "unigram_w2": 13959,
+    "window_size": 10
+  },
+  {
+    "w1": "חוזים",
+    "w2": "כדי",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 3860,
+    "unigram_w2": 522345,
+    "window_size": 10
+  },
+  {
+    "w1": "חוזים",
+    "w2": "לקדם",
+    "pmi": 0.03609530131155396,
+    "cooc_count": 7,
+    "unigram_w1": 3860,
+    "unigram_w2": 23948,
+    "window_size": 10
+  },
+  {
+    "w1": "כדי",
+    "w2": "לקדם",
+    "pmi": 1.3450402967614234,
+    "cooc_count": 3507,
+    "unigram_w1": 522345,
+    "unigram_w2": 23948,
+    "window_size": 10
+  }
+]

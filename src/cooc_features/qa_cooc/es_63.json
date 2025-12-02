@@ -1,0 +1,263 @@
+[
+  {
+    "w1": "cuál",
+    "w2": "hospital",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 37292,
+    "unigram_w2": 31373,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "grado",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 37292,
+    "unigram_w2": 32589,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 37292,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "original",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 37292,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "es",
+    "pmi": 1.573069128860873,
+    "cooc_count": 24570,
+    "unigram_w1": 37292,
+    "unigram_w2": 2410229,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 124426,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 150,
+    "unigram_w1": 37292,
+    "unigram_w2": 157195,
+    "window_size": 10
+  },
+  {
+    "w1": "entebbe",
+    "w2": "es",
+    "pmi": 0.8202505161119779,
+    "cooc_count": 9,
+    "unigram_w1": 29,
+    "unigram_w2": 2410229,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "hospital",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 32589,
+    "unigram_w2": 31373,
+    "window_size": 10
+  },
+  {
+    "w1": "hospital",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 31373,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "hospital",
+    "w2": "original",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 31373,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "es",
+    "w2": "hospital",
+    "pmi": 0.0,
+    "cooc_count": 1618,
+    "unigram_w1": 2410229,
+    "unigram_w2": 31373,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "hospital",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 124426,
+    "unigram_w2": 31373,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "hospital",
+    "pmi": 1.9729961989964344,
+    "cooc_count": 2011,
+    "unigram_w1": 157195,
+    "unigram_w2": 31373,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 116,
+    "unigram_w1": 32589,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "original",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 32589,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "es",
+    "w2": "grado",
+    "pmi": 0.0,
+    "cooc_count": 2431,
+    "unigram_w1": 2410229,
+    "unigram_w2": 32589,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "grado",
+    "pmi": 0.40008800986133114,
+    "cooc_count": 343,
+    "unigram_w1": 124426,
+    "unigram_w2": 32589,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "grado",
+    "pmi": 0.0,
+    "cooc_count": 216,
+    "unigram_w1": 157195,
+    "unigram_w2": 32589,
+    "window_size": 10
+  },
+  {
+    "w1": "nombre",
+    "w2": "original",
+    "pmi": 0.20175410011536224,
+    "cooc_count": 422,
+    "unigram_w1": 107905,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "es",
+    "w2": "nombre",
+    "pmi": 0.13874824759271376,
+    "cooc_count": 16940,
+    "unigram_w1": 2410229,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 482,
+    "unigram_w1": 124426,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 347,
+    "unigram_w1": 157195,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "es",
+    "w2": "original",
+    "pmi": 0.0,
+    "cooc_count": 6701,
+    "unigram_w1": 2410229,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "original",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 124426,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "original",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 157195,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "es",
+    "pmi": 0.0,
+    "cooc_count": 5852,
+    "unigram_w1": 124426,
+    "unigram_w2": 2410229,
+    "window_size": 10
+  },
+  {
+    "w1": "es",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 12428,
+    "unigram_w1": 2410229,
+    "unigram_w2": 157195,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 882,
+    "unigram_w1": 124426,
+    "unigram_w2": 157195,
+    "window_size": 10
+  }
+]

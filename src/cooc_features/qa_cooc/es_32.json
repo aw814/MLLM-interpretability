@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "15",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 13123,
+    "unigram_w1": 229559,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "lanzó",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 229559,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "2016",
+    "pmi": 1.2938061550284057,
+    "cooc_count": 8014,
+    "unigram_w1": 229559,
+    "unigram_w2": 168852,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "fighter",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 229559,
+    "unigram_w2": 2224,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "david",
+    "pmi": 0.0,
+    "cooc_count": 308,
+    "unigram_w1": 229559,
+    "unigram_w2": 28704,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 229559,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "nail",
+    "pmi": 0.09672131370709697,
+    "cooc_count": 8,
+    "unigram_w1": 229559,
+    "unigram_w2": 558,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "julio",
+    "pmi": 1.1675397702749324,
+    "cooc_count": 4212,
+    "unigram_w1": 229559,
+    "unigram_w2": 100689,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "fecha",
+    "pmi": 0.6969760730789439,
+    "cooc_count": 2442,
+    "unigram_w1": 229559,
+    "unigram_w2": 93455,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzó",
+    "w2": "se",
+    "pmi": 0.4420020833763236,
+    "cooc_count": 2128,
+    "unigram_w1": 7449,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 9230,
+    "unigram_w1": 168852,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 2224,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 1787,
+    "unigram_w1": 28704,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 958,
+    "unigram_w1": 3238610,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "nail",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 558,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "julio",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 7642,
+    "unigram_w1": 100689,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "fecha",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 11280,
+    "unigram_w1": 93455,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "lanzó",
+    "pmi": 0.23275081603950554,
+    "cooc_count": 90,
+    "unigram_w1": 168852,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "lanzó",
+    "pmi": 0.2775159736667552,
+    "cooc_count": 16,
+    "unigram_w1": 28704,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzó",
+    "w2": "álbum",
+    "pmi": 3.033321225719505,
+    "cooc_count": 132,
+    "unigram_w1": 7449,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "julio",
+    "w2": "lanzó",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 100689,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "fecha",
+    "w2": "lanzó",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 93455,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "fighter",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 168852,
+    "unigram_w2": 2224,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "david",
+    "pmi": 0.08107794153239883,
+    "cooc_count": 298,
+    "unigram_w1": 168852,
+    "unigram_w2": 28704,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "álbum",
+    "pmi": 0.4501115060054399,
+    "cooc_count": 226,
+    "unigram_w1": 168852,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "nail",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 168852,
+    "unigram_w2": 558,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "julio",
+    "pmi": 1.8790338040822507,
+    "cooc_count": 6311,
+    "unigram_w1": 168852,
+    "unigram_w2": 100689,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "fecha",
+    "pmi": 0.45842571396257675,
+    "cooc_count": 1415,
+    "unigram_w1": 168852,
+    "unigram_w2": 93455,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "julio",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2224,
+    "unigram_w2": 100689,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "álbum",
+    "pmi": 0.20275999411304302,
+    "cooc_count": 30,
+    "unigram_w1": 28704,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "nail",
+    "pmi": 2.2936279405581588,
+    "cooc_count": 9,
+    "unigram_w1": 28704,
+    "unigram_w2": 558,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "julio",
+    "pmi": 0.036768925266006336,
+    "cooc_count": 170,
+    "unigram_w1": 28704,
+    "unigram_w2": 100689,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "fecha",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 28704,
+    "unigram_w2": 93455,
+    "window_size": 10
+  },
+  {
+    "w1": "julio",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 100689,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "fecha",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 93455,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "fecha",
+    "w2": "julio",
+    "pmi": 0.8704437732060978,
+    "cooc_count": 1274,
+    "unigram_w1": 93455,
+    "unigram_w2": 100689,
+    "window_size": 10
+  }
+]

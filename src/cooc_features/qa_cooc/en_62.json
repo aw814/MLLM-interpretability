@@ -1,0 +1,974 @@
+[
+  {
+    "w1": "fulfilled",
+    "w2": "time",
+    "pmi": 0.0016286207805671588,
+    "cooc_count": 76,
+    "unigram_w1": 2429,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 34152,
+    "unigram_w1": 1712851,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "time",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 3869,
+    "unigram_w1": 655848,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 9841,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 672,
+    "unigram_w1": 93727,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 943,
+    "unigram_w1": 92125,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "subject",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 789,
+    "unigram_w1": 49222,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "specific",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 1398,
+    "unigram_w1": 60415,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "requests",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 338,
+    "unigram_w1": 14272,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 1215,
+    "unigram_w1": 97267,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "regulation",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 11995,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 354,
+    "unigram_w1": 37073,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "time",
+    "pmi": 0.8823552735950287,
+    "cooc_count": 2882,
+    "unigram_w1": 38178,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 4183,
+    "unigram_w1": 253178,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "requires",
+    "w2": "time",
+    "pmi": 0.0,
+    "cooc_count": 772,
+    "unigram_w1": 27353,
+    "unigram_w2": 655848,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "fulfilled",
+    "pmi": 1.1227280903449803,
+    "cooc_count": 609,
+    "unigram_w1": 1712851,
+    "unigram_w2": 2429,
+    "window_size": 10
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "within",
+    "pmi": 0.6522946598377228,
+    "cooc_count": 28,
+    "unigram_w1": 2429,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "law",
+    "pmi": 0.8745345718764046,
+    "cooc_count": 26,
+    "unigram_w1": 2429,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 2429,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "specific",
+    "pmi": 0.25281149412991205,
+    "cooc_count": 9,
+    "unigram_w1": 2429,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "fulfilled",
+    "w2": "requests",
+    "pmi": 2.5895672127936264,
+    "cooc_count": 22,
+    "unigram_w1": 2429,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "fulfilled",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 253178,
+    "unigram_w2": 2429,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "within",
+    "pmi": 0.0007774604463084695,
+    "cooc_count": 10292,
+    "unigram_w1": 1712851,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "brazil",
+    "pmi": 0.0,
+    "cooc_count": 252,
+    "unigram_w1": 1712851,
+    "unigram_w2": 9841,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "law",
+    "pmi": 0.0,
+    "cooc_count": 3766,
+    "unigram_w1": 1712851,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 3768,
+    "unigram_w1": 1712851,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "subject",
+    "pmi": 0.2138273533438185,
+    "cooc_count": 4973,
+    "unigram_w1": 1712851,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 4774,
+    "unigram_w1": 1712851,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "requests",
+    "pmi": 0.0,
+    "cooc_count": 1032,
+    "unigram_w1": 1712851,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "be",
+    "pmi": 0.0,
+    "cooc_count": 4070,
+    "unigram_w1": 97267,
+    "unigram_w2": 1712851,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "regulation",
+    "pmi": 0.0,
+    "cooc_count": 645,
+    "unigram_w1": 1712851,
+    "unigram_w2": 11995,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "protection",
+    "pmi": 0.0,
+    "cooc_count": 1421,
+    "unigram_w1": 1712851,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "frame",
+    "pmi": 0.0,
+    "cooc_count": 1314,
+    "unigram_w1": 1712851,
+    "unigram_w2": 38178,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "data",
+    "pmi": 0.0,
+    "cooc_count": 11552,
+    "unigram_w1": 1712851,
+    "unigram_w2": 253178,
+    "window_size": 10
+  },
+  {
+    "w1": "be",
+    "w2": "requires",
+    "pmi": 0.09013591525930663,
+    "cooc_count": 2442,
+    "unigram_w1": 1712851,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 9841,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 398,
+    "unigram_w1": 93727,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 92125,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "subject",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 253,
+    "unigram_w1": 49222,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "specific",
+    "w2": "within",
+    "pmi": 0.8409240411762311,
+    "cooc_count": 841,
+    "unigram_w1": 60415,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "requests",
+    "w2": "within",
+    "pmi": 0.6430204246516633,
+    "cooc_count": 163,
+    "unigram_w1": 14272,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 523,
+    "unigram_w1": 97267,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "regulation",
+    "w2": "within",
+    "pmi": 0.1538967022342102,
+    "cooc_count": 84,
+    "unigram_w1": 11995,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 37073,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "within",
+    "pmi": 0.8036349912433522,
+    "cooc_count": 512,
+    "unigram_w1": 38178,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 1350,
+    "unigram_w1": 253178,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "requires",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 27353,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "law",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 9841,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 9841,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "subject",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 9841,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 9841,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "brazil",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 97267,
+    "unigram_w2": 9841,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "protection",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 9841,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "frame",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 9841,
+    "unigram_w2": 38178,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "data",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 9841,
+    "unigram_w2": 253178,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "law",
+    "pmi": 0.4805583740213115,
+    "cooc_count": 665,
+    "unigram_w1": 92125,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "subject",
+    "pmi": 0.28774961486598644,
+    "cooc_count": 293,
+    "unigram_w1": 93727,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 207,
+    "unigram_w1": 93727,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "requests",
+    "pmi": 0.10829798507861986,
+    "cooc_count": 71,
+    "unigram_w1": 93727,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "law",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 97267,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "regulation",
+    "pmi": 2.094773818671984,
+    "cooc_count": 435,
+    "unigram_w1": 93727,
+    "unigram_w2": 11995,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "protection",
+    "pmi": 1.0394970379303528,
+    "cooc_count": 468,
+    "unigram_w1": 93727,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "law",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 38178,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "law",
+    "pmi": 0.0,
+    "cooc_count": 599,
+    "unigram_w1": 253178,
+    "unigram_w2": 93727,
+    "window_size": 10
+  },
+  {
+    "w1": "law",
+    "w2": "requires",
+    "pmi": 1.6312418401779234,
+    "cooc_count": 624,
+    "unigram_w1": 93727,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "subject",
+    "pmi": 0.05853896031169963,
+    "cooc_count": 229,
+    "unigram_w1": 92125,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "specific",
+    "pmi": 0.7298384945307441,
+    "cooc_count": 550,
+    "unigram_w1": 92125,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "requests",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 92125,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 308,
+    "unigram_w1": 97267,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "regulation",
+    "pmi": 1.3837752692093097,
+    "cooc_count": 210,
+    "unigram_w1": 92125,
+    "unigram_w2": 11995,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "protection",
+    "pmi": 0.8641060623860776,
+    "cooc_count": 386,
+    "unigram_w1": 92125,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 38178,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 741,
+    "unigram_w1": 253178,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "requires",
+    "pmi": 0.0,
+    "cooc_count": 89,
+    "unigram_w1": 92125,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "specific",
+    "w2": "subject",
+    "pmi": 0.7370853431117496,
+    "cooc_count": 296,
+    "unigram_w1": 60415,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "requests",
+    "w2": "subject",
+    "pmi": 1.3494761357909792,
+    "cooc_count": 129,
+    "unigram_w1": 14272,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "subject",
+    "pmi": 0.09196445070970595,
+    "cooc_count": 250,
+    "unigram_w1": 97267,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "regulation",
+    "w2": "subject",
+    "pmi": 1.1852619880243431,
+    "cooc_count": 92,
+    "unigram_w1": 11995,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "subject",
+    "pmi": 0.09942255687254478,
+    "cooc_count": 96,
+    "unigram_w1": 37073,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "subject",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 38178,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "subject",
+    "pmi": 0.0,
+    "cooc_count": 366,
+    "unigram_w1": 253178,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "requires",
+    "w2": "subject",
+    "pmi": 0.33894676553076364,
+    "cooc_count": 90,
+    "unigram_w1": 27353,
+    "unigram_w2": 49222,
+    "window_size": 10
+  },
+  {
+    "w1": "requests",
+    "w2": "specific",
+    "pmi": 1.3410127963243827,
+    "cooc_count": 157,
+    "unigram_w1": 14272,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 222,
+    "unigram_w1": 97267,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "regulation",
+    "w2": "specific",
+    "pmi": 0.35039696863269676,
+    "cooc_count": 49,
+    "unigram_w1": 11995,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 37073,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 38178,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "specific",
+    "pmi": 0.2516570503927989,
+    "cooc_count": 937,
+    "unigram_w1": 253178,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "requires",
+    "w2": "specific",
+    "pmi": 0.7759039112499257,
+    "cooc_count": 171,
+    "unigram_w1": 27353,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "requests",
+    "pmi": 1.1217506140776323,
+    "cooc_count": 203,
+    "unigram_w1": 97267,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "requests",
+    "pmi": 0.031212005614576124,
+    "cooc_count": 26,
+    "unigram_w1": 37073,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "requests",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 38178,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "requests",
+    "pmi": 0.5852528876937402,
+    "cooc_count": 309,
+    "unigram_w1": 253178,
+    "unigram_w2": 14272,
+    "window_size": 10
+  },
+  {
+    "w1": "requests",
+    "w2": "requires",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 14272,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "regulation",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 97267,
+    "unigram_w2": 11995,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "protection",
+    "pmi": 0.6530479234717723,
+    "cooc_count": 330,
+    "unigram_w1": 97267,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "frame",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 97267,
+    "unigram_w2": 38178,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "data",
+    "pmi": 1.128085079377017,
+    "cooc_count": 3624,
+    "unigram_w1": 97267,
+    "unigram_w2": 253178,
+    "window_size": 10
+  },
+  {
+    "w1": "access",
+    "w2": "requires",
+    "pmi": 0.2517681996137985,
+    "cooc_count": 163,
+    "unigram_w1": 97267,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "regulation",
+    "pmi": 2.5266549731253116,
+    "cooc_count": 265,
+    "unigram_w1": 37073,
+    "unigram_w2": 11995,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "regulation",
+    "pmi": 0.9579664777900011,
+    "cooc_count": 377,
+    "unigram_w1": 253178,
+    "unigram_w2": 11995,
+    "window_size": 10
+  },
+  {
+    "w1": "regulation",
+    "w2": "requires",
+    "pmi": 1.6076967036244714,
+    "cooc_count": 78,
+    "unigram_w1": 11995,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "protection",
+    "pmi": 0.2889652802823025,
+    "cooc_count": 90,
+    "unigram_w1": 38178,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "protection",
+    "pmi": 1.7659591389555636,
+    "cooc_count": 2614,
+    "unigram_w1": 253178,
+    "unigram_w2": 37073,
+    "window_size": 10
+  },
+  {
+    "w1": "protection",
+    "w2": "requires",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 37073,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "frame",
+    "pmi": 0.0,
+    "cooc_count": 299,
+    "unigram_w1": 253178,
+    "unigram_w2": 38178,
+    "window_size": 10
+  },
+  {
+    "w1": "frame",
+    "w2": "requires",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 38178,
+    "unigram_w2": 27353,
+    "window_size": 10
+  },
+  {
+    "w1": "data",
+    "w2": "requires",
+    "pmi": 0.0,
+    "cooc_count": 237,
+    "unigram_w1": 253178,
+    "unigram_w2": 27353,
+    "window_size": 10
+  }
+]

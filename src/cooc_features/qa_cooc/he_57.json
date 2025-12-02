@@ -1,0 +1,290 @@
+[
+  {
+    "w1": "אבן",
+    "w2": "מורכב",
+    "pmi": 0.9964375151157912,
+    "cooc_count": 113,
+    "unigram_w1": 30946,
+    "unigram_w2": 18457,
+    "window_size": 10
+  },
+  {
+    "w1": "מורכב",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 5489,
+    "unigram_w1": 18457,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "חול",
+    "w2": "מורכב",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 10457,
+    "unigram_w2": 18457,
+    "window_size": 10
+  },
+  {
+    "w1": "מורכב",
+    "w2": "ממה",
+    "pmi": 2.888332770683325,
+    "cooc_count": 694,
+    "unigram_w1": 18457,
+    "unigram_w2": 28658,
+    "window_size": 10
+  },
+  {
+    "w1": "החלק",
+    "w2": "מורכב",
+    "pmi": 0.6964356127441136,
+    "cooc_count": 79,
+    "unigram_w1": 29204,
+    "unigram_w2": 18457,
+    "window_size": 10
+  },
+  {
+    "w1": "מורכב",
+    "w2": "תצורת",
+    "pmi": 0.7614545487647884,
+    "cooc_count": 5,
+    "unigram_w1": 18457,
+    "unigram_w2": 1732,
+    "window_size": 10
+  },
+  {
+    "w1": "התחתון",
+    "w2": "מורכב",
+    "pmi": 0.5571276378804214,
+    "cooc_count": 28,
+    "unigram_w1": 11898,
+    "unigram_w2": 18457,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "בוץ",
+    "pmi": 2.241582269244559,
+    "cooc_count": 41,
+    "unigram_w1": 30946,
+    "unigram_w2": 1928,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 6164,
+    "unigram_w1": 30946,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "חול",
+    "pmi": 3.240795986046968,
+    "cooc_count": 604,
+    "unigram_w1": 30946,
+    "unigram_w2": 10457,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "ממה",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 30946,
+    "unigram_w2": 28658,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "החלק",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 30946,
+    "unigram_w2": 29204,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "תצורת",
+    "pmi": 0.8324411659245808,
+    "cooc_count": 9,
+    "unigram_w1": 30946,
+    "unigram_w2": 1732,
+    "window_size": 10
+  },
+  {
+    "w1": "אבן",
+    "w2": "התחתון",
+    "pmi": 0.3716847260925371,
+    "cooc_count": 39,
+    "unigram_w1": 30946,
+    "unigram_w2": 11898,
+    "window_size": 10
+  },
+  {
+    "w1": "בוץ",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 505,
+    "unigram_w1": 1928,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "בוץ",
+    "w2": "חול",
+    "pmi": 3.046969546476426,
+    "cooc_count": 31,
+    "unigram_w1": 1928,
+    "unigram_w2": 10457,
+    "window_size": 10
+  },
+  {
+    "w1": "בוץ",
+    "w2": "החלק",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1928,
+    "unigram_w2": 29204,
+    "window_size": 10
+  },
+  {
+    "w1": "סנטו",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 261,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "חול",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3073,
+    "unigram_w1": 10457,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ממה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3740,
+    "unigram_w1": 28658,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "החלק",
+    "w2": "של",
+    "pmi": 0.18009411182688212,
+    "cooc_count": 12769,
+    "unigram_w1": 29204,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "של",
+    "w2": "תצורת",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 4999599,
+    "unigram_w2": 1732,
+    "window_size": 10
+  },
+  {
+    "w1": "התחתון",
+    "w2": "של",
+    "pmi": 0.2855857989128025,
+    "cooc_count": 5781,
+    "unigram_w1": 11898,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אספיריטו",
+    "w2": "סנטו",
+    "pmi": 10.5923153195777,
+    "cooc_count": 41,
+    "unigram_w1": 54,
+    "unigram_w2": 261,
+    "window_size": 10
+  },
+  {
+    "w1": "חול",
+    "w2": "ממה",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 10457,
+    "unigram_w2": 28658,
+    "window_size": 10
+  },
+  {
+    "w1": "החלק",
+    "w2": "חול",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 29204,
+    "unigram_w2": 10457,
+    "window_size": 10
+  },
+  {
+    "w1": "חול",
+    "w2": "תצורת",
+    "pmi": 1.1064830891592812,
+    "cooc_count": 4,
+    "unigram_w1": 10457,
+    "unigram_w2": 1732,
+    "window_size": 10
+  },
+  {
+    "w1": "התחתון",
+    "w2": "חול",
+    "pmi": 1.0119710442821208,
+    "cooc_count": 25,
+    "unigram_w1": 11898,
+    "unigram_w2": 10457,
+    "window_size": 10
+  },
+  {
+    "w1": "החלק",
+    "w2": "ממה",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 29204,
+    "unigram_w2": 28658,
+    "window_size": 10
+  },
+  {
+    "w1": "התחתון",
+    "w2": "ממה",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 11898,
+    "unigram_w2": 28658,
+    "window_size": 10
+  },
+  {
+    "w1": "החלק",
+    "w2": "התחתון",
+    "pmi": 3.9175466077412677,
+    "cooc_count": 1276,
+    "unigram_w1": 29204,
+    "unigram_w2": 11898,
+    "window_size": 10
+  },
+  {
+    "w1": "התחתון",
+    "w2": "תצורת",
+    "pmi": 1.5370001689454418,
+    "cooc_count": 7,
+    "unigram_w1": 11898,
+    "unigram_w2": 1732,
+    "window_size": 10
+  }
+]

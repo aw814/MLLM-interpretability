@@ -1,0 +1,641 @@
+[
+  {
+    "w1": "mississippi",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 65,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "the",
+    "pmi": 2.464544956983643,
+    "cooc_count": 15,
+    "unigram_w1": 65,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "to",
+    "pmi": 3.449740442831815,
+    "cooc_count": 15,
+    "unigram_w1": 65,
+    "unigram_w2": 100325,
+    "window_size": 10
+  },
+  {
+    "w1": "אלווין",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 273,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 217,
+    "unigram_w1": 3839,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "קודר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 154,
+    "unigram_w1": 618,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 51442,
+    "unigram_w1": 301519,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "גורדי",
+    "w2": "של",
+    "pmi": 0.1492706630867582,
+    "cooc_count": 368,
+    "unigram_w1": 868,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "לאלבום",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 817,
+    "unigram_w1": 2395,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2970,
+    "unigram_w1": 11971,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 8696,
+    "unigram_w1": 268704,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "של",
+    "w2": "תרם",
+    "pmi": 0.0,
+    "cooc_count": 955,
+    "unigram_w1": 4999599,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "ונסון",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1257,
+    "unigram_w1": 4414,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ספייק",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 277,
+    "unigram_w1": 844,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 440,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ים",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 16039,
+    "unigram_w1": 104563,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1592,
+    "unigram_w1": 100325,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 288,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ריי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 894,
+    "unigram_w1": 2820,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ספונר",
+    "w2": "של",
+    "pmi": 0.7050985677052437,
+    "cooc_count": 34,
+    "unigram_w1": 46,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אשפורד",
+    "w2": "של",
+    "pmi": 0.004077330714392542,
+    "cooc_count": 11,
+    "unigram_w1": 30,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הארט",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 440,
+    "unigram_w1": 1256,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "אלווין",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 268704,
+    "unigram_w2": 273,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "the",
+    "pmi": 2.213156101789931,
+    "cooc_count": 689,
+    "unigram_w1": 3839,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "ים",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 3839,
+    "unigram_w2": 104563,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "to",
+    "pmi": 1.3452415437486642,
+    "cooc_count": 108,
+    "unigram_w1": 3839,
+    "unigram_w2": 100325,
+    "window_size": 10
+  },
+  {
+    "w1": "מי",
+    "w2": "קודר",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 301519,
+    "unigram_w2": 618,
+    "window_size": 10
+  },
+  {
+    "w1": "לאלבום",
+    "w2": "קודר",
+    "pmi": 4.421845316793872,
+    "cooc_count": 9,
+    "unigram_w1": 2395,
+    "unigram_w2": 618,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "קודר",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 268704,
+    "unigram_w2": 618,
+    "window_size": 10
+  },
+  {
+    "w1": "גורדי",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 868,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "לאלבום",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2395,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 11971,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 170,
+    "unigram_w1": 268704,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "מי",
+    "w2": "תרם",
+    "pmi": 0.4025118443216125,
+    "cooc_count": 122,
+    "unigram_w1": 301519,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "ונסון",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 4414,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "מי",
+    "w2": "ספייק",
+    "pmi": 0.12202933848189165,
+    "cooc_count": 21,
+    "unigram_w1": 301519,
+    "unigram_w2": 844,
+    "window_size": 10
+  },
+  {
+    "w1": "ים",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 1311,
+    "unigram_w1": 104563,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 100325,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "מי",
+    "w2": "ריי",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 301519,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "הארט",
+    "w2": "מי",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 1256,
+    "unigram_w2": 301519,
+    "window_size": 10
+  },
+  {
+    "w1": "סטייפלס",
+    "w2": "ריי",
+    "pmi": 6.64192885232987,
+    "cooc_count": 3,
+    "unigram_w1": 19,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "גורדי",
+    "w2": "ים",
+    "pmi": 1.5097083342153685,
+    "cooc_count": 30,
+    "unigram_w1": 868,
+    "unigram_w2": 104563,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "לאלבום",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 11971,
+    "unigram_w2": 2395,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "לאלבום",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 268704,
+    "unigram_w2": 2395,
+    "window_size": 10
+  },
+  {
+    "w1": "לאלבום",
+    "w2": "תרם",
+    "pmi": 3.3243123590454386,
+    "cooc_count": 18,
+    "unigram_w1": 2395,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "ים",
+    "w2": "לאלבום",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 104563,
+    "unigram_w2": 2395,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "לאלבום",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 100325,
+    "unigram_w2": 2395,
+    "window_size": 10
+  },
+  {
+    "w1": "לאלבום",
+    "w2": "ריי",
+    "pmi": 2.4983765022112396,
+    "cooc_count": 6,
+    "unigram_w1": 2395,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "וג",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 268704,
+    "unigram_w2": 11971,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "תרם",
+    "pmi": 2.043712598611121,
+    "cooc_count": 25,
+    "unigram_w1": 11971,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "ונסון",
+    "pmi": 3.8027603771900873,
+    "cooc_count": 173,
+    "unigram_w1": 11971,
+    "unigram_w2": 4414,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "ים",
+    "pmi": 1.1120814436528303,
+    "cooc_count": 278,
+    "unigram_w1": 11971,
+    "unigram_w2": 104563,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "וג",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 100325,
+    "unigram_w2": 11971,
+    "window_size": 10
+  },
+  {
+    "w1": "וג",
+    "w2": "ריי",
+    "pmi": 2.835182823860199,
+    "cooc_count": 42,
+    "unigram_w1": 11971,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "הארט",
+    "w2": "וג",
+    "pmi": 3.3075154041430013,
+    "cooc_count": 30,
+    "unigram_w1": 1256,
+    "unigram_w2": 11971,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "תרם",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 268704,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "ונסון",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 268704,
+    "unigram_w2": 4414,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "the",
+    "pmi": 3.111965457928091,
+    "cooc_count": 194,
+    "unigram_w1": 440,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "ים",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 268704,
+    "unigram_w2": 104563,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "to",
+    "pmi": 2.9803717594385954,
+    "cooc_count": 38780,
+    "unigram_w1": 268704,
+    "unigram_w2": 100325,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "the",
+    "pmi": 3.1731963240795538,
+    "cooc_count": 135,
+    "unigram_w1": 288,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "ריי",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 268704,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "ים",
+    "w2": "תרם",
+    "pmi": 0.058731453109648585,
+    "cooc_count": 30,
+    "unigram_w1": 104563,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "ריי",
+    "w2": "תרם",
+    "pmi": 2.3500284887419665,
+    "cooc_count": 8,
+    "unigram_w1": 2820,
+    "unigram_w2": 3704,
+    "window_size": 10
+  },
+  {
+    "w1": "ונסון",
+    "w2": "ים",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 4414,
+    "unigram_w2": 104563,
+    "window_size": 10
+  },
+  {
+    "w1": "ונסון",
+    "w2": "ריי",
+    "pmi": 3.139741393734942,
+    "cooc_count": 21,
+    "unigram_w1": 4414,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "to",
+    "pmi": 2.889745795259355,
+    "cooc_count": 58,
+    "unigram_w1": 440,
+    "unigram_w2": 100325,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "ים",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 100325,
+    "unigram_w2": 104563,
+    "window_size": 10
+  },
+  {
+    "w1": "ים",
+    "w2": "ריי",
+    "pmi": 0.021252956639719656,
+    "cooc_count": 22,
+    "unigram_w1": 104563,
+    "unigram_w2": 2820,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "to",
+    "pmi": 2.5853215416645003,
+    "cooc_count": 28,
+    "unigram_w1": 288,
+    "unigram_w2": 100325,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "ריי",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 100325,
+    "unigram_w2": 2820,
+    "window_size": 10
+  }
+]

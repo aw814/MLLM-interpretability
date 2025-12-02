@@ -1,0 +1,434 @@
+[
+  {
+    "w1": "capital",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 33668,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 179517,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "what",
+    "pmi": 0.8660818589690257,
+    "cooc_count": 12712,
+    "unigram_w1": 179517,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 16785,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "partnership",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 179517,
+    "unigram_w2": 16250,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 11153,
+    "unigram_w1": 179517,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 19416,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1145,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 179517,
+    "unigram_w2": 118250,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 179517,
+    "unigram_w2": 4390,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 33668,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 252,
+    "unigram_w1": 33668,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "capital",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 16785,
+    "unigram_w2": 33668,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "partnership",
+    "pmi": 1.2935401367684642,
+    "cooc_count": 95,
+    "unigram_w1": 33668,
+    "unigram_w2": 16250,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 2143,
+    "unigram_w1": 33668,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "capital",
+    "pmi": 2.780258805211099,
+    "cooc_count": 502,
+    "unigram_w1": 19416,
+    "unigram_w2": 33668,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "management",
+    "pmi": 1.685449892523254,
+    "cooc_count": 1023,
+    "unigram_w1": 33668,
+    "unigram_w2": 118250,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 33668,
+    "unigram_w2": 4390,
+    "window_size": 10
+  },
+  {
+    "w1": "purchase",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 967,
+    "unigram_w1": 57601,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 16785,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "purchase",
+    "w2": "with",
+    "pmi": 0.06441837731462027,
+    "cooc_count": 7253,
+    "unigram_w1": 57601,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 19416,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "management",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 118250,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "purchase",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 4390,
+    "unigram_w2": 57601,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 16785,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "partnership",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 136,
+    "unigram_w1": 16250,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 43381,
+    "unigram_w1": 625314,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 187,
+    "unigram_w1": 19416,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 1145,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "management",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 824,
+    "unigram_w1": 118250,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 4390,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "partnership",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 16785,
+    "unigram_w2": 16250,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 564,
+    "unigram_w1": 16785,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "australian",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 16785,
+    "unigram_w2": 19416,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "archer",
+    "pmi": 0.7815608984147437,
+    "cooc_count": 2,
+    "unigram_w1": 16785,
+    "unigram_w2": 1145,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 16785,
+    "unigram_w2": 118250,
+    "window_size": 10
+  },
+  {
+    "w1": "partnership",
+    "w2": "with",
+    "pmi": 1.247418496563352,
+    "cooc_count": 6679,
+    "unigram_w1": 16250,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "partnership",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 19416,
+    "unigram_w2": 16250,
+    "window_size": 10
+  },
+  {
+    "w1": "management",
+    "w2": "partnership",
+    "pmi": 0.10838286242948164,
+    "cooc_count": 102,
+    "unigram_w1": 118250,
+    "unigram_w2": 16250,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "partnership",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4390,
+    "unigram_w2": 16250,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 2190,
+    "unigram_w1": 19416,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 1145,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "management",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 10300,
+    "unigram_w1": 118250,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 371,
+    "unigram_w1": 4390,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 19416,
+    "unigram_w2": 118250,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "geographic",
+    "pmi": 0.7961018671178387,
+    "cooc_count": 9,
+    "unigram_w1": 19416,
+    "unigram_w2": 4390,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "management",
+    "pmi": 0.6210049707027545,
+    "cooc_count": 12,
+    "unigram_w1": 1145,
+    "unigram_w2": 118250,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "management",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 4390,
+    "unigram_w2": 118250,
+    "window_size": 10
+  }
+]

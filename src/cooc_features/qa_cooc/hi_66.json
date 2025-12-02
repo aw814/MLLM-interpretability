@@ -1,0 +1,308 @@
+[
+  {
+    "w1": "1993",
+    "w2": "किया",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2230,
+    "unigram_w2": 1376196,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2230,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2230,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "टोरंटो",
+    "w2": "न्यूज़",
+    "pmi": 2.2605770474134195,
+    "cooc_count": 9,
+    "unigram_w1": 929,
+    "unigram_w2": 28371,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "न्यूज़",
+    "pmi": 0.0,
+    "cooc_count": 692,
+    "unigram_w1": 1376196,
+    "unigram_w2": 28371,
+    "window_size": 10
+  },
+  {
+    "w1": "न्यूज़",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 267,
+    "unigram_w1": 28371,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "न्यूज़",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 340928,
+    "unigram_w2": 28371,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "न्यूज़",
+    "pmi": 0.0,
+    "cooc_count": 309,
+    "unigram_w1": 984779,
+    "unigram_w2": 28371,
+    "window_size": 10
+  },
+  {
+    "w1": "डेली",
+    "w2": "न्यूज़",
+    "pmi": 2.7179588383286313,
+    "cooc_count": 57,
+    "unigram_w1": 3724,
+    "unigram_w2": 28371,
+    "window_size": 10
+  },
+  {
+    "w1": "न्यूज़",
+    "w2": "लॉन्च",
+    "pmi": 0.8477525801837411,
+    "cooc_count": 95,
+    "unigram_w1": 28371,
+    "unigram_w2": 40279,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "टोरंटो",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 1376196,
+    "unigram_w2": 929,
+    "window_size": 10
+  },
+  {
+    "w1": "टोरंटो",
+    "w2": "साल",
+    "pmi": 0.07200367200604275,
+    "cooc_count": 13,
+    "unigram_w1": 929,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "टोरंटो",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 984779,
+    "unigram_w2": 929,
+    "window_size": 10
+  },
+  {
+    "w1": "टोरंटो",
+    "w2": "लॉन्च",
+    "pmi": 1.7923312671328195,
+    "cooc_count": 8,
+    "unigram_w1": 929,
+    "unigram_w2": 40279,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 12625,
+    "unigram_w1": 1376196,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "मिंग",
+    "pmi": 0.640844500808976,
+    "cooc_count": 16,
+    "unigram_w1": 1376196,
+    "unigram_w2": 172,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "किस",
+    "pmi": 0.5472628835520531,
+    "cooc_count": 28881,
+    "unigram_w1": 1376196,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "गया",
+    "pmi": 1.5980125396070073,
+    "cooc_count": 238574,
+    "unigram_w1": 1376196,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "डेली",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 1376196,
+    "unigram_w2": 3724,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "लॉन्च",
+    "pmi": 1.7621800891234742,
+    "cooc_count": 11499,
+    "unigram_w1": 1376196,
+    "unigram_w2": 40279,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "पाओ",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 1376196,
+    "unigram_w2": 782,
+    "window_size": 10
+  },
+  {
+    "w1": "मिंग",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 172,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 340928,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 10968,
+    "unigram_w1": 984779,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "डेली",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 3724,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "लॉन्च",
+    "w2": "साल",
+    "pmi": 0.7007675189207441,
+    "cooc_count": 1057,
+    "unigram_w1": 40279,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "मिंग",
+    "pmi": 1.380970808610861,
+    "cooc_count": 24,
+    "unigram_w1": 984779,
+    "unigram_w2": 172,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "गया",
+    "pmi": 0.5276354038621065,
+    "cooc_count": 20265,
+    "unigram_w1": 340928,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "डेली",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 340928,
+    "unigram_w2": 3724,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "लॉन्च",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 340928,
+    "unigram_w2": 40279,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "डेली",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 984779,
+    "unigram_w2": 3724,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "लॉन्च",
+    "pmi": 0.7713608063742259,
+    "cooc_count": 3055,
+    "unigram_w1": 984779,
+    "unigram_w2": 40279,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "पाओ",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 984779,
+    "unigram_w2": 782,
+    "window_size": 10
+  },
+  {
+    "w1": "डेली",
+    "w2": "लॉन्च",
+    "pmi": 0.8893941833314013,
+    "cooc_count": 13,
+    "unigram_w1": 3724,
+    "unigram_w2": 40279,
+    "window_size": 10
+  }
+]

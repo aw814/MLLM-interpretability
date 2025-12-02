@@ -1,0 +1,1577 @@
+[
+  {
+    "w1": "cru",
+    "w2": "vrac",
+    "pmi": 1.8085100484968017,
+    "cooc_count": 9,
+    "unigram_w1": 10864,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "cru",
+    "pmi": 0.48695349771698837,
+    "cooc_count": 12,
+    "unigram_w1": 15052,
+    "unigram_w2": 10864,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "cru",
+    "pmi": 2.6002197604687947,
+    "cooc_count": 52,
+    "unigram_w1": 7882,
+    "unigram_w2": 10864,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "cru",
+    "pmi": 2.3834788958547573,
+    "cooc_count": 42,
+    "unigram_w1": 7907,
+    "unigram_w2": 10864,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 10864,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "cru",
+    "pmi": 2.4618472756323686,
+    "cooc_count": 182,
+    "unigram_w1": 31681,
+    "unigram_w2": 10864,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "cru",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 5493,
+    "unigram_w2": 10864,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 10864,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 1109,
+    "unigram_w1": 10864,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "mélange",
+    "pmi": 0.06152192834266475,
+    "cooc_count": 9,
+    "unigram_w1": 10864,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1621,
+    "unigram_w1": 10864,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "spécifique",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 10864,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 10864,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "cru",
+    "w2": "était",
+    "pmi": 1.0916339897667249,
+    "cooc_count": 432,
+    "unigram_w1": 10864,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "composition",
+    "pmi": 0.07585870884870399,
+    "cooc_count": 3,
+    "unigram_w1": 4097,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "objectif",
+    "pmi": 0.8546532320255773,
+    "cooc_count": 24,
+    "unigram_w1": 4097,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "proportions",
+    "pmi": 2.9842972907632115,
+    "cooc_count": 8,
+    "unigram_w1": 4097,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 4097,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "chimique",
+    "pmi": 1.7770422077793568,
+    "cooc_count": 6,
+    "unigram_w1": 4097,
+    "unigram_w2": 5493,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "utilisés",
+    "pmi": 0.208289761774645,
+    "cooc_count": 4,
+    "unigram_w1": 4097,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 4097,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "d",
+    "pmi": 0.4491931314843887,
+    "cooc_count": 1402,
+    "unigram_w1": 4097,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "mélange",
+    "pmi": 0.22579128437794221,
+    "cooc_count": 4,
+    "unigram_w1": 4097,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 990,
+    "unigram_w1": 4097,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "ajuster",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 4097,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "vrac",
+    "pmi": 3.0784468565100056,
+    "cooc_count": 61,
+    "unigram_w1": 20680,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "vrac",
+    "pmi": 1.7239178324321656,
+    "cooc_count": 6,
+    "unigram_w1": 7882,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "vrac",
+    "pmi": 1.0276038875562423,
+    "cooc_count": 3,
+    "unigram_w1": 7907,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "vrac",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 60881,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "vrac",
+    "pmi": 0.6204644515521526,
+    "cooc_count": 8,
+    "unigram_w1": 31681,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "vrac",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 89542,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "vrac",
+    "pmi": 0.0,
+    "cooc_count": 342,
+    "unigram_w1": 4842659,
+    "unigram_w2": 3011,
+    "window_size": 10
+  },
+  {
+    "w1": "vrac",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 667,
+    "unigram_w1": 3011,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "vrac",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 3011,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "matériaux",
+    "pmi": 1.2295353800129907,
+    "cooc_count": 48,
+    "unigram_w1": 15052,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "objectif",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 15052,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "composition",
+    "pmi": 1.933837652616741,
+    "cooc_count": 37,
+    "unigram_w1": 7882,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "composition",
+    "pmi": 1.2101247335527032,
+    "cooc_count": 18,
+    "unigram_w1": 7907,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "proportions",
+    "pmi": 2.311650076019129,
+    "cooc_count": 15,
+    "unigram_w1": 15052,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 15052,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "composition",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 31681,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "composition",
+    "pmi": 4.5617626461644845,
+    "cooc_count": 357,
+    "unigram_w1": 5493,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "utilisés",
+    "pmi": 0.4651785056547381,
+    "cooc_count": 19,
+    "unigram_w1": 15052,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 15052,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "composition",
+    "pmi": 0.030060101878694817,
+    "cooc_count": 3,
+    "unigram_w1": 4289,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 2492,
+    "unigram_w1": 15052,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "mélange",
+    "pmi": 0.48268002825803535,
+    "cooc_count": 19,
+    "unigram_w1": 15052,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 2321,
+    "unigram_w1": 15052,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "spécifique",
+    "pmi": 1.0476140900689435,
+    "cooc_count": 29,
+    "unigram_w1": 15052,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 15052,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "analyseur",
+    "w2": "composition",
+    "pmi": 2.7455992216696328,
+    "cooc_count": 5,
+    "unigram_w1": 473,
+    "unigram_w2": 15052,
+    "window_size": 10
+  },
+  {
+    "w1": "composition",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 15052,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "objectif",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 20680,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "matériaux",
+    "pmi": 2.2247712682395857,
+    "cooc_count": 68,
+    "unigram_w1": 7882,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "matériaux",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7907,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "proportions",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 20680,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "production",
+    "pmi": 0.9913620240546125,
+    "cooc_count": 153,
+    "unigram_w1": 20680,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "matériaux",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 31681,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "matériaux",
+    "pmi": 2.600477192073067,
+    "cooc_count": 69,
+    "unigram_w1": 5493,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "utilisés",
+    "pmi": 4.1028064568641325,
+    "cooc_count": 992,
+    "unigram_w1": 20680,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "matériaux",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 89542,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "matériaux",
+    "pmi": 0.0,
+    "cooc_count": 3369,
+    "unigram_w1": 4842659,
+    "unigram_w2": 20680,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "mélange",
+    "pmi": 1.3149294344046578,
+    "cooc_count": 60,
+    "unigram_w1": 20680,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "surveiller",
+    "pmi": 0.43512856031162356,
+    "cooc_count": 8,
+    "unigram_w1": 20680,
+    "unigram_w2": 5552,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 3974,
+    "unigram_w1": 20680,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "spécifique",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 20680,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 20680,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "matériaux",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 20680,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "objectif",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 7907,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "objectif",
+    "w2": "production",
+    "pmi": 0.6019507672555905,
+    "cooc_count": 277,
+    "unigram_w1": 55266,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "objectif",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5493,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "objectif",
+    "w2": "utilisés",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 55266,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "objectif",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 89542,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "objectif",
+    "pmi": 0.5752397738740631,
+    "cooc_count": 19,
+    "unigram_w1": 4289,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "objectif",
+    "pmi": 0.055000150103975874,
+    "cooc_count": 12751,
+    "unigram_w1": 4842659,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "objectif",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 17275,
+    "unigram_w2": 55266,
+    "window_size": 10
+  },
+  {
+    "w1": "objectif",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 8924,
+    "unigram_w1": 55266,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "objectif",
+    "w2": "spécifique",
+    "pmi": 1.5670570474202619,
+    "cooc_count": 179,
+    "unigram_w1": 55266,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "objectif",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 55266,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "objectif",
+    "w2": "était",
+    "pmi": 0.8552677734857609,
+    "cooc_count": 1735,
+    "unigram_w1": 55266,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "ciment",
+    "pmi": 1.6057394992301761,
+    "cooc_count": 14,
+    "unigram_w1": 7907,
+    "unigram_w2": 7882,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "production",
+    "pmi": 2.5386375799176637,
+    "cooc_count": 274,
+    "unigram_w1": 7882,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "ciment",
+    "pmi": 4.609570956715222,
+    "cooc_count": 1131,
+    "unigram_w1": 31681,
+    "unigram_w2": 7882,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "ciment",
+    "pmi": 2.663160568518428,
+    "cooc_count": 28,
+    "unigram_w1": 5493,
+    "unigram_w2": 7882,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "utilisés",
+    "pmi": 1.6641762819131567,
+    "cooc_count": 33,
+    "unigram_w1": 7882,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 1003,
+    "unigram_w1": 7882,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "mélange",
+    "pmi": 2.1169958757742995,
+    "cooc_count": 51,
+    "unigram_w1": 7882,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1490,
+    "unigram_w1": 7882,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7882,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "ciment",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 7882,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "production",
+    "pmi": 0.8735864277950431,
+    "cooc_count": 52,
+    "unigram_w1": 7907,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "brut",
+    "pmi": 1.0720542777496036,
+    "cooc_count": 33,
+    "unigram_w1": 31681,
+    "unigram_w2": 7907,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 7907,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 1212,
+    "unigram_w1": 7907,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "mélange",
+    "pmi": 0.8900536798362058,
+    "cooc_count": 15,
+    "unigram_w1": 7907,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1431,
+    "unigram_w1": 7907,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 7907,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "brut",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 7907,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "proportions",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 60881,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "proportions",
+    "pmi": 3.250693522902885,
+    "cooc_count": 14,
+    "unigram_w1": 5493,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "proportions",
+    "pmi": 0.4594602883140297,
+    "cooc_count": 14,
+    "unigram_w1": 89542,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "proportions",
+    "pmi": 0.0,
+    "cooc_count": 394,
+    "unigram_w1": 4842659,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "proportions",
+    "pmi": 2.7239469160158585,
+    "cooc_count": 26,
+    "unigram_w1": 17275,
+    "unigram_w2": 2190,
+    "window_size": 10
+  },
+  {
+    "w1": "proportions",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 417,
+    "unigram_w1": 2190,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "proportions",
+    "w2": "spécifique",
+    "pmi": 0.3010747695451962,
+    "cooc_count": 2,
+    "unigram_w1": 2190,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "proportions",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 2190,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "production",
+    "pmi": 0.8175777489357882,
+    "cooc_count": 197,
+    "unigram_w1": 31681,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "production",
+    "pmi": 0.7523525007416486,
+    "cooc_count": 32,
+    "unigram_w1": 5493,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "utilisés",
+    "pmi": 0.29771652994101155,
+    "cooc_count": 65,
+    "unigram_w1": 60881,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 89542,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "production",
+    "pmi": 1.1449554594118865,
+    "cooc_count": 37,
+    "unigram_w1": 4289,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "production",
+    "pmi": 0.11773975937747781,
+    "cooc_count": 14956,
+    "unigram_w1": 4842659,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "production",
+    "pmi": 0.34552340203963794,
+    "cooc_count": 67,
+    "unigram_w1": 17275,
+    "unigram_w2": 60881,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "surveiller",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 60881,
+    "unigram_w2": 5552,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 11935,
+    "unigram_w1": 60881,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "spécifique",
+    "pmi": 0.11154939012864146,
+    "cooc_count": 46,
+    "unigram_w1": 60881,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 60881,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 322,
+    "unigram_w1": 60881,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "chimique",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 31681,
+    "unigram_w2": 5493,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "utilisés",
+    "pmi": 0.6477342780227732,
+    "cooc_count": 48,
+    "unigram_w1": 31681,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 31681,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "broyeur",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 4289,
+    "unigram_w2": 31681,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 3436,
+    "unigram_w1": 31681,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "mélange",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 31681,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "à",
+    "pmi": 0.23079387181534858,
+    "cooc_count": 11844,
+    "unigram_w1": 31681,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "broyeur",
+    "w2": "spécifique",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 31681,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "utilisés",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5493,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 5493,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 978,
+    "unigram_w1": 5493,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "mélange",
+    "pmi": 2.4174783783701934,
+    "cooc_count": 48,
+    "unigram_w1": 5493,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "surveiller",
+    "pmi": 0.374526694471478,
+    "cooc_count": 2,
+    "unigram_w1": 5493,
+    "unigram_w2": 5552,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 1007,
+    "unigram_w1": 5493,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 5493,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "chimique",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 5493,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "utilisés",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 89542,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "utilisés",
+    "pmi": 0.0,
+    "cooc_count": 2370,
+    "unigram_w1": 4842659,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "utilisés",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 17275,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "surveiller",
+    "w2": "utilisés",
+    "pmi": 1.6091346293733009,
+    "cooc_count": 22,
+    "unigram_w1": 5552,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "utilisés",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 2632,
+    "unigram_w1": 17580,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "spécifique",
+    "w2": "utilisés",
+    "pmi": 0.5695896782800521,
+    "cooc_count": 21,
+    "unigram_w1": 14987,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "situé",
+    "w2": "utilisés",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 58737,
+    "unigram_w2": 17580,
+    "window_size": 10
+  },
+  {
+    "w1": "utilisés",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 17580,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 4289,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "juste",
+    "pmi": 0.0,
+    "cooc_count": 10101,
+    "unigram_w1": 4842659,
+    "unigram_w2": 89542,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "mélange",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 89542,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "surveiller",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 89542,
+    "unigram_w2": 5552,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 17271,
+    "unigram_w1": 89542,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "spécifique",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 89542,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "situé",
+    "pmi": 0.9028464978157913,
+    "cooc_count": 585,
+    "unigram_w1": 89542,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "juste",
+    "w2": "était",
+    "pmi": 0.6101678227360233,
+    "cooc_count": 2200,
+    "unigram_w1": 89542,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 823,
+    "unigram_w1": 4289,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 637,
+    "unigram_w1": 4289,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "spécifique",
+    "pmi": 1.0152170689587527,
+    "cooc_count": 8,
+    "unigram_w1": 4289,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "situé",
+    "pmi": 0.5656211075525213,
+    "cooc_count": 20,
+    "unigram_w1": 4289,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "amont",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 4289,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "mélange",
+    "pmi": 0.21494485052674,
+    "cooc_count": 4677,
+    "unigram_w1": 4842659,
+    "unigram_w2": 17275,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "surveiller",
+    "pmi": 0.0,
+    "cooc_count": 580,
+    "unigram_w1": 4842659,
+    "unigram_w2": 5552,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 852169,
+    "unigram_w1": 4842659,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "spécifique",
+    "pmi": 0.0,
+    "cooc_count": 3120,
+    "unigram_w1": 4842659,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "situé",
+    "pmi": 0.0,
+    "cooc_count": 6820,
+    "unigram_w1": 4842659,
+    "unigram_w2": 58737,
+    "window_size": 10
+  },
+  {
+    "w1": "analyseur",
+    "w2": "d",
+    "pmi": 0.8347236266162662,
+    "cooc_count": 238,
+    "unigram_w1": 473,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 32281,
+    "unigram_w1": 4842659,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 3224,
+    "unigram_w1": 17275,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "spécifique",
+    "pmi": 0.25061896426213653,
+    "cooc_count": 15,
+    "unigram_w1": 17275,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "mélange",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 17275,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "surveiller",
+    "w2": "à",
+    "pmi": 0.16938585846700707,
+    "cooc_count": 1952,
+    "unigram_w1": 5552,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "situé",
+    "w2": "surveiller",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 58737,
+    "unigram_w2": 5552,
+    "window_size": 10
+  },
+  {
+    "w1": "surveiller",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 5552,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "spécifique",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 3715,
+    "unigram_w1": 14987,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "situé",
+    "w2": "à",
+    "pmi": 0.4533664100101715,
+    "cooc_count": 27433,
+    "unigram_w1": 58737,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "analyseur",
+    "w2": "à",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 473,
+    "unigram_w2": 6581895,
+    "window_size": 10
+  },
+  {
+    "w1": "à",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 50543,
+    "unigram_w1": 6581895,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "situé",
+    "w2": "spécifique",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 58737,
+    "unigram_w2": 14987,
+    "window_size": 10
+  },
+  {
+    "w1": "spécifique",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 14987,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "situé",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 439,
+    "unigram_w1": 58737,
+    "unigram_w2": 295997,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "w1": "1",
+    "w2": "bytes",
+    "pmi": 0.4585648650809878,
+    "cooc_count": 38,
+    "unigram_w1": 357098,
+    "unigram_w2": 128,
+    "window_size": 10
+  },
+  {
+    "w1": "bytes",
+    "w2": "data",
+    "pmi": 2.1248130200004876,
+    "cooc_count": 3,
+    "unigram_w1": 128,
+    "unigram_w2": 5327,
+    "window_size": 10
+  },
+  {
+    "w1": "이름은",
+    "w2": "지역에",
+    "pmi": 0.2172311420614597,
+    "cooc_count": 12,
+    "unigram_w1": 2854,
+    "unigram_w2": 6438,
+    "window_size": 10
+  },
+  {
+    "w1": "설립된",
+    "w2": "이름은",
+    "pmi": 0.26723359714263883,
+    "cooc_count": 6,
+    "unigram_w1": 3062,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "이름은",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 357098,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "군사",
+    "w2": "이름은",
+    "pmi": 0.7740549319058511,
+    "cooc_count": 7,
+    "unigram_w1": 2152,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "binary",
+    "pmi": 0.02966950516443736,
+    "cooc_count": 29,
+    "unigram_w1": 357098,
+    "unigram_w2": 150,
+    "window_size": 10
+  },
+  {
+    "w1": "binary",
+    "w2": "data",
+    "pmi": 1.9662079898238494,
+    "cooc_count": 3,
+    "unigram_w1": 150,
+    "unigram_w2": 5327,
+    "window_size": 10
+  },
+  {
+    "w1": "군사",
+    "w2": "기지의",
+    "pmi": 5.011554244671417,
+    "cooc_count": 9,
+    "unigram_w1": 2152,
+    "unigram_w2": 53,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "1941",
+    "pmi": 0.21275483903904024,
+    "cooc_count": 241,
+    "unigram_w1": 357098,
+    "unigram_w2": 1038,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "cfb",
+    "pmi": 0.28671460815432864,
+    "cooc_count": 13,
+    "unigram_w1": 357098,
+    "unigram_w2": 52,
+    "window_size": 10
+  },
+  {
+    "w1": "설립된",
+    "w2": "지역에",
+    "pmi": 1.0292735440790861,
+    "cooc_count": 29,
+    "unigram_w1": 3062,
+    "unigram_w2": 6438,
+    "window_size": 10
+  },
+  {
+    "w1": "무엇입니까?",
+    "w2": "지역에",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3117,
+    "unigram_w2": 6438,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "지역에",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 357098,
+    "unigram_w2": 6438,
+    "window_size": 10
+  },
+  {
+    "w1": "군사",
+    "w2": "지역에",
+    "pmi": 0.7226985701307761,
+    "cooc_count": 15,
+    "unigram_w1": 2152,
+    "unigram_w2": 6438,
+    "window_size": 10
+  },
+  {
+    "w1": "무엇입니까?",
+    "w2": "설립된",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3117,
+    "unigram_w2": 3062,
+    "window_size": 10
+  },
+  {
+    "w1": "1941년",
+    "w2": "설립된",
+    "pmi": 2.308856950443279,
+    "cooc_count": 4,
+    "unigram_w1": 247,
+    "unigram_w2": 3062,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "무엇입니까?",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 357098,
+    "unigram_w2": 3117,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "data",
+    "pmi": 0.20642157192325478,
+    "cooc_count": 1229,
+    "unigram_w1": 357098,
+    "unigram_w2": 5327,
+    "window_size": 10
+  },
+  {
+    "w1": "1",
+    "w2": "군사",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 357098,
+    "unigram_w2": 2152,
+    "window_size": 10
+  }
+]

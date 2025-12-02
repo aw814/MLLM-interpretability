@@ -1,0 +1,443 @@
+[
+  {
+    "w1": "15",
+    "w2": "2016",
+    "pmi": 1.0705330237969326,
+    "cooc_count": 5535,
+    "unigram_w1": 217772,
+    "unigram_w2": 182942,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "fighter",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 217772,
+    "unigram_w2": 3510,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "david",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 217772,
+    "unigram_w2": 37518,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 9501,
+    "unigram_w1": 217772,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "album",
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 217772,
+    "unigram_w2": 27443,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "nail",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 217772,
+    "unigram_w2": 10525,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "date",
+    "pmi": 0.47320811140842045,
+    "cooc_count": 1732,
+    "unigram_w1": 217772,
+    "unigram_w2": 104030,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 20663,
+    "unigram_w1": 217772,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "released",
+    "pmi": 0.0,
+    "cooc_count": 275,
+    "unigram_w1": 217772,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "july",
+    "pmi": 1.2972103867176588,
+    "cooc_count": 3765,
+    "unigram_w1": 217772,
+    "unigram_w2": 99201,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "fighter",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 182942,
+    "unigram_w2": 3510,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "david",
+    "pmi": 0.0,
+    "cooc_count": 248,
+    "unigram_w1": 182942,
+    "unigram_w2": 37518,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 7502,
+    "unigram_w1": 182942,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "album",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 182942,
+    "unigram_w2": 27443,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "date",
+    "pmi": 0.7289505029090125,
+    "cooc_count": 1879,
+    "unigram_w1": 182942,
+    "unigram_w2": 104030,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 20877,
+    "unigram_w1": 182942,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "released",
+    "pmi": 0.45679377820399275,
+    "cooc_count": 494,
+    "unigram_w1": 182942,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "july",
+    "pmi": 1.9515687331147997,
+    "cooc_count": 6085,
+    "unigram_w1": 182942,
+    "unigram_w2": 99201,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 385,
+    "unigram_w1": 3510,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "fighter",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 104030,
+    "unigram_w2": 3510,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 241,
+    "unigram_w1": 3510,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "released",
+    "pmi": 0.6927180360409445,
+    "cooc_count": 12,
+    "unigram_w1": 3510,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "s",
+    "pmi": 0.21456310603330253,
+    "cooc_count": 5450,
+    "unigram_w1": 37518,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "david",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 27443,
+    "unigram_w2": 37518,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "nail",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 37518,
+    "unigram_w2": 10525,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "david",
+    "pmi": 0.0,
+    "cooc_count": 133,
+    "unigram_w1": 104030,
+    "unigram_w2": 37518,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 2944,
+    "unigram_w1": 37518,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "released",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 37518,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "david",
+    "w2": "july",
+    "pmi": 0.0,
+    "cooc_count": 161,
+    "unigram_w1": 37518,
+    "unigram_w2": 99201,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "s",
+    "pmi": 0.1386377432438104,
+    "cooc_count": 3695,
+    "unigram_w1": 27443,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "nail",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 273,
+    "unigram_w1": 10525,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 5019,
+    "unigram_w1": 104030,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "on",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 181621,
+    "unigram_w1": 2525640,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "released",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 2606,
+    "unigram_w1": 35905,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "july",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 4712,
+    "unigram_w1": 99201,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "nail",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 27443,
+    "unigram_w2": 10525,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "date",
+    "pmi": 0.06424728230305002,
+    "cooc_count": 145,
+    "unigram_w1": 27443,
+    "unigram_w2": 104030,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 3249,
+    "unigram_w1": 27443,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "released",
+    "pmi": 3.2296578769606694,
+    "cooc_count": 1186,
+    "unigram_w1": 27443,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "july",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 27443,
+    "unigram_w2": 99201,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "nail",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 104030,
+    "unigram_w2": 10525,
+    "window_size": 10
+  },
+  {
+    "w1": "nail",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 813,
+    "unigram_w1": 10525,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "july",
+    "w2": "nail",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 99201,
+    "unigram_w2": 10525,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "on",
+    "pmi": 0.0,
+    "cooc_count": 9470,
+    "unigram_w1": 104030,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "released",
+    "pmi": 0.16585563536538386,
+    "cooc_count": 210,
+    "unigram_w1": 104030,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "date",
+    "w2": "july",
+    "pmi": 0.7142238715766912,
+    "cooc_count": 1004,
+    "unigram_w1": 104030,
+    "unigram_w2": 99201,
+    "window_size": 10
+  },
+  {
+    "w1": "on",
+    "w2": "released",
+    "pmi": 0.23822049383775445,
+    "cooc_count": 5481,
+    "unigram_w1": 2525640,
+    "unigram_w2": 35905,
+    "window_size": 10
+  },
+  {
+    "w1": "july",
+    "w2": "on",
+    "pmi": 0.6526712862974157,
+    "cooc_count": 22920,
+    "unigram_w1": 99201,
+    "unigram_w2": 2525640,
+    "window_size": 10
+  },
+  {
+    "w1": "july",
+    "w2": "released",
+    "pmi": 0.8750925142881348,
+    "cooc_count": 407,
+    "unigram_w1": 99201,
+    "unigram_w2": 35905,
+    "window_size": 10
+  }
+]

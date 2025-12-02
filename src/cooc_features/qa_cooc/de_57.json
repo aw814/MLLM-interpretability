@@ -1,0 +1,164 @@
+[
+  {
+    "w1": "espiritu",
+    "w2": "santo",
+    "pmi": 10.17395526864445,
+    "cooc_count": 9,
+    "unigram_w1": 9,
+    "unigram_w2": 711,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 2605519,
+    "unigram_w2": 711,
+    "window_size": 10
+  },
+  {
+    "w1": "santo",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 711,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "sandstein",
+    "pmi": 5.015197069673121,
+    "cooc_count": 8,
+    "unigram_w1": 1601,
+    "unigram_w2": 618,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "sandstein",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 2605519,
+    "unigram_w2": 618,
+    "window_size": 10
+  },
+  {
+    "w1": "sandstein",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 618,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "sandstein",
+    "w2": "schiefer",
+    "pmi": 6.746620643880331,
+    "cooc_count": 35,
+    "unigram_w1": 618,
+    "unigram_w2": 1240,
+    "window_size": 10
+  },
+  {
+    "w1": "espiritu",
+    "w2": "ist",
+    "pmi": 1.8497022172201296,
+    "cooc_count": 8,
+    "unigram_w1": 9,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "ist",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 1601,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 1601,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "teil",
+    "w2": "unterste",
+    "pmi": 2.2964636335818573,
+    "cooc_count": 22,
+    "unigram_w1": 119225,
+    "unigram_w2": 346,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "teil",
+    "pmi": 0.00439332093008966,
+    "cooc_count": 16742,
+    "unigram_w1": 2605519,
+    "unigram_w2": 119225,
+    "window_size": 10
+  },
+  {
+    "w1": "teil",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 1665,
+    "unigram_w1": 119225,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "unterste",
+    "pmi": 0.642835054867829,
+    "cooc_count": 92,
+    "unigram_w1": 2605519,
+    "unigram_w2": 346,
+    "window_size": 10
+  },
+  {
+    "w1": "unterste",
+    "w2": "was",
+    "pmi": 0.008628005707020414,
+    "cooc_count": 11,
+    "unigram_w1": 346,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "was",
+    "pmi": 0.44110782025738393,
+    "cooc_count": 127654,
+    "unigram_w1": 2605519,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "schiefer",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 2605519,
+    "unigram_w2": 1240,
+    "window_size": 10
+  },
+  {
+    "w1": "schiefer",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 1240,
+    "unigram_w2": 587397,
+    "window_size": 10
+  }
+]

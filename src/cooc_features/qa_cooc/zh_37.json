@@ -1,0 +1,110 @@
+[
+  {
+    "w1": "市长",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 637,
+    "unigram_w1": 13730,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "女",
+    "w2": "市长",
+    "pmi": 0.3981074497879457,
+    "cooc_count": 68,
+    "unigram_w1": 48410,
+    "unigram_w2": 13730,
+    "window_size": 10
+  },
+  {
+    "w1": "市长",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 13730,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "第一位",
+    "pmi": 0.6414765947825333,
+    "cooc_count": 932,
+    "unigram_w1": 2216630,
+    "unigram_w2": 3222,
+    "window_size": 10
+  },
+  {
+    "w1": "土耳其",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 892,
+    "unigram_w1": 9378,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "女",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 3342,
+    "unigram_w1": 48410,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "谁",
+    "pmi": 0.5951574134043929,
+    "cooc_count": 21347,
+    "unigram_w1": 2216630,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "女",
+    "w2": "第一位",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 48410,
+    "unigram_w2": 3222,
+    "window_size": 10
+  },
+  {
+    "w1": "第一位",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 3222,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "土耳其",
+    "w2": "女",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 9378,
+    "unigram_w2": 48410,
+    "window_size": 10
+  },
+  {
+    "w1": "土耳其",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 9378,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "女",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 48410,
+    "unigram_w2": 77297,
+    "window_size": 10
+  }
+]

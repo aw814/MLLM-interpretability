@@ -1,0 +1,614 @@
+[
+  {
+    "w1": "masculina",
+    "w2": "verão",
+    "pmi": 1.304841928786887,
+    "cooc_count": 53,
+    "unigram_w1": 7284,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "masculina",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 127402,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "masculina",
+    "pmi": 0.07644496926418937,
+    "cooc_count": 45,
+    "unigram_w1": 80990,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "masculina",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 76765,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "masculina",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 174160,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "masculina",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 7284,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "masculina",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 7284,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "masculina",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 7284,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "decorreu",
+    "w2": "final",
+    "pmi": 0.517947391796826,
+    "cooc_count": 35,
+    "unigram_w1": 2316,
+    "unigram_w2": 127402,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "decorreu",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 80990,
+    "unigram_w2": 2316,
+    "window_size": 10
+  },
+  {
+    "w1": "decorreu",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2316,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "decorreu",
+    "pmi": 0.7608462191564,
+    "cooc_count": 61,
+    "unigram_w1": 174160,
+    "unigram_w2": 2316,
+    "window_size": 10
+  },
+  {
+    "w1": "decorreu",
+    "w2": "nos",
+    "pmi": 0.4232633560463198,
+    "cooc_count": 115,
+    "unigram_w1": 2316,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "verão",
+    "pmi": 0.09560021791790475,
+    "cooc_count": 15,
+    "unigram_w1": 6908,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 6908,
+    "unigram_w2": 127402,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 80990,
+    "unigram_w2": 6908,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 6908,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "angeles",
+    "pmi": 2.744336841568599,
+    "cooc_count": 30,
+    "unigram_w1": 3951,
+    "unigram_w2": 6908,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "cidade",
+    "pmi": 0.7500906052996158,
+    "cooc_count": 180,
+    "unigram_w1": 6908,
+    "unigram_w2": 174160,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "los",
+    "pmi": 5.532204778969882,
+    "cooc_count": 6088,
+    "unigram_w1": 6908,
+    "unigram_w2": 49352,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 194,
+    "unigram_w1": 6908,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "verão",
+    "pmi": 0.0,
+    "cooc_count": 216,
+    "unigram_w1": 127402,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "verão",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 80990,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "verão",
+    "pmi": 0.12697584680271742,
+    "cooc_count": 172,
+    "unigram_w1": 76765,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "verão",
+    "pmi": 0.02570300735070902,
+    "cooc_count": 8,
+    "unigram_w1": 3951,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "verão",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 174160,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "olímpicos",
+    "w2": "verão",
+    "pmi": 1.5062933942080143,
+    "cooc_count": 67,
+    "unigram_w1": 7528,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "verão",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 49352,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "verão",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 29050,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "nos",
+    "w2": "verão",
+    "pmi": 0.0,
+    "cooc_count": 635,
+    "unigram_w1": 460179,
+    "unigram_w2": 27926,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 80990,
+    "unigram_w2": 127402,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "jogos",
+    "pmi": 0.061562582120135316,
+    "cooc_count": 735,
+    "unigram_w1": 127402,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 3951,
+    "unigram_w2": 127402,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 466,
+    "unigram_w1": 174160,
+    "unigram_w2": 127402,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 127402,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 127402,
+    "unigram_w2": 49352,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 127402,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 1795,
+    "unigram_w1": 127402,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 274,
+    "unigram_w1": 80990,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 80990,
+    "unigram_w2": 3951,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "mariposa",
+    "pmi": 0.44471904904627363,
+    "cooc_count": 2,
+    "unigram_w1": 80990,
+    "unigram_w2": 224,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "cidade",
+    "pmi": 0.0,
+    "cooc_count": 344,
+    "unigram_w1": 80990,
+    "unigram_w2": 174160,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 80990,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 80990,
+    "unigram_w2": 49352,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "metros",
+    "pmi": 2.488346117936477,
+    "cooc_count": 2002,
+    "unigram_w1": 80990,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 1096,
+    "unigram_w1": 80990,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "jogos",
+    "pmi": 0.026113266438329456,
+    "cooc_count": 22,
+    "unigram_w1": 3951,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 174160,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "olímpicos",
+    "pmi": 4.385398881529964,
+    "cooc_count": 3278,
+    "unigram_w1": 76765,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 159,
+    "unigram_w1": 76765,
+    "unigram_w2": 49352,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 76765,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "nos",
+    "pmi": 0.9475525078211395,
+    "cooc_count": 6439,
+    "unigram_w1": 76765,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "cidade",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 3951,
+    "unigram_w2": 174160,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "olímpicos",
+    "pmi": 1.0489496871358526,
+    "cooc_count": 6,
+    "unigram_w1": 3951,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "los",
+    "pmi": 0.7780387099456938,
+    "cooc_count": 30,
+    "unigram_w1": 3951,
+    "unigram_w2": 49352,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 3951,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "mariposa",
+    "w2": "metros",
+    "pmi": 3.6672508333454714,
+    "cooc_count": 18,
+    "unigram_w1": 224,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "mariposa",
+    "w2": "nos",
+    "pmi": 0.786870736760697,
+    "cooc_count": 16,
+    "unigram_w1": 224,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 174160,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 344,
+    "unigram_w1": 174160,
+    "unigram_w2": 49352,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 325,
+    "unigram_w1": 174160,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "cidade",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 2546,
+    "unigram_w1": 174160,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 49352,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 29050,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "nos",
+    "w2": "olímpicos",
+    "pmi": 0.9356937534801678,
+    "cooc_count": 624,
+    "unigram_w1": 460179,
+    "unigram_w2": 7528,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 49352,
+    "unigram_w2": 29050,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 1267,
+    "unigram_w1": 49352,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 527,
+    "unigram_w1": 29050,
+    "unigram_w2": 460179,
+    "window_size": 10
+  }
+]

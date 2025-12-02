@@ -1,0 +1,200 @@
+[
+  {
+    "w1": "מה",
+    "w2": "רכשה",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 904899,
+    "unigram_w2": 5012,
+    "window_size": 10
+  },
+  {
+    "w1": "מה",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 67623,
+    "unigram_w1": 904899,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 12268,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "הנהלת",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 167,
+    "unigram_w1": 13453,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "מה",
+    "w2": "קפיטל",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 904899,
+    "unigram_w2": 1324,
+    "window_size": 10
+  },
+  {
+    "w1": "בשותפות",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 2096,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "ארצ",
+    "w2": "מה",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 863,
+    "unigram_w2": 904899,
+    "window_size": 10
+  },
+  {
+    "w1": "עם",
+    "w2": "רכשה",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 1747859,
+    "unigram_w2": 5012,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "רכשה",
+    "pmi": 1.1369651951255173,
+    "cooc_count": 14,
+    "unigram_w1": 12268,
+    "unigram_w2": 5012,
+    "window_size": 10
+  },
+  {
+    "w1": "הנהלת",
+    "w2": "רכשה",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 13453,
+    "unigram_w2": 5012,
+    "window_size": 10
+  },
+  {
+    "w1": "קפיטל",
+    "w2": "רכשה",
+    "pmi": 2.9214692315836666,
+    "cooc_count": 9,
+    "unigram_w1": 1324,
+    "unigram_w2": 5012,
+    "window_size": 10
+  },
+  {
+    "w1": "בשותפות",
+    "w2": "רכשה",
+    "pmi": 0.9580185258634134,
+    "cooc_count": 2,
+    "unigram_w1": 2096,
+    "unigram_w2": 5012,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגרפיק",
+    "w2": "עם",
+    "pmi": 0.4063480115788909,
+    "cooc_count": 23,
+    "unigram_w1": 120,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 456,
+    "unigram_w1": 12268,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "הנהלת",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 1389,
+    "unigram_w1": 13453,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 313,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "עם",
+    "w2": "קפיטל",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 1747859,
+    "unigram_w2": 1324,
+    "window_size": 10
+  },
+  {
+    "w1": "בשותפות",
+    "w2": "עם",
+    "pmi": 1.260685659136355,
+    "cooc_count": 944,
+    "unigram_w1": 2096,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "ארצ",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 863,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "עם",
+    "pmi": 0.45847707701383733,
+    "cooc_count": 21,
+    "unigram_w1": 104,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "הנהלת",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 12268,
+    "unigram_w2": 13453,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "ארצ",
+    "pmi": 2.048842959670845,
+    "cooc_count": 6,
+    "unigram_w1": 12268,
+    "unigram_w2": 863,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "dekade",
+    "w2": "membeli",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 20807,
+    "unigram_w2": 132356,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 20807,
+    "unigram_w2": 34290,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 257,
+    "unigram_w1": 20807,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 20807,
+    "unigram_w2": 6145,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 678,
+    "unigram_w1": 20807,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "dekade",
+    "pmi": 1.3256123539497826,
+    "cooc_count": 370,
+    "unigram_w1": 72784,
+    "unigram_w2": 20807,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "dekade",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 50984,
+    "unigram_w2": 20807,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "membeli",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 34290,
+    "unigram_w2": 132356,
+    "window_size": 10
+  },
+  {
+    "w1": "membeli",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 1027,
+    "unigram_w1": 132356,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "membeli",
+    "w2": "stable",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 132356,
+    "unigram_w2": 803,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "membeli",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 6145,
+    "unigram_w2": 132356,
+    "window_size": 10
+  },
+  {
+    "w1": "membeli",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 3956,
+    "unigram_w1": 132356,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "membeli",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 72784,
+    "unigram_w2": 132356,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "membeli",
+    "pmi": 0.0,
+    "cooc_count": 321,
+    "unigram_w1": 50984,
+    "unigram_w2": 132356,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 431,
+    "unigram_w1": 34290,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 34290,
+    "unigram_w2": 6145,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 1413,
+    "unigram_w1": 34290,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 72784,
+    "unigram_w2": 34290,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 50984,
+    "unigram_w2": 34290,
+    "window_size": 10
+  },
+  {
+    "w1": "stable",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 803,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 6145,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "sinclair",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 376,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "tahun",
+    "pmi": 0.7563767985011917,
+    "cooc_count": 137813,
+    "unigram_w1": 1581711,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "tahun",
+    "pmi": 0.8794299611517737,
+    "cooc_count": 7172,
+    "unigram_w1": 72784,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "tahun",
+    "pmi": 2.6308561552875176,
+    "cooc_count": 318,
+    "unigram_w1": 560,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 1291,
+    "unigram_w1": 50984,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "stable",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 1581711,
+    "unigram_w2": 803,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "stable",
+    "pmi": 1.151706031687333,
+    "cooc_count": 12,
+    "unigram_w1": 72784,
+    "unigram_w2": 803,
+    "window_size": 10
+  },
+  {
+    "w1": "harry",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 303,
+    "unigram_w1": 6145,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 72784,
+    "unigram_w2": 6145,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "sinclair",
+    "pmi": 0.010360297925653452,
+    "cooc_count": 39,
+    "unigram_w1": 1581711,
+    "unigram_w2": 376,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 5259,
+    "unigram_w1": 72784,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "pada",
+    "pmi": 1.2955585421741755,
+    "cooc_count": 210,
+    "unigram_w1": 560,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 2408,
+    "unigram_w1": 50984,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "an",
+    "pmi": 2.428414693779055,
+    "cooc_count": 30,
+    "unigram_w1": 560,
+    "unigram_w2": 72784,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "berapa",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 72784,
+    "unigram_w2": 50984,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "w1": "d",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 17582,
+    "unigram_w1": 4842659,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "origine",
+    "pmi": 0.4216053173178395,
+    "cooc_count": 473,
+    "unigram_w1": 108533,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "hôpital",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 17832,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "général",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 280,
+    "unigram_w1": 65082,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "catégorie",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 165,
+    "unigram_w1": 37727,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 14857,
+    "unigram_w1": 3640850,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 366,
+    "unigram_w1": 127373,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "entebbe",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 4842659,
+    "unigram_w2": 215,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "origine",
+    "pmi": 0.9691110982930088,
+    "cooc_count": 36489,
+    "unigram_w1": 4842659,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "hôpital",
+    "pmi": 0.0,
+    "cooc_count": 3143,
+    "unigram_w1": 4842659,
+    "unigram_w2": 17832,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "général",
+    "pmi": 0.0,
+    "cooc_count": 11554,
+    "unigram_w1": 4842659,
+    "unigram_w2": 65082,
+    "window_size": 10
+  },
+  {
+    "w1": "catégorie",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 6610,
+    "unigram_w1": 37727,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 456877,
+    "unigram_w1": 4842659,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 16087,
+    "unigram_w1": 127373,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "hôpital",
+    "w2": "origine",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 17832,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "général",
+    "w2": "origine",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 65082,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "catégorie",
+    "w2": "origine",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 37727,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "origine",
+    "pmi": 0.0,
+    "cooc_count": 7610,
+    "unigram_w1": 3640850,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "origine",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 127373,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "général",
+    "w2": "hôpital",
+    "pmi": 2.272851129685298,
+    "cooc_count": 508,
+    "unigram_w1": 65082,
+    "unigram_w2": 17832,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "hôpital",
+    "pmi": 0.0,
+    "cooc_count": 1485,
+    "unigram_w1": 3640850,
+    "unigram_w2": 17832,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "hôpital",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 127373,
+    "unigram_w2": 17832,
+    "window_size": 10
+  },
+  {
+    "w1": "catégorie",
+    "w2": "général",
+    "pmi": 0.2902005334639623,
+    "cooc_count": 148,
+    "unigram_w1": 37727,
+    "unigram_w2": 65082,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "général",
+    "pmi": 0.0,
+    "cooc_count": 7607,
+    "unigram_w1": 3640850,
+    "unigram_w2": 65082,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "général",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 127373,
+    "unigram_w2": 65082,
+    "window_size": 10
+  },
+  {
+    "w1": "catégorie",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 3624,
+    "unigram_w1": 37727,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "catégorie",
+    "pmi": 1.481131386888871,
+    "cooc_count": 953,
+    "unigram_w1": 127373,
+    "unigram_w2": 37727,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 6127,
+    "unigram_w1": 127373,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  }
+]

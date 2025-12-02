@@ -1,0 +1,263 @@
+[
+  {
+    "w1": "massa",
+    "w2": "raio",
+    "pmi": 0.9115043430346339,
+    "cooc_count": 20,
+    "unigram_w1": 25357,
+    "unigram_w2": 4486,
+    "window_size": 10
+  },
+  {
+    "w1": "raio",
+    "w2": "é",
+    "pmi": 0.11656495354183742,
+    "cooc_count": 768,
+    "unigram_w1": 4486,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "raio",
+    "pmi": 0.0,
+    "cooc_count": 261,
+    "unigram_w1": 1754718,
+    "unigram_w2": 4486,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "raio",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 135731,
+    "unigram_w2": 4486,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "raio",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 1107803,
+    "unigram_w2": 4486,
+    "window_size": 10
+  },
+  {
+    "w1": "m_",
+    "w2": "massa",
+    "pmi": 2.9159112956010182,
+    "cooc_count": 9,
+    "unigram_w1": 272,
+    "unigram_w2": 25357,
+    "window_size": 10
+  },
+  {
+    "w1": "m_",
+    "w2": "p",
+    "pmi": 2.678652718181956,
+    "cooc_count": 38,
+    "unigram_w1": 272,
+    "unigram_w2": 135731,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "m_",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 1107803,
+    "unigram_w2": 272,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 2707,
+    "unigram_w1": 25357,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "na",
+    "pmi": 0.0015102874514202043,
+    "cooc_count": 3149,
+    "unigram_w1": 25357,
+    "unigram_w2": 1754718,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 25357,
+    "unigram_w2": 135731,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "massa",
+    "pmi": 0.0,
+    "cooc_count": 1203,
+    "unigram_w1": 1107803,
+    "unigram_w2": 25357,
+    "window_size": 10
+  },
+  {
+    "w1": "equação",
+    "w2": "massa",
+    "pmi": 0.3931281615225199,
+    "cooc_count": 6,
+    "unigram_w1": 2260,
+    "unigram_w2": 25357,
+    "window_size": 10
+  },
+  {
+    "w1": "planck",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 144,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "planck",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 1754718,
+    "unigram_w2": 144,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "planck",
+    "pmi": 0.5733285309148716,
+    "cooc_count": 20,
+    "unigram_w1": 1107803,
+    "unigram_w2": 144,
+    "window_size": 10
+  },
+  {
+    "w1": "equação",
+    "w2": "planck",
+    "pmi": 5.8518070394219075,
+    "cooc_count": 8,
+    "unigram_w1": 2260,
+    "unigram_w2": 144,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 149156,
+    "unigram_w1": 1754718,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 4499,
+    "unigram_w1": 135731,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "denotada",
+    "w2": "é",
+    "pmi": 0.9370303266334674,
+    "cooc_count": 14,
+    "unigram_w1": 36,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 150080,
+    "unigram_w1": 1107803,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "equação",
+    "w2": "é",
+    "pmi": 0.16225891031452624,
+    "cooc_count": 405,
+    "unigram_w1": 2260,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 4193,
+    "unigram_w1": 1754718,
+    "unigram_w2": 135731,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "na",
+    "pmi": 0.0,
+    "cooc_count": 83501,
+    "unigram_w1": 1107803,
+    "unigram_w2": 1754718,
+    "window_size": 10
+  },
+  {
+    "w1": "equação",
+    "w2": "na",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 2260,
+    "unigram_w2": 1754718,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 3140,
+    "unigram_w1": 1107803,
+    "unigram_w2": 135731,
+    "window_size": 10
+  },
+  {
+    "w1": "equação",
+    "w2": "p",
+    "pmi": 0.32494591414739127,
+    "cooc_count": 30,
+    "unigram_w1": 2260,
+    "unigram_w2": 135731,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "denotada",
+    "pmi": 1.1611151958169905,
+    "cooc_count": 9,
+    "unigram_w1": 1107803,
+    "unigram_w2": 36,
+    "window_size": 10
+  },
+  {
+    "w1": "como",
+    "w2": "equação",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 1107803,
+    "unigram_w2": 2260,
+    "window_size": 10
+  }
+]

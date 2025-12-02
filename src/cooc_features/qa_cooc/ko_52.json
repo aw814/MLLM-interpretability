@@ -1,0 +1,38 @@
+[
+  {
+    "w1": "m",
+    "w2": "p",
+    "pmi": 1.5356693867631297,
+    "cooc_count": 1740,
+    "unigram_w1": 34144,
+    "unigram_w2": 20877,
+    "window_size": 10
+  },
+  {
+    "w1": "나타내는",
+    "w2": "무엇입니까?",
+    "pmi": 2.210773415632768,
+    "cooc_count": 34,
+    "unigram_w1": 2275,
+    "unigram_w2": 3117,
+    "window_size": 10
+  },
+  {
+    "w1": "기호는",
+    "w2": "나타내는",
+    "pmi": 4.121072428238716,
+    "cooc_count": 14,
+    "unigram_w1": 190,
+    "unigram_w2": 2275,
+    "window_size": 10
+  },
+  {
+    "w1": "나타내는",
+    "w2": "질량을",
+    "pmi": 2.749357516881983,
+    "cooc_count": 2,
+    "unigram_w1": 2275,
+    "unigram_w2": 107,
+    "window_size": 10
+  }
+]

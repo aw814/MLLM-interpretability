@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "방영한",
+    "w2": "텔레비전",
+    "pmi": 4.856206248866668,
+    "cooc_count": 8,
+    "unigram_w1": 129,
+    "unigram_w2": 918,
+    "window_size": 10
+  },
+  {
+    "w1": "캐나다",
+    "w2": "텔레비전",
+    "pmi": 0.0017564338029612122,
+    "cooc_count": 3,
+    "unigram_w1": 6207,
+    "unigram_w2": 918,
+    "window_size": 10
+  },
+  {
+    "w1": "위대한",
+    "w2": "캐나다",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5182,
+    "unigram_w2": 6207,
+    "window_size": 10
+  }
+]

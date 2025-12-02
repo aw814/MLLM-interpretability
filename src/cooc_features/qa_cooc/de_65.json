@@ -1,0 +1,335 @@
+[
+  {
+    "w1": "browns",
+    "w2": "wurde",
+    "pmi": 0.17112784517577104,
+    "cooc_count": 5,
+    "unigram_w1": 199,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "browns",
+    "w2": "gute",
+    "pmi": 1.6247110145857948,
+    "cooc_count": 6,
+    "unigram_w1": 199,
+    "unigram_w2": 110677,
+    "window_size": 10
+  },
+  {
+    "w1": "letzter",
+    "w2": "veröffentlicht",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 15873,
+    "unigram_w2": 59469,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "veröffentlicht",
+    "pmi": 1.38984124700767,
+    "cooc_count": 266,
+    "unigram_w1": 20766,
+    "unigram_w2": 59469,
+    "window_size": 10
+  },
+  {
+    "w1": "veröffentlicht",
+    "w2": "wurde",
+    "pmi": 1.2346451306341597,
+    "cooc_count": 4328,
+    "unigram_w1": 59469,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "nacht",
+    "w2": "veröffentlicht",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 47325,
+    "unigram_w2": 59469,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "veröffentlicht",
+    "pmi": 0.0,
+    "cooc_count": 496,
+    "unigram_w1": 207532,
+    "unigram_w2": 59469,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "veröffentlicht",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 6793,
+    "unigram_w2": 59469,
+    "window_size": 10
+  },
+  {
+    "w1": "gute",
+    "w2": "veröffentlicht",
+    "pmi": 0.0,
+    "cooc_count": 141,
+    "unigram_w1": 110677,
+    "unigram_w2": 59469,
+    "window_size": 10
+  },
+  {
+    "w1": "kuss",
+    "w2": "letzter",
+    "pmi": 1.7517681963719638,
+    "cooc_count": 9,
+    "unigram_w1": 1833,
+    "unigram_w2": 15873,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "letzter",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 20766,
+    "unigram_w2": 15873,
+    "window_size": 10
+  },
+  {
+    "w1": "letzter",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 244,
+    "unigram_w1": 15873,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "letzter",
+    "w2": "nacht",
+    "pmi": 0.4623419741575974,
+    "cooc_count": 64,
+    "unigram_w1": 15873,
+    "unigram_w2": 47325,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "letzter",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 207532,
+    "unigram_w2": 15873,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "letzter",
+    "pmi": 0.1905150667394607,
+    "cooc_count": 7,
+    "unigram_w1": 6793,
+    "unigram_w2": 15873,
+    "window_size": 10
+  },
+  {
+    "w1": "gute",
+    "w2": "letzter",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 110677,
+    "unigram_w2": 15873,
+    "window_size": 10
+  },
+  {
+    "w1": "kuss",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 1833,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "kuss",
+    "w2": "nacht",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1833,
+    "unigram_w2": 47325,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "kuss",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 207532,
+    "unigram_w2": 1833,
+    "window_size": 10
+  },
+  {
+    "w1": "gute",
+    "w2": "kuss",
+    "pmi": 0.09745377203052744,
+    "cooc_count": 12,
+    "unigram_w1": 110677,
+    "unigram_w2": 1833,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 377,
+    "unigram_w1": 20766,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "greg",
+    "pmi": 2.2997457152540264,
+    "cooc_count": 9,
+    "unigram_w1": 20766,
+    "unigram_w2": 810,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "nacht",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 20766,
+    "unigram_w2": 47325,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "jahr",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 20766,
+    "unigram_w2": 207532,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "album",
+    "pmi": 0.2784925293870354,
+    "cooc_count": 10,
+    "unigram_w1": 6793,
+    "unigram_w2": 20766,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "gute",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 20766,
+    "unigram_w2": 110677,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 810,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "nacht",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 749,
+    "unigram_w1": 47325,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "wurde",
+    "pmi": 0.6300436179403448,
+    "cooc_count": 8251,
+    "unigram_w1": 207532,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "wurde",
+    "pmi": 1.0572127821001753,
+    "cooc_count": 414,
+    "unigram_w1": 6793,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "gute",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 715,
+    "unigram_w1": 110677,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "nacht",
+    "pmi": 1.0705589439317376,
+    "cooc_count": 6,
+    "unigram_w1": 810,
+    "unigram_w2": 47325,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "jahr",
+    "pmi": 0.19844789994941542,
+    "cooc_count": 11,
+    "unigram_w1": 810,
+    "unigram_w2": 207532,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "nacht",
+    "pmi": 0.0,
+    "cooc_count": 136,
+    "unigram_w1": 207532,
+    "unigram_w2": 47325,
+    "window_size": 10
+  },
+  {
+    "w1": "gute",
+    "w2": "nacht",
+    "pmi": 1.5789058257012412,
+    "cooc_count": 1363,
+    "unigram_w1": 110677,
+    "unigram_w2": 47325,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "jahr",
+    "pmi": 1.2112731926447642,
+    "cooc_count": 254,
+    "unigram_w1": 6793,
+    "unigram_w2": 207532,
+    "window_size": 10
+  },
+  {
+    "w1": "gute",
+    "w2": "jahr",
+    "pmi": 0.0,
+    "cooc_count": 672,
+    "unigram_w1": 110677,
+    "unigram_w2": 207532,
+    "window_size": 10
+  }
+]

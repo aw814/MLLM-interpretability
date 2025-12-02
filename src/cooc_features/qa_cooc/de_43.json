@@ -1,0 +1,389 @@
+[
+  {
+    "w1": "begriff",
+    "w2": "um",
+    "pmi": 0.0,
+    "cooc_count": 445,
+    "unigram_w1": 19710,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "dienstleistungen",
+    "pmi": 0.45654035003662646,
+    "cooc_count": 30,
+    "unigram_w1": 19710,
+    "unigram_w2": 17969,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "erhält",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 19710,
+    "unigram_w2": 20063,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "ermöglichen",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 19710,
+    "unigram_w2": 18535,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "bezeichnen",
+    "pmi": 0.7749235256197271,
+    "cooc_count": 14,
+    "unigram_w1": 19710,
+    "unigram_w2": 6099,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "wird",
+    "pmi": 0.3366378432705627,
+    "cooc_count": 1265,
+    "unigram_w1": 19710,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "welcher",
+    "pmi": 0.7501128145428118,
+    "cooc_count": 75,
+    "unigram_w1": 19710,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "verwendet",
+    "pmi": 1.6466172766506506,
+    "cooc_count": 274,
+    "unigram_w1": 19710,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "begriff",
+    "w2": "jemanden",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 19710,
+    "unigram_w2": 8693,
+    "window_size": 10
+  },
+  {
+    "w1": "dienstleistungen",
+    "w2": "um",
+    "pmi": 0.0,
+    "cooc_count": 839,
+    "unigram_w1": 17969,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "südafrika",
+    "w2": "um",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 4645,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "erhält",
+    "w2": "um",
+    "pmi": 0.0,
+    "cooc_count": 370,
+    "unigram_w1": 20063,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "ermöglichen",
+    "w2": "um",
+    "pmi": 0.6106112178895398,
+    "cooc_count": 1673,
+    "unigram_w1": 18535,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "um",
+    "pmi": 0.0,
+    "cooc_count": 161,
+    "unigram_w1": 6099,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "um",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 25022,
+    "unigram_w1": 913441,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "um",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 752,
+    "unigram_w1": 913441,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "um",
+    "w2": "verwendet",
+    "pmi": 0.6739760129801443,
+    "cooc_count": 4801,
+    "unigram_w1": 913441,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "jemanden",
+    "w2": "um",
+    "pmi": 0.1619863504933486,
+    "cooc_count": 501,
+    "unigram_w1": 8693,
+    "unigram_w2": 913441,
+    "window_size": 10
+  },
+  {
+    "w1": "dienstleistungen",
+    "w2": "erhält",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 17969,
+    "unigram_w2": 20063,
+    "window_size": 10
+  },
+  {
+    "w1": "dienstleistungen",
+    "w2": "ermöglichen",
+    "pmi": 0.4126451189407336,
+    "cooc_count": 27,
+    "unigram_w1": 17969,
+    "unigram_w2": 18535,
+    "window_size": 10
+  },
+  {
+    "w1": "dienstleistungen",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 408,
+    "unigram_w1": 17969,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "dienstleistungen",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 17969,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "dienstleistungen",
+    "w2": "verwendet",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 17969,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "südafrika",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 4645,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "südafrika",
+    "w2": "verwendet",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4645,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "erhält",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 6099,
+    "unigram_w2": 20063,
+    "window_size": 10
+  },
+  {
+    "w1": "erhält",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 912,
+    "unigram_w1": 20063,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "erhält",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 20063,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "erhält",
+    "w2": "verwendet",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 20063,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "ermöglichen",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 6099,
+    "unigram_w2": 18535,
+    "window_size": 10
+  },
+  {
+    "w1": "ermöglichen",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 550,
+    "unigram_w1": 18535,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "ermöglichen",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 18535,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "ermöglichen",
+    "w2": "verwendet",
+    "pmi": 0.3576343318658292,
+    "cooc_count": 71,
+    "unigram_w1": 18535,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 133,
+    "unigram_w1": 6099,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 6099,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "verwendet",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 6099,
+    "unigram_w2": 49924,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnen",
+    "w2": "jemanden",
+    "pmi": 1.4393808628601703,
+    "cooc_count": 12,
+    "unigram_w1": 6099,
+    "unigram_w2": 8693,
+    "window_size": 10
+  },
+  {
+    "w1": "welcher",
+    "w2": "wird",
+    "pmi": 0.15074393917502393,
+    "cooc_count": 1785,
+    "unigram_w1": 33494,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "verwendet",
+    "w2": "wird",
+    "pmi": 1.245110317889071,
+    "cooc_count": 7948,
+    "unigram_w1": 49924,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "jemanden",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 212,
+    "unigram_w1": 8693,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "verwendet",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 49924,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "jemanden",
+    "w2": "welcher",
+    "pmi": 0.8621506307184271,
+    "cooc_count": 37,
+    "unigram_w1": 8693,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "jemanden",
+    "w2": "verwendet",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 8693,
+    "unigram_w2": 49924,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "w1": "new",
+    "w2": "zealand",
+    "pmi": 3.2774485114255696,
+    "cooc_count": 15426,
+    "unigram_w1": 712378,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "labour",
+    "w2": "zealand",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 8454,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "zealand",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 179517,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "lead",
+    "w2": "zealand",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 53115,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "zealand",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 17830,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "victory",
+    "w2": "zealand",
+    "pmi": 0.6922026950520366,
+    "cooc_count": 26,
+    "unigram_w1": 15929,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "party",
+    "w2": "zealand",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 83752,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "zealand",
+    "pmi": 0.09794176163015272,
+    "cooc_count": 83,
+    "unigram_w1": 92125,
+    "unigram_w2": 17151,
+    "window_size": 10
+  },
+  {
+    "w1": "labour",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 267,
+    "unigram_w1": 8454,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "election",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 349,
+    "unigram_w1": 21140,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 1656,
+    "unigram_w1": 179517,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "lead",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 1039,
+    "unigram_w1": 53115,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 335,
+    "unigram_w1": 17830,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "helen",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 3951,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "new",
+    "w2": "victory",
+    "pmi": 0.0,
+    "cooc_count": 391,
+    "unigram_w1": 712378,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "new",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 1534,
+    "unigram_w1": 712378,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 7039,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "new",
+    "pmi": 0.0,
+    "cooc_count": 1765,
+    "unigram_w1": 92125,
+    "unigram_w2": 712378,
+    "window_size": 10
+  },
+  {
+    "w1": "election",
+    "w2": "labour",
+    "pmi": 2.2023027245599938,
+    "cooc_count": 77,
+    "unigram_w1": 21140,
+    "unigram_w2": 8454,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "labour",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 179517,
+    "unigram_w2": 8454,
+    "window_size": 10
+  },
+  {
+    "w1": "labour",
+    "w2": "lead",
+    "pmi": 0.11525873926437016,
+    "cooc_count": 24,
+    "unigram_w1": 8454,
+    "unigram_w2": 53115,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "labour",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 17830,
+    "unigram_w2": 8454,
+    "window_size": 10
+  },
+  {
+    "w1": "helen",
+    "w2": "labour",
+    "pmi": 1.6151371133989838,
+    "cooc_count": 8,
+    "unigram_w1": 3951,
+    "unigram_w2": 8454,
+    "window_size": 10
+  },
+  {
+    "w1": "labour",
+    "w2": "victory",
+    "pmi": 1.031894693732065,
+    "cooc_count": 18,
+    "unigram_w1": 8454,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "labour",
+    "w2": "party",
+    "pmi": 3.2864187521939714,
+    "cooc_count": 902,
+    "unigram_w1": 8454,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "labour",
+    "pmi": 0.7499576377504619,
+    "cooc_count": 6,
+    "unigram_w1": 7039,
+    "unigram_w2": 8454,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "labour",
+    "pmi": 0.6769773737872918,
+    "cooc_count": 73,
+    "unigram_w1": 92125,
+    "unigram_w2": 8454,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "election",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 179517,
+    "unigram_w2": 21140,
+    "window_size": 10
+  },
+  {
+    "w1": "election",
+    "w2": "lead",
+    "pmi": 0.11502219284103195,
+    "cooc_count": 60,
+    "unigram_w1": 21140,
+    "unigram_w2": 53115,
+    "window_size": 10
+  },
+  {
+    "w1": "election",
+    "w2": "victory",
+    "pmi": 2.3187458583451694,
+    "cooc_count": 163,
+    "unigram_w1": 21140,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "election",
+    "w2": "party",
+    "pmi": 1.9248508225062317,
+    "cooc_count": 578,
+    "unigram_w1": 21140,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "election",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 7039,
+    "unigram_w2": 21140,
+    "window_size": 10
+  },
+  {
+    "w1": "election",
+    "w2": "general",
+    "pmi": 2.657647818456363,
+    "cooc_count": 1323,
+    "unigram_w1": 21140,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "lead",
+    "pmi": 0.0,
+    "cooc_count": 202,
+    "unigram_w1": 179517,
+    "unigram_w2": 53115,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 17830,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "helen",
+    "pmi": 0.45035727645111695,
+    "cooc_count": 53,
+    "unigram_w1": 179517,
+    "unigram_w2": 3951,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "victory",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 179517,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 222,
+    "unigram_w1": 179517,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 7039,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 179517,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "lead",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 17830,
+    "unigram_w2": 53115,
+    "window_size": 10
+  },
+  {
+    "w1": "helen",
+    "w2": "lead",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3951,
+    "unigram_w2": 53115,
+    "window_size": 10
+  },
+  {
+    "w1": "lead",
+    "w2": "victory",
+    "pmi": 1.0911950065305676,
+    "cooc_count": 120,
+    "unigram_w1": 53115,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "lead",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 53115,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "lead",
+    "pmi": 0.0,
+    "cooc_count": 164,
+    "unigram_w1": 92125,
+    "unigram_w2": 53115,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "helen",
+    "pmi": 0.3988907544227973,
+    "cooc_count": 5,
+    "unigram_w1": 17830,
+    "unigram_w2": 3951,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "victory",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 17830,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 17830,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "clark",
+    "pmi": 0.0037149080200109333,
+    "cooc_count": 6,
+    "unigram_w1": 17830,
+    "unigram_w2": 7039,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 17830,
+    "unigram_w2": 92125,
+    "window_size": 10
+  },
+  {
+    "w1": "helen",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3951,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "helen",
+    "pmi": 3.2452296838539127,
+    "cooc_count": 34,
+    "unigram_w1": 7039,
+    "unigram_w2": 3951,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "helen",
+    "pmi": 0.3660647482224459,
+    "cooc_count": 25,
+    "unigram_w1": 92125,
+    "unigram_w2": 3951,
+    "window_size": 10
+  },
+  {
+    "w1": "party",
+    "w2": "victory",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 83752,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "victory",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 7039,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "victory",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 92125,
+    "unigram_w2": 15929,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 7039,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "general",
+    "w2": "party",
+    "pmi": 0.0,
+    "cooc_count": 323,
+    "unigram_w1": 92125,
+    "unigram_w2": 83752,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "general",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 7039,
+    "unigram_w2": 92125,
+    "window_size": 10
+  }
+]

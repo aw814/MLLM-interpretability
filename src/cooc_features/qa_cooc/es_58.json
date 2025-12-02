@@ -1,0 +1,641 @@
+[
+  {
+    "w1": "masculina",
+    "w2": "verano",
+    "pmi": 0.6213358341059606,
+    "cooc_count": 23,
+    "unigram_w1": 4697,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "masculina",
+    "pmi": 1.192234814019041,
+    "cooc_count": 110,
+    "unigram_w1": 125382,
+    "unigram_w2": 4697,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "masculina",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 104220,
+    "unigram_w2": 4697,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "masculina",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 188246,
+    "unigram_w2": 4697,
+    "window_size": 10
+  },
+  {
+    "w1": "mariposa",
+    "w2": "masculina",
+    "pmi": 2.9139810523138054,
+    "cooc_count": 12,
+    "unigram_w1": 2445,
+    "unigram_w2": 4697,
+    "window_size": 10
+  },
+  {
+    "w1": "masculina",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 4697,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "masculina",
+    "pmi": 0.42432644301470157,
+    "cooc_count": 55,
+    "unigram_w1": 135115,
+    "unigram_w2": 4697,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "masculina",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 169665,
+    "unigram_w2": 4697,
+    "window_size": 10
+  },
+  {
+    "w1": "masculina",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 4697,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 288,
+    "unigram_w1": 125382,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 127,
+    "unigram_w1": 104220,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 234,
+    "unigram_w1": 188246,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 5659,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "mariposa",
+    "w2": "verano",
+    "pmi": 1.1832429400182567,
+    "cooc_count": 21,
+    "unigram_w1": 2445,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "olímpicos",
+    "w2": "verano",
+    "pmi": 1.6656680223119316,
+    "cooc_count": 69,
+    "unigram_w1": 4959,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 177,
+    "unigram_w1": 135115,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "verano",
+    "w2": "ángeles",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 46399,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 333,
+    "unigram_w1": 169665,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "tuvo",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 47889,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "verano",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 56035,
+    "unigram_w2": 46399,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 277,
+    "unigram_w1": 104220,
+    "unigram_w2": 125382,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "lugar",
+    "pmi": 0.0,
+    "cooc_count": 647,
+    "unigram_w1": 125382,
+    "unigram_w2": 188246,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 5659,
+    "unigram_w2": 125382,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "mariposa",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 125382,
+    "unigram_w2": 2445,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "olímpicos",
+    "pmi": 0.5318189099865867,
+    "cooc_count": 60,
+    "unigram_w1": 125382,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 505,
+    "unigram_w1": 125382,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "ángeles",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 125382,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 232,
+    "unigram_w1": 169665,
+    "unigram_w2": 125382,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "tuvo",
+    "pmi": 0.33940335481248723,
+    "cooc_count": 478,
+    "unigram_w1": 125382,
+    "unigram_w2": 47889,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 217,
+    "unigram_w1": 125382,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "lugar",
+    "pmi": 0.0,
+    "cooc_count": 485,
+    "unigram_w1": 104220,
+    "unigram_w2": 188246,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 104220,
+    "unigram_w2": 5659,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "mariposa",
+    "pmi": 2.2711367826988993,
+    "cooc_count": 140,
+    "unigram_w1": 104220,
+    "unigram_w2": 2445,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 104220,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 326,
+    "unigram_w1": 104220,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "ángeles",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 104220,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "ciudad",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 104220,
+    "unigram_w2": 169665,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "tuvo",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 104220,
+    "unigram_w2": 47889,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "metros",
+    "pmi": 2.1932065917997097,
+    "cooc_count": 2968,
+    "unigram_w1": 104220,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "lugar",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 5659,
+    "unigram_w2": 188246,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "mariposa",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 188246,
+    "unigram_w2": 2445,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 188246,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "lugar",
+    "pmi": 0.0,
+    "cooc_count": 617,
+    "unigram_w1": 135115,
+    "unigram_w2": 188246,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "ángeles",
+    "pmi": 0.14474157743191196,
+    "cooc_count": 115,
+    "unigram_w1": 188246,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "lugar",
+    "pmi": 0.002859568893002828,
+    "cooc_count": 1816,
+    "unigram_w1": 169665,
+    "unigram_w2": 188246,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "tuvo",
+    "pmi": 2.5547420747341176,
+    "cooc_count": 6577,
+    "unigram_w1": 188246,
+    "unigram_w2": 47889,
+    "window_size": 10
+  },
+  {
+    "w1": "lugar",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 286,
+    "unigram_w1": 188246,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "olímpicos",
+    "pmi": 2.2436424279323255,
+    "cooc_count": 15,
+    "unigram_w1": 5659,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 5659,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "ángeles",
+    "pmi": 0.6960713382506104,
+    "cooc_count": 6,
+    "unigram_w1": 5659,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "ciudad",
+    "pmi": 0.09731499190775864,
+    "cooc_count": 60,
+    "unigram_w1": 5659,
+    "unigram_w2": 169665,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "tuvo",
+    "pmi": 0.1011238454428763,
+    "cooc_count": 17,
+    "unigram_w1": 5659,
+    "unigram_w2": 47889,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5659,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "mariposa",
+    "w2": "olímpicos",
+    "pmi": 2.572018879399886,
+    "cooc_count": 9,
+    "unigram_w1": 2445,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "mariposa",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 135115,
+    "unigram_w2": 2445,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "mariposa",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 169665,
+    "unigram_w2": 2445,
+    "window_size": 10
+  },
+  {
+    "w1": "mariposa",
+    "w2": "metros",
+    "pmi": 2.9673017508815964,
+    "cooc_count": 151,
+    "unigram_w1": 2445,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "olímpicos",
+    "pmi": 4.625272130330749,
+    "cooc_count": 3876,
+    "unigram_w1": 135115,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "olímpicos",
+    "w2": "ángeles",
+    "pmi": 1.7444051607781554,
+    "cooc_count": 15,
+    "unigram_w1": 4959,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "olímpicos",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 169665,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "olímpicos",
+    "pmi": 0.5750674396617147,
+    "cooc_count": 28,
+    "unigram_w1": 56035,
+    "unigram_w2": 4959,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "ángeles",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 135115,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 364,
+    "unigram_w1": 169665,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "tuvo",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 135115,
+    "unigram_w2": 47889,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 135115,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "ángeles",
+    "pmi": 1.3385438995940935,
+    "cooc_count": 342,
+    "unigram_w1": 169665,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "tuvo",
+    "w2": "ángeles",
+    "pmi": 0.026769772253972767,
+    "cooc_count": 26,
+    "unigram_w1": 47889,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "ángeles",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 56035,
+    "unigram_w2": 9323,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "tuvo",
+    "pmi": 0.0,
+    "cooc_count": 336,
+    "unigram_w1": 169665,
+    "unigram_w2": 47889,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "metros",
+    "pmi": 0.0,
+    "cooc_count": 448,
+    "unigram_w1": 169665,
+    "unigram_w2": 56035,
+    "window_size": 10
+  },
+  {
+    "w1": "metros",
+    "w2": "tuvo",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 56035,
+    "unigram_w2": 47889,
+    "window_size": 10
+  }
+]

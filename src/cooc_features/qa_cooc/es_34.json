@@ -1,0 +1,227 @@
+[
+  {
+    "w1": "se",
+    "w2": "según",
+    "pmi": 0.0,
+    "cooc_count": 20525,
+    "unigram_w1": 3238610,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "identifica",
+    "w2": "se",
+    "pmi": 0.8521960832484727,
+    "cooc_count": 1714,
+    "unigram_w1": 3981,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 18768,
+    "unigram_w1": 126006,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "antigua",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 1914,
+    "unigram_w1": 16618,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 399960,
+    "unigram_w1": 3173380,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "escritores",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 536,
+    "unigram_w1": 6162,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 18572,
+    "unigram_w1": 169665,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "identifica",
+    "w2": "según",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 3981,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "según",
+    "pmi": 0.30015945771611485,
+    "cooc_count": 1294,
+    "unigram_w1": 126006,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "antigua",
+    "w2": "según",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 16618,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "según",
+    "pmi": 0.0,
+    "cooc_count": 10158,
+    "unigram_w1": 3173380,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "escritores",
+    "w2": "según",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 6162,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "según",
+    "pmi": 0.0,
+    "cooc_count": 782,
+    "unigram_w1": 169665,
+    "unigram_w2": 134162,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "identifica",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 126006,
+    "unigram_w2": 3981,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "identifica",
+    "pmi": 0.3307087135496332,
+    "cooc_count": 997,
+    "unigram_w1": 3173380,
+    "unigram_w2": 3981,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "identifica",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 169665,
+    "unigram_w2": 3981,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "antigua",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 126006,
+    "unigram_w2": 16618,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 18154,
+    "unigram_w1": 126006,
+    "unigram_w2": 3173380,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "escritores",
+    "pmi": 1.6358476067299623,
+    "cooc_count": 226,
+    "unigram_w1": 126006,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "algunos",
+    "w2": "ciudad",
+    "pmi": 0.0,
+    "cooc_count": 500,
+    "unigram_w1": 126006,
+    "unigram_w2": 169665,
+    "window_size": 10
+  },
+  {
+    "w1": "antigua",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 2102,
+    "unigram_w1": 16618,
+    "unigram_w2": 3173380,
+    "window_size": 10
+  },
+  {
+    "w1": "antigua",
+    "w2": "ciudad",
+    "pmi": 1.6325935192060022,
+    "cooc_count": 818,
+    "unigram_w1": 16618,
+    "unigram_w2": 169665,
+    "window_size": 10
+  },
+  {
+    "w1": "con",
+    "w2": "escritores",
+    "pmi": 0.0,
+    "cooc_count": 713,
+    "unigram_w1": 3173380,
+    "unigram_w2": 6162,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "con",
+    "pmi": 0.0,
+    "cooc_count": 18475,
+    "unigram_w1": 169665,
+    "unigram_w2": 3173380,
+    "window_size": 10
+  },
+  {
+    "w1": "ciudad",
+    "w2": "escritores",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 169665,
+    "unigram_w2": 6162,
+    "window_size": 10
+  }
+]

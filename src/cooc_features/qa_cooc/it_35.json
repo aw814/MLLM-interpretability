@@ -1,0 +1,722 @@
+[
+  {
+    "w1": "quando",
+    "w2": "è",
+    "pmi": 0.07604865721983772,
+    "cooc_count": 49973,
+    "unigram_w1": 296360,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 10537,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "mckay",
+    "w2": "quando",
+    "pmi": 0.7638486874634043,
+    "cooc_count": 5,
+    "unigram_w1": 165,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "pubblicato",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 467,
+    "unigram_w1": 96550,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "quando",
+    "pmi": 0.8849769867113152,
+    "cooc_count": 8578,
+    "unigram_w1": 250781,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 7822,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 4793,
+    "unigram_w1": 296360,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 6931,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "discografica",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 1094,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 5488,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 886,
+    "unigram_w1": 88463,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 6800,
+    "unigram_w1": 1138754,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 20727,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "nellie",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 102,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 861,
+    "unigram_w1": 10537,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "mckay",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 165,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "pubblicato",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 9241,
+    "unigram_w1": 96550,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 13114,
+    "unigram_w1": 250781,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 293,
+    "unigram_w1": 7822,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "stato",
+    "w2": "è",
+    "pmi": 1.2590420292057993,
+    "cooc_count": 229395,
+    "unigram_w1": 416774,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 6931,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "discografica",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 1094,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 255,
+    "unigram_w1": 5488,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "hungry",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 158,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 11786,
+    "unigram_w1": 88463,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "pretty",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 1621,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 103165,
+    "unigram_w1": 1138754,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "è",
+    "pmi": 1.6041437282067725,
+    "cooc_count": 16110,
+    "unigram_w1": 20727,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nellie",
+    "pmi": 1.411816231314912,
+    "cooc_count": 5,
+    "unigram_w1": 250781,
+    "unigram_w2": 102,
+    "window_size": 10
+  },
+  {
+    "w1": "nellie",
+    "w2": "stato",
+    "pmi": 0.6807086198589062,
+    "cooc_count": 4,
+    "unigram_w1": 102,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "pubblicato",
+    "pmi": 1.1496599413967252,
+    "cooc_count": 153,
+    "unigram_w1": 10537,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "etichetta",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 250781,
+    "unigram_w2": 10537,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "little",
+    "pmi": 0.42410222177354584,
+    "cooc_count": 6,
+    "unigram_w1": 10537,
+    "unigram_w2": 7822,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 10537,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "discografica",
+    "w2": "etichetta",
+    "pmi": 6.326290072466221,
+    "cooc_count": 307,
+    "unigram_w1": 1094,
+    "unigram_w2": 10537,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "head",
+    "pmi": 0.778478607683284,
+    "cooc_count": 6,
+    "unigram_w1": 10537,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "etichetta",
+    "w2": "nome",
+    "pmi": 0.9516307717436564,
+    "cooc_count": 115,
+    "unigram_w1": 10537,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "etichetta",
+    "pmi": 0.3560074226514307,
+    "cooc_count": 816,
+    "unigram_w1": 1138754,
+    "unigram_w2": 10537,
+    "window_size": 10
+  },
+  {
+    "w1": "mckay",
+    "w2": "pubblicato",
+    "pmi": 0.2759246977032367,
+    "cooc_count": 1,
+    "unigram_w1": 165,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 294,
+    "unigram_w1": 250781,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 7822,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "pubblicato",
+    "w2": "stato",
+    "pmi": 1.2445442407450482,
+    "cooc_count": 6654,
+    "unigram_w1": 96550,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 6931,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "pubblicato",
+    "pmi": 0.02964754021957815,
+    "cooc_count": 26,
+    "unigram_w1": 5488,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 304,
+    "unigram_w1": 88463,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 2180,
+    "unigram_w1": 1138754,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "pubblicato",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 96550,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "little",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 250781,
+    "unigram_w2": 7822,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "stato",
+    "pmi": 1.2744548182432176,
+    "cooc_count": 17808,
+    "unigram_w1": 250781,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "mouse",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 250781,
+    "unigram_w2": 6931,
+    "window_size": 10
+  },
+  {
+    "w1": "discografica",
+    "w2": "era",
+    "pmi": 0.13780535028536614,
+    "cooc_count": 15,
+    "unigram_w1": 1094,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "head",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 250781,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nome",
+    "pmi": 0.19084526926338127,
+    "cooc_count": 1279,
+    "unigram_w1": 250781,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "pretty",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 250781,
+    "unigram_w2": 1621,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 8971,
+    "unigram_w1": 1138754,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "qual",
+    "pmi": 0.4895735329693281,
+    "cooc_count": 404,
+    "unigram_w1": 250781,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 7822,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "mouse",
+    "pmi": 1.248456099563253,
+    "cooc_count": 9,
+    "unigram_w1": 7822,
+    "unigram_w2": 6931,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 7822,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "little",
+    "w2": "pretty",
+    "pmi": 5.5346303038017775,
+    "cooc_count": 153,
+    "unigram_w1": 7822,
+    "unigram_w2": 1621,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "little",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 1138754,
+    "unigram_w2": 7822,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 6931,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "discografica",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1094,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "head",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 5488,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "hungry",
+    "w2": "stato",
+    "pmi": 0.8027021880516331,
+    "cooc_count": 7,
+    "unigram_w1": 158,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 1407,
+    "unigram_w1": 88463,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "pretty",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1621,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 15864,
+    "unigram_w1": 1138754,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 408,
+    "unigram_w1": 20727,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 6931,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "pretty",
+    "pmi": 2.57103870486213,
+    "cooc_count": 7,
+    "unigram_w1": 6931,
+    "unigram_w2": 1621,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "mouse",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 1138754,
+    "unigram_w2": 6931,
+    "window_size": 10
+  },
+  {
+    "w1": "mouse",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 6931,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "discografica",
+    "pmi": 0.4913562148083074,
+    "cooc_count": 97,
+    "unigram_w1": 1138754,
+    "unigram_w2": 1094,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "head",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 1138754,
+    "unigram_w2": 5488,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "hungry",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1138754,
+    "unigram_w2": 158,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "nome",
+    "pmi": 0.08492022576257419,
+    "cooc_count": 5224,
+    "unigram_w1": 1138754,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "qual",
+    "pmi": 0.654118297226288,
+    "cooc_count": 168,
+    "unigram_w1": 88463,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "pretty",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1138754,
+    "unigram_w2": 1621,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 562,
+    "unigram_w1": 1138754,
+    "unigram_w2": 20727,
+    "window_size": 10
+  }
+]

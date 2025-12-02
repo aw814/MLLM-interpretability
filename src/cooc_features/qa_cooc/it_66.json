@@ -1,0 +1,443 @@
+[
+  {
+    "w1": "stata",
+    "w2": "è",
+    "pmi": 1.5623311856015052,
+    "cooc_count": 154687,
+    "unigram_w1": 207517,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "pao",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 262,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 419885,
+    "unigram_w1": 2895586,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 2952,
+    "unigram_w1": 57461,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 25543,
+    "unigram_w1": 256952,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 635,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "edizione",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 5290,
+    "unigram_w1": 62072,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "toronto",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 2892,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 174,
+    "unigram_w1": 3146,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "lanciata",
+    "w2": "è",
+    "pmi": 0.519009068848228,
+    "cooc_count": 839,
+    "unigram_w1": 3195,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 644,
+    "unigram_w1": 8319,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "pao",
+    "w2": "stata",
+    "pmi": 0.6578113251256393,
+    "cooc_count": 5,
+    "unigram_w1": 262,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 21095,
+    "unigram_w1": 2895586,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 180,
+    "unigram_w1": 57461,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 1764,
+    "unigram_w1": 256952,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 635,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "edizione",
+    "w2": "stata",
+    "pmi": 0.19940661939607018,
+    "cooc_count": 749,
+    "unigram_w1": 62072,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "stata",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 207517,
+    "unigram_w2": 2892,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 3146,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "lanciata",
+    "w2": "stata",
+    "pmi": 2.825896973806845,
+    "cooc_count": 533,
+    "unigram_w1": 3195,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 8319,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "pao",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 2895586,
+    "unigram_w2": 262,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "pao",
+    "pmi": 7.0349415341429085,
+    "cooc_count": 9,
+    "unigram_w1": 635,
+    "unigram_w2": 262,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 3620,
+    "unigram_w1": 2895586,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "l",
+    "pmi": 0.43022640044983484,
+    "cooc_count": 54496,
+    "unigram_w1": 256952,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "ming",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 2895586,
+    "unigram_w2": 635,
+    "window_size": 10
+  },
+  {
+    "w1": "edizione",
+    "w2": "l",
+    "pmi": 0.12316843047715698,
+    "cooc_count": 9684,
+    "unigram_w1": 62072,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 2895586,
+    "unigram_w2": 2892,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 3146,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "lanciata",
+    "pmi": 0.05368343176871402,
+    "cooc_count": 465,
+    "unigram_w1": 2895586,
+    "unigram_w2": 3195,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 664,
+    "unigram_w1": 8319,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 310,
+    "unigram_w1": 256952,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "news",
+    "pmi": 1.5266412664547107,
+    "cooc_count": 8,
+    "unigram_w1": 635,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "edizione",
+    "w2": "news",
+    "pmi": 0.32860624811939093,
+    "cooc_count": 236,
+    "unigram_w1": 62072,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "toronto",
+    "pmi": 0.4960704978504476,
+    "cooc_count": 13,
+    "unigram_w1": 57461,
+    "unigram_w2": 2892,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "news",
+    "pmi": 2.6509586847825997,
+    "cooc_count": 122,
+    "unigram_w1": 3146,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "lanciata",
+    "w2": "news",
+    "pmi": 1.0503581817241319,
+    "cooc_count": 25,
+    "unigram_w1": 3195,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 8319,
+    "unigram_w2": 57461,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "ming",
+    "pmi": 0.14664146189843236,
+    "cooc_count": 9,
+    "unigram_w1": 256952,
+    "unigram_w2": 635,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "edizione",
+    "pmi": 1.016684226592634,
+    "cooc_count": 2100,
+    "unigram_w1": 256952,
+    "unigram_w2": 62072,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 256952,
+    "unigram_w2": 2892,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "daily",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 256952,
+    "unigram_w2": 3146,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "lanciata",
+    "pmi": 0.8223358863754096,
+    "cooc_count": 89,
+    "unigram_w1": 256952,
+    "unigram_w2": 3195,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "anno",
+    "pmi": 0.28939943490706904,
+    "cooc_count": 136,
+    "unigram_w1": 8319,
+    "unigram_w2": 256952,
+    "window_size": 10
+  },
+  {
+    "w1": "edizione",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 62072,
+    "unigram_w2": 2892,
+    "window_size": 10
+  },
+  {
+    "w1": "edizione",
+    "w2": "lanciata",
+    "pmi": 1.1215896420615312,
+    "cooc_count": 29,
+    "unigram_w1": 62072,
+    "unigram_w2": 3195,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "edizione",
+    "pmi": 0.43492500432919046,
+    "cooc_count": 38,
+    "unigram_w1": 8319,
+    "unigram_w2": 62072,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "toronto",
+    "pmi": 2.4455337049976995,
+    "cooc_count": 5,
+    "unigram_w1": 3146,
+    "unigram_w2": 2892,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "lanciata",
+    "pmi": 1.1503411194848454,
+    "cooc_count": 4,
+    "unigram_w1": 8319,
+    "unigram_w2": 3195,
+    "window_size": 10
+  }
+]

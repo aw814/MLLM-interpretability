@@ -1,0 +1,182 @@
+[
+  {
+    "w1": "stata",
+    "w2": "è",
+    "pmi": 1.5623311856015052,
+    "cooc_count": 154687,
+    "unigram_w1": 207517,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "è",
+    "pmi": 0.2627768852268867,
+    "cooc_count": 53206,
+    "unigram_w1": 261788,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "sindaco",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 3933,
+    "unigram_w1": 42546,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "turchia",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 718,
+    "unigram_w1": 7446,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "prima",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 45924,
+    "unigram_w1": 373159,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "donna",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 10651,
+    "unigram_w1": 336067,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 599,
+    "unigram_w1": 261788,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "sindaco",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 376,
+    "unigram_w1": 42546,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "stata",
+    "w2": "turchia",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 207517,
+    "unigram_w2": 7446,
+    "window_size": 10
+  },
+  {
+    "w1": "prima",
+    "w2": "stata",
+    "pmi": 0.21071928182064273,
+    "cooc_count": 4554,
+    "unigram_w1": 373159,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "donna",
+    "w2": "stata",
+    "pmi": 0.0,
+    "cooc_count": 977,
+    "unigram_w1": 336067,
+    "unigram_w2": 207517,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "sindaco",
+    "pmi": 0.0,
+    "cooc_count": 253,
+    "unigram_w1": 261788,
+    "unigram_w2": 42546,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "turchia",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 261788,
+    "unigram_w2": 7446,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "prima",
+    "pmi": 0.0,
+    "cooc_count": 2869,
+    "unigram_w1": 261788,
+    "unigram_w2": 373159,
+    "window_size": 10
+  },
+  {
+    "w1": "chi",
+    "w2": "donna",
+    "pmi": 0.0,
+    "cooc_count": 855,
+    "unigram_w1": 261788,
+    "unigram_w2": 336067,
+    "window_size": 10
+  },
+  {
+    "w1": "prima",
+    "w2": "sindaco",
+    "pmi": 0.0,
+    "cooc_count": 499,
+    "unigram_w1": 373159,
+    "unigram_w2": 42546,
+    "window_size": 10
+  },
+  {
+    "w1": "donna",
+    "w2": "sindaco",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 336067,
+    "unigram_w2": 42546,
+    "window_size": 10
+  },
+  {
+    "w1": "prima",
+    "w2": "turchia",
+    "pmi": 0.0,
+    "cooc_count": 127,
+    "unigram_w1": 373159,
+    "unigram_w2": 7446,
+    "window_size": 10
+  },
+  {
+    "w1": "donna",
+    "w2": "turchia",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 336067,
+    "unigram_w2": 7446,
+    "window_size": 10
+  },
+  {
+    "w1": "donna",
+    "w2": "prima",
+    "pmi": 0.0,
+    "cooc_count": 1901,
+    "unigram_w1": 336067,
+    "unigram_w2": 373159,
+    "window_size": 10
+  }
+]

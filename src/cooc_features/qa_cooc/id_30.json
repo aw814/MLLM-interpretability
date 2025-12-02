@@ -1,0 +1,704 @@
+[
+  {
+    "w1": "apa",
+    "w2": "ekor",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 356514,
+    "unigram_w2": 10247,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 356514,
+    "unigram_w2": 1532,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 356514,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "ii",
+    "pmi": 0.0,
+    "cooc_count": 157,
+    "unigram_w1": 356514,
+    "unigram_w2": 43594,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "ditembak",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 356514,
+    "unigram_w2": 2078,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 9213,
+    "unigram_w1": 356514,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "august",
+    "pmi": 0.0,
+    "cooc_count": 294,
+    "unigram_w1": 356514,
+    "unigram_w2": 24074,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "posisi",
+    "pmi": 0.0,
+    "cooc_count": 1027,
+    "unigram_w1": 356514,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "jatuh",
+    "pmi": 0.0,
+    "cooc_count": 471,
+    "unigram_w1": 356514,
+    "unigram_w2": 28655,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "penembak",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 356514,
+    "unigram_w2": 1010,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "dunia",
+    "pmi": 0.0,
+    "cooc_count": 3105,
+    "unigram_w1": 356514,
+    "unigram_w2": 268609,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 18318,
+    "unigram_w1": 356514,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "perang",
+    "pmi": 0.0,
+    "cooc_count": 269,
+    "unigram_w1": 356514,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "pesawat",
+    "pmi": 0.5041786268536333,
+    "cooc_count": 50,
+    "unigram_w1": 10247,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "ii",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 10247,
+    "unigram_w2": 43594,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 249,
+    "unigram_w1": 10247,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "ekor",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 24074,
+    "unigram_w2": 10247,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "posisi",
+    "pmi": 0.5283790601314534,
+    "cooc_count": 111,
+    "unigram_w1": 10247,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "jatuh",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 10247,
+    "unigram_w2": 28655,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "ekor",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 268609,
+    "unigram_w2": 10247,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 805,
+    "unigram_w1": 10247,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "ekor",
+    "w2": "perang",
+    "pmi": 0.28245277051707635,
+    "cooc_count": 21,
+    "unigram_w1": 10247,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1532,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 43594,
+    "unigram_w2": 1532,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "joseph",
+    "pmi": 2.67552729236428,
+    "cooc_count": 3,
+    "unigram_w1": 2078,
+    "unigram_w2": 1532,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 1532,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "jatuh",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 28655,
+    "unigram_w2": 1532,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "joseph",
+    "pmi": 0.04726861594690694,
+    "cooc_count": 28,
+    "unigram_w1": 268609,
+    "unigram_w2": 1532,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 1532,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "perang",
+    "pmi": 0.9301007105208896,
+    "cooc_count": 6,
+    "unigram_w1": 1532,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 43594,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "pesawat",
+    "pmi": 2.377389450592458,
+    "cooc_count": 66,
+    "unigram_w1": 2078,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "pesawat",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 1391,
+    "unigram_w1": 45411,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 24074,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "pesawat",
+    "w2": "posisi",
+    "pmi": 0.0,
+    "cooc_count": 162,
+    "unigram_w1": 45411,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "jatuh",
+    "w2": "pesawat",
+    "pmi": 1.9903011106970578,
+    "cooc_count": 618,
+    "unigram_w1": 28655,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "penembak",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1010,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 380,
+    "unigram_w1": 268609,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "pesawat",
+    "pmi": 0.0,
+    "cooc_count": 2471,
+    "unigram_w1": 1581711,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "perang",
+    "w2": "pesawat",
+    "pmi": 1.0770371149522773,
+    "cooc_count": 206,
+    "unigram_w1": 23807,
+    "unigram_w2": 45411,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 611,
+    "unigram_w1": 43594,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "ii",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 24074,
+    "unigram_w2": 43594,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "posisi",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 43594,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "jatuh",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 43594,
+    "unigram_w2": 28655,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "ii",
+    "pmi": 0.8375124250788437,
+    "cooc_count": 1756,
+    "unigram_w1": 268609,
+    "unigram_w2": 43594,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 4036,
+    "unigram_w1": 43594,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "perang",
+    "pmi": 3.117119078664206,
+    "cooc_count": 1521,
+    "unigram_w1": 43594,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "saat",
+    "pmi": 0.3118563815369134,
+    "cooc_count": 113,
+    "unigram_w1": 2078,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "jatuh",
+    "pmi": 3.4764748643131704,
+    "cooc_count": 125,
+    "unigram_w1": 2078,
+    "unigram_w2": 28655,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "penembak",
+    "pmi": 5.657100390291048,
+    "cooc_count": 39,
+    "unigram_w1": 2078,
+    "unigram_w2": 1010,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "dunia",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 2078,
+    "unigram_w2": 268609,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 2078,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "ditembak",
+    "w2": "perang",
+    "pmi": 0.9129509616140344,
+    "cooc_count": 8,
+    "unigram_w1": 2078,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 184,
+    "unigram_w1": 24074,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "posisi",
+    "w2": "saat",
+    "pmi": 0.45734212818606457,
+    "cooc_count": 6189,
+    "unigram_w1": 98402,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "jatuh",
+    "w2": "saat",
+    "pmi": 0.5253035204036368,
+    "cooc_count": 1929,
+    "unigram_w1": 28655,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "penembak",
+    "w2": "saat",
+    "pmi": 0.5106167440394065,
+    "cooc_count": 67,
+    "unigram_w1": 1010,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "saat",
+    "pmi": 0.0,
+    "cooc_count": 8758,
+    "unigram_w1": 268609,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "saat",
+    "pmi": 0.5392206937549534,
+    "cooc_count": 107970,
+    "unigram_w1": 1581711,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "perang",
+    "w2": "saat",
+    "pmi": 0.059632151080921424,
+    "cooc_count": 1006,
+    "unigram_w1": 23807,
+    "unigram_w2": 613402,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "posisi",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 24074,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "jatuh",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 24074,
+    "unigram_w2": 28655,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "dunia",
+    "pmi": 0.0,
+    "cooc_count": 235,
+    "unigram_w1": 24074,
+    "unigram_w2": 268609,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 1121,
+    "unigram_w1": 24074,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "perang",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 24074,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "jatuh",
+    "w2": "posisi",
+    "pmi": 0.06862054986351646,
+    "cooc_count": 196,
+    "unigram_w1": 28655,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "posisi",
+    "pmi": 0.0,
+    "cooc_count": 744,
+    "unigram_w1": 268609,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "posisi",
+    "pmi": 0.2328579377354311,
+    "cooc_count": 12750,
+    "unigram_w1": 1581711,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "perang",
+    "w2": "posisi",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 23807,
+    "unigram_w2": 98402,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "jatuh",
+    "pmi": 0.0,
+    "cooc_count": 415,
+    "unigram_w1": 268609,
+    "unigram_w2": 28655,
+    "window_size": 10
+  },
+  {
+    "w1": "jatuh",
+    "w2": "pada",
+    "pmi": 0.6869885563757343,
+    "cooc_count": 5847,
+    "unigram_w1": 28655,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "jatuh",
+    "w2": "perang",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 28655,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "penembak",
+    "pmi": 1.1019797597890562,
+    "cooc_count": 53,
+    "unigram_w1": 268609,
+    "unigram_w2": 1010,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "penembak",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 1581711,
+    "unigram_w2": 1010,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "pada",
+    "pmi": 0.0,
+    "cooc_count": 15414,
+    "unigram_w1": 268609,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "dunia",
+    "w2": "perang",
+    "pmi": 2.3779201527186866,
+    "cooc_count": 4475,
+    "unigram_w1": 268609,
+    "unigram_w2": 23807,
+    "window_size": 10
+  },
+  {
+    "w1": "donatelli",
+    "w2": "pada",
+    "pmi": 0.8900934340660109,
+    "cooc_count": 5,
+    "unigram_w1": 20,
+    "unigram_w2": 1581711,
+    "window_size": 10
+  },
+  {
+    "w1": "pada",
+    "w2": "perang",
+    "pmi": 0.0,
+    "cooc_count": 2279,
+    "unigram_w1": 1581711,
+    "unigram_w2": 23807,
+    "window_size": 10
+  }
+]

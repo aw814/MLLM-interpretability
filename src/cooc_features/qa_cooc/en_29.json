@@ -1,0 +1,1352 @@
+[
+  {
+    "w1": "limits",
+    "w2": "motion",
+    "pmi": 0.09053221396175729,
+    "cooc_count": 11,
+    "unigram_w1": 10426,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "systems",
+    "pmi": 0.9315499878729295,
+    "cooc_count": 193,
+    "unigram_w1": 20234,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 101020,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 1753,
+    "unigram_w1": 20234,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 20234,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 20234,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 51171,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 20234,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 190426,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 20234,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "wim",
+    "pmi": 3.5584231750459585,
+    "cooc_count": 9,
+    "unigram_w1": 20234,
+    "unigram_w2": 266,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 7002,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 20234,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "provide",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 20234,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 74419,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "weigh",
+    "pmi": 0.8803284713997892,
+    "cooc_count": 8,
+    "unigram_w1": 20234,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "motion",
+    "pmi": 1.3508513134685713,
+    "cooc_count": 30,
+    "unigram_w1": 8063,
+    "unigram_w2": 20234,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "international",
+    "pmi": 0.7795201696916261,
+    "cooc_count": 22,
+    "unigram_w1": 2097,
+    "unigram_w2": 101020,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 204,
+    "unigram_w1": 2097,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 2097,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "ensure",
+    "pmi": 0.9335726255079079,
+    "cooc_count": 13,
+    "unigram_w1": 2097,
+    "unigram_w2": 51171,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "does",
+    "pmi": 0.551040127183317,
+    "cooc_count": 33,
+    "unigram_w1": 2097,
+    "unigram_w2": 190426,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "within",
+    "pmi": 0.17511224886498167,
+    "cooc_count": 15,
+    "unigram_w1": 2097,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "depart",
+    "w2": "provide",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2097,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "systems",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 10426,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "limits",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 101020,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 1095,
+    "unigram_w1": 10426,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "what",
+    "pmi": 0.020649149248590862,
+    "cooc_count": 317,
+    "unigram_w1": 10426,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 10426,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "limits",
+    "pmi": 0.1660257152823952,
+    "cooc_count": 30,
+    "unigram_w1": 51171,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "weight",
+    "pmi": 0.47622717725340263,
+    "cooc_count": 52,
+    "unigram_w1": 10426,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "limits",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 190426,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "within",
+    "pmi": 2.265184310063826,
+    "cooc_count": 603,
+    "unigram_w1": 10426,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "limits",
+    "pmi": 2.0119020144360937,
+    "cooc_count": 26,
+    "unigram_w1": 7002,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "vehicles",
+    "pmi": 0.6341709988789331,
+    "cooc_count": 22,
+    "unigram_w1": 10426,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "limits",
+    "w2": "provide",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 10426,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "limits",
+    "pmi": 0.0012079260111655188,
+    "cooc_count": 37,
+    "unigram_w1": 74419,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "terminals",
+    "pmi": 0.8666717498089385,
+    "cooc_count": 30,
+    "unigram_w1": 78892,
+    "unigram_w2": 3356,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "terminals",
+    "pmi": 0.437111504516334,
+    "cooc_count": 25,
+    "unigram_w1": 101020,
+    "unigram_w2": 3356,
+    "window_size": 10
+  },
+  {
+    "w1": "terminals",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 3356,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "terminals",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 3356,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "terminals",
+    "w2": "within",
+    "pmi": 0.25491654909907685,
+    "cooc_count": 26,
+    "unigram_w1": 3356,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "terminals",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3356,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "terminals",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 125521,
+    "unigram_w2": 3356,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "terminals",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 74419,
+    "unigram_w2": 3356,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "systems",
+    "pmi": 0.8820131119683009,
+    "cooc_count": 917,
+    "unigram_w1": 101020,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 5630,
+    "unigram_w1": 78892,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 514,
+    "unigram_w1": 78892,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "systems",
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 83909,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "systems",
+    "pmi": 0.45147820879976686,
+    "cooc_count": 302,
+    "unigram_w1": 51171,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 78892,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "systems",
+    "pmi": 0.0,
+    "cooc_count": 130,
+    "unigram_w1": 190426,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "within",
+    "pmi": 0.17099182103498858,
+    "cooc_count": 562,
+    "unigram_w1": 78892,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "systems",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 7002,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "vehicles",
+    "pmi": 0.8806435690346996,
+    "cooc_count": 213,
+    "unigram_w1": 78892,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "systems",
+    "pmi": 0.5615557765245209,
+    "cooc_count": 827,
+    "unigram_w1": 125521,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "systems",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 74419,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "systems",
+    "w2": "weigh",
+    "pmi": 0.5312139123207108,
+    "cooc_count": 22,
+    "unigram_w1": 78892,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "systems",
+    "pmi": 1.4641357842500091,
+    "cooc_count": 131,
+    "unigram_w1": 8063,
+    "unigram_w2": 78892,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 3871,
+    "unigram_w1": 101020,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 728,
+    "unigram_w1": 101020,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 276,
+    "unigram_w1": 101020,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 51171,
+    "unigram_w2": 101020,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 101020,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 190426,
+    "unigram_w2": 101020,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 412,
+    "unigram_w1": 101020,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 7002,
+    "unigram_w2": 101020,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 101020,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "provide",
+    "pmi": 0.0,
+    "cooc_count": 270,
+    "unigram_w1": 101020,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "kind",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 101020,
+    "unigram_w2": 74419,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "weigh",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 101020,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "international",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 8063,
+    "unigram_w2": 101020,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 66061,
+    "unigram_w1": 2758464,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 3911,
+    "unigram_w1": 83909,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "that",
+    "pmi": 1.3276301464609526,
+    "cooc_count": 25360,
+    "unigram_w1": 51171,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 4057,
+    "unigram_w1": 2758464,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "that",
+    "pmi": 0.15563031419804388,
+    "cooc_count": 29232,
+    "unigram_w1": 190426,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 11859,
+    "unigram_w1": 2758464,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "wim",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 2758464,
+    "unigram_w2": 266,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 888,
+    "unigram_w1": 7002,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 1739,
+    "unigram_w1": 2758464,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 16325,
+    "unigram_w1": 125521,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "that",
+    "pmi": 0.29656856612527027,
+    "cooc_count": 13153,
+    "unigram_w1": 74419,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "weigh",
+    "pmi": 0.0,
+    "cooc_count": 319,
+    "unigram_w1": 2758464,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 668,
+    "unigram_w1": 8063,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 625,
+    "unigram_w1": 83909,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 855,
+    "unigram_w1": 51171,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "weight",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 806,
+    "unigram_w1": 65041,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "what",
+    "pmi": 1.273091450307587,
+    "cooc_count": 20258,
+    "unigram_w1": 190426,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 1473,
+    "unigram_w1": 625314,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "what",
+    "pmi": 0.46498920810123895,
+    "cooc_count": 332,
+    "unigram_w1": 7002,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "vehicles",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 23497,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1581,
+    "unigram_w1": 125521,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "what",
+    "pmi": 1.1626383419920978,
+    "cooc_count": 7089,
+    "unigram_w1": 74419,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "weigh",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 3442,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 8063,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 51171,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 83909,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 186,
+    "unigram_w1": 190426,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 326,
+    "unigram_w1": 83909,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7002,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "vehicles",
+    "pmi": 1.439112564840736,
+    "cooc_count": 396,
+    "unigram_w1": 83909,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 169,
+    "unigram_w1": 125521,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 74419,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "road",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 8063,
+    "unigram_w2": 83909,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 51171,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "ensure",
+    "pmi": 0.0,
+    "cooc_count": 344,
+    "unigram_w1": 190426,
+    "unigram_w2": 51171,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "within",
+    "pmi": 0.26884892297473006,
+    "cooc_count": 402,
+    "unigram_w1": 51171,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "ensure",
+    "pmi": 0.5302310274201543,
+    "cooc_count": 29,
+    "unigram_w1": 7002,
+    "unigram_w2": 51171,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "vehicles",
+    "pmi": 0.20075350858904492,
+    "cooc_count": 70,
+    "unigram_w1": 51171,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "provide",
+    "pmi": 0.19555179898838743,
+    "cooc_count": 372,
+    "unigram_w1": 51171,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "ensure",
+    "w2": "kind",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 51171,
+    "unigram_w2": 74419,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "ensure",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 8063,
+    "unigram_w2": 51171,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "weight",
+    "pmi": 0.05777412709791085,
+    "cooc_count": 625,
+    "unigram_w1": 190426,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "weight",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 65041,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 7002,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "vehicles",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 23497,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 125521,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 74419,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "weigh",
+    "w2": "weight",
+    "pmi": 2.197581638696378,
+    "cooc_count": 96,
+    "unigram_w1": 3442,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "weight",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 8063,
+    "unigram_w2": 65041,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 439,
+    "unigram_w1": 190426,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "does",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 7002,
+    "unigram_w2": 190426,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 190426,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "provide",
+    "pmi": 0.39859505873755474,
+    "cooc_count": 1696,
+    "unigram_w1": 190426,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "kind",
+    "pmi": 0.0,
+    "cooc_count": 552,
+    "unigram_w1": 190426,
+    "unigram_w2": 74419,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "weigh",
+    "pmi": 0.9898044186905856,
+    "cooc_count": 84,
+    "unigram_w1": 190426,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "dynamics",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 190426,
+    "unigram_w2": 8063,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "within",
+    "pmi": 1.2720092712463364,
+    "cooc_count": 150,
+    "unigram_w1": 7002,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "vehicles",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 23497,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 697,
+    "unigram_w1": 125521,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 150,
+    "unigram_w1": 74419,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "weigh",
+    "w2": "within",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 3442,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "within",
+    "pmi": 0.8994075970911989,
+    "cooc_count": 119,
+    "unigram_w1": 8063,
+    "unigram_w2": 126057,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "wim",
+    "pmi": 2.5437583197012934,
+    "cooc_count": 12,
+    "unigram_w1": 74419,
+    "unigram_w2": 266,
+    "window_size": 10
+  },
+  {
+    "w1": "weigh",
+    "w2": "wim",
+    "pmi": 5.078420406759403,
+    "cooc_count": 7,
+    "unigram_w1": 3442,
+    "unigram_w2": 266,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "vehicles",
+    "pmi": 0.020676951013893576,
+    "cooc_count": 8,
+    "unigram_w1": 7002,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "provide",
+    "pmi": 0.11578268921967111,
+    "cooc_count": 47,
+    "unigram_w1": 7002,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "kind",
+    "pmi": 0.08423374318471046,
+    "cooc_count": 27,
+    "unigram_w1": 7002,
+    "unigram_w2": 74419,
+    "window_size": 10
+  },
+  {
+    "w1": "acceptable",
+    "w2": "weigh",
+    "pmi": 1.8079656140264913,
+    "cooc_count": 7,
+    "unigram_w1": 7002,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 132,
+    "unigram_w1": 125521,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 74419,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "vehicles",
+    "w2": "weigh",
+    "pmi": 0.7308200757570198,
+    "cooc_count": 8,
+    "unigram_w1": 23497,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "vehicles",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 8063,
+    "unigram_w2": 23497,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "provide",
+    "pmi": 0.0,
+    "cooc_count": 326,
+    "unigram_w1": 74419,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "provide",
+    "w2": "weigh",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 125521,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "provide",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 8063,
+    "unigram_w2": 125521,
+    "window_size": 10
+  },
+  {
+    "w1": "kind",
+    "w2": "weigh",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 74419,
+    "unigram_w2": 3442,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "kind",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 8063,
+    "unigram_w2": 74419,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "weigh",
+    "pmi": 0.41411277236071226,
+    "cooc_count": 2,
+    "unigram_w1": 8063,
+    "unigram_w2": 3442,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "w1": "の",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 137846,
+    "unigram_w1": 67342455,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4003473,
+    "unigram_w1": 11759829,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 75105,
+    "unigram_w1": 67342455,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 624,
+    "unigram_w1": 41504,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "グレード",
+    "pmi": 0.0,
+    "cooc_count": 9842,
+    "unigram_w1": 67342455,
+    "unigram_w2": 23120,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "エンテベ",
+    "pmi": 0.24566046013991227,
+    "cooc_count": 20,
+    "unigram_w1": 67342455,
+    "unigram_w2": 30,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "名称",
+    "pmi": 0.10515739231394738,
+    "cooc_count": 16557,
+    "unigram_w1": 67342455,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "総合",
+    "pmi": 0.0,
+    "cooc_count": 25009,
+    "unigram_w1": 67342455,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 13777172,
+    "unigram_w1": 67342455,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4122922,
+    "unigram_w1": 8705379,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 384622,
+    "unigram_w1": 67342455,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 20105,
+    "unigram_w1": 11759829,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "元",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 209,
+    "unigram_w1": 317578,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 41504,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "グレード",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 23120,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "元",
+    "w2": "名称",
+    "pmi": 0.010095708632315677,
+    "cooc_count": 71,
+    "unigram_w1": 317578,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "元",
+    "w2": "総合",
+    "pmi": 0.574897040184801,
+    "cooc_count": 267,
+    "unigram_w1": 317578,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 63705,
+    "unigram_w1": 33509041,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 8674,
+    "unigram_w1": 8705379,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "元",
+    "pmi": 0.0,
+    "cooc_count": 1266,
+    "unigram_w1": 1078849,
+    "unigram_w2": 317578,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 5080,
+    "unigram_w1": 11759829,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "か",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 41504,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "グレード",
+    "pmi": 0.0,
+    "cooc_count": 365,
+    "unigram_w1": 11759829,
+    "unigram_w2": 23120,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "名称",
+    "pmi": 0.0,
+    "cooc_count": 625,
+    "unigram_w1": 11759829,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "総合",
+    "pmi": 0.0,
+    "cooc_count": 845,
+    "unigram_w1": 11759829,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 504609,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "何",
+    "pmi": 1.4703277843766105,
+    "cooc_count": 427413,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 41504,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "グレード",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 23120,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "名称",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 28582,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "病院",
+    "w2": "総合",
+    "pmi": 4.290396038450585,
+    "cooc_count": 5668,
+    "unigram_w1": 164115,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 36261,
+    "unigram_w1": 33509041,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "病院",
+    "pmi": 0.18687507148572777,
+    "cooc_count": 13336,
+    "unigram_w1": 8705379,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "病院",
+    "pmi": 0.0,
+    "cooc_count": 872,
+    "unigram_w1": 1078849,
+    "unigram_w2": 164115,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "グレード",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 41504,
+    "unigram_w2": 23120,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "名称",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 41504,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "総合",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 41504,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 282,
+    "unigram_w1": 41504,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 391,
+    "unigram_w1": 41504,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 41504,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "グレード",
+    "w2": "名称",
+    "pmi": 0.1592007144672046,
+    "cooc_count": 6,
+    "unigram_w1": 23120,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "グレード",
+    "w2": "総合",
+    "pmi": 0.17262315289423735,
+    "cooc_count": 13,
+    "unigram_w1": 23120,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "グレード",
+    "pmi": 0.0,
+    "cooc_count": 4295,
+    "unigram_w1": 33509041,
+    "unigram_w2": 23120,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "グレード",
+    "pmi": 0.0,
+    "cooc_count": 1361,
+    "unigram_w1": 8705379,
+    "unigram_w2": 23120,
+    "window_size": 10
+  },
+  {
+    "w1": "グレード",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 23120,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "エンテベ",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 33509041,
+    "unigram_w2": 30,
+    "window_size": 10
+  },
+  {
+    "w1": "名称",
+    "w2": "総合",
+    "pmi": 0.5310889061064241,
+    "cooc_count": 23,
+    "unigram_w1": 28582,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "名称",
+    "pmi": 0.0,
+    "cooc_count": 6120,
+    "unigram_w1": 33509041,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "名称",
+    "pmi": 0.07126357733790079,
+    "cooc_count": 2069,
+    "unigram_w1": 8705379,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "名称",
+    "pmi": 0.0,
+    "cooc_count": 121,
+    "unigram_w1": 1078849,
+    "unigram_w2": 28582,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "総合",
+    "pmi": 0.0,
+    "cooc_count": 10203,
+    "unigram_w1": 33509041,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "総合",
+    "pmi": 0.0,
+    "cooc_count": 4097,
+    "unigram_w1": 8705379,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "総合",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 1078849,
+    "unigram_w2": 61102,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "は",
+    "pmi": 0.10498293108232228,
+    "cooc_count": 2508846,
+    "unigram_w1": 8705379,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "何",
+    "pmi": 0.0518398876523243,
+    "cooc_count": 294827,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 71778,
+    "unigram_w1": 8705379,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,947 @@
+[
+  {
+    "w1": "の",
+    "w2": "オブ",
+    "pmi": 0.0,
+    "cooc_count": 6176,
+    "unigram_w1": 67342455,
+    "unigram_w2": 21177,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "ゴッド",
+    "pmi": 0.0,
+    "cooc_count": 1237,
+    "unigram_w1": 67342455,
+    "unigram_w2": 2647,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "セント",
+    "pmi": 0.0,
+    "cooc_count": 2824,
+    "unigram_w1": 67342455,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4003473,
+    "unigram_w1": 11759829,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 2501659,
+    "unigram_w1": 67342455,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "医療",
+    "pmi": 0.0,
+    "cooc_count": 48523,
+    "unigram_w1": 67342455,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "グループ",
+    "pmi": 0.04369748458979923,
+    "cooc_count": 62077,
+    "unigram_w1": 67342455,
+    "unigram_w2": 113955,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "カトリック",
+    "pmi": 0.07962349711045819,
+    "cooc_count": 2724,
+    "unigram_w1": 67342455,
+    "unigram_w2": 4824,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 25580,
+    "unigram_w1": 57541,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "非営利",
+    "pmi": 0.19642140959720586,
+    "cooc_count": 601,
+    "unigram_w1": 67342455,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "ヘルスケア",
+    "pmi": 0.0,
+    "cooc_count": 2003,
+    "unigram_w1": 67342455,
+    "unigram_w2": 4725,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "種類",
+    "pmi": 0.25124306404161056,
+    "cooc_count": 120830,
+    "unigram_w1": 67342455,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 289581,
+    "unigram_w1": 67342455,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 13777172,
+    "unigram_w1": 67342455,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4122922,
+    "unigram_w1": 8705379,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "ジョン",
+    "pmi": 0.0,
+    "cooc_count": 6125,
+    "unigram_w1": 67342455,
+    "unigram_w2": 15699,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "ゴッド",
+    "pmi": 5.724922955998274,
+    "cooc_count": 133,
+    "unigram_w1": 21177,
+    "unigram_w2": 2647,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "セント",
+    "pmi": 3.056402871481064,
+    "cooc_count": 27,
+    "unigram_w1": 21177,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "オブ",
+    "pmi": 0.0,
+    "cooc_count": 174,
+    "unigram_w1": 11759829,
+    "unigram_w2": 21177,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "・",
+    "pmi": 2.1423796819070944,
+    "cooc_count": 15816,
+    "unigram_w1": 21177,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "医療",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21177,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "グループ",
+    "pmi": 0.4733944990603452,
+    "cooc_count": 30,
+    "unigram_w1": 21177,
+    "unigram_w2": 113955,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "カトリック",
+    "pmi": 2.313838833276436,
+    "cooc_count": 8,
+    "unigram_w1": 21177,
+    "unigram_w2": 4824,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "オブ",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 57541,
+    "unigram_w2": 21177,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "種類",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 21177,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 21177,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "オブ",
+    "pmi": 0.0,
+    "cooc_count": 2417,
+    "unigram_w1": 33509041,
+    "unigram_w2": 21177,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "オブ",
+    "pmi": 0.0,
+    "cooc_count": 397,
+    "unigram_w1": 8705379,
+    "unigram_w2": 21177,
+    "window_size": 10
+  },
+  {
+    "w1": "オブ",
+    "w2": "ジョン",
+    "pmi": 1.6934610645785628,
+    "cooc_count": 14,
+    "unigram_w1": 21177,
+    "unigram_w2": 15699,
+    "window_size": 10
+  },
+  {
+    "w1": "ゴッド",
+    "w2": "セント",
+    "pmi": 3.6318142385412706,
+    "cooc_count": 6,
+    "unigram_w1": 2647,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "ゴッド",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 11759829,
+    "unigram_w2": 2647,
+    "window_size": 10
+  },
+  {
+    "w1": "ゴッド",
+    "w2": "・",
+    "pmi": 0.870255767640406,
+    "cooc_count": 554,
+    "unigram_w1": 2647,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "ゴッド",
+    "pmi": 0.0,
+    "cooc_count": 476,
+    "unigram_w1": 33509041,
+    "unigram_w2": 2647,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "ゴッド",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 8705379,
+    "unigram_w2": 2647,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "セント",
+    "pmi": 0.0,
+    "cooc_count": 170,
+    "unigram_w1": 11759829,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "セント",
+    "w2": "・",
+    "pmi": 1.1999885105301158,
+    "cooc_count": 2255,
+    "unigram_w1": 7748,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "セント",
+    "w2": "医療",
+    "pmi": 0.22597144893133203,
+    "cooc_count": 8,
+    "unigram_w1": 7748,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "セント",
+    "pmi": 0.9680498168310498,
+    "cooc_count": 18,
+    "unigram_w1": 113955,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "セント",
+    "w2": "種類",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 7748,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "セント",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 7748,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "セント",
+    "pmi": 0.0,
+    "cooc_count": 1420,
+    "unigram_w1": 33509041,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "セント",
+    "pmi": 0.0,
+    "cooc_count": 340,
+    "unigram_w1": 8705379,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "ジョン",
+    "w2": "セント",
+    "pmi": 5.5109231300657004,
+    "cooc_count": 233,
+    "unigram_w1": 15699,
+    "unigram_w2": 7748,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 242610,
+    "unigram_w1": 11759829,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "医療",
+    "pmi": 0.0,
+    "cooc_count": 2519,
+    "unigram_w1": 11759829,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "グループ",
+    "pmi": 0.0,
+    "cooc_count": 2285,
+    "unigram_w1": 11759829,
+    "unigram_w2": 113955,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "カトリック",
+    "pmi": 0.0,
+    "cooc_count": 159,
+    "unigram_w1": 11759829,
+    "unigram_w2": 4824,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "どのような",
+    "pmi": 1.2633901359703448,
+    "cooc_count": 18535,
+    "unigram_w1": 11759829,
+    "unigram_w2": 57541,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "非営利",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 11759829,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "ヘルスケア",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 11759829,
+    "unigram_w2": 4725,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "種類",
+    "pmi": 0.0,
+    "cooc_count": 6643,
+    "unigram_w1": 11759829,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 26211,
+    "unigram_w1": 11759829,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "です",
+    "pmi": 0.0,
+    "cooc_count": 504609,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8705379,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "ジョン",
+    "pmi": 0.0,
+    "cooc_count": 291,
+    "unigram_w1": 11759829,
+    "unigram_w2": 15699,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "医療",
+    "pmi": 0.7672947656247852,
+    "cooc_count": 20085,
+    "unigram_w1": 11320816,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "・",
+    "pmi": 0.24494165494308384,
+    "cooc_count": 12762,
+    "unigram_w1": 113955,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "カトリック",
+    "w2": "・",
+    "pmi": 0.40811310805332407,
+    "cooc_count": 636,
+    "unigram_w1": 4824,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 1136,
+    "unigram_w1": 57541,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "非営利",
+    "pmi": 0.18614437592223654,
+    "cooc_count": 100,
+    "unigram_w1": 11320816,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "ヘルスケア",
+    "w2": "・",
+    "pmi": 1.0940948155848682,
+    "cooc_count": 1237,
+    "unigram_w1": 4725,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "種類",
+    "pmi": 0.0,
+    "cooc_count": 10489,
+    "unigram_w1": 11320816,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 42911,
+    "unigram_w1": 11320816,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 962111,
+    "unigram_w1": 33509041,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 272109,
+    "unigram_w1": 8705379,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "ジョン",
+    "w2": "・",
+    "pmi": 2.059203363631246,
+    "cooc_count": 10789,
+    "unigram_w1": 15699,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "医療",
+    "pmi": 0.9091994727386515,
+    "cooc_count": 233,
+    "unigram_w1": 113955,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "医療",
+    "pmi": 1.0393067155603124,
+    "cooc_count": 134,
+    "unigram_w1": 57541,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "ヘルスケア",
+    "w2": "医療",
+    "pmi": 3.6517323859467954,
+    "cooc_count": 150,
+    "unigram_w1": 4725,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "医療",
+    "w2": "種類",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 106373,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "医療",
+    "w2": "系",
+    "pmi": 0.9700471133434004,
+    "cooc_count": 1568,
+    "unigram_w1": 106373,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "医療",
+    "pmi": 0.0,
+    "cooc_count": 21892,
+    "unigram_w1": 33509041,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "医療",
+    "pmi": 0.0,
+    "cooc_count": 6366,
+    "unigram_w1": 8705379,
+    "unigram_w2": 106373,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "グループ",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 57541,
+    "unigram_w2": 113955,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "非営利",
+    "pmi": 2.2590105319555294,
+    "cooc_count": 8,
+    "unigram_w1": 113955,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "ヘルスケア",
+    "pmi": 2.422392845243987,
+    "cooc_count": 47,
+    "unigram_w1": 113955,
+    "unigram_w2": 4725,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "種類",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 113955,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 576,
+    "unigram_w1": 113955,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "グループ",
+    "pmi": 0.0,
+    "cooc_count": 26874,
+    "unigram_w1": 33509041,
+    "unigram_w2": 113955,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "グループ",
+    "pmi": 0.0,
+    "cooc_count": 6841,
+    "unigram_w1": 8705379,
+    "unigram_w2": 113955,
+    "window_size": 10
+  },
+  {
+    "w1": "グループ",
+    "w2": "ジョン",
+    "pmi": 0.14410451066123547,
+    "cooc_count": 16,
+    "unigram_w1": 113955,
+    "unigram_w2": 15699,
+    "window_size": 10
+  },
+  {
+    "w1": "カトリック",
+    "w2": "系",
+    "pmi": 1.689445860023183,
+    "cooc_count": 146,
+    "unigram_w1": 4824,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "カトリック",
+    "pmi": 0.17561519744279552,
+    "cooc_count": 1492,
+    "unigram_w1": 33509041,
+    "unigram_w2": 4824,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "カトリック",
+    "pmi": 0.0,
+    "cooc_count": 304,
+    "unigram_w1": 8705379,
+    "unigram_w2": 4824,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "ヘルスケア",
+    "pmi": 0.3541634286384885,
+    "cooc_count": 3,
+    "unigram_w1": 57541,
+    "unigram_w2": 4725,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "種類",
+    "pmi": 1.263125835831608,
+    "cooc_count": 284,
+    "unigram_w1": 57541,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 164,
+    "unigram_w1": 57541,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "どのような",
+    "w2": "は",
+    "pmi": 0.4125601887596256,
+    "cooc_count": 22555,
+    "unigram_w1": 57541,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "どのような",
+    "pmi": 0.1618002139735481,
+    "cooc_count": 4560,
+    "unigram_w1": 8705379,
+    "unigram_w2": 57541,
+    "window_size": 10
+  },
+  {
+    "w1": "ヘルスケア",
+    "w2": "非営利",
+    "pmi": 5.559729640289501,
+    "cooc_count": 9,
+    "unigram_w1": 4725,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "非営利",
+    "pmi": 0.17255586416831434,
+    "cooc_count": 292,
+    "unigram_w1": 33509041,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "非営利",
+    "pmi": 0.5071153285600868,
+    "cooc_count": 106,
+    "unigram_w1": 8705379,
+    "unigram_w2": 947,
+    "window_size": 10
+  },
+  {
+    "w1": "ヘルスケア",
+    "w2": "種類",
+    "pmi": 1.4459862840867446,
+    "cooc_count": 28,
+    "unigram_w1": 4725,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "ヘルスケア",
+    "w2": "系",
+    "pmi": 1.0703805586477086,
+    "cooc_count": 77,
+    "unigram_w1": 4725,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "ヘルスケア",
+    "pmi": 0.0,
+    "cooc_count": 870,
+    "unigram_w1": 33509041,
+    "unigram_w2": 4725,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "ヘルスケア",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 8705379,
+    "unigram_w2": 4725,
+    "window_size": 10
+  },
+  {
+    "w1": "種類",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 776,
+    "unigram_w1": 180236,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "種類",
+    "pmi": 0.0634512641337414,
+    "cooc_count": 49830,
+    "unigram_w1": 33509041,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "種類",
+    "pmi": 0.17740844580907103,
+    "cooc_count": 14508,
+    "unigram_w1": 8705379,
+    "unigram_w2": 180236,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 150277,
+    "unigram_w1": 33509041,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 43569,
+    "unigram_w1": 8705379,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "ジョン",
+    "w2": "系",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 15699,
+    "unigram_w2": 721602,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "は",
+    "pmi": 0.10498293108232228,
+    "cooc_count": 2508846,
+    "unigram_w1": 8705379,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "ジョン",
+    "pmi": 0.0,
+    "cooc_count": 3217,
+    "unigram_w1": 33509041,
+    "unigram_w2": 15699,
+    "window_size": 10
+  },
+  {
+    "w1": "です",
+    "w2": "ジョン",
+    "pmi": 0.0,
+    "cooc_count": 572,
+    "unigram_w1": 8705379,
+    "unigram_w2": 15699,
+    "window_size": 10
+  }
+]

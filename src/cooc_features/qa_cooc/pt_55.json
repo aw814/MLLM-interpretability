@@ -1,0 +1,92 @@
+[
+  {
+    "w1": "estação",
+    "w2": "maior",
+    "pmi": 0.0,
+    "cooc_count": 150,
+    "unigram_w1": 26814,
+    "unigram_w2": 173891,
+    "window_size": 10
+  },
+  {
+    "w1": "estação",
+    "w2": "televisão",
+    "pmi": 1.129094953168987,
+    "cooc_count": 104,
+    "unigram_w1": 26814,
+    "unigram_w2": 17746,
+    "window_size": 10
+  },
+  {
+    "w1": "estação",
+    "w2": "transmitiu",
+    "pmi": 1.9093498238716318,
+    "cooc_count": 5,
+    "unigram_w1": 26814,
+    "unigram_w2": 391,
+    "window_size": 10
+  },
+  {
+    "w1": "maior",
+    "w2": "television",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 173891,
+    "unigram_w2": 625,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "televisão",
+    "pmi": 2.64152709525109,
+    "cooc_count": 11,
+    "unigram_w1": 625,
+    "unigram_w2": 17746,
+    "window_size": 10
+  },
+  {
+    "w1": "canadiana",
+    "w2": "televisão",
+    "pmi": 3.8351829326060933,
+    "cooc_count": 9,
+    "unigram_w1": 155,
+    "unigram_w2": 17746,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "maior",
+    "pmi": 0.1201366856884139,
+    "cooc_count": 6,
+    "unigram_w1": 433,
+    "unigram_w2": 173891,
+    "window_size": 10
+  },
+  {
+    "w1": "invenção",
+    "w2": "maior",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 1915,
+    "unigram_w2": 173891,
+    "window_size": 10
+  },
+  {
+    "w1": "maior",
+    "w2": "televisão",
+    "pmi": 0.0,
+    "cooc_count": 175,
+    "unigram_w1": 173891,
+    "unigram_w2": 17746,
+    "window_size": 10
+  },
+  {
+    "w1": "maior",
+    "w2": "transmitiu",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 173891,
+    "unigram_w2": 391,
+    "window_size": 10
+  }
+]

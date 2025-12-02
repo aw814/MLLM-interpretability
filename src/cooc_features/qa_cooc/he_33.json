@@ -1,0 +1,74 @@
+[
+  {
+    "w1": "הייתה",
+    "w2": "מדינה",
+    "pmi": 0.39858224290941374,
+    "cooc_count": 643,
+    "unigram_w1": 171282,
+    "unigram_w2": 34501,
+    "window_size": 10
+  },
+  {
+    "w1": "גרמניה",
+    "w2": "הייתה",
+    "pmi": 0.15182649490531017,
+    "cooc_count": 321,
+    "unigram_w1": 22044,
+    "unigram_w2": 171282,
+    "window_size": 10
+  },
+  {
+    "w1": "הייתה",
+    "w2": "ממוקמת",
+    "pmi": 0.5404983276831156,
+    "cooc_count": 131,
+    "unigram_w1": 171282,
+    "unigram_w2": 6099,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "הייתה",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 6547,
+    "unigram_w2": 171282,
+    "window_size": 10
+  },
+  {
+    "w1": "גרמניה",
+    "w2": "מדינה",
+    "pmi": 0.6270992827919806,
+    "cooc_count": 104,
+    "unigram_w1": 22044,
+    "unigram_w2": 34501,
+    "window_size": 10
+  },
+  {
+    "w1": "מדינה",
+    "w2": "ממוקמת",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 34501,
+    "unigram_w2": 6099,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "מדינה",
+    "pmi": 2.8279536920340083,
+    "cooc_count": 279,
+    "unigram_w1": 6547,
+    "unigram_w2": 34501,
+    "window_size": 10
+  },
+  {
+    "w1": "גרמניה",
+    "w2": "ממוקמת",
+    "pmi": 1.1813077722605039,
+    "cooc_count": 32,
+    "unigram_w1": 22044,
+    "unigram_w2": 6099,
+    "window_size": 10
+  }
+]

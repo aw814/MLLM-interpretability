@@ -1,0 +1,164 @@
+[
+  {
+    "w1": "साल",
+    "w2": "स्कूल",
+    "pmi": 0.04554072162654244,
+    "cooc_count": 1265,
+    "unigram_w1": 365646,
+    "unigram_w2": 92823,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 340928,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 10968,
+    "unigram_w1": 984779,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "अकैडमी",
+    "w2": "साल",
+    "pmi": 0.284174277680013,
+    "cooc_count": 5,
+    "unigram_w1": 289,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "बन",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 1508,
+    "unigram_w1": 146241,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 21111,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "स्कूल",
+    "pmi": 0.0,
+    "cooc_count": 985,
+    "unigram_w1": 340928,
+    "unigram_w2": 92823,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "स्कूल",
+    "pmi": 0.0,
+    "cooc_count": 2520,
+    "unigram_w1": 984779,
+    "unigram_w2": 92823,
+    "window_size": 10
+  },
+  {
+    "w1": "अकैडमी",
+    "w2": "स्कूल",
+    "pmi": 1.8374670327968605,
+    "cooc_count": 6,
+    "unigram_w1": 289,
+    "unigram_w2": 92823,
+    "window_size": 10
+  },
+  {
+    "w1": "बन",
+    "w2": "स्कूल",
+    "pmi": 0.0,
+    "cooc_count": 246,
+    "unigram_w1": 146241,
+    "unigram_w2": 92823,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "स्कूल",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21111,
+    "unigram_w2": 92823,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "गया",
+    "pmi": 0.5276354038621065,
+    "cooc_count": 20265,
+    "unigram_w1": 340928,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "बन",
+    "pmi": 0.0,
+    "cooc_count": 726,
+    "unigram_w1": 340928,
+    "unigram_w2": 146241,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "किस",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 21111,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "अकैडमी",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 289,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "बन",
+    "pmi": 1.2179407735535677,
+    "cooc_count": 17336,
+    "unigram_w1": 984779,
+    "unigram_w2": 146241,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 21111,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "बन",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 21111,
+    "unigram_w2": 146241,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "w1": "capital",
+    "w2": "comprou",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 52826,
+    "unigram_w2": 4156,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "capital",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 11233,
+    "unigram_w2": 52826,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "com",
+    "pmi": 0.0,
+    "cooc_count": 5107,
+    "unigram_w1": 52826,
+    "unigram_w2": 3606188,
+    "window_size": 10
+  },
+  {
+    "w1": "administração",
+    "w2": "capital",
+    "pmi": 0.0,
+    "cooc_count": 136,
+    "unigram_w1": 46489,
+    "unigram_w2": 52826,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "parceria",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 52826,
+    "unigram_w2": 44613,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "comprou",
+    "pmi": 1.0036039610599359,
+    "cooc_count": 9,
+    "unigram_w1": 11233,
+    "unigram_w2": 4156,
+    "window_size": 10
+  },
+  {
+    "w1": "com",
+    "w2": "comprou",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 3606188,
+    "unigram_w2": 4156,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "com",
+    "pmi": 0.0,
+    "cooc_count": 822,
+    "unigram_w1": 11233,
+    "unigram_w2": 3606188,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "administração",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 11233,
+    "unigram_w2": 46489,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "parceria",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 11233,
+    "unigram_w2": 44613,
+    "window_size": 10
+  },
+  {
+    "w1": "administração",
+    "w2": "com",
+    "pmi": 0.0,
+    "cooc_count": 4755,
+    "unigram_w1": 46489,
+    "unigram_w2": 3606188,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "com",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 559,
+    "unigram_w2": 3606188,
+    "window_size": 10
+  },
+  {
+    "w1": "com",
+    "w2": "parceria",
+    "pmi": 0.9141972553553289,
+    "cooc_count": 28363,
+    "unigram_w1": 3606188,
+    "unigram_w2": 44613,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "com",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 381,
+    "unigram_w2": 3606188,
+    "window_size": 10
+  },
+  {
+    "w1": "com",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 3606188,
+    "unigram_w2": 583,
+    "window_size": 10
+  },
+  {
+    "w1": "administração",
+    "w2": "parceria",
+    "pmi": 0.0,
+    "cooc_count": 132,
+    "unigram_w1": 46489,
+    "unigram_w2": 44613,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "parceria",
+    "pmi": 2.3357701070435586,
+    "cooc_count": 19,
+    "unigram_w1": 583,
+    "unigram_w2": 44613,
+    "window_size": 10
+  }
+]

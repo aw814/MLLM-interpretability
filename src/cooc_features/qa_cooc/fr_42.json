@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "d",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 17582,
+    "unigram_w1": 4842659,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "origine",
+    "pmi": 0.4216053173178395,
+    "cooc_count": 473,
+    "unigram_w1": 108533,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "logiciel",
+    "w2": "nom",
+    "pmi": 0.06367534435914361,
+    "cooc_count": 211,
+    "unigram_w1": 40453,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 1100,
+    "unigram_w1": 108533,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "nom",
+    "pmi": 0.7101085132002115,
+    "cooc_count": 9,
+    "unigram_w1": 904,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "origine",
+    "pmi": 0.9691110982930088,
+    "cooc_count": 36489,
+    "unigram_w1": 4842659,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "logiciel",
+    "pmi": 0.0,
+    "cooc_count": 7217,
+    "unigram_w1": 4842659,
+    "unigram_w2": 40453,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "flood",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 4842659,
+    "unigram_w2": 989,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 32281,
+    "unigram_w1": 4842659,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "isis",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 4842659,
+    "unigram_w2": 904,
+    "window_size": 10
+  },
+  {
+    "w1": "logiciel",
+    "w2": "origine",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 40453,
+    "unigram_w2": 63399,
+    "window_size": 10
+  },
+  {
+    "w1": "origine",
+    "w2": "était",
+    "pmi": 0.3015010558305735,
+    "cooc_count": 1144,
+    "unigram_w1": 63399,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "logiciel",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 40453,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "logiciel",
+    "pmi": 0.8860917647954162,
+    "cooc_count": 4,
+    "unigram_w1": 904,
+    "unigram_w2": 40453,
+    "window_size": 10
+  }
+]

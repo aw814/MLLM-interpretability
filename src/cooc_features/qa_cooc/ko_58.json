@@ -1,0 +1,146 @@
+[
+  {
+    "w1": "1984년",
+    "w2": "하계",
+    "pmi": 4.307969127644929,
+    "cooc_count": 43,
+    "unigram_w1": 808,
+    "unigram_w2": 1363,
+    "window_size": 10
+  },
+  {
+    "w1": "1984년",
+    "w2": "올림픽",
+    "pmi": 2.808737560728919,
+    "cooc_count": 40,
+    "unigram_w1": 808,
+    "unigram_w2": 5678,
+    "window_size": 10
+  },
+  {
+    "w1": "결승전은",
+    "w2": "남자",
+    "pmi": 3.2519700671671505,
+    "cooc_count": 8,
+    "unigram_w1": 57,
+    "unigram_w2": 10334,
+    "window_size": 10
+  },
+  {
+    "w1": "로스앤젤레스",
+    "w2": "어느",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 642,
+    "unigram_w2": 19676,
+    "window_size": 10
+  },
+  {
+    "w1": "로스앤젤레스",
+    "w2": "올림픽",
+    "pmi": 2.2402036193422816,
+    "cooc_count": 18,
+    "unigram_w1": 642,
+    "unigram_w2": 5678,
+    "window_size": 10
+  },
+  {
+    "w1": "도시에서",
+    "w2": "로스앤젤레스",
+    "pmi": 2.1920678231019703,
+    "cooc_count": 7,
+    "unigram_w1": 2317,
+    "unigram_w2": 642,
+    "window_size": 10
+  },
+  {
+    "w1": "100m",
+    "w2": "1984",
+    "pmi": 1.5272105170653785,
+    "cooc_count": 12,
+    "unigram_w1": 1381,
+    "unigram_w2": 3590,
+    "window_size": 10
+  },
+  {
+    "w1": "올림픽",
+    "w2": "하계",
+    "pmi": 4.91233473496188,
+    "cooc_count": 553,
+    "unigram_w1": 5678,
+    "unigram_w2": 1363,
+    "window_size": 10
+  },
+  {
+    "w1": "남자",
+    "w2": "하계",
+    "pmi": 2.328869701911663,
+    "cooc_count": 76,
+    "unigram_w1": 10334,
+    "unigram_w2": 1363,
+    "window_size": 10
+  },
+  {
+    "w1": "올림픽",
+    "w2": "접영",
+    "pmi": 2.754149370444516,
+    "cooc_count": 6,
+    "unigram_w1": 5678,
+    "unigram_w2": 128,
+    "window_size": 10
+  },
+  {
+    "w1": "남자",
+    "w2": "접영",
+    "pmi": 3.6216460674237294,
+    "cooc_count": 26,
+    "unigram_w1": 10334,
+    "unigram_w2": 128,
+    "window_size": 10
+  },
+  {
+    "w1": "어느",
+    "w2": "올림픽",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 19676,
+    "unigram_w2": 5678,
+    "window_size": 10
+  },
+  {
+    "w1": "남자",
+    "w2": "어느",
+    "pmi": 0.1882372997683066,
+    "cooc_count": 129,
+    "unigram_w1": 10334,
+    "unigram_w2": 19676,
+    "window_size": 10
+  },
+  {
+    "w1": "도시에서",
+    "w2": "어느",
+    "pmi": 0.3499516044375494,
+    "cooc_count": 34,
+    "unigram_w1": 2317,
+    "unigram_w2": 19676,
+    "window_size": 10
+  },
+  {
+    "w1": "남자",
+    "w2": "올림픽",
+    "pmi": 2.2750079309451494,
+    "cooc_count": 300,
+    "unigram_w1": 10334,
+    "unigram_w2": 5678,
+    "window_size": 10
+  },
+  {
+    "w1": "남자",
+    "w2": "도시에서",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 10334,
+    "unigram_w2": 2317,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "w1": "ती",
+    "w2": "मे",
+    "pmi": 2.8492696975491496,
+    "cooc_count": 602,
+    "unigram_w1": 6080,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "ती",
+    "pmi": 0.0,
+    "cooc_count": 1737,
+    "unigram_w1": 13050901,
+    "unigram_w2": 6080,
+    "window_size": 10
+  },
+  {
+    "w1": "ती",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 6080,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "ती",
+    "w2": "पदक",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 6080,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "ती",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 370,
+    "unigram_w1": 6080,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 9301,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "कौनसा",
+    "pmi": 1.1243382191502467,
+    "cooc_count": 5,
+    "unigram_w1": 4904,
+    "unigram_w2": 9301,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "जीता",
+    "pmi": 1.40865873335193,
+    "cooc_count": 26,
+    "unigram_w1": 9301,
+    "unigram_w2": 19190,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "कौनसा",
+    "pmi": 0.0,
+    "cooc_count": 2348,
+    "unigram_w1": 13050901,
+    "unigram_w2": 9301,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 9301,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 0.9719952781014309,
+    "cooc_count": 5,
+    "unigram_w1": 9301,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "पदक",
+    "pmi": 1.1472068182471702,
+    "cooc_count": 16,
+    "unigram_w1": 9301,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "खेलों",
+    "pmi": 0.40918276408515947,
+    "cooc_count": 8,
+    "unigram_w1": 9301,
+    "unigram_w2": 16042,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "कौनसा",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 16524,
+    "unigram_w2": 9301,
+    "window_size": 10
+  },
+  {
+    "w1": "कौनसा",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 279,
+    "unigram_w1": 9301,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 4904,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "मे",
+    "pmi": 0.17816560549220473,
+    "cooc_count": 37,
+    "unigram_w1": 5402,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "जीता",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 19190,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 48188,
+    "unigram_w1": 13050901,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "महिला",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 464,
+    "unigram_w1": 168951,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "पदक",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 15338,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 16042,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "मे",
+    "pmi": 1.0213571108616506,
+    "cooc_count": 263,
+    "unigram_w1": 16524,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 8912,
+    "unigram_w1": 3237935,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "मार्शल",
+    "w2": "मे",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 3862,
+    "unigram_w2": 160944,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "कांस्य",
+    "pmi": 1.6676908850401528,
+    "cooc_count": 5,
+    "unigram_w1": 5402,
+    "unigram_w2": 4904,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "जीता",
+    "pmi": 4.995190680525558,
+    "cooc_count": 495,
+    "unigram_w1": 4904,
+    "unigram_w2": 19190,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 1140,
+    "unigram_w1": 4904,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "महिला",
+    "pmi": 1.1480129890760293,
+    "cooc_count": 93,
+    "unigram_w1": 4904,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "पदक",
+    "pmi": 6.704974839310577,
+    "cooc_count": 2187,
+    "unigram_w1": 4904,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "खेलों",
+    "pmi": 3.9602445318104795,
+    "cooc_count": 147,
+    "unigram_w1": 4904,
+    "unigram_w2": 16042,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "कांस्य",
+    "pmi": 3.80002076280363,
+    "cooc_count": 129,
+    "unigram_w1": 16524,
+    "unigram_w2": 4904,
+    "window_size": 10
+  },
+  {
+    "w1": "कांस्य",
+    "w2": "ने",
+    "pmi": 0.5145737371120891,
+    "cooc_count": 946,
+    "unigram_w1": 4904,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 4344,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4344,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 4344,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "जीता",
+    "pmi": 0.7733564029001898,
+    "cooc_count": 8,
+    "unigram_w1": 5402,
+    "unigram_w2": 19190,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 1812,
+    "unigram_w1": 5402,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 5402,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "खेलों",
+    "pmi": 1.2709891610936002,
+    "cooc_count": 11,
+    "unigram_w1": 5402,
+    "unigram_w2": 16042,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 367,
+    "unigram_w1": 5402,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्ट",
+    "w2": "मार्शल",
+    "pmi": 6.651489028030991,
+    "cooc_count": 575,
+    "unigram_w1": 5402,
+    "unigram_w2": 3862,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "जीता",
+    "pmi": 0.0,
+    "cooc_count": 4237,
+    "unigram_w1": 13050901,
+    "unigram_w2": 19190,
+    "window_size": 10
+  },
+  {
+    "w1": "जीता",
+    "w2": "महिला",
+    "pmi": 0.9209563075175949,
+    "cooc_count": 290,
+    "unigram_w1": 19190,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "जीता",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 1.7293324302663677,
+    "cooc_count": 22,
+    "unigram_w1": 19190,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "जीता",
+    "w2": "पदक",
+    "pmi": 5.256240708301232,
+    "cooc_count": 2010,
+    "unigram_w1": 19190,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "जीता",
+    "pmi": 2.595906420424781,
+    "cooc_count": 147,
+    "unigram_w1": 16042,
+    "unigram_w2": 19190,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "जीता",
+    "pmi": 2.0645066167883996,
+    "cooc_count": 89,
+    "unigram_w1": 16524,
+    "unigram_w2": 19190,
+    "window_size": 10
+  },
+  {
+    "w1": "जीता",
+    "w2": "ने",
+    "pmi": 1.0648548783443144,
+    "cooc_count": 6418,
+    "unigram_w1": 19190,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 53897,
+    "unigram_w1": 13050901,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "युंग",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 13050901,
+    "unigram_w2": 82,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 0.013363307010411109,
+    "cooc_count": 2690,
+    "unigram_w1": 13050901,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "पदक",
+    "pmi": 0.0,
+    "cooc_count": 4147,
+    "unigram_w1": 13050901,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "खेलों",
+    "pmi": 0.0,
+    "cooc_count": 7142,
+    "unigram_w1": 13050901,
+    "unigram_w2": 16042,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 4805,
+    "unigram_w1": 16524,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 981046,
+    "unigram_w1": 13050901,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "मार्शल",
+    "pmi": 0.0,
+    "cooc_count": 1486,
+    "unigram_w1": 13050901,
+    "unigram_w2": 3862,
+    "window_size": 10
+  },
+  {
+    "w1": "प्रतिस्पर्धा",
+    "w2": "महिला",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 5711,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "पदक",
+    "w2": "महिला",
+    "pmi": 1.396709704857832,
+    "cooc_count": 373,
+    "unigram_w1": 15338,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "महिला",
+    "pmi": 1.338337349780882,
+    "cooc_count": 368,
+    "unigram_w1": 16042,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "महिला",
+    "pmi": 1.2642820006202629,
+    "cooc_count": 352,
+    "unigram_w1": 16524,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "महिला",
+    "pmi": 0.4417426305601992,
+    "cooc_count": 30302,
+    "unigram_w1": 3237935,
+    "unigram_w2": 168951,
+    "window_size": 10
+  },
+  {
+    "w1": "महिला",
+    "w2": "मार्शल",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 168951,
+    "unigram_w2": 3862,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "युंग",
+    "pmi": 0.15131367121037534,
+    "cooc_count": 11,
+    "unigram_w1": 3237935,
+    "unigram_w2": 82,
+    "window_size": 10
+  },
+  {
+    "w1": "पदक",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 1.1649309705790387,
+    "cooc_count": 10,
+    "unigram_w1": 15338,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 2.601658637901189,
+    "cooc_count": 44,
+    "unigram_w1": 16042,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 0.8673069590729783,
+    "cooc_count": 8,
+    "unigram_w1": 16524,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "प्रतिस्पर्धा",
+    "pmi": 0.0,
+    "cooc_count": 330,
+    "unigram_w1": 3237935,
+    "unigram_w2": 5711,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "पदक",
+    "pmi": 4.777466802937955,
+    "cooc_count": 1041,
+    "unigram_w1": 16042,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "पदक",
+    "pmi": 4.0633244103248245,
+    "cooc_count": 525,
+    "unigram_w1": 16524,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "पदक",
+    "pmi": 0.5065116896136502,
+    "cooc_count": 2935,
+    "unigram_w1": 3237935,
+    "unigram_w2": 15338,
+    "window_size": 10
+  },
+  {
+    "w1": "पदक",
+    "w2": "मार्शल",
+    "pmi": 1.0453143024894511,
+    "cooc_count": 6,
+    "unigram_w1": 15338,
+    "unigram_w2": 3862,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "खेलों",
+    "pmi": 5.224703447063264,
+    "cooc_count": 1754,
+    "unigram_w1": 16524,
+    "unigram_w2": 16042,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "ने",
+    "pmi": 0.40341360692034983,
+    "cooc_count": 2769,
+    "unigram_w1": 16042,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "खेलों",
+    "w2": "मार्शल",
+    "pmi": 1.981266681899112,
+    "cooc_count": 16,
+    "unigram_w1": 16042,
+    "unigram_w2": 3862,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 1273,
+    "unigram_w1": 16524,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "एशियाई",
+    "w2": "मार्शल",
+    "pmi": 1.1249845221248589,
+    "cooc_count": 7,
+    "unigram_w1": 16524,
+    "unigram_w2": 3862,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "मार्शल",
+    "pmi": 0.4306160209500235,
+    "cooc_count": 685,
+    "unigram_w1": 3237935,
+    "unigram_w2": 3862,
+    "window_size": 10
+  }
+]

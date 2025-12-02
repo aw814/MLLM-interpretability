@@ -1,0 +1,569 @@
+[
+  {
+    "w1": "决赛",
+    "w2": "奥运会",
+    "pmi": 3.1967391296404513,
+    "cooc_count": 133,
+    "unigram_w1": 10018,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 660,
+    "unigram_w1": 10018,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "米",
+    "pmi": 2.3645370371843955,
+    "cooc_count": 330,
+    "unigram_w1": 10018,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 10018,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "男子",
+    "pmi": 2.5896839586612037,
+    "cooc_count": 240,
+    "unigram_w1": 10018,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 10018,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "决赛",
+    "pmi": 1.827238522428885,
+    "cooc_count": 247,
+    "unigram_w1": 57723,
+    "unigram_w2": 10018,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "蝶泳",
+    "pmi": 5.229990507676894,
+    "cooc_count": 9,
+    "unigram_w1": 10018,
+    "unigram_w2": 70,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "在",
+    "pmi": 0.4306184283050154,
+    "cooc_count": 2495,
+    "unigram_w1": 10018,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "决赛",
+    "w2": "夏季",
+    "pmi": 0.16351512867198734,
+    "cooc_count": 6,
+    "unigram_w1": 10018,
+    "unigram_w2": 7402,
+    "window_size": 10
+  },
+  {
+    "w1": "奥运会",
+    "w2": "年",
+    "pmi": 1.189786534507003,
+    "cooc_count": 1753,
+    "unigram_w1": 7902,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "奥运会",
+    "w2": "米",
+    "pmi": 1.6067330104033521,
+    "cooc_count": 122,
+    "unigram_w1": 7902,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "奥运会",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 57949,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "奥运会",
+    "pmi": 1.8288452050595603,
+    "cooc_count": 5,
+    "unigram_w1": 1479,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "奥运会",
+    "w2": "男子",
+    "pmi": 2.4277169832499013,
+    "cooc_count": 161,
+    "unigram_w1": 7902,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "奥运会",
+    "pmi": 1.0910752538405588,
+    "cooc_count": 181,
+    "unigram_w1": 111966,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "奥运会",
+    "pmi": 0.7746254739232404,
+    "cooc_count": 68,
+    "unigram_w1": 57723,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "奥运会",
+    "pmi": 0.10213924275630265,
+    "cooc_count": 1417,
+    "unigram_w1": 2356497,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "奥运会",
+    "w2": "洛杉矶",
+    "pmi": 1.8277470928573103,
+    "cooc_count": 16,
+    "unigram_w1": 7902,
+    "unigram_w2": 4738,
+    "window_size": 10
+  },
+  {
+    "w1": "夏季",
+    "w2": "奥运会",
+    "pmi": 3.9656095170621706,
+    "cooc_count": 212,
+    "unigram_w1": 7402,
+    "unigram_w2": 7902,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "米",
+    "pmi": 0.0,
+    "cooc_count": 1275,
+    "unigram_w1": 982471,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 684,
+    "unigram_w1": 57949,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 22540,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 1479,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 1007,
+    "unigram_w1": 982471,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4329,
+    "unigram_w1": 111966,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "年",
+    "pmi": 0.11628167115887385,
+    "cooc_count": 4377,
+    "unigram_w1": 57723,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "洛杉矶",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 982471,
+    "unigram_w2": 4738,
+    "window_size": 10
+  },
+  {
+    "w1": "夏季",
+    "w2": "年",
+    "pmi": 0.66850577860885,
+    "cooc_count": 975,
+    "unigram_w1": 7402,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "米",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 57949,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "男子",
+    "w2": "米",
+    "pmi": 1.7791531034725467,
+    "cooc_count": 480,
+    "unigram_w1": 26166,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "米",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 111966,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "米",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 57723,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "米",
+    "w2": "蝶泳",
+    "pmi": 4.824924760596401,
+    "cooc_count": 27,
+    "unigram_w1": 45063,
+    "unigram_w2": 70,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "米",
+    "pmi": 0.0,
+    "cooc_count": 3877,
+    "unigram_w1": 2356497,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "夏季",
+    "w2": "米",
+    "pmi": 0.3338135264950568,
+    "cooc_count": 32,
+    "unigram_w1": 7402,
+    "unigram_w2": 45063,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 22540,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 57949,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 305,
+    "unigram_w1": 57949,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 57723,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 5217,
+    "unigram_w1": 57949,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 3.1030573087273545,
+    "cooc_count": 51,
+    "unigram_w1": 22540,
+    "unigram_w2": 1479,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 22540,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "举行",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 22540,
+    "unigram_w2": 57723,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 130,
+    "unigram_w1": 22540,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "夏季",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 22540,
+    "unigram_w2": 7402,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1479,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 111966,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 57723,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "男子",
+    "w2": "蝶泳",
+    "pmi": 4.152130088867251,
+    "cooc_count": 8,
+    "unigram_w1": 26166,
+    "unigram_w2": 70,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 3858,
+    "unigram_w1": 2356497,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 399,
+    "unigram_w1": 57723,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 15017,
+    "unigram_w1": 2356497,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "洛杉矶",
+    "pmi": 1.5457425653299983,
+    "cooc_count": 171,
+    "unigram_w1": 111966,
+    "unigram_w2": 4738,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "夏季",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 111966,
+    "unigram_w2": 7402,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "在",
+    "pmi": 0.9378055796543838,
+    "cooc_count": 23873,
+    "unigram_w1": 57723,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "洛杉矶",
+    "pmi": 2.1355227572199706,
+    "cooc_count": 159,
+    "unigram_w1": 57723,
+    "unigram_w2": 4738,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "夏季",
+    "pmi": 0.5907753403244904,
+    "cooc_count": 53,
+    "unigram_w1": 57723,
+    "unigram_w2": 7402,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "蝶泳",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 2356497,
+    "unigram_w2": 70,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "洛杉矶",
+    "pmi": 0.5064743878756341,
+    "cooc_count": 1273,
+    "unigram_w1": 2356497,
+    "unigram_w2": 4738,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "夏季",
+    "pmi": 0.09659467667127336,
+    "cooc_count": 1320,
+    "unigram_w1": 2356497,
+    "unigram_w2": 7402,
+    "window_size": 10
+  },
+  {
+    "w1": "夏季",
+    "w2": "洛杉矶",
+    "pmi": 0.21913631731087332,
+    "cooc_count": 3,
+    "unigram_w1": 7402,
+    "unigram_w2": 4738,
+    "window_size": 10
+  }
+]

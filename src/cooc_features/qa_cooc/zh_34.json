@@ -1,0 +1,236 @@
+[
+  {
+    "w1": "帕尔哈",
+    "w2": "的",
+    "pmi": 0.09652222334479661,
+    "cooc_count": 20,
+    "unigram_w1": 26,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "西亚",
+    "pmi": 0.0,
+    "cooc_count": 420,
+    "unigram_w1": 10165533,
+    "unigram_w2": 1341,
+    "window_size": 10
+  },
+  {
+    "w1": "根据",
+    "w2": "西亚",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 73015,
+    "unigram_w2": 1341,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "西亚",
+    "pmi": 0.43886723250417187,
+    "cooc_count": 16,
+    "unigram_w1": 111966,
+    "unigram_w2": 1341,
+    "window_size": 10
+  },
+  {
+    "w1": "作家",
+    "w2": "古代",
+    "pmi": 0.8728894421134632,
+    "cooc_count": 13,
+    "unigram_w1": 7059,
+    "unigram_w2": 11197,
+    "window_size": 10
+  },
+  {
+    "w1": "作家",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 3732,
+    "unigram_w1": 7059,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "作家",
+    "w2": "说法",
+    "pmi": 0.35639979636560637,
+    "cooc_count": 6,
+    "unigram_w1": 7059,
+    "unigram_w2": 8662,
+    "window_size": 10
+  },
+  {
+    "w1": "作家",
+    "w2": "根据",
+    "pmi": 0.8988291890921354,
+    "cooc_count": 87,
+    "unigram_w1": 7059,
+    "unigram_w2": 73015,
+    "window_size": 10
+  },
+  {
+    "w1": "作家",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 7059,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6989,
+    "unigram_w1": 11197,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "说法",
+    "pmi": 1.1478202779962499,
+    "cooc_count": 21,
+    "unigram_w1": 11197,
+    "unigram_w2": 8662,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "根据",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 11197,
+    "unigram_w2": 73015,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "城市",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 11197,
+    "unigram_w2": 111966,
+    "window_size": 10
+  },
+  {
+    "w1": "某些",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 4685,
+    "unigram_w1": 7574,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "某些",
+    "w2": "说法",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 7574,
+    "unigram_w2": 8662,
+    "window_size": 10
+  },
+  {
+    "w1": "某些",
+    "w2": "根据",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 7574,
+    "unigram_w2": 73015,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "某些",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 111966,
+    "unigram_w2": 7574,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "说法",
+    "pmi": 0.010685614158988579,
+    "cooc_count": 6115,
+    "unigram_w1": 10165533,
+    "unigram_w2": 8662,
+    "window_size": 10
+  },
+  {
+    "w1": "根据",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 40061,
+    "unigram_w1": 73015,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 55217,
+    "unigram_w1": 111966,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "等同于",
+    "pmi": 0.0,
+    "cooc_count": 757,
+    "unigram_w1": 10165533,
+    "unigram_w2": 1131,
+    "window_size": 10
+  },
+  {
+    "w1": "哪座",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 16,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "根据",
+    "w2": "说法",
+    "pmi": 1.9050326283267338,
+    "cooc_count": 292,
+    "unigram_w1": 73015,
+    "unigram_w2": 8662,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "说法",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 111966,
+    "unigram_w2": 8662,
+    "window_size": 10
+  },
+  {
+    "w1": "城市",
+    "w2": "根据",
+    "pmi": 0.0,
+    "cooc_count": 341,
+    "unigram_w1": 111966,
+    "unigram_w2": 73015,
+    "window_size": 10
+  },
+  {
+    "w1": "哪座",
+    "w2": "城市",
+    "pmi": 3.4811550324261784,
+    "cooc_count": 4,
+    "unigram_w1": 16,
+    "unigram_w2": 111966,
+    "window_size": 10
+  }
+]

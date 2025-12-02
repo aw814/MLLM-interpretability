@@ -1,0 +1,191 @@
+[
+  {
+    "w1": "charlie",
+    "w2": "dei",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 2696,
+    "unigram_w2": 1307344,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 2696,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "era",
+    "pmi": 0.26549627841625345,
+    "cooc_count": 42,
+    "unigram_w1": 2696,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "protagonista",
+    "pmi": 1.9159277411143565,
+    "cooc_count": 26,
+    "unigram_w1": 2696,
+    "unigram_w2": 29802,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "prizzi",
+    "pmi": 2.416175569289538,
+    "cooc_count": 30,
+    "unigram_w1": 1307344,
+    "unigram_w2": 43,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 3118,
+    "unigram_w1": 1307344,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "partanna",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 1307344,
+    "unigram_w2": 125,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "romanzi",
+    "pmi": 0.8342945394344556,
+    "cooc_count": 1031,
+    "unigram_w1": 1307344,
+    "unigram_w2": 7188,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 8493,
+    "unigram_w1": 1307344,
+    "unigram_w2": 250781,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 489,
+    "unigram_w1": 1307344,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "dei",
+    "w2": "protagonista",
+    "pmi": 0.0,
+    "cooc_count": 945,
+    "unigram_w1": 1307344,
+    "unigram_w2": 29802,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "romanzi",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 88463,
+    "unigram_w2": 7188,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nome",
+    "pmi": 0.19084526926338127,
+    "cooc_count": 1279,
+    "unigram_w1": 250781,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "qual",
+    "pmi": 0.654118297226288,
+    "cooc_count": 168,
+    "unigram_w1": 88463,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "protagonista",
+    "pmi": 0.37650216348594906,
+    "cooc_count": 183,
+    "unigram_w1": 88463,
+    "unigram_w2": 29802,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "romanzi",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 250781,
+    "unigram_w2": 7188,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "romanzi",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 20727,
+    "unigram_w2": 7188,
+    "window_size": 10
+  },
+  {
+    "w1": "protagonista",
+    "w2": "romanzi",
+    "pmi": 1.9256826692709814,
+    "cooc_count": 70,
+    "unigram_w1": 29802,
+    "unigram_w2": 7188,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "qual",
+    "pmi": 0.4895735329693281,
+    "cooc_count": 404,
+    "unigram_w1": 250781,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "protagonista",
+    "pmi": 0.0,
+    "cooc_count": 353,
+    "unigram_w1": 250781,
+    "unigram_w2": 29802,
+    "window_size": 10
+  },
+  {
+    "w1": "protagonista",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 29802,
+    "unigram_w2": 20727,
+    "window_size": 10
+  }
+]

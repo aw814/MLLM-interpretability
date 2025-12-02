@@ -1,0 +1,65 @@
+[
+  {
+    "w1": "1964년",
+    "w2": "시작된",
+    "pmi": 2.6543281884398198,
+    "cooc_count": 13,
+    "unigram_w1": 435,
+    "unigram_w2": 4000,
+    "window_size": 10
+  },
+  {
+    "w1": "시작된",
+    "w2": "캐나다",
+    "pmi": 0.1393420967555245,
+    "cooc_count": 15,
+    "unigram_w1": 4000,
+    "unigram_w2": 6207,
+    "window_size": 10
+  },
+  {
+    "w1": "논쟁이",
+    "w2": "시작된",
+    "pmi": 0.9579746890444208,
+    "cooc_count": 2,
+    "unigram_w1": 365,
+    "unigram_w2": 4000,
+    "window_size": 10
+  },
+  {
+    "w1": "공식적으로",
+    "w2": "시작된",
+    "pmi": 2.2743130148933983,
+    "cooc_count": 29,
+    "unigram_w1": 1419,
+    "unigram_w2": 4000,
+    "window_size": 10
+  },
+  {
+    "w1": "논쟁이",
+    "w2": "캐나다",
+    "pmi": 0.9240564708409601,
+    "cooc_count": 3,
+    "unigram_w1": 365,
+    "unigram_w2": 6207,
+    "window_size": 10
+  },
+  {
+    "w1": "국기",
+    "w2": "캐나다",
+    "pmi": 2.0144831749226304,
+    "cooc_count": 9,
+    "unigram_w1": 368,
+    "unigram_w2": 6207,
+    "window_size": 10
+  },
+  {
+    "w1": "공식적으로",
+    "w2": "캐나다",
+    "pmi": 1.4120728377617398,
+    "cooc_count": 19,
+    "unigram_w1": 1419,
+    "unigram_w2": 6207,
+    "window_size": 10
+  }
+]

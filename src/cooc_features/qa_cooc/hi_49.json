@@ -1,0 +1,434 @@
+[
+  {
+    "w1": "आर्चर",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 292,
+    "unigram_w1": 895,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्चर",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 895,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्चर",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 895,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "आर्चर",
+    "w2": "ने",
+    "pmi": 1.0122881655626086,
+    "cooc_count": 284,
+    "unigram_w1": 895,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 124980,
+    "unigram_w1": 13050901,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 12263,
+    "unigram_w1": 574592,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 3767,
+    "unigram_w1": 574592,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "साझेदारी",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 574592,
+    "unigram_w2": 9293,
+    "window_size": 10
+  },
+  {
+    "w1": "कैपिटल",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 4064,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3251,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "मैनेजमेंट",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 574592,
+    "unigram_w2": 8614,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "खरीदा",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 574592,
+    "unigram_w2": 8822,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 27015,
+    "unigram_w1": 574592,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "ज्योग्राफिक",
+    "pmi": 0.34750591822120447,
+    "cooc_count": 50,
+    "unigram_w1": 13050901,
+    "unigram_w2": 76,
+    "window_size": 10
+  },
+  {
+    "w1": "ज्योग्राफिक",
+    "w2": "साथ",
+    "pmi": 0.08842022996628,
+    "cooc_count": 4,
+    "unigram_w1": 76,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "ज्योग्राफिक",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 76,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "साथ",
+    "pmi": 0.4295047892938408,
+    "cooc_count": 966091,
+    "unigram_w1": 13050901,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "ऑस्ट्रेलियन",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 401,
+    "unigram_w1": 1050,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 91233,
+    "unigram_w1": 13050901,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "साझेदारी",
+    "pmi": 0.16501820106145246,
+    "cooc_count": 5094,
+    "unigram_w1": 13050901,
+    "unigram_w2": 9293,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "कैपिटल",
+    "pmi": 0.0,
+    "cooc_count": 1205,
+    "unigram_w1": 13050901,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 3251,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "मैनेजमेंट",
+    "pmi": 0.0,
+    "cooc_count": 3082,
+    "unigram_w1": 13050901,
+    "unigram_w2": 8614,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "खरीदा",
+    "pmi": 0.0,
+    "cooc_count": 2512,
+    "unigram_w1": 13050901,
+    "unigram_w2": 8822,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 981046,
+    "unigram_w1": 13050901,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "ऑस्ट्रेलियन",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 1050,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "साथ",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 11499,
+    "unigram_w1": 1352851,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "साझेदारी",
+    "w2": "साथ",
+    "pmi": 1.519973087236671,
+    "cooc_count": 2047,
+    "unigram_w1": 9293,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "कैपिटल",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 4064,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3251,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "मैनेजमेंट",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 8614,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "खरीदा",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 257,
+    "unigram_w1": 8822,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "साथ",
+    "pmi": 0.0,
+    "cooc_count": 77881,
+    "unigram_w1": 3237935,
+    "unigram_w2": 1352851,
+    "window_size": 10
+  },
+  {
+    "w1": "ऑस्ट्रेलियन",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 1050,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "ऑस्ट्रेलियन",
+    "w2": "मैनेजमेंट",
+    "pmi": 3.078804624864349,
+    "cooc_count": 7,
+    "unigram_w1": 1050,
+    "unigram_w2": 8614,
+    "window_size": 10
+  },
+  {
+    "w1": "ऑस्ट्रेलियन",
+    "w2": "ने",
+    "pmi": 0.6631777166688478,
+    "cooc_count": 235,
+    "unigram_w1": 1050,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "साझेदारी",
+    "w2": "हुई",
+    "pmi": 0.7530693367994957,
+    "cooc_count": 228,
+    "unigram_w1": 9293,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "कैपिटल",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 4064,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "मैनेजमेंट",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 8614,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "खरीदा",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 8822,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "हुई",
+    "pmi": 0.0,
+    "cooc_count": 22907,
+    "unigram_w1": 3237935,
+    "unigram_w2": 324436,
+    "window_size": 10
+  },
+  {
+    "w1": "मैनेजमेंट",
+    "w2": "साझेदारी",
+    "pmi": 0.8983333604585787,
+    "cooc_count": 7,
+    "unigram_w1": 8614,
+    "unigram_w2": 9293,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "साझेदारी",
+    "pmi": 0.4176140453379565,
+    "cooc_count": 1627,
+    "unigram_w1": 3237935,
+    "unigram_w2": 9293,
+    "window_size": 10
+  },
+  {
+    "w1": "कैपिटल",
+    "w2": "मैनेजमेंट",
+    "pmi": 4.567008672484333,
+    "cooc_count": 120,
+    "unigram_w1": 4064,
+    "unigram_w2": 8614,
+    "window_size": 10
+  },
+  {
+    "w1": "कैपिटल",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 322,
+    "unigram_w1": 4064,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3251,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "मैनेजमेंट",
+    "pmi": 0.0,
+    "cooc_count": 972,
+    "unigram_w1": 3237935,
+    "unigram_w2": 8614,
+    "window_size": 10
+  },
+  {
+    "w1": "खरीदा",
+    "w2": "ने",
+    "pmi": 0.7128501976761714,
+    "cooc_count": 2075,
+    "unigram_w1": 8822,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  }
+]

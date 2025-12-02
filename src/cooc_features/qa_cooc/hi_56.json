@@ -1,0 +1,308 @@
+[
+  {
+    "w1": "के",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 124980,
+    "unigram_w1": 13050901,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 2749,
+    "unigram_w1": 574592,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 574592,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 94974,
+    "unigram_w1": 4769152,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "नाम",
+    "pmi": 0.8984487501426646,
+    "cooc_count": 18820,
+    "unigram_w1": 574592,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "ब्राजील",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 574592,
+    "unigram_w2": 5872,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "सीज़न",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 574592,
+    "unigram_w2": 2997,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 125829,
+    "unigram_w1": 13050901,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "डेट्रॉइट",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 13050901,
+    "unigram_w2": 115,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 8569,
+    "unigram_w1": 13050901,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 1196095,
+    "unigram_w1": 4769152,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "फ़ुटबॉल",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 13050901,
+    "unigram_w2": 646,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "नाम",
+    "pmi": 0.0,
+    "cooc_count": 159913,
+    "unigram_w1": 13050901,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "लॉयड",
+    "pmi": 0.04943746798616718,
+    "cooc_count": 230,
+    "unigram_w1": 13050901,
+    "unigram_w2": 471,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "ब्राजील",
+    "pmi": 0.0,
+    "cooc_count": 2551,
+    "unigram_w1": 13050901,
+    "unigram_w2": 5872,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 445,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "सीज़न",
+    "pmi": 0.06199699161875854,
+    "cooc_count": 1482,
+    "unigram_w1": 13050901,
+    "unigram_w2": 2997,
+    "window_size": 10
+  },
+  {
+    "w1": "यूनिवर्सिटी",
+    "w2": "साल",
+    "pmi": 0.2999867146199788,
+    "cooc_count": 384,
+    "unigram_w1": 21847,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 50728,
+    "unigram_w1": 4769152,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "फ़ुटबॉल",
+    "w2": "साल",
+    "pmi": 0.17294864256978862,
+    "cooc_count": 10,
+    "unigram_w1": 646,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 2796,
+    "unigram_w1": 374518,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "लॉयड",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 471,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "ब्राजील",
+    "w2": "साल",
+    "pmi": 0.30760338220536576,
+    "cooc_count": 104,
+    "unigram_w1": 5872,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "साल",
+    "w2": "सीज़न",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 365646,
+    "unigram_w2": 2997,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "डेट्रॉइट",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 4769152,
+    "unigram_w2": 115,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 2244,
+    "unigram_w1": 4769152,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "यूनिवर्सिटी",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 374518,
+    "unigram_w2": 21847,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "फ़ुटबॉल",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 4769152,
+    "unigram_w2": 646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "नाम",
+    "pmi": 0.7191745308245234,
+    "cooc_count": 130570,
+    "unigram_w1": 4769152,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "लॉयड",
+    "pmi": 0.02476606854009193,
+    "cooc_count": 82,
+    "unigram_w1": 4769152,
+    "unigram_w2": 471,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "ब्राजील",
+    "pmi": 0.0,
+    "cooc_count": 745,
+    "unigram_w1": 4769152,
+    "unigram_w2": 5872,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "सीज़न",
+    "pmi": 0.0,
+    "cooc_count": 412,
+    "unigram_w1": 4769152,
+    "unigram_w2": 2997,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "ब्राजील",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 374518,
+    "unigram_w2": 5872,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "सीज़न",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 374518,
+    "unigram_w2": 2997,
+    "window_size": 10
+  }
+]

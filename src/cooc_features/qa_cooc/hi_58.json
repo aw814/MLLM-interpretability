@@ -1,0 +1,920 @@
+[
+  {
+    "w1": "ओलंपिक",
+    "w2": "फ़ाइनल",
+    "pmi": 5.342200364057227,
+    "cooc_count": 43,
+    "unigram_w1": 10137,
+    "unigram_w2": 570,
+    "window_size": 10
+  },
+  {
+    "w1": "फ़ाइनल",
+    "w2": "हुआ",
+    "pmi": 0.19293425045617676,
+    "cooc_count": 10,
+    "unigram_w1": 570,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "फ़ाइनल",
+    "pmi": 0.0,
+    "cooc_count": 262,
+    "unigram_w1": 13050901,
+    "unigram_w2": 570,
+    "window_size": 10
+  },
+  {
+    "w1": "फ़ाइनल",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 570,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "फ़ाइनल",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 4769152,
+    "unigram_w2": 570,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "फ़ाइनल",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 7553000,
+    "unigram_w2": 570,
+    "window_size": 10
+  },
+  {
+    "w1": "फ़ाइनल",
+    "w2": "मीटर",
+    "pmi": 3.573552086958093,
+    "cooc_count": 20,
+    "unigram_w1": 570,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "पुरुषों",
+    "w2": "प्रतियोगिता",
+    "pmi": 0.10046539058373725,
+    "cooc_count": 23,
+    "unigram_w1": 26683,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "प्रतियोगिता",
+    "w2": "शहर",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 21891,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "प्रतियोगिता",
+    "pmi": 2.236870829962701,
+    "cooc_count": 74,
+    "unigram_w1": 10137,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "प्रतियोगिता",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 233,
+    "unigram_w1": 21891,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "प्रतियोगिता",
+    "pmi": 0.0,
+    "cooc_count": 7321,
+    "unigram_w1": 13050901,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "प्रतियोगिता",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 21891,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "प्रतियोगिता",
+    "pmi": 0.2585653670907527,
+    "cooc_count": 4815,
+    "unigram_w1": 4769152,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "प्रतियोगिता",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 27190,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "प्रतियोगिता",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 340928,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "प्रतियोगिता",
+    "pmi": 0.0,
+    "cooc_count": 4575,
+    "unigram_w1": 7553000,
+    "unigram_w2": 21891,
+    "window_size": 10
+  },
+  {
+    "w1": "प्रतियोगिता",
+    "w2": "मीटर",
+    "pmi": 1.104012571694605,
+    "cooc_count": 65,
+    "unigram_w1": 21891,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "प्रतियोगिता",
+    "w2": "लॉस",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 21891,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "पुरुषों",
+    "w2": "शहर",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 26683,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "पुरुषों",
+    "pmi": 1.1360520533680731,
+    "cooc_count": 30,
+    "unigram_w1": 10137,
+    "unigram_w2": 26683,
+    "window_size": 10
+  },
+  {
+    "w1": "पुरुषों",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 26683,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "पुरुषों",
+    "pmi": 0.002382947384761449,
+    "cooc_count": 12431,
+    "unigram_w1": 13050901,
+    "unigram_w2": 26683,
+    "window_size": 10
+  },
+  {
+    "w1": "पुरुषों",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 234,
+    "unigram_w1": 26683,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "पुरुषों",
+    "pmi": 0.0,
+    "cooc_count": 3486,
+    "unigram_w1": 4769152,
+    "unigram_w2": 26683,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "पुरुषों",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 27190,
+    "unigram_w2": 26683,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "पुरुषों",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 340928,
+    "unigram_w2": 26683,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "पुरुषों",
+    "pmi": 0.10013320709473496,
+    "cooc_count": 7933,
+    "unigram_w1": 7553000,
+    "unigram_w2": 26683,
+    "window_size": 10
+  },
+  {
+    "w1": "पुरुषों",
+    "w2": "मीटर",
+    "pmi": 1.5914866411080266,
+    "cooc_count": 129,
+    "unigram_w1": 26683,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "पुरुषों",
+    "w2": "लॉस",
+    "pmi": 0.8209207315285802,
+    "cooc_count": 14,
+    "unigram_w1": 26683,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "शहर",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 10137,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "शहर",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 1520,
+    "unigram_w1": 123014,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "शहर",
+    "pmi": 0.07543997327278762,
+    "cooc_count": 61653,
+    "unigram_w1": 13050901,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "शहर",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 860,
+    "unigram_w1": 123014,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "शहर",
+    "pmi": 0.0,
+    "cooc_count": 18872,
+    "unigram_w1": 4769152,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "शहर",
+    "pmi": 0.8714248200560428,
+    "cooc_count": 3570,
+    "unigram_w1": 340928,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "एंजिल्स",
+    "w2": "शहर",
+    "pmi": 0.8615633982348981,
+    "cooc_count": 9,
+    "unigram_w1": 868,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "शहर",
+    "pmi": 0.0,
+    "cooc_count": 23761,
+    "unigram_w1": 7553000,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "शहर",
+    "w2": "समर",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 123014,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "मीटर",
+    "w2": "शहर",
+    "pmi": 0.0,
+    "cooc_count": 121,
+    "unigram_w1": 27643,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "लॉस",
+    "w2": "शहर",
+    "pmi": 0.6609250756165043,
+    "cooc_count": 55,
+    "unigram_w1": 6483,
+    "unigram_w2": 123014,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 10137,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 3822,
+    "unigram_w1": 10137,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "साल",
+    "pmi": 0.9432157853563953,
+    "cooc_count": 339,
+    "unigram_w1": 10137,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "का",
+    "pmi": 0.0,
+    "cooc_count": 1324,
+    "unigram_w1": 10137,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "किस",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 10137,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 1861,
+    "unigram_w1": 10137,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "समर",
+    "pmi": 1.3092336312177837,
+    "cooc_count": 4,
+    "unigram_w1": 10137,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "मीटर",
+    "pmi": 2.426896617562639,
+    "cooc_count": 113,
+    "unigram_w1": 10137,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "ओलंपिक",
+    "w2": "लॉस",
+    "pmi": 1.2291395056971013,
+    "cooc_count": 8,
+    "unigram_w1": 10137,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 102273,
+    "unigram_w1": 13050901,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "साल",
+    "w2": "हुआ",
+    "pmi": 0.0363369597837415,
+    "cooc_count": 5485,
+    "unigram_w1": 365646,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "हुआ",
+    "pmi": 0.3785153254248103,
+    "cooc_count": 100731,
+    "unigram_w1": 4769152,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 27190,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "हुआ",
+    "pmi": 0.7261135189140429,
+    "cooc_count": 10194,
+    "unigram_w1": 340928,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 2236,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 51514,
+    "unigram_w1": 7553000,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "समर",
+    "w2": "हुआ",
+    "pmi": 0.34316204336967016,
+    "cooc_count": 61,
+    "unigram_w1": 2992,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "मीटर",
+    "w2": "हुआ",
+    "pmi": 0.0,
+    "cooc_count": 239,
+    "unigram_w1": 27643,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "लॉस",
+    "w2": "हुआ",
+    "pmi": 0.0741673899569907,
+    "cooc_count": 101,
+    "unigram_w1": 6483,
+    "unigram_w2": 406199,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 125829,
+    "unigram_w1": 13050901,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 1196095,
+    "unigram_w1": 4769152,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 427,
+    "unigram_w1": 27190,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 101519,
+    "unigram_w1": 340928,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 2236,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "एंजिल्स",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 326,
+    "unigram_w1": 868,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 1949578,
+    "unigram_w1": 7553000,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "समर",
+    "pmi": 0.0,
+    "cooc_count": 1128,
+    "unigram_w1": 13050901,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "मीटर",
+    "pmi": 0.0,
+    "cooc_count": 7837,
+    "unigram_w1": 13050901,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "लॉस",
+    "pmi": 0.0,
+    "cooc_count": 2095,
+    "unigram_w1": 13050901,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 50728,
+    "unigram_w1": 4769152,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 27190,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 340928,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2236,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "एंजिल्स",
+    "w2": "साल",
+    "pmi": 0.34756006093777564,
+    "cooc_count": 16,
+    "unigram_w1": 868,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 97685,
+    "unigram_w1": 7553000,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "समर",
+    "w2": "साल",
+    "pmi": 0.5421583336549428,
+    "cooc_count": 67,
+    "unigram_w1": 2992,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "मीटर",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 222,
+    "unigram_w1": 27643,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "लॉस",
+    "w2": "साल",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 6483,
+    "unigram_w2": 365646,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "का",
+    "pmi": 0.0,
+    "cooc_count": 223,
+    "unigram_w1": 27190,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "किस",
+    "pmi": 0.4672848221998535,
+    "cooc_count": 92393,
+    "unigram_w1": 4769152,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "का",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 2236,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "एंजिल्स",
+    "w2": "का",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 868,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 626901,
+    "unigram_w1": 4769152,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "समर",
+    "pmi": 0.0,
+    "cooc_count": 490,
+    "unigram_w1": 4769152,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "मीटर",
+    "pmi": 0.0,
+    "cooc_count": 3391,
+    "unigram_w1": 4769152,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "लॉस",
+    "pmi": 0.0,
+    "cooc_count": 720,
+    "unigram_w1": 4769152,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 4.087348017034826,
+    "cooc_count": 129,
+    "unigram_w1": 27190,
+    "unigram_w2": 2236,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 390,
+    "unigram_w1": 27190,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "मीटर",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 27190,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "किस",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2236,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 73287,
+    "unigram_w1": 340928,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "समर",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 340928,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "मीटर",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 340928,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "लॉस",
+    "pmi": 0.1228551188551339,
+    "cooc_count": 89,
+    "unigram_w1": 340928,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 2236,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "एंजिल्स",
+    "w2": "की",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 868,
+    "unigram_w2": 7553000,
+    "window_size": 10
+  },
+  {
+    "w1": "एंजिल्स",
+    "w2": "लॉस",
+    "pmi": 8.224856602713793,
+    "cooc_count": 748,
+    "unigram_w1": 868,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "समर",
+    "pmi": 0.0,
+    "cooc_count": 425,
+    "unigram_w1": 7553000,
+    "unigram_w2": 2992,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "मीटर",
+    "pmi": 0.12898702324112712,
+    "cooc_count": 8459,
+    "unigram_w1": 7553000,
+    "unigram_w2": 27643,
+    "window_size": 10
+  },
+  {
+    "w1": "की",
+    "w2": "लॉस",
+    "pmi": 0.0,
+    "cooc_count": 777,
+    "unigram_w1": 7553000,
+    "unigram_w2": 6483,
+    "window_size": 10
+  },
+  {
+    "w1": "मीटर",
+    "w2": "लॉस",
+    "pmi": 0.09242767811301544,
+    "cooc_count": 7,
+    "unigram_w1": 27643,
+    "unigram_w2": 6483,
+    "window_size": 10
+  }
+]

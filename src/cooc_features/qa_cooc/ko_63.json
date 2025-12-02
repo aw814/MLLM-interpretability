@@ -1,0 +1,47 @@
+[
+  {
+    "w1": "병원",
+    "w2": "이름은",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 4596,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "원래",
+    "w2": "이름은",
+    "pmi": 3.7159156597600957,
+    "cooc_count": 351,
+    "unigram_w1": 5694,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "병원",
+    "w2": "종합병원의",
+    "pmi": 4.213454106769557,
+    "cooc_count": 8,
+    "unigram_w1": 4596,
+    "unigram_w2": 49,
+    "window_size": 10
+  },
+  {
+    "w1": "병원",
+    "w2": "원래",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 4596,
+    "unigram_w2": 5694,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "무엇입니까?",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 28050,
+    "unigram_w2": 3117,
+    "window_size": 10
+  }
+]

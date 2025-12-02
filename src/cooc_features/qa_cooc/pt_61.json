@@ -1,0 +1,893 @@
+[
+  {
+    "w1": "in",
+    "w2": "lançada",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 179136,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "that",
+    "pmi": 2.3579010620092697,
+    "cooc_count": 4902,
+    "unigram_w1": 179136,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 3099,
+    "unigram_w1": 179136,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "música",
+    "pmi": 0.0,
+    "cooc_count": 392,
+    "unigram_w1": 179136,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "s",
+    "pmi": 0.7202112389451583,
+    "cooc_count": 6714,
+    "unigram_w1": 179136,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "what",
+    "pmi": 2.0228582111909326,
+    "cooc_count": 928,
+    "unigram_w1": 179136,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 221,
+    "unigram_w1": 179136,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "is",
+    "pmi": 2.3082009918764843,
+    "cooc_count": 9023,
+    "unigram_w1": 179136,
+    "unigram_w2": 70879,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "in",
+    "pmi": 0.0,
+    "cooc_count": 836,
+    "unigram_w1": 642224,
+    "unigram_w2": 179136,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "love",
+    "pmi": 1.9200086092118398,
+    "cooc_count": 1175,
+    "unigram_w1": 179136,
+    "unigram_w2": 13608,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "in",
+    "pmi": 2.422081697661213,
+    "cooc_count": 406,
+    "unigram_w1": 2846,
+    "unigram_w2": 179136,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "motion",
+    "pmi": 2.275795772039945,
+    "cooc_count": 149,
+    "unigram_w1": 179136,
+    "unigram_w2": 1209,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "in",
+    "pmi": 1.5619560006718243,
+    "cooc_count": 9357,
+    "unigram_w1": 155022,
+    "unigram_w2": 179136,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 226,
+    "unigram_w1": 179136,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "lançada",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 667,
+    "unigram_w1": 6542,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "lançada",
+    "w2": "música",
+    "pmi": 1.4443593579483924,
+    "cooc_count": 133,
+    "unigram_w1": 6542,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "lançada",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 6542,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "lançada",
+    "w2": "álbum",
+    "pmi": 2.306339771942272,
+    "cooc_count": 88,
+    "unigram_w1": 6542,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "lançada",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 70879,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "lançada",
+    "pmi": 1.918450649591892,
+    "cooc_count": 2022,
+    "unigram_w1": 642224,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "lançada",
+    "w2": "love",
+    "pmi": 0.7999448770256354,
+    "cooc_count": 14,
+    "unigram_w1": 6542,
+    "unigram_w2": 13608,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "lançada",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 155022,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "lançada",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 6542,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 234,
+    "unigram_w1": 36640,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "música",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 67866,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": 1.167558271120992,
+    "cooc_count": 2148,
+    "unigram_w1": 258109,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 2.975309948984099,
+    "cooc_count": 492,
+    "unigram_w1": 36640,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 36640,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "that",
+    "pmi": 3.565074880836306,
+    "cooc_count": 6486,
+    "unigram_w1": 70879,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 642224,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": 2.0869641748818455,
+    "cooc_count": 284,
+    "unigram_w1": 13608,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "that",
+    "pmi": 2.113607156319851,
+    "cooc_count": 61,
+    "unigram_w1": 2846,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "that",
+    "pmi": 2.2261500501680187,
+    "cooc_count": 29,
+    "unigram_w1": 1209,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": 1.8828570827602302,
+    "cooc_count": 2638,
+    "unigram_w1": 155022,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 104023,
+    "unigram_w2": 36640,
+    "window_size": 10
+  },
+  {
+    "w1": "música",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 8306,
+    "unigram_w1": 67866,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 7622,
+    "unigram_w1": 258109,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 9697,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "álbum",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 1866,
+    "unigram_w1": 18964,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 893,
+    "unigram_w1": 70879,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 27163,
+    "unigram_w1": 642224,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 428,
+    "unigram_w1": 13608,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 2846,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 1209,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 5999,
+    "unigram_w1": 155022,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "é",
+    "pmi": 0.09999465587685133,
+    "cooc_count": 17516,
+    "unigram_w1": 104023,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "música",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 326,
+    "unigram_w1": 67866,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "música",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 67866,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "música",
+    "w2": "álbum",
+    "pmi": 2.0521548074966787,
+    "cooc_count": 708,
+    "unigram_w1": 67866,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "música",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 70879,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "música",
+    "pmi": 0.0,
+    "cooc_count": 2396,
+    "unigram_w1": 642224,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "música",
+    "pmi": 1.0145521546394805,
+    "cooc_count": 180,
+    "unigram_w1": 13608,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "música",
+    "pmi": 0.09438886027737992,
+    "cooc_count": 15,
+    "unigram_w1": 2846,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "música",
+    "pmi": 0.0,
+    "cooc_count": 132,
+    "unigram_w1": 155022,
+    "unigram_w2": 67866,
+    "window_size": 10
+  },
+  {
+    "w1": "música",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 445,
+    "unigram_w1": 67866,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 1.876445418931651,
+    "cooc_count": 1155,
+    "unigram_w1": 258109,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 180,
+    "unigram_w1": 258109,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "s",
+    "pmi": 0.7898044299848751,
+    "cooc_count": 2848,
+    "unigram_w1": 70879,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 2872,
+    "unigram_w1": 642224,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": 0.5116144740299199,
+    "cooc_count": 414,
+    "unigram_w1": 13608,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "s",
+    "pmi": 1.1564373295310864,
+    "cooc_count": 165,
+    "unigram_w1": 2846,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 1209,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": 0.099708823926513,
+    "cooc_count": 3124,
+    "unigram_w1": 155022,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 1396,
+    "unigram_w1": 104023,
+    "unigram_w2": 258109,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "álbum",
+    "pmi": 0.8366267089200039,
+    "cooc_count": 30,
+    "unigram_w1": 9697,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "what",
+    "pmi": 3.8141188917351885,
+    "cooc_count": 2202,
+    "unigram_w1": 70879,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 642224,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": 2.9876697422824847,
+    "cooc_count": 185,
+    "unigram_w1": 13608,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "what",
+    "pmi": 2.165270616686276,
+    "cooc_count": 17,
+    "unigram_w1": 2846,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "what",
+    "pmi": 2.3854027780012843,
+    "cooc_count": 9,
+    "unigram_w1": 1209,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 2.0400438248264936,
+    "cooc_count": 817,
+    "unigram_w1": 155022,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 104023,
+    "unigram_w2": 9697,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 70879,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "álbum",
+    "pmi": 0.2828451243037509,
+    "cooc_count": 1142,
+    "unigram_w1": 642224,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "álbum",
+    "pmi": 1.67129900999008,
+    "cooc_count": 97,
+    "unigram_w1": 13608,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "álbum",
+    "pmi": 2.028627216899071,
+    "cooc_count": 29,
+    "unigram_w1": 2846,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "álbum",
+    "pmi": 2.082401672409139,
+    "cooc_count": 13,
+    "unigram_w1": 1209,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 155022,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "álbum",
+    "pmi": 0.5136723116093386,
+    "cooc_count": 233,
+    "unigram_w1": 104023,
+    "unigram_w2": 18964,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "is",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 642224,
+    "unigram_w2": 70879,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "love",
+    "pmi": 2.7441804657875246,
+    "cooc_count": 1060,
+    "unigram_w1": 70879,
+    "unigram_w2": 13608,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "is",
+    "pmi": 2.7319713639238126,
+    "cooc_count": 219,
+    "unigram_w1": 2846,
+    "unigram_w2": 70879,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "motion",
+    "pmi": 1.8099384747865412,
+    "cooc_count": 37,
+    "unigram_w1": 70879,
+    "unigram_w2": 1209,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "is",
+    "pmi": 2.269104671543626,
+    "cooc_count": 7509,
+    "unigram_w1": 155022,
+    "unigram_w2": 70879,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 83,
+    "unigram_w1": 70879,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "love",
+    "pmi": 0.0,
+    "cooc_count": 279,
+    "unigram_w1": 642224,
+    "unigram_w2": 13608,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "heart",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 642224,
+    "unigram_w2": 2846,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 642224,
+    "unigram_w2": 1209,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "for",
+    "pmi": 0.0,
+    "cooc_count": 560,
+    "unigram_w1": 642224,
+    "unigram_w2": 155022,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 3657,
+    "unigram_w1": 642224,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "love",
+    "pmi": 3.6181887901431793,
+    "cooc_count": 102,
+    "unigram_w1": 2846,
+    "unigram_w2": 13608,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "motion",
+    "pmi": 2.41428626235545,
+    "cooc_count": 13,
+    "unigram_w1": 13608,
+    "unigram_w2": 1209,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": 1.3217129073504383,
+    "cooc_count": 559,
+    "unigram_w1": 155022,
+    "unigram_w2": 13608,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 13608,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "motion",
+    "pmi": 3.4935218019996492,
+    "cooc_count": 8,
+    "unigram_w1": 2846,
+    "unigram_w2": 1209,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "heart",
+    "pmi": 1.347798532403285,
+    "cooc_count": 120,
+    "unigram_w1": 155022,
+    "unigram_w2": 2846,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2846,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "motion",
+    "pmi": 1.0799893637858908,
+    "cooc_count": 39,
+    "unigram_w1": 155022,
+    "unigram_w2": 1209,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 392,
+    "unigram_w1": 155022,
+    "unigram_w2": 104023,
+    "window_size": 10
+  }
+]

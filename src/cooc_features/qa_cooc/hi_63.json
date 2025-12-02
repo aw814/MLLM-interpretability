@@ -1,0 +1,317 @@
+[
+  {
+    "w1": "क्या",
+    "w2": "मूल",
+    "pmi": 0.15026701948832916,
+    "cooc_count": 1526,
+    "unigram_w1": 574592,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 94974,
+    "unigram_w1": 4769152,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "नाम",
+    "pmi": 0.8984487501426646,
+    "cooc_count": 18820,
+    "unigram_w1": 574592,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "जनरल",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 574592,
+    "unigram_w2": 27348,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "है",
+    "pmi": 0.6246679631603649,
+    "cooc_count": 246106,
+    "unigram_w1": 574592,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "बी",
+    "pmi": 0.0,
+    "cooc_count": 524,
+    "unigram_w1": 574592,
+    "unigram_w2": 46531,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "ग्रेड",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 574592,
+    "unigram_w2": 9980,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 76137,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "मूल",
+    "pmi": 0.26726796672689074,
+    "cooc_count": 14238,
+    "unigram_w1": 4769152,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "मूल",
+    "pmi": 0.7175363384077874,
+    "cooc_count": 1754,
+    "unigram_w1": 374518,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "जनरल",
+    "w2": "मूल",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 27348,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "मूल",
+    "w2": "है",
+    "pmi": 0.14098725925873185,
+    "cooc_count": 16945,
+    "unigram_w1": 64171,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "बी",
+    "w2": "मूल",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 46531,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "ग्रेड",
+    "w2": "मूल",
+    "pmi": 0.634139056733529,
+    "cooc_count": 43,
+    "unigram_w1": 9980,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "मूल",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 76137,
+    "unigram_w2": 64171,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "नाम",
+    "pmi": 0.7191745308245234,
+    "cooc_count": 130570,
+    "unigram_w1": 4769152,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "जनरल",
+    "pmi": 0.0,
+    "cooc_count": 3891,
+    "unigram_w1": 4769152,
+    "unigram_w2": 27348,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 1038165,
+    "unigram_w1": 4769152,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "बी",
+    "pmi": 0.0,
+    "cooc_count": 5728,
+    "unigram_w1": 4769152,
+    "unigram_w2": 46531,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "ग्रेड",
+    "pmi": 0.0,
+    "cooc_count": 1146,
+    "unigram_w1": 4769152,
+    "unigram_w2": 9980,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "का",
+    "pmi": 0.0,
+    "cooc_count": 7962,
+    "unigram_w1": 76137,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "जनरल",
+    "w2": "नाम",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 27348,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 80269,
+    "unigram_w1": 374518,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "बी",
+    "pmi": 0.0,
+    "cooc_count": 418,
+    "unigram_w1": 374518,
+    "unigram_w2": 46531,
+    "window_size": 10
+  },
+  {
+    "w1": "ग्रेड",
+    "w2": "नाम",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 9980,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "नाम",
+    "pmi": 0.0,
+    "cooc_count": 376,
+    "unigram_w1": 76137,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "जनरल",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 2066,
+    "unigram_w1": 27348,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "जनरल",
+    "w2": "बी",
+    "pmi": 1.8067121351395177,
+    "cooc_count": 276,
+    "unigram_w1": 27348,
+    "unigram_w2": 46531,
+    "window_size": 10
+  },
+  {
+    "w1": "ग्रेड",
+    "w2": "जनरल",
+    "pmi": 2.0565802765217973,
+    "cooc_count": 76,
+    "unigram_w1": 9980,
+    "unigram_w2": 27348,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "जनरल",
+    "pmi": 0.5614301279395446,
+    "cooc_count": 130,
+    "unigram_w1": 76137,
+    "unigram_w2": 27348,
+    "window_size": 10
+  },
+  {
+    "w1": "बी",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 5838,
+    "unigram_w1": 46531,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "ग्रेड",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 952,
+    "unigram_w1": 9980,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 6816,
+    "unigram_w1": 76137,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "ग्रेड",
+    "w2": "बी",
+    "pmi": 3.1424065683311886,
+    "cooc_count": 383,
+    "unigram_w1": 9980,
+    "unigram_w2": 46531,
+    "window_size": 10
+  },
+  {
+    "w1": "अस्पताल",
+    "w2": "बी",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 76137,
+    "unigram_w2": 46531,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,713 @@
+[
+  {
+    "w1": "26",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 2989,
+    "unigram_w1": 99229,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 476,
+    "unigram_w1": 99229,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 4760,
+    "unigram_w1": 99229,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "giochi",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 99229,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "gara",
+    "pmi": 0.0,
+    "cooc_count": 174,
+    "unigram_w1": 99229,
+    "unigram_w2": 52754,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "ai",
+    "pmi": 0.0,
+    "cooc_count": 856,
+    "unigram_w1": 99229,
+    "unigram_w2": 441209,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 99229,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "maschile",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 99229,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "asiatici",
+    "pmi": 0.47591658355830313,
+    "cooc_count": 9,
+    "unigram_w1": 99229,
+    "unigram_w2": 1183,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "lancio",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 99229,
+    "unigram_w2": 12463,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "26",
+    "pmi": 1.8675920953579224,
+    "cooc_count": 2801,
+    "unigram_w1": 91550,
+    "unigram_w2": 99229,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "novembre",
+    "pmi": 2.075725547727983,
+    "cooc_count": 4116,
+    "unigram_w1": 99229,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "si",
+    "pmi": 0.9041164202568168,
+    "cooc_count": 65192,
+    "unigram_w1": 296360,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "si",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 280560,
+    "unigram_w1": 1869781,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 1985,
+    "unigram_w1": 57019,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 3493,
+    "unigram_w1": 52754,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 28325,
+    "unigram_w1": 441209,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "si",
+    "w2": "svolta",
+    "pmi": 1.0459024676466924,
+    "cooc_count": 4401,
+    "unigram_w1": 1869781,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "maschile",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 618,
+    "unigram_w1": 13241,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 1183,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "lancio",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 440,
+    "unigram_w1": 12463,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 2503,
+    "unigram_w1": 91550,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 4279,
+    "unigram_w1": 109252,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "giavellotto",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 353,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "è",
+    "pmi": 0.07604865721983772,
+    "cooc_count": 49973,
+    "unigram_w1": 296360,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 405,
+    "unigram_w1": 57019,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 331,
+    "unigram_w1": 52754,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 2869,
+    "unigram_w1": 441209,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "quando",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 218,
+    "unigram_w1": 296360,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "maschile",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 13241,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1183,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "lancio",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 12463,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 837,
+    "unigram_w1": 91550,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "quando",
+    "pmi": 0.0,
+    "cooc_count": 754,
+    "unigram_w1": 109252,
+    "unigram_w2": 296360,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 3296,
+    "unigram_w1": 57019,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 5129,
+    "unigram_w1": 52754,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 37114,
+    "unigram_w1": 441209,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "svolta",
+    "w2": "è",
+    "pmi": 0.7235514140028086,
+    "cooc_count": 5594,
+    "unigram_w1": 17362,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "maschile",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 1398,
+    "unigram_w1": 13241,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 1183,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "lancio",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 1221,
+    "unigram_w1": 12463,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 5000,
+    "unigram_w1": 91550,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 6661,
+    "unigram_w1": 109252,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "giavellotto",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 353,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "giochi",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 52754,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "giochi",
+    "pmi": 0.7901855820853148,
+    "cooc_count": 2641,
+    "unigram_w1": 441209,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 57019,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "maschile",
+    "pmi": 0.0009922179700233237,
+    "cooc_count": 36,
+    "unigram_w1": 57019,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "lancio",
+    "pmi": 0.3698473991379199,
+    "cooc_count": 49,
+    "unigram_w1": 57019,
+    "unigram_w2": 12463,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "giochi",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 91550,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 57019,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "giavellotto",
+    "w2": "giochi",
+    "pmi": 2.5269852277083737,
+    "cooc_count": 12,
+    "unigram_w1": 353,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "gara",
+    "pmi": 0.0,
+    "cooc_count": 679,
+    "unigram_w1": 441209,
+    "unigram_w2": 52754,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "svolta",
+    "pmi": 0.6550691915047414,
+    "cooc_count": 84,
+    "unigram_w1": 52754,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "maschile",
+    "pmi": 1.4510452838746848,
+    "cooc_count": 142,
+    "unigram_w1": 52754,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "lancio",
+    "pmi": 0.3844134442758989,
+    "cooc_count": 46,
+    "unigram_w1": 52754,
+    "unigram_w2": 12463,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "gara",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 91550,
+    "unigram_w2": 52754,
+    "window_size": 10
+  },
+  {
+    "w1": "gara",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 52754,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 441209,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "maschile",
+    "pmi": 0.0,
+    "cooc_count": 154,
+    "unigram_w1": 441209,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "asiatici",
+    "pmi": 0.6578046413244942,
+    "cooc_count": 48,
+    "unigram_w1": 441209,
+    "unigram_w2": 1183,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "lancio",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 441209,
+    "unigram_w2": 12463,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "ai",
+    "pmi": 0.0,
+    "cooc_count": 704,
+    "unigram_w1": 91550,
+    "unigram_w2": 441209,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 889,
+    "unigram_w1": 441209,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "giavellotto",
+    "pmi": 0.5608937949232301,
+    "cooc_count": 13,
+    "unigram_w1": 441209,
+    "unigram_w2": 353,
+    "window_size": 10
+  },
+  {
+    "w1": "maschile",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 13241,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "svolta",
+    "pmi": 0.021838406530337622,
+    "cooc_count": 1,
+    "unigram_w1": 1183,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "lancio",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 12463,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "svolta",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 91550,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "svolta",
+    "pmi": 0.5331874534959257,
+    "cooc_count": 154,
+    "unigram_w1": 109252,
+    "unigram_w2": 17362,
+    "window_size": 10
+  },
+  {
+    "w1": "lancio",
+    "w2": "maschile",
+    "pmi": 0.6461437713965542,
+    "cooc_count": 15,
+    "unigram_w1": 12463,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "maschile",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 91550,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "maschile",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 13241,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "giavellotto",
+    "w2": "maschile",
+    "pmi": 4.497877320741415,
+    "cooc_count": 20,
+    "unigram_w1": 353,
+    "unigram_w2": 13241,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1183,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "lancio",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 91550,
+    "unigram_w2": 12463,
+    "window_size": 10
+  },
+  {
+    "w1": "lancio",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 12463,
+    "unigram_w2": 109252,
+    "window_size": 10
+  },
+  {
+    "w1": "giavellotto",
+    "w2": "lancio",
+    "pmi": 6.040035683179011,
+    "cooc_count": 88,
+    "unigram_w1": 353,
+    "unigram_w2": 12463,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "novembre",
+    "pmi": 2.1410928169433388,
+    "cooc_count": 4054,
+    "unigram_w1": 91550,
+    "unigram_w2": 109252,
+    "window_size": 10
+  }
+]

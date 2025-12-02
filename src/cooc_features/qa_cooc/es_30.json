@@ -1,0 +1,704 @@
+[
+  {
+    "w1": "cuál",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 37292,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "fue",
+    "pmi": 0.6089592742213863,
+    "cooc_count": 1418,
+    "unigram_w1": 37292,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "posición",
+    "pmi": 0.5820108378835038,
+    "cooc_count": 150,
+    "unigram_w1": 37292,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "joseph",
+    "pmi": 0.16786798677550682,
+    "cooc_count": 8,
+    "unigram_w1": 37292,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 322,
+    "unigram_w1": 457586,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 37292,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 37292,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 37292,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 11698,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "era",
+    "pmi": 1.1046164091537798,
+    "cooc_count": 1187,
+    "unigram_w1": 37292,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 10903,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "guerra",
+    "pmi": 0.2957592685851232,
+    "cooc_count": 1482,
+    "unigram_w1": 364785,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "posición",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 53310,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "joseph",
+    "pmi": 0.37013867031070674,
+    "cooc_count": 14,
+    "unigram_w1": 53310,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 968,
+    "unigram_w1": 457586,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "segunda",
+    "pmi": 2.797601264661257,
+    "cooc_count": 4274,
+    "unigram_w1": 53310,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "guerra",
+    "w2": "mundial",
+    "pmi": 3.5604447017519525,
+    "cooc_count": 7397,
+    "unigram_w1": 53310,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "guerra",
+    "pmi": 1.4343323200474198,
+    "cooc_count": 2865,
+    "unigram_w1": 225859,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "guerra",
+    "pmi": 0.888849010895503,
+    "cooc_count": 86,
+    "unigram_w1": 11698,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "artillero",
+    "w2": "guerra",
+    "pmi": 2.5435783426234844,
+    "cooc_count": 11,
+    "unigram_w1": 286,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "guerra",
+    "pmi": 0.0,
+    "cooc_count": 497,
+    "unigram_w1": 186016,
+    "unigram_w2": 53310,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "posición",
+    "pmi": 0.0,
+    "cooc_count": 489,
+    "unigram_w1": 364785,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "joseph",
+    "pmi": 0.15170255445006336,
+    "cooc_count": 77,
+    "unigram_w1": 364785,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "fue",
+    "pmi": 0.3061808743030167,
+    "cooc_count": 12854,
+    "unigram_w1": 457586,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "segunda",
+    "pmi": 0.08249088851961801,
+    "cooc_count": 1936,
+    "unigram_w1": 364785,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "fue",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 3344,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 1236,
+    "unigram_w1": 364785,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "fue",
+    "pmi": 0.25896855770775795,
+    "cooc_count": 6052,
+    "unigram_w1": 225859,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "derribado",
+    "w2": "fue",
+    "pmi": 2.7208800431158324,
+    "cooc_count": 181,
+    "unigram_w1": 576,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "fue",
+    "pmi": 0.5586896855892046,
+    "cooc_count": 423,
+    "unigram_w1": 11698,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "artillero",
+    "w2": "fue",
+    "pmi": 0.8615561913413038,
+    "cooc_count": 14,
+    "unigram_w1": 286,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "fue",
+    "pmi": 0.057283298831571836,
+    "cooc_count": 4074,
+    "unigram_w1": 186016,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "fue",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 10903,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "posición",
+    "pmi": 0.0,
+    "cooc_count": 683,
+    "unigram_w1": 457586,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "posición",
+    "w2": "segunda",
+    "pmi": 1.7492430178282594,
+    "cooc_count": 1114,
+    "unigram_w1": 39642,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "mundial",
+    "w2": "posición",
+    "pmi": 0.016753880943182566,
+    "cooc_count": 159,
+    "unigram_w1": 69568,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "posición",
+    "pmi": 0.0,
+    "cooc_count": 433,
+    "unigram_w1": 225859,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "derribado",
+    "w2": "posición",
+    "pmi": 1.3512399009420415,
+    "cooc_count": 5,
+    "unigram_w1": 576,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "posición",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 186016,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "posición",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 10903,
+    "unigram_w2": 39642,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 457586,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "segunda",
+    "pmi": 0.19502047781589343,
+    "cooc_count": 19,
+    "unigram_w1": 3199,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "joseph",
+    "pmi": 1.5986498649757723,
+    "cooc_count": 3,
+    "unigram_w1": 3344,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "mundial",
+    "pmi": 0.6003947959605235,
+    "cooc_count": 23,
+    "unigram_w1": 3199,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 225859,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 186016,
+    "unigram_w2": 3199,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 1098,
+    "unigram_w1": 457586,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "cuando",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3344,
+    "unigram_w2": 457586,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 619,
+    "unigram_w1": 457586,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 2975,
+    "unigram_w1": 457586,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "derribado",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 457586,
+    "unigram_w2": 576,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "cuando",
+    "pmi": 0.15395771341846398,
+    "cooc_count": 354,
+    "unigram_w1": 11698,
+    "unigram_w2": 457586,
+    "window_size": 10
+  },
+  {
+    "w1": "cuando",
+    "w2": "era",
+    "pmi": 0.7575624759992833,
+    "cooc_count": 10294,
+    "unigram_w1": 457586,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "cuando",
+    "pmi": 0.0,
+    "cooc_count": 223,
+    "unigram_w1": 10903,
+    "unigram_w2": 457586,
+    "window_size": 10
+  },
+  {
+    "w1": "mundial",
+    "w2": "segunda",
+    "pmi": 2.4191207697187105,
+    "cooc_count": 3820,
+    "unigram_w1": 69568,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "segunda",
+    "pmi": 0.4080817302031737,
+    "cooc_count": 1660,
+    "unigram_w1": 225859,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "derribado",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 576,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 11698,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "artillero",
+    "w2": "segunda",
+    "pmi": 1.7446247694589543,
+    "cooc_count": 8,
+    "unigram_w1": 286,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 626,
+    "unigram_w1": 186016,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "segunda",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 10903,
+    "unigram_w2": 86196,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 3344,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 3344,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "mundial",
+    "pmi": 0.4484776244899715,
+    "cooc_count": 1395,
+    "unigram_w1": 225859,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 11698,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "artillero",
+    "w2": "mundial",
+    "pmi": 2.0767268864972586,
+    "cooc_count": 9,
+    "unigram_w1": 286,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 328,
+    "unigram_w1": 186016,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "mundial",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 10903,
+    "unigram_w2": 69568,
+    "window_size": 10
+  },
+  {
+    "w1": "derribado",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 576,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 11698,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "artillero",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 286,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "durante",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 1188,
+    "unigram_w1": 225859,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "durante",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 10903,
+    "unigram_w2": 225859,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "derribado",
+    "pmi": 5.1963797683601705,
+    "cooc_count": 69,
+    "unigram_w1": 11698,
+    "unigram_w2": 576,
+    "window_size": 10
+  },
+  {
+    "w1": "derribado",
+    "w2": "era",
+    "pmi": 0.49844355225885034,
+    "cooc_count": 10,
+    "unigram_w1": 576,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 120,
+    "unigram_w1": 11698,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "avión",
+    "w2": "cola",
+    "pmi": 1.1996414951003658,
+    "cooc_count": 24,
+    "unigram_w1": 11698,
+    "unigram_w2": 10903,
+    "window_size": 10
+  },
+  {
+    "w1": "cola",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 10903,
+    "unigram_w2": 186016,
+    "window_size": 10
+  }
+]

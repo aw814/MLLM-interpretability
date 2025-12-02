@@ -1,0 +1,38 @@
+[
+  {
+    "w1": "아티스틱",
+    "w2": "어떤",
+    "pmi": 0.11721587204876766,
+    "cooc_count": 2,
+    "unigram_w1": 61,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "이전에",
+    "pmi": 1.0273840350514696,
+    "cooc_count": 331,
+    "unigram_w1": 55483,
+    "unigram_w2": 4063,
+    "window_size": 10
+  },
+  {
+    "w1": "명칭으로",
+    "w2": "어떤",
+    "pmi": 1.1772381634470084,
+    "cooc_count": 30,
+    "unigram_w1": 317,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "알려졌습니까?",
+    "w2": "어떤",
+    "pmi": 3.178267611723401,
+    "cooc_count": 7,
+    "unigram_w1": 10,
+    "unigram_w2": 55483,
+    "window_size": 10
+  }
+]

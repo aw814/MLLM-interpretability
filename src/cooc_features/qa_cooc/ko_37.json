@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "시장은",
+    "w2": "최초",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3766,
+    "unigram_w2": 6411,
+    "window_size": 10
+  },
+  {
+    "w1": "시장은",
+    "w2": "여성",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 3766,
+    "unigram_w2": 25212,
+    "window_size": 10
+  },
+  {
+    "w1": "여성",
+    "w2": "최초",
+    "pmi": 1.238101216565804,
+    "cooc_count": 293,
+    "unigram_w1": 25212,
+    "unigram_w2": 6411,
+    "window_size": 10
+  }
+]

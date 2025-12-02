@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "몇",
+    "w2": "앨범",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 19561,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "1988년",
+    "w2": "앨범",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1418,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "앨범",
+    "w2": "원",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 3280,
+    "unigram_w2": 48205,
+    "window_size": 10
+  },
+  {
+    "w1": "모어",
+    "w2": "원",
+    "pmi": 0.7913766854222702,
+    "cooc_count": 9,
+    "unigram_w1": 161,
+    "unigram_w2": 48205,
+    "window_size": 10
+  },
+  {
+    "w1": "1988년",
+    "w2": "몇",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1418,
+    "unigram_w2": 19561,
+    "window_size": 10
+  },
+  {
+    "w1": "몇",
+    "w2": "원",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 19561,
+    "unigram_w2": 48205,
+    "window_size": 10
+  },
+  {
+    "w1": "년도에",
+    "w2": "몇",
+    "pmi": 3.702012697788735,
+    "cooc_count": 10,
+    "unigram_w1": 24,
+    "unigram_w2": 19561,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "1988년",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5156,
+    "unigram_w2": 1418,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "원",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5156,
+    "unigram_w2": 48205,
+    "window_size": 10
+  }
+]

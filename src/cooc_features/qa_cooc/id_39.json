@@ -1,0 +1,704 @@
+[
+  {
+    "w1": "dihitung",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 9606,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "dihitung",
+    "pmi": 0.0,
+    "cooc_count": 901,
+    "unigram_w1": 1714536,
+    "unigram_w2": 9606,
+    "window_size": 10
+  },
+  {
+    "w1": "dihitung",
+    "w2": "statistik",
+    "pmi": 0.8402140669545354,
+    "cooc_count": 25,
+    "unigram_w1": 9606,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "dihitung",
+    "w2": "mulai",
+    "pmi": 0.27089422920785705,
+    "cooc_count": 171,
+    "unigram_w1": 9606,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "dihitung",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 9606,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "dihitung",
+    "w2": "pertandingan",
+    "pmi": 0.016900049182891227,
+    "cooc_count": 69,
+    "unigram_w1": 9606,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "dihitung",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 72784,
+    "unigram_w2": 9606,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "dihitung",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 19087,
+    "unigram_w2": 9606,
+    "window_size": 10
+  },
+  {
+    "w1": "dihitung",
+    "w2": "sejak",
+    "pmi": 1.0620645270575355,
+    "cooc_count": 234,
+    "unigram_w1": 9606,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "musim",
+    "pmi": 0.9388142651219943,
+    "cooc_count": 18,
+    "unigram_w1": 1263,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 1263,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "statistik",
+    "pmi": 1.4419957711886682,
+    "cooc_count": 6,
+    "unigram_w1": 1263,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "karir",
+    "pmi": 0.9772346558688548,
+    "cooc_count": 3,
+    "unigram_w1": 1263,
+    "unigram_w2": 13774,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "mulai",
+    "pmi": 0.1538610061334669,
+    "cooc_count": 20,
+    "unigram_w1": 1263,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "tunggal",
+    "pmi": 0.3510392443067172,
+    "cooc_count": 6,
+    "unigram_w1": 1263,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "pertandingan",
+    "pmi": 0.5842803266996917,
+    "cooc_count": 16,
+    "unigram_w1": 1263,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "bowl",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 72784,
+    "unigram_w2": 1263,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "sejak",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1263,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 20807,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 4842,
+    "unigram_w1": 1714536,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "statistik",
+    "pmi": 0.18435371933791006,
+    "cooc_count": 116,
+    "unigram_w1": 85881,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "karir",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 13774,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2867,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "mulai",
+    "w2": "musim",
+    "pmi": 0.016997538408078553,
+    "cooc_count": 1186,
+    "unigram_w1": 209197,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 85881,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "pertandingan",
+    "pmi": 1.3175488686479768,
+    "cooc_count": 2265,
+    "unigram_w1": 85881,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 72784,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 19087,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "sejak",
+    "pmi": 0.6717599720987097,
+    "cooc_count": 1416,
+    "unigram_w1": 85881,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "dekade",
+    "pmi": 1.7788072970811535,
+    "cooc_count": 13713,
+    "unigram_w1": 1714536,
+    "unigram_w2": 20807,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "statistik",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 20807,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "karir",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 20807,
+    "unigram_w2": 13774,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "mulai",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 20807,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 20807,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "pertandingan",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 20807,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "dekade",
+    "pmi": 1.3256123539497826,
+    "cooc_count": 370,
+    "unigram_w1": 72784,
+    "unigram_w2": 20807,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "dekade",
+    "pmi": 0.5792394205805008,
+    "cooc_count": 46,
+    "unigram_w1": 19087,
+    "unigram_w2": 20807,
+    "window_size": 10
+  },
+  {
+    "w1": "dekade",
+    "w2": "sejak",
+    "pmi": 0.5541536229974334,
+    "cooc_count": 305,
+    "unigram_w1": 20807,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "statistik",
+    "pmi": 0.0,
+    "cooc_count": 1425,
+    "unigram_w1": 1714536,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "karir",
+    "pmi": 0.09176351390854255,
+    "cooc_count": 1680,
+    "unigram_w1": 1714536,
+    "unigram_w2": 13774,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "manakah",
+    "pmi": 0.0,
+    "cooc_count": 229,
+    "unigram_w1": 1714536,
+    "unigram_w2": 2867,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "mulai",
+    "pmi": 0.0,
+    "cooc_count": 9778,
+    "unigram_w1": 1714536,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 1711,
+    "unigram_w1": 1714536,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "pertandingan",
+    "pmi": 0.25247619125945414,
+    "cooc_count": 15587,
+    "unigram_w1": 1714536,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 3348,
+    "unigram_w1": 72784,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 1160,
+    "unigram_w1": 19087,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "sejak",
+    "pmi": 0.0,
+    "cooc_count": 5903,
+    "unigram_w1": 1714536,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "karir",
+    "w2": "statistik",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 13774,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "mulai",
+    "w2": "statistik",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 209197,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "statistik",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 17308,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "pertandingan",
+    "w2": "statistik",
+    "pmi": 2.177802590723761,
+    "cooc_count": 1079,
+    "unigram_w1": 108822,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "statistik",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 72784,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "statistik",
+    "pmi": 0.1928152083026942,
+    "cooc_count": 26,
+    "unigram_w1": 19087,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "sejak",
+    "w2": "statistik",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 129770,
+    "unigram_w2": 17308,
+    "window_size": 10
+  },
+  {
+    "w1": "karir",
+    "w2": "mulai",
+    "pmi": 0.09184579796373145,
+    "cooc_count": 205,
+    "unigram_w1": 13774,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "karir",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 13774,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "karir",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 72784,
+    "unigram_w2": 13774,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "karir",
+    "pmi": 0.5304005655078182,
+    "cooc_count": 29,
+    "unigram_w1": 19087,
+    "unigram_w2": 13774,
+    "window_size": 10
+  },
+  {
+    "w1": "karir",
+    "w2": "sejak",
+    "pmi": 0.19510844819812834,
+    "cooc_count": 141,
+    "unigram_w1": 13774,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "mulai",
+    "pmi": 1.1666661263488982,
+    "cooc_count": 125,
+    "unigram_w1": 2867,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2867,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "pertandingan",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2867,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "sejak",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2867,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "mulai",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 119,
+    "unigram_w1": 209197,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "mulai",
+    "w2": "pertandingan",
+    "pmi": 0.0,
+    "cooc_count": 590,
+    "unigram_w1": 209197,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "mulai",
+    "pmi": 0.0,
+    "cooc_count": 965,
+    "unigram_w1": 72784,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "mulai",
+    "pmi": 0.2078022036849194,
+    "cooc_count": 319,
+    "unigram_w1": 19087,
+    "unigram_w2": 209197,
+    "window_size": 10
+  },
+  {
+    "w1": "mulai",
+    "w2": "sejak",
+    "pmi": 1.0364262383060412,
+    "cooc_count": 4967,
+    "unigram_w1": 209197,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "pertandingan",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 108822,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 72784,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 19087,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "sejak",
+    "w2": "tunggal",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 129770,
+    "unigram_w2": 51528,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "pertandingan",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 72784,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "pertandingan",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 19087,
+    "unigram_w2": 108822,
+    "window_size": 10
+  },
+  {
+    "w1": "pertandingan",
+    "w2": "sejak",
+    "pmi": 0.0,
+    "cooc_count": 615,
+    "unigram_w1": 108822,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "an",
+    "pmi": 2.431814367546917,
+    "cooc_count": 1026,
+    "unigram_w1": 19087,
+    "unigram_w2": 72784,
+    "window_size": 10
+  },
+  {
+    "w1": "an",
+    "w2": "sejak",
+    "pmi": 0.7813135098059907,
+    "cooc_count": 1339,
+    "unigram_w1": 72784,
+    "unigram_w2": 129770,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "sejak",
+    "pmi": 1.6535257317320706,
+    "cooc_count": 840,
+    "unigram_w1": 19087,
+    "unigram_w2": 129770,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "w1": "bowl",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 717,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "temporada",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 52185,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "década",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 17433,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "temporada",
+    "pmi": 0.5466069167121242,
+    "cooc_count": 489,
+    "unigram_w1": 76765,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 31280,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "estatísticas",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 5258,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 22774,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "contar",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 36742,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 10487,
+    "unigram_w1": 3162003,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "começaram",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 9043,
+    "unigram_w2": 52185,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "única",
+    "pmi": 0.022259052517702178,
+    "cooc_count": 2,
+    "unigram_w1": 717,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "década",
+    "pmi": 1.9158622774696232,
+    "cooc_count": 6,
+    "unigram_w1": 717,
+    "unigram_w2": 17433,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "jogos",
+    "pmi": 0.433478432119839,
+    "cooc_count": 6,
+    "unigram_w1": 717,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 717,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "década",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 17433,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 76765,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "única",
+    "pmi": 0.21689261201019663,
+    "cooc_count": 106,
+    "unigram_w1": 31280,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "estatísticas",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 5258,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 22774,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "contar",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 36742,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 5346,
+    "unigram_w1": 3162003,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "começaram",
+    "w2": "única",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9043,
+    "unigram_w2": 38604,
+    "window_size": 10
+  },
+  {
+    "w1": "década",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 17433,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "década",
+    "pmi": 0.848254124512206,
+    "cooc_count": 90,
+    "unigram_w1": 31280,
+    "unigram_w2": 17433,
+    "window_size": 10
+  },
+  {
+    "w1": "década",
+    "w2": "estatísticas",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 17433,
+    "unigram_w2": 5258,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "década",
+    "pmi": 2.0364418635983013,
+    "cooc_count": 215,
+    "unigram_w1": 22774,
+    "unigram_w2": 17433,
+    "window_size": 10
+  },
+  {
+    "w1": "contar",
+    "w2": "década",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 36742,
+    "unigram_w2": 17433,
+    "window_size": 10
+  },
+  {
+    "w1": "década",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 1216,
+    "unigram_w1": 17433,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "começaram",
+    "w2": "década",
+    "pmi": 1.9838815467731472,
+    "cooc_count": 81,
+    "unigram_w1": 9043,
+    "unigram_w2": 17433,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 31280,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "estatísticas",
+    "w2": "jogos",
+    "pmi": 1.5244861214027294,
+    "cooc_count": 131,
+    "unigram_w1": 5258,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 22774,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "contar",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 36742,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 14554,
+    "unigram_w1": 76765,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "começaram",
+    "w2": "jogos",
+    "pmi": 0.6068582170811893,
+    "cooc_count": 90,
+    "unigram_w1": 9043,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "estatísticas",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 31280,
+    "unigram_w2": 5258,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "carreira",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 22774,
+    "unigram_w2": 31280,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "contar",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 31280,
+    "unigram_w2": 36742,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 4724,
+    "unigram_w1": 31280,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "carreira",
+    "w2": "começaram",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 31280,
+    "unigram_w2": 9043,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "estatísticas",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 22774,
+    "unigram_w2": 5258,
+    "window_size": 10
+  },
+  {
+    "w1": "estatísticas",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 814,
+    "unigram_w1": 5258,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "começaram",
+    "w2": "estatísticas",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 9043,
+    "unigram_w2": 5258,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "contar",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 22774,
+    "unigram_w2": 36742,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 1936,
+    "unigram_w1": 22774,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "2000",
+    "w2": "começaram",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 22774,
+    "unigram_w2": 9043,
+    "window_size": 10
+  },
+  {
+    "w1": "contar",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 7535,
+    "unigram_w1": 36742,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  },
+  {
+    "w1": "começaram",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 975,
+    "unigram_w1": 9043,
+    "unigram_w2": 3162003,
+    "window_size": 10
+  }
+]

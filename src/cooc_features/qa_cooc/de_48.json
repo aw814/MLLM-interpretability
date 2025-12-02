@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "charlie",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 2318,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 2318,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "hieß",
+    "pmi": 0.0,
+    "cooc_count": 894,
+    "unigram_w1": 2705342,
+    "unigram_w2": 10278,
+    "window_size": 10
+  },
+  {
+    "w1": "hieß",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 477,
+    "unigram_w1": 10278,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "romanen",
+    "pmi": 0.6712134287834217,
+    "cooc_count": 265,
+    "unigram_w1": 2705342,
+    "unigram_w2": 933,
+    "window_size": 10
+  },
+  {
+    "w1": "romanen",
+    "w2": "wie",
+    "pmi": 0.11151283868858725,
+    "cooc_count": 53,
+    "unigram_w1": 933,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "protagonist",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 2705342,
+    "unigram_w2": 1021,
+    "window_size": 10
+  },
+  {
+    "w1": "protagonist",
+    "w2": "wie",
+    "pmi": 0.0023320264005711384,
+    "cooc_count": 52,
+    "unigram_w1": 1021,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 83508,
+    "unigram_w1": 2705342,
+    "unigram_w2": 946950,
+    "window_size": 10
+  }
+]

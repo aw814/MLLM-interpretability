@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "2014",
+    "w2": "הספר",
+    "pmi": 0.0,
+    "cooc_count": 269,
+    "unigram_w1": 92424,
+    "unigram_w2": 172144,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "הספר",
+    "pmi": 2.018270360206141,
+    "cooc_count": 39746,
+    "unigram_w1": 420061,
+    "unigram_w2": 172144,
+    "window_size": 10
+  },
+  {
+    "w1": "הספר",
+    "w2": "הפך",
+    "pmi": 0.0,
+    "cooc_count": 277,
+    "unigram_w1": 172144,
+    "unigram_w2": 29248,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "הספר",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 6547,
+    "unigram_w2": 172144,
+    "window_size": 10
+  },
+  {
+    "w1": "הספר",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 1130,
+    "unigram_w1": 172144,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "בית",
+    "pmi": 0.0,
+    "cooc_count": 1281,
+    "unigram_w1": 92424,
+    "unigram_w2": 420061,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "הפך",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 92424,
+    "unigram_w2": 29248,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "באיזו",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 92424,
+    "unigram_w2": 6547,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 739,
+    "unigram_w1": 92424,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "הפך",
+    "pmi": 0.0,
+    "cooc_count": 683,
+    "unigram_w1": 420061,
+    "unigram_w2": 29248,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "בית",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 6547,
+    "unigram_w2": 420061,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 2677,
+    "unigram_w1": 420061,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "הפך",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 313,
+    "unigram_w1": 29248,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "שנה",
+    "pmi": 0.6727635491277156,
+    "cooc_count": 162,
+    "unigram_w1": 6547,
+    "unigram_w2": 172874,
+    "window_size": 10
+  }
+]

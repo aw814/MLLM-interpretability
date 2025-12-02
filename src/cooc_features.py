@@ -261,6 +261,50 @@ def build_qa_cooc_features(
     batch_rows = []
     batch_size = 12
 
+    # --- Precompute language-level co-occurrence statistics ---
+    # 1. Collect languages in this slice
+    langs = sorted(df["language"].unique())
+
+    # 2. Build union keyword vocabulary per language
+    lang_kw_vocab: dict[str, set[str]] = {lang: set() for lang in langs}
+    for (qid, lang), kws in qa_keywords.items():
+        # Some QA keys may not be in this slice; guard by language
+        if lang in lang_kw_vocab:
+            lang_kw_vocab[lang].update(kws)
+
+    # 3. Compute co-occurrence + PPMI once per language (and per window size)
+    lang_stats: dict[str, dict[int, tuple[Counter, Counter, int, dict]]] = {}
+    for lang in langs:
+        kw_vocab = lang_kw_vocab.get(lang, set())
+        if not kw_vocab:
+            # No keywords for this language: skip and handle downstream
+            lang_stats[lang] = {}
+            continue
+
+        if len(window_sizes) == 1:
+            w = window_sizes[0]
+            unigram_counts, cooc_counts, total_windows = compute_cooc_for_language(
+                lang_code=lang,
+                keyword_vocab=kw_vocab,
+                window_size=w,
+                max_docs=max_docs,
+            )
+            pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
+            lang_stats[lang] = {
+                w: (unigram_counts, cooc_counts, total_windows, pmi_dict)
+            }
+        else:
+            multi_stats = compute_cooc_for_language_multi(
+                lang_code=lang,
+                keyword_vocab=kw_vocab,
+                window_sizes=window_sizes,
+                max_docs=max_docs,
+            )
+            lang_stats[lang] = {}
+            for w, (unigram_counts, cooc_counts, total_windows) in multi_stats.items():
+                pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
+                lang_stats[lang][w] = (unigram_counts, cooc_counts, total_windows, pmi_dict)
+
     for _, row in df.iterrows():
         qid = row["q_id"]
         lang = row["language"]
@@ -315,28 +359,8 @@ def build_qa_cooc_features(
                 batch_rows = []
             continue
 
-        # Compute co-occurrence stats for one or many window sizes
-        stats_per_w = {}
-        if len(window_sizes) == 1:
-            w = window_sizes[0]
-            unigram_counts, cooc_counts, total_windows = compute_cooc_for_language(
-                lang_code=lang,
-                keyword_vocab=set(unique_kws),
-                window_size=w,
-                max_docs=max_docs,
-            )
-            pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
-            stats_per_w[w] = (unigram_counts, cooc_counts, total_windows, pmi_dict)
-        else:
-            multi_stats = compute_cooc_for_language_multi(
-                lang_code=lang,
-                keyword_vocab=set(unique_kws),
-                window_sizes=window_sizes,
-                max_docs=max_docs,
-            )
-            for w, (unigram_counts, cooc_counts, total_windows) in multi_stats.items():
-                pmi_dict = compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=min_cooc)
-                stats_per_w[w] = (unigram_counts, cooc_counts, total_windows, pmi_dict)
+        # Retrieve precomputed language-level co-occurrence stats
+        stats_per_w = lang_stats.get(lang, {})
 
         feature_row = {
             "q_id": qid,
@@ -346,8 +370,21 @@ def build_qa_cooc_features(
         # For backward compatibility, treat the first window size as "default"
         default_w = window_sizes[0]
 
-        # For each window size, compute PPMI-based summary features
+        # For each window size, compute PPMI-based summary features using language-level stats
         for w in window_sizes:
+            if w not in stats_per_w:
+                # No stats for this language/window: record empty/NaN features
+                suffix = f"_w{w}" if len(window_sizes) > 1 else ""
+                feature_row[f"cooc_num_pairs{suffix}"] = 0
+                feature_row[f"cooc_total_pairs{suffix}"] = 0
+                feature_row[f"cooc_coverage_ratio{suffix}"] = np.nan
+                feature_row[f"cooc_unseen_keywords_count{suffix}"] = len(unique_kws)
+                feature_row[f"cooc_unseen_keywords_ratio{suffix}"] = 1.0 if unique_kws else np.nan
+                feature_row[f"cooc_avg_pmi{suffix}"] = np.nan
+                feature_row[f"cooc_max_pmi{suffix}"] = np.nan
+                feature_row[f"cooc_min_pmi{suffix}"] = np.nan
+                feature_row[f"cooc_std_pmi{suffix}"] = np.nan
+                continue
             unigram_counts, cooc_counts, total_windows, pmi_dict = stats_per_w[w]
 
             seen_kws = [kw for kw in unique_kws if kw in unigram_counts]

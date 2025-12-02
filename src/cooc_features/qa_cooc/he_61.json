@@ -1,0 +1,731 @@
+[
+  {
+    "w1": "נכלל",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 3137,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 312,
+    "unigram_w1": 115781,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 30298,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 9442,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 385,
+    "unigram_w1": 15848,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 429,
+    "unigram_w1": 69383,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 59441,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "השיר",
+    "w2": "שם",
+    "pmi": 0.06831858272342985,
+    "cooc_count": 927,
+    "unigram_w1": 34104,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 482,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "שבו",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 1308,
+    "unigram_w1": 115254,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 6376,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2453,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 58093,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "מהו",
+    "w2": "שם",
+    "pmi": 0.0,
+    "cooc_count": 499,
+    "unigram_w1": 30422,
+    "unigram_w2": 347567,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "נכלל",
+    "pmi": 1.483015632431076,
+    "cooc_count": 16,
+    "unigram_w1": 15848,
+    "unigram_w2": 3137,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "נכלל",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 69383,
+    "unigram_w2": 3137,
+    "window_size": 10
+  },
+  {
+    "w1": "השיר",
+    "w2": "נכלל",
+    "pmi": 1.5549734527688597,
+    "cooc_count": 37,
+    "unigram_w1": 34104,
+    "unigram_w2": 3137,
+    "window_size": 10
+  },
+  {
+    "w1": "נכלל",
+    "w2": "שבו",
+    "pmi": 0.09362766114118877,
+    "cooc_count": 29,
+    "unigram_w1": 3137,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "מהו",
+    "w2": "נכלל",
+    "pmi": 0.5432108384859937,
+    "cooc_count": 12,
+    "unigram_w1": 30422,
+    "unigram_w2": 3137,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "that",
+    "pmi": 2.8996521590872564,
+    "cooc_count": 4655,
+    "unigram_w1": 115781,
+    "unigram_w2": 30298,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "what",
+    "pmi": 2.4636187999943506,
+    "cooc_count": 938,
+    "unigram_w1": 115781,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 115781,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "s",
+    "pmi": 2.096334599277382,
+    "cooc_count": 4774,
+    "unigram_w1": 115781,
+    "unigram_w2": 69383,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "is",
+    "pmi": 3.103900061926259,
+    "cooc_count": 11202,
+    "unigram_w1": 115781,
+    "unigram_w2": 59441,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "השיר",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 115781,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "motion",
+    "pmi": 3.0946575083740226,
+    "cooc_count": 90,
+    "unigram_w1": 115781,
+    "unigram_w2": 482,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 115781,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "love",
+    "pmi": 2.5520816872419765,
+    "cooc_count": 692,
+    "unigram_w1": 115781,
+    "unigram_w2": 6376,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "in",
+    "pmi": 3.7023165678088166,
+    "cooc_count": 841,
+    "unigram_w1": 2453,
+    "unigram_w2": 115781,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "in",
+    "pmi": 2.516573503862224,
+    "cooc_count": 6085,
+    "unigram_w1": 58093,
+    "unigram_w2": 115781,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "מהו",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 115781,
+    "unigram_w2": 30422,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 3.323515726476324,
+    "cooc_count": 580,
+    "unigram_w1": 30298,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 30298,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": 2.736236768485125,
+    "cooc_count": 2369,
+    "unigram_w1": 69383,
+    "unigram_w2": 30298,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "that",
+    "pmi": 4.169080725934177,
+    "cooc_count": 8505,
+    "unigram_w1": 59441,
+    "unigram_w2": 30298,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "השיר",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 30298,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 30298,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": 2.7780645210534427,
+    "cooc_count": 227,
+    "unigram_w1": 6376,
+    "unigram_w2": 30298,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "that",
+    "pmi": 2.15849128149366,
+    "cooc_count": 47,
+    "unigram_w1": 2453,
+    "unigram_w2": 30298,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": 3.4025507333767897,
+    "cooc_count": 3862,
+    "unigram_w1": 58093,
+    "unigram_w2": 30298,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "האלבום",
+    "pmi": 0.38111473951552227,
+    "cooc_count": 16,
+    "unigram_w1": 9442,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 3.1286089341149155,
+    "cooc_count": 1093,
+    "unigram_w1": 69383,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "what",
+    "pmi": 3.901883442542066,
+    "cooc_count": 2029,
+    "unigram_w1": 59441,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "השיר",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 9442,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": 2.723721004575043,
+    "cooc_count": 67,
+    "unigram_w1": 6376,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "what",
+    "pmi": 2.9707651228621184,
+    "cooc_count": 33,
+    "unigram_w1": 2453,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 3.521080885314168,
+    "cooc_count": 1355,
+    "unigram_w1": 58093,
+    "unigram_w2": 9442,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 69383,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 59441,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "השיר",
+    "pmi": 2.3903872500406744,
+    "cooc_count": 431,
+    "unigram_w1": 15848,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 104,
+    "unigram_w1": 15848,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "האלבום",
+    "pmi": 1.5275134225280833,
+    "cooc_count": 34,
+    "unigram_w1": 6376,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "האלבום",
+    "pmi": 2.0474245274817995,
+    "cooc_count": 22,
+    "unigram_w1": 2453,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 58093,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "מהו",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 15848,
+    "unigram_w2": 30422,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "s",
+    "pmi": 1.9394198764629702,
+    "cooc_count": 2095,
+    "unigram_w1": 59441,
+    "unigram_w2": 69383,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "השיר",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 69383,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 69383,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": 1.904451680115017,
+    "cooc_count": 217,
+    "unigram_w1": 6376,
+    "unigram_w2": 69383,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "s",
+    "pmi": 2.2333736938924837,
+    "cooc_count": 116,
+    "unigram_w1": 2453,
+    "unigram_w2": 69383,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": 2.1690431806150916,
+    "cooc_count": 2576,
+    "unigram_w1": 58093,
+    "unigram_w2": 69383,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "מהו",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 69383,
+    "unigram_w2": 30422,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "השיר",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 59441,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "motion",
+    "pmi": 1.0533235589999381,
+    "cooc_count": 6,
+    "unigram_w1": 59441,
+    "unigram_w2": 482,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 59441,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "love",
+    "pmi": 3.0335820241497826,
+    "cooc_count": 575,
+    "unigram_w1": 59441,
+    "unigram_w2": 6376,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "is",
+    "pmi": 3.236559980443695,
+    "cooc_count": 271,
+    "unigram_w1": 2453,
+    "unigram_w2": 59441,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "is",
+    "pmi": 3.4232185131758888,
+    "cooc_count": 7735,
+    "unigram_w1": 58093,
+    "unigram_w2": 59441,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "מהו",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 59441,
+    "unigram_w2": 30422,
+    "window_size": 10
+  },
+  {
+    "w1": "השיר",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 34104,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "השיר",
+    "pmi": 1.8094925063486453,
+    "cooc_count": 97,
+    "unigram_w1": 6376,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "השיר",
+    "pmi": 1.234533141780247,
+    "cooc_count": 21,
+    "unigram_w1": 2453,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "השיר",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 58093,
+    "unigram_w2": 34104,
+    "window_size": 10
+  },
+  {
+    "w1": "השיר",
+    "w2": "מהו",
+    "pmi": 0.16079280817576497,
+    "cooc_count": 89,
+    "unigram_w1": 34104,
+    "unigram_w2": 30422,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "motion",
+    "pmi": 1.3639446807358342,
+    "cooc_count": 8,
+    "unigram_w1": 58093,
+    "unigram_w2": 482,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 6376,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "שבו",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 58093,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "מהו",
+    "w2": "שבו",
+    "pmi": 0.08922233264295433,
+    "cooc_count": 280,
+    "unigram_w1": 30422,
+    "unigram_w2": 115254,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "love",
+    "pmi": 3.504470601758205,
+    "cooc_count": 38,
+    "unigram_w1": 2453,
+    "unigram_w2": 6376,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": 2.47047202843032,
+    "cooc_count": 320,
+    "unigram_w1": 58093,
+    "unigram_w2": 6376,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "heart",
+    "pmi": 2.477661774453146,
+    "cooc_count": 124,
+    "unigram_w1": 58093,
+    "unigram_w2": 2453,
+    "window_size": 10
+  }
+]

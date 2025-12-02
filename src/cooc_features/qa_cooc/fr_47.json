@@ -1,0 +1,812 @@
+[
+  {
+    "w1": "26",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 7326,
+    "unigram_w1": 119719,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 738,
+    "unigram_w1": 119719,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 266,
+    "unigram_w1": 119719,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 1196,
+    "unigram_w1": 119719,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "lancer",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 119719,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 653,
+    "unigram_w1": 119719,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 257,
+    "unigram_w1": 119719,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 119719,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 119719,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "26",
+    "pmi": 1.7799095666423996,
+    "cooc_count": 3836,
+    "unigram_w1": 119838,
+    "unigram_w2": 119719,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "novembre",
+    "pmi": 1.7964172319740026,
+    "cooc_count": 3445,
+    "unigram_w1": 119719,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": 0.2923699331615506,
+    "cooc_count": 105725,
+    "unigram_w1": 2730698,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "masculine",
+    "pmi": 0.0,
+    "cooc_count": 287,
+    "unigram_w1": 2730698,
+    "unigram_w2": 3373,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 4634,
+    "unigram_w1": 2730698,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "lancer",
+    "pmi": 0.0,
+    "cooc_count": 1378,
+    "unigram_w1": 2730698,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "lieu",
+    "pmi": 0.2431333069245369,
+    "cooc_count": 19944,
+    "unigram_w1": 2730698,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "eu",
+    "pmi": 1.0415758005689197,
+    "cooc_count": 43308,
+    "unigram_w1": 2730698,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "javelot",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 2730698,
+    "unigram_w2": 315,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "asiatiques",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 2730698,
+    "unigram_w2": 2527,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 964,
+    "unigram_w1": 2730698,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 23726,
+    "unigram_w1": 2730698,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 7822,
+    "unigram_w1": 119838,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 7670,
+    "unigram_w1": 2730698,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "masculine",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 640934,
+    "unigram_w2": 3373,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 367,
+    "unigram_w1": 640934,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": 0.892839666453013,
+    "cooc_count": 20925,
+    "unigram_w1": 640934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "lancer",
+    "pmi": 0.0,
+    "cooc_count": 350,
+    "unigram_w1": 640934,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 1969,
+    "unigram_w1": 640934,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "eu",
+    "pmi": 0.0007766732742403668,
+    "cooc_count": 3590,
+    "unigram_w1": 640934,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "javelot",
+    "pmi": 0.5638571663718679,
+    "cooc_count": 16,
+    "unigram_w1": 640934,
+    "unigram_w2": 315,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 2527,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 240,
+    "unigram_w1": 640934,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "quand",
+    "pmi": 0.5789046825449371,
+    "cooc_count": 10260,
+    "unigram_w1": 640934,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 1172,
+    "unigram_w1": 119838,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 926,
+    "unigram_w1": 640934,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "masculine",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 80148,
+    "unigram_w2": 3373,
+    "window_size": 10
+  },
+  {
+    "w1": "masculine",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 3373,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "masculine",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 127008,
+    "unigram_w2": 3373,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "masculine",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 124116,
+    "unigram_w2": 3373,
+    "window_size": 10
+  },
+  {
+    "w1": "masculine",
+    "w2": "épreuve",
+    "pmi": 2.0137456190417304,
+    "cooc_count": 16,
+    "unigram_w1": 3373,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "masculine",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 3373,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "masculine",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 119838,
+    "unigram_w2": 3373,
+    "window_size": 10
+  },
+  {
+    "w1": "masculine",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 3373,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 80148,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "lancer",
+    "pmi": 0.26886886380656205,
+    "cooc_count": 94,
+    "unigram_w1": 80148,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 80148,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 124116,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "javelot",
+    "w2": "jeux",
+    "pmi": 2.7035333501577403,
+    "cooc_count": 17,
+    "unigram_w1": 315,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "jeux",
+    "pmi": 2.8315296544582096,
+    "cooc_count": 155,
+    "unigram_w1": 2527,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "épreuve",
+    "pmi": 0.3635439684983541,
+    "cooc_count": 73,
+    "unigram_w1": 80148,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 320,
+    "unigram_w1": 80148,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 184,
+    "unigram_w1": 119838,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 155,
+    "unigram_w1": 80148,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "lancer",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 19877,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 486,
+    "unigram_w1": 127008,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 1259,
+    "unigram_w1": 124116,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "javelot",
+    "w2": "t",
+    "pmi": 1.2013062283680362,
+    "cooc_count": 14,
+    "unigram_w1": 315,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2527,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 296470,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "quand",
+    "w2": "t",
+    "pmi": 0.06014066202140891,
+    "cooc_count": 2825,
+    "unigram_w1": 198977,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 926,
+    "unigram_w1": 119838,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 481,
+    "unigram_w1": 105861,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "lancer",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 19877,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "lancer",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 124116,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "javelot",
+    "w2": "lancer",
+    "pmi": 4.8755495598687855,
+    "cooc_count": 37,
+    "unigram_w1": 315,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "lancer",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 19877,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "lancer",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 19877,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "lancer",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 119838,
+    "unigram_w2": 19877,
+    "window_size": 10
+  },
+  {
+    "w1": "lancer",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 19877,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "lieu",
+    "pmi": 2.738832451977334,
+    "cooc_count": 10996,
+    "unigram_w1": 124116,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 127008,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 554,
+    "unigram_w1": 127008,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "lieu",
+    "pmi": 0.0,
+    "cooc_count": 298,
+    "unigram_w1": 119838,
+    "unigram_w2": 127008,
+    "window_size": 10
+  },
+  {
+    "w1": "lieu",
+    "w2": "novembre",
+    "pmi": 0.45120033684331307,
+    "cooc_count": 952,
+    "unigram_w1": 127008,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2527,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 124116,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "quand",
+    "pmi": 0.07301521781284089,
+    "cooc_count": 1198,
+    "unigram_w1": 124116,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "eu",
+    "pmi": 0.0,
+    "cooc_count": 219,
+    "unigram_w1": 119838,
+    "unigram_w2": 124116,
+    "window_size": 10
+  },
+  {
+    "w1": "eu",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 302,
+    "unigram_w1": 124116,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "javelot",
+    "w2": "épreuve",
+    "pmi": 4.384730815277748,
+    "cooc_count": 16,
+    "unigram_w1": 315,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2527,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "asiatiques",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 119838,
+    "unigram_w2": 2527,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "novembre",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2527,
+    "unigram_w2": 105861,
+    "window_size": 10
+  },
+  {
+    "w1": "quand",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 198977,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 119838,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "épreuve",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 105861,
+    "unigram_w2": 14042,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 364,
+    "unigram_w1": 119838,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "novembre",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 261,
+    "unigram_w1": 105861,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "novembre",
+    "pmi": 2.2458242780148217,
+    "cooc_count": 5405,
+    "unigram_w1": 119838,
+    "unigram_w2": 105861,
+    "window_size": 10
+  }
+]

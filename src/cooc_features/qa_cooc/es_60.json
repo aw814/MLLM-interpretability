@@ -1,0 +1,371 @@
+[
+  {
+    "w1": "a",
+    "w2": "zelanda",
+    "pmi": 0.0,
+    "cooc_count": 613,
+    "unigram_w1": 6497163,
+    "unigram_w2": 4406,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "llevó",
+    "pmi": 0.6073490782909321,
+    "cooc_count": 16148,
+    "unigram_w1": 6497163,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 1913,
+    "unigram_w1": 13871,
+    "unigram_w2": 6497163,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "elecciones",
+    "pmi": 0.0,
+    "cooc_count": 7812,
+    "unigram_w1": 6497163,
+    "unigram_w2": 29355,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "helen",
+    "pmi": 0.0,
+    "cooc_count": 178,
+    "unigram_w1": 6497163,
+    "unigram_w2": 935,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "victoria",
+    "pmi": 0.0,
+    "cooc_count": 7405,
+    "unigram_w1": 6497163,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "nueva",
+    "pmi": 0.0,
+    "cooc_count": 37090,
+    "unigram_w1": 6497163,
+    "unigram_w2": 176872,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "clark",
+    "pmi": 0.0,
+    "cooc_count": 342,
+    "unigram_w1": 6497163,
+    "unigram_w2": 1555,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "partido",
+    "pmi": 0.0,
+    "cooc_count": 20283,
+    "unigram_w1": 6497163,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "laborista",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 6497163,
+    "unigram_w2": 579,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "generales",
+    "pmi": 0.0,
+    "cooc_count": 5131,
+    "unigram_w1": 6497163,
+    "unigram_w2": 23859,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "zelanda",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 23882,
+    "unigram_w2": 4406,
+    "window_size": 10
+  },
+  {
+    "w1": "victoria",
+    "w2": "zelanda",
+    "pmi": 0.1147908396093243,
+    "cooc_count": 10,
+    "unigram_w1": 35690,
+    "unigram_w2": 4406,
+    "window_size": 10
+  },
+  {
+    "w1": "nueva",
+    "w2": "zelanda",
+    "pmi": 4.478585324604885,
+    "cooc_count": 3893,
+    "unigram_w1": 176872,
+    "unigram_w2": 4406,
+    "window_size": 10
+  },
+  {
+    "w1": "partido",
+    "w2": "zelanda",
+    "pmi": 0.2531745184987084,
+    "cooc_count": 29,
+    "unigram_w1": 90125,
+    "unigram_w2": 4406,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 13871,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "elecciones",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 29355,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "victoria",
+    "pmi": 1.3690720300447232,
+    "cooc_count": 190,
+    "unigram_w1": 23882,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "nueva",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 23882,
+    "unigram_w2": 176872,
+    "window_size": 10
+  },
+  {
+    "w1": "llevó",
+    "w2": "partido",
+    "pmi": 0.016002465386229674,
+    "cooc_count": 124,
+    "unigram_w1": 23882,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "generales",
+    "w2": "llevó",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 23859,
+    "unigram_w2": 23882,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "elecciones",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 13871,
+    "unigram_w2": 29355,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "victoria",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 13871,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "nueva",
+    "pmi": 0.4897669130748301,
+    "cooc_count": 227,
+    "unigram_w1": 13871,
+    "unigram_w2": 176872,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "partido",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 13871,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "generales",
+    "pmi": 0.06381397162722884,
+    "cooc_count": 20,
+    "unigram_w1": 13871,
+    "unigram_w2": 23859,
+    "window_size": 10
+  },
+  {
+    "w1": "elecciones",
+    "w2": "victoria",
+    "pmi": 1.108666956369491,
+    "cooc_count": 180,
+    "unigram_w1": 29355,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "elecciones",
+    "w2": "nueva",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 29355,
+    "unigram_w2": 176872,
+    "window_size": 10
+  },
+  {
+    "w1": "elecciones",
+    "w2": "partido",
+    "pmi": 1.6626810151438904,
+    "cooc_count": 791,
+    "unigram_w1": 29355,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "elecciones",
+    "w2": "laborista",
+    "pmi": 2.434928717188862,
+    "cooc_count": 11,
+    "unigram_w1": 29355,
+    "unigram_w2": 579,
+    "window_size": 10
+  },
+  {
+    "w1": "elecciones",
+    "w2": "generales",
+    "pmi": 4.011900779173417,
+    "cooc_count": 2194,
+    "unigram_w1": 29355,
+    "unigram_w2": 23859,
+    "window_size": 10
+  },
+  {
+    "w1": "nueva",
+    "w2": "victoria",
+    "pmi": 0.4168560078064471,
+    "cooc_count": 543,
+    "unigram_w1": 176872,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "partido",
+    "w2": "victoria",
+    "pmi": 1.3535906368835589,
+    "cooc_count": 706,
+    "unigram_w1": 90125,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "laborista",
+    "w2": "victoria",
+    "pmi": 2.0388503737407913,
+    "cooc_count": 9,
+    "unigram_w1": 579,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "generales",
+    "w2": "victoria",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 23859,
+    "unigram_w2": 35690,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "nueva",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 1555,
+    "unigram_w2": 176872,
+    "window_size": 10
+  },
+  {
+    "w1": "nueva",
+    "w2": "partido",
+    "pmi": 0.0,
+    "cooc_count": 503,
+    "unigram_w1": 176872,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "generales",
+    "w2": "nueva",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 23859,
+    "unigram_w2": 176872,
+    "window_size": 10
+  },
+  {
+    "w1": "clark",
+    "w2": "partido",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1555,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "laborista",
+    "w2": "partido",
+    "pmi": 4.546510520122894,
+    "cooc_count": 279,
+    "unigram_w1": 579,
+    "unigram_w2": 90125,
+    "window_size": 10
+  },
+  {
+    "w1": "generales",
+    "w2": "partido",
+    "pmi": 0.05649683661094984,
+    "cooc_count": 129,
+    "unigram_w1": 23859,
+    "unigram_w2": 90125,
+    "window_size": 10
+  }
+]

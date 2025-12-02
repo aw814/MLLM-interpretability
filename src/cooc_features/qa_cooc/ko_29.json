@@ -1,0 +1,497 @@
+[
+  {
+    "w1": "위해",
+    "w2": "차량이",
+    "pmi": 0.029853793875755142,
+    "cooc_count": 50,
+    "unigram_w1": 109793,
+    "unigram_w2": 841,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "차량이",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 6352,
+    "unigram_w2": 841,
+    "window_size": 10
+  },
+  {
+    "w1": "종류의",
+    "w2": "차량이",
+    "pmi": 1.5460658523562698,
+    "cooc_count": 12,
+    "unigram_w1": 5785,
+    "unigram_w2": 841,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "차량이",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 55483,
+    "unigram_w2": 841,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "중량",
+    "pmi": 0.3050075857900064,
+    "cooc_count": 8,
+    "unigram_w1": 22440,
+    "unigram_w2": 500,
+    "window_size": 10
+  },
+  {
+    "w1": "위해",
+    "w2": "중량",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 109793,
+    "unigram_w2": 500,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "터미널을",
+    "pmi": 2.2667088734772443,
+    "cooc_count": 8,
+    "unigram_w1": 11687,
+    "unigram_w2": 135,
+    "window_size": 10
+  },
+  {
+    "w1": "위해",
+    "w2": "터미널을",
+    "pmi": 0.5862049995973861,
+    "cooc_count": 14,
+    "unigram_w1": 109793,
+    "unigram_w2": 135,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "시스템",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 11687,
+    "unigram_w2": 22440,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "한도",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 11687,
+    "unigram_w2": 1347,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "위해",
+    "pmi": 0.1881504224899404,
+    "cooc_count": 814,
+    "unigram_w1": 11687,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "로드",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 11687,
+    "unigram_w2": 1338,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "시스템을",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 11687,
+    "unigram_w2": 8271,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "허용",
+    "pmi": 0.5785478049136161,
+    "cooc_count": 14,
+    "unigram_w1": 11687,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "내에서",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 11687,
+    "unigram_w2": 6352,
+    "window_size": 10
+  },
+  {
+    "w1": "국제",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 11687,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "확인하기",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 22440,
+    "unigram_w2": 3203,
+    "window_size": 10
+  },
+  {
+    "w1": "한도",
+    "w2": "확인하기",
+    "pmi": 1.1272063252047857,
+    "cooc_count": 7,
+    "unigram_w1": 1347,
+    "unigram_w2": 3203,
+    "window_size": 10
+  },
+  {
+    "w1": "위해",
+    "w2": "확인하기",
+    "pmi": 2.4731489468793053,
+    "cooc_count": 2192,
+    "unigram_w1": 109793,
+    "unigram_w2": 3203,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "확인하기",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 6352,
+    "unigram_w2": 3203,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "확인하기",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 55483,
+    "unigram_w2": 3203,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "위해",
+    "pmi": 0.0,
+    "cooc_count": 770,
+    "unigram_w1": 22440,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "로드",
+    "w2": "시스템",
+    "pmi": 0.41929673219213387,
+    "cooc_count": 24,
+    "unigram_w1": 1338,
+    "unigram_w2": 22440,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "시스템을",
+    "pmi": 1.6830617054320793,
+    "cooc_count": 525,
+    "unigram_w1": 22440,
+    "unigram_w2": 8271,
+    "window_size": 10
+  },
+  {
+    "w1": "동적",
+    "w2": "시스템",
+    "pmi": 0.8360359168735163,
+    "cooc_count": 20,
+    "unigram_w1": 735,
+    "unigram_w2": 22440,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "허용",
+    "pmi": 0.42261672352403157,
+    "cooc_count": 23,
+    "unigram_w1": 22440,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "시스템",
+    "pmi": 0.7335051468549273,
+    "cooc_count": 156,
+    "unigram_w1": 6352,
+    "unigram_w2": 22440,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "종류의",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 22440,
+    "unigram_w2": 5785,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 22440,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "위해",
+    "w2": "한도",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 109793,
+    "unigram_w2": 1347,
+    "window_size": 10
+  },
+  {
+    "w1": "한도",
+    "w2": "허용",
+    "pmi": 2.29731226815737,
+    "cooc_count": 9,
+    "unigram_w1": 1347,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "한도",
+    "pmi": 5.260499231394094,
+    "cooc_count": 866,
+    "unigram_w1": 6352,
+    "unigram_w2": 1347,
+    "window_size": 10
+  },
+  {
+    "w1": "로드",
+    "w2": "위해",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 1338,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템을",
+    "w2": "위해",
+    "pmi": 0.8992315973821262,
+    "cooc_count": 1173,
+    "unigram_w1": 8271,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "동적",
+    "w2": "위해",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 735,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "위해",
+    "w2": "허용",
+    "pmi": 0.19918048381334202,
+    "cooc_count": 90,
+    "unigram_w1": 109793,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "위해",
+    "pmi": 0.0,
+    "cooc_count": 292,
+    "unigram_w1": 6352,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "위해",
+    "w2": "종류의",
+    "pmi": 0.0,
+    "cooc_count": 298,
+    "unigram_w1": 109793,
+    "unigram_w2": 5785,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "위해",
+    "pmi": 0.20574827434550555,
+    "cooc_count": 3933,
+    "unigram_w1": 55483,
+    "unigram_w2": 109793,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "로드",
+    "pmi": 0.5827598002336852,
+    "cooc_count": 8,
+    "unigram_w1": 6352,
+    "unigram_w2": 1338,
+    "window_size": 10
+  },
+  {
+    "w1": "로드",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 1338,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "동적",
+    "w2": "시스템을",
+    "pmi": 0.44783121569835194,
+    "cooc_count": 5,
+    "unigram_w1": 735,
+    "unigram_w2": 8271,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "시스템을",
+    "pmi": 0.14747470234984322,
+    "cooc_count": 32,
+    "unigram_w1": 6352,
+    "unigram_w2": 8271,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템을",
+    "w2": "종류의",
+    "pmi": 0.2092273673344574,
+    "cooc_count": 31,
+    "unigram_w1": 8271,
+    "unigram_w2": 5785,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템을",
+    "w2": "제공합니까?",
+    "pmi": 2.9429943656535413,
+    "cooc_count": 8,
+    "unigram_w1": 8271,
+    "unigram_w2": 97,
+    "window_size": 10
+  },
+  {
+    "w1": "시스템을",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 121,
+    "unigram_w1": 8271,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "동적",
+    "pmi": 0.8941384692572414,
+    "cooc_count": 6,
+    "unigram_w1": 6352,
+    "unigram_w2": 735,
+    "window_size": 10
+  },
+  {
+    "w1": "동적",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 735,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "허용",
+    "pmi": 1.3217865865443243,
+    "cooc_count": 16,
+    "unigram_w1": 6352,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "종류의",
+    "w2": "허용",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5785,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "허용",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 55483,
+    "unigram_w2": 1278,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "종류의",
+    "pmi": 0.40652168960072005,
+    "cooc_count": 29,
+    "unigram_w1": 6352,
+    "unigram_w2": 5785,
+    "window_size": 10
+  },
+  {
+    "w1": "내에서",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 152,
+    "unigram_w1": 6352,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "종류의",
+    "pmi": 2.3669051499848894,
+    "cooc_count": 1799,
+    "unigram_w1": 55483,
+    "unigram_w2": 5785,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "제공합니까?",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 55483,
+    "unigram_w2": 97,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "hieß",
+    "w2": "ursprünglich",
+    "pmi": 2.9671250513391874,
+    "cooc_count": 123,
+    "unigram_w1": 10278,
+    "unigram_w2": 11475,
+    "window_size": 10
+  },
+  {
+    "w1": "hieß",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 477,
+    "unigram_w1": 10278,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "hieß",
+    "w2": "software",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 10278,
+    "unigram_w2": 56376,
+    "window_size": 10
+  },
+  {
+    "w1": "flood",
+    "w2": "modeller",
+    "pmi": 9.51441868834702,
+    "cooc_count": 21,
+    "unigram_w1": 385,
+    "unigram_w2": 75,
+    "window_size": 10
+  },
+  {
+    "w1": "flood",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 385,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "ursprünglich",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 451,
+    "unigram_w1": 11475,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "software",
+    "w2": "ursprünglich",
+    "pmi": 0.4602360337445572,
+    "cooc_count": 55,
+    "unigram_w1": 56376,
+    "unigram_w2": 11475,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 836,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "software",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 1730,
+    "unigram_w1": 56376,
+    "unigram_w2": 946950,
+    "window_size": 10
+  }
+]

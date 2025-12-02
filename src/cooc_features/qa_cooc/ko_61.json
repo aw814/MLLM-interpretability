@@ -1,0 +1,380 @@
+[
+  {
+    "w1": "무엇인가요?",
+    "w2": "이름은",
+    "pmi": 0.7747987028586958,
+    "cooc_count": 5,
+    "unigram_w1": 1536,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "앨범의",
+    "w2": "이름은",
+    "pmi": 3.0261990142969397,
+    "cooc_count": 12,
+    "unigram_w1": 388,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "이름은",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 44802,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "이름은",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 26438,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "수록된",
+    "w2": "이름은",
+    "pmi": 1.0258341522007022,
+    "cooc_count": 2,
+    "unigram_w1": 478,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "that",
+    "pmi": 2.318814927018347,
+    "cooc_count": 2083,
+    "unigram_w1": 36254,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "what",
+    "pmi": 1.6891978182993281,
+    "cooc_count": 652,
+    "unigram_w1": 36254,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "s",
+    "pmi": 1.3157266517801056,
+    "cooc_count": 3182,
+    "unigram_w1": 36254,
+    "unigram_w2": 44802,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "motion",
+    "pmi": 1.8317800266319675,
+    "cooc_count": 52,
+    "unigram_w1": 36254,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "is",
+    "pmi": 2.281022121221552,
+    "cooc_count": 4090,
+    "unigram_w1": 36254,
+    "unigram_w2": 21933,
+    "window_size": 10
+  },
+  {
+    "w1": "in",
+    "w2": "love",
+    "pmi": 1.9262369634217127,
+    "cooc_count": 608,
+    "unigram_w1": 36254,
+    "unigram_w2": 4649,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "in",
+    "pmi": 2.226350724111717,
+    "cooc_count": 244,
+    "unigram_w1": 1382,
+    "unigram_w2": 36254,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "in",
+    "pmi": 2.245074112817458,
+    "cooc_count": 4756,
+    "unigram_w1": 26438,
+    "unigram_w2": 36254,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 2.6428393576985134,
+    "cooc_count": 502,
+    "unigram_w1": 10756,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": 1.9003952997284823,
+    "cooc_count": 1694,
+    "unigram_w1": 44802,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "that",
+    "pmi": 1.2928468670208686,
+    "cooc_count": 9,
+    "unigram_w1": 437,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "that",
+    "pmi": 3.457982144762551,
+    "cooc_count": 3937,
+    "unigram_w1": 21933,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": 1.924104913979865,
+    "cooc_count": 180,
+    "unigram_w1": 4649,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "that",
+    "pmi": 2.038613042674725,
+    "cooc_count": 60,
+    "unigram_w1": 1382,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": 2.308216226393869,
+    "cooc_count": 1503,
+    "unigram_w1": 26438,
+    "unigram_w2": 10756,
+    "window_size": 10
+  },
+  {
+    "w1": "곡이",
+    "w2": "앨범의",
+    "pmi": 4.548664482213043,
+    "cooc_count": 9,
+    "unigram_w1": 467,
+    "unigram_w2": 388,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 2.137903238232941,
+    "cooc_count": 1262,
+    "unigram_w1": 44802,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "what",
+    "pmi": 3.0957000824126224,
+    "cooc_count": 1610,
+    "unigram_w1": 21933,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": 2.5257410226098402,
+    "cooc_count": 193,
+    "unigram_w1": 4649,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "what",
+    "pmi": 2.2373713667614865,
+    "cooc_count": 43,
+    "unigram_w1": 1382,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 2.0845158447494363,
+    "cooc_count": 706,
+    "unigram_w1": 26438,
+    "unigram_w2": 6319,
+    "window_size": 10
+  },
+  {
+    "w1": "motion",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 437,
+    "unigram_w2": 44802,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "s",
+    "pmi": 1.3673309573958123,
+    "cooc_count": 2027,
+    "unigram_w1": 21933,
+    "unigram_w2": 44802,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": 1.322952234710888,
+    "cooc_count": 411,
+    "unigram_w1": 4649,
+    "unigram_w2": 44802,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "s",
+    "pmi": 1.3215004823108794,
+    "cooc_count": 122,
+    "unigram_w1": 1382,
+    "unigram_w2": 44802,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": 1.1073612489022013,
+    "cooc_count": 1884,
+    "unigram_w1": 26438,
+    "unigram_w2": 44802,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "motion",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21933,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "motion",
+    "pmi": 1.3207282465027104,
+    "cooc_count": 4,
+    "unigram_w1": 4649,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "motion",
+    "pmi": 3.2269958444256255,
+    "cooc_count": 8,
+    "unigram_w1": 1382,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "motion",
+    "pmi": 1.3317778748632092,
+    "cooc_count": 23,
+    "unigram_w1": 26438,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "love",
+    "pmi": 2.3083350204259814,
+    "cooc_count": 539,
+    "unigram_w1": 21933,
+    "unigram_w2": 4649,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "is",
+    "pmi": 2.22217245365869,
+    "cooc_count": 147,
+    "unigram_w1": 1382,
+    "unigram_w2": 21933,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "is",
+    "pmi": 2.5046327357060854,
+    "cooc_count": 3730,
+    "unigram_w1": 26438,
+    "unigram_w2": 21933,
+    "window_size": 10
+  },
+  {
+    "w1": "heart",
+    "w2": "love",
+    "pmi": 3.483560441943211,
+    "cooc_count": 110,
+    "unigram_w1": 1382,
+    "unigram_w2": 4649,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": 1.7507032866122116,
+    "cooc_count": 372,
+    "unigram_w1": 26438,
+    "unigram_w2": 4649,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "heart",
+    "pmi": 1.522266664180241,
+    "cooc_count": 88,
+    "unigram_w1": 26438,
+    "unigram_w2": 1382,
+    "window_size": 10
+  },
+  {
+    "w1": "곡이",
+    "w2": "수록된",
+    "pmi": 4.088744661063955,
+    "cooc_count": 7,
+    "unigram_w1": 467,
+    "unigram_w2": 478,
+    "window_size": 10
+  }
+]

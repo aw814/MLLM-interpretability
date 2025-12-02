@@ -1,0 +1,281 @@
+[
+  {
+    "w1": "कनेडियन",
+    "w2": "किया",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 92,
+    "unigram_w2": 1376196,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "नेटवर्क",
+    "pmi": 0.0,
+    "cooc_count": 867,
+    "unigram_w1": 1376196,
+    "unigram_w2": 25269,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "को",
+    "pmi": 0.0,
+    "cooc_count": 269419,
+    "unigram_w1": 1376196,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "प्रसारित",
+    "pmi": 1.3362447803318307,
+    "cooc_count": 1116,
+    "unigram_w1": 1376196,
+    "unigram_w2": 5985,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "किस",
+    "pmi": 0.5472628835520531,
+    "cooc_count": 28881,
+    "unigram_w1": 1376196,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "टेलीविजन",
+    "pmi": 0.0,
+    "cooc_count": 316,
+    "unigram_w1": 1376196,
+    "unigram_w2": 7677,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "सीबीसी",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1376196,
+    "unigram_w2": 130,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "ने",
+    "pmi": 0.4818940061211266,
+    "cooc_count": 256938,
+    "unigram_w1": 1376196,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "किया",
+    "w2": "ग्रेटेस्ट",
+    "pmi": 0.49447596142377276,
+    "cooc_count": 9,
+    "unigram_w1": 1376196,
+    "unigram_w2": 112,
+    "window_size": 10
+  },
+  {
+    "w1": "कनेडियन",
+    "w2": "को",
+    "pmi": 0.1315747386112065,
+    "cooc_count": 21,
+    "unigram_w1": 92,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "कनेडियन",
+    "w2": "ने",
+    "pmi": 0.6828715063506408,
+    "cooc_count": 21,
+    "unigram_w1": 92,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "नेटवर्क",
+    "pmi": 0.0,
+    "cooc_count": 3484,
+    "unigram_w1": 5619443,
+    "unigram_w2": 25269,
+    "window_size": 10
+  },
+  {
+    "w1": "नेटवर्क",
+    "w2": "प्रसारित",
+    "pmi": 2.578918616640429,
+    "cooc_count": 71,
+    "unigram_w1": 25269,
+    "unigram_w2": 5985,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "नेटवर्क",
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 340928,
+    "unigram_w2": 25269,
+    "window_size": 10
+  },
+  {
+    "w1": "टेलीविजन",
+    "w2": "नेटवर्क",
+    "pmi": 2.776796434075623,
+    "cooc_count": 111,
+    "unigram_w1": 7677,
+    "unigram_w2": 25269,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "नेटवर्क",
+    "pmi": 0.0,
+    "cooc_count": 1570,
+    "unigram_w1": 3237935,
+    "unigram_w2": 25269,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "प्रसारित",
+    "pmi": 0.14239241335404232,
+    "cooc_count": 1381,
+    "unigram_w1": 5619443,
+    "unigram_w2": 5985,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "को",
+    "pmi": 0.0,
+    "cooc_count": 46996,
+    "unigram_w1": 340928,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "टेलीविजन",
+    "pmi": 0.0,
+    "cooc_count": 909,
+    "unigram_w1": 5619443,
+    "unigram_w2": 7677,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "सीबीसी",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 5619443,
+    "unigram_w2": 130,
+    "window_size": 10
+  },
+  {
+    "w1": "इन्वेंशन",
+    "w2": "को",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 10,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 631245,
+    "unigram_w1": 5619443,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "ग्रेटेस्ट",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 5619443,
+    "unigram_w2": 112,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "प्रसारित",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 340928,
+    "unigram_w2": 5985,
+    "window_size": 10
+  },
+  {
+    "w1": "टेलीविजन",
+    "w2": "प्रसारित",
+    "pmi": 4.33590197905699,
+    "cooc_count": 125,
+    "unigram_w1": 7677,
+    "unigram_w2": 5985,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "प्रसारित",
+    "pmi": 0.0,
+    "cooc_count": 327,
+    "unigram_w1": 3237935,
+    "unigram_w2": 5985,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "टेलीविजन",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 340928,
+    "unigram_w2": 7677,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 30576,
+    "unigram_w1": 340928,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "टेलीविजन",
+    "w2": "ने",
+    "pmi": 0.0,
+    "cooc_count": 605,
+    "unigram_w1": 7677,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  },
+  {
+    "w1": "ने",
+    "w2": "सीबीसी",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 3237935,
+    "unigram_w2": 130,
+    "window_size": 10
+  },
+  {
+    "w1": "इन्वेंशन",
+    "w2": "ने",
+    "pmi": 1.4669904651163128,
+    "cooc_count": 5,
+    "unigram_w1": 10,
+    "unigram_w2": 3237935,
+    "window_size": 10
+  }
+]

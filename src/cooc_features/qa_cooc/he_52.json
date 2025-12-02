@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "p",
+    "w2": "פלאנק",
+    "pmi": 2.738739749308085,
+    "cooc_count": 15,
+    "unigram_w1": 57979,
+    "unigram_w2": 229,
+    "window_size": 10
+  },
+  {
+    "w1": "מסת",
+    "w2": "פלאנק",
+    "pmi": 5.223974157661712,
+    "cooc_count": 9,
+    "unigram_w1": 2898,
+    "unigram_w2": 229,
+    "window_size": 10
+  },
+  {
+    "w1": "במשוואה",
+    "w2": "מסת",
+    "pmi": 4.091023731412711,
+    "cooc_count": 4,
+    "unigram_w1": 316,
+    "unigram_w2": 2898,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "במשוואה",
+    "pmi": 1.4967617951747325,
+    "cooc_count": 3,
+    "unigram_w1": 29096,
+    "unigram_w2": 316,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "מהי",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 57979,
+    "unigram_w2": 37619,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "p",
+    "pmi": 2.4959370509180765,
+    "cooc_count": 1495,
+    "unigram_w1": 29096,
+    "unigram_w2": 57979,
+    "window_size": 10
+  },
+  {
+    "w1": "מהי",
+    "w2": "מסת",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 37619,
+    "unigram_w2": 2898,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "מהי",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 29096,
+    "unigram_w2": 37619,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "מסת",
+    "pmi": 0.5800108700112776,
+    "cooc_count": 11,
+    "unigram_w1": 29096,
+    "unigram_w2": 2898,
+    "window_size": 10
+  }
+]

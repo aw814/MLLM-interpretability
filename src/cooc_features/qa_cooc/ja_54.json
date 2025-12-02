@@ -1,0 +1,686 @@
+[
+  {
+    "w1": "た",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 8998299,
+    "unigram_w1": 26828306,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "何月",
+    "pmi": 0.0,
+    "cooc_count": 165,
+    "unigram_w1": 67342455,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 93149,
+    "unigram_w1": 67342455,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 15064864,
+    "unigram_w1": 42919610,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "行わ",
+    "pmi": 0.0,
+    "cooc_count": 53759,
+    "unigram_w1": 67342455,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4003473,
+    "unigram_w1": 11759829,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 9256,
+    "unigram_w1": 289563,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 2286529,
+    "unigram_w1": 67342455,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 1143073,
+    "unigram_w1": 67342455,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 13777172,
+    "unigram_w1": 67342455,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 985925,
+    "unigram_w1": 67342455,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 410,
+    "unigram_w1": 22594,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "何月",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 26828306,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 27485,
+    "unigram_w1": 26828306,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 7390972,
+    "unigram_w1": 26828306,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "行わ",
+    "pmi": 0.3680136454726583,
+    "cooc_count": 39439,
+    "unigram_w1": 26828306,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 2096552,
+    "unigram_w1": 11759829,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 4273,
+    "unigram_w1": 289563,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "れ",
+    "pmi": 0.2927394791686922,
+    "cooc_count": 2345330,
+    "unigram_w1": 26828306,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "まし",
+    "pmi": 1.4162664734921657,
+    "cooc_count": 3201837,
+    "unigram_w1": 26828306,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 5141625,
+    "unigram_w1": 26828306,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 350919,
+    "unigram_w1": 26828306,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 164,
+    "unigram_w1": 22594,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "何月",
+    "pmi": 0.13611963920435644,
+    "cooc_count": 123,
+    "unigram_w1": 42919610,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "何月",
+    "pmi": 1.2435475266161082,
+    "cooc_count": 102,
+    "unigram_w1": 11759829,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "何月",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 8424512,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "何月",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 3739370,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "何月",
+    "pmi": 0.45425075444982516,
+    "cooc_count": 132,
+    "unigram_w1": 33509041,
+    "unigram_w2": 323,
+    "window_size": 10
+  },
+  {
+    "w1": "何月",
+    "w2": "月",
+    "pmi": 1.4101136026392218,
+    "cooc_count": 42,
+    "unigram_w1": 323,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 48426,
+    "unigram_w1": 42919610,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "イベント",
+    "w2": "行わ",
+    "pmi": 2.399031135495953,
+    "cooc_count": 2185,
+    "unigram_w1": 195011,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 5530,
+    "unigram_w1": 11759829,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 289563,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 6889,
+    "unigram_w1": 8424512,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "イベント",
+    "pmi": 0.1854246611988522,
+    "cooc_count": 6797,
+    "unigram_w1": 3739370,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 37588,
+    "unigram_w1": 33509041,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "イベント",
+    "w2": "月",
+    "pmi": 0.6006919613228411,
+    "cooc_count": 11287,
+    "unigram_w1": 195011,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "イベント",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 22594,
+    "unigram_w2": 195011,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "行わ",
+    "pmi": 0.06753809832839867,
+    "cooc_count": 46719,
+    "unigram_w1": 42919610,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 2348655,
+    "unigram_w1": 11759829,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 4522,
+    "unigram_w1": 289563,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 2247605,
+    "unigram_w1": 42919610,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 1218405,
+    "unigram_w1": 42919610,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "festa",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 155,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 9472206,
+    "unigram_w1": 42919610,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 636615,
+    "unigram_w1": 42919610,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 219,
+    "unigram_w1": 22594,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "行わ",
+    "pmi": 0.0,
+    "cooc_count": 3257,
+    "unigram_w1": 11759829,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "行わ",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 289563,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "行わ",
+    "pmi": 2.2609690249529857,
+    "cooc_count": 82220,
+    "unigram_w1": 8424512,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "行わ",
+    "pmi": 0.7974918036677529,
+    "cooc_count": 8446,
+    "unigram_w1": 3739370,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "行わ",
+    "pmi": 0.0,
+    "cooc_count": 30715,
+    "unigram_w1": 33509041,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "行わ",
+    "pmi": 0.5638713805695622,
+    "cooc_count": 7330,
+    "unigram_w1": 4099316,
+    "unigram_w2": 131394,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "か",
+    "pmi": 0.0,
+    "cooc_count": 1614,
+    "unigram_w1": 289563,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "れ",
+    "pmi": 0.13379328865606396,
+    "cooc_count": 876965,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 141376,
+    "unigram_w1": 11759829,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 150830,
+    "unigram_w1": 11759829,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "か",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 22594,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 814,
+    "unigram_w1": 289563,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 1229,
+    "unigram_w1": 289563,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "festa",
+    "pmi": 3.136315251927348,
+    "cooc_count": 8,
+    "unigram_w1": 289563,
+    "unigram_w2": 155,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 3957,
+    "unigram_w1": 289563,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 2555,
+    "unigram_w1": 289563,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "k",
+    "pmi": 4.262158434035032,
+    "cooc_count": 3595,
+    "unigram_w1": 289563,
+    "unigram_w2": 22594,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 215605,
+    "unigram_w1": 3739370,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1480352,
+    "unigram_w1": 33509041,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 100466,
+    "unigram_w1": 8424512,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 22594,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 741657,
+    "unigram_w1": 33509041,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 69109,
+    "unigram_w1": 3739370,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 22594,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "festa",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 155,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 508055,
+    "unigram_w1": 33509041,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 162,
+    "unigram_w1": 22594,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 22594,
+    "unigram_w2": 4099316,
+    "window_size": 10
+  }
+]

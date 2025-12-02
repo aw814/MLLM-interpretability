@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "and",
+    "w2": "residential",
+    "pmi": 3.455000886276674,
+    "cooc_count": 137,
+    "unigram_w1": 258488,
+    "unigram_w2": 312,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "uniform",
+    "pmi": 0.9285271409727666,
+    "cooc_count": 43,
+    "unigram_w1": 258488,
+    "unigram_w2": 1225,
+    "window_size": 10
+  },
+  {
+    "w1": "uniform",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 1225,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 485,
+    "unigram_w1": 258488,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "ausgearbeitet",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 258488,
+    "unigram_w2": 1309,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "landlord",
+    "pmi": 3.6344729088374583,
+    "cooc_count": 31,
+    "unigram_w1": 258488,
+    "unigram_w2": 59,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "and",
+    "pmi": 1.7073808915262674,
+    "cooc_count": 256,
+    "unigram_w1": 3347,
+    "unigram_w2": 258488,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "wann",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 258488,
+    "unigram_w2": 32933,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "and",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 4369,
+    "unigram_w2": 258488,
+    "window_size": 10
+  },
+  {
+    "w1": "ausgearbeitet",
+    "w2": "wurde",
+    "pmi": 1.1553128060344693,
+    "cooc_count": 88,
+    "unigram_w1": 1309,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 3347,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "wann",
+    "w2": "wurde",
+    "pmi": 0.0,
+    "cooc_count": 569,
+    "unigram_w1": 32933,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "wurde",
+    "pmi": 1.2060466054124725,
+    "cooc_count": 309,
+    "unigram_w1": 4369,
+    "unigram_w2": 394602,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "wann",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3347,
+    "unigram_w2": 32933,
+    "window_size": 10
+  }
+]

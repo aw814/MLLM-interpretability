@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "chamanismo",
+    "w2": "prácticas",
+    "pmi": 4.309929164677874,
+    "cooc_count": 7,
+    "unigram_w1": 79,
+    "unigram_w2": 20996,
+    "window_size": 10
+  },
+  {
+    "w1": "prácticas",
+    "w2": "seguían",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 20996,
+    "unigram_w2": 1694,
+    "window_size": 10
+  },
+  {
+    "w1": "prácticas",
+    "w2": "religiosas",
+    "pmi": 3.677861193488177,
+    "cooc_count": 188,
+    "unigram_w1": 20996,
+    "unigram_w2": 3992,
+    "window_size": 10
+  }
+]

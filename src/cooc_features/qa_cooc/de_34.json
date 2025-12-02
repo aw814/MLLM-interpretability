@@ -1,0 +1,263 @@
+[
+  {
+    "w1": "antike",
+    "w2": "stadt",
+    "pmi": 1.4517586140536827,
+    "cooc_count": 96,
+    "unigram_w1": 3885,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "antike",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 3885,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "antike",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3885,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "antike",
+    "w2": "mit",
+    "pmi": 0.0,
+    "cooc_count": 378,
+    "unigram_w1": 3885,
+    "unigram_w2": 2844406,
+    "window_size": 10
+  },
+  {
+    "w1": "antike",
+    "w2": "autoren",
+    "pmi": 2.1835956716921348,
+    "cooc_count": 19,
+    "unigram_w1": 3885,
+    "unigram_w2": 10266,
+    "window_size": 10
+  },
+  {
+    "w1": "laut",
+    "w2": "stadt",
+    "pmi": 0.1987088692528956,
+    "cooc_count": 320,
+    "unigram_w1": 45338,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "einigen",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 38766,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "stadt",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 2583,
+    "unigram_w1": 107833,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "stadt",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 421,
+    "unigram_w1": 107833,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "mit",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 10873,
+    "unigram_w1": 2844406,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "autoren",
+    "w2": "stadt",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 10266,
+    "unigram_w2": 107833,
+    "window_size": 10
+  },
+  {
+    "w1": "einigen",
+    "w2": "laut",
+    "pmi": 0.40925509133426025,
+    "cooc_count": 142,
+    "unigram_w1": 38766,
+    "unigram_w2": 45338,
+    "window_size": 10
+  },
+  {
+    "w1": "laut",
+    "w2": "wird",
+    "pmi": 0.010959731172237728,
+    "cooc_count": 2101,
+    "unigram_w1": 45338,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "laut",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 144,
+    "unigram_w1": 45338,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "laut",
+    "w2": "mit",
+    "pmi": 0.0,
+    "cooc_count": 3145,
+    "unigram_w1": 45338,
+    "unigram_w2": 2844406,
+    "window_size": 10
+  },
+  {
+    "w1": "autoren",
+    "w2": "laut",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 10266,
+    "unigram_w2": 45338,
+    "window_size": 10
+  },
+  {
+    "w1": "einigen",
+    "w2": "gleichgesetzt",
+    "pmi": 1.9042337716948703,
+    "cooc_count": 5,
+    "unigram_w1": 38766,
+    "unigram_w2": 358,
+    "window_size": 10
+  },
+  {
+    "w1": "einigen",
+    "w2": "wird",
+    "pmi": 0.009596032088229005,
+    "cooc_count": 1794,
+    "unigram_w1": 38766,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "einigen",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 218,
+    "unigram_w1": 38766,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "einigen",
+    "w2": "mit",
+    "pmi": 0.15908871264953697,
+    "cooc_count": 6937,
+    "unigram_w1": 38766,
+    "unigram_w2": 2844406,
+    "window_size": 10
+  },
+  {
+    "w1": "autoren",
+    "w2": "einigen",
+    "pmi": 0.5222550409973319,
+    "cooc_count": 36,
+    "unigram_w1": 10266,
+    "unigram_w2": 38766,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichgesetzt",
+    "w2": "wird",
+    "pmi": 1.817279372696267,
+    "cooc_count": 101,
+    "unigram_w1": 358,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichgesetzt",
+    "w2": "mit",
+    "pmi": 1.317349889493972,
+    "cooc_count": 204,
+    "unigram_w1": 358,
+    "unigram_w2": 2844406,
+    "window_size": 10
+  },
+  {
+    "w1": "welche",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 4678,
+    "unigram_w1": 138445,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "mit",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 87154,
+    "unigram_w1": 2844406,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "autoren",
+    "w2": "wird",
+    "pmi": 0.0,
+    "cooc_count": 247,
+    "unigram_w1": 10266,
+    "unigram_w2": 854213,
+    "window_size": 10
+  },
+  {
+    "w1": "mit",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 11412,
+    "unigram_w1": 2844406,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "autoren",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 10266,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "autoren",
+    "w2": "mit",
+    "pmi": 0.0,
+    "cooc_count": 866,
+    "unigram_w1": 10266,
+    "unigram_w2": 2844406,
+    "window_size": 10
+  }
+]

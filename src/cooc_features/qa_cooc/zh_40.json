@@ -1,0 +1,767 @@
+[
+  {
+    "w1": "jim",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 107,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "通往",
+    "pmi": 0.12784104468561697,
+    "cooc_count": 1916,
+    "unigram_w1": 10165533,
+    "unigram_w2": 2414,
+    "window_size": 10
+  },
+  {
+    "w1": "全明星",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 639,
+    "unigram_w1": 1304,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "制作",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 17674,
+    "unigram_w1": 41687,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "密西西比",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 35,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "王国",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1761,
+    "unigram_w1": 3479,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "参与",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 23224,
+    "unigram_w1": 46380,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1571,
+    "unigram_w1": 3593,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 283,
+    "unigram_w1": 9783,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 803707,
+    "unigram_w1": 1514452,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 260,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 45,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 5281,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1155684,
+    "unigram_w1": 2335068,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "之匙",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 38,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "乐队",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1689,
+    "unigram_w1": 2883,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "北",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 4030,
+    "unigram_w1": 20297,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 248,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 29760,
+    "unigram_w1": 10165533,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "the",
+    "pmi": 5.465382971444477,
+    "cooc_count": 17,
+    "unigram_w1": 107,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "jim",
+    "pmi": 8.01390860207537,
+    "cooc_count": 1,
+    "unigram_w1": 45,
+    "unigram_w2": 107,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "to",
+    "pmi": 5.445924916474976,
+    "cooc_count": 9,
+    "unigram_w1": 107,
+    "unigram_w2": 5281,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "jim",
+    "pmi": 8.253052494736021,
+    "cooc_count": 7,
+    "unigram_w1": 248,
+    "unigram_w2": 107,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "通往",
+    "pmi": 0.0,
+    "cooc_count": 241,
+    "unigram_w1": 1514452,
+    "unigram_w2": 2414,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "通往",
+    "pmi": 0.0,
+    "cooc_count": 276,
+    "unigram_w1": 2335068,
+    "unigram_w2": 2414,
+    "window_size": 10
+  },
+  {
+    "w1": "北",
+    "w2": "通往",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 20297,
+    "unigram_w2": 2414,
+    "window_size": 10
+  },
+  {
+    "w1": "谁",
+    "w2": "通往",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 77297,
+    "unigram_w2": 2414,
+    "window_size": 10
+  },
+  {
+    "w1": "全明星",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 1304,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "全明星",
+    "pmi": 0.0,
+    "cooc_count": 168,
+    "unigram_w1": 2335068,
+    "unigram_w2": 1304,
+    "window_size": 10
+  },
+  {
+    "w1": "全明星",
+    "w2": "谁",
+    "pmi": 0.3673828528244751,
+    "cooc_count": 10,
+    "unigram_w1": 1304,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "制作",
+    "w2": "王国",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 41687,
+    "unigram_w2": 3479,
+    "window_size": 10
+  },
+  {
+    "w1": "制作",
+    "w2": "参与",
+    "pmi": 0.336578380628222,
+    "cooc_count": 186,
+    "unigram_w1": 41687,
+    "unigram_w2": 46380,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "制作",
+    "pmi": 2.273882716599116,
+    "cooc_count": 100,
+    "unigram_w1": 3593,
+    "unigram_w2": 41687,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "制作",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 9783,
+    "unigram_w2": 41687,
+    "window_size": 10
+  },
+  {
+    "w1": "制作",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 2882,
+    "unigram_w1": 41687,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "制作",
+    "pmi": 0.0,
+    "cooc_count": 3507,
+    "unigram_w1": 2335068,
+    "unigram_w2": 41687,
+    "window_size": 10
+  },
+  {
+    "w1": "乐队",
+    "w2": "制作",
+    "pmi": 0.5969188211883514,
+    "cooc_count": 15,
+    "unigram_w1": 2883,
+    "unigram_w2": 41687,
+    "window_size": 10
+  },
+  {
+    "w1": "制作",
+    "w2": "北",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 41687,
+    "unigram_w2": 20297,
+    "window_size": 10
+  },
+  {
+    "w1": "制作",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 158,
+    "unigram_w1": 41687,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "密西西比",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1514452,
+    "unigram_w2": 35,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "王国",
+    "pmi": 0.0,
+    "cooc_count": 141,
+    "unigram_w1": 1514452,
+    "unigram_w2": 3479,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "王国",
+    "pmi": 0.0,
+    "cooc_count": 453,
+    "unigram_w1": 2335068,
+    "unigram_w2": 3479,
+    "window_size": 10
+  },
+  {
+    "w1": "王国",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 3479,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "参与",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 3593,
+    "unigram_w2": 46380,
+    "window_size": 10
+  },
+  {
+    "w1": "参与",
+    "w2": "和",
+    "pmi": 0.19428761665558705,
+    "cooc_count": 5861,
+    "unigram_w1": 46380,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "参与",
+    "pmi": 0.0,
+    "cooc_count": 6238,
+    "unigram_w1": 2335068,
+    "unigram_w2": 46380,
+    "window_size": 10
+  },
+  {
+    "w1": "乐队",
+    "w2": "参与",
+    "pmi": 1.0780264838640001,
+    "cooc_count": 27,
+    "unigram_w1": 2883,
+    "unigram_w2": 46380,
+    "window_size": 10
+  },
+  {
+    "w1": "北",
+    "w2": "参与",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 20297,
+    "unigram_w2": 46380,
+    "window_size": 10
+  },
+  {
+    "w1": "参与",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 46380,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "专辑",
+    "pmi": 0.21686796340475778,
+    "cooc_count": 3,
+    "unigram_w1": 9783,
+    "unigram_w2": 3593,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 3593,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 344,
+    "unigram_w1": 3593,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "乐队",
+    "pmi": 4.588565683605034,
+    "cooc_count": 70,
+    "unigram_w1": 3593,
+    "unigram_w2": 2883,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "谁",
+    "pmi": 0.48523391968865487,
+    "cooc_count": 31,
+    "unigram_w1": 3593,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 9783,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "the",
+    "pmi": 4.74004910438863,
+    "cooc_count": 20,
+    "unigram_w1": 260,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "the",
+    "pmi": 5.577777513759683,
+    "cooc_count": 8,
+    "unigram_w1": 45,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "to",
+    "pmi": 6.039659108082739,
+    "cooc_count": 1490,
+    "unigram_w1": 9783,
+    "unigram_w2": 5281,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "the",
+    "pmi": 5.955071744901152,
+    "cooc_count": 7,
+    "unigram_w1": 27,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "the",
+    "pmi": 5.168398506330383,
+    "cooc_count": 17,
+    "unigram_w1": 144,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "alvin",
+    "w2": "the",
+    "pmi": 5.778942158355117,
+    "cooc_count": 5,
+    "unigram_w1": 23,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "ry",
+    "w2": "the",
+    "pmi": 5.24357542567301,
+    "cooc_count": 7,
+    "unigram_w1": 55,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 9783,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "the",
+    "pmi": 4.356519073146721,
+    "cooc_count": 13,
+    "unigram_w1": 248,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 5281,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 140132,
+    "unigram_w1": 2335068,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "乐队",
+    "w2": "和",
+    "pmi": 0.1368906707236767,
+    "cooc_count": 344,
+    "unigram_w1": 2883,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "北",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 855,
+    "unigram_w1": 20297,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 2670,
+    "unigram_w1": 1514452,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "to",
+    "pmi": 4.925796900046672,
+    "cooc_count": 13,
+    "unigram_w1": 260,
+    "unigram_w2": 5281,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 260,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "to",
+    "pmi": 4.625692307596333,
+    "cooc_count": 1,
+    "unigram_w1": 27,
+    "unigram_w2": 5281,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "to",
+    "pmi": 3.6448630545846075,
+    "cooc_count": 2,
+    "unigram_w1": 144,
+    "unigram_w2": 5281,
+    "window_size": 10
+  },
+  {
+    "w1": "ry",
+    "w2": "to",
+    "pmi": 3.9141959883681916,
+    "cooc_count": 1,
+    "unigram_w1": 55,
+    "unigram_w2": 5281,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 5281,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "北",
+    "pmi": 0.08274234442287208,
+    "cooc_count": 8,
+    "unigram_w1": 5281,
+    "unigram_w2": 20297,
+    "window_size": 10
+  },
+  {
+    "w1": "alvin",
+    "w2": "johnson",
+    "pmi": 10.467533952482281,
+    "cooc_count": 8,
+    "unigram_w1": 23,
+    "unigram_w2": 144,
+    "window_size": 10
+  },
+  {
+    "w1": "alvin",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 23,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "之匙",
+    "w2": "了",
+    "pmi": 0.4948472888584853,
+    "cooc_count": 10,
+    "unigram_w1": 38,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "乐队",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 438,
+    "unigram_w1": 2883,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "北",
+    "pmi": 0.0,
+    "cooc_count": 1055,
+    "unigram_w1": 2335068,
+    "unigram_w2": 20297,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 248,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 9399,
+    "unigram_w1": 2335068,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "乐队",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2883,
+    "unigram_w2": 77297,
+    "window_size": 10
+  },
+  {
+    "w1": "北",
+    "w2": "谁",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 20297,
+    "unigram_w2": 77297,
+    "window_size": 10
+  }
+]

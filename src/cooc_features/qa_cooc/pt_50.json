@@ -1,0 +1,191 @@
+[
+  {
+    "w1": "asiáticos",
+    "w2": "feminino",
+    "pmi": 1.521601706850544,
+    "cooc_count": 6,
+    "unigram_w1": 832,
+    "unigram_w2": 22284,
+    "window_size": 10
+  },
+  {
+    "w1": "feminino",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 264,
+    "unigram_w1": 22284,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "feminino",
+    "w2": "ganhou",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 22284,
+    "unigram_w2": 15429,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "feminino",
+    "pmi": 1.8074442284514387,
+    "cooc_count": 47,
+    "unigram_w1": 4897,
+    "unigram_w2": 22284,
+    "window_size": 10
+  },
+  {
+    "w1": "feminino",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 101,
+    "unigram_w1": 22284,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "feminino",
+    "w2": "medalha",
+    "pmi": 0.6777930506814752,
+    "cooc_count": 14,
+    "unigram_w1": 22284,
+    "unigram_w2": 4514,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "nos",
+    "pmi": 0.5087581153250668,
+    "cooc_count": 45,
+    "unigram_w1": 832,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "jogos",
+    "pmi": 1.788799228674525,
+    "cooc_count": 27,
+    "unigram_w1": 832,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 270,
+    "unigram_w1": 19182,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "ganhou",
+    "pmi": 0.42530303965320815,
+    "cooc_count": 32,
+    "unigram_w1": 19182,
+    "unigram_w2": 15429,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "jogos",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 19182,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "ganhou",
+    "w2": "nos",
+    "pmi": 0.0,
+    "cooc_count": 472,
+    "unigram_w1": 15429,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "nos",
+    "pmi": 0.31862174449013897,
+    "cooc_count": 219,
+    "unigram_w1": 4897,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "nos",
+    "pmi": 0.9475525078211395,
+    "cooc_count": 6439,
+    "unigram_w1": 76765,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "medalha",
+    "w2": "nos",
+    "pmi": 0.3291091028426912,
+    "cooc_count": 204,
+    "unigram_w1": 4514,
+    "unigram_w2": 460179,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "ganhou",
+    "pmi": 1.8512772280552219,
+    "cooc_count": 34,
+    "unigram_w1": 4897,
+    "unigram_w2": 15429,
+    "window_size": 10
+  },
+  {
+    "w1": "ganhou",
+    "w2": "jogos",
+    "pmi": 0.36028241183042437,
+    "cooc_count": 120,
+    "unigram_w1": 15429,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "ganhou",
+    "w2": "medalha",
+    "pmi": 2.7370891380502282,
+    "cooc_count": 76,
+    "unigram_w1": 15429,
+    "unigram_w2": 4514,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "jogos",
+    "pmi": 1.6107658800108409,
+    "cooc_count": 133,
+    "unigram_w1": 4897,
+    "unigram_w2": 76765,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "medalha",
+    "pmi": 6.010751536076769,
+    "cooc_count": 637,
+    "unigram_w1": 4897,
+    "unigram_w2": 4514,
+    "window_size": 10
+  },
+  {
+    "w1": "jogos",
+    "w2": "medalha",
+    "pmi": 1.4169763629551828,
+    "cooc_count": 101,
+    "unigram_w1": 76765,
+    "unigram_w2": 4514,
+    "window_size": 10
+  }
+]

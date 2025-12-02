@@ -1,0 +1,119 @@
+[
+  {
+    "w1": "natation",
+    "w2": "synchronisée",
+    "pmi": 6.890115519304475,
+    "cooc_count": 32,
+    "unigram_w1": 3298,
+    "unigram_w2": 219,
+    "window_size": 10
+  },
+  {
+    "w1": "natation",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 3298,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "artistique",
+    "w2": "natation",
+    "pmi": 2.947061983072825,
+    "cooc_count": 36,
+    "unigram_w1": 12707,
+    "unigram_w2": 3298,
+    "window_size": 10
+  },
+  {
+    "w1": "comment",
+    "w2": "natation",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 190321,
+    "unigram_w2": 3298,
+    "window_size": 10
+  },
+  {
+    "w1": "appelait",
+    "w2": "s",
+    "pmi": 1.9854422069838082,
+    "cooc_count": 1208,
+    "unigram_w1": 2955,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "auparavant",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 444,
+    "unigram_w1": 10426,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "artistique",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 383,
+    "unigram_w1": 12707,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "comment",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 8118,
+    "unigram_w1": 190321,
+    "unigram_w2": 1244878,
+    "window_size": 10
+  },
+  {
+    "w1": "appelait",
+    "w2": "auparavant",
+    "pmi": 2.3102682838878024,
+    "cooc_count": 14,
+    "unigram_w1": 2955,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "appelait",
+    "w2": "comment",
+    "pmi": 0.23253742312875314,
+    "cooc_count": 32,
+    "unigram_w1": 2955,
+    "unigram_w2": 190321,
+    "window_size": 10
+  },
+  {
+    "w1": "artistique",
+    "w2": "auparavant",
+    "pmi": 0.985145304647989,
+    "cooc_count": 16,
+    "unigram_w1": 12707,
+    "unigram_w2": 10426,
+    "window_size": 10
+  },
+  {
+    "w1": "auparavant",
+    "w2": "comment",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 10426,
+    "unigram_w2": 190321,
+    "window_size": 10
+  },
+  {
+    "w1": "artistique",
+    "w2": "comment",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 12707,
+    "unigram_w2": 190321,
+    "window_size": 10
+  }
+]

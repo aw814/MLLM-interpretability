@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "prática",
+    "w2": "seguiam",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 51781,
+    "unigram_w2": 456,
+    "window_size": 10
+  },
+  {
+    "w1": "prática",
+    "w2": "religiosa",
+    "pmi": 0.9543798124293378,
+    "cooc_count": 48,
+    "unigram_w1": 51781,
+    "unigram_w2": 5051,
+    "window_size": 10
+  },
+  {
+    "w1": "prática",
+    "w2": "xamanismo",
+    "pmi": 0.30721541593042345,
+    "cooc_count": 1,
+    "unigram_w1": 51781,
+    "unigram_w2": 201,
+    "window_size": 10
+  }
+]

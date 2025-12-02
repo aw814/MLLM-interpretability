@@ -1,0 +1,101 @@
+[
+  {
+    "w1": "große",
+    "w2": "kanadische",
+    "pmi": 0.7704715168834314,
+    "cooc_count": 10,
+    "unigram_w1": 98457,
+    "unigram_w2": 876,
+    "window_size": 10
+  },
+  {
+    "w1": "begann",
+    "w2": "große",
+    "pmi": 0.2529482895131048,
+    "cooc_count": 106,
+    "unigram_w1": 15580,
+    "unigram_w2": 98457,
+    "window_size": 10
+  },
+  {
+    "w1": "große",
+    "w2": "offiziell",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 98457,
+    "unigram_w2": 9714,
+    "window_size": 10
+  },
+  {
+    "w1": "große",
+    "w2": "jahr",
+    "pmi": 0.0,
+    "cooc_count": 694,
+    "unigram_w1": 98457,
+    "unigram_w2": 207532,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "begann",
+    "pmi": 1.217587465889177,
+    "cooc_count": 8,
+    "unigram_w1": 2832,
+    "unigram_w2": 15580,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "offiziell",
+    "pmi": 1.2200037331624907,
+    "cooc_count": 5,
+    "unigram_w1": 2832,
+    "unigram_w2": 9714,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "jahr",
+    "pmi": 1.143968270138509,
+    "cooc_count": 99,
+    "unigram_w1": 2832,
+    "unigram_w2": 207532,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "kanadische",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 207532,
+    "unigram_w2": 876,
+    "window_size": 10
+  },
+  {
+    "w1": "begann",
+    "w2": "offiziell",
+    "pmi": 0.8499999352837018,
+    "cooc_count": 19,
+    "unigram_w1": 15580,
+    "unigram_w2": 9714,
+    "window_size": 10
+  },
+  {
+    "w1": "begann",
+    "w2": "jahr",
+    "pmi": 0.9237767504883805,
+    "cooc_count": 437,
+    "unigram_w1": 15580,
+    "unigram_w2": 207532,
+    "window_size": 10
+  },
+  {
+    "w1": "jahr",
+    "w2": "offiziell",
+    "pmi": 0.31347572567595433,
+    "cooc_count": 148,
+    "unigram_w1": 207532,
+    "unigram_w2": 9714,
+    "window_size": 10
+  }
+]

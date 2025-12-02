@@ -1,0 +1,245 @@
+[
+  {
+    "w1": "の",
+    "w2": "小説",
+    "pmi": 0.0,
+    "cooc_count": 20734,
+    "unigram_w1": 67342455,
+    "unigram_w2": 41581,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "チャーリー",
+    "pmi": 0.0,
+    "cooc_count": 1051,
+    "unigram_w1": 67342455,
+    "unigram_w2": 2379,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "名前",
+    "pmi": 0.0,
+    "cooc_count": 97928,
+    "unigram_w1": 67342455,
+    "unigram_w2": 224658,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 2501659,
+    "unigram_w1": 67342455,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "主人公",
+    "pmi": 0.13502892812521738,
+    "cooc_count": 22479,
+    "unigram_w1": 67342455,
+    "unigram_w2": 37663,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 13777172,
+    "unigram_w1": 67342455,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "家",
+    "pmi": 0.0,
+    "cooc_count": 328813,
+    "unigram_w1": 67342455,
+    "unigram_w2": 668700,
+    "window_size": 10
+  },
+  {
+    "w1": "名前",
+    "w2": "小説",
+    "pmi": 0.14951065894904186,
+    "cooc_count": 84,
+    "unigram_w1": 224658,
+    "unigram_w2": 41581,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "小説",
+    "pmi": 0.0,
+    "cooc_count": 3514,
+    "unigram_w1": 11320816,
+    "unigram_w2": 41581,
+    "window_size": 10
+  },
+  {
+    "w1": "主人公",
+    "w2": "小説",
+    "pmi": 3.3097298946815554,
+    "cooc_count": 332,
+    "unigram_w1": 37663,
+    "unigram_w2": 41581,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "小説",
+    "pmi": 0.0,
+    "cooc_count": 9393,
+    "unigram_w1": 33509041,
+    "unigram_w2": 41581,
+    "window_size": 10
+  },
+  {
+    "w1": "家",
+    "w2": "小説",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 668700,
+    "unigram_w2": 41581,
+    "window_size": 10
+  },
+  {
+    "w1": "チャーリー",
+    "w2": "名前",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2379,
+    "unigram_w2": 224658,
+    "window_size": 10
+  },
+  {
+    "w1": "チャーリー",
+    "w2": "・",
+    "pmi": 1.6352517002732176,
+    "cooc_count": 1070,
+    "unigram_w1": 2379,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "チャーリー",
+    "w2": "主人公",
+    "pmi": 3.1381467488487473,
+    "cooc_count": 16,
+    "unigram_w1": 2379,
+    "unigram_w2": 37663,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "チャーリー",
+    "pmi": 0.0,
+    "cooc_count": 537,
+    "unigram_w1": 33509041,
+    "unigram_w2": 2379,
+    "window_size": 10
+  },
+  {
+    "w1": "チャーリー",
+    "w2": "家",
+    "pmi": 0.6669545080701214,
+    "cooc_count": 24,
+    "unigram_w1": 2379,
+    "unigram_w2": 668700,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "名前",
+    "pmi": 0.0,
+    "cooc_count": 10460,
+    "unigram_w1": 11320816,
+    "unigram_w2": 224658,
+    "window_size": 10
+  },
+  {
+    "w1": "主人公",
+    "w2": "名前",
+    "pmi": 1.6553894592632452,
+    "cooc_count": 343,
+    "unigram_w1": 37663,
+    "unigram_w2": 224658,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "名前",
+    "pmi": 0.0,
+    "cooc_count": 48713,
+    "unigram_w1": 33509041,
+    "unigram_w2": 224658,
+    "window_size": 10
+  },
+  {
+    "w1": "名前",
+    "w2": "家",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 224658,
+    "unigram_w2": 668700,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "主人公",
+    "pmi": 0.1721968307212355,
+    "cooc_count": 3922,
+    "unigram_w1": 11320816,
+    "unigram_w2": 37663,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "・",
+    "pmi": 0.0,
+    "cooc_count": 962111,
+    "unigram_w1": 33509041,
+    "unigram_w2": 11320816,
+    "window_size": 10
+  },
+  {
+    "w1": "・",
+    "w2": "家",
+    "pmi": 0.0,
+    "cooc_count": 21478,
+    "unigram_w1": 11320816,
+    "unigram_w2": 668700,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "主人公",
+    "pmi": 0.16285696302341252,
+    "cooc_count": 11501,
+    "unigram_w1": 33509041,
+    "unigram_w2": 37663,
+    "window_size": 10
+  },
+  {
+    "w1": "主人公",
+    "w2": "家",
+    "pmi": 0.0,
+    "cooc_count": 116,
+    "unigram_w1": 37663,
+    "unigram_w2": 668700,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "家",
+    "pmi": 0.0,
+    "cooc_count": 155941,
+    "unigram_w1": 33509041,
+    "unigram_w2": 668700,
+    "window_size": 10
+  }
+]

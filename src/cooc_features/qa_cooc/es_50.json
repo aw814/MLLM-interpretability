@@ -1,0 +1,155 @@
+[
+  {
+    "w1": "asiáticos",
+    "w2": "juegos",
+    "pmi": 1.6799332603760257,
+    "cooc_count": 127,
+    "unigram_w1": 3090,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "asiáticos",
+    "w2": "femenino",
+    "pmi": 0.6965202925606191,
+    "cooc_count": 5,
+    "unigram_w1": 3090,
+    "unigram_w2": 14222,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "bronce",
+    "pmi": 0.3226499372711725,
+    "cooc_count": 8,
+    "unigram_w1": 18723,
+    "unigram_w2": 5458,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "ganó",
+    "pmi": 1.5362265464462912,
+    "cooc_count": 64,
+    "unigram_w1": 18723,
+    "unigram_w2": 12974,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "medalla",
+    "pmi": 0.8990496351785621,
+    "cooc_count": 19,
+    "unigram_w1": 18723,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "juegos",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 18723,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "femenino",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 18723,
+    "unigram_w2": 14222,
+    "window_size": 10
+  },
+  {
+    "w1": "bronce",
+    "w2": "ganó",
+    "pmi": 1.2490710850357474,
+    "cooc_count": 14,
+    "unigram_w1": 5458,
+    "unigram_w2": 12974,
+    "window_size": 10
+  },
+  {
+    "w1": "bronce",
+    "w2": "medalla",
+    "pmi": 5.726866903963661,
+    "cooc_count": 692,
+    "unigram_w1": 5458,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "bronce",
+    "w2": "juegos",
+    "pmi": 0.05102447645920319,
+    "cooc_count": 44,
+    "unigram_w1": 5458,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "bronce",
+    "w2": "femenino",
+    "pmi": 1.3513843928062421,
+    "cooc_count": 17,
+    "unigram_w1": 5458,
+    "unigram_w2": 14222,
+    "window_size": 10
+  },
+  {
+    "w1": "ganó",
+    "w2": "medalla",
+    "pmi": 2.415760578063374,
+    "cooc_count": 60,
+    "unigram_w1": 12974,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "ganó",
+    "w2": "juegos",
+    "pmi": 0.01609042687748447,
+    "cooc_count": 101,
+    "unigram_w1": 12974,
+    "unigram_w2": 135115,
+    "window_size": 10
+  },
+  {
+    "w1": "femenino",
+    "w2": "ganó",
+    "pmi": 1.1488136777117892,
+    "cooc_count": 33,
+    "unigram_w1": 14222,
+    "unigram_w2": 12974,
+    "window_size": 10
+  },
+  {
+    "w1": "juegos",
+    "w2": "medalla",
+    "pmi": 1.0216622198809737,
+    "cooc_count": 155,
+    "unigram_w1": 135115,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "femenino",
+    "w2": "medalla",
+    "pmi": 0.17548345822612452,
+    "cooc_count": 7,
+    "unigram_w1": 14222,
+    "unigram_w2": 7284,
+    "window_size": 10
+  },
+  {
+    "w1": "femenino",
+    "w2": "juegos",
+    "pmi": 0.9755538914781945,
+    "cooc_count": 289,
+    "unigram_w1": 14222,
+    "unigram_w2": 135115,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "w1": "localizada",
+    "w2": "país",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 17043,
+    "unigram_w2": 126825,
+    "window_size": 10
+  },
+  {
+    "w1": "alemanha",
+    "w2": "país",
+    "pmi": 0.5636955212508672,
+    "cooc_count": 314,
+    "unigram_w1": 19939,
+    "unigram_w2": 126825,
+    "window_size": 10
+  },
+  {
+    "w1": "estava",
+    "w2": "país",
+    "pmi": 0.0,
+    "cooc_count": 467,
+    "unigram_w1": 102145,
+    "unigram_w2": 126825,
+    "window_size": 10
+  },
+  {
+    "w1": "alemanha",
+    "w2": "bremerhaven",
+    "pmi": 4.9467700226002895,
+    "cooc_count": 23,
+    "unigram_w1": 19939,
+    "unigram_w2": 116,
+    "window_size": 10
+  },
+  {
+    "w1": "alemanha",
+    "w2": "localizada",
+    "pmi": 0.040246981420468536,
+    "cooc_count": 25,
+    "unigram_w1": 19939,
+    "unigram_w2": 17043,
+    "window_size": 10
+  },
+  {
+    "w1": "estava",
+    "w2": "localizada",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 102145,
+    "unigram_w2": 17043,
+    "window_size": 10
+  },
+  {
+    "w1": "alemanha",
+    "w2": "estava",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 19939,
+    "unigram_w2": 102145,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "w1": "a",
+    "w2": "édition",
+    "pmi": 0.0,
+    "cooc_count": 3167,
+    "unigram_w1": 2730698,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "édition",
+    "pmi": 0.0,
+    "cooc_count": 395,
+    "unigram_w1": 640934,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "pao",
+    "w2": "édition",
+    "pmi": 2.1378543181374496,
+    "cooc_count": 12,
+    "unigram_w1": 645,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "lancée",
+    "w2": "édition",
+    "pmi": 1.6865801663409503,
+    "cooc_count": 94,
+    "unigram_w1": 7934,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "édition",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 876,
+    "unigram_w1": 48646,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "édition",
+    "pmi": 0.0,
+    "cooc_count": 204,
+    "unigram_w1": 296470,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "édition",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 23473,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "édition",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 62661,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "édition",
+    "pmi": 0.374833691426727,
+    "cooc_count": 11,
+    "unigram_w1": 3447,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "édition",
+    "pmi": 0.7482526898118275,
+    "cooc_count": 768,
+    "unigram_w1": 165667,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "édition",
+    "pmi": 0.2362997361837026,
+    "cooc_count": 27,
+    "unigram_w1": 9718,
+    "unigram_w2": 48646,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": 0.2923699331615506,
+    "cooc_count": 105725,
+    "unigram_w1": 2730698,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "pao",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 2730698,
+    "unigram_w2": 645,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "lancée",
+    "pmi": 0.18881215368936982,
+    "cooc_count": 1180,
+    "unigram_w1": 2730698,
+    "unigram_w2": 7934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "été",
+    "pmi": 1.404852042000135,
+    "cooc_count": 281098,
+    "unigram_w1": 2730698,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 1801,
+    "unigram_w1": 2730698,
+    "unigram_w2": 23473,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "ming",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 2730698,
+    "unigram_w2": 372,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4469,
+    "unigram_w1": 2730698,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "daily",
+    "pmi": 0.0,
+    "cooc_count": 362,
+    "unigram_w1": 2730698,
+    "unigram_w2": 3447,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "année",
+    "pmi": 0.0,
+    "cooc_count": 13077,
+    "unigram_w1": 2730698,
+    "unigram_w2": 165667,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 931,
+    "unigram_w1": 9718,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "pao",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 640934,
+    "unigram_w2": 645,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "lancée",
+    "pmi": 0.16704730276314514,
+    "cooc_count": 271,
+    "unigram_w1": 640934,
+    "unigram_w2": 7934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 14396,
+    "unigram_w1": 640934,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": 0.892839666453013,
+    "cooc_count": 20925,
+    "unigram_w1": 640934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 640934,
+    "unigram_w2": 23473,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 1703,
+    "unigram_w1": 640934,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 3447,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 2910,
+    "unigram_w1": 165667,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 9718,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "pao",
+    "w2": "t",
+    "pmi": 0.4846285503978968,
+    "cooc_count": 14,
+    "unigram_w1": 645,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "lancée",
+    "w2": "été",
+    "pmi": 1.4680418227477627,
+    "cooc_count": 870,
+    "unigram_w1": 7934,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "lancée",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 7934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "lancée",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 7934,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "lancée",
+    "pmi": 0.8305301056215033,
+    "cooc_count": 136,
+    "unigram_w1": 165667,
+    "unigram_w2": 7934,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "lancée",
+    "pmi": 0.951099710736889,
+    "cooc_count": 9,
+    "unigram_w1": 9718,
+    "unigram_w2": 7934,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 4208,
+    "unigram_w1": 296470,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 23473,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 745,
+    "unigram_w1": 62661,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 3447,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 4034,
+    "unigram_w1": 165667,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "été",
+    "pmi": 0.14921527747621086,
+    "cooc_count": 285,
+    "unigram_w1": 9718,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 301,
+    "unigram_w1": 23473,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "t",
+    "pmi": 0.18768715253331905,
+    "cooc_count": 6,
+    "unigram_w1": 372,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "t",
+    "pmi": 0.5944759720105592,
+    "cooc_count": 1518,
+    "unigram_w1": 62661,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 3447,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 760,
+    "unigram_w1": 165667,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 9718,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "news",
+    "pmi": 2.3183172528586504,
+    "cooc_count": 4,
+    "unigram_w1": 372,
+    "unigram_w2": 23473,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 23473,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "news",
+    "pmi": 4.066949345204466,
+    "cooc_count": 213,
+    "unigram_w1": 3447,
+    "unigram_w2": 23473,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 165667,
+    "unigram_w2": 23473,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 9718,
+    "unigram_w2": 23473,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "ming",
+    "pmi": 0.07650625535468987,
+    "cooc_count": 3,
+    "unigram_w1": 165667,
+    "unigram_w2": 372,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "quelle",
+    "pmi": 0.022993894847215528,
+    "cooc_count": 479,
+    "unigram_w1": 165667,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 9718,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "daily",
+    "pmi": 0.30687631593227527,
+    "cooc_count": 35,
+    "unigram_w1": 165667,
+    "unigram_w2": 3447,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "année",
+    "pmi": 1.0525907856951968,
+    "cooc_count": 208,
+    "unigram_w1": 9718,
+    "unigram_w2": 165667,
+    "window_size": 10
+  }
+]

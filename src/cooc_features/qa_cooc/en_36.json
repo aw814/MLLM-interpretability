@@ -1,0 +1,263 @@
+[
+  {
+    "w1": "debate",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 11502,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "debate",
+    "w2": "great",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 11502,
+    "unigram_w2": 304117,
+    "window_size": 10
+  },
+  {
+    "w1": "debate",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 144,
+    "unigram_w1": 11502,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "debate",
+    "pmi": 0.22403178246078861,
+    "cooc_count": 11,
+    "unigram_w1": 16049,
+    "unigram_w2": 11502,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "debate",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 33096,
+    "unigram_w2": 11502,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "officially",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 179517,
+    "unigram_w2": 8488,
+    "window_size": 10
+  },
+  {
+    "w1": "great",
+    "w2": "officially",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 304117,
+    "unigram_w2": 8488,
+    "window_size": 10
+  },
+  {
+    "w1": "officially",
+    "w2": "year",
+    "pmi": 0.35387497388637285,
+    "cooc_count": 198,
+    "unigram_w1": 8488,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "officially",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 16049,
+    "unigram_w2": 8488,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "officially",
+    "pmi": 1.5171120189955185,
+    "cooc_count": 61,
+    "unigram_w1": 33096,
+    "unigram_w2": 8488,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "great",
+    "pmi": 0.12821386061192047,
+    "cooc_count": 2956,
+    "unigram_w1": 179517,
+    "unigram_w2": 304117,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "flag",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 179517,
+    "unigram_w2": 14879,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 1924,
+    "unigram_w1": 179517,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 3534,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 16049,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 171,
+    "unigram_w1": 33096,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "flag",
+    "w2": "great",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 14879,
+    "unigram_w2": 304117,
+    "window_size": 10
+  },
+  {
+    "w1": "great",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 2581,
+    "unigram_w1": 304117,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "great",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3534,
+    "unigram_w2": 304117,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "great",
+    "pmi": 0.7758033764449195,
+    "cooc_count": 505,
+    "unigram_w1": 16049,
+    "unigram_w2": 304117,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "great",
+    "pmi": 0.0,
+    "cooc_count": 244,
+    "unigram_w1": 33096,
+    "unigram_w2": 304117,
+    "window_size": 10
+  },
+  {
+    "w1": "flag",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 14879,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "flag",
+    "pmi": 1.3299067358019827,
+    "cooc_count": 43,
+    "unigram_w1": 16049,
+    "unigram_w2": 14879,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "flag",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 33096,
+    "unigram_w2": 14879,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "year",
+    "pmi": 0.11621824050165196,
+    "cooc_count": 65,
+    "unigram_w1": 3534,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 16049,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "year",
+    "pmi": 0.0,
+    "cooc_count": 473,
+    "unigram_w1": 33096,
+    "unigram_w2": 343794,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "canadian",
+    "pmi": 1.4911337188444762,
+    "cooc_count": 12,
+    "unigram_w1": 3534,
+    "unigram_w2": 16049,
+    "window_size": 10
+  },
+  {
+    "w1": "begin",
+    "w2": "canadian",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 33096,
+    "unigram_w2": 16049,
+    "window_size": 10
+  }
+]

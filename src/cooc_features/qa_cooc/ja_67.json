@@ -1,0 +1,551 @@
+[
+  {
+    "w1": "た",
+    "w2": "以前",
+    "pmi": 0.43006321914204676,
+    "cooc_count": 41949,
+    "unigram_w1": 26828306,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 2096552,
+    "unigram_w1": 11759829,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 6437707,
+    "unigram_w1": 26828306,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "呼ば",
+    "pmi": 0.0,
+    "cooc_count": 13911,
+    "unigram_w1": 26828306,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 5185501,
+    "unigram_w1": 26828306,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "れ",
+    "pmi": 0.2927394791686922,
+    "cooc_count": 2345330,
+    "unigram_w1": 26828306,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "まし",
+    "pmi": 1.4162664734921657,
+    "cooc_count": 3201837,
+    "unigram_w1": 26828306,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 5141625,
+    "unigram_w1": 26828306,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "た",
+    "pmi": 0.02272593231902429,
+    "cooc_count": 4174046,
+    "unigram_w1": 19640992,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 187693,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "以前",
+    "pmi": 0.0,
+    "cooc_count": 6709,
+    "unigram_w1": 11759829,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "以前",
+    "pmi": 0.0,
+    "cooc_count": 37191,
+    "unigram_w1": 37802361,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "以前",
+    "w2": "呼ば",
+    "pmi": 0.5353292867815657,
+    "cooc_count": 158,
+    "unigram_w1": 131348,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "以前",
+    "pmi": 0.0,
+    "cooc_count": 24159,
+    "unigram_w1": 29738357,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "以前",
+    "pmi": 0.0,
+    "cooc_count": 5504,
+    "unigram_w1": 8424512,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "以前",
+    "pmi": 1.0103681305560914,
+    "cooc_count": 10446,
+    "unigram_w1": 3739370,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "シンクロナイズドスイミング",
+    "w2": "以前",
+    "pmi": 4.588236334569496,
+    "cooc_count": 6,
+    "unigram_w1": 60,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "以前",
+    "pmi": 0.38840070628452905,
+    "cooc_count": 50257,
+    "unigram_w1": 33509041,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "以前",
+    "pmi": 0.0,
+    "cooc_count": 13017,
+    "unigram_w1": 19640992,
+    "unigram_w2": 131348,
+    "window_size": 10
+  },
+  {
+    "w1": "以前",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 782,
+    "unigram_w1": 131348,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 2405944,
+    "unigram_w1": 11759829,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "呼ば",
+    "pmi": 0.0,
+    "cooc_count": 2707,
+    "unigram_w1": 11759829,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "と",
+    "pmi": 0.09823529738292358,
+    "cooc_count": 2987527,
+    "unigram_w1": 11759829,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "れ",
+    "pmi": 0.13379328865606396,
+    "cooc_count": 876965,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 141376,
+    "unigram_w1": 11759829,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "か",
+    "pmi": 0.14370261615855423,
+    "cooc_count": 2064926,
+    "unigram_w1": 19640992,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "何",
+    "pmi": 1.4703277843766105,
+    "cooc_count": 427413,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "呼ば",
+    "pmi": 0.0,
+    "cooc_count": 22665,
+    "unigram_w1": 37802361,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 7573783,
+    "unigram_w1": 37802361,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "れ",
+    "pmi": 0.21112187687078632,
+    "cooc_count": 3045675,
+    "unigram_w1": 37802361,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "まし",
+    "pmi": 0.2083795550935026,
+    "cooc_count": 1348175,
+    "unigram_w1": 37802361,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "シンクロナイズドスイミング",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 37802361,
+    "unigram_w2": 60,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 6581725,
+    "unigram_w1": 37802361,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "て",
+    "pmi": 0.3554361255135918,
+    "cooc_count": 8203083,
+    "unigram_w1": 19640992,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 293104,
+    "unigram_w1": 37802361,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "アーティスティックスイミング",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 37802361,
+    "unigram_w2": 20,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "呼ば",
+    "pmi": 1.1977599040442048,
+    "cooc_count": 69381,
+    "unigram_w1": 29738357,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "呼ば",
+    "pmi": 1.8399860703010675,
+    "cooc_count": 37358,
+    "unigram_w1": 8424512,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "呼ば",
+    "pmi": 0.0,
+    "cooc_count": 1997,
+    "unigram_w1": 3739370,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "呼ば",
+    "pmi": 0.10742523528953192,
+    "cooc_count": 26276,
+    "unigram_w1": 33509041,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "呼ば",
+    "pmi": 0.0,
+    "cooc_count": 7247,
+    "unigram_w1": 19640992,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "呼ば",
+    "pmi": 0.0,
+    "cooc_count": 323,
+    "unigram_w1": 1078849,
+    "unigram_w2": 90952,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1571603,
+    "unigram_w1": 29738357,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 643345,
+    "unigram_w1": 29738357,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "シンクロナイズドスイミング",
+    "pmi": 0.5521880121835109,
+    "cooc_count": 24,
+    "unigram_w1": 29738357,
+    "unigram_w2": 60,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 6338228,
+    "unigram_w1": 29738357,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 4372253,
+    "unigram_w1": 19640992,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "何",
+    "pmi": 0.10317676845013349,
+    "cooc_count": 275434,
+    "unigram_w1": 29738357,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 215605,
+    "unigram_w1": 3739370,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1480352,
+    "unigram_w1": 33509041,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "れ",
+    "pmi": 0.36018081368647537,
+    "cooc_count": 1836807,
+    "unigram_w1": 19640992,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 55061,
+    "unigram_w1": 8424512,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 741657,
+    "unigram_w1": 33509041,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 351738,
+    "unigram_w1": 19640992,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 22675,
+    "unigram_w1": 3739370,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "シンクロナイズドスイミング",
+    "pmi": 0.7512641543304903,
+    "cooc_count": 33,
+    "unigram_w1": 33509041,
+    "unigram_w2": 60,
+    "window_size": 10
+  },
+  {
+    "w1": "アーティスティックスイミング",
+    "w2": "シンクロナイズドスイミング",
+    "pmi": 13.783574737627331,
+    "cooc_count": 9,
+    "unigram_w1": 20,
+    "unigram_w2": 60,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 3133653,
+    "unigram_w1": 19640992,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "何",
+    "pmi": 0.0518398876523243,
+    "cooc_count": 294827,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 130878,
+    "unigram_w1": 19640992,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  }
+]

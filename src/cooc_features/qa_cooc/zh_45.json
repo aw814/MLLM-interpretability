@@ -1,0 +1,821 @@
+[
+  {
+    "w1": "加拿大",
+    "w2": "建立",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 19990,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6166,
+    "unigram_w1": 19990,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "基地",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 19990,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "名字",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 19990,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "地区",
+    "pmi": 0.7641546705429952,
+    "cooc_count": 206,
+    "unigram_w1": 19990,
+    "unigram_w2": 69852,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 998,
+    "unigram_w1": 19990,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "叫",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 19990,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 2493,
+    "unigram_w1": 19990,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "加拿大",
+    "pmi": 0.0,
+    "cooc_count": 252,
+    "unigram_w1": 303848,
+    "unigram_w2": 19990,
+    "window_size": 10
+  },
+  {
+    "w1": "crossing",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 24,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "军事基地",
+    "w2": "建立",
+    "pmi": 1.8054177103408238,
+    "cooc_count": 9,
+    "unigram_w1": 352,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "军事基地",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 185,
+    "unigram_w1": 352,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "军事基地",
+    "w2": "基地",
+    "pmi": 2.5952850213941243,
+    "cooc_count": 11,
+    "unigram_w1": 352,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "军事基地",
+    "w2": "名字",
+    "pmi": 2.443542975280029,
+    "cooc_count": 7,
+    "unigram_w1": 352,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "军事基地",
+    "w2": "地区",
+    "pmi": 1.4215449027050762,
+    "cooc_count": 7,
+    "unigram_w1": 352,
+    "unigram_w2": 69852,
+    "window_size": 10
+  },
+  {
+    "w1": "军事基地",
+    "w2": "在",
+    "pmi": 0.500376780708865,
+    "cooc_count": 94,
+    "unigram_w1": 352,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "军事基地",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 303848,
+    "unigram_w2": 352,
+    "window_size": 10
+  },
+  {
+    "w1": "建立",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 30382,
+    "unigram_w1": 61180,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "基地",
+    "w2": "建立",
+    "pmi": 1.6283717840224758,
+    "cooc_count": 727,
+    "unigram_w1": 33941,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "建立",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 25138,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "建立",
+    "pmi": 0.6366584252893999,
+    "cooc_count": 555,
+    "unigram_w1": 69852,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "建立",
+    "pmi": 0.0,
+    "cooc_count": 2536,
+    "unigram_w1": 982471,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "建立",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 44864,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "建立",
+    "pmi": 0.0,
+    "cooc_count": 7645,
+    "unigram_w1": 2356497,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "建立",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 61180,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "建立",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 61180,
+    "unigram_w2": 5989,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "建立",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 303848,
+    "unigram_w2": 61180,
+    "window_size": 10
+  },
+  {
+    "w1": "cfb",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 22,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "路口",
+    "pmi": 0.0,
+    "cooc_count": 1068,
+    "unigram_w1": 10165533,
+    "unigram_w2": 6612,
+    "window_size": 10
+  },
+  {
+    "w1": "基地",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 12156,
+    "unigram_w1": 33941,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 413,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "瓦克",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 73,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 16505,
+    "unigram_w1": 25138,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 32668,
+    "unigram_w1": 69852,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "奇利",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 105,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "德尔",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 285,
+    "unigram_w1": 788,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 17905,
+    "unigram_w1": 44864,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 7553,
+    "unigram_w1": 10165533,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 1092,
+    "unigram_w1": 10165533,
+    "unigram_w2": 5989,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "基地",
+    "w2": "路口",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 33941,
+    "unigram_w2": 6612,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "路口",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 69852,
+    "unigram_w2": 6612,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "路口",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 982471,
+    "unigram_w2": 6612,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "路口",
+    "pmi": 0.0,
+    "cooc_count": 968,
+    "unigram_w1": 2356497,
+    "unigram_w2": 6612,
+    "window_size": 10
+  },
+  {
+    "w1": "路口",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 6612,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "路口",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 303848,
+    "unigram_w2": 6612,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "基地",
+    "pmi": 1.136185619900928,
+    "cooc_count": 3,
+    "unigram_w1": 413,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "基地",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 25138,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "基地",
+    "pmi": 0.16957711603900036,
+    "cooc_count": 193,
+    "unigram_w1": 69852,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "基地",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 1366,
+    "unigram_w1": 33941,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "基地",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 44864,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "基地",
+    "pmi": 0.0,
+    "cooc_count": 3683,
+    "unigram_w1": 2356497,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "基地",
+    "w2": "部队",
+    "pmi": 0.9554428272261312,
+    "cooc_count": 99,
+    "unigram_w1": 33941,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "基地",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 33941,
+    "unigram_w2": 5989,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "基地",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 303848,
+    "unigram_w2": 33941,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 413,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "奇利",
+    "w2": "瓦克",
+    "pmi": 9.746204712337901,
+    "cooc_count": 9,
+    "unigram_w1": 105,
+    "unigram_w2": 73,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "瓦克",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2356497,
+    "unigram_w2": 73,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "地区",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 25138,
+    "unigram_w2": 69852,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 431,
+    "unigram_w1": 25138,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "名字",
+    "pmi": 3.289515319286564,
+    "cooc_count": 2079,
+    "unigram_w1": 44864,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 2428,
+    "unigram_w1": 25138,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 25138,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "名字",
+    "pmi": 1.388576720333737,
+    "cooc_count": 2104,
+    "unigram_w1": 303848,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "德尔",
+    "pmi": 0.27920575182408114,
+    "cooc_count": 5,
+    "unigram_w1": 69852,
+    "unigram_w2": 788,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 3868,
+    "unigram_w1": 69852,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "地区",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 44864,
+    "unigram_w2": 69852,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "地区",
+    "pmi": 0.0,
+    "cooc_count": 9802,
+    "unigram_w1": 2356497,
+    "unigram_w2": 69852,
+    "window_size": 10
+  },
+  {
+    "w1": "地区",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 69852,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "地区",
+    "pmi": 0.0,
+    "cooc_count": 209,
+    "unigram_w1": 303848,
+    "unigram_w2": 69852,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "奇利",
+    "pmi": 2.514342966875701,
+    "cooc_count": 4,
+    "unigram_w1": 44864,
+    "unigram_w2": 105,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "奇利",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 2356497,
+    "unigram_w2": 105,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "德尔",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 982471,
+    "unigram_w2": 788,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "德尔",
+    "pmi": 1.1919524077352905,
+    "cooc_count": 8,
+    "unigram_w1": 44864,
+    "unigram_w2": 788,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "德尔",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 2356497,
+    "unigram_w2": 788,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 534,
+    "unigram_w1": 44864,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 888,
+    "unigram_w1": 982471,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 156,
+    "unigram_w1": 982471,
+    "unigram_w2": 5989,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4830,
+    "unigram_w1": 303848,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 4005,
+    "unigram_w1": 44864,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 44864,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 44864,
+    "unigram_w2": 5989,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "叫",
+    "pmi": 1.8969422156284015,
+    "cooc_count": 6243,
+    "unigram_w1": 303848,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 2643,
+    "unigram_w1": 2356497,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 575,
+    "unigram_w1": 2356497,
+    "unigram_w2": 5989,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 19863,
+    "unigram_w1": 303848,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "部队",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 303848,
+    "unigram_w2": 16329,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "维",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 303848,
+    "unigram_w2": 5989,
+    "window_size": 10
+  }
+]

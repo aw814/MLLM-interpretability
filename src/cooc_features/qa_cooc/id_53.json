@@ -1,0 +1,569 @@
+[
+  {
+    "w1": "john",
+    "w2": "kesehatan",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 11731,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "katolik",
+    "w2": "kesehatan",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 3894,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "kelompok",
+    "w2": "kesehatan",
+    "pmi": 0.0,
+    "cooc_count": 324,
+    "unigram_w1": 74420,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "kesehatan",
+    "w2": "layanan",
+    "pmi": 0.8817465521511325,
+    "cooc_count": 3469,
+    "unigram_w1": 178334,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "kesehatan",
+    "pmi": 0.0,
+    "cooc_count": 856,
+    "unigram_w1": 138029,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "kesehatan",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 424,
+    "unigram_w1": 178334,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "kesehatan",
+    "pmi": 0.8960747654063119,
+    "cooc_count": 361,
+    "unigram_w1": 12731,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "kesehatan",
+    "pmi": 0.0,
+    "cooc_count": 1515,
+    "unigram_w1": 235066,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "kesehatan",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 178334,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "kesehatan",
+    "w2": "nirlaba",
+    "pmi": 0.6815093494735334,
+    "cooc_count": 17,
+    "unigram_w1": 178334,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "kesehatan",
+    "pmi": 1.441323164784811,
+    "cooc_count": 1028,
+    "unigram_w1": 21016,
+    "unigram_w2": 178334,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "katolik",
+    "pmi": 1.552280479833273,
+    "cooc_count": 14,
+    "unigram_w1": 11731,
+    "unigram_w2": 3894,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "kelompok",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 11731,
+    "unigram_w2": 74420,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 11731,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 138029,
+    "unigram_w2": 11731,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "of",
+    "pmi": 0.20182606549152024,
+    "cooc_count": 464,
+    "unigram_w1": 11731,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 12731,
+    "unigram_w2": 11731,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 235066,
+    "unigram_w2": 11731,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 3.287293237031214,
+    "cooc_count": 329,
+    "unigram_w1": 11731,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "nirlaba",
+    "pmi": 0.5697192914324004,
+    "cooc_count": 1,
+    "unigram_w1": 11731,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21016,
+    "unigram_w2": 11731,
+    "window_size": 10
+  },
+  {
+    "w1": "katolik",
+    "w2": "kelompok",
+    "pmi": 0.5622408992896015,
+    "cooc_count": 33,
+    "unigram_w1": 3894,
+    "unigram_w2": 74420,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "katolik",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 138029,
+    "unigram_w2": 3894,
+    "window_size": 10
+  },
+  {
+    "w1": "katolik",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 3894,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "katolik",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 235066,
+    "unigram_w2": 3894,
+    "window_size": 10
+  },
+  {
+    "w1": "katolik",
+    "w2": "st",
+    "pmi": 3.3731569829509467,
+    "cooc_count": 119,
+    "unigram_w1": 3894,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "katolik",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 21016,
+    "unigram_w2": 3894,
+    "window_size": 10
+  },
+  {
+    "w1": "kelompok",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 477,
+    "unigram_w1": 74420,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "kelompok",
+    "pmi": 0.0,
+    "cooc_count": 308,
+    "unigram_w1": 138029,
+    "unigram_w2": 74420,
+    "window_size": 10
+  },
+  {
+    "w1": "kelompok",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 240,
+    "unigram_w1": 74420,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "kelompok",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 12506,
+    "unigram_w2": 74420,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "kelompok",
+    "pmi": 0.0,
+    "cooc_count": 735,
+    "unigram_w1": 235066,
+    "unigram_w2": 74420,
+    "window_size": 10
+  },
+  {
+    "w1": "kelompok",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 74420,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "kelompok",
+    "w2": "nirlaba",
+    "pmi": 2.054433989212711,
+    "cooc_count": 28,
+    "unigram_w1": 74420,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "kelompok",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 21016,
+    "unigram_w2": 74420,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 759,
+    "unigram_w1": 138029,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 217,
+    "unigram_w1": 124103,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "layanan",
+    "pmi": 1.580343214665194,
+    "cooc_count": 498,
+    "unigram_w1": 12731,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 1488,
+    "unigram_w1": 235066,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 124103,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "layanan",
+    "w2": "nirlaba",
+    "pmi": 1.1552813151508674,
+    "cooc_count": 19,
+    "unigram_w1": 124103,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "layanan",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 21016,
+    "unigram_w2": 124103,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 733,
+    "unigram_w1": 138029,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "care",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 138029,
+    "unigram_w2": 12731,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "god",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 138029,
+    "unigram_w2": 12506,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 1448,
+    "unigram_w1": 138029,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 138029,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "nirlaba",
+    "pmi": 0.30171497128481445,
+    "cooc_count": 9,
+    "unigram_w1": 138029,
+    "unigram_w2": 743,
+    "window_size": 10
+  },
+  {
+    "w1": "apakah",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 138029,
+    "unigram_w2": 21016,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "of",
+    "pmi": 1.0092240238590018,
+    "cooc_count": 1129,
+    "unigram_w1": 12731,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "of",
+    "pmi": 2.519551434361272,
+    "cooc_count": 5022,
+    "unigram_w1": 12506,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 615,
+    "unigram_w1": 235066,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "st",
+    "pmi": 0.08487327160781893,
+    "cooc_count": 568,
+    "unigram_w1": 498059,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "nirlaba",
+    "w2": "of",
+    "pmi": 0.1534401682284298,
+    "cooc_count": 28,
+    "unigram_w1": 743,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "of",
+    "pmi": 0.9090065099674103,
+    "cooc_count": 1686,
+    "unigram_w1": 21016,
+    "unigram_w2": 498059,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "god",
+    "pmi": 1.0658438561291468,
+    "cooc_count": 30,
+    "unigram_w1": 12731,
+    "unigram_w2": 12506,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 12731,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "st",
+    "pmi": 0.04848776232517542,
+    "cooc_count": 14,
+    "unigram_w1": 12731,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 3.5085990547693235,
+    "cooc_count": 580,
+    "unigram_w1": 12731,
+    "unigram_w2": 21016,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 12506,
+    "unigram_w2": 235066,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 12506,
+    "unigram_w2": 21016,
+    "window_size": 10
+  },
+  {
+    "w1": "jenis",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 235066,
+    "unigram_w2": 16142,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "jenis",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 21016,
+    "unigram_w2": 235066,
+    "window_size": 10
+  }
+]

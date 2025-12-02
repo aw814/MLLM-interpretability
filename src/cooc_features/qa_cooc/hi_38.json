@@ -1,0 +1,74 @@
+[
+  {
+    "w1": "ऐक्ट",
+    "w2": "लाया",
+    "pmi": 2.492777573285276,
+    "cooc_count": 8,
+    "unigram_w1": 923,
+    "unigram_w2": 20123,
+    "window_size": 10
+  },
+  {
+    "w1": "ऐक्ट",
+    "w2": "गया",
+    "pmi": 0.39398323148140707,
+    "cooc_count": 48,
+    "unigram_w1": 923,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "कब",
+    "w2": "लाया",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 70837,
+    "unigram_w2": 20123,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "लाया",
+    "pmi": 2.0616249627857233,
+    "cooc_count": 5546,
+    "unigram_w1": 984779,
+    "unigram_w2": 20123,
+    "window_size": 10
+  },
+  {
+    "w1": "ऐंड",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 2121,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "गया",
+    "w2": "टेनेंट",
+    "pmi": 2.657264274516423,
+    "cooc_count": 10,
+    "unigram_w1": 984779,
+    "unigram_w2": 20,
+    "window_size": 10
+  },
+  {
+    "w1": "कब",
+    "w2": "गया",
+    "pmi": 1.0696511984114954,
+    "cooc_count": 7240,
+    "unigram_w1": 70837,
+    "unigram_w2": 984779,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "गया",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 1256,
+    "unigram_w2": 984779,
+    "window_size": 10
+  }
+]

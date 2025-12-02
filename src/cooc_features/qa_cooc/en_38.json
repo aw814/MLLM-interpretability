@@ -1,0 +1,200 @@
+[
+  {
+    "w1": "residential",
+    "w2": "tenant",
+    "pmi": 2.635350098262649,
+    "cooc_count": 39,
+    "unigram_w1": 17115,
+    "unigram_w2": 3430,
+    "window_size": 10
+  },
+  {
+    "w1": "landlord",
+    "w2": "tenant",
+    "pmi": 6.6498710828657766,
+    "cooc_count": 320,
+    "unigram_w1": 2535,
+    "unigram_w2": 3430,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "tenant",
+    "pmi": 1.514537384392242,
+    "cooc_count": 43,
+    "unigram_w1": 57882,
+    "unigram_w2": 3430,
+    "window_size": 10
+  },
+  {
+    "w1": "tenant",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 3430,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 56204,
+    "unigram_w2": 3430,
+    "window_size": 10
+  },
+  {
+    "w1": "residential",
+    "w2": "uniform",
+    "pmi": 0.6794318882998852,
+    "cooc_count": 18,
+    "unigram_w1": 17115,
+    "unigram_w2": 11193,
+    "window_size": 10
+  },
+  {
+    "w1": "landlord",
+    "w2": "residential",
+    "pmi": 3.080817566038024,
+    "cooc_count": 45,
+    "unigram_w1": 2535,
+    "unigram_w2": 17115,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "residential",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 57882,
+    "unigram_w2": 17115,
+    "window_size": 10
+  },
+  {
+    "w1": "residential",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 104,
+    "unigram_w1": 17115,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "residential",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 56204,
+    "unigram_w2": 17115,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "uniform",
+    "pmi": 0.6649535091914982,
+    "cooc_count": 60,
+    "unigram_w1": 57882,
+    "unigram_w2": 11193,
+    "window_size": 10
+  },
+  {
+    "w1": "uniform",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 159,
+    "unigram_w1": 11193,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "uniform",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 56204,
+    "unigram_w2": 11193,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "landlord",
+    "pmi": 1.816904008526944,
+    "cooc_count": 43,
+    "unigram_w1": 57882,
+    "unigram_w2": 2535,
+    "window_size": 10
+  },
+  {
+    "w1": "landlord",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 2535,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "landlord",
+    "pmi": 0.16456396118559535,
+    "cooc_count": 8,
+    "unigram_w1": 56204,
+    "unigram_w2": 2535,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 788,
+    "unigram_w1": 57882,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "created",
+    "pmi": 0.0,
+    "cooc_count": 154,
+    "unigram_w1": 57882,
+    "unigram_w2": 56204,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "act",
+    "pmi": 2.311547298199702,
+    "cooc_count": 118,
+    "unigram_w1": 4242,
+    "unigram_w2": 57882,
+    "window_size": 10
+  },
+  {
+    "w1": "created",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 1306,
+    "unigram_w1": 56204,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 4242,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "created",
+    "pmi": 0.9375770303928892,
+    "cooc_count": 29,
+    "unigram_w1": 4242,
+    "unigram_w2": 56204,
+    "window_size": 10
+  }
+]

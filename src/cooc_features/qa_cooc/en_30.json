@@ -1,0 +1,812 @@
+[
+  {
+    "w1": "down",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 531,
+    "unigram_w1": 176985,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 176985,
+    "unigram_w2": 11786,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 3412,
+    "unigram_w1": 176985,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 186,
+    "unigram_w1": 176985,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 12000,
+    "unigram_w1": 176985,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "ii",
+    "pmi": 0.0,
+    "cooc_count": 120,
+    "unigram_w1": 176985,
+    "unigram_w2": 37980,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "it",
+    "pmi": 0.003077892427558626,
+    "cooc_count": 23145,
+    "unigram_w1": 176985,
+    "unigram_w2": 2737212,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "down",
+    "pmi": 0.0,
+    "cooc_count": 232,
+    "unigram_w1": 87242,
+    "unigram_w2": 176985,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "shot",
+    "pmi": 1.0408408742996829,
+    "cooc_count": 739,
+    "unigram_w1": 176985,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "during",
+    "pmi": 0.0,
+    "cooc_count": 1074,
+    "unigram_w1": 176985,
+    "unigram_w2": 159617,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "plane",
+    "pmi": 0.6994692391594608,
+    "cooc_count": 201,
+    "unigram_w1": 176985,
+    "unigram_w2": 11847,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "when",
+    "pmi": 0.22749095123043123,
+    "cooc_count": 6415,
+    "unigram_w1": 176985,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "down",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 868,
+    "unigram_w1": 176985,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 11786,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "position",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 657,
+    "unigram_w1": 87704,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "position",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 87704,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "position",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 4870,
+    "unigram_w1": 87704,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 37980,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 3483,
+    "unigram_w1": 2737212,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 87242,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "position",
+    "w2": "shot",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 87704,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 492,
+    "unigram_w1": 159617,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "position",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 11847,
+    "unigram_w2": 87704,
+    "window_size": 10
+  },
+  {
+    "w1": "position",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 1575,
+    "unigram_w1": 87704,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "position",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 301,
+    "unigram_w1": 87704,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 11786,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 11786,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "s",
+    "pmi": 0.3317818964953916,
+    "cooc_count": 1925,
+    "unigram_w1": 11786,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "joseph",
+    "pmi": 1.083466619884671,
+    "cooc_count": 63,
+    "unigram_w1": 37980,
+    "unigram_w2": 11786,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 335,
+    "unigram_w1": 2737212,
+    "unigram_w2": 11786,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "joseph",
+    "pmi": 0.0976897791072633,
+    "cooc_count": 54,
+    "unigram_w1": 87242,
+    "unigram_w2": 11786,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "shot",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 11786,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "joseph",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 159617,
+    "unigram_w2": 11786,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 11786,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "joseph",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 11786,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "war",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 592,
+    "unigram_w1": 53462,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 0.15536321277208362,
+    "cooc_count": 85614,
+    "unigram_w1": 2460921,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 274,
+    "unigram_w1": 37980,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 79267,
+    "unigram_w1": 2737212,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 636,
+    "unigram_w1": 87242,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "shot",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 420,
+    "unigram_w1": 30960,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 2396,
+    "unigram_w1": 159617,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 123,
+    "unigram_w1": 11847,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 16343,
+    "unigram_w1": 625314,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 4451,
+    "unigram_w1": 625314,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 4782,
+    "unigram_w1": 2460921,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "war",
+    "pmi": 3.8123919959402395,
+    "cooc_count": 4377,
+    "unigram_w1": 37980,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 2730,
+    "unigram_w1": 2737212,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 87242,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "shot",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 30960,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "war",
+    "pmi": 2.1453297212435802,
+    "cooc_count": 3473,
+    "unigram_w1": 159617,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "war",
+    "pmi": 0.17677713161697187,
+    "cooc_count": 36,
+    "unigram_w1": 11847,
+    "unigram_w2": 53462,
+    "window_size": 10
+  },
+  {
+    "w1": "war",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 1082,
+    "unigram_w1": 53462,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "war",
+    "w2": "world",
+    "pmi": 2.7325116703708883,
+    "cooc_count": 9392,
+    "unigram_w1": 53462,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 2865,
+    "unigram_w1": 37980,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "s",
+    "pmi": 0.4635544635229792,
+    "cooc_count": 510036,
+    "unigram_w1": 2737212,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 3803,
+    "unigram_w1": 87242,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "shot",
+    "pmi": 0.0,
+    "cooc_count": 2566,
+    "unigram_w1": 2460921,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 12348,
+    "unigram_w1": 159617,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 945,
+    "unigram_w1": 11847,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 40612,
+    "unigram_w1": 2460921,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "world",
+    "pmi": 0.39517673288694405,
+    "cooc_count": 41756,
+    "unigram_w1": 2460921,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "it",
+    "pmi": 0.0,
+    "cooc_count": 973,
+    "unigram_w1": 37980,
+    "unigram_w2": 2737212,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "ii",
+    "pmi": 0.0,
+    "cooc_count": 83,
+    "unigram_w1": 87242,
+    "unigram_w2": 37980,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "shot",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 37980,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "ii",
+    "pmi": 1.0855685532116421,
+    "cooc_count": 855,
+    "unigram_w1": 159617,
+    "unigram_w2": 37980,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "plane",
+    "pmi": 0.461530133552399,
+    "cooc_count": 34,
+    "unigram_w1": 37980,
+    "unigram_w2": 11847,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 414,
+    "unigram_w1": 37980,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "ii",
+    "w2": "world",
+    "pmi": 2.1658748758476545,
+    "cooc_count": 3786,
+    "unigram_w1": 37980,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "it",
+    "pmi": 0.0,
+    "cooc_count": 2707,
+    "unigram_w1": 87242,
+    "unigram_w2": 2737212,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "shot",
+    "pmi": 0.0,
+    "cooc_count": 2686,
+    "unigram_w1": 2737212,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "it",
+    "pmi": 0.0,
+    "cooc_count": 9536,
+    "unigram_w1": 159617,
+    "unigram_w2": 2737212,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "plane",
+    "pmi": 0.0,
+    "cooc_count": 859,
+    "unigram_w1": 2737212,
+    "unigram_w2": 11847,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "when",
+    "pmi": 0.32818078129353256,
+    "cooc_count": 109723,
+    "unigram_w1": 2737212,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "it",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 14502,
+    "unigram_w1": 2737212,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "shot",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 87242,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "during",
+    "pmi": 0.0,
+    "cooc_count": 528,
+    "unigram_w1": 87242,
+    "unigram_w2": 159617,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "plane",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 87242,
+    "unigram_w2": 11847,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 796,
+    "unigram_w1": 87242,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "august",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 393,
+    "unigram_w1": 87242,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "shot",
+    "pmi": 0.4630865383520273,
+    "cooc_count": 374,
+    "unigram_w1": 159617,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "shot",
+    "pmi": 1.483338687452535,
+    "cooc_count": 77,
+    "unigram_w1": 11847,
+    "unigram_w2": 30960,
+    "window_size": 10
+  },
+  {
+    "w1": "shot",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 791,
+    "unigram_w1": 30960,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "shot",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 156,
+    "unigram_w1": 30960,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "plane",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 159617,
+    "unigram_w2": 11847,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 3619,
+    "unigram_w1": 159617,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "during",
+    "w2": "world",
+    "pmi": 0.38913174459316685,
+    "cooc_count": 2692,
+    "unigram_w1": 159617,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "when",
+    "pmi": 0.0,
+    "cooc_count": 336,
+    "unigram_w1": 11847,
+    "unigram_w2": 606159,
+    "window_size": 10
+  },
+  {
+    "w1": "plane",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 11847,
+    "unigram_w2": 239951,
+    "window_size": 10
+  },
+  {
+    "w1": "when",
+    "w2": "world",
+    "pmi": 0.0,
+    "cooc_count": 3218,
+    "unigram_w1": 606159,
+    "unigram_w2": 239951,
+    "window_size": 10
+  }
+]

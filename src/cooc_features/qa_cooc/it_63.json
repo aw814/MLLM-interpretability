@@ -1,0 +1,317 @@
+[
+  {
+    "w1": "generale",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 6787,
+    "unigram_w1": 71350,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "è",
+    "pmi": 0.3227651041438929,
+    "cooc_count": 17572,
+    "unigram_w1": 81425,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "ospedale",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 3048,
+    "unigram_w1": 28583,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "originale",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 4819,
+    "unigram_w1": 57157,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 11786,
+    "unigram_w1": 88463,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 103165,
+    "unigram_w1": 1138754,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "qual",
+    "w2": "è",
+    "pmi": 1.6041437282067725,
+    "cooc_count": 16110,
+    "unigram_w1": 20727,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 6218,
+    "unigram_w1": 143542,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "grado",
+    "pmi": 0.0,
+    "cooc_count": 135,
+    "unigram_w1": 71350,
+    "unigram_w2": 81425,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "ospedale",
+    "pmi": 0.5828217212855271,
+    "cooc_count": 174,
+    "unigram_w1": 71350,
+    "unigram_w2": 28583,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "originale",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 71350,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 162,
+    "unigram_w1": 71350,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "generale",
+    "pmi": 0.5882591001364383,
+    "cooc_count": 6970,
+    "unigram_w1": 1138754,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "generale",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 71350,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "generale",
+    "pmi": 0.0,
+    "cooc_count": 137,
+    "unigram_w1": 143542,
+    "unigram_w2": 71350,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "ospedale",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 81425,
+    "unigram_w2": 28583,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "originale",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 81425,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 81425,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "grado",
+    "pmi": 0.0,
+    "cooc_count": 2286,
+    "unigram_w1": 1138754,
+    "unigram_w2": 81425,
+    "window_size": 10
+  },
+  {
+    "w1": "grado",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 81425,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "grado",
+    "pmi": 0.0,
+    "cooc_count": 172,
+    "unigram_w1": 143542,
+    "unigram_w2": 81425,
+    "window_size": 10
+  },
+  {
+    "w1": "originale",
+    "w2": "ospedale",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 57157,
+    "unigram_w2": 28583,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "ospedale",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 88463,
+    "unigram_w2": 28583,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "ospedale",
+    "pmi": 1.3912868416112045,
+    "cooc_count": 6233,
+    "unigram_w1": 1138754,
+    "unigram_w2": 28583,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "ospedale",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 143542,
+    "unigram_w2": 28583,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "originale",
+    "pmi": 0.19596225758526753,
+    "cooc_count": 293,
+    "unigram_w1": 88463,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "originale",
+    "pmi": 1.2065846202498514,
+    "cooc_count": 10362,
+    "unigram_w1": 1138754,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "originale",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 57157,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "originale",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 143542,
+    "unigram_w2": 57157,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "nome",
+    "pmi": 0.08492022576257419,
+    "cooc_count": 5224,
+    "unigram_w1": 1138754,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "qual",
+    "pmi": 0.654118297226288,
+    "cooc_count": 168,
+    "unigram_w1": 88463,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 264,
+    "unigram_w1": 143542,
+    "unigram_w2": 88463,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 562,
+    "unigram_w1": 1138754,
+    "unigram_w2": 20727,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 3327,
+    "unigram_w1": 143542,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "qual",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 143542,
+    "unigram_w2": 20727,
+    "window_size": 10
+  }
+]

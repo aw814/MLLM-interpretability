@@ -1,0 +1,254 @@
+[
+  {
+    "w1": "cbc",
+    "w2": "television",
+    "pmi": 3.229681224113478,
+    "cooc_count": 22,
+    "unigram_w1": 1114,
+    "unigram_w2": 16407,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 1201,
+    "unigram_w1": 16407,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 16407,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "television",
+    "pmi": 1.2551390038394963,
+    "cooc_count": 44,
+    "unigram_w1": 16049,
+    "unigram_w2": 16407,
+    "window_size": 10
+  },
+  {
+    "w1": "aired",
+    "w2": "television",
+    "pmi": 3.8404287259046366,
+    "cooc_count": 69,
+    "unigram_w1": 1897,
+    "unigram_w2": 16407,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "television",
+    "pmi": 0.5748222400276163,
+    "cooc_count": 25,
+    "unigram_w1": 18005,
+    "unigram_w2": 16407,
+    "window_size": 10
+  },
+  {
+    "w1": "network",
+    "w2": "television",
+    "pmi": 1.6375610973747043,
+    "cooc_count": 297,
+    "unigram_w1": 73904,
+    "unigram_w2": 16407,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "television",
+    "pmi": 0.13233598367626712,
+    "cooc_count": 23,
+    "unigram_w1": 25784,
+    "unigram_w2": 16407,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 1114,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1114,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "cbc",
+    "pmi": 3.8742723681531963,
+    "cooc_count": 41,
+    "unigram_w1": 16049,
+    "unigram_w2": 1114,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 66061,
+    "unigram_w1": 2758464,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 876,
+    "unigram_w1": 16049,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "aired",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 1897,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 1516,
+    "unigram_w1": 18005,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "network",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 5039,
+    "unigram_w1": 73904,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "that",
+    "pmi": 0.0,
+    "cooc_count": 1823,
+    "unigram_w1": 25784,
+    "unigram_w2": 2758464,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 16049,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "aired",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 1897,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 352,
+    "unigram_w1": 18005,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "network",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 843,
+    "unigram_w1": 73904,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 25784,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "aired",
+    "w2": "canadian",
+    "pmi": 1.4201432212291583,
+    "cooc_count": 6,
+    "unigram_w1": 1897,
+    "unigram_w2": 16049,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "network",
+    "pmi": 0.2285703663070462,
+    "cooc_count": 71,
+    "unigram_w1": 16049,
+    "unigram_w2": 73904,
+    "window_size": 10
+  },
+  {
+    "w1": "aired",
+    "w2": "network",
+    "pmi": 1.9930836387624995,
+    "cooc_count": 49,
+    "unigram_w1": 1897,
+    "unigram_w2": 73904,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "network",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 18005,
+    "unigram_w2": 73904,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "invention",
+    "pmi": 0.19973720968335346,
+    "cooc_count": 27,
+    "unigram_w1": 18005,
+    "unigram_w2": 25784,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "network",
+    "pmi": 0.6508381863061422,
+    "cooc_count": 174,
+    "unigram_w1": 25784,
+    "unigram_w2": 73904,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "w1": "berapakah",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 1553,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "pao",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 241,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "pao",
+    "pmi": 6.91953873011793,
+    "cooc_count": 27,
+    "unigram_w1": 1706,
+    "unigram_w2": 241,
+    "window_size": 10
+  },
+  {
+    "w1": "edisi",
+    "w2": "tahun",
+    "pmi": 0.5099206980293828,
+    "cooc_count": 895,
+    "unigram_w1": 13143,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "edisi",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 13143,
+    "unigram_w2": 49860,
+    "window_size": 10
+  },
+  {
+    "w1": "diluncurkan",
+    "w2": "edisi",
+    "pmi": 0.46607445644370565,
+    "cooc_count": 15,
+    "unigram_w1": 11034,
+    "unigram_w2": 13143,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "edisi",
+    "pmi": 0.07548184914308274,
+    "cooc_count": 9,
+    "unigram_w1": 9784,
+    "unigram_w2": 13143,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 731,
+    "unigram_w1": 49860,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 1706,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "diluncurkan",
+    "w2": "tahun",
+    "pmi": 1.2025576947282397,
+    "cooc_count": 1502,
+    "unigram_w1": 11034,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "tahun",
+    "w2": "toronto",
+    "pmi": 0.019359994821472142,
+    "cooc_count": 62,
+    "unigram_w1": 630119,
+    "unigram_w2": 1487,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 9784,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "tahun",
+    "pmi": 1.9782779788479834,
+    "cooc_count": 1288,
+    "unigram_w1": 4356,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "diluncurkan",
+    "w2": "news",
+    "pmi": 0.00821341320206495,
+    "cooc_count": 36,
+    "unigram_w1": 11034,
+    "unigram_w2": 49860,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "news",
+    "pmi": 2.6248606863069126,
+    "cooc_count": 437,
+    "unigram_w1": 9784,
+    "unigram_w2": 49860,
+    "window_size": 10
+  },
+  {
+    "w1": "diluncurkan",
+    "w2": "toronto",
+    "pmi": 0.6303000659232938,
+    "cooc_count": 2,
+    "unigram_w1": 11034,
+    "unigram_w2": 1487,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "diluncurkan",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 9784,
+    "unigram_w2": 11034,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "diluncurkan",
+    "pmi": 2.3588669092371326,
+    "cooc_count": 33,
+    "unigram_w1": 4356,
+    "unigram_w2": 11034,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "toronto",
+    "pmi": 2.622335259290253,
+    "cooc_count": 13,
+    "unigram_w1": 9784,
+    "unigram_w2": 1487,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "toronto",
+    "pmi": 2.2528744562627643,
+    "cooc_count": 4,
+    "unigram_w1": 4356,
+    "unigram_w2": 1487,
+    "window_size": 10
+  }
+]

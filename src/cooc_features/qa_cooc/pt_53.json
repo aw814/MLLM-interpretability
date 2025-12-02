@@ -1,0 +1,731 @@
+[
+  {
+    "w1": "john",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 1144,
+    "unigram_w1": 16045,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "of",
+    "pmi": 0.7406974032267158,
+    "cooc_count": 534,
+    "unigram_w1": 16045,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "john",
+    "pmi": 0.20627384134571505,
+    "cooc_count": 7,
+    "unigram_w1": 5023,
+    "unigram_w2": 16045,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 19154,
+    "unigram_w2": 16045,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "john",
+    "pmi": 1.9318932184922306,
+    "cooc_count": 22,
+    "unigram_w1": 2811,
+    "unigram_w2": 16045,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 3.619430229676211,
+    "cooc_count": 438,
+    "unigram_w1": 16045,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 16045,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9539,
+    "unigram_w2": 16045,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "john",
+    "pmi": 0.3656864217716674,
+    "cooc_count": 12,
+    "unigram_w1": 7342,
+    "unigram_w2": 16045,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 107151,
+    "unigram_w2": 16045,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 16045,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "lucrativos",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 392,
+    "unigram_w1": 3775,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "lucrativos",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 3775,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "lucrativos",
+    "pmi": 6.446323527150913,
+    "cooc_count": 3221,
+    "unigram_w1": 19154,
+    "unigram_w2": 3775,
+    "window_size": 10
+  },
+  {
+    "w1": "lucrativos",
+    "w2": "sem",
+    "pmi": 3.322632649409404,
+    "cooc_count": 2474,
+    "unigram_w1": 3775,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "lucrativos",
+    "pmi": 1.2162911043831268,
+    "cooc_count": 33,
+    "unigram_w1": 36657,
+    "unigram_w2": 3775,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "lucrativos",
+    "pmi": 0.14365645579843278,
+    "cooc_count": 33,
+    "unigram_w1": 107151,
+    "unigram_w2": 3775,
+    "window_size": 10
+  },
+  {
+    "w1": "médica",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 1390,
+    "unigram_w1": 15893,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "médica",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 15893,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "médica",
+    "pmi": 0.34932374781737546,
+    "cooc_count": 8,
+    "unigram_w1": 5023,
+    "unigram_w2": 15893,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "médica",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 19154,
+    "unigram_w2": 15893,
+    "window_size": 10
+  },
+  {
+    "w1": "médica",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15893,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "médica",
+    "w2": "sem",
+    "pmi": 0.9426540130538218,
+    "cooc_count": 964,
+    "unigram_w1": 15893,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "médica",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9539,
+    "unigram_w2": 15893,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "médica",
+    "pmi": 4.207462677127656,
+    "cooc_count": 2766,
+    "unigram_w1": 36657,
+    "unigram_w2": 15893,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "médica",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 7342,
+    "unigram_w2": 15893,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "médica",
+    "pmi": 0.17251514657816527,
+    "cooc_count": 143,
+    "unigram_w1": 107151,
+    "unigram_w2": 15893,
+    "window_size": 10
+  },
+  {
+    "w1": "médica",
+    "w2": "tipo",
+    "pmi": 0.22313127922644363,
+    "cooc_count": 151,
+    "unigram_w1": 15893,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 2957,
+    "unigram_w1": 224548,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 5023,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 1553,
+    "unigram_w1": 19154,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 2811,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 393,
+    "unigram_w1": 10352,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "sem",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 37595,
+    "unigram_w1": 334403,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 808,
+    "unigram_w1": 9539,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 1407,
+    "unigram_w1": 36657,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 143,
+    "unigram_w1": 7342,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "é",
+    "pmi": 0.0,
+    "cooc_count": 9237,
+    "unigram_w1": 107151,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "tipo",
+    "w2": "é",
+    "pmi": 0.1802380706488631,
+    "cooc_count": 19625,
+    "unigram_w1": 107561,
+    "unigram_w2": 2156090,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "of",
+    "pmi": 2.2615473078869694,
+    "cooc_count": 765,
+    "unigram_w1": 5023,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 19154,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "of",
+    "pmi": 3.251413388159783,
+    "cooc_count": 1152,
+    "unigram_w1": 2811,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "st",
+    "pmi": 0.6221042030221771,
+    "cooc_count": 306,
+    "unigram_w1": 224548,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 224548,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 9539,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 36657,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "of",
+    "pmi": 2.8379774714722363,
+    "cooc_count": 1990,
+    "unigram_w1": 7342,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 156,
+    "unigram_w1": 107151,
+    "unigram_w2": 224548,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 224548,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "god",
+    "pmi": 2.7748093971676084,
+    "cooc_count": 16,
+    "unigram_w1": 5023,
+    "unigram_w2": 2811,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 5023,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "care",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 36657,
+    "unigram_w2": 5023,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 4.905780857375676,
+    "cooc_count": 352,
+    "unigram_w1": 5023,
+    "unigram_w2": 7342,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "grupo",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 5023,
+    "unigram_w2": 107151,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5023,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "sem",
+    "pmi": 1.914362748639774,
+    "cooc_count": 3070,
+    "unigram_w1": 19154,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "fins",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 9539,
+    "unigram_w2": 19154,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "fins",
+    "pmi": 0.1732097984239266,
+    "cooc_count": 59,
+    "unigram_w1": 36657,
+    "unigram_w2": 19154,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "grupo",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 19154,
+    "unigram_w2": 107151,
+    "window_size": 10
+  },
+  {
+    "w1": "fins",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 19154,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "st",
+    "pmi": 1.358509843617026,
+    "cooc_count": 8,
+    "unigram_w1": 2811,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2811,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "grupo",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2811,
+    "unigram_w2": 107151,
+    "window_size": 10
+  },
+  {
+    "w1": "sem",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 334403,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "st",
+    "pmi": 0.4551152084968844,
+    "cooc_count": 11,
+    "unigram_w1": 9539,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 36657,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 107151,
+    "unigram_w2": 10352,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 10352,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 9539,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 588,
+    "unigram_w1": 36657,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 7342,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "sem",
+    "pmi": 0.0,
+    "cooc_count": 967,
+    "unigram_w1": 107151,
+    "unigram_w2": 334403,
+    "window_size": 10
+  },
+  {
+    "w1": "sem",
+    "w2": "tipo",
+    "pmi": 0.1328833146886609,
+    "cooc_count": 2903,
+    "unigram_w1": 334403,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "grupo",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 9539,
+    "unigram_w2": 107151,
+    "window_size": 10
+  },
+  {
+    "w1": "católica",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 9539,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 36657,
+    "unigram_w2": 7342,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "grupo",
+    "pmi": 0.0,
+    "cooc_count": 125,
+    "unigram_w1": 36657,
+    "unigram_w2": 107151,
+    "window_size": 10
+  },
+  {
+    "w1": "assistência",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 123,
+    "unigram_w1": 36657,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 107151,
+    "unigram_w2": 7342,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 7342,
+    "unigram_w2": 107561,
+    "window_size": 10
+  },
+  {
+    "w1": "grupo",
+    "w2": "tipo",
+    "pmi": 0.0,
+    "cooc_count": 292,
+    "unigram_w1": 107151,
+    "unigram_w2": 107561,
+    "window_size": 10
+  }
+]

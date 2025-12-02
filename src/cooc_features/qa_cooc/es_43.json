@@ -1,0 +1,650 @@
+[
+  {
+    "w1": "describir",
+    "w2": "utiliza",
+    "pmi": 2.2549567776633244,
+    "cooc_count": 82,
+    "unigram_w1": 4600,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "utiliza",
+    "pmi": 0.0,
+    "cooc_count": 3806,
+    "unigram_w1": 6497163,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "utiliza",
+    "pmi": 0.918139749628231,
+    "cooc_count": 15165,
+    "unigram_w1": 3238610,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "utiliza",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 149042,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "término",
+    "w2": "utiliza",
+    "pmi": 1.7231070492582181,
+    "cooc_count": 199,
+    "unigram_w1": 19001,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "obtiene",
+    "w2": "utiliza",
+    "pmi": 0.06963389324671575,
+    "cooc_count": 21,
+    "unigram_w1": 10477,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "sudáfrica",
+    "w2": "utiliza",
+    "pmi": 0.4494901218675367,
+    "cooc_count": 13,
+    "unigram_w1": 4436,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "servicios",
+    "w2": "utiliza",
+    "pmi": 0.10873289059323032,
+    "cooc_count": 306,
+    "unigram_w1": 146811,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitar",
+    "w2": "utiliza",
+    "pmi": 1.0361336882794354,
+    "cooc_count": 76,
+    "unigram_w1": 14424,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "utiliza",
+    "pmi": 0.7132681955771065,
+    "cooc_count": 12565,
+    "unigram_w1": 3293467,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "utiliza",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 72398,
+    "unigram_w2": 32975,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "describir",
+    "pmi": 0.0,
+    "cooc_count": 1037,
+    "unigram_w1": 6497163,
+    "unigram_w2": 4600,
+    "window_size": 10
+  },
+  {
+    "w1": "describir",
+    "w2": "se",
+    "pmi": 0.01335810075562063,
+    "cooc_count": 856,
+    "unigram_w1": 4600,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "describir",
+    "w2": "gobierno",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 4600,
+    "unigram_w2": 149042,
+    "window_size": 10
+  },
+  {
+    "w1": "describir",
+    "w2": "término",
+    "pmi": 3.2035166643753112,
+    "cooc_count": 122,
+    "unigram_w1": 4600,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "describir",
+    "w2": "sudáfrica",
+    "pmi": 0.9528464481824388,
+    "cooc_count": 3,
+    "unigram_w1": 4600,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "describir",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 4600,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "describir",
+    "w2": "para",
+    "pmi": 0.8152497238767534,
+    "cooc_count": 1941,
+    "unigram_w1": 4600,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "describir",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 72398,
+    "unigram_w2": 4600,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "contratos",
+    "pmi": 0.0,
+    "cooc_count": 2873,
+    "unigram_w1": 6497163,
+    "unigram_w2": 12283,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "subcontratados",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 6497163,
+    "unigram_w2": 71,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 865858,
+    "unigram_w1": 6497163,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "gobierno",
+    "pmi": 0.0,
+    "cooc_count": 35760,
+    "unigram_w1": 6497163,
+    "unigram_w2": 149042,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 4718,
+    "unigram_w1": 6497163,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "obtiene",
+    "pmi": 0.0,
+    "cooc_count": 1344,
+    "unigram_w1": 6497163,
+    "unigram_w2": 10477,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "sudáfrica",
+    "pmi": 0.0,
+    "cooc_count": 917,
+    "unigram_w1": 6497163,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 35421,
+    "unigram_w1": 6497163,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "facilitar",
+    "pmi": 0.0,
+    "cooc_count": 3816,
+    "unigram_w1": 6497163,
+    "unigram_w2": 14424,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 664130,
+    "unigram_w1": 6497163,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "alguien",
+    "pmi": 0.0715479633468855,
+    "cooc_count": 28647,
+    "unigram_w1": 6497163,
+    "unigram_w2": 72398,
+    "window_size": 10
+  },
+  {
+    "w1": "contratos",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 1493,
+    "unigram_w1": 12283,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "contratos",
+    "w2": "gobierno",
+    "pmi": 0.44519552975331156,
+    "cooc_count": 162,
+    "unigram_w1": 12283,
+    "unigram_w2": 149042,
+    "window_size": 10
+  },
+  {
+    "w1": "contratos",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 12283,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "contratos",
+    "w2": "servicios",
+    "pmi": 1.2419782078210448,
+    "cooc_count": 354,
+    "unigram_w1": 12283,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "contratos",
+    "w2": "facilitar",
+    "pmi": 0.9118096789077261,
+    "cooc_count": 25,
+    "unigram_w1": 12283,
+    "unigram_w2": 14424,
+    "window_size": 10
+  },
+  {
+    "w1": "contratos",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 1502,
+    "unigram_w1": 12283,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "contratos",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 72398,
+    "unigram_w2": 12283,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "subcontratados",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 3238610,
+    "unigram_w2": 71,
+    "window_size": 10
+  },
+  {
+    "w1": "servicios",
+    "w2": "subcontratados",
+    "pmi": 3.2340230902872595,
+    "cooc_count": 15,
+    "unigram_w1": 146811,
+    "unigram_w2": 71,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "subcontratados",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3293467,
+    "unigram_w2": 71,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 15774,
+    "unigram_w1": 149042,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "término",
+    "pmi": 0.04513486532506993,
+    "cooc_count": 3650,
+    "unigram_w1": 3238610,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "obtiene",
+    "w2": "se",
+    "pmi": 1.1312906388612058,
+    "cooc_count": 5963,
+    "unigram_w1": 10477,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "sudáfrica",
+    "pmi": 0.0,
+    "cooc_count": 377,
+    "unigram_w1": 3238610,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 11231,
+    "unigram_w1": 3238610,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitar",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 1078,
+    "unigram_w1": 14424,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 331633,
+    "unigram_w1": 3293467,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 9897,
+    "unigram_w1": 72398,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 149042,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "obtiene",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 149042,
+    "unigram_w2": 10477,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "sudáfrica",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 149042,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 582,
+    "unigram_w1": 149042,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitar",
+    "w2": "gobierno",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 14424,
+    "unigram_w2": 149042,
+    "window_size": 10
+  },
+  {
+    "w1": "gobierno",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 19161,
+    "unigram_w1": 149042,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "gobierno",
+    "pmi": 0.0,
+    "cooc_count": 133,
+    "unigram_w1": 72398,
+    "unigram_w2": 149042,
+    "window_size": 10
+  },
+  {
+    "w1": "sudáfrica",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 4436,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "servicios",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 146811,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 2629,
+    "unigram_w1": 3293467,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "término",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 72398,
+    "unigram_w2": 19001,
+    "window_size": 10
+  },
+  {
+    "w1": "obtiene",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 10477,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitar",
+    "w2": "obtiene",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 14424,
+    "unigram_w2": 10477,
+    "window_size": 10
+  },
+  {
+    "w1": "obtiene",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 564,
+    "unigram_w1": 10477,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "obtiene",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 72398,
+    "unigram_w2": 10477,
+    "window_size": 10
+  },
+  {
+    "w1": "servicios",
+    "w2": "sudáfrica",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 146811,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "sudáfrica",
+    "pmi": 0.0,
+    "cooc_count": 453,
+    "unigram_w1": 3293467,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "sudáfrica",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 72398,
+    "unigram_w2": 4436,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitar",
+    "w2": "servicios",
+    "pmi": 0.8574508989864491,
+    "cooc_count": 283,
+    "unigram_w1": 14424,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "para",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 26320,
+    "unigram_w1": 3293467,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "servicios",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 72398,
+    "unigram_w2": 146811,
+    "window_size": 10
+  },
+  {
+    "w1": "facilitar",
+    "w2": "para",
+    "pmi": 1.0767047079453484,
+    "cooc_count": 7905,
+    "unigram_w1": 14424,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "facilitar",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 72398,
+    "unigram_w2": 14424,
+    "window_size": 10
+  },
+  {
+    "w1": "alguien",
+    "w2": "para",
+    "pmi": 0.0,
+    "cooc_count": 8861,
+    "unigram_w1": 72398,
+    "unigram_w2": 3293467,
+    "window_size": 10
+  }
+]

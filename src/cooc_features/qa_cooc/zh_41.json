@@ -1,0 +1,812 @@
+[
+  {
+    "w1": "了",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 71273,
+    "unigram_w1": 2335068,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "从",
+    "pmi": 0.0,
+    "cooc_count": 33998,
+    "unigram_w1": 2335068,
+    "unigram_w2": 305264,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "参加",
+    "pmi": 0.1680396273142023,
+    "cooc_count": 13700,
+    "unigram_w1": 2335068,
+    "unigram_w2": 72183,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "联盟",
+    "pmi": 0.0,
+    "cooc_count": 2167,
+    "unigram_w1": 2335068,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 2188,
+    "unigram_w1": 2335068,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "篮球队",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 2335068,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "坎贝尔",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 2335068,
+    "unigram_w2": 186,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 2786,
+    "unigram_w1": 2335068,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1155684,
+    "unigram_w1": 2335068,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 10914,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "到",
+    "pmi": 0.0,
+    "cooc_count": 99279,
+    "unigram_w1": 2335068,
+    "unigram_w2": 621152,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 9595,
+    "unigram_w1": 2335068,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 4570,
+    "unigram_w1": 2335068,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "田径",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 2335068,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 2167,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "年",
+    "pmi": 0.04944848733039536,
+    "cooc_count": 21651,
+    "unigram_w1": 305264,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "年",
+    "pmi": 0.42364325282417564,
+    "cooc_count": 7443,
+    "unigram_w1": 72183,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "联盟",
+    "pmi": 0.0,
+    "cooc_count": 991,
+    "unigram_w1": 982471,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 684,
+    "unigram_w1": 57949,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "篮球队",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 982471,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 934,
+    "unigram_w1": 29209,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 391,
+    "unigram_w1": 10914,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 30735,
+    "unigram_w1": 621152,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 1586,
+    "unigram_w1": 982471,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "年",
+    "pmi": 0.19786753971813106,
+    "cooc_count": 5117,
+    "unigram_w1": 62195,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "田径",
+    "pmi": 0.8214780646684134,
+    "cooc_count": 134,
+    "unigram_w1": 982471,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 2167,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "参加",
+    "pmi": 0.0,
+    "cooc_count": 723,
+    "unigram_w1": 305264,
+    "unigram_w2": 72183,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "联盟",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 305264,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 284,
+    "unigram_w1": 305264,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "篮球队",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 305264,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 270,
+    "unigram_w1": 305264,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 139733,
+    "unigram_w1": 305264,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "从",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 10914,
+    "unigram_w2": 305264,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "到",
+    "pmi": 1.3037386343612212,
+    "cooc_count": 47983,
+    "unigram_w1": 305264,
+    "unigram_w2": 621152,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 792,
+    "unigram_w1": 305264,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 998,
+    "unigram_w1": 305264,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "从",
+    "w2": "田径",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 305264,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "联盟",
+    "pmi": 0.06304099742730052,
+    "cooc_count": 176,
+    "unigram_w1": 72183,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 213,
+    "unigram_w1": 72183,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "篮球队",
+    "pmi": 1.4371348104717647,
+    "cooc_count": 11,
+    "unigram_w1": 72183,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "坎贝尔",
+    "pmi": 0.08069341250155515,
+    "cooc_count": 1,
+    "unigram_w1": 72183,
+    "unigram_w2": 186,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 130,
+    "unigram_w1": 72183,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 28799,
+    "unigram_w1": 72183,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "参加",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 10914,
+    "unigram_w2": 72183,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "参加",
+    "pmi": 0.0,
+    "cooc_count": 1537,
+    "unigram_w1": 621152,
+    "unigram_w2": 72183,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "比赛",
+    "pmi": 2.147833134859631,
+    "cooc_count": 2951,
+    "unigram_w1": 72183,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "大学",
+    "pmi": 1.1206527656225698,
+    "cooc_count": 946,
+    "unigram_w1": 72183,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "参加",
+    "w2": "田径",
+    "pmi": 0.3262639996032093,
+    "cooc_count": 6,
+    "unigram_w1": 72183,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "联盟",
+    "pmi": 1.5515486212184721,
+    "cooc_count": 626,
+    "unigram_w1": 57949,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "联盟",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 29209,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "联盟",
+    "pmi": 0.0,
+    "cooc_count": 10379,
+    "unigram_w1": 10165533,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "联盟",
+    "pmi": 0.0,
+    "cooc_count": 296,
+    "unigram_w1": 621152,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "联盟",
+    "pmi": 2.5878206076643013,
+    "cooc_count": 2115,
+    "unigram_w1": 69460,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "联盟",
+    "pmi": 1.1168329839266071,
+    "cooc_count": 435,
+    "unigram_w1": 62195,
+    "unigram_w2": 33319,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 57949,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 14024,
+    "unigram_w1": 57949,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 10914,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 859,
+    "unigram_w1": 621152,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "比赛",
+    "pmi": 1.2277011737914172,
+    "cooc_count": 944,
+    "unigram_w1": 57949,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 57949,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "篮球队",
+    "pmi": 2.141191795157771,
+    "cooc_count": 9,
+    "unigram_w1": 29209,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "篮球队",
+    "pmi": 0.0,
+    "cooc_count": 270,
+    "unigram_w1": 10165533,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "篮球队",
+    "pmi": 1.4755883242665393,
+    "cooc_count": 11,
+    "unigram_w1": 69460,
+    "unigram_w2": 527,
+    "window_size": 10
+  },
+  {
+    "w1": "坎贝尔",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 186,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "坎贝尔",
+    "pmi": 0.007763696803412457,
+    "cooc_count": 8,
+    "unigram_w1": 621152,
+    "unigram_w2": 186,
+    "window_size": 10
+  },
+  {
+    "w1": "坎贝尔",
+    "w2": "大学",
+    "pmi": 2.3090649046301652,
+    "cooc_count": 8,
+    "unigram_w1": 186,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 9961,
+    "unigram_w1": 29209,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 721,
+    "unigram_w1": 621152,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "比赛",
+    "pmi": 0.12525647309181537,
+    "cooc_count": 158,
+    "unigram_w1": 29209,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "女子",
+    "pmi": 0.12189776709701695,
+    "cooc_count": 141,
+    "unigram_w1": 62195,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "田径",
+    "pmi": 2.6973287485447934,
+    "cooc_count": 26,
+    "unigram_w1": 29209,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 589,
+    "unigram_w1": 10914,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 255336,
+    "unigram_w1": 621152,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 33485,
+    "unigram_w1": 69460,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 21368,
+    "unigram_w1": 62195,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "田径",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 236,
+    "unigram_w1": 873,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 2167,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "泛美",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 34,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "到",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 10914,
+    "unigram_w2": 621152,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 10914,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 3.673382360384731,
+    "cooc_count": 64,
+    "unigram_w1": 2167,
+    "unigram_w2": 10914,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 1256,
+    "unigram_w1": 621152,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 1392,
+    "unigram_w1": 621152,
+    "unigram_w2": 62195,
+    "window_size": 10
+  },
+  {
+    "w1": "到",
+    "w2": "田径",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 621152,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 62195,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "田径",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 69460,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "大学",
+    "w2": "田径",
+    "pmi": 0.4751939500519837,
+    "cooc_count": 6,
+    "unigram_w1": 62195,
+    "unigram_w2": 873,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "大学",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2167,
+    "unigram_w2": 62195,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "w1": "制定",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 26782,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 218,
+    "unigram_w1": 26782,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 1736,
+    "unigram_w1": 26782,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 1217,
+    "unigram_w1": 26782,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "制定",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 303848,
+    "unigram_w2": 26782,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 26782,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 12762,
+    "unigram_w1": 26782,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "统一",
+    "pmi": 1.2643314483394206,
+    "cooc_count": 222,
+    "unigram_w1": 26782,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "法",
+    "pmi": 1.703071211120637,
+    "cooc_count": 402,
+    "unigram_w1": 26782,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "制定",
+    "pmi": 0.3460708733187233,
+    "cooc_count": 26,
+    "unigram_w1": 9996,
+    "unigram_w2": 26782,
+    "window_size": 10
+  },
+  {
+    "w1": "租赁",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 25061,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 813,
+    "unigram_w1": 982471,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 954,
+    "unigram_w1": 2216630,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 303848,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 122072,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 6033,
+    "unigram_w1": 10165533,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "租赁",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 25061,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "租赁",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 39787,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "租赁",
+    "pmi": 1.4584565956731674,
+    "cooc_count": 74,
+    "unigram_w1": 9996,
+    "unigram_w2": 25061,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 11032,
+    "unigram_w1": 982471,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 16525,
+    "unigram_w1": 2216630,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 1628,
+    "unigram_w1": 303848,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 359,
+    "unigram_w1": 122072,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 76095,
+    "unigram_w1": 10165533,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "统一",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 143,
+    "unigram_w1": 34073,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 245,
+    "unigram_w1": 39787,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "美国",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 9996,
+    "unigram_w2": 184679,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 54808,
+    "unigram_w1": 982471,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4830,
+    "unigram_w1": 303848,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 1893,
+    "unigram_w1": 982471,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 1603,
+    "unigram_w1": 982471,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 1995,
+    "unigram_w1": 982471,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 509,
+    "unigram_w1": 9996,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 741,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "是",
+    "pmi": 0.937328771102239,
+    "cooc_count": 118150,
+    "unigram_w1": 303848,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 15000,
+    "unigram_w1": 122072,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 3089,
+    "unigram_w1": 2216630,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 3345,
+    "unigram_w1": 2216630,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 685,
+    "unigram_w1": 9996,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "时候",
+    "pmi": 1.7276983318318682,
+    "cooc_count": 14342,
+    "unigram_w1": 303848,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 143,
+    "unigram_w1": 303848,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 219,
+    "unigram_w1": 303848,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 303848,
+    "unigram_w2": 9996,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 741,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "的",
+    "pmi": 0.12883178059310865,
+    "cooc_count": 96985,
+    "unigram_w1": 122072,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 122072,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 122072,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9996,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 14771,
+    "unigram_w1": 10165533,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 14306,
+    "unigram_w1": 39787,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 4041,
+    "unigram_w1": 9996,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 741,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 39787,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "统一",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 9996,
+    "unigram_w2": 34073,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9996,
+    "unigram_w2": 39787,
+    "window_size": 10
+  }
+]

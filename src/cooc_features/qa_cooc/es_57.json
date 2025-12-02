@@ -1,0 +1,263 @@
+[
+  {
+    "w1": "esquisto",
+    "w2": "más",
+    "pmi": 0.09526361892184887,
+    "cooc_count": 4,
+    "unigram_w1": 45,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "esquisto",
+    "w2": "parte",
+    "pmi": 1.2786728540260162,
+    "cooc_count": 3,
+    "unigram_w1": 45,
+    "unigram_w2": 327365,
+    "window_size": 10
+  },
+  {
+    "w1": "formación",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 55515,
+    "unigram_w2": 26891,
+    "window_size": 10
+  },
+  {
+    "w1": "está",
+    "w2": "formación",
+    "pmi": 0.0,
+    "cooc_count": 622,
+    "unigram_w1": 421809,
+    "unigram_w2": 55515,
+    "window_size": 10
+  },
+  {
+    "w1": "espíritu",
+    "w2": "formación",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 22668,
+    "unigram_w2": 55515,
+    "window_size": 10
+  },
+  {
+    "w1": "formación",
+    "w2": "más",
+    "pmi": 0.0,
+    "cooc_count": 2301,
+    "unigram_w1": 55515,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "formación",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 745,
+    "unigram_w1": 55515,
+    "unigram_w2": 327365,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "formación",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 7750,
+    "unigram_w2": 55515,
+    "window_size": 10
+  },
+  {
+    "w1": "está",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 362,
+    "unigram_w1": 421809,
+    "unigram_w2": 26891,
+    "window_size": 10
+  },
+  {
+    "w1": "espíritu",
+    "w2": "santo",
+    "pmi": 4.9682715276572225,
+    "cooc_count": 4969,
+    "unigram_w1": 22668,
+    "unigram_w2": 26891,
+    "window_size": 10
+  },
+  {
+    "w1": "más",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 714,
+    "unigram_w1": 1425342,
+    "unigram_w2": 26891,
+    "window_size": 10
+  },
+  {
+    "w1": "parte",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 130,
+    "unigram_w1": 327365,
+    "unigram_w2": 26891,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7750,
+    "unigram_w2": 26891,
+    "window_size": 10
+  },
+  {
+    "w1": "espíritu",
+    "w2": "está",
+    "pmi": 0.17688298374738531,
+    "cooc_count": 647,
+    "unigram_w1": 22668,
+    "unigram_w2": 421809,
+    "window_size": 10
+  },
+  {
+    "w1": "está",
+    "w2": "inferior",
+    "pmi": 0.0,
+    "cooc_count": 278,
+    "unigram_w1": 421809,
+    "unigram_w2": 19083,
+    "window_size": 10
+  },
+  {
+    "w1": "está",
+    "w2": "más",
+    "pmi": 0.0,
+    "cooc_count": 24216,
+    "unigram_w1": 421809,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "está",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 4729,
+    "unigram_w1": 421809,
+    "unigram_w2": 327365,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "está",
+    "pmi": 2.1517999435387622,
+    "cooc_count": 1594,
+    "unigram_w1": 7750,
+    "unigram_w2": 421809,
+    "window_size": 10
+  },
+  {
+    "w1": "espíritu",
+    "w2": "inferior",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 22668,
+    "unigram_w2": 19083,
+    "window_size": 10
+  },
+  {
+    "w1": "espíritu",
+    "w2": "más",
+    "pmi": 0.0,
+    "cooc_count": 827,
+    "unigram_w1": 22668,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "espíritu",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 22668,
+    "unigram_w2": 327365,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "espíritu",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7750,
+    "unigram_w2": 22668,
+    "window_size": 10
+  },
+  {
+    "w1": "inferior",
+    "w2": "más",
+    "pmi": 0.0,
+    "cooc_count": 528,
+    "unigram_w1": 19083,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "inferior",
+    "w2": "parte",
+    "pmi": 2.7428550626567705,
+    "cooc_count": 5501,
+    "unigram_w1": 19083,
+    "unigram_w2": 327365,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "inferior",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 7750,
+    "unigram_w2": 19083,
+    "window_size": 10
+  },
+  {
+    "w1": "arenisca",
+    "w2": "más",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 284,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "más",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 12456,
+    "unigram_w1": 1425342,
+    "unigram_w2": 327365,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "más",
+    "pmi": 0.0,
+    "cooc_count": 257,
+    "unigram_w1": 7750,
+    "unigram_w2": 1425342,
+    "window_size": 10
+  },
+  {
+    "w1": "compuesta",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 104,
+    "unigram_w1": 7750,
+    "unigram_w2": 327365,
+    "window_size": 10
+  }
+]

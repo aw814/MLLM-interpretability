@@ -1,0 +1,488 @@
+[
+  {
+    "w1": "pubblicato",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 9241,
+    "unigram_w1": 96550,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 419885,
+    "unigram_w1": 2895586,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "stato",
+    "w2": "è",
+    "pmi": 1.2590420292057993,
+    "cooc_count": 229395,
+    "unigram_w1": 416774,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 3460,
+    "unigram_w1": 31412,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "brown",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 263,
+    "unigram_w1": 10335,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "buonanotte",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 787,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 25543,
+    "unigram_w1": 256952,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "è",
+    "pmi": 0.024778865496645312,
+    "cooc_count": 33113,
+    "unigram_w1": 206704,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 958,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "bacio",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 745,
+    "unigram_w1": 5481,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 458,
+    "unigram_w1": 5911,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 5418,
+    "unigram_w1": 2895586,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "pubblicato",
+    "w2": "stato",
+    "pmi": 1.2445442407450482,
+    "cooc_count": 6654,
+    "unigram_w1": 96550,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "pubblicato",
+    "pmi": 1.6784967806987792,
+    "cooc_count": 774,
+    "unigram_w1": 31412,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "brown",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 10335,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "buonanotte",
+    "w2": "pubblicato",
+    "pmi": 1.5468552672426301,
+    "cooc_count": 17,
+    "unigram_w1": 787,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 940,
+    "unigram_w1": 256952,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 393,
+    "unigram_w1": 206704,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "pubblicato",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 958,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "bacio",
+    "w2": "pubblicato",
+    "pmi": 0.9159620529492334,
+    "cooc_count": 63,
+    "unigram_w1": 5481,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "pubblicato",
+    "pmi": 0.19380743224592786,
+    "cooc_count": 33,
+    "unigram_w1": 5911,
+    "unigram_w2": 96550,
+    "window_size": 10
+  },
+  {
+    "w1": "l",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 40704,
+    "unigram_w1": 2895586,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "l",
+    "pmi": 0.6548616238510202,
+    "cooc_count": 8340,
+    "unigram_w1": 31412,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "brown",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 361,
+    "unigram_w1": 10335,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "buonanotte",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 787,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "l",
+    "pmi": 0.43022640044983484,
+    "cooc_count": 54496,
+    "unigram_w1": 256952,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "l",
+    "pmi": 0.5049839022105637,
+    "cooc_count": 47242,
+    "unigram_w1": 206704,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 958,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "bacio",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 341,
+    "unigram_w1": 5481,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "l",
+    "pmi": 0.0,
+    "cooc_count": 427,
+    "unigram_w1": 5911,
+    "unigram_w2": 2895586,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 273,
+    "unigram_w1": 31412,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "brown",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 10335,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 4740,
+    "unigram_w1": 256952,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 2896,
+    "unigram_w1": 206704,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "greg",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 958,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "bacio",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 5481,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "stato",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 5911,
+    "unigram_w2": 416774,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "brown",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 31412,
+    "unigram_w2": 10335,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "anno",
+    "pmi": 0.0,
+    "cooc_count": 376,
+    "unigram_w1": 31412,
+    "unigram_w2": 256952,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "altro",
+    "pmi": 0.0,
+    "cooc_count": 273,
+    "unigram_w1": 31412,
+    "unigram_w2": 206704,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "greg",
+    "pmi": 0.7385057056629616,
+    "cooc_count": 3,
+    "unigram_w1": 31412,
+    "unigram_w2": 958,
+    "window_size": 10
+  },
+  {
+    "w1": "album",
+    "w2": "bacio",
+    "pmi": 0.09292292725581525,
+    "cooc_count": 9,
+    "unigram_w1": 31412,
+    "unigram_w2": 5481,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "album",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 5911,
+    "unigram_w2": 31412,
+    "window_size": 10
+  },
+  {
+    "w1": "brown",
+    "w2": "buonanotte",
+    "pmi": 1.6413139194871513,
+    "cooc_count": 2,
+    "unigram_w1": 10335,
+    "unigram_w2": 787,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "brown",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 256952,
+    "unigram_w2": 10335,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "brown",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 206704,
+    "unigram_w2": 10335,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "brown",
+    "pmi": 2.1899212245417217,
+    "cooc_count": 26,
+    "unigram_w1": 5911,
+    "unigram_w2": 10335,
+    "window_size": 10
+  },
+  {
+    "w1": "bacio",
+    "w2": "buonanotte",
+    "pmi": 3.661856907676794,
+    "cooc_count": 8,
+    "unigram_w1": 5481,
+    "unigram_w2": 787,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "anno",
+    "pmi": 0.0,
+    "cooc_count": 1714,
+    "unigram_w1": 206704,
+    "unigram_w2": 256952,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "greg",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 256952,
+    "unigram_w2": 958,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "bacio",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 256952,
+    "unigram_w2": 5481,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "anno",
+    "pmi": 0.6601140052398397,
+    "cooc_count": 140,
+    "unigram_w1": 5911,
+    "unigram_w2": 256952,
+    "window_size": 10
+  },
+  {
+    "w1": "altro",
+    "w2": "bacio",
+    "pmi": 0.036952207949428224,
+    "cooc_count": 56,
+    "unigram_w1": 206704,
+    "unigram_w2": 5481,
+    "window_size": 10
+  },
+  {
+    "w1": "1988",
+    "w2": "altro",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 5911,
+    "unigram_w2": 206704,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "w1": "più",
+    "w2": "è",
+    "pmi": 0.06655154324434406,
+    "cooc_count": 191965,
+    "unigram_w1": 1149293,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "costituita",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 8103,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "più",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 347,
+    "unigram_w1": 1149293,
+    "unigram_w2": 19179,
+    "window_size": 10
+  },
+  {
+    "w1": "inferiore",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 656,
+    "unigram_w1": 26321,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "arenaria",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 475,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "formazione",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 1404,
+    "unigram_w1": 76351,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "parte",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 12374,
+    "unigram_w1": 366489,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "più",
+    "pmi": 0.09811593478878629,
+    "cooc_count": 13087,
+    "unigram_w1": 216704,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "costituita",
+    "w2": "è",
+    "pmi": 1.0172405995777287,
+    "cooc_count": 3502,
+    "unigram_w1": 8103,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "santo",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 1885,
+    "unigram_w1": 19179,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "scisto",
+    "w2": "è",
+    "pmi": 0.19791265258912444,
+    "cooc_count": 8,
+    "unigram_w1": 42,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "inferiore",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 3982,
+    "unigram_w1": 26321,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "arenaria",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 475,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "formazione",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 5464,
+    "unigram_w1": 76351,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "parte",
+    "w2": "è",
+    "pmi": 0.0,
+    "cooc_count": 38066,
+    "unigram_w1": 366489,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "è",
+    "pmi": 0.37532958283932794,
+    "cooc_count": 49290,
+    "unigram_w1": 216704,
+    "unigram_w2": 3280629,
+    "window_size": 10
+  },
+  {
+    "w1": "costituita",
+    "w2": "inferiore",
+    "pmi": 0.24652379582281383,
+    "cooc_count": 13,
+    "unigram_w1": 8103,
+    "unigram_w2": 26321,
+    "window_size": 10
+  },
+  {
+    "w1": "costituita",
+    "w2": "formazione",
+    "pmi": 0.3054798629757346,
+    "cooc_count": 40,
+    "unigram_w1": 8103,
+    "unigram_w2": 76351,
+    "window_size": 10
+  },
+  {
+    "w1": "costituita",
+    "w2": "parte",
+    "pmi": 0.5573613674118696,
+    "cooc_count": 247,
+    "unigram_w1": 8103,
+    "unigram_w2": 366489,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "costituita",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 216704,
+    "unigram_w2": 8103,
+    "window_size": 10
+  },
+  {
+    "w1": "arenaria",
+    "w2": "siltite",
+    "pmi": 10.473228104111627,
+    "cooc_count": 8,
+    "unigram_w1": 475,
+    "unigram_w2": 10,
+    "window_size": 10
+  },
+  {
+    "w1": "espiritu",
+    "w2": "santo",
+    "pmi": 6.25090084819542,
+    "cooc_count": 9,
+    "unigram_w1": 19,
+    "unigram_w2": 19179,
+    "window_size": 10
+  },
+  {
+    "w1": "inferiore",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 26321,
+    "unigram_w2": 19179,
+    "window_size": 10
+  },
+  {
+    "w1": "formazione",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 76351,
+    "unigram_w2": 19179,
+    "window_size": 10
+  },
+  {
+    "w1": "parte",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 366489,
+    "unigram_w2": 19179,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 216704,
+    "unigram_w2": 19179,
+    "window_size": 10
+  },
+  {
+    "w1": "formazione",
+    "w2": "inferiore",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 76351,
+    "unigram_w2": 26321,
+    "window_size": 10
+  },
+  {
+    "w1": "inferiore",
+    "w2": "parte",
+    "pmi": 1.6906811745134862,
+    "cooc_count": 2492,
+    "unigram_w1": 26321,
+    "unigram_w2": 366489,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "inferiore",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 216704,
+    "unigram_w2": 26321,
+    "window_size": 10
+  },
+  {
+    "w1": "arenaria",
+    "w2": "formazione",
+    "pmi": 1.0627131597219828,
+    "cooc_count": 5,
+    "unigram_w1": 475,
+    "unigram_w2": 76351,
+    "window_size": 10
+  },
+  {
+    "w1": "arenaria",
+    "w2": "parte",
+    "pmi": 1.1035236940781772,
+    "cooc_count": 25,
+    "unigram_w1": 475,
+    "unigram_w2": 366489,
+    "window_size": 10
+  },
+  {
+    "w1": "formazione",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 624,
+    "unigram_w1": 76351,
+    "unigram_w2": 366489,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "formazione",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 216704,
+    "unigram_w2": 76351,
+    "window_size": 10
+  },
+  {
+    "w1": "cosa",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 1773,
+    "unigram_w1": 216704,
+    "unigram_w2": 366489,
+    "window_size": 10
+  }
+]

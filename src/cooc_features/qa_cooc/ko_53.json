@@ -1,0 +1,281 @@
+[
+  {
+    "w1": "기관은",
+    "w2": "의료",
+    "pmi": 1.127264040024751,
+    "cooc_count": 14,
+    "unigram_w1": 1244,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "건강",
+    "w2": "기관은",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7709,
+    "unigram_w2": 1244,
+    "window_size": 10
+  },
+  {
+    "w1": "기관은",
+    "w2": "유형의",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1244,
+    "unigram_w2": 2841,
+    "window_size": 10
+  },
+  {
+    "w1": "기관은",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 1244,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "기관은",
+    "w2": "비영리",
+    "pmi": 3.0115022534522335,
+    "cooc_count": 18,
+    "unigram_w1": 1244,
+    "unigram_w2": 1355,
+    "window_size": 10
+  },
+  {
+    "w1": "관리",
+    "w2": "기관은",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 22883,
+    "unigram_w2": 1244,
+    "window_size": 10
+  },
+  {
+    "w1": "건강",
+    "w2": "의료",
+    "pmi": 2.637959839118616,
+    "cooc_count": 393,
+    "unigram_w1": 7709,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "유형의",
+    "w2": "의료",
+    "pmi": 0.30143993146968756,
+    "cooc_count": 14,
+    "unigram_w1": 2841,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "성",
+    "w2": "의료",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 8459,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "의료",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 55483,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "비영리",
+    "w2": "의료",
+    "pmi": 1.4472596881182385,
+    "cooc_count": 21,
+    "unigram_w1": 1355,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "관리",
+    "w2": "의료",
+    "pmi": 0.404458165231394,
+    "cooc_count": 125,
+    "unigram_w1": 22883,
+    "unigram_w2": 6936,
+    "window_size": 10
+  },
+  {
+    "w1": "건강",
+    "w2": "유형의",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 7709,
+    "unigram_w2": 2841,
+    "window_size": 10
+  },
+  {
+    "w1": "건강",
+    "w2": "성",
+    "pmi": 0.24983413732397913,
+    "cooc_count": 44,
+    "unigram_w1": 7709,
+    "unigram_w2": 8459,
+    "window_size": 10
+  },
+  {
+    "w1": "가톨릭",
+    "w2": "건강",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1059,
+    "unigram_w2": 7709,
+    "window_size": 10
+  },
+  {
+    "w1": "건강",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 7709,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "건강",
+    "w2": "관리",
+    "pmi": 2.3216661174239515,
+    "cooc_count": 945,
+    "unigram_w1": 7709,
+    "unigram_w2": 22883,
+    "window_size": 10
+  },
+  {
+    "w1": "성",
+    "w2": "유형의",
+    "pmi": 0.6827527028789928,
+    "cooc_count": 25,
+    "unigram_w1": 8459,
+    "unigram_w2": 2841,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "유형의",
+    "pmi": 1.569483179092383,
+    "cooc_count": 398,
+    "unigram_w1": 55483,
+    "unigram_w2": 2841,
+    "window_size": 10
+  },
+  {
+    "w1": "관리",
+    "w2": "유형의",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 22883,
+    "unigram_w2": 2841,
+    "window_size": 10
+  },
+  {
+    "w1": "가톨릭",
+    "w2": "성",
+    "pmi": 1.8180037442500476,
+    "cooc_count": 29,
+    "unigram_w1": 1059,
+    "unigram_w2": 8459,
+    "window_size": 10
+  },
+  {
+    "w1": "성",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 8459,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "성",
+    "w2": "요한",
+    "pmi": 4.273972708187971,
+    "cooc_count": 302,
+    "unigram_w1": 8459,
+    "unigram_w2": 946,
+    "window_size": 10
+  },
+  {
+    "w1": "관리",
+    "w2": "성",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 22883,
+    "unigram_w2": 8459,
+    "window_size": 10
+  },
+  {
+    "w1": "가톨릭",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1059,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "가톨릭",
+    "w2": "요한",
+    "pmi": 3.2064009449772466,
+    "cooc_count": 13,
+    "unigram_w1": 1059,
+    "unigram_w2": 946,
+    "window_size": 10
+  },
+  {
+    "w1": "가톨릭",
+    "w2": "관리",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 1059,
+    "unigram_w2": 22883,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "요한",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 55483,
+    "unigram_w2": 946,
+    "window_size": 10
+  },
+  {
+    "w1": "비영리",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 1355,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "관리",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 22883,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "관리",
+    "w2": "비영리",
+    "pmi": 1.0592158147857282,
+    "cooc_count": 47,
+    "unigram_w1": 22883,
+    "unigram_w2": 1355,
+    "window_size": 10
+  }
+]

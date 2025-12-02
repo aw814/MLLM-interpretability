@@ -1,0 +1,542 @@
+[
+  {
+    "w1": "a",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 287,
+    "unigram_w1": 2730698,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 640934,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "loi",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 85552,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 257434,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "créée",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 12845,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "tenant",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 7658,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 296470,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "landlord",
+    "w2": "tenant",
+    "pmi": 6.21315879985118,
+    "cooc_count": 10,
+    "unigram_w1": 58,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "quand",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 198977,
+    "unigram_w2": 7658,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": 0.2923699331615506,
+    "cooc_count": 105725,
+    "unigram_w1": 2730698,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "residential",
+    "pmi": 1.0117341159724598,
+    "cooc_count": 148,
+    "unigram_w1": 2730698,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "loi",
+    "pmi": 0.0,
+    "cooc_count": 5801,
+    "unigram_w1": 2730698,
+    "unigram_w2": 85552,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "uniform",
+    "pmi": 0.6935618767628915,
+    "cooc_count": 34,
+    "unigram_w1": 2730698,
+    "unigram_w2": 138,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "and",
+    "pmi": 0.20172523467578674,
+    "cooc_count": 38785,
+    "unigram_w1": 2730698,
+    "unigram_w2": 257434,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "créée",
+    "pmi": 0.7008941676700566,
+    "cooc_count": 3188,
+    "unigram_w1": 2730698,
+    "unigram_w2": 12845,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "été",
+    "pmi": 1.404852042000135,
+    "cooc_count": 281098,
+    "unigram_w1": 2730698,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "landlord",
+    "pmi": 0.33659711975156126,
+    "cooc_count": 10,
+    "unigram_w1": 2730698,
+    "unigram_w2": 58,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "act",
+    "pmi": 0.0,
+    "cooc_count": 358,
+    "unigram_w1": 2730698,
+    "unigram_w2": 4547,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 23726,
+    "unigram_w1": 2730698,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "a",
+    "pmi": 0.6714810785514409,
+    "cooc_count": 1345,
+    "unigram_w1": 5581,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "loi",
+    "pmi": 0.0,
+    "cooc_count": 1311,
+    "unigram_w1": 640934,
+    "unigram_w2": 85552,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 198,
+    "unigram_w1": 257434,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "créée",
+    "w2": "elle",
+    "pmi": 0.6427464109069779,
+    "cooc_count": 706,
+    "unigram_w1": 12845,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 14396,
+    "unigram_w1": 640934,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": 0.892839666453013,
+    "cooc_count": 20925,
+    "unigram_w1": 640934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 4547,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "quand",
+    "pmi": 0.5789046825449371,
+    "cooc_count": 10260,
+    "unigram_w1": 640934,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 5581,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "residential",
+    "pmi": 3.2202580852506744,
+    "cooc_count": 127,
+    "unigram_w1": 257434,
+    "unigram_w2": 437,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "loi",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 257434,
+    "unigram_w2": 85552,
+    "window_size": 10
+  },
+  {
+    "w1": "créée",
+    "w2": "loi",
+    "pmi": 1.0022080611467261,
+    "cooc_count": 135,
+    "unigram_w1": 12845,
+    "unigram_w2": 85552,
+    "window_size": 10
+  },
+  {
+    "w1": "loi",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 1207,
+    "unigram_w1": 85552,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "loi",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 425,
+    "unigram_w1": 85552,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "loi",
+    "pmi": 2.018222161013641,
+    "cooc_count": 132,
+    "unigram_w1": 4547,
+    "unigram_w2": 85552,
+    "window_size": 10
+  },
+  {
+    "w1": "loi",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 341,
+    "unigram_w1": 85552,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "loi",
+    "pmi": 0.3645071459489934,
+    "cooc_count": 31,
+    "unigram_w1": 5581,
+    "unigram_w2": 85552,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "uniform",
+    "pmi": 2.7476263335986695,
+    "cooc_count": 25,
+    "unigram_w1": 257434,
+    "unigram_w2": 138,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "créée",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 257434,
+    "unigram_w2": 12845,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 280,
+    "unigram_w1": 257434,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 2437,
+    "unigram_w1": 257434,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "landlord",
+    "pmi": 3.0346185129565124,
+    "cooc_count": 14,
+    "unigram_w1": 257434,
+    "unigram_w2": 58,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "and",
+    "pmi": 1.9002492969959592,
+    "cooc_count": 353,
+    "unigram_w1": 4547,
+    "unigram_w2": 257434,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 76,
+    "unigram_w1": 257434,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "and",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 5581,
+    "unigram_w2": 257434,
+    "window_size": 10
+  },
+  {
+    "w1": "créée",
+    "w2": "été",
+    "pmi": 2.172825575892121,
+    "cooc_count": 2850,
+    "unigram_w1": 12845,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "créée",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 12845,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "créée",
+    "pmi": 0.4178843471916894,
+    "cooc_count": 4,
+    "unigram_w1": 4547,
+    "unigram_w2": 12845,
+    "window_size": 10
+  },
+  {
+    "w1": "créée",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 12845,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "créée",
+    "pmi": 3.359289182261632,
+    "cooc_count": 93,
+    "unigram_w1": 5581,
+    "unigram_w2": 12845,
+    "window_size": 10
+  },
+  {
+    "w1": "t",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 4208,
+    "unigram_w1": 296470,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 4547,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "quand",
+    "w2": "été",
+    "pmi": 0.0,
+    "cooc_count": 2842,
+    "unigram_w1": 198977,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "été",
+    "pmi": 0.40319609486104163,
+    "cooc_count": 211,
+    "unigram_w1": 5581,
+    "unigram_w2": 560207,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 4547,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "quand",
+    "w2": "t",
+    "pmi": 0.06014066202140891,
+    "cooc_count": 2825,
+    "unigram_w1": 198977,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 5581,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 4547,
+    "unigram_w2": 198977,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "act",
+    "pmi": 2.5732268459295593,
+    "cooc_count": 15,
+    "unigram_w1": 5581,
+    "unigram_w2": 4547,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "quand",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 5581,
+    "unigram_w2": 198977,
+    "window_size": 10
+  }
+]

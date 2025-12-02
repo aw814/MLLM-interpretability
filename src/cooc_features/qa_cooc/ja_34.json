@@ -1,0 +1,1379 @@
+[
+  {
+    "w1": "て",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 22433,
+    "unigram_w1": 37802361,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 7573783,
+    "unigram_w1": 37802361,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 7525227,
+    "unigram_w1": 34355595,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 2998,
+    "unigram_w1": 37802361,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 25983,
+    "unigram_w1": 37802361,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 8695,
+    "unigram_w1": 37802361,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 10832235,
+    "unigram_w1": 37802361,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "どの",
+    "pmi": 0.0,
+    "cooc_count": 40492,
+    "unigram_w1": 37802361,
+    "unigram_w2": 162532,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "て",
+    "pmi": 0.028839400055390953,
+    "cooc_count": 1959098,
+    "unigram_w1": 6502519,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 2380,
+    "unigram_w1": 37802361,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "れ",
+    "pmi": 0.21112187687078632,
+    "cooc_count": 3045675,
+    "unigram_w1": 37802361,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "ます",
+    "pmi": 0.19413254597541832,
+    "cooc_count": 3495354,
+    "unigram_w1": 37802361,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 2405944,
+    "unigram_w1": 11759829,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 11268355,
+    "unigram_w1": 37802361,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 4542,
+    "unigram_w1": 37802361,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 41505,
+    "unigram_w1": 37802361,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "て",
+    "pmi": 0.3554361255135918,
+    "cooc_count": 8203083,
+    "unigram_w1": 19640992,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 17478,
+    "unigram_w1": 29738357,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 16760,
+    "unigram_w1": 34355595,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "同一",
+    "w2": "視",
+    "pmi": 3.374079791332487,
+    "cooc_count": 376,
+    "unigram_w1": 16290,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "一部",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 136023,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "視",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 102092,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 34118,
+    "unigram_w1": 67342455,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 162532,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "視",
+    "pmi": 0.474398075847419,
+    "cooc_count": 8261,
+    "unigram_w1": 6502519,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 14641,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "視",
+    "pmi": 0.5247978386564666,
+    "cooc_count": 11256,
+    "unigram_w1": 8424512,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 527,
+    "unigram_w1": 9834012,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "視",
+    "pmi": 0.09743523360254376,
+    "cooc_count": 10248,
+    "unigram_w1": 11759829,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 19904,
+    "unigram_w1": 42919610,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "著者",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 28606,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "視",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 388720,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "視",
+    "pmi": 0.3027548937860772,
+    "cooc_count": 21017,
+    "unigram_w1": 19640992,
+    "unigram_w2": 102092,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 6255837,
+    "unigram_w1": 34355595,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "同一",
+    "pmi": 0.4049704759520761,
+    "cooc_count": 5624,
+    "unigram_w1": 29738357,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 19768,
+    "unigram_w1": 29738357,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 9301,
+    "unigram_w1": 29738357,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 10015873,
+    "unigram_w1": 29738357,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "どの",
+    "pmi": 0.0,
+    "cooc_count": 20810,
+    "unigram_w1": 29738357,
+    "unigram_w2": 162532,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 1041584,
+    "unigram_w1": 6502519,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 2560,
+    "unigram_w1": 29738357,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1571603,
+    "unigram_w1": 29738357,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "ます",
+    "pmi": 0.0,
+    "cooc_count": 2165786,
+    "unigram_w1": 29738357,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "と",
+    "pmi": 0.09823529738292358,
+    "cooc_count": 2987527,
+    "unigram_w1": 11759829,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 6473610,
+    "unigram_w1": 29738357,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 4827,
+    "unigram_w1": 29738357,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 87876,
+    "unigram_w1": 29738357,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 4372253,
+    "unigram_w1": 19640992,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 3908,
+    "unigram_w1": 34355595,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 31953,
+    "unigram_w1": 34355595,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 9393,
+    "unigram_w1": 34355595,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 12972086,
+    "unigram_w1": 34355595,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "どの",
+    "pmi": 0.154041330507339,
+    "cooc_count": 50439,
+    "unigram_w1": 34355595,
+    "unigram_w2": 162532,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "さ",
+    "pmi": 0.0,
+    "cooc_count": 1465715,
+    "unigram_w1": 34355595,
+    "unigram_w2": 6502519,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 2199,
+    "unigram_w1": 34355595,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1992501,
+    "unigram_w1": 34355595,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "ます",
+    "pmi": 0.2023665184419919,
+    "cooc_count": 3202917,
+    "unigram_w1": 34355595,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "が",
+    "pmi": 0.0,
+    "cooc_count": 2248454,
+    "unigram_w1": 11759829,
+    "unigram_w2": 34355595,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 8394360,
+    "unigram_w1": 34355595,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 6573,
+    "unigram_w1": 34355595,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 69716,
+    "unigram_w1": 34355595,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "が",
+    "pmi": 0.0,
+    "cooc_count": 3624219,
+    "unigram_w1": 19640992,
+    "unigram_w2": 34355595,
+    "window_size": 10
+  },
+  {
+    "w1": "一部",
+    "w2": "同一",
+    "pmi": 0.9187411420982042,
+    "cooc_count": 43,
+    "unigram_w1": 136023,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "同一",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 16290,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "同一",
+    "pmi": 0.159853781619442,
+    "cooc_count": 9967,
+    "unigram_w1": 67342455,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 162532,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 786,
+    "unigram_w1": 6502519,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "同一",
+    "pmi": 0.07968638383757597,
+    "cooc_count": 2,
+    "unigram_w1": 14641,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 742,
+    "unigram_w1": 8424512,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "同一",
+    "pmi": 0.13939134823582283,
+    "cooc_count": 1426,
+    "unigram_w1": 9834012,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 406,
+    "unigram_w1": 11759829,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 4820,
+    "unigram_w1": 42919610,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "同一",
+    "w2": "著者",
+    "pmi": 2.4779486451498296,
+    "cooc_count": 43,
+    "unigram_w1": 16290,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "同一",
+    "pmi": 0.9903076479776989,
+    "cooc_count": 132,
+    "unigram_w1": 388720,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "同一",
+    "pmi": 0.0,
+    "cooc_count": 312,
+    "unigram_w1": 19640992,
+    "unigram_w2": 16290,
+    "window_size": 10
+  },
+  {
+    "w1": "一部",
+    "w2": "都市",
+    "pmi": 1.2024957996385062,
+    "cooc_count": 187,
+    "unigram_w1": 136023,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "一部",
+    "pmi": 0.19569075583225345,
+    "cooc_count": 86262,
+    "unigram_w1": 67342455,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 162532,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 5144,
+    "unigram_w1": 6502519,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "一部",
+    "w2": "古代",
+    "pmi": 1.4231497201669223,
+    "cooc_count": 64,
+    "unigram_w1": 136023,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 5201,
+    "unigram_w1": 8424512,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "一部",
+    "pmi": 0.4091958098331054,
+    "cooc_count": 15595,
+    "unigram_w1": 9834012,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 3227,
+    "unigram_w1": 11759829,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 36502,
+    "unigram_w1": 42919610,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "一部",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 136023,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "一部",
+    "pmi": 0.46986839455619994,
+    "cooc_count": 655,
+    "unigram_w1": 388720,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "一部",
+    "pmi": 0.0,
+    "cooc_count": 4738,
+    "unigram_w1": 19640992,
+    "unigram_w2": 136023,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "都市",
+    "pmi": 0.044505341982929866,
+    "cooc_count": 29081,
+    "unigram_w1": 67342455,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "都市",
+    "pmi": 0.6216500037106433,
+    "cooc_count": 125,
+    "unigram_w1": 162532,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 1664,
+    "unigram_w1": 6502519,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "都市",
+    "pmi": 3.894117498459608,
+    "cooc_count": 297,
+    "unigram_w1": 14641,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 1975,
+    "unigram_w1": 8424512,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 3254,
+    "unigram_w1": 9834012,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 1467,
+    "unigram_w1": 11759829,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 14562,
+    "unigram_w1": 42919610,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "著者",
+    "w2": "都市",
+    "pmi": 0.015501335623545522,
+    "cooc_count": 12,
+    "unigram_w1": 28606,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "都市",
+    "pmi": 0.776423803973033,
+    "cooc_count": 349,
+    "unigram_w1": 388720,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "都市",
+    "pmi": 0.0,
+    "cooc_count": 1407,
+    "unigram_w1": 19640992,
+    "unigram_w2": 53341,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 73779,
+    "unigram_w1": 162532,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 1969703,
+    "unigram_w1": 6502519,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "古代",
+    "pmi": 0.1578353452221543,
+    "cooc_count": 8940,
+    "unigram_w1": 67342455,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 2286529,
+    "unigram_w1": 67342455,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "ます",
+    "pmi": 0.0,
+    "cooc_count": 3503462,
+    "unigram_w1": 67342455,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4003473,
+    "unigram_w1": 11759829,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 15064864,
+    "unigram_w1": 42919610,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "著者",
+    "pmi": 0.017553728165946365,
+    "cooc_count": 15181,
+    "unigram_w1": 67342455,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "の",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 187030,
+    "unigram_w1": 67342455,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "の",
+    "pmi": 0.0,
+    "cooc_count": 4942044,
+    "unigram_w1": 19640992,
+    "unigram_w2": 67342455,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "どの",
+    "pmi": 0.0,
+    "cooc_count": 4725,
+    "unigram_w1": 6502519,
+    "unigram_w2": 162532,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 162532,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 4828,
+    "unigram_w1": 162532,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "ます",
+    "pmi": 0.21270075306735345,
+    "cooc_count": 15310,
+    "unigram_w1": 162532,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "どの",
+    "pmi": 1.0436881939211113,
+    "cooc_count": 42028,
+    "unigram_w1": 11759829,
+    "unigram_w2": 162532,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "に",
+    "pmi": 0.3154532423084922,
+    "cooc_count": 74050,
+    "unigram_w1": 162532,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 162532,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "どの",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 363,
+    "unigram_w1": 162532,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "どの",
+    "pmi": 0.0,
+    "cooc_count": 6319,
+    "unigram_w1": 19640992,
+    "unigram_w2": 162532,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 552,
+    "unigram_w1": 6502519,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "れ",
+    "pmi": 1.8231420269817038,
+    "cooc_count": 2626260,
+    "unigram_w1": 6502519,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "ます",
+    "pmi": 0.0,
+    "cooc_count": 449569,
+    "unigram_w1": 6502519,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "さ",
+    "pmi": 0.0,
+    "cooc_count": 389988,
+    "unigram_w1": 11759829,
+    "unigram_w2": 6502519,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 1747110,
+    "unigram_w1": 6502519,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 950,
+    "unigram_w1": 6502519,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 9458,
+    "unigram_w1": 6502519,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "さ",
+    "pmi": 0.15474328779069127,
+    "cooc_count": 1154463,
+    "unigram_w1": 19640992,
+    "unigram_w2": 6502519,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 867,
+    "unigram_w1": 8424512,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 1044,
+    "unigram_w1": 9834012,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 407,
+    "unigram_w1": 11759829,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 3470,
+    "unigram_w1": 42919610,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "古代",
+    "w2": "著者",
+    "pmi": 1.5315243409610861,
+    "cooc_count": 15,
+    "unigram_w1": 14641,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 388720,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "古代",
+    "pmi": 0.0,
+    "cooc_count": 710,
+    "unigram_w1": 19640992,
+    "unigram_w2": 14641,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 572892,
+    "unigram_w1": 9834012,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "れ",
+    "pmi": 0.13379328865606396,
+    "cooc_count": 876965,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 2247605,
+    "unigram_w1": 42919610,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 1087,
+    "unigram_w1": 8424512,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 10468,
+    "unigram_w1": 388720,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "れ",
+    "pmi": 0.36018081368647537,
+    "cooc_count": 1836807,
+    "unigram_w1": 19640992,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "ます",
+    "pmi": 0.0,
+    "cooc_count": 404566,
+    "unigram_w1": 11759829,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "ます",
+    "pmi": 0.0,
+    "cooc_count": 3008828,
+    "unigram_w1": 42919610,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 1860,
+    "unigram_w1": 9834012,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "ます",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 24554,
+    "unigram_w1": 9834012,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "ます",
+    "pmi": 0.215952394354338,
+    "cooc_count": 1856145,
+    "unigram_w1": 19640992,
+    "unigram_w2": 9834012,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 2348655,
+    "unigram_w1": 11759829,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 1004,
+    "unigram_w1": 11759829,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 8899,
+    "unigram_w1": 11759829,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "か",
+    "pmi": 0.14370261615855423,
+    "cooc_count": 2064926,
+    "unigram_w1": 19640992,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 7128,
+    "unigram_w1": 42919610,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "に",
+    "w2": "よる",
+    "pmi": 1.0092984305263886,
+    "cooc_count": 354451,
+    "unigram_w1": 42919610,
+    "unigram_w2": 388720,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "に",
+    "pmi": 0.0,
+    "cooc_count": 3884661,
+    "unigram_w1": 19640992,
+    "unigram_w2": 42919610,
+    "window_size": 10
+  },
+  {
+    "w1": "よる",
+    "w2": "著者",
+    "pmi": 1.6559080014752519,
+    "cooc_count": 451,
+    "unigram_w1": 388720,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "著者",
+    "pmi": 0.0,
+    "cooc_count": 712,
+    "unigram_w1": 19640992,
+    "unigram_w2": 28606,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "よる",
+    "pmi": 0.0,
+    "cooc_count": 8185,
+    "unigram_w1": 19640992,
+    "unigram_w2": 388720,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "w1": "독일",
+    "w2": "어느",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 20448,
+    "unigram_w2": 19676,
+    "window_size": 10
+  },
+  {
+    "w1": "나라에",
+    "w2": "어느",
+    "pmi": 2.629799440449976,
+    "cooc_count": 175,
+    "unigram_w1": 1220,
+    "unigram_w2": 19676,
+    "window_size": 10
+  },
+  {
+    "w1": "어느",
+    "w2": "있었나요?",
+    "pmi": 0.546267913518615,
+    "cooc_count": 3,
+    "unigram_w1": 19676,
+    "unigram_w2": 168,
+    "window_size": 10
+  },
+  {
+    "w1": "나라에",
+    "w2": "독일",
+    "pmi": 0.5175704606227469,
+    "cooc_count": 22,
+    "unigram_w1": 1220,
+    "unigram_w2": 20448,
+    "window_size": 10
+  }
+]

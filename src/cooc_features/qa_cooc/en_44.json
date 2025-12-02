@@ -1,0 +1,1334 @@
+[
+  {
+    "w1": "cement",
+    "w2": "just",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 9545,
+    "unigram_w2": 510326,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "cement",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 8854,
+    "unigram_w2": 9545,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "production",
+    "pmi": 2.629385131066629,
+    "cooc_count": 381,
+    "unigram_w1": 9545,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "material",
+    "pmi": 1.702675000665066,
+    "cooc_count": 172,
+    "unigram_w1": 9545,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 9545,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 9545,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 9545,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "located",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 9545,
+    "unigram_w2": 63541,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "chemistry",
+    "pmi": 1.0498244674168102,
+    "cooc_count": 15,
+    "unigram_w1": 9545,
+    "unigram_w2": 11548,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "raw",
+    "pmi": 3.1792407715594244,
+    "cooc_count": 201,
+    "unigram_w1": 9545,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "mix",
+    "pmi": 2.752266168040491,
+    "cooc_count": 194,
+    "unigram_w1": 9545,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "upstream",
+    "pmi": 1.7506211984908504,
+    "cooc_count": 5,
+    "unigram_w1": 9545,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "mill",
+    "pmi": 4.6453273991260815,
+    "cooc_count": 1564,
+    "unigram_w1": 9545,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "materials",
+    "pmi": 2.3260028205212233,
+    "cooc_count": 233,
+    "unigram_w1": 9545,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "cement",
+    "w2": "used",
+    "pmi": 1.345654843510232,
+    "cooc_count": 483,
+    "unigram_w1": 9545,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "just",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 8854,
+    "unigram_w2": 510326,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "proportions",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 510326,
+    "unigram_w2": 1432,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 302,
+    "unigram_w1": 510326,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 493,
+    "unigram_w1": 510326,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "what",
+    "pmi": 0.1400417805071117,
+    "cooc_count": 17484,
+    "unigram_w1": 510326,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 554,
+    "unigram_w1": 510326,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 339,
+    "unigram_w1": 510326,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "located",
+    "pmi": 0.39823328318167445,
+    "cooc_count": 2300,
+    "unigram_w1": 510326,
+    "unigram_w2": 63541,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "just",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 11548,
+    "unigram_w2": 510326,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "raw",
+    "pmi": 0.0,
+    "cooc_count": 315,
+    "unigram_w1": 510326,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "mix",
+    "pmi": 0.0,
+    "cooc_count": 456,
+    "unigram_w1": 510326,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "upstream",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 510326,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "analyzer",
+    "w2": "just",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1379,
+    "unigram_w2": 510326,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "mill",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 510326,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "materials",
+    "pmi": 0.0,
+    "cooc_count": 212,
+    "unigram_w1": 510326,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 2974,
+    "unigram_w1": 510326,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "just",
+    "w2": "monitor",
+    "pmi": 0.0,
+    "cooc_count": 151,
+    "unigram_w1": 510326,
+    "unigram_w2": 18851,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "just",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 8309,
+    "unigram_w2": 510326,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "production",
+    "pmi": 0.5459235127259512,
+    "cooc_count": 44,
+    "unigram_w1": 8854,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "material",
+    "pmi": 1.2050396252227575,
+    "cooc_count": 97,
+    "unigram_w1": 8854,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 8854,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 8854,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 8854,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "located",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 8854,
+    "unigram_w2": 63541,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "chemistry",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 8854,
+    "unigram_w2": 11548,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "raw",
+    "pmi": 1.2832884965433144,
+    "cooc_count": 28,
+    "unigram_w1": 8854,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "mix",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 8854,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "mill",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 8854,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "materials",
+    "pmi": 2.181221106677871,
+    "cooc_count": 187,
+    "unigram_w1": 8854,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 8854,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "bulk",
+    "w2": "monitor",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 8854,
+    "unigram_w2": 18851,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "proportions",
+    "pmi": 0.7807557219154047,
+    "cooc_count": 9,
+    "unigram_w1": 60443,
+    "unigram_w2": 1432,
+    "window_size": 10
+  },
+  {
+    "w1": "proportions",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 1432,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "proportions",
+    "w2": "specific",
+    "pmi": 1.4172078423314902,
+    "cooc_count": 17,
+    "unigram_w1": 1432,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "proportions",
+    "pmi": 1.327263546671733,
+    "cooc_count": 7,
+    "unigram_w1": 27218,
+    "unigram_w2": 1432,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "proportions",
+    "pmi": 1.8164321933182026,
+    "cooc_count": 21,
+    "unigram_w1": 50065,
+    "unigram_w2": 1432,
+    "window_size": 10
+  },
+  {
+    "w1": "proportions",
+    "w2": "used",
+    "pmi": 0.4965707829820628,
+    "cooc_count": 31,
+    "unigram_w1": 1432,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "production",
+    "pmi": 0.45570039939411655,
+    "cooc_count": 313,
+    "unigram_w1": 68931,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 314,
+    "unigram_w1": 60443,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 60443,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 60443,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 63541,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "production",
+    "pmi": 0.07960988977306069,
+    "cooc_count": 36,
+    "unigram_w1": 11548,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "raw",
+    "pmi": 1.4463529507071193,
+    "cooc_count": 225,
+    "unigram_w1": 60443,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 27218,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "upstream",
+    "pmi": 2.5995650642632704,
+    "cooc_count": 74,
+    "unigram_w1": 60443,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "production",
+    "pmi": 1.5715113471373607,
+    "cooc_count": 458,
+    "unigram_w1": 33048,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "production",
+    "pmi": 1.8878460867492384,
+    "cooc_count": 952,
+    "unigram_w1": 50065,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "production",
+    "w2": "used",
+    "pmi": 0.0008095536502250262,
+    "cooc_count": 797,
+    "unigram_w1": 60443,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "monitor",
+    "w2": "production",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 18851,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "production",
+    "pmi": 0.7570895811591207,
+    "cooc_count": 51,
+    "unigram_w1": 8309,
+    "unigram_w2": 60443,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 530,
+    "unigram_w1": 68931,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "specific",
+    "pmi": 1.732828648632694,
+    "cooc_count": 1122,
+    "unigram_w1": 68931,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 68931,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 63541,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "material",
+    "pmi": 0.2565060173392618,
+    "cooc_count": 49,
+    "unigram_w1": 11548,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "raw",
+    "pmi": 3.285937552071141,
+    "cooc_count": 1615,
+    "unigram_w1": 68931,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "mix",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 68931,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "upstream",
+    "pmi": 1.629830641770512,
+    "cooc_count": 32,
+    "unigram_w1": 68931,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "analyzer",
+    "w2": "material",
+    "pmi": 0.2815988514462139,
+    "cooc_count": 6,
+    "unigram_w1": 1379,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "mill",
+    "pmi": 0.6313569247790767,
+    "cooc_count": 204,
+    "unigram_w1": 68931,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "materials",
+    "pmi": 1.5911994881395066,
+    "cooc_count": 807,
+    "unigram_w1": 68931,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "used",
+    "pmi": 0.5854982453927086,
+    "cooc_count": 1631,
+    "unigram_w1": 68931,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "material",
+    "w2": "monitor",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 68931,
+    "unigram_w2": 18851,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "material",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 8309,
+    "unigram_w2": 68931,
+    "window_size": 10
+  },
+  {
+    "w1": "specific",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1084,
+    "unigram_w1": 60415,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "purpose",
+    "w2": "what",
+    "pmi": 0.0872316098350037,
+    "cooc_count": 1153,
+    "unigram_w1": 35479,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 290,
+    "unigram_w1": 63541,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 11548,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "raw",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 163,
+    "unigram_w1": 18400,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 285,
+    "unigram_w1": 27218,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "upstream",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1910,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "analyzer",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 1379,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 233,
+    "unigram_w1": 33048,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 466,
+    "unigram_w1": 50065,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "used",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 4007,
+    "unigram_w1": 276621,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "monitor",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 237,
+    "unigram_w1": 18851,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 139,
+    "unigram_w1": 8309,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "purpose",
+    "w2": "specific",
+    "pmi": 1.2630035529953294,
+    "cooc_count": 361,
+    "unigram_w1": 35479,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 63541,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 11548,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "raw",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 18400,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 27218,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "analyzer",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1379,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 33048,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "specific",
+    "pmi": 0.12349460646072437,
+    "cooc_count": 163,
+    "unigram_w1": 50065,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "specific",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 660,
+    "unigram_w1": 60415,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "monitor",
+    "w2": "specific",
+    "pmi": 0.08403804783467232,
+    "cooc_count": 59,
+    "unigram_w1": 18851,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "specific",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 8309,
+    "unigram_w2": 60415,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 63541,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 11548,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "purpose",
+    "w2": "raw",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 35479,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "purpose",
+    "pmi": 0.1033101267279199,
+    "cooc_count": 51,
+    "unigram_w1": 27218,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 33048,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 50065,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "purpose",
+    "w2": "used",
+    "pmi": 0.8130624039853981,
+    "cooc_count": 1054,
+    "unigram_w1": 35479,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "monitor",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 18851,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "purpose",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 8309,
+    "unigram_w2": 35479,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "mix",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 63541,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "upstream",
+    "pmi": 2.7228521908774193,
+    "cooc_count": 88,
+    "unigram_w1": 63541,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "mill",
+    "pmi": 0.32913150149397974,
+    "cooc_count": 139,
+    "unigram_w1": 63541,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "materials",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 63541,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 63541,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "located",
+    "w2": "monitor",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 63541,
+    "unigram_w2": 18851,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "located",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 8309,
+    "unigram_w2": 63541,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "raw",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 11548,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "mill",
+    "pmi": 0.501028055060003,
+    "cooc_count": 30,
+    "unigram_w1": 11548,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "materials",
+    "pmi": 2.152529703467676,
+    "cooc_count": 237,
+    "unigram_w1": 11548,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "chemistry",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 11548,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "chemistry",
+    "pmi": 1.1885026599116768,
+    "cooc_count": 15,
+    "unigram_w1": 8309,
+    "unigram_w2": 11548,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "raw",
+    "pmi": 1.118534242688325,
+    "cooc_count": 73,
+    "unigram_w1": 27218,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "raw",
+    "w2": "upstream",
+    "pmi": 4.86934514140861,
+    "cooc_count": 218,
+    "unigram_w1": 18400,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "raw",
+    "pmi": 2.8625032741747796,
+    "cooc_count": 507,
+    "unigram_w1": 33048,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "raw",
+    "pmi": 4.133979328781372,
+    "cooc_count": 2739,
+    "unigram_w1": 50065,
+    "unigram_w2": 18400,
+    "window_size": 10
+  },
+  {
+    "w1": "raw",
+    "w2": "used",
+    "pmi": 0.2713563652006073,
+    "cooc_count": 318,
+    "unigram_w1": 18400,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "mix",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 33048,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "mix",
+    "pmi": 0.20912993966898935,
+    "cooc_count": 80,
+    "unigram_w1": 50065,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "mix",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 327,
+    "unigram_w1": 27218,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "mix",
+    "pmi": 0.3311364025742396,
+    "cooc_count": 15,
+    "unigram_w1": 8309,
+    "unigram_w2": 27218,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "upstream",
+    "pmi": 1.8949719666939886,
+    "cooc_count": 20,
+    "unigram_w1": 33048,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "upstream",
+    "pmi": 3.607842561477954,
+    "cooc_count": 168,
+    "unigram_w1": 50065,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "upstream",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 1910,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "monitor",
+    "w2": "upstream",
+    "pmi": 1.0700726927837863,
+    "cooc_count": 5,
+    "unigram_w1": 18851,
+    "unigram_w2": 1910,
+    "window_size": 10
+  },
+  {
+    "w1": "analyzer",
+    "w2": "used",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1379,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "analyzer",
+    "w2": "monitor",
+    "pmi": 1.7322895726523728,
+    "cooc_count": 7,
+    "unigram_w1": 1379,
+    "unigram_w2": 18851,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "mill",
+    "pmi": 0.8747677890984125,
+    "cooc_count": 189,
+    "unigram_w1": 50065,
+    "unigram_w2": 33048,
+    "window_size": 10
+  },
+  {
+    "w1": "mill",
+    "w2": "used",
+    "pmi": 1.2201078657148272,
+    "cooc_count": 1475,
+    "unigram_w1": 33048,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "used",
+    "pmi": 1.1314865543525066,
+    "cooc_count": 2045,
+    "unigram_w1": 50065,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "materials",
+    "w2": "monitor",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 50065,
+    "unigram_w2": 18851,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "materials",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 8309,
+    "unigram_w2": 50065,
+    "window_size": 10
+  },
+  {
+    "w1": "monitor",
+    "w2": "used",
+    "pmi": 0.46650389540507586,
+    "cooc_count": 396,
+    "unigram_w1": 18851,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "used",
+    "pmi": 0.14850346881111745,
+    "cooc_count": 127,
+    "unigram_w1": 8309,
+    "unigram_w2": 276621,
+    "window_size": 10
+  },
+  {
+    "w1": "adjust",
+    "w2": "monitor",
+    "pmi": 2.9391586481035485,
+    "cooc_count": 141,
+    "unigram_w1": 8309,
+    "unigram_w2": 18851,
+    "window_size": 10
+  }
+]

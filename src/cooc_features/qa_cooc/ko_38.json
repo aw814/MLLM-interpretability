@@ -1,0 +1,74 @@
+[
+  {
+    "w1": "임대인",
+    "w2": "임차인",
+    "pmi": 7.433938188261304,
+    "cooc_count": 19,
+    "unigram_w1": 80,
+    "unigram_w2": 267,
+    "window_size": 10
+  },
+  {
+    "w1": "및",
+    "w2": "임차인",
+    "pmi": 0.9888365169964213,
+    "cooc_count": 131,
+    "unigram_w1": 347280,
+    "unigram_w2": 267,
+    "window_size": 10
+  },
+  {
+    "w1": "및",
+    "w2": "임대인",
+    "pmi": 0.026911418623847834,
+    "cooc_count": 15,
+    "unigram_w1": 347280,
+    "unigram_w2": 80,
+    "window_size": 10
+  },
+  {
+    "w1": "1972년",
+    "w2": "및",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 544,
+    "unigram_w2": 347280,
+    "window_size": 10
+  },
+  {
+    "w1": "및",
+    "w2": "주거용",
+    "pmi": 0.6293887989359706,
+    "cooc_count": 162,
+    "unigram_w1": 347280,
+    "unigram_w2": 473,
+    "window_size": 10
+  },
+  {
+    "w1": "및",
+    "w2": "법은",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 347280,
+    "unigram_w2": 636,
+    "window_size": 10
+  },
+  {
+    "w1": "및",
+    "w2": "언제",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 347280,
+    "unigram_w2": 5079,
+    "window_size": 10
+  },
+  {
+    "w1": "균일",
+    "w2": "및",
+    "pmi": 1.0474059280280057,
+    "cooc_count": 90,
+    "unigram_w1": 173,
+    "unigram_w2": 347280,
+    "window_size": 10
+  }
+]

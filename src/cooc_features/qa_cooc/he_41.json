@@ -1,0 +1,740 @@
+[
+  {
+    "w1": "שיחקה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 590,
+    "unigram_w1": 3136,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "שיחקה",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 16741,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "שיחקה",
+    "pmi": 1.935031169885087,
+    "cooc_count": 40,
+    "unigram_w1": 25220,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "שיחקה",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 15885,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "כדורסל",
+    "w2": "שיחקה",
+    "pmi": 3.238092179507152,
+    "cooc_count": 49,
+    "unigram_w1": 8394,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "שיחקה",
+    "pmi": 0.14036817479510186,
+    "cooc_count": 23,
+    "unigram_w1": 87262,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "עד",
+    "w2": "שיחקה",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 495736,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "שיחקה",
+    "pmi": 1.4011448779116145,
+    "cooc_count": 46,
+    "unigram_w1": 49466,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "קבוצת",
+    "w2": "שיחקה",
+    "pmi": 1.0337292934352607,
+    "cooc_count": 30,
+    "unigram_w1": 46584,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "שיחקה",
+    "pmi": 1.321313237682464,
+    "cooc_count": 7,
+    "unigram_w1": 8153,
+    "unigram_w2": 3136,
+    "window_size": 10
+  },
+  {
+    "w1": "קונפרנס",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 108,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2654,
+    "unigram_w1": 16741,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 8062,
+    "unigram_w1": 25220,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "של",
+    "pmi": 0.12101110131565215,
+    "cooc_count": 6547,
+    "unigram_w1": 15885,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "כדורסל",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1672,
+    "unigram_w1": 8394,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "קמפבל",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 173,
+    "unigram_w1": 549,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "האתלטיקה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 348,
+    "unigram_w1": 1085,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אמריקאי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2165,
+    "unigram_w1": 9875,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 10793,
+    "unigram_w1": 87262,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "עד",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 97842,
+    "unigram_w1": 495736,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 13037,
+    "unigram_w1": 49466,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "קבוצת",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 16217,
+    "unigram_w1": 46584,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הטראנס",
+    "w2": "של",
+    "pmi": 0.04912450860499,
+    "cooc_count": 84,
+    "unigram_w1": 219,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1415,
+    "unigram_w1": 8153,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "כנס",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2592,
+    "unigram_w1": 9828,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "כנס",
+    "w2": "קונפרנס",
+    "pmi": 4.503035895050384,
+    "cooc_count": 7,
+    "unigram_w1": 9828,
+    "unigram_w2": 108,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15885,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 87262,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 16741,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "בשנים",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 16741,
+    "unigram_w2": 49466,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 16741,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 8153,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "כנס",
+    "pmi": 0.8809367236899793,
+    "cooc_count": 29,
+    "unigram_w1": 16741,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "הנשים",
+    "pmi": 0.0894604533375592,
+    "cooc_count": 32,
+    "unigram_w1": 15885,
+    "unigram_w2": 25220,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "כדורסל",
+    "pmi": 2.2383163957684875,
+    "cooc_count": 145,
+    "unigram_w1": 25220,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "קמפבל",
+    "pmi": 1.7805161249599737,
+    "cooc_count": 6,
+    "unigram_w1": 25220,
+    "unigram_w2": 549,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "הנשים",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 87262,
+    "unigram_w2": 25220,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 436,
+    "unigram_w1": 25220,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "הנשים",
+    "pmi": 0.04169114497444818,
+    "cooc_count": 95,
+    "unigram_w1": 49466,
+    "unigram_w2": 25220,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "קבוצת",
+    "pmi": 1.604626696953118,
+    "cooc_count": 427,
+    "unigram_w1": 25220,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "הנשים",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 8153,
+    "unigram_w2": 25220,
+    "window_size": 10
+  },
+  {
+    "w1": "הנשים",
+    "w2": "כנס",
+    "pmi": 0.6003719250668595,
+    "cooc_count": 33,
+    "unigram_w1": 25220,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "כדורסל",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 15885,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "אמריקאי",
+    "pmi": 0.046262220075420905,
+    "cooc_count": 12,
+    "unigram_w1": 15885,
+    "unigram_w2": 9875,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "אוניברסיטת",
+    "pmi": 1.4131320538938972,
+    "cooc_count": 416,
+    "unigram_w1": 87262,
+    "unigram_w2": 15885,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 15885,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "בשנים",
+    "pmi": 0.31952416865622285,
+    "cooc_count": 79,
+    "unigram_w1": 15885,
+    "unigram_w2": 49466,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 15885,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "אוניברסיטת",
+    "pmi": 1.4418553775077685,
+    "cooc_count": 40,
+    "unigram_w1": 8153,
+    "unigram_w2": 15885,
+    "window_size": 10
+  },
+  {
+    "w1": "אוניברסיטת",
+    "w2": "כנס",
+    "pmi": 0.5105654055821138,
+    "cooc_count": 19,
+    "unigram_w1": 15885,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "האתלטיקה",
+    "w2": "כדורסל",
+    "pmi": 2.017077909326364,
+    "cooc_count": 5,
+    "unigram_w1": 1085,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "אמריקאי",
+    "w2": "כדורסל",
+    "pmi": 2.2245653638326504,
+    "cooc_count": 56,
+    "unigram_w1": 9875,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "כדורסל",
+    "pmi": 0.4746521926962222,
+    "cooc_count": 86,
+    "unigram_w1": 87262,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "כדורסל",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 8394,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "כדורסל",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 49466,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "כדורסל",
+    "w2": "קבוצת",
+    "pmi": 2.9227248705918067,
+    "cooc_count": 531,
+    "unigram_w1": 8394,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "כדורסל",
+    "pmi": 1.0988842273061228,
+    "cooc_count": 15,
+    "unigram_w1": 8153,
+    "unigram_w2": 8394,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "קמפבל",
+    "pmi": 1.2323855486147202,
+    "cooc_count": 12,
+    "unigram_w1": 87262,
+    "unigram_w2": 549,
+    "window_size": 10
+  },
+  {
+    "w1": "האתלטיקה",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1085,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "האתלטיקה",
+    "pmi": 1.4670849409744742,
+    "cooc_count": 17,
+    "unigram_w1": 49466,
+    "unigram_w2": 1085,
+    "window_size": 10
+  },
+  {
+    "w1": "האתלטיקה",
+    "w2": "כנס",
+    "pmi": 2.1958318562000434,
+    "cooc_count": 7,
+    "unigram_w1": 1085,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "אמריקאי",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 87262,
+    "unigram_w2": 9875,
+    "window_size": 10
+  },
+  {
+    "w1": "אמריקאי",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 9875,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "אמריקאי",
+    "w2": "בשנים",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 9875,
+    "unigram_w2": 49466,
+    "window_size": 10
+  },
+  {
+    "w1": "אמריקאי",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 9875,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "אמריקאי",
+    "pmi": 0.5309299733221718,
+    "cooc_count": 10,
+    "unigram_w1": 8153,
+    "unigram_w2": 9875,
+    "window_size": 10
+  },
+  {
+    "w1": "אמריקאי",
+    "w2": "כנס",
+    "pmi": 0.4393906561483377,
+    "cooc_count": 11,
+    "unigram_w1": 9875,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 1654,
+    "unigram_w1": 87262,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "בשנים",
+    "pmi": 0.6367771635340586,
+    "cooc_count": 596,
+    "unigram_w1": 87262,
+    "unigram_w2": 49466,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 87262,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 0.35350119687750947,
+    "cooc_count": 74,
+    "unigram_w1": 8153,
+    "unigram_w2": 87262,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "כנס",
+    "pmi": 0.5539344889243247,
+    "cooc_count": 109,
+    "unigram_w1": 87262,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 1196,
+    "unigram_w1": 49466,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "עד",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 492,
+    "unigram_w1": 495736,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "הטראנס",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 219,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 236,
+    "unigram_w1": 8153,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "כנס",
+    "w2": "עד",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 9828,
+    "unigram_w2": 495736,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 49466,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "בשנים",
+    "pmi": 1.8797558151347928,
+    "cooc_count": 193,
+    "unigram_w1": 8153,
+    "unigram_w2": 49466,
+    "window_size": 10
+  },
+  {
+    "w1": "בשנים",
+    "w2": "כנס",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 49466,
+    "unigram_w2": 9828,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "קבוצת",
+    "pmi": 0.3659735106944293,
+    "cooc_count": 40,
+    "unigram_w1": 8153,
+    "unigram_w2": 46584,
+    "window_size": 10
+  },
+  {
+    "w1": "כנס",
+    "w2": "קבוצת",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 9828,
+    "unigram_w2": 46584,
+    "window_size": 10
+  }
+]

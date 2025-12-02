@@ -1,0 +1,443 @@
+[
+  {
+    "w1": "学校",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4135,
+    "unigram_w1": 90909,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "学校",
+    "pmi": 0.0,
+    "cooc_count": 4513,
+    "unigram_w1": 724931,
+    "unigram_w2": 90909,
+    "window_size": 10
+  },
+  {
+    "w1": "学校",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 6931,
+    "unigram_w1": 90909,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "学校",
+    "w2": "学院",
+    "pmi": 1.3712811147506168,
+    "cooc_count": 1578,
+    "unigram_w1": 90909,
+    "unigram_w2": 64114,
+    "window_size": 10
+  },
+  {
+    "w1": "school",
+    "w2": "学校",
+    "pmi": 0.8474931064103526,
+    "cooc_count": 5,
+    "unigram_w1": 343,
+    "unigram_w2": 90909,
+    "window_size": 10
+  },
+  {
+    "w1": "学校",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 37462,
+    "unigram_w1": 90909,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "学校",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 18759,
+    "unigram_w2": 90909,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "学校",
+    "pmi": 0.0,
+    "cooc_count": 11231,
+    "unigram_w1": 2356497,
+    "unigram_w2": 90909,
+    "window_size": 10
+  },
+  {
+    "w1": "学校",
+    "w2": "更名",
+    "pmi": 2.1035762823762485,
+    "cooc_count": 157,
+    "unigram_w1": 90909,
+    "unigram_w2": 3067,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 34030,
+    "unigram_w1": 724931,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 54808,
+    "unigram_w1": 982471,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "学院",
+    "w2": "年",
+    "pmi": 0.19065988703919692,
+    "cooc_count": 5237,
+    "unigram_w1": 64114,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "school",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 343,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 321,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 253,
+    "unigram_w1": 18759,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "更名",
+    "pmi": 1.4052711510388098,
+    "cooc_count": 844,
+    "unigram_w1": 982471,
+    "unigram_w2": 3067,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "为",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 156,
+    "unigram_w2": 724931,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 42787,
+    "unigram_w1": 724931,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "学院",
+    "pmi": 0.0,
+    "cooc_count": 2212,
+    "unigram_w1": 724931,
+    "unigram_w2": 64114,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 303420,
+    "unigram_w1": 724931,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "为",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 18759,
+    "unigram_w2": 724931,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 49092,
+    "unigram_w1": 724931,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "为",
+    "w2": "更名",
+    "pmi": 2.431027771540612,
+    "cooc_count": 1737,
+    "unigram_w1": 724931,
+    "unigram_w2": 3067,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "school",
+    "pmi": 7.551723620947432,
+    "cooc_count": 7,
+    "unigram_w1": 156,
+    "unigram_w2": 343,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 156,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "academy",
+    "pmi": 2.990409363942542,
+    "cooc_count": 4,
+    "unigram_w1": 18759,
+    "unigram_w2": 156,
+    "window_size": 10
+  },
+  {
+    "w1": "学院",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 3037,
+    "unigram_w1": 64114,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "是",
+    "pmi": 1.5910991440458373,
+    "cooc_count": 240,
+    "unigram_w1": 321,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 153,
+    "unigram_w1": 18759,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 195632,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "更名",
+    "pmi": 0.0,
+    "cooc_count": 194,
+    "unigram_w1": 2216630,
+    "unigram_w2": 3067,
+    "window_size": 10
+  },
+  {
+    "w1": "school",
+    "w2": "学院",
+    "pmi": 1.3790109205723158,
+    "cooc_count": 6,
+    "unigram_w1": 343,
+    "unigram_w2": 64114,
+    "window_size": 10
+  },
+  {
+    "w1": "学院",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 15076,
+    "unigram_w1": 64114,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "学院",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 18759,
+    "unigram_w2": 64114,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "学院",
+    "pmi": 0.0,
+    "cooc_count": 5034,
+    "unigram_w1": 2356497,
+    "unigram_w2": 64114,
+    "window_size": 10
+  },
+  {
+    "w1": "学院",
+    "w2": "更名",
+    "pmi": 2.3937390081600642,
+    "cooc_count": 148,
+    "unigram_w1": 64114,
+    "unigram_w2": 3067,
+    "window_size": 10
+  },
+  {
+    "w1": "school",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 343,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "school",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 343,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 198,
+    "unigram_w1": 321,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1413,
+    "unigram_w1": 18759,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "更名",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 609,
+    "unigram_w1": 3067,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪一年",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 321,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 18759,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "更名",
+    "pmi": 0.5714259950132501,
+    "cooc_count": 7,
+    "unigram_w1": 18759,
+    "unigram_w2": 3067,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "更名",
+    "pmi": 0.0,
+    "cooc_count": 167,
+    "unigram_w1": 2356497,
+    "unigram_w2": 3067,
+    "window_size": 10
+  }
+]

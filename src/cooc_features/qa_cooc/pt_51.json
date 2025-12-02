@@ -1,0 +1,344 @@
+[
+  {
+    "w1": "del",
+    "w2": "quatro",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 15552,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "por",
+    "pmi": 0.0,
+    "cooc_count": 1125,
+    "unigram_w1": 15552,
+    "unigram_w2": 1610277,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "del",
+    "pmi": 0.3032049133068593,
+    "cooc_count": 41,
+    "unigram_w1": 27549,
+    "unigram_w2": 15552,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "del",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 347347,
+    "unigram_w2": 15552,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "no",
+    "pmi": 0.0,
+    "cooc_count": 1192,
+    "unigram_w1": 15552,
+    "unigram_w2": 2176553,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "permanece",
+    "pmi": 2.294231269421283,
+    "cooc_count": 98,
+    "unigram_w1": 15552,
+    "unigram_w2": 8992,
+    "window_size": 10
+  },
+  {
+    "w1": "quatro",
+    "w2": "reitor",
+    "pmi": 0.038217629607083276,
+    "cooc_count": 13,
+    "unigram_w1": 63080,
+    "unigram_w2": 2807,
+    "window_size": 10
+  },
+  {
+    "w1": "quantos",
+    "w2": "quatro",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 8183,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "por",
+    "w2": "quatro",
+    "pmi": 0.0,
+    "cooc_count": 6907,
+    "unigram_w1": 1610277,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "quatro",
+    "pmi": 0.0,
+    "cooc_count": 115,
+    "unigram_w1": 27549,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "quatro",
+    "pmi": 1.8262439460203381,
+    "cooc_count": 9616,
+    "unigram_w1": 347347,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "quatro",
+    "pmi": 3.333698306827593,
+    "cooc_count": 8,
+    "unigram_w1": 64,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "no",
+    "w2": "quatro",
+    "pmi": 0.0,
+    "cooc_count": 6483,
+    "unigram_w1": 2176553,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "permanece",
+    "w2": "quatro",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 8992,
+    "unigram_w2": 63080,
+    "window_size": 10
+  },
+  {
+    "w1": "por",
+    "w2": "reitor",
+    "pmi": 0.0,
+    "cooc_count": 89,
+    "unigram_w1": 1610277,
+    "unigram_w2": 2807,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "reitor",
+    "pmi": 1.767441699740616,
+    "cooc_count": 32,
+    "unigram_w1": 27549,
+    "unigram_w2": 2807,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "reitor",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 347347,
+    "unigram_w2": 2807,
+    "window_size": 10
+  },
+  {
+    "w1": "no",
+    "w2": "reitor",
+    "pmi": 0.0,
+    "cooc_count": 194,
+    "unigram_w1": 2176553,
+    "unigram_w2": 2807,
+    "window_size": 10
+  },
+  {
+    "w1": "por",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1610277,
+    "unigram_w2": 78,
+    "window_size": 10
+  },
+  {
+    "w1": "por",
+    "w2": "sacro",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 1610277,
+    "unigram_w2": 245,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "sacro",
+    "pmi": 9.002382173016224,
+    "cooc_count": 9,
+    "unigram_w1": 64,
+    "unigram_w2": 245,
+    "window_size": 10
+  },
+  {
+    "w1": "no",
+    "w2": "sacro",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 2176553,
+    "unigram_w2": 245,
+    "window_size": 10
+  },
+  {
+    "w1": "por",
+    "w2": "quantos",
+    "pmi": 0.001973208053129627,
+    "cooc_count": 933,
+    "unigram_w1": 1610277,
+    "unigram_w2": 8183,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "quantos",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 27549,
+    "unigram_w2": 8183,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "quantos",
+    "pmi": 1.2194980179650945,
+    "cooc_count": 680,
+    "unigram_w1": 347347,
+    "unigram_w2": 8183,
+    "window_size": 10
+  },
+  {
+    "w1": "no",
+    "w2": "quantos",
+    "pmi": 0.0,
+    "cooc_count": 609,
+    "unigram_w1": 2176553,
+    "unigram_w2": 8183,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "por",
+    "pmi": 0.0,
+    "cooc_count": 1824,
+    "unigram_w1": 27549,
+    "unigram_w2": 1610277,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "por",
+    "pmi": 0.0,
+    "cooc_count": 31418,
+    "unigram_w1": 347347,
+    "unigram_w2": 1610277,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "por",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 64,
+    "unigram_w2": 1610277,
+    "window_size": 10
+  },
+  {
+    "w1": "no",
+    "w2": "por",
+    "pmi": 0.0,
+    "cooc_count": 126849,
+    "unigram_w1": 2176553,
+    "unigram_w2": 1610277,
+    "window_size": 10
+  },
+  {
+    "w1": "permanece",
+    "w2": "por",
+    "pmi": 0.18649704876403958,
+    "cooc_count": 1233,
+    "unigram_w1": 8992,
+    "unigram_w2": 1610277,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "cargo",
+    "pmi": 0.0,
+    "cooc_count": 530,
+    "unigram_w1": 347347,
+    "unigram_w2": 27549,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "no",
+    "pmi": 0.14060993831253327,
+    "cooc_count": 4877,
+    "unigram_w1": 27549,
+    "unigram_w2": 2176553,
+    "window_size": 10
+  },
+  {
+    "w1": "cargo",
+    "w2": "permanece",
+    "pmi": 1.0293070992799263,
+    "cooc_count": 49,
+    "unigram_w1": 27549,
+    "unigram_w2": 8992,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "no",
+    "pmi": 0.0,
+    "cooc_count": 35974,
+    "unigram_w1": 347347,
+    "unigram_w2": 2176553,
+    "window_size": 10
+  },
+  {
+    "w1": "anos",
+    "w2": "permanece",
+    "pmi": 0.0,
+    "cooc_count": 127,
+    "unigram_w1": 347347,
+    "unigram_w2": 8992,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "no",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 64,
+    "unigram_w2": 2176553,
+    "window_size": 10
+  },
+  {
+    "w1": "no",
+    "w2": "permanece",
+    "pmi": 0.0,
+    "cooc_count": 1292,
+    "unigram_w1": 2176553,
+    "unigram_w2": 8992,
+    "window_size": 10
+  }
+]

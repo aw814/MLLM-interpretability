@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "chamanisme",
+    "w2": "pratique",
+    "pmi": 3.6494731142831998,
+    "cooc_count": 22,
+    "unigram_w1": 198,
+    "unigram_w2": 64076,
+    "window_size": 10
+  },
+  {
+    "w1": "chamanisme",
+    "w2": "religieuse",
+    "pmi": 3.0217846192229603,
+    "cooc_count": 1,
+    "unigram_w1": 198,
+    "unigram_w2": 5456,
+    "window_size": 10
+  },
+  {
+    "w1": "pratique",
+    "w2": "religieuse",
+    "pmi": 2.675948495650361,
+    "cooc_count": 229,
+    "unigram_w1": 64076,
+    "unigram_w2": 5456,
+    "window_size": 10
+  },
+  {
+    "w1": "pratique",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 64076,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "ils",
+    "w2": "pratique",
+    "pmi": 0.0,
+    "cooc_count": 460,
+    "unigram_w1": 397110,
+    "unigram_w2": 64076,
+    "window_size": 10
+  },
+  {
+    "w1": "ils",
+    "w2": "suivaient",
+    "pmi": 2.1398230026310854,
+    "cooc_count": 49,
+    "unigram_w1": 397110,
+    "unigram_w2": 322,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "religieuse",
+    "pmi": 0.30907956411749166,
+    "cooc_count": 21,
+    "unigram_w1": 62661,
+    "unigram_w2": 5456,
+    "window_size": 10
+  },
+  {
+    "w1": "ils",
+    "w2": "religieuse",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 397110,
+    "unigram_w2": 5456,
+    "window_size": 10
+  },
+  {
+    "w1": "ils",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 930,
+    "unigram_w1": 397110,
+    "unigram_w2": 62661,
+    "window_size": 10
+  }
+]

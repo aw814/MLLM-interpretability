@@ -1,0 +1,236 @@
+[
+  {
+    "w1": "area",
+    "w2": "base",
+    "pmi": 0.2509741278082229,
+    "cooc_count": 499,
+    "unigram_w1": 153729,
+    "unigram_w2": 53024,
+    "window_size": 10
+  },
+  {
+    "w1": "base",
+    "w2": "crossing",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 53024,
+    "unigram_w2": 6247,
+    "window_size": 10
+  },
+  {
+    "w1": "base",
+    "w2": "established",
+    "pmi": 0.5902155230319815,
+    "cooc_count": 126,
+    "unigram_w1": 53024,
+    "unigram_w2": 27650,
+    "window_size": 10
+  },
+  {
+    "w1": "base",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 403,
+    "unigram_w1": 53024,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "base",
+    "pmi": 1.6900497045937763,
+    "cooc_count": 34,
+    "unigram_w1": 2484,
+    "unigram_w2": 53024,
+    "window_size": 10
+  },
+  {
+    "w1": "base",
+    "w2": "cfb",
+    "pmi": 2.421893236153935,
+    "cooc_count": 7,
+    "unigram_w1": 53024,
+    "unigram_w2": 246,
+    "window_size": 10
+  },
+  {
+    "w1": "base",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 170,
+    "unigram_w1": 53024,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "base",
+    "w2": "military",
+    "pmi": 1.4711540839770632,
+    "cooc_count": 346,
+    "unigram_w1": 53024,
+    "unigram_w2": 31464,
+    "window_size": 10
+  },
+  {
+    "w1": "area",
+    "w2": "crossing",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 153729,
+    "unigram_w2": 6247,
+    "window_size": 10
+  },
+  {
+    "w1": "area",
+    "w2": "established",
+    "pmi": 0.0,
+    "cooc_count": 166,
+    "unigram_w1": 153729,
+    "unigram_w2": 27650,
+    "window_size": 10
+  },
+  {
+    "w1": "area",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1463,
+    "unigram_w1": 153729,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "area",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2484,
+    "unigram_w2": 153729,
+    "window_size": 10
+  },
+  {
+    "w1": "area",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 530,
+    "unigram_w1": 153729,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "area",
+    "w2": "military",
+    "pmi": 0.0,
+    "cooc_count": 143,
+    "unigram_w1": 153729,
+    "unigram_w2": 31464,
+    "window_size": 10
+  },
+  {
+    "w1": "crossing",
+    "w2": "established",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 6247,
+    "unigram_w2": 27650,
+    "window_size": 10
+  },
+  {
+    "w1": "crossing",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 6247,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "established",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 27650,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "established",
+    "pmi": 0.8942496349332596,
+    "cooc_count": 8,
+    "unigram_w1": 2484,
+    "unigram_w2": 27650,
+    "window_size": 10
+  },
+  {
+    "w1": "established",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 27650,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "established",
+    "w2": "military",
+    "pmi": 0.46548896422157293,
+    "cooc_count": 66,
+    "unigram_w1": 27650,
+    "unigram_w2": 31464,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 2484,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 2525,
+    "unigram_w1": 155330,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "military",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 284,
+    "unigram_w1": 31464,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "name",
+    "pmi": 0.033320914388391874,
+    "cooc_count": 19,
+    "unigram_w1": 2484,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "1941",
+    "w2": "military",
+    "pmi": 0.7650313277720948,
+    "cooc_count": 8,
+    "unigram_w1": 2484,
+    "unigram_w2": 31464,
+    "window_size": 10
+  },
+  {
+    "w1": "military",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 31464,
+    "unigram_w2": 155330,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "del",
+    "w2": "jahre",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 13207,
+    "unigram_w2": 165799,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "università",
+    "pmi": 5.91323330517858,
+    "cooc_count": 27,
+    "unigram_w1": 13207,
+    "unigram_w2": 103,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "sacro",
+    "pmi": 5.676589066645468,
+    "cooc_count": 12,
+    "unigram_w1": 13207,
+    "unigram_w2": 58,
+    "window_size": 10
+  },
+  {
+    "w1": "bleibt",
+    "w2": "del",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 61379,
+    "unigram_w2": 13207,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "lange",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 13207,
+    "unigram_w2": 95578,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "del",
+    "pmi": 6.44531892837142,
+    "cooc_count": 54,
+    "unigram_w1": 121,
+    "unigram_w2": 13207,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 161,
+    "unigram_w1": 13207,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "vier",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 13207,
+    "unigram_w2": 72451,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "del",
+    "pmi": 5.983614101940379,
+    "cooc_count": 9,
+    "unigram_w1": 32,
+    "unigram_w2": 13207,
+    "window_size": 10
+  },
+  {
+    "w1": "bleibt",
+    "w2": "jahre",
+    "pmi": 0.0,
+    "cooc_count": 322,
+    "unigram_w1": 61379,
+    "unigram_w2": 165799,
+    "window_size": 10
+  },
+  {
+    "w1": "amt",
+    "w2": "jahre",
+    "pmi": 0.6380483782301744,
+    "cooc_count": 205,
+    "unigram_w1": 12174,
+    "unigram_w2": 165799,
+    "window_size": 10
+  },
+  {
+    "w1": "jahre",
+    "w2": "lange",
+    "pmi": 0.33946255506464434,
+    "cooc_count": 1194,
+    "unigram_w1": 165799,
+    "unigram_w2": 95578,
+    "window_size": 10
+  },
+  {
+    "w1": "jahre",
+    "w2": "rektor",
+    "pmi": 0.4419638811530945,
+    "cooc_count": 16,
+    "unigram_w1": 165799,
+    "unigram_w2": 1156,
+    "window_size": 10
+  },
+  {
+    "w1": "jahre",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 3408,
+    "unigram_w1": 165799,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "jahre",
+    "w2": "vier",
+    "pmi": 1.5414579863512983,
+    "cooc_count": 3011,
+    "unigram_w1": 165799,
+    "unigram_w2": 72451,
+    "window_size": 10
+  },
+  {
+    "w1": "sacro",
+    "w2": "università",
+    "pmi": 9.991365848726948,
+    "cooc_count": 7,
+    "unigram_w1": 58,
+    "unigram_w2": 103,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "università",
+    "pmi": 9.10186763384937,
+    "cooc_count": 6,
+    "unigram_w1": 121,
+    "unigram_w2": 103,
+    "window_size": 10
+  },
+  {
+    "w1": "università",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 103,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "università",
+    "pmi": 10.837387384754548,
+    "cooc_count": 9,
+    "unigram_w1": 32,
+    "unigram_w2": 103,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "sacro",
+    "pmi": 10.774765900200695,
+    "cooc_count": 18,
+    "unigram_w1": 121,
+    "unigram_w2": 58,
+    "window_size": 10
+  },
+  {
+    "w1": "sacro",
+    "w2": "wie",
+    "pmi": 0.7109425846654451,
+    "cooc_count": 6,
+    "unigram_w1": 58,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "sacro",
+    "pmi": 11.29389032678138,
+    "cooc_count": 8,
+    "unigram_w1": 32,
+    "unigram_w2": 58,
+    "window_size": 10
+  },
+  {
+    "w1": "amt",
+    "w2": "bleibt",
+    "pmi": 0.6525522751582686,
+    "cooc_count": 77,
+    "unigram_w1": 12174,
+    "unigram_w2": 61379,
+    "window_size": 10
+  },
+  {
+    "w1": "bleibt",
+    "w2": "lange",
+    "pmi": 0.8734990833328719,
+    "cooc_count": 754,
+    "unigram_w1": 61379,
+    "unigram_w2": 95578,
+    "window_size": 10
+  },
+  {
+    "w1": "bleibt",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 3009,
+    "unigram_w1": 61379,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "bleibt",
+    "w2": "vier",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 61379,
+    "unigram_w2": 72451,
+    "window_size": 10
+  },
+  {
+    "w1": "amt",
+    "w2": "lange",
+    "pmi": 0.4809924592015416,
+    "cooc_count": 101,
+    "unigram_w1": 12174,
+    "unigram_w2": 95578,
+    "window_size": 10
+  },
+  {
+    "w1": "amt",
+    "w2": "rektor",
+    "pmi": 2.9888990412637084,
+    "cooc_count": 15,
+    "unigram_w1": 12174,
+    "unigram_w2": 1156,
+    "window_size": 10
+  },
+  {
+    "w1": "amt",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 276,
+    "unigram_w1": 12174,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "amt",
+    "w2": "vier",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 12174,
+    "unigram_w2": 72451,
+    "window_size": 10
+  },
+  {
+    "w1": "lange",
+    "w2": "wie",
+    "pmi": 1.1515803855088975,
+    "cooc_count": 15362,
+    "unigram_w1": 95578,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "lange",
+    "w2": "vier",
+    "pmi": 0.0,
+    "cooc_count": 192,
+    "unigram_w1": 95578,
+    "unigram_w2": 72451,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "wie",
+    "pmi": 0.1297457294423816,
+    "cooc_count": 7,
+    "unigram_w1": 121,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "cuore",
+    "pmi": 10.425011399106536,
+    "cooc_count": 7,
+    "unigram_w1": 32,
+    "unigram_w2": 121,
+    "window_size": 10
+  },
+  {
+    "w1": "rektor",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 1156,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "vier",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 1265,
+    "unigram_w1": 72451,
+    "unigram_w2": 946950,
+    "window_size": 10
+  }
+]

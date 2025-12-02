@@ -1,0 +1,92 @@
+[
+  {
+    "w1": "flood",
+    "w2": "nome",
+    "pmi": 0.30443360598488123,
+    "cooc_count": 3,
+    "unigram_w1": 301,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "original",
+    "pmi": 1.0163528990649746,
+    "cooc_count": 783,
+    "unigram_w1": 104023,
+    "unigram_w2": 38550,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nome",
+    "pmi": 0.34649858128950267,
+    "cooc_count": 1712,
+    "unigram_w1": 164695,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "nome",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1190,
+    "unigram_w2": 104023,
+    "window_size": 10
+  },
+  {
+    "w1": "nome",
+    "w2": "software",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 104023,
+    "unigram_w2": 37324,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "original",
+    "pmi": 0.05915480734651647,
+    "cooc_count": 476,
+    "unigram_w1": 164695,
+    "unigram_w2": 38550,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "original",
+    "pmi": 0.6156383937154083,
+    "cooc_count": 6,
+    "unigram_w1": 1190,
+    "unigram_w2": 38550,
+    "window_size": 10
+  },
+  {
+    "w1": "original",
+    "w2": "software",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 38550,
+    "unigram_w2": 37324,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "isis",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 164695,
+    "unigram_w2": 1190,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "software",
+    "pmi": 0.0,
+    "cooc_count": 97,
+    "unigram_w1": 164695,
+    "unigram_w2": 37324,
+    "window_size": 10
+  }
+]

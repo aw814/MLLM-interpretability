@@ -1,0 +1,119 @@
+[
+  {
+    "w1": "以前",
+    "w2": "称为",
+    "pmi": 0.48489459625612075,
+    "cooc_count": 40,
+    "unigram_w1": 23731,
+    "unigram_w2": 15106,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "称为",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 303848,
+    "unigram_w2": 15106,
+    "window_size": 10
+  },
+  {
+    "w1": "游泳",
+    "w2": "称为",
+    "pmi": 0.6539465303493377,
+    "cooc_count": 10,
+    "unigram_w1": 5010,
+    "unigram_w2": 15106,
+    "window_size": 10
+  },
+  {
+    "w1": "称为",
+    "w2": "被",
+    "pmi": 2.8709337940848916,
+    "cooc_count": 7415,
+    "unigram_w1": 15106,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "以前",
+    "w2": "同步",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 23731,
+    "unigram_w2": 10979,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "以前",
+    "pmi": 0.046483464834789726,
+    "cooc_count": 519,
+    "unigram_w1": 303848,
+    "unigram_w2": 23731,
+    "window_size": 10
+  },
+  {
+    "w1": "以前",
+    "w2": "被",
+    "pmi": 0.00777038575008826,
+    "cooc_count": 665,
+    "unigram_w1": 23731,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "同步",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 303848,
+    "unigram_w2": 10979,
+    "window_size": 10
+  },
+  {
+    "w1": "同步",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 10979,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "游泳",
+    "w2": "花样游泳",
+    "pmi": 6.028298583173372,
+    "cooc_count": 5,
+    "unigram_w1": 5010,
+    "unigram_w2": 35,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "游泳",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 303848,
+    "unigram_w2": 5010,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 3329,
+    "unigram_w1": 303848,
+    "unigram_w2": 404691,
+    "window_size": 10
+  },
+  {
+    "w1": "游泳",
+    "w2": "被",
+    "pmi": 0.0,
+    "cooc_count": 112,
+    "unigram_w1": 5010,
+    "unigram_w2": 404691,
+    "window_size": 10
+  }
+]

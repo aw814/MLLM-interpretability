@@ -1,0 +1,245 @@
+[
+  {
+    "w1": "più",
+    "w2": "television",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 1149293,
+    "unigram_w2": 921,
+    "window_size": 10
+  },
+  {
+    "w1": "invenzione",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 3055,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "più",
+    "w2": "rete",
+    "pmi": 0.0,
+    "cooc_count": 2321,
+    "unigram_w1": 1149293,
+    "unigram_w2": 77802,
+    "window_size": 10
+  },
+  {
+    "w1": "più",
+    "w2": "trasmesso",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 1149293,
+    "unigram_w2": 4787,
+    "window_size": 10
+  },
+  {
+    "w1": "grande",
+    "w2": "più",
+    "pmi": 0.8172374472449021,
+    "cooc_count": 27311,
+    "unigram_w1": 220320,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 3033,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "più",
+    "pmi": 0.0,
+    "cooc_count": 38355,
+    "unigram_w1": 1097614,
+    "unigram_w2": 1149293,
+    "window_size": 10
+  },
+  {
+    "w1": "più",
+    "w2": "televisiva",
+    "pmi": 0.0,
+    "cooc_count": 151,
+    "unigram_w1": 1149293,
+    "unigram_w2": 4704,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "television",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 1097614,
+    "unigram_w2": 921,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "televisiva",
+    "pmi": 2.271205114186653,
+    "cooc_count": 2,
+    "unigram_w1": 921,
+    "unigram_w2": 4704,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "cbc",
+    "pmi": 6.424483012266856,
+    "cooc_count": 9,
+    "unigram_w1": 3033,
+    "unigram_w2": 101,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "televisiva",
+    "pmi": 5.867838994720591,
+    "cooc_count": 8,
+    "unigram_w1": 101,
+    "unigram_w2": 4704,
+    "window_size": 10
+  },
+  {
+    "w1": "grande",
+    "w2": "invenzione",
+    "pmi": 0.8227747150406914,
+    "cooc_count": 73,
+    "unigram_w1": 220320,
+    "unigram_w2": 3055,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "invenzione",
+    "pmi": 0.014098632112713108,
+    "cooc_count": 162,
+    "unigram_w1": 1097614,
+    "unigram_w2": 3055,
+    "window_size": 10
+  },
+  {
+    "w1": "rete",
+    "w2": "trasmesso",
+    "pmi": 0.11983712684502047,
+    "cooc_count": 20,
+    "unigram_w1": 77802,
+    "unigram_w2": 4787,
+    "window_size": 10
+  },
+  {
+    "w1": "grande",
+    "w2": "rete",
+    "pmi": 0.0,
+    "cooc_count": 596,
+    "unigram_w1": 220320,
+    "unigram_w2": 77802,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "rete",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3033,
+    "unigram_w2": 77802,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "rete",
+    "pmi": 0.0,
+    "cooc_count": 2537,
+    "unigram_w1": 1097614,
+    "unigram_w2": 77802,
+    "window_size": 10
+  },
+  {
+    "w1": "rete",
+    "w2": "televisiva",
+    "pmi": 2.090355443483244,
+    "cooc_count": 141,
+    "unigram_w1": 77802,
+    "unigram_w2": 4704,
+    "window_size": 10
+  },
+  {
+    "w1": "grande",
+    "w2": "trasmesso",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 220320,
+    "unigram_w2": 4787,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "trasmesso",
+    "pmi": 1.307171716605941,
+    "cooc_count": 925,
+    "unigram_w1": 1097614,
+    "unigram_w2": 4787,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "grande",
+    "pmi": 0.15046055045363932,
+    "cooc_count": 37,
+    "unigram_w1": 3033,
+    "unigram_w2": 220320,
+    "window_size": 10
+  },
+  {
+    "w1": "grande",
+    "w2": "ha",
+    "pmi": 0.0059262134127842005,
+    "cooc_count": 11588,
+    "unigram_w1": 220320,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "grande",
+    "w2": "televisiva",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 220320,
+    "unigram_w2": 4704,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "ha",
+    "pmi": 0.41852659428809846,
+    "cooc_count": 241,
+    "unigram_w1": 3033,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "televisiva",
+    "pmi": 3.158799184433215,
+    "cooc_count": 16,
+    "unigram_w1": 3033,
+    "unigram_w2": 4704,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "televisiva",
+    "pmi": 0.12608046072892745,
+    "cooc_count": 279,
+    "unigram_w1": 1097614,
+    "unigram_w2": 4704,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "w1": "क्या",
+    "w2": "चार्ली",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 574592,
+    "unigram_w2": 2168,
+    "window_size": 10
+  },
+  {
+    "w1": "किरदार",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 268,
+    "unigram_w1": 22912,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 94974,
+    "unigram_w1": 4769152,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "मुख्य",
+    "pmi": 0.0,
+    "cooc_count": 1585,
+    "unigram_w1": 574592,
+    "unigram_w2": 120872,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "नाम",
+    "pmi": 0.8984487501426646,
+    "cooc_count": 18820,
+    "unigram_w1": 574592,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "उपन्यासों",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 1030,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "किरदार",
+    "w2": "चार्ली",
+    "pmi": 1.9945569097162883,
+    "cooc_count": 13,
+    "unigram_w1": 22912,
+    "unigram_w2": 2168,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "चार्ली",
+    "pmi": 0.020933696122614157,
+    "cooc_count": 376,
+    "unigram_w1": 4769152,
+    "unigram_w2": 2168,
+    "window_size": 10
+  },
+  {
+    "w1": "चार्ली",
+    "w2": "नाम",
+    "pmi": 0.7465023413186175,
+    "cooc_count": 61,
+    "unigram_w1": 2168,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "किरदार",
+    "pmi": 0.7289018209651978,
+    "cooc_count": 8066,
+    "unigram_w1": 4769152,
+    "unigram_w2": 22912,
+    "window_size": 10
+  },
+  {
+    "w1": "किरदार",
+    "w2": "मुख्य",
+    "pmi": 2.0380437548320605,
+    "cooc_count": 757,
+    "unigram_w1": 22912,
+    "unigram_w2": 120872,
+    "window_size": 10
+  },
+  {
+    "w1": "किरदार",
+    "w2": "नाम",
+    "pmi": 0.2515823818137321,
+    "cooc_count": 393,
+    "unigram_w1": 22912,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "मुख्य",
+    "pmi": 0.12962592940548334,
+    "cooc_count": 23370,
+    "unigram_w1": 4769152,
+    "unigram_w2": 120872,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "नाम",
+    "pmi": 0.7191745308245234,
+    "cooc_count": 130570,
+    "unigram_w1": 4769152,
+    "unigram_w2": 374518,
+    "window_size": 10
+  },
+  {
+    "w1": "उपन्यासों",
+    "w2": "का",
+    "pmi": 0.0,
+    "cooc_count": 132,
+    "unigram_w1": 1030,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "नाम",
+    "w2": "मुख्य",
+    "pmi": 0.0,
+    "cooc_count": 708,
+    "unigram_w1": 374518,
+    "unigram_w2": 120872,
+    "window_size": 10
+  },
+  {
+    "w1": "उपन्यासों",
+    "w2": "नाम",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1030,
+    "unigram_w2": 374518,
+    "window_size": 10
+  }
+]

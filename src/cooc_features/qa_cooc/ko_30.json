@@ -1,0 +1,281 @@
+[
+  {
+    "w1": "대전",
+    "w2": "제2차",
+    "pmi": 4.003741527872855,
+    "cooc_count": 460,
+    "unigram_w1": 6330,
+    "unigram_w2": 2523,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "제2차",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 73792,
+    "unigram_w2": 2523,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "제2차",
+    "pmi": 2.2234529824885585,
+    "cooc_count": 255,
+    "unigram_w1": 20814,
+    "unigram_w2": 2523,
+    "window_size": 10
+  },
+  {
+    "w1": "세계",
+    "w2": "제2차",
+    "pmi": 2.928302142887165,
+    "cooc_count": 825,
+    "unigram_w1": 33278,
+    "unigram_w2": 2523,
+    "window_size": 10
+  },
+  {
+    "w1": "비행기",
+    "w2": "제2차",
+    "pmi": 1.250292145843772,
+    "cooc_count": 8,
+    "unigram_w1": 1728,
+    "unigram_w2": 2523,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "비행기가",
+    "pmi": 0.8649457073092459,
+    "cooc_count": 21,
+    "unigram_w1": 73792,
+    "unigram_w2": 228,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "비행기가",
+    "pmi": 0.4723421181366399,
+    "cooc_count": 4,
+    "unigram_w1": 20814,
+    "unigram_w2": 228,
+    "window_size": 10
+  },
+  {
+    "w1": "비행기가",
+    "w2": "세계",
+    "pmi": 0.6962186179189374,
+    "cooc_count": 8,
+    "unigram_w1": 228,
+    "unigram_w2": 33278,
+    "window_size": 10
+  },
+  {
+    "w1": "비행기",
+    "w2": "비행기가",
+    "pmi": 4.975906305512709,
+    "cooc_count": 30,
+    "unigram_w1": 1728,
+    "unigram_w2": 228,
+    "window_size": 10
+  },
+  {
+    "w1": "대전",
+    "w2": "때",
+    "pmi": 0.0,
+    "cooc_count": 135,
+    "unigram_w1": 6330,
+    "unigram_w2": 73792,
+    "window_size": 10
+  },
+  {
+    "w1": "2",
+    "w2": "대전",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 345660,
+    "unigram_w2": 6330,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "대전",
+    "pmi": 1.4627814442236546,
+    "cooc_count": 299,
+    "unigram_w1": 20814,
+    "unigram_w2": 6330,
+    "window_size": 10
+  },
+  {
+    "w1": "대전",
+    "w2": "세계",
+    "pmi": 2.6601442499363324,
+    "cooc_count": 1583,
+    "unigram_w1": 6330,
+    "unigram_w2": 33278,
+    "window_size": 10
+  },
+  {
+    "w1": "대전",
+    "w2": "비행기",
+    "pmi": 1.4698748625349727,
+    "cooc_count": 25,
+    "unigram_w1": 6330,
+    "unigram_w2": 1728,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "조셉",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 73792,
+    "unigram_w2": 584,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "조셉",
+    "pmi": 1.4776969133181668,
+    "cooc_count": 28,
+    "unigram_w1": 20814,
+    "unigram_w2": 584,
+    "window_size": 10
+  },
+  {
+    "w1": "세계",
+    "w2": "조셉",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 33278,
+    "unigram_w2": 584,
+    "window_size": 10
+  },
+  {
+    "w1": "2",
+    "w2": "때",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 345660,
+    "unigram_w2": 73792,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "때",
+    "pmi": 0.45865663837499837,
+    "cooc_count": 1277,
+    "unigram_w1": 20814,
+    "unigram_w2": 73792,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "위치는",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 73792,
+    "unigram_w2": 1288,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "세계",
+    "pmi": 0.0,
+    "cooc_count": 536,
+    "unigram_w1": 73792,
+    "unigram_w2": 33278,
+    "window_size": 10
+  },
+  {
+    "w1": "때",
+    "w2": "비행기",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 73792,
+    "unigram_w2": 1728,
+    "window_size": 10
+  },
+  {
+    "w1": "2",
+    "w2": "당시",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 345660,
+    "unigram_w2": 20814,
+    "window_size": 10
+  },
+  {
+    "w1": "2",
+    "w2": "세계",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 345660,
+    "unigram_w2": 33278,
+    "window_size": 10
+  },
+  {
+    "w1": "2",
+    "w2": "비행기",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 345660,
+    "unigram_w2": 1728,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "위치는",
+    "pmi": 0.29898645847333155,
+    "cooc_count": 19,
+    "unigram_w1": 20814,
+    "unigram_w2": 1288,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "세계",
+    "pmi": 0.45537098531530396,
+    "cooc_count": 574,
+    "unigram_w1": 20814,
+    "unigram_w2": 33278,
+    "window_size": 10
+  },
+  {
+    "w1": "당시",
+    "w2": "비행기",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 20814,
+    "unigram_w2": 1728,
+    "window_size": 10
+  },
+  {
+    "w1": "세계",
+    "w2": "위치는",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 33278,
+    "unigram_w2": 1288,
+    "window_size": 10
+  },
+  {
+    "w1": "비행기",
+    "w2": "위치는",
+    "pmi": 1.2295030072605855,
+    "cooc_count": 4,
+    "unigram_w1": 1728,
+    "unigram_w2": 1288,
+    "window_size": 10
+  },
+  {
+    "w1": "비행기",
+    "w2": "세계",
+    "pmi": 0.5803868023938156,
+    "cooc_count": 54,
+    "unigram_w1": 1728,
+    "unigram_w2": 33278,
+    "window_size": 10
+  }
+]

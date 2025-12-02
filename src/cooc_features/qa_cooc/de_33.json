@@ -1,0 +1,47 @@
+[
+  {
+    "w1": "deutschland",
+    "w2": "land",
+    "pmi": 0.8243354823320517,
+    "cooc_count": 1413,
+    "unigram_w1": 182684,
+    "unigram_w2": 63212,
+    "window_size": 10
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "land",
+    "pmi": 0.6311945925613717,
+    "cooc_count": 18,
+    "unigram_w1": 2823,
+    "unigram_w2": 63212,
+    "window_size": 10
+  },
+  {
+    "w1": "befand",
+    "w2": "land",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 3290,
+    "unigram_w2": 63212,
+    "window_size": 10
+  },
+  {
+    "w1": "bremerhaven",
+    "w2": "deutschland",
+    "pmi": 1.110375905766343,
+    "cooc_count": 84,
+    "unigram_w1": 2823,
+    "unigram_w2": 182684,
+    "window_size": 10
+  },
+  {
+    "w1": "befand",
+    "w2": "deutschland",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 3290,
+    "unigram_w2": 182684,
+    "window_size": 10
+  }
+]

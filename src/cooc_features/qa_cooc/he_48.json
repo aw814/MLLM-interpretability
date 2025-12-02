@@ -1,0 +1,74 @@
+[
+  {
+    "w1": "איך",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 56400,
+    "unigram_w1": 790184,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "פריצי",
+    "w2": "של",
+    "pmi": 0.20503296705324012,
+    "cooc_count": 13,
+    "unigram_w1": 29,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "נקרא",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 4552,
+    "unigram_w1": 24693,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ברומנים",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 174,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הפרוטגוניסט",
+    "w2": "של",
+    "pmi": 0.15490022044897628,
+    "cooc_count": 55,
+    "unigram_w1": 129,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "רלי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 491,
+    "unigram_w1": 1548,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "נקרא",
+    "pmi": 0.0,
+    "cooc_count": 470,
+    "unigram_w1": 790184,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "רלי",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 790184,
+    "unigram_w2": 1548,
+    "window_size": 10
+  }
+]

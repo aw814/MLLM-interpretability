@@ -1,0 +1,47 @@
+[
+  {
+    "w1": "דתי",
+    "w2": "מנהג",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 10900,
+    "unigram_w2": 6046,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "דתי",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 83727,
+    "unigram_w2": 10900,
+    "window_size": 10
+  },
+  {
+    "w1": "דתי",
+    "w2": "קיימו",
+    "pmi": 0.9337003223277932,
+    "cooc_count": 4,
+    "unigram_w1": 10900,
+    "unigram_w2": 1975,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "מנהג",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 83727,
+    "unigram_w2": 6046,
+    "window_size": 10
+  },
+  {
+    "w1": "מנהג",
+    "w2": "קיימו",
+    "pmi": 0.13677185408573417,
+    "cooc_count": 1,
+    "unigram_w1": 6046,
+    "unigram_w2": 1975,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "w1": "2000s",
+    "w2": "statistics",
+    "pmi": 1.7144481249437604,
+    "cooc_count": 7,
+    "unigram_w1": 1401,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 179517,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "since",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 156932,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5174,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 92617,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "single",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 93139,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "statistics",
+    "pmi": 0.25800167868889484,
+    "cooc_count": 12,
+    "unigram_w1": 10305,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "statistics",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 18889,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "statistics",
+    "pmi": 0.8055674766204831,
+    "cooc_count": 95,
+    "unigram_w1": 47183,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 89717,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "start",
+    "w2": "statistics",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 139539,
+    "unigram_w2": 18889,
+    "window_size": 10
+  },
+  {
+    "w1": "2000s",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 1401,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "2000s",
+    "w2": "since",
+    "pmi": 1.7621789916062423,
+    "cooc_count": 61,
+    "unigram_w1": 1401,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "2000s",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1401,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "2000s",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1401,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "2000s",
+    "w2": "decade",
+    "pmi": 3.958007442051817,
+    "cooc_count": 36,
+    "unigram_w1": 1401,
+    "unigram_w2": 10305,
+    "window_size": 10
+  },
+  {
+    "w1": "2000s",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1401,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 18867,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "since",
+    "pmi": 0.318935189621653,
+    "cooc_count": 194,
+    "unigram_w1": 18867,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "counting",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 18867,
+    "unigram_w2": 5174,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "games",
+    "pmi": 1.165665569348186,
+    "cooc_count": 267,
+    "unigram_w1": 18867,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "single",
+    "pmi": 0.3602883628746359,
+    "cooc_count": 120,
+    "unigram_w1": 18867,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "decade",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 18867,
+    "unigram_w2": 10305,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "toward",
+    "pmi": 0.34261195458459365,
+    "cooc_count": 22,
+    "unigram_w1": 18867,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "career",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 18867,
+    "unigram_w2": 47183,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "season",
+    "pmi": 1.143618838058755,
+    "cooc_count": 253,
+    "unigram_w1": 18867,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "bowl",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 18867,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "since",
+    "pmi": 0.0,
+    "cooc_count": 1013,
+    "unigram_w1": 179517,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 5174,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 179517,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 301,
+    "unigram_w1": 179517,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 10305,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 179517,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 164,
+    "unigram_w1": 47183,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "season",
+    "pmi": 0.0,
+    "cooc_count": 483,
+    "unigram_w1": 179517,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 1014,
+    "unigram_w1": 179517,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "since",
+    "pmi": 0.5192325809196006,
+    "cooc_count": 65,
+    "unigram_w1": 5174,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "since",
+    "pmi": 0.0,
+    "cooc_count": 644,
+    "unigram_w1": 92617,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "since",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 344,
+    "unigram_w1": 156932,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "since",
+    "pmi": 1.089584183999618,
+    "cooc_count": 229,
+    "unigram_w1": 10305,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "since",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 156932,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "since",
+    "pmi": 0.0,
+    "cooc_count": 274,
+    "unigram_w1": 47183,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "since",
+    "pmi": 0.24410149919725393,
+    "cooc_count": 856,
+    "unigram_w1": 89717,
+    "unigram_w2": 156932,
+    "window_size": 10
+  },
+  {
+    "w1": "since",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 991,
+    "unigram_w1": 156932,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "games",
+    "pmi": 0.3686927528800554,
+    "cooc_count": 33,
+    "unigram_w1": 5174,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 5174,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "counting",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 47183,
+    "unigram_w2": 5174,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "season",
+    "pmi": 0.03949184572602307,
+    "cooc_count": 23,
+    "unigram_w1": 5174,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "counting",
+    "w2": "start",
+    "pmi": 1.0674839554357405,
+    "cooc_count": 100,
+    "unigram_w1": 5174,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 223,
+    "unigram_w1": 92617,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 10305,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 92617,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "games",
+    "pmi": 0.4111906028622912,
+    "cooc_count": 314,
+    "unigram_w1": 47183,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "season",
+    "pmi": 1.5885827958958352,
+    "cooc_count": 1938,
+    "unigram_w1": 92617,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 472,
+    "unigram_w1": 92617,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 10305,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "single",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 93139,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 47183,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "single",
+    "pmi": 0.0,
+    "cooc_count": 397,
+    "unigram_w1": 89717,
+    "unigram_w2": 93139,
+    "window_size": 10
+  },
+  {
+    "w1": "single",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 235,
+    "unigram_w1": 93139,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 10305,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "decade",
+    "pmi": 1.4009358949972066,
+    "cooc_count": 94,
+    "unigram_w1": 47183,
+    "unigram_w2": 10305,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "season",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 10305,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "decade",
+    "w2": "start",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 10305,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "toward",
+    "pmi": 0.8008583258869626,
+    "cooc_count": 87,
+    "unigram_w1": 47183,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "toward",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 89717,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "start",
+    "w2": "toward",
+    "pmi": 0.05466077810749707,
+    "cooc_count": 122,
+    "unigram_w1": 139539,
+    "unigram_w2": 17380,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "season",
+    "pmi": 0.4334029675165702,
+    "cooc_count": 311,
+    "unigram_w1": 47183,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "career",
+    "w2": "start",
+    "pmi": 0.9769598371549544,
+    "cooc_count": 833,
+    "unigram_w1": 47183,
+    "unigram_w2": 139539,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "start",
+    "pmi": 1.0541328553713911,
+    "cooc_count": 1711,
+    "unigram_w1": 89717,
+    "unigram_w2": 139539,
+    "window_size": 10
+  }
+]

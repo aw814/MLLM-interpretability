@@ -1,0 +1,434 @@
+[
+  {
+    "w1": "cuál",
+    "w2": "rápido",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 37292,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 37292,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 5547,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 37292,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "fútbol",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 37292,
+    "unigram_w2": 39649,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "era",
+    "pmi": 1.1046164091537798,
+    "cooc_count": 1187,
+    "unigram_w1": 37292,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 10160,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 37292,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "rápido",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 36361,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "rápido",
+    "pmi": 0.8591263857473711,
+    "cooc_count": 27,
+    "unigram_w1": 5547,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "rápido",
+    "pmi": 1.3216747145067944,
+    "cooc_count": 11,
+    "unigram_w1": 1423,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "nombre",
+    "w2": "rápido",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 107905,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "fútbol",
+    "w2": "rápido",
+    "pmi": 0.12908052688754337,
+    "cooc_count": 93,
+    "unigram_w1": 39649,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "rápido",
+    "pmi": 0.0,
+    "cooc_count": 358,
+    "unigram_w1": 186016,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "rápido",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 10160,
+    "unigram_w2": 36361,
+    "window_size": 10
+  },
+  {
+    "w1": "rápido",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 36361,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 5547,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1423,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "nombre",
+    "w2": "universidad",
+    "pmi": 0.06452491356236575,
+    "cooc_count": 511,
+    "unigram_w1": 107905,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "fútbol",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 39649,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "universidad",
+    "pmi": 0.7258139305050817,
+    "cooc_count": 13,
+    "unigram_w1": 1417,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 264,
+    "unigram_w1": 186016,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 10160,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "temporada",
+    "w2": "universidad",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 60918,
+    "unigram_w2": 78307,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "fútbol",
+    "pmi": 1.4744918732777907,
+    "cooc_count": 17,
+    "unigram_w1": 1731,
+    "unigram_w2": 39649,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "era",
+    "pmi": 0.3143873896526873,
+    "cooc_count": 25,
+    "unigram_w1": 1731,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "lloyd",
+    "pmi": 3.7582304035393777,
+    "cooc_count": 3,
+    "unigram_w1": 1731,
+    "unigram_w2": 713,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "detroit",
+    "pmi": 2.883460513996522,
+    "cooc_count": 8,
+    "unigram_w1": 5547,
+    "unigram_w2": 1423,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 5547,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 5547,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "corredor",
+    "pmi": 1.035552426610285,
+    "cooc_count": 9,
+    "unigram_w1": 10160,
+    "unigram_w2": 5547,
+    "window_size": 10
+  },
+  {
+    "w1": "corredor",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 5547,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "era",
+    "pmi": 0.5495400598923256,
+    "cooc_count": 26,
+    "unigram_w1": 1423,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "temporada",
+    "pmi": 0.48718905752247876,
+    "cooc_count": 8,
+    "unigram_w1": 1423,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "fútbol",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 39649,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nombre",
+    "pmi": 0.26140473209327886,
+    "cooc_count": 1478,
+    "unigram_w1": 186016,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 10160,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "nombre",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 107905,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "nombre",
+    "pmi": 0.47297632972722625,
+    "cooc_count": 7,
+    "unigram_w1": 713,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "fútbol",
+    "pmi": 0.0,
+    "cooc_count": 328,
+    "unigram_w1": 186016,
+    "unigram_w2": 39649,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "fútbol",
+    "pmi": 3.88183123057254,
+    "cooc_count": 1108,
+    "unigram_w1": 10160,
+    "unigram_w2": 39649,
+    "window_size": 10
+  },
+  {
+    "w1": "fútbol",
+    "w2": "temporada",
+    "pmi": 0.9693270662013874,
+    "cooc_count": 361,
+    "unigram_w1": 39649,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 10160,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 252,
+    "unigram_w1": 186016,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "lloyd",
+    "pmi": 1.2405812375678817,
+    "cooc_count": 26,
+    "unigram_w1": 186016,
+    "unigram_w2": 713,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "temporada",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 10160,
+    "unigram_w2": 60918,
+    "window_size": 10
+  },
+  {
+    "w1": "americano",
+    "w2": "lloyd",
+    "pmi": 2.2761533100348945,
+    "cooc_count": 4,
+    "unigram_w1": 10160,
+    "unigram_w2": 713,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "temporada",
+    "pmi": 0.48508305463808987,
+    "cooc_count": 4,
+    "unigram_w1": 713,
+    "unigram_w2": 60918,
+    "window_size": 10
+  }
+]

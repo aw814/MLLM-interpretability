@@ -1,0 +1,605 @@
+[
+  {
+    "w1": "伟大",
+    "w2": "加拿大",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 24321,
+    "unigram_w2": 19990,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "哪家",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 19990,
+    "unigram_w2": 12388,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 1695,
+    "unigram_w1": 19990,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "广播公司",
+    "pmi": 4.865663739868055,
+    "cooc_count": 18,
+    "unigram_w1": 19990,
+    "unigram_w2": 101,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "电视台",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 19990,
+    "unigram_w2": 13111,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 19990,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6166,
+    "unigram_w1": 19990,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 175,
+    "unigram_w1": 19990,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 19990,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "加拿大",
+    "w2": "播出",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 19990,
+    "unigram_w2": 7853,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 3561,
+    "unigram_w1": 24321,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 24321,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "的",
+    "pmi": 0.09809986066760468,
+    "cooc_count": 18738,
+    "unigram_w1": 24321,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "电视",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 24321,
+    "unigram_w2": 16281,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "发明",
+    "pmi": 1.4772823863332762,
+    "cooc_count": 42,
+    "unigram_w1": 24321,
+    "unigram_w2": 5737,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "最",
+    "pmi": 0.9410052153248444,
+    "cooc_count": 1206,
+    "unigram_w1": 24321,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 24321,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "伟大",
+    "w2": "播出",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 24321,
+    "unigram_w2": 7853,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 9783,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 283,
+    "unigram_w1": 9783,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "the",
+    "pmi": 6.899533353742003,
+    "cooc_count": 18,
+    "unigram_w1": 27,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "the",
+    "pmi": 5.513238992622112,
+    "cooc_count": 9,
+    "unigram_w1": 54,
+    "unigram_w2": 9783,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 9783,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 9783,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "播出",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 9783,
+    "unigram_w2": 7853,
+    "window_size": 10
+  },
+  {
+    "w1": "哪家",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 1490,
+    "unigram_w1": 12388,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "哪家",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 12388,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "哪家",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2944,
+    "unigram_w1": 12388,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪家",
+    "w2": "电视",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 12388,
+    "unigram_w2": 16281,
+    "window_size": 10
+  },
+  {
+    "w1": "哪家",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 12388,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "哪家",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 12388,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "电视台",
+    "pmi": 0.0,
+    "cooc_count": 400,
+    "unigram_w1": 2216630,
+    "unigram_w2": 13111,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 7060,
+    "unigram_w1": 2216630,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "电视",
+    "pmi": 0.0,
+    "cooc_count": 888,
+    "unigram_w1": 2216630,
+    "unigram_w2": 16281,
+    "window_size": 10
+  },
+  {
+    "w1": "发明",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 685,
+    "unigram_w1": 5737,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "最",
+    "pmi": 0.15971547321064708,
+    "cooc_count": 50321,
+    "unigram_w1": 2216630,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 20327,
+    "unigram_w1": 2216630,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 357,
+    "unigram_w1": 7853,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "广播公司",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 101,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "电视台",
+    "w2": "网络",
+    "pmi": 2.9226780833818853,
+    "cooc_count": 1785,
+    "unigram_w1": 13111,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "电视台",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 2873,
+    "unigram_w1": 13111,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "电视",
+    "w2": "电视台",
+    "pmi": 2.769760127434381,
+    "cooc_count": 234,
+    "unigram_w1": 16281,
+    "unigram_w2": 13111,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "电视台",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 281634,
+    "unigram_w2": 13111,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "电视台",
+    "pmi": 0.36907220268558083,
+    "cooc_count": 222,
+    "unigram_w1": 170382,
+    "unigram_w2": 13111,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "电视台",
+    "pmi": 3.2852891864929616,
+    "cooc_count": 189,
+    "unigram_w1": 7853,
+    "unigram_w2": 13111,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 39189,
+    "unigram_w1": 10165533,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "电视",
+    "w2": "网络",
+    "pmi": 1.782812704468161,
+    "cooc_count": 709,
+    "unigram_w1": 16281,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "发明",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 5737,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 737,
+    "unigram_w1": 281634,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "网络",
+    "pmi": 0.0,
+    "cooc_count": 903,
+    "unigram_w1": 170382,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "网络",
+    "pmi": 0.7843422442441513,
+    "cooc_count": 126,
+    "unigram_w1": 7853,
+    "unigram_w2": 106584,
+    "window_size": 10
+  },
+  {
+    "w1": "电视",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6282,
+    "unigram_w1": 16281,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 54,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "发明",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 3274,
+    "unigram_w1": 5737,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 185299,
+    "unigram_w1": 281634,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 68410,
+    "unigram_w1": 170382,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 3678,
+    "unigram_w1": 7853,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "电视",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 281634,
+    "unigram_w2": 16281,
+    "window_size": 10
+  },
+  {
+    "w1": "由",
+    "w2": "电视",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 170382,
+    "unigram_w2": 16281,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "电视",
+    "pmi": 2.209021594875088,
+    "cooc_count": 80,
+    "unigram_w1": 7853,
+    "unigram_w2": 16281,
+    "window_size": 10
+  },
+  {
+    "w1": "发明",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 5737,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "发明",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 5737,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "发明",
+    "w2": "播出",
+    "pmi": 0.47949523076495043,
+    "cooc_count": 5,
+    "unigram_w1": 5737,
+    "unigram_w2": 7853,
+    "window_size": 10
+  },
+  {
+    "w1": "最",
+    "w2": "由",
+    "pmi": 0.0,
+    "cooc_count": 891,
+    "unigram_w1": 281634,
+    "unigram_w2": 170382,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "最",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 7853,
+    "unigram_w2": 281634,
+    "window_size": 10
+  },
+  {
+    "w1": "播出",
+    "w2": "由",
+    "pmi": 0.469383355716565,
+    "cooc_count": 147,
+    "unigram_w1": 7853,
+    "unigram_w2": 170382,
+    "window_size": 10
+  }
+]

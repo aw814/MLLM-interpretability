@@ -1,0 +1,65 @@
+[
+  {
+    "w1": "不来梅",
+    "w2": "德国",
+    "pmi": 4.315017130599085,
+    "cooc_count": 7,
+    "unigram_w1": 42,
+    "unigram_w2": 32423,
+    "window_size": 10
+  },
+  {
+    "w1": "位于",
+    "w2": "哪个",
+    "pmi": 0.4992018818961662,
+    "cooc_count": 230,
+    "unigram_w1": 35065,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "位于",
+    "w2": "德国",
+    "pmi": 0.6916738461056667,
+    "cooc_count": 156,
+    "unigram_w1": 35065,
+    "unigram_w2": 32423,
+    "window_size": 10
+  },
+  {
+    "w1": "位于",
+    "w2": "国家",
+    "pmi": 0.024802819095455494,
+    "cooc_count": 556,
+    "unigram_w1": 35065,
+    "unigram_w2": 225124,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "德国",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 57949,
+    "unigram_w2": 32423,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "国家",
+    "pmi": 1.7449254191877965,
+    "cooc_count": 5132,
+    "unigram_w1": 57949,
+    "unigram_w2": 225124,
+    "window_size": 10
+  },
+  {
+    "w1": "国家",
+    "w2": "德国",
+    "pmi": 0.6637812629779636,
+    "cooc_count": 974,
+    "unigram_w1": 225124,
+    "unigram_w2": 32423,
+    "window_size": 10
+  }
+]

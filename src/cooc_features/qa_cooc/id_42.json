@@ -1,0 +1,119 @@
+[
+  {
+    "w1": "apa",
+    "w2": "lunak",
+    "pmi": 0.0,
+    "cooc_count": 298,
+    "unigram_w1": 356514,
+    "unigram_w2": 23641,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "asli",
+    "pmi": 0.0,
+    "cooc_count": 866,
+    "unigram_w1": 356514,
+    "unigram_w2": 201252,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "isis",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 356514,
+    "unigram_w2": 6241,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 2274,
+    "unigram_w1": 356514,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "perangkat",
+    "pmi": 0.0,
+    "cooc_count": 1270,
+    "unigram_w1": 356514,
+    "unigram_w2": 79668,
+    "window_size": 10
+  },
+  {
+    "w1": "asli",
+    "w2": "lunak",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 201252,
+    "unigram_w2": 23641,
+    "window_size": 10
+  },
+  {
+    "w1": "lunak",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 23641,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "lunak",
+    "w2": "perangkat",
+    "pmi": 4.993559437492072,
+    "cooc_count": 18025,
+    "unigram_w1": 23641,
+    "unigram_w2": 79668,
+    "window_size": 10
+  },
+  {
+    "w1": "asli",
+    "w2": "isis",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 201252,
+    "unigram_w2": 6241,
+    "window_size": 10
+  },
+  {
+    "w1": "asli",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 2032,
+    "unigram_w1": 201252,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "asli",
+    "w2": "perangkat",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 201252,
+    "unigram_w2": 79668,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 6241,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "perangkat",
+    "pmi": 0.0,
+    "cooc_count": 439,
+    "unigram_w1": 166941,
+    "unigram_w2": 79668,
+    "window_size": 10
+  }
+]

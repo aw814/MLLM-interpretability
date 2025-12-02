@@ -1,0 +1,461 @@
+[
+  {
+    "w1": "mississippi",
+    "w2": "north",
+    "pmi": 4.355525556151041,
+    "cooc_count": 16,
+    "unigram_w1": 641,
+    "unigram_w2": 5651,
+    "window_size": 10
+  },
+  {
+    "w1": "allstars",
+    "w2": "mississippi",
+    "pmi": 9.069845123602718,
+    "cooc_count": 12,
+    "unigram_w1": 38,
+    "unigram_w2": 641,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "the",
+    "pmi": 0.9550754103566873,
+    "cooc_count": 38,
+    "unigram_w1": 641,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 641,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "mississippi",
+    "w2": "álbum",
+    "pmi": 2.2127628328228406,
+    "cooc_count": 5,
+    "unigram_w1": 641,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "mavis",
+    "pmi": 6.564377837294399,
+    "cooc_count": 7,
+    "unigram_w1": 4144,
+    "unigram_w2": 42,
+    "window_size": 10
+  },
+  {
+    "w1": "mavis",
+    "w2": "staples",
+    "pmi": 10.341088004781367,
+    "cooc_count": 9,
+    "unigram_w1": 42,
+    "unigram_w2": 122,
+    "window_size": 10
+  },
+  {
+    "w1": "quiénes",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 5478,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "quiénes",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5478,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "the",
+    "pmi": 0.7570068698899048,
+    "cooc_count": 142,
+    "unigram_w1": 2920,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 2920,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "jim",
+    "w2": "johnson",
+    "pmi": 2.1685578804881818,
+    "cooc_count": 6,
+    "unigram_w1": 2920,
+    "unigram_w2": 4144,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "jim",
+    "pmi": 2.2538283077823773,
+    "cooc_count": 14,
+    "unigram_w1": 8879,
+    "unigram_w2": 2920,
+    "window_size": 10
+  },
+  {
+    "w1": "allstars",
+    "w2": "north",
+    "pmi": 6.806275403903914,
+    "cooc_count": 11,
+    "unigram_w1": 38,
+    "unigram_w2": 5651,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "the",
+    "pmi": 2.6117246821161904,
+    "cooc_count": 1756,
+    "unigram_w1": 5651,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "to",
+    "pmi": 1.4465534244610312,
+    "cooc_count": 226,
+    "unigram_w1": 5651,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "north",
+    "pmi": 1.3259874193267112,
+    "cooc_count": 5,
+    "unigram_w1": 4144,
+    "unigram_w2": 5651,
+    "window_size": 10
+  },
+  {
+    "w1": "north",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5651,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "ashford",
+    "w2": "the",
+    "pmi": 1.3124191760793524,
+    "cooc_count": 5,
+    "unigram_w1": 59,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "ashford",
+    "w2": "to",
+    "pmi": 2.7852933582490884,
+    "cooc_count": 9,
+    "unigram_w1": 59,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "ashford",
+    "w2": "jack",
+    "pmi": 5.713797006859946,
+    "cooc_count": 9,
+    "unigram_w1": 59,
+    "unigram_w2": 8879,
+    "window_size": 10
+  },
+  {
+    "w1": "allstars",
+    "w2": "the",
+    "pmi": 0.8360797283845309,
+    "cooc_count": 2,
+    "unigram_w1": 38,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "allstars",
+    "w2": "álbum",
+    "pmi": 5.22052768681108,
+    "cooc_count": 6,
+    "unigram_w1": 38,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "cooder",
+    "w2": "johnson",
+    "pmi": 5.604601993480506,
+    "cooc_count": 3,
+    "unigram_w1": 47,
+    "unigram_w2": 4144,
+    "window_size": 10
+  },
+  {
+    "w1": "cooder",
+    "w2": "ry",
+    "pmi": 11.4989445013797,
+    "cooc_count": 36,
+    "unigram_w1": 47,
+    "unigram_w2": 137,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "the",
+    "pmi": 1.8527149027264882,
+    "cooc_count": 207,
+    "unigram_w1": 1423,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "the",
+    "pmi": 0.2504884540458477,
+    "cooc_count": 24,
+    "unigram_w1": 819,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "to",
+    "pmi": 2.628243651427317,
+    "cooc_count": 52453,
+    "unigram_w1": 402333,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "the",
+    "pmi": 2.4778920374776474,
+    "cooc_count": 190,
+    "unigram_w1": 699,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "the",
+    "pmi": 0.3414510518334061,
+    "cooc_count": 133,
+    "unigram_w1": 4144,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "youngblood",
+    "pmi": 3.022833005853455,
+    "cooc_count": 15,
+    "unigram_w1": 402333,
+    "unigram_w2": 32,
+    "window_size": 10
+  },
+  {
+    "w1": "ry",
+    "w2": "the",
+    "pmi": 0.6522972509509015,
+    "cooc_count": 6,
+    "unigram_w1": 137,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "staples",
+    "w2": "the",
+    "pmi": 1.2790827558117608,
+    "cooc_count": 10,
+    "unigram_w1": 122,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "álbum",
+    "pmi": 0.7693196196946956,
+    "cooc_count": 741,
+    "unigram_w1": 402333,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "the",
+    "pmi": 0.7197597507799081,
+    "cooc_count": 416,
+    "unigram_w1": 8879,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "kingdom",
+    "w2": "to",
+    "pmi": 1.0686452728583826,
+    "cooc_count": 39,
+    "unigram_w1": 1423,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "kingdom",
+    "pmi": 3.3981998014266472,
+    "cooc_count": 10,
+    "unigram_w1": 4144,
+    "unigram_w2": 1423,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 819,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "johnson",
+    "pmi": 3.2574911351034848,
+    "cooc_count": 5,
+    "unigram_w1": 819,
+    "unigram_w2": 4144,
+    "window_size": 10
+  },
+  {
+    "w1": "hart",
+    "w2": "jack",
+    "pmi": 1.579172970136322,
+    "cooc_count": 2,
+    "unigram_w1": 819,
+    "unigram_w2": 8879,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "to",
+    "pmi": 2.7793945766968458,
+    "cooc_count": 106,
+    "unigram_w1": 699,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "to",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 4144,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "to",
+    "w2": "álbum",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 166034,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "to",
+    "pmi": 0.06279837751840171,
+    "cooc_count": 89,
+    "unigram_w1": 8879,
+    "unigram_w2": 166034,
+    "window_size": 10
+  },
+  {
+    "w1": "keys",
+    "w2": "álbum",
+    "pmi": 3.1557609646908586,
+    "cooc_count": 14,
+    "unigram_w1": 699,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "keys",
+    "pmi": 3.3470442241896814,
+    "cooc_count": 10,
+    "unigram_w1": 8879,
+    "unigram_w2": 699,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "staples",
+    "pmi": 5.6315578034690335,
+    "cooc_count": 8,
+    "unigram_w1": 4144,
+    "unigram_w2": 122,
+    "window_size": 10
+  },
+  {
+    "w1": "johnson",
+    "w2": "álbum",
+    "pmi": 0.5286970625981462,
+    "cooc_count": 6,
+    "unigram_w1": 4144,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "jack",
+    "w2": "johnson",
+    "pmi": 3.0933344859792222,
+    "cooc_count": 46,
+    "unigram_w1": 8879,
+    "unigram_w2": 4144,
+    "window_size": 10
+  },
+  {
+    "w1": "colaboraron",
+    "w2": "álbum",
+    "pmi": 2.5721157520286004,
+    "cooc_count": 6,
+    "unigram_w1": 537,
+    "unigram_w2": 15051,
+    "window_size": 10
+  },
+  {
+    "w1": "staples",
+    "w2": "álbum",
+    "pmi": 4.341774874255989,
+    "cooc_count": 8,
+    "unigram_w1": 122,
+    "unigram_w2": 15051,
+    "window_size": 10
+  }
+]

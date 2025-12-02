@@ -1,0 +1,191 @@
+[
+  {
+    "w1": "את",
+    "w2": "סינקלייר",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 4657206,
+    "unigram_w2": 125,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "רכש",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 16741,
+    "unigram_w2": 9547,
+    "window_size": 10
+  },
+  {
+    "w1": "הארי",
+    "w2": "רכש",
+    "pmi": 0.1587945758796002,
+    "cooc_count": 8,
+    "unigram_w1": 9788,
+    "unigram_w2": 9547,
+    "window_size": 10
+  },
+  {
+    "w1": "עשור",
+    "w2": "רכש",
+    "pmi": 0.5379934599338949,
+    "cooc_count": 8,
+    "unigram_w1": 6699,
+    "unigram_w2": 9547,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "רכש",
+    "pmi": 0.0,
+    "cooc_count": 3011,
+    "unigram_w1": 4657206,
+    "unigram_w2": 9547,
+    "window_size": 10
+  },
+  {
+    "w1": "רכש",
+    "w2": "שנות",
+    "pmi": 0.04392299143408944,
+    "cooc_count": 39,
+    "unigram_w1": 9547,
+    "unigram_w2": 53525,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "רכש",
+    "pmi": 2.32821159883816,
+    "cooc_count": 9,
+    "unigram_w1": 1258,
+    "unigram_w2": 9547,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "עשור",
+    "pmi": 0.535975416451566,
+    "cooc_count": 14,
+    "unigram_w1": 16741,
+    "unigram_w2": 6699,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 3694,
+    "unigram_w1": 4657206,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "שנות",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 16741,
+    "unigram_w2": 53525,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "הארי",
+    "pmi": 0.0,
+    "cooc_count": 2499,
+    "unigram_w1": 4657206,
+    "unigram_w2": 9788,
+    "window_size": 10
+  },
+  {
+    "w1": "הארי",
+    "w2": "שנות",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 9788,
+    "unigram_w2": 53525,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "הארי",
+    "pmi": 2.0519669939927248,
+    "cooc_count": 7,
+    "unigram_w1": 1258,
+    "unigram_w2": 9788,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "עשור",
+    "pmi": 0.0,
+    "cooc_count": 1079,
+    "unigram_w1": 4657206,
+    "unigram_w2": 6699,
+    "window_size": 10
+  },
+  {
+    "w1": "עשור",
+    "w2": "שנות",
+    "pmi": 0.9831252948435676,
+    "cooc_count": 70,
+    "unigram_w1": 6699,
+    "unigram_w2": 53525,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "עשור",
+    "pmi": 1.1784029095516515,
+    "cooc_count": 2,
+    "unigram_w1": 1258,
+    "unigram_w2": 6699,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "שנות",
+    "pmi": 0.0,
+    "cooc_count": 7033,
+    "unigram_w1": 4657206,
+    "unigram_w2": 53525,
+    "window_size": 10
+  },
+  {
+    "w1": "אורוות",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 314,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 1258,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  },
+  {
+    "w1": "אורוות",
+    "w2": "שנות",
+    "pmi": 1.5867100766222777,
+    "cooc_count": 6,
+    "unigram_w1": 314,
+    "unigram_w2": 53525,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "שנות",
+    "pmi": 0.3529753050974036,
+    "cooc_count": 7,
+    "unigram_w1": 1258,
+    "unigram_w2": 53525,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "w1": "게임",
+    "w2": "메달을",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 140248,
+    "unigram_w2": 491,
+    "window_size": 10
+  },
+  {
+    "w1": "메달을",
+    "w2": "아시안",
+    "pmi": 4.217331686255529,
+    "cooc_count": 18,
+    "unigram_w1": 491,
+    "unigram_w2": 1028,
+    "window_size": 10
+  },
+  {
+    "w1": "메달을",
+    "w2": "어떤",
+    "pmi": 0.47399264379676265,
+    "cooc_count": 23,
+    "unigram_w1": 491,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "2002년",
+    "w2": "메달을",
+    "pmi": 2.0580612537474616,
+    "cooc_count": 7,
+    "unigram_w1": 3464,
+    "unigram_w2": 491,
+    "window_size": 10
+  },
+  {
+    "w1": "메달을",
+    "w2": "여자",
+    "pmi": 0.19366638053742807,
+    "cooc_count": 6,
+    "unigram_w1": 491,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "동메달",
+    "w2": "메달을",
+    "pmi": 5.946046437022266,
+    "cooc_count": 29,
+    "unigram_w1": 294,
+    "unigram_w2": 491,
+    "window_size": 10
+  },
+  {
+    "w1": "메달을",
+    "w2": "미",
+    "pmi": 0.6139083988644153,
+    "cooc_count": 3,
+    "unigram_w1": 491,
+    "unigram_w2": 6292,
+    "window_size": 10
+  },
+  {
+    "w1": "게임",
+    "w2": "아시안",
+    "pmi": 1.4713291475807,
+    "cooc_count": 330,
+    "unigram_w1": 140248,
+    "unigram_w2": 1028,
+    "window_size": 10
+  },
+  {
+    "w1": "게임",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 140248,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "2002년",
+    "w2": "게임",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 3464,
+    "unigram_w2": 140248,
+    "window_size": 10
+  },
+  {
+    "w1": "게임",
+    "w2": "여자",
+    "pmi": 1.3927698822548198,
+    "cooc_count": 5685,
+    "unigram_w1": 140248,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "게임",
+    "w2": "미",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 140248,
+    "unigram_w2": 6292,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "2002년",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 12132,
+    "unigram_w2": 3464,
+    "window_size": 10
+  },
+  {
+    "w1": "아시안",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1028,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "2002년",
+    "w2": "아시안",
+    "pmi": 2.9567437249276685,
+    "cooc_count": 36,
+    "unigram_w1": 3464,
+    "unigram_w2": 1028,
+    "window_size": 10
+  },
+  {
+    "w1": "아시안",
+    "w2": "여자",
+    "pmi": 0.3710307941909933,
+    "cooc_count": 15,
+    "unigram_w1": 1028,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "미",
+    "w2": "아시안",
+    "pmi": 0.973594369311935,
+    "cooc_count": 9,
+    "unigram_w1": 6292,
+    "unigram_w2": 1028,
+    "window_size": 10
+  },
+  {
+    "w1": "2002년",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3464,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "여자",
+    "pmi": 0.0,
+    "cooc_count": 237,
+    "unigram_w1": 55483,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "어떤",
+    "w2": "티",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 55483,
+    "unigram_w2": 3001,
+    "window_size": 10
+  },
+  {
+    "w1": "미",
+    "w2": "어떤",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 6292,
+    "unigram_w2": 55483,
+    "window_size": 10
+  },
+  {
+    "w1": "2002년",
+    "w2": "여자",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 3464,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "여자",
+    "w2": "티",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 19157,
+    "unigram_w2": 3001,
+    "window_size": 10
+  },
+  {
+    "w1": "동메달",
+    "w2": "여자",
+    "pmi": 1.4797206292267486,
+    "cooc_count": 13,
+    "unigram_w1": 294,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "미",
+    "w2": "여자",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 6292,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "미",
+    "w2": "티",
+    "pmi": 0.10293466534882945,
+    "cooc_count": 11,
+    "unigram_w1": 6292,
+    "unigram_w2": 3001,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,875 @@
+[
+  {
+    "w1": "c",
+    "w2": "赢得",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 23464,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "th",
+    "pmi": 4.722592342076684,
+    "cooc_count": 64,
+    "unigram_w1": 23464,
+    "unigram_w2": 353,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 23464,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "c",
+    "pmi": 1.8873662093268564,
+    "cooc_count": 44,
+    "unigram_w1": 4134,
+    "unigram_w2": 23464,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "m",
+    "pmi": 4.62876481812236,
+    "cooc_count": 4330,
+    "unigram_w1": 23464,
+    "unigram_w2": 26232,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "n",
+    "pmi": 4.930891671500017,
+    "cooc_count": 3626,
+    "unigram_w1": 23464,
+    "unigram_w2": 16239,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 23464,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 139,
+    "unigram_w1": 23464,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 23464,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 23464,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "c",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 23464,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "美德",
+    "w2": "赢得",
+    "pmi": 2.143163966522419,
+    "cooc_count": 9,
+    "unigram_w1": 1105,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "美德",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 982471,
+    "unigram_w2": 1105,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "美德",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 2356497,
+    "unigram_w2": 1105,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "美德",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 2335068,
+    "unigram_w2": 1105,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "美德",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 303848,
+    "unigram_w2": 1105,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "美德",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 754775,
+    "unigram_w2": 1105,
+    "window_size": 10
+  },
+  {
+    "w1": "赢得",
+    "w2": "铜牌",
+    "pmi": 3.1311291563995938,
+    "cooc_count": 7,
+    "unigram_w1": 13903,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "赢得",
+    "pmi": 1.654508605856359,
+    "cooc_count": 7,
+    "unigram_w1": 1401,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "赢得",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 29209,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "赢得",
+    "pmi": 0.0,
+    "cooc_count": 668,
+    "unigram_w1": 982471,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "赢得",
+    "pmi": 0.0,
+    "cooc_count": 1780,
+    "unigram_w1": 2356497,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "赢得",
+    "pmi": 0.914420374507118,
+    "cooc_count": 5566,
+    "unigram_w1": 2335068,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "赢得",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 303848,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "赢得",
+    "pmi": 0.0,
+    "cooc_count": 578,
+    "unigram_w1": 754775,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "奖牌",
+    "w2": "赢得",
+    "pmi": 2.4069262666099847,
+    "cooc_count": 16,
+    "unigram_w1": 1509,
+    "unigram_w2": 13903,
+    "window_size": 10
+  },
+  {
+    "w1": "赢得",
+    "w2": "项目",
+    "pmi": 0.17372380949855376,
+    "cooc_count": 172,
+    "unigram_w1": 13903,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "铜牌",
+    "pmi": 3.4873692082925647,
+    "cooc_count": 21,
+    "unigram_w1": 29209,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "铜牌",
+    "pmi": 0.7984538356712231,
+    "cooc_count": 48,
+    "unigram_w1": 982471,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "铜牌",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 2356497,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "铜牌",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 2335068,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "铜牌",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 754775,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "奖牌",
+    "w2": "铜牌",
+    "pmi": 6.044933801361234,
+    "cooc_count": 14,
+    "unigram_w1": 1509,
+    "unigram_w2": 320,
+    "window_size": 10
+  },
+  {
+    "w1": "铜牌",
+    "w2": "项目",
+    "pmi": 0.9949928373970912,
+    "cooc_count": 9,
+    "unigram_w1": 320,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "th",
+    "pmi": 3.8533939325119704,
+    "cooc_count": 30,
+    "unigram_w1": 26232,
+    "unigram_w2": 353,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "th",
+    "pmi": 4.595322480038858,
+    "cooc_count": 39,
+    "unigram_w1": 16239,
+    "unigram_w2": 353,
+    "window_size": 10
+  },
+  {
+    "w1": "th",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 353,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "女子",
+    "pmi": 1.7388149422656878,
+    "cooc_count": 16,
+    "unigram_w1": 1401,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "年",
+    "pmi": 1.1342120415587789,
+    "cooc_count": 294,
+    "unigram_w1": 1401,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 218,
+    "unigram_w1": 1401,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "亚运会",
+    "pmi": 0.0,
+    "cooc_count": 122,
+    "unigram_w1": 2335068,
+    "unigram_w2": 1401,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1401,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "亚运会",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 754775,
+    "unigram_w2": 1401,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "奖牌",
+    "pmi": 5.06475013713189,
+    "cooc_count": 23,
+    "unigram_w1": 1401,
+    "unigram_w2": 1509,
+    "window_size": 10
+  },
+  {
+    "w1": "亚运会",
+    "w2": "项目",
+    "pmi": 1.0823478252111993,
+    "cooc_count": 43,
+    "unigram_w1": 1401,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 934,
+    "unigram_w1": 29209,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 3325,
+    "unigram_w1": 2356497,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 2786,
+    "unigram_w1": 2335068,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 113,
+    "unigram_w1": 303848,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 1088,
+    "unigram_w1": 754775,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "奖牌",
+    "w2": "女子",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1509,
+    "unigram_w2": 29209,
+    "window_size": 10
+  },
+  {
+    "w1": "女子",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 141,
+    "unigram_w1": 29209,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "阮氏",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 2356497,
+    "unigram_w2": 568,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "阮氏",
+    "pmi": 0.3629242600708255,
+    "cooc_count": 131,
+    "unigram_w1": 2335068,
+    "unigram_w2": 568,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 4134,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 26232,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 16239,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 71273,
+    "unigram_w1": 2335068,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4830,
+    "unigram_w1": 303848,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 26958,
+    "unigram_w1": 754775,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "奖牌",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 1509,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 6521,
+    "unigram_w1": 982471,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "m",
+    "pmi": 2.15054695090107,
+    "cooc_count": 64,
+    "unigram_w1": 4134,
+    "unigram_w2": 26232,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "n",
+    "pmi": 2.134789796730441,
+    "cooc_count": 39,
+    "unigram_w1": 4134,
+    "unigram_w2": 16239,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 4134,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 4134,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 4134,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4134,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "n",
+    "pmi": 4.992882568965867,
+    "cooc_count": 4313,
+    "unigram_w1": 26232,
+    "unigram_w2": 16239,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 26232,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 186,
+    "unigram_w1": 26232,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 26232,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 26232,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 26232,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "长拳",
+    "pmi": 0.03808888636277053,
+    "cooc_count": 8,
+    "unigram_w1": 2335068,
+    "unigram_w2": 48,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "长拳",
+    "pmi": 1.3906090378223932,
+    "cooc_count": 10,
+    "unigram_w1": 754775,
+    "unigram_w2": 48,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 16239,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 74,
+    "unigram_w1": 16239,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 16239,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 16239,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "n",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 16239,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 250563,
+    "unigram_w1": 2335068,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 19863,
+    "unigram_w1": 303848,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "在",
+    "pmi": 0.5821407185855212,
+    "cooc_count": 218732,
+    "unigram_w1": 754775,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "奖牌",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 2356497,
+    "unigram_w2": 1509,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 14743,
+    "unigram_w1": 2356497,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 31519,
+    "unigram_w1": 2335068,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 68170,
+    "unigram_w1": 754775,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "奖牌",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 2335068,
+    "unigram_w2": 1509,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 10349,
+    "unigram_w1": 2335068,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 3838,
+    "unigram_w1": 754775,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "奖牌",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 303848,
+    "unigram_w2": 1509,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 1119,
+    "unigram_w1": 303848,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "奖牌",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 754775,
+    "unigram_w2": 1509,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "项目",
+    "pmi": 0.0,
+    "cooc_count": 6223,
+    "unigram_w1": 754775,
+    "unigram_w2": 151344,
+    "window_size": 10
+  },
+  {
+    "w1": "奖牌",
+    "w2": "项目",
+    "pmi": 0.7732473217029564,
+    "cooc_count": 34,
+    "unigram_w1": 1509,
+    "unigram_w2": 151344,
+    "window_size": 10
+  }
+]

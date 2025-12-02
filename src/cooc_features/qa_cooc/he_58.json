@@ -1,0 +1,767 @@
+[
+  {
+    "w1": "התקיים",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2361,
+    "unigram_w1": 8690,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "לוס",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1927,
+    "unigram_w1": 6674,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "לגברים",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1424,
+    "unigram_w1": 9019,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "לס",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2320,
+    "unigram_w1": 12804,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 7149,
+    "unigram_w1": 23522,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 21782,
+    "unigram_w1": 85518,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "פרפר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 647,
+    "unigram_w1": 3204,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1232,
+    "unigram_w1": 6824,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "באולימפיאדת",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 204,
+    "unigram_w1": 1598,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מטר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 10094,
+    "unigram_w1": 32550,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "עיר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 10802,
+    "unigram_w1": 41442,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3857,
+    "unigram_w1": 15556,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3852,
+    "unigram_w1": 19027,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 965,
+    "unigram_w1": 6547,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מקצה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 964,
+    "unigram_w1": 3833,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "התקיים",
+    "w2": "לס",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 8690,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "התקיים",
+    "pmi": 0.5924649220942693,
+    "cooc_count": 27,
+    "unigram_w1": 23522,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "התקיים",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 85518,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "התקיים",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 6824,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "התקיים",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 8690,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "התקיים",
+    "pmi": 1.5813188041331752,
+    "cooc_count": 48,
+    "unigram_w1": 15556,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "התקיים",
+    "pmi": 1.4087706241160467,
+    "cooc_count": 17,
+    "unigram_w1": 6547,
+    "unigram_w2": 8690,
+    "window_size": 10
+  },
+  {
+    "w1": "התקיים",
+    "w2": "מקצה",
+    "pmi": 1.4135015161144129,
+    "cooc_count": 10,
+    "unigram_w1": 8690,
+    "unigram_w2": 3833,
+    "window_size": 10
+  },
+  {
+    "w1": "לוס",
+    "w2": "לס",
+    "pmi": 6.545771307175662,
+    "cooc_count": 4346,
+    "unigram_w1": 6674,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "לוס",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 85518,
+    "unigram_w2": 6674,
+    "window_size": 10
+  },
+  {
+    "w1": "לוס",
+    "w2": "פרפר",
+    "pmi": 1.5000278883161038,
+    "cooc_count": 7,
+    "unigram_w1": 6674,
+    "unigram_w2": 3204,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "לוס",
+    "pmi": 2.648219559987584,
+    "cooc_count": 47,
+    "unigram_w1": 6824,
+    "unigram_w2": 6674,
+    "window_size": 10
+  },
+  {
+    "w1": "באולימפיאדת",
+    "w2": "לוס",
+    "pmi": 4.257098106355292,
+    "cooc_count": 55,
+    "unigram_w1": 1598,
+    "unigram_w2": 6674,
+    "window_size": 10
+  },
+  {
+    "w1": "לוס",
+    "w2": "מטר",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 6674,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "לוס",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 6674,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "לוס",
+    "pmi": 1.0651138055317184,
+    "cooc_count": 22,
+    "unigram_w1": 15556,
+    "unigram_w2": 6674,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "לוס",
+    "pmi": 6.29722469115429,
+    "cooc_count": 5037,
+    "unigram_w1": 19027,
+    "unigram_w2": 6674,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "לגברים",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 23522,
+    "unigram_w2": 9019,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "לגברים",
+    "pmi": 0.04621424941728507,
+    "cooc_count": 59,
+    "unigram_w1": 85518,
+    "unigram_w2": 9019,
+    "window_size": 10
+  },
+  {
+    "w1": "לגברים",
+    "w2": "פרפר",
+    "pmi": 1.7379103061944021,
+    "cooc_count": 12,
+    "unigram_w1": 9019,
+    "unigram_w2": 3204,
+    "window_size": 10
+  },
+  {
+    "w1": "באולימפיאדת",
+    "w2": "לגברים",
+    "pmi": 2.2512359312624777,
+    "cooc_count": 10,
+    "unigram_w1": 1598,
+    "unigram_w2": 9019,
+    "window_size": 10
+  },
+  {
+    "w1": "לגברים",
+    "w2": "מטר",
+    "pmi": 0.1535021418261372,
+    "cooc_count": 25,
+    "unigram_w1": 9019,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "לגברים",
+    "pmi": 2.540491719774596,
+    "cooc_count": 130,
+    "unigram_w1": 15556,
+    "unigram_w2": 9019,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "לגברים",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 19027,
+    "unigram_w2": 9019,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "לגברים",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 6547,
+    "unigram_w2": 9019,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "לס",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 23522,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "לס",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 85518,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "לס",
+    "pmi": 2.4640218300354015,
+    "cooc_count": 75,
+    "unigram_w1": 6824,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "באולימפיאדת",
+    "w2": "לס",
+    "pmi": 3.404889169114706,
+    "cooc_count": 45,
+    "unigram_w1": 1598,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "לס",
+    "w2": "מטר",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 12804,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "לס",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 12804,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "לס",
+    "pmi": 0.5414089352631688,
+    "cooc_count": 25,
+    "unigram_w1": 15556,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "לס",
+    "pmi": 6.325241575792472,
+    "cooc_count": 9938,
+    "unigram_w1": 19027,
+    "unigram_w2": 12804,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "הקיץ",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 85518,
+    "unigram_w2": 23522,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "הקיץ",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 6824,
+    "unigram_w2": 23522,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "מטר",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 23522,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 23522,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "הקיץ",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 15556,
+    "unigram_w2": 23522,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "הקיץ",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 19027,
+    "unigram_w2": 23522,
+    "window_size": 10
+  },
+  {
+    "w1": "הקיץ",
+    "w2": "מקצה",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 23522,
+    "unigram_w2": 3833,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "פרפר",
+    "pmi": 2.42414523876131,
+    "cooc_count": 226,
+    "unigram_w1": 85518,
+    "unigram_w2": 3204,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 85518,
+    "unigram_w2": 6824,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "באולימפיאדת",
+    "pmi": 1.2546054828404676,
+    "cooc_count": 35,
+    "unigram_w1": 85518,
+    "unigram_w2": 1598,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "מטר",
+    "pmi": 2.5216026605856827,
+    "cooc_count": 2531,
+    "unigram_w1": 85518,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 168,
+    "unigram_w1": 85518,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "הגמר",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 85518,
+    "unigram_w2": 15556,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "אנג",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 85518,
+    "unigram_w2": 19027,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "באיזו",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 85518,
+    "unigram_w2": 6547,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "מקצה",
+    "pmi": 0.43528039494094317,
+    "cooc_count": 37,
+    "unigram_w1": 85518,
+    "unigram_w2": 3833,
+    "window_size": 10
+  },
+  {
+    "w1": "מטר",
+    "w2": "פרפר",
+    "pmi": 3.4708179614801216,
+    "cooc_count": 245,
+    "unigram_w1": 32550,
+    "unigram_w2": 3204,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "פרפר",
+    "pmi": 1.0104757962905175,
+    "cooc_count": 10,
+    "unigram_w1": 15556,
+    "unigram_w2": 3204,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "פרפר",
+    "pmi": 1.2790668187714904,
+    "cooc_count": 16,
+    "unigram_w1": 19027,
+    "unigram_w2": 3204,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "באולימפיאדת",
+    "pmi": 3.5597430014378286,
+    "cooc_count": 28,
+    "unigram_w1": 6824,
+    "unigram_w2": 1598,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 6824,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "הגמר",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 6824,
+    "unigram_w2": 15556,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "אנג",
+    "pmi": 1.9699400207245508,
+    "cooc_count": 68,
+    "unigram_w1": 6824,
+    "unigram_w2": 19027,
+    "window_size": 10
+  },
+  {
+    "w1": "באולימפיאדת",
+    "w2": "מטר",
+    "pmi": 3.2803274496386843,
+    "cooc_count": 101,
+    "unigram_w1": 1598,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "באולימפיאדת",
+    "w2": "הגמר",
+    "pmi": 2.5815917155064474,
+    "cooc_count": 24,
+    "unigram_w1": 1598,
+    "unigram_w2": 15556,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "באולימפיאדת",
+    "pmi": 3.391780020420165,
+    "cooc_count": 66,
+    "unigram_w1": 19027,
+    "unigram_w2": 1598,
+    "window_size": 10
+  },
+  {
+    "w1": "מטר",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 32550,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "מטר",
+    "pmi": 0.5942059832389728,
+    "cooc_count": 67,
+    "unigram_w1": 15556,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "מטר",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 19027,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "מטר",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 6547,
+    "unigram_w2": 32550,
+    "window_size": 10
+  },
+  {
+    "w1": "מטר",
+    "w2": "מקצה",
+    "pmi": 0.7347509729095298,
+    "cooc_count": 19,
+    "unigram_w1": 32550,
+    "unigram_w2": 3833,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 15556,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 19027,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "עיר",
+    "pmi": 2.1492337970525024,
+    "cooc_count": 170,
+    "unigram_w1": 6547,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "אנג",
+    "w2": "הגמר",
+    "pmi": 0.9154157560085955,
+    "cooc_count": 54,
+    "unigram_w1": 19027,
+    "unigram_w2": 15556,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזו",
+    "w2": "הגמר",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 6547,
+    "unigram_w2": 15556,
+    "window_size": 10
+  },
+  {
+    "w1": "הגמר",
+    "w2": "מקצה",
+    "pmi": 1.786739484125649,
+    "cooc_count": 26,
+    "unigram_w1": 15556,
+    "unigram_w2": 3833,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "w1": "and",
+    "w2": "tenant",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 467299,
+    "unigram_w2": 703,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "residential",
+    "pmi": 0.4888988271819971,
+    "cooc_count": 18,
+    "unigram_w1": 467299,
+    "unigram_w2": 364,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "uniform",
+    "pmi": 0.7251434974533489,
+    "cooc_count": 61,
+    "unigram_w1": 467299,
+    "unigram_w2": 974,
+    "window_size": 10
+  },
+  {
+    "w1": "kapan",
+    "w2": "uniform",
+    "pmi": 1.1029836559135309,
+    "cooc_count": 7,
+    "unigram_w1": 36751,
+    "unigram_w2": 974,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "uniform",
+    "pmi": 3.366070042542585,
+    "cooc_count": 6,
+    "unigram_w1": 3277,
+    "unigram_w2": 974,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "kapan",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 467299,
+    "unigram_w2": 36751,
+    "window_size": 10
+  },
+  {
+    "w1": "and",
+    "w2": "dibuat",
+    "pmi": 0.0,
+    "cooc_count": 120,
+    "unigram_w1": 467299,
+    "unigram_w2": 67519,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "and",
+    "pmi": 1.0674239763361906,
+    "cooc_count": 289,
+    "unigram_w1": 3277,
+    "unigram_w2": 467299,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "and",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 1488,
+    "unigram_w2": 467299,
+    "window_size": 10
+  },
+  {
+    "w1": "dibuat",
+    "w2": "kapan",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 67519,
+    "unigram_w2": 36751,
+    "window_size": 10
+  },
+  {
+    "w1": "act",
+    "w2": "dibuat",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 3277,
+    "unigram_w2": 67519,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "dibuat",
+    "pmi": 1.3031068218771653,
+    "cooc_count": 24,
+    "unigram_w1": 1488,
+    "unigram_w2": 67519,
+    "window_size": 10
+  }
+]

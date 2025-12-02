@@ -1,0 +1,380 @@
+[
+  {
+    "w1": "15",
+    "w2": "נייל",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 232533,
+    "unigram_w2": 2573,
+    "window_size": 10
+  },
+  {
+    "w1": "נייל",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 273,
+    "unigram_w1": 2573,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "דיוויד",
+    "w2": "נייל",
+    "pmi": 2.318564544891104,
+    "cooc_count": 9,
+    "unigram_w1": 4713,
+    "unigram_w2": 2573,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "נייל",
+    "pmi": 0.854531455155542,
+    "cooc_count": 7,
+    "unigram_w1": 15848,
+    "unigram_w2": 2573,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 32142,
+    "unigram_w1": 232533,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "דיוויד",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 232533,
+    "unigram_w2": 4713,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 136,
+    "unigram_w1": 232533,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "תאריך",
+    "pmi": 1.7839285468567492,
+    "cooc_count": 3466,
+    "unigram_w1": 232533,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 232533,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "2016",
+    "pmi": 1.4376857440933484,
+    "cooc_count": 9472,
+    "unigram_w1": 232533,
+    "unigram_w2": 132438,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "ביולי",
+    "pmi": 1.5098374107228552,
+    "cooc_count": 2626,
+    "unigram_w1": 232533,
+    "unigram_w2": 34161,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "יצא",
+    "pmi": 0.0,
+    "cooc_count": 477,
+    "unigram_w1": 232533,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "דיוויד",
+    "w2": "של",
+    "pmi": 0.03479112068520116,
+    "cooc_count": 1782,
+    "unigram_w1": 4713,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 2654,
+    "unigram_w1": 16741,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 300,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "של",
+    "w2": "תאריך",
+    "pmi": 0.0,
+    "cooc_count": 4431,
+    "unigram_w1": 4999599,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 5451,
+    "unigram_w1": 15848,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 14100,
+    "unigram_w1": 132438,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ביולי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3837,
+    "unigram_w1": 34161,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 7963,
+    "unigram_w1": 44561,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "דיוויד",
+    "w2": "תאריך",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 4713,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "דיוויד",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 4713,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "דיוויד",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 132438,
+    "unigram_w2": 4713,
+    "window_size": 10
+  },
+  {
+    "w1": "ביולי",
+    "w2": "דיוויד",
+    "pmi": 1.0010637611576407,
+    "cooc_count": 32,
+    "unigram_w1": 34161,
+    "unigram_w2": 4713,
+    "window_size": 10
+  },
+  {
+    "w1": "דיוויד",
+    "w2": "יצא",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 4713,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "תאריך",
+    "pmi": 0.8990724148165803,
+    "cooc_count": 103,
+    "unigram_w1": 16741,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 16741,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "באיזה",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 132438,
+    "unigram_w2": 16741,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "ביולי",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 16741,
+    "unigram_w2": 34161,
+    "window_size": 10
+  },
+  {
+    "w1": "באיזה",
+    "w2": "יצא",
+    "pmi": 0.31950542487982436,
+    "cooc_count": 75,
+    "unigram_w1": 16741,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "fighter",
+    "w2": "תאריך",
+    "pmi": 2.4834016086827475,
+    "cooc_count": 9,
+    "unigram_w1": 300,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "fighter",
+    "pmi": 0.8805054907902053,
+    "cooc_count": 7,
+    "unigram_w1": 132438,
+    "unigram_w2": 300,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "תאריך",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 15848,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "תאריך",
+    "pmi": 1.4502674620899807,
+    "cooc_count": 1414,
+    "unigram_w1": 132438,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "ביולי",
+    "w2": "תאריך",
+    "pmi": 0.6448697853307767,
+    "cooc_count": 163,
+    "unigram_w1": 34161,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "יצא",
+    "w2": "תאריך",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 44561,
+    "unigram_w2": 34279,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 132438,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "ביולי",
+    "w2": "האלבום",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 34161,
+    "unigram_w2": 15848,
+    "window_size": 10
+  },
+  {
+    "w1": "האלבום",
+    "w2": "יצא",
+    "pmi": 2.541470038016164,
+    "cooc_count": 655,
+    "unigram_w1": 15848,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "ביולי",
+    "pmi": 2.016760680420545,
+    "cooc_count": 2483,
+    "unigram_w1": 132438,
+    "unigram_w2": 34161,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "יצא",
+    "pmi": 0.0,
+    "cooc_count": 307,
+    "unigram_w1": 132438,
+    "unigram_w2": 44561,
+    "window_size": 10
+  },
+  {
+    "w1": "ביולי",
+    "w2": "יצא",
+    "pmi": 0.3763898045129682,
+    "cooc_count": 162,
+    "unigram_w1": 34161,
+    "unigram_w2": 44561,
+    "window_size": 10
+  }
+]

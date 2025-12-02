@@ -1,0 +1,74 @@
+[
+  {
+    "w1": "4년",
+    "w2": "델",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2488,
+    "unigram_w2": 1384,
+    "window_size": 10
+  },
+  {
+    "w1": "임기는",
+    "w2": "총장의",
+    "pmi": 6.471279559618453,
+    "cooc_count": 46,
+    "unigram_w1": 366,
+    "unigram_w2": 370,
+    "window_size": 10
+  },
+  {
+    "w1": "4년",
+    "w2": "총장의",
+    "pmi": 3.7217693162256453,
+    "cooc_count": 20,
+    "unigram_w1": 2488,
+    "unigram_w2": 370,
+    "window_size": 10
+  },
+  {
+    "w1": "4",
+    "w2": "대학교",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 271846,
+    "unigram_w2": 3284,
+    "window_size": 10
+  },
+  {
+    "w1": "4년",
+    "w2": "대학교",
+    "pmi": 0.6221641194174417,
+    "cooc_count": 8,
+    "unigram_w1": 2488,
+    "unigram_w2": 3284,
+    "window_size": 10
+  },
+  {
+    "w1": "4년",
+    "w2": "임기는",
+    "pmi": 2.816348256588394,
+    "cooc_count": 8,
+    "unigram_w1": 2488,
+    "unigram_w2": 366,
+    "window_size": 10
+  },
+  {
+    "w1": "4",
+    "w2": "4년",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 271846,
+    "unigram_w2": 2488,
+    "window_size": 10
+  },
+  {
+    "w1": "사크로",
+    "w2": "쿠오레",
+    "pmi": 12.050828893517123,
+    "cooc_count": 9,
+    "unigram_w1": 10,
+    "unigram_w2": 10,
+    "window_size": 10
+  }
+]

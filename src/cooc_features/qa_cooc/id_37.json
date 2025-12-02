@@ -1,0 +1,137 @@
+[
+  {
+    "w1": "pertama",
+    "w2": "walikota",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 218646,
+    "unigram_w2": 12093,
+    "window_size": 10
+  },
+  {
+    "w1": "siapa",
+    "w2": "walikota",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 60352,
+    "unigram_w2": 12093,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "walikota",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 184939,
+    "unigram_w2": 12093,
+    "window_size": 10
+  },
+  {
+    "w1": "perempuan",
+    "w2": "walikota",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 62537,
+    "unigram_w2": 12093,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "walikota",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 166941,
+    "unigram_w2": 12093,
+    "window_size": 10
+  },
+  {
+    "w1": "pertama",
+    "w2": "siapa",
+    "pmi": 0.0,
+    "cooc_count": 509,
+    "unigram_w1": 218646,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "pertama",
+    "pmi": 0.0,
+    "cooc_count": 692,
+    "unigram_w1": 184939,
+    "unigram_w2": 218646,
+    "window_size": 10
+  },
+  {
+    "w1": "perempuan",
+    "w2": "pertama",
+    "pmi": 0.0,
+    "cooc_count": 737,
+    "unigram_w1": 62537,
+    "unigram_w2": 218646,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "pertama",
+    "pmi": 0.0,
+    "cooc_count": 1597,
+    "unigram_w1": 166941,
+    "unigram_w2": 218646,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "siapa",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 184939,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "perempuan",
+    "w2": "siapa",
+    "pmi": 0.0,
+    "cooc_count": 204,
+    "unigram_w1": 62537,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "siapa",
+    "pmi": 0.386074874765559,
+    "cooc_count": 962,
+    "unigram_w1": 166941,
+    "unigram_w2": 60352,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "perempuan",
+    "pmi": 0.0,
+    "cooc_count": 173,
+    "unigram_w1": 184939,
+    "unigram_w2": 62537,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 837,
+    "unigram_w1": 184939,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "perempuan",
+    "pmi": 0.6083869384301697,
+    "cooc_count": 1245,
+    "unigram_w1": 166941,
+    "unigram_w2": 62537,
+    "window_size": 10
+  }
+]

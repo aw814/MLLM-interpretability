@@ -1,0 +1,218 @@
+[
+  {
+    "w1": "the",
+    "w2": "רשת",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 268704,
+    "unigram_w2": 53499,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "רשת",
+    "pmi": 3.892831938786841,
+    "cooc_count": 23,
+    "unigram_w1": 120,
+    "unigram_w2": 53499,
+    "window_size": 10
+  },
+  {
+    "w1": "טלוויזיה",
+    "w2": "רשת",
+    "pmi": 0.73089904795239,
+    "cooc_count": 214,
+    "unigram_w1": 26368,
+    "unigram_w2": 53499,
+    "window_size": 10
+  },
+  {
+    "w1": "הסדרה",
+    "w2": "רשת",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 24315,
+    "unigram_w2": 53499,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "רשת",
+    "pmi": 0.23167040301635872,
+    "cooc_count": 105,
+    "unigram_w1": 21314,
+    "unigram_w2": 53499,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "רשת",
+    "pmi": 0.0,
+    "cooc_count": 7679,
+    "unigram_w1": 4657206,
+    "unigram_w2": 53499,
+    "window_size": 10
+  },
+  {
+    "w1": "רשת",
+    "w2": "שידרה",
+    "pmi": 2.7487102459897614,
+    "cooc_count": 42,
+    "unigram_w1": 53499,
+    "unigram_w2": 688,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "טלוויזיה",
+    "pmi": 0.0,
+    "cooc_count": 184,
+    "unigram_w1": 268704,
+    "unigram_w2": 26368,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "הסדרה",
+    "pmi": 0.0,
+    "cooc_count": 168,
+    "unigram_w1": 268704,
+    "unigram_w2": 24315,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "איזו",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 268704,
+    "unigram_w2": 21314,
+    "window_size": 10
+  },
+  {
+    "w1": "the",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 5012,
+    "unigram_w1": 268704,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "the",
+    "pmi": 2.504080680377362,
+    "cooc_count": 127,
+    "unigram_w1": 529,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "the",
+    "pmi": 3.5152300723619128,
+    "cooc_count": 293,
+    "unigram_w1": 444,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "the",
+    "pmi": 3.555269880818587,
+    "cooc_count": 68,
+    "unigram_w1": 99,
+    "unigram_w2": 268704,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 120,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  },
+  {
+    "w1": "הסדרה",
+    "w2": "טלוויזיה",
+    "pmi": 0.7178407426811118,
+    "cooc_count": 96,
+    "unigram_w1": 24315,
+    "unigram_w2": 26368,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "טלוויזיה",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 21314,
+    "unigram_w2": 26368,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "טלוויזיה",
+    "pmi": 0.0,
+    "cooc_count": 1882,
+    "unigram_w1": 4657206,
+    "unigram_w2": 26368,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "הסדרה",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21314,
+    "unigram_w2": 24315,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "הסדרה",
+    "pmi": 0.0,
+    "cooc_count": 6604,
+    "unigram_w1": 4657206,
+    "unigram_w2": 24315,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 3573,
+    "unigram_w1": 21314,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 529,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  },
+  {
+    "w1": "את",
+    "w2": "שידרה",
+    "pmi": 0.0,
+    "cooc_count": 194,
+    "unigram_w1": 4657206,
+    "unigram_w2": 688,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "את",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 444,
+    "unigram_w2": 4657206,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "w1": "ano",
+    "w2": "escola",
+    "pmi": 0.054322750755485386,
+    "cooc_count": 1803,
+    "unigram_w1": 276279,
+    "unigram_w2": 87467,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "escola",
+    "pmi": 0.0,
+    "cooc_count": 311,
+    "unigram_w1": 126332,
+    "unigram_w2": 87467,
+    "window_size": 10
+  },
+  {
+    "w1": "escola",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 4874,
+    "unigram_w1": 87467,
+    "unigram_w2": 1695525,
+    "window_size": 10
+  },
+  {
+    "w1": "academia",
+    "w2": "escola",
+    "pmi": 0.2545297679973508,
+    "cooc_count": 144,
+    "unigram_w1": 18062,
+    "unigram_w2": 87467,
+    "window_size": 10
+  },
+  {
+    "w1": "escola",
+    "w2": "tornou",
+    "pmi": 0.0,
+    "cooc_count": 107,
+    "unigram_w1": 87467,
+    "unigram_w2": 28069,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "ano",
+    "pmi": 0.6949891312019837,
+    "cooc_count": 4942,
+    "unigram_w1": 126332,
+    "unigram_w2": 276279,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 13873,
+    "unigram_w1": 276279,
+    "unigram_w2": 1695525,
+    "window_size": 10
+  },
+  {
+    "w1": "academia",
+    "w2": "ano",
+    "pmi": 0.0,
+    "cooc_count": 165,
+    "unigram_w1": 18062,
+    "unigram_w2": 276279,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "tornou",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 276279,
+    "unigram_w2": 28069,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 3154,
+    "unigram_w1": 126332,
+    "unigram_w2": 1695525,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "academia",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 126332,
+    "unigram_w2": 18062,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "tornou",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 126332,
+    "unigram_w2": 28069,
+    "window_size": 10
+  },
+  {
+    "w1": "academia",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 784,
+    "unigram_w1": 18062,
+    "unigram_w2": 1695525,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "tornou",
+    "pmi": 1.9792923110655107,
+    "cooc_count": 24341,
+    "unigram_w1": 1695525,
+    "unigram_w2": 28069,
+    "window_size": 10
+  },
+  {
+    "w1": "academia",
+    "w2": "tornou",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 18062,
+    "unigram_w2": 28069,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "w1": "年",
+    "w2": "新西兰",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 982471,
+    "unigram_w2": 5256,
+    "window_size": 10
+  },
+  {
+    "w1": "政党",
+    "w2": "新西兰",
+    "pmi": 1.6957929185646674,
+    "cooc_count": 8,
+    "unigram_w1": 4064,
+    "unigram_w2": 5256,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "新西兰",
+    "pmi": 0.0,
+    "cooc_count": 324,
+    "unigram_w1": 2335068,
+    "unigram_w2": 5256,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "新西兰",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 754775,
+    "unigram_w2": 5256,
+    "window_size": 10
+  },
+  {
+    "w1": "取得",
+    "w2": "新西兰",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 52324,
+    "unigram_w2": 5256,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "新西兰",
+    "pmi": 0.0,
+    "cooc_count": 593,
+    "unigram_w1": 2356497,
+    "unigram_w2": 5256,
+    "window_size": 10
+  },
+  {
+    "w1": "新西兰",
+    "w2": "胜利",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5256,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "海伦",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 982471,
+    "unigram_w2": 724,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "海伦",
+    "pmi": 0.0408475088018501,
+    "cooc_count": 121,
+    "unigram_w1": 2335068,
+    "unigram_w2": 724,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "海伦",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 754775,
+    "unigram_w2": 724,
+    "window_size": 10
+  },
+  {
+    "w1": "克拉克",
+    "w2": "海伦",
+    "pmi": 5.257372981090541,
+    "cooc_count": 7,
+    "unigram_w1": 733,
+    "unigram_w2": 724,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "海伦",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 2356497,
+    "unigram_w2": 724,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "领导",
+    "pmi": 0.0,
+    "cooc_count": 1560,
+    "unigram_w1": 982471,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "政党",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 982471,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 71273,
+    "unigram_w1": 2335068,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "大选",
+    "w2": "年",
+    "pmi": 1.0273669444268787,
+    "cooc_count": 1358,
+    "unigram_w1": 7201,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 684,
+    "unigram_w1": 57949,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "工党",
+    "w2": "年",
+    "pmi": 0.0557097139719055,
+    "cooc_count": 177,
+    "unigram_w1": 2480,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2760,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 26958,
+    "unigram_w1": 754775,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "取得",
+    "w2": "年",
+    "pmi": 0.00647372698632784,
+    "cooc_count": 3555,
+    "unigram_w1": 52324,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "克拉克",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 733,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 105644,
+    "unigram_w1": 2356497,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "胜利",
+    "pmi": 0.0,
+    "cooc_count": 760,
+    "unigram_w1": 982471,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "政党",
+    "w2": "领导",
+    "pmi": 0.5661932563237371,
+    "cooc_count": 31,
+    "unigram_w1": 4064,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "领导",
+    "pmi": 0.0,
+    "cooc_count": 6183,
+    "unigram_w1": 2335068,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "大选",
+    "w2": "领导",
+    "pmi": 2.902275275569193,
+    "cooc_count": 568,
+    "unigram_w1": 7201,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "领导",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 57949,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "工党",
+    "w2": "领导",
+    "pmi": 2.963653281639199,
+    "cooc_count": 208,
+    "unigram_w1": 2480,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "领导",
+    "pmi": 0.0,
+    "cooc_count": 1767,
+    "unigram_w1": 754775,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "取得",
+    "w2": "领导",
+    "pmi": 0.6476563332912809,
+    "cooc_count": 433,
+    "unigram_w1": 52324,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "领导",
+    "pmi": 0.0,
+    "cooc_count": 9268,
+    "unigram_w1": 2356497,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "胜利",
+    "w2": "领导",
+    "pmi": 0.3714867543425931,
+    "cooc_count": 94,
+    "unigram_w1": 14972,
+    "unigram_w2": 63024,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "政党",
+    "pmi": 0.0,
+    "cooc_count": 214,
+    "unigram_w1": 2335068,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "大选",
+    "w2": "政党",
+    "pmi": 2.074090475040192,
+    "cooc_count": 16,
+    "unigram_w1": 7201,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "政党",
+    "pmi": 1.737946921734704,
+    "cooc_count": 92,
+    "unigram_w1": 57949,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "工党",
+    "w2": "政党",
+    "pmi": 2.446904639570086,
+    "cooc_count": 8,
+    "unigram_w1": 2480,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "政党",
+    "pmi": 0.0,
+    "cooc_count": 204,
+    "unigram_w1": 754775,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "政党",
+    "pmi": 0.016574244906869148,
+    "cooc_count": 669,
+    "unigram_w1": 2356497,
+    "unigram_w2": 4064,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "大选",
+    "pmi": 0.0,
+    "cooc_count": 821,
+    "unigram_w1": 2335068,
+    "unigram_w2": 7201,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 2188,
+    "unigram_w1": 2335068,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "工党",
+    "pmi": 0.0,
+    "cooc_count": 250,
+    "unigram_w1": 2335068,
+    "unigram_w2": 2480,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 2760,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "了",
+    "pmi": 0.0,
+    "cooc_count": 68170,
+    "unigram_w1": 754775,
+    "unigram_w2": 2335068,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "取得",
+    "pmi": 0.5278158824663676,
+    "cooc_count": 14231,
+    "unigram_w1": 2335068,
+    "unigram_w2": 52324,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "克拉克",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 2335068,
+    "unigram_w2": 733,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 250563,
+    "unigram_w1": 2335068,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "了",
+    "w2": "胜利",
+    "pmi": 0.0,
+    "cooc_count": 2152,
+    "unigram_w1": 2335068,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "大选",
+    "w2": "工党",
+    "pmi": 6.615427267573831,
+    "cooc_count": 916,
+    "unigram_w1": 7201,
+    "unigram_w2": 2480,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "大选",
+    "pmi": 1.154747825056603,
+    "cooc_count": 1185,
+    "unigram_w1": 754775,
+    "unigram_w2": 7201,
+    "window_size": 10
+  },
+  {
+    "w1": "取得",
+    "w2": "大选",
+    "pmi": 1.6806882393813032,
+    "cooc_count": 139,
+    "unigram_w1": 52324,
+    "unigram_w2": 7201,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "大选",
+    "pmi": 0.7013340383281612,
+    "cooc_count": 2351,
+    "unigram_w1": 2356497,
+    "unigram_w2": 7201,
+    "window_size": 10
+  },
+  {
+    "w1": "大选",
+    "w2": "胜利",
+    "pmi": 0.19471225037062878,
+    "cooc_count": 9,
+    "unigram_w1": 7201,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "哪个",
+    "pmi": 0.0,
+    "cooc_count": 560,
+    "unigram_w1": 754775,
+    "unigram_w2": 57949,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 5217,
+    "unigram_w1": 57949,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "哪个",
+    "w2": "胜利",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 57949,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "工党",
+    "pmi": 1.0990484860420415,
+    "cooc_count": 386,
+    "unigram_w1": 754775,
+    "unigram_w2": 2480,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "工党",
+    "pmi": 0.29255789503971497,
+    "cooc_count": 538,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2480,
+    "window_size": 10
+  },
+  {
+    "w1": "1999",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2760,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "取得",
+    "pmi": 0.10238009024104087,
+    "cooc_count": 3006,
+    "unigram_w1": 754775,
+    "unigram_w2": 52324,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "克拉克",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 754775,
+    "unigram_w2": 733,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "在",
+    "pmi": 0.5821407185855212,
+    "cooc_count": 218732,
+    "unigram_w1": 754775,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "胜利",
+    "pmi": 0.0,
+    "cooc_count": 634,
+    "unigram_w1": 754775,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "克拉克",
+    "w2": "取得",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 733,
+    "unigram_w2": 52324,
+    "window_size": 10
+  },
+  {
+    "w1": "取得",
+    "w2": "在",
+    "pmi": 0.008136114174987911,
+    "cooc_count": 8541,
+    "unigram_w1": 52324,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "取得",
+    "w2": "胜利",
+    "pmi": 2.3510781526215996,
+    "cooc_count": 565,
+    "unigram_w1": 52324,
+    "unigram_w2": 14972,
+    "window_size": 10
+  },
+  {
+    "w1": "克拉克",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 733,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "胜利",
+    "pmi": 0.0,
+    "cooc_count": 1906,
+    "unigram_w1": 2356497,
+    "unigram_w2": 14972,
+    "window_size": 10
+  }
+]

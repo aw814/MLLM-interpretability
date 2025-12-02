@@ -1,0 +1,1001 @@
+[
+  {
+    "w1": "た",
+    "w2": "制定",
+    "pmi": 0.14106058087957035,
+    "cooc_count": 1813,
+    "unigram_w1": 26828306,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "年",
+    "pmi": 1.3862535410202868,
+    "cooc_count": 1054,
+    "unigram_w1": 7579,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "制定",
+    "pmi": 1.5337599481611899,
+    "cooc_count": 1769,
+    "unigram_w1": 6502519,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "制定",
+    "pmi": 0.0,
+    "cooc_count": 1344,
+    "unigram_w1": 33509041,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "制定",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 11759829,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "統一",
+    "pmi": 1.9549604460810424,
+    "cooc_count": 7,
+    "unigram_w1": 7579,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "制定",
+    "pmi": 0.0,
+    "cooc_count": 1318,
+    "unigram_w1": 29738357,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "制定",
+    "pmi": 1.08897151875261,
+    "cooc_count": 1469,
+    "unigram_w1": 8424512,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "制定",
+    "pmi": 0.27182322638742606,
+    "cooc_count": 288,
+    "unigram_w1": 3739370,
+    "unigram_w2": 7579,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "法",
+    "pmi": 2.8768733206938593,
+    "cooc_count": 541,
+    "unigram_w1": 7579,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "制定",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 7579,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 529333,
+    "unigram_w1": 26828306,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "借主",
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 24445,
+    "unigram_w1": 173724,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "た",
+    "pmi": 0.05107900159287495,
+    "cooc_count": 1421638,
+    "unigram_w1": 6502519,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 5141625,
+    "unigram_w1": 26828306,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 2096552,
+    "unigram_w1": 11759829,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "統一",
+    "pmi": 0.008535633427033886,
+    "cooc_count": 3538,
+    "unigram_w1": 26828306,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 5185501,
+    "unigram_w1": 26828306,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "れ",
+    "pmi": 0.2927394791686922,
+    "cooc_count": 2345330,
+    "unigram_w1": 26828306,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "まし",
+    "pmi": 1.4162664734921657,
+    "cooc_count": 3201837,
+    "unigram_w1": 26828306,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 53191,
+    "unigram_w1": 26828306,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 133237,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 9977,
+    "unigram_w1": 26828306,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1840,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "賃貸人",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 26828306,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "借主",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 1390,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 2136,
+    "unigram_w1": 173724,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 205403,
+    "unigram_w1": 6502519,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 694334,
+    "unigram_w1": 33509041,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 199059,
+    "unigram_w1": 11759829,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 582,
+    "unigram_w1": 4490096,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 390828,
+    "unigram_w1": 29738357,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 149784,
+    "unigram_w1": 8424512,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 79067,
+    "unigram_w1": 3739370,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 12738,
+    "unigram_w1": 4490096,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 25704,
+    "unigram_w1": 4490096,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 2571,
+    "unigram_w1": 122759,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 1840,
+    "unigram_w2": 4490096,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "賃貸人",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 4490096,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "借主",
+    "pmi": 0.7421003584674325,
+    "cooc_count": 147,
+    "unigram_w1": 6502519,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "借主",
+    "pmi": 0.08585174083063478,
+    "cooc_count": 393,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "借主",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "借主",
+    "pmi": 0.0,
+    "cooc_count": 267,
+    "unigram_w1": 29738357,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "借主",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 8424512,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "借主",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 3739370,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "借主",
+    "w2": "法",
+    "pmi": 0.07129102876272475,
+    "cooc_count": 6,
+    "unigram_w1": 1390,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "借主",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 1390,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "借主",
+    "pmi": 2.554602951274076,
+    "cooc_count": 17,
+    "unigram_w1": 122759,
+    "unigram_w2": 1390,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "さ",
+    "pmi": 0.0,
+    "cooc_count": 3930,
+    "unigram_w1": 173724,
+    "unigram_w2": 6502519,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "は",
+    "pmi": 0.07206245596317143,
+    "cooc_count": 48445,
+    "unigram_w1": 173724,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "か",
+    "pmi": 1.2518937103911443,
+    "cooc_count": 55320,
+    "unigram_w1": 173724,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "統一",
+    "pmi": 0.13506026691719633,
+    "cooc_count": 26,
+    "unigram_w1": 173724,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 25844,
+    "unigram_w1": 173724,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 3302,
+    "unigram_w1": 173724,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 4358,
+    "unigram_w1": 173724,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 108,
+    "unigram_w1": 173724,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 366,
+    "unigram_w1": 173724,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "いつ",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 173724,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 1088389,
+    "unigram_w1": 6502519,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "さ",
+    "pmi": 0.0,
+    "cooc_count": 389988,
+    "unigram_w1": 11759829,
+    "unigram_w2": 6502519,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "統一",
+    "pmi": 1.2694835369322899,
+    "cooc_count": 3026,
+    "unigram_w1": 6502519,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 1041584,
+    "unigram_w1": 6502519,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "れ",
+    "pmi": 1.8231420269817038,
+    "cooc_count": 2626260,
+    "unigram_w1": 6502519,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 155709,
+    "unigram_w1": 6502519,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 19618,
+    "unigram_w1": 6502519,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 60298,
+    "unigram_w1": 6502519,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 2308,
+    "unigram_w1": 6502519,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "さ",
+    "w2": "賃貸人",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 6502519,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 3993,
+    "unigram_w1": 33509041,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 6338228,
+    "unigram_w1": 29738357,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1480352,
+    "unigram_w1": 33509041,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 741657,
+    "unigram_w1": 33509041,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 102974,
+    "unigram_w1": 33509041,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 162761,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 25072,
+    "unigram_w1": 33509041,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 1840,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "賃貸人",
+    "pmi": 0.5128531308854921,
+    "cooc_count": 104,
+    "unigram_w1": 33509041,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 584,
+    "unigram_w1": 11759829,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "と",
+    "pmi": 0.09823529738292358,
+    "cooc_count": 2987527,
+    "unigram_w1": 11759829,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "れ",
+    "pmi": 0.13379328865606396,
+    "cooc_count": 876965,
+    "unigram_w1": 11759829,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 141376,
+    "unigram_w1": 11759829,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 27945,
+    "unigram_w1": 11759829,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 49634,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 2625,
+    "unigram_w1": 11759829,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "か",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1840,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "賃貸人",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 11759829,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 3102,
+    "unigram_w1": 29738357,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "統一",
+    "pmi": 0.8163716110686603,
+    "cooc_count": 2492,
+    "unigram_w1": 8424512,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 403,
+    "unigram_w1": 3739370,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 519092,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "用",
+    "w2": "統一",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 1319246,
+    "unigram_w2": 16886,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 1571603,
+    "unigram_w1": 29738357,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "まし",
+    "pmi": 0.0,
+    "cooc_count": 643345,
+    "unigram_w1": 29738357,
+    "unigram_w2": 3739370,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 82168,
+    "unigram_w1": 29738357,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 135262,
+    "unigram_w1": 29738357,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 13668,
+    "unigram_w1": 29738357,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 1840,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "賃貸人",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 29738357,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "れ",
+    "pmi": 0.0,
+    "cooc_count": 215605,
+    "unigram_w1": 3739370,
+    "unigram_w2": 8424512,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 29217,
+    "unigram_w1": 8424512,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 65472,
+    "unigram_w1": 8424512,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 2258,
+    "unigram_w1": 8424512,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "れ",
+    "w2": "賃貸人",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 8424512,
+    "unigram_w2": 240,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 2301,
+    "unigram_w1": 3739370,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 10308,
+    "unigram_w1": 3739370,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "まし",
+    "w2": "住宅",
+    "pmi": 0.0,
+    "cooc_count": 1497,
+    "unigram_w1": 3739370,
+    "unigram_w2": 122759,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "用",
+    "pmi": 0.8939512306832995,
+    "cooc_count": 12964,
+    "unigram_w1": 519092,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 122759,
+    "unigram_w2": 519092,
+    "window_size": 10
+  },
+  {
+    "w1": "住宅",
+    "w2": "用",
+    "pmi": 1.5946275875835791,
+    "cooc_count": 6178,
+    "unigram_w1": 122759,
+    "unigram_w2": 1319246,
+    "window_size": 10
+  }
+]

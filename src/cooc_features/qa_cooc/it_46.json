@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "pratiche",
+    "w2": "quali",
+    "pmi": 0.5603118710542315,
+    "cooc_count": 182,
+    "unigram_w1": 15397,
+    "unigram_w2": 141698,
+    "window_size": 10
+  },
+  {
+    "w1": "pratiche",
+    "w2": "religiose",
+    "pmi": 2.761563013632485,
+    "cooc_count": 44,
+    "unigram_w1": 15397,
+    "unigram_w2": 3791,
+    "window_size": 10
+  },
+  {
+    "w1": "quali",
+    "w2": "religiose",
+    "pmi": 0.2235839354907466,
+    "cooc_count": 32,
+    "unigram_w1": 141698,
+    "unigram_w2": 3791,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "w1": "university",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 697,
+    "unigram_w1": 138450,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 11629,
+    "unigram_w1": 2460921,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "university",
+    "pmi": 0.2947523405483762,
+    "cooc_count": 15,
+    "unigram_w1": 1694,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 183,
+    "unigram_w1": 89717,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "university",
+    "pmi": 0.8949237597053082,
+    "cooc_count": 127,
+    "unigram_w1": 7870,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 155330,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 9841,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "university",
+    "pmi": 0.5684426954173,
+    "cooc_count": 563,
+    "unigram_w1": 48358,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 3418,
+    "unigram_w2": 138450,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 0.15536321277208362,
+    "cooc_count": 85614,
+    "unigram_w1": 2460921,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 1694,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "season",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1349,
+    "unigram_w1": 89717,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 7870,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 2525,
+    "unigram_w1": 155330,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 9841,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 504,
+    "unigram_w1": 48358,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 3418,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 118,
+    "unigram_w1": 1694,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "season",
+    "pmi": 0.0,
+    "cooc_count": 8984,
+    "unigram_w1": 2460921,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "s",
+    "pmi": 0.01670492276614134,
+    "cooc_count": 938,
+    "unigram_w1": 7870,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 14189,
+    "unigram_w1": 155330,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "halfback",
+    "w2": "s",
+    "pmi": 1.1023144403432046,
+    "cooc_count": 6,
+    "unigram_w1": 17,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "s",
+    "pmi": 0.010790071182817714,
+    "cooc_count": 1166,
+    "unigram_w1": 9841,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 3885,
+    "unigram_w1": 48358,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "s",
+    "pmi": 0.2985265910541496,
+    "cooc_count": 540,
+    "unigram_w1": 3418,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "season",
+    "pmi": 0.9109228752270129,
+    "cooc_count": 18,
+    "unigram_w1": 1694,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "detroit",
+    "pmi": 1.8404476877537157,
+    "cooc_count": 4,
+    "unigram_w1": 1694,
+    "unigram_w2": 7870,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1694,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "football",
+    "pmi": 1.2776370502799763,
+    "cooc_count": 14,
+    "unigram_w1": 1694,
+    "unigram_w2": 48358,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "season",
+    "pmi": 1.3749347793531526,
+    "cooc_count": 133,
+    "unigram_w1": 7870,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "season",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 155330,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "season",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 9841,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "season",
+    "pmi": 1.577766824477512,
+    "cooc_count": 1001,
+    "unigram_w1": 48358,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "season",
+    "pmi": 1.1252506186376314,
+    "cooc_count": 45,
+    "unigram_w1": 3418,
+    "unigram_w2": 89717,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 7870,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "detroit",
+    "w2": "football",
+    "pmi": 1.5214548622618664,
+    "cooc_count": 83,
+    "unigram_w1": 7870,
+    "unigram_w2": 48358,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 9841,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 48358,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "name",
+    "pmi": 0.43325816072943124,
+    "cooc_count": 39,
+    "unigram_w1": 3418,
+    "unigram_w2": 155330,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "football",
+    "pmi": 1.4538259634811148,
+    "cooc_count": 97,
+    "unigram_w1": 9841,
+    "unigram_w2": 48358,
+    "window_size": 10
+  }
+]

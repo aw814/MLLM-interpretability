@@ -1,0 +1,659 @@
+[
+  {
+    "w1": "a",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 294701,
+    "unigram_w1": 2730698,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "capital",
+    "pmi": 0.0,
+    "cooc_count": 1852,
+    "unigram_w1": 2730698,
+    "unigram_w2": 24567,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "ce",
+    "pmi": 0.0,
+    "cooc_count": 141762,
+    "unigram_w1": 2730698,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "qu",
+    "pmi": 0.003662331693886089,
+    "cooc_count": 142817,
+    "unigram_w1": 2730698,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 1481,
+    "unigram_w1": 14171,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "avec",
+    "pmi": 0.0,
+    "cooc_count": 87601,
+    "unigram_w1": 2730698,
+    "unigram_w2": 1447191,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "acheté",
+    "pmi": 0.2507490978158474,
+    "cooc_count": 2385,
+    "unigram_w1": 2730698,
+    "unigram_w2": 15073,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "australian",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 2730698,
+    "unigram_w2": 967,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "partenariat",
+    "pmi": 0.0,
+    "cooc_count": 1440,
+    "unigram_w1": 2730698,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 162330,
+    "unigram_w1": 2730698,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "archer",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 2730698,
+    "unigram_w2": 770,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 4087,
+    "unigram_w1": 2730698,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "geographic",
+    "pmi": 0.4577013142228717,
+    "cooc_count": 130,
+    "unigram_w1": 2730698,
+    "unigram_w2": 668,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 4609,
+    "unigram_w1": 24567,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "ce",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 177715,
+    "unigram_w1": 1700444,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 108899,
+    "unigram_w1": 4842659,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 1458,
+    "unigram_w1": 14171,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 219088,
+    "unigram_w1": 1447191,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 1410,
+    "unigram_w1": 15073,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "d",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 967,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "partenariat",
+    "pmi": 0.0,
+    "cooc_count": 3584,
+    "unigram_w1": 4842659,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 456877,
+    "unigram_w1": 4842659,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "d",
+    "pmi": 0.005056541512068293,
+    "cooc_count": 169,
+    "unigram_w1": 770,
+    "unigram_w2": 4842659,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 8226,
+    "unigram_w1": 4842659,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "d",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 4842659,
+    "unigram_w2": 668,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "ce",
+    "pmi": 0.0,
+    "cooc_count": 740,
+    "unigram_w1": 24567,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 403,
+    "unigram_w1": 24567,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "capital",
+    "pmi": 2.0585949450500425,
+    "cooc_count": 123,
+    "unigram_w1": 14171,
+    "unigram_w2": 24567,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "capital",
+    "pmi": 0.0,
+    "cooc_count": 885,
+    "unigram_w1": 1447191,
+    "unigram_w2": 24567,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "capital",
+    "pmi": 3.2270018620535303,
+    "cooc_count": 27,
+    "unigram_w1": 967,
+    "unigram_w2": 24567,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "partenariat",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 24567,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 2939,
+    "unigram_w1": 24567,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "capital",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 24567,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "ce",
+    "w2": "qu",
+    "pmi": 0.5750645680709593,
+    "cooc_count": 157480,
+    "unigram_w1": 1700444,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "ce",
+    "pmi": 0.0,
+    "cooc_count": 371,
+    "unigram_w1": 14171,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "ce",
+    "pmi": 0.0,
+    "cooc_count": 68783,
+    "unigram_w1": 1447191,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "ce",
+    "pmi": 0.027489055156458733,
+    "cooc_count": 1188,
+    "unigram_w1": 15073,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "ce",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 967,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "ce",
+    "w2": "partenariat",
+    "pmi": 0.07560049753331415,
+    "cooc_count": 1755,
+    "unigram_w1": 1700444,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "ce",
+    "w2": "est",
+    "pmi": 0.35744764829819115,
+    "cooc_count": 399134,
+    "unigram_w1": 1700444,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "ce",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 770,
+    "unigram_w2": 1700444,
+    "window_size": 10
+  },
+  {
+    "w1": "ce",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 1639,
+    "unigram_w1": 1700444,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "ce",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 1700444,
+    "unigram_w2": 668,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 137,
+    "unigram_w1": 14171,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 43792,
+    "unigram_w1": 1447191,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 417,
+    "unigram_w1": 15073,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 967,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "partenariat",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 172,
+    "unigram_w1": 21221,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "qu",
+    "pmi": 0.18632458302556038,
+    "cooc_count": 228580,
+    "unigram_w1": 3640850,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 770,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "direction",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 902,
+    "unigram_w1": 49935,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "geographic",
+    "w2": "qu",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 668,
+    "unigram_w2": 1155579,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "avec",
+    "pmi": 0.0,
+    "cooc_count": 427,
+    "unigram_w1": 14171,
+    "unigram_w2": 1447191,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "acheté",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 14171,
+    "unigram_w2": 15073,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "australian",
+    "pmi": 2.7839565451566743,
+    "cooc_count": 10,
+    "unigram_w1": 14171,
+    "unigram_w2": 967,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "partenariat",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 14171,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 778,
+    "unigram_w1": 14171,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 14171,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "avec",
+    "pmi": 0.0,
+    "cooc_count": 647,
+    "unigram_w1": 15073,
+    "unigram_w2": 1447191,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "partenariat",
+    "pmi": 2.1632122641581844,
+    "cooc_count": 12047,
+    "unigram_w1": 1447191,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 137156,
+    "unigram_w1": 1447191,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "avec",
+    "pmi": 0.09033052568712249,
+    "cooc_count": 55,
+    "unigram_w1": 770,
+    "unigram_w2": 1447191,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 2351,
+    "unigram_w1": 1447191,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "avec",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 1447191,
+    "unigram_w2": 668,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 1281,
+    "unigram_w1": 15073,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "acheté",
+    "w2": "direction",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 15073,
+    "unigram_w2": 49935,
+    "window_size": 10
+  },
+  {
+    "w1": "australian",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 967,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "partenariat",
+    "pmi": 0.0,
+    "cooc_count": 1387,
+    "unigram_w1": 3640850,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "direction",
+    "w2": "partenariat",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 49935,
+    "unigram_w2": 21221,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 770,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "direction",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 3705,
+    "unigram_w1": 49935,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "geographic",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 3640850,
+    "unigram_w2": 668,
+    "window_size": 10
+  },
+  {
+    "w1": "archer",
+    "w2": "direction",
+    "pmi": 2.157705097018039,
+    "cooc_count": 15,
+    "unigram_w1": 770,
+    "unigram_w2": 49935,
+    "window_size": 10
+  }
+]

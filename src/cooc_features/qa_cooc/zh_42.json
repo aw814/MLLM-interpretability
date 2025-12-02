@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "什么",
+    "w2": "是",
+    "pmi": 0.937328771102239,
+    "cooc_count": 118150,
+    "unigram_w1": 303848,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "软件",
+    "pmi": 0.0,
+    "cooc_count": 14004,
+    "unigram_w1": 2216630,
+    "unigram_w2": 172227,
+    "window_size": 10
+  },
+  {
+    "w1": "原名",
+    "w2": "是",
+    "pmi": 0.10457433172739256,
+    "cooc_count": 221,
+    "unigram_w1": 1307,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "软件",
+    "pmi": 0.843403207852462,
+    "cooc_count": 8357,
+    "unigram_w1": 303848,
+    "unigram_w2": 172227,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "软件",
+    "pmi": 0.0,
+    "cooc_count": 62650,
+    "unigram_w1": 10165533,
+    "unigram_w2": 172227,
+    "window_size": 10
+  },
+  {
+    "w1": "isis",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 85,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "原名",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 424,
+    "unigram_w1": 1307,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  }
+]

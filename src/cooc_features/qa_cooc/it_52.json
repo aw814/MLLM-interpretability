@@ -1,0 +1,308 @@
+[
+  {
+    "w1": "massa",
+    "w2": "nell",
+    "pmi": 0.0,
+    "cooc_count": 176,
+    "unigram_w1": 21712,
+    "unigram_w2": 257876,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "raggio",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21712,
+    "unigram_w2": 9494,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 21712,
+    "unigram_w2": 139483,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "viene",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 21712,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "massa",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 3171,
+    "unigram_w1": 21712,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "massa",
+    "pmi": 0.0,
+    "cooc_count": 895,
+    "unigram_w1": 1080433,
+    "unigram_w2": 21712,
+    "window_size": 10
+  },
+  {
+    "w1": "indicata",
+    "w2": "massa",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 7207,
+    "unigram_w2": 21712,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "planck",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 4422753,
+    "unigram_w2": 249,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "planck",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1080433,
+    "unigram_w2": 249,
+    "window_size": 10
+  },
+  {
+    "w1": "nell",
+    "w2": "raggio",
+    "pmi": 2.280697381997461,
+    "cooc_count": 1141,
+    "unigram_w1": 257876,
+    "unigram_w2": 9494,
+    "window_size": 10
+  },
+  {
+    "w1": "nell",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 469,
+    "unigram_w1": 257876,
+    "unigram_w2": 139483,
+    "window_size": 10
+  },
+  {
+    "w1": "nell",
+    "w2": "viene",
+    "pmi": 0.0,
+    "cooc_count": 1922,
+    "unigram_w1": 257876,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "equazione",
+    "w2": "nell",
+    "pmi": 1.4843635463995848,
+    "cooc_count": 111,
+    "unigram_w1": 2048,
+    "unigram_w2": 257876,
+    "window_size": 10
+  },
+  {
+    "w1": "nell",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 24975,
+    "unigram_w1": 257876,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "nell",
+    "pmi": 0.0,
+    "cooc_count": 9096,
+    "unigram_w1": 1080433,
+    "unigram_w2": 257876,
+    "window_size": 10
+  },
+  {
+    "w1": "indicata",
+    "w2": "nell",
+    "pmi": 0.5980486413066711,
+    "cooc_count": 161,
+    "unigram_w1": 7207,
+    "unigram_w2": 257876,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "raggio",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 139483,
+    "unigram_w2": 9494,
+    "window_size": 10
+  },
+  {
+    "w1": "raggio",
+    "w2": "viene",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 9494,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "raggio",
+    "pmi": 0.0,
+    "cooc_count": 616,
+    "unigram_w1": 4422753,
+    "unigram_w2": 9494,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "raggio",
+    "pmi": 0.0,
+    "cooc_count": 168,
+    "unigram_w1": 1080433,
+    "unigram_w2": 9494,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "viene",
+    "pmi": 0.0,
+    "cooc_count": 176,
+    "unigram_w1": 139483,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "equazione",
+    "w2": "p",
+    "pmi": 0.8233566687679474,
+    "cooc_count": 31,
+    "unigram_w1": 2048,
+    "unigram_w2": 139483,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 9154,
+    "unigram_w1": 139483,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 1861,
+    "unigram_w1": 1080433,
+    "unigram_w2": 139483,
+    "window_size": 10
+  },
+  {
+    "w1": "indicata",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 7207,
+    "unigram_w2": 139483,
+    "window_size": 10
+  },
+  {
+    "w1": "equazione",
+    "w2": "viene",
+    "pmi": 0.7532251591877672,
+    "cooc_count": 33,
+    "unigram_w1": 2048,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "viene",
+    "pmi": 0.0,
+    "cooc_count": 19733,
+    "unigram_w1": 4422753,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "viene",
+    "pmi": 0.23281938976714117,
+    "cooc_count": 10346,
+    "unigram_w1": 1080433,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "indicata",
+    "w2": "viene",
+    "pmi": 1.5319180176837646,
+    "cooc_count": 253,
+    "unigram_w1": 7207,
+    "unigram_w2": 159269,
+    "window_size": 10
+  },
+  {
+    "w1": "equazione",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 2048,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "equazione",
+    "pmi": 0.08712715698732466,
+    "cooc_count": 115,
+    "unigram_w1": 1080433,
+    "unigram_w2": 2048,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 148075,
+    "unigram_w1": 1080433,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "indicata",
+    "w2": "per",
+    "pmi": 0.20401195153141335,
+    "cooc_count": 1862,
+    "unigram_w1": 7207,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "come",
+    "w2": "indicata",
+    "pmi": 0.6365138468936222,
+    "cooc_count": 701,
+    "unigram_w1": 1080433,
+    "unigram_w2": 7207,
+    "window_size": 10
+  }
+]

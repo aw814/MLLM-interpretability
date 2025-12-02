@@ -1,0 +1,803 @@
+[
+  {
+    "w1": "gaya",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 58078,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "gaya",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 4818,
+    "unigram_w2": 58078,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "kota",
+    "pmi": 0.0,
+    "cooc_count": 270,
+    "unigram_w1": 58078,
+    "unigram_w2": 277214,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "kupu",
+    "pmi": 1.1504306115023981,
+    "cooc_count": 93,
+    "unigram_w1": 58078,
+    "unigram_w2": 7809,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "gaya",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 24145,
+    "unigram_w2": 58078,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "gaya",
+    "pmi": 0.0,
+    "cooc_count": 159,
+    "unigram_w1": 107789,
+    "unigram_w2": 58078,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 159,
+    "unigram_w1": 58078,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "meter",
+    "pmi": 0.5225489286619074,
+    "cooc_count": 243,
+    "unigram_w1": 58078,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "manakah",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 58078,
+    "unigram_w2": 2867,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 105,
+    "unigram_w1": 58078,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "gaya",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2746,
+    "unigram_w2": 58078,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "putra",
+    "pmi": 0.038345651623960905,
+    "cooc_count": 75,
+    "unigram_w1": 58078,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "gaya",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 58078,
+    "unigram_w2": 9103,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "musim",
+    "pmi": 0.041777956576708124,
+    "cooc_count": 28,
+    "unigram_w1": 4818,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 341,
+    "unigram_w1": 277214,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "musim",
+    "pmi": 1.585539049753289,
+    "cooc_count": 657,
+    "unigram_w1": 24145,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 141,
+    "unigram_w1": 107789,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 85881,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 38230,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2867,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "olimpiade",
+    "pmi": 2.6361353908191845,
+    "cooc_count": 448,
+    "unigram_w1": 85881,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "panas",
+    "pmi": 3.6578010653025865,
+    "cooc_count": 12648,
+    "unigram_w1": 85881,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "musim",
+    "pmi": 0.9606664973623404,
+    "cooc_count": 40,
+    "unigram_w1": 2746,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "musim",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 13351,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "musim",
+    "w2": "putra",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 85881,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "musim",
+    "pmi": 1.41086640077235,
+    "cooc_count": 208,
+    "unigram_w1": 9103,
+    "unigram_w2": 85881,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "kota",
+    "pmi": 0.7138960249818393,
+    "cooc_count": 177,
+    "unigram_w1": 4818,
+    "unigram_w2": 277214,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "angeles",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 107789,
+    "unigram_w2": 4818,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "meter",
+    "pmi": 0.291504238030386,
+    "cooc_count": 16,
+    "unigram_w1": 4818,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 4818,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "angeles",
+    "w2": "los",
+    "pmi": 7.31470530612071,
+    "cooc_count": 4276,
+    "unigram_w1": 4818,
+    "unigram_w2": 9103,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "kupu",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 277214,
+    "unigram_w2": 7809,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "kota",
+    "pmi": 0.0,
+    "cooc_count": 125,
+    "unigram_w1": 24145,
+    "unigram_w2": 277214,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "kota",
+    "pmi": 0.3163868551263269,
+    "cooc_count": 2661,
+    "unigram_w1": 107789,
+    "unigram_w2": 277214,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 1443,
+    "unigram_w1": 277214,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 283,
+    "unigram_w1": 277214,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "manakah",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 277214,
+    "unigram_w2": 2867,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "olimpiade",
+    "pmi": 0.4654604783112861,
+    "cooc_count": 165,
+    "unigram_w1": 277214,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 403,
+    "unigram_w1": 277214,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "kota",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2746,
+    "unigram_w2": 277214,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "kota",
+    "pmi": 0.5682473634246894,
+    "cooc_count": 424,
+    "unigram_w1": 13351,
+    "unigram_w2": 277214,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "putra",
+    "pmi": 0.0,
+    "cooc_count": 251,
+    "unigram_w1": 277214,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "kota",
+    "w2": "los",
+    "pmi": 0.23903924677885588,
+    "cooc_count": 208,
+    "unigram_w1": 277214,
+    "unigram_w2": 9103,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "kupu",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 107789,
+    "unigram_w2": 7809,
+    "window_size": 10
+  },
+  {
+    "w1": "kupu",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 7809,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "kupu",
+    "w2": "meter",
+    "pmi": 0.46998470978789264,
+    "cooc_count": 31,
+    "unigram_w1": 7809,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "kupu",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 7809,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "final",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 107789,
+    "unigram_w2": 24145,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 24145,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 24145,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "olimpiade",
+    "pmi": 2.3851949348466883,
+    "cooc_count": 98,
+    "unigram_w1": 24145,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 24145,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "final",
+    "pmi": 0.948210406522417,
+    "cooc_count": 54,
+    "unigram_w1": 13351,
+    "unigram_w2": 24145,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "putra",
+    "pmi": 1.7747168859978997,
+    "cooc_count": 177,
+    "unigram_w1": 24145,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "final",
+    "w2": "los",
+    "pmi": 0.6003101568644309,
+    "cooc_count": 26,
+    "unigram_w1": 24145,
+    "unigram_w2": 9103,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 574,
+    "unigram_w1": 107789,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "meter",
+    "pmi": 1.7680170498872532,
+    "cooc_count": 1567,
+    "unigram_w1": 107789,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "manakah",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 107789,
+    "unigram_w2": 2867,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "olimpiade",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 107789,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 201,
+    "unigram_w1": 107789,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "1984",
+    "pmi": 0.9565970533219205,
+    "cooc_count": 50,
+    "unigram_w1": 107789,
+    "unigram_w2": 2746,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "diselenggarakan",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 107789,
+    "unigram_w2": 13351,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "putra",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 107789,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "100",
+    "w2": "los",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 107789,
+    "unigram_w2": 9103,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "nomor",
+    "pmi": 0.29926218193851245,
+    "cooc_count": 386,
+    "unigram_w1": 38230,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "manakah",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2867,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "nomor",
+    "w2": "olimpiade",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 115336,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "nomor",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 115336,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "nomor",
+    "pmi": 0.5322481143256372,
+    "cooc_count": 35,
+    "unigram_w1": 2746,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 13351,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "nomor",
+    "w2": "putra",
+    "pmi": 1.0237562821298365,
+    "cooc_count": 399,
+    "unigram_w1": 115336,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 38230,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "meter",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2746,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "meter",
+    "w2": "putra",
+    "pmi": 1.1018685553011618,
+    "cooc_count": 143,
+    "unigram_w1": 38230,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "meter",
+    "pmi": 0.2838677721222881,
+    "cooc_count": 30,
+    "unigram_w1": 9103,
+    "unigram_w2": 38230,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "manakah",
+    "pmi": 1.0824626637013215,
+    "cooc_count": 5,
+    "unigram_w1": 9103,
+    "unigram_w2": 2867,
+    "window_size": 10
+  },
+  {
+    "w1": "olimpiade",
+    "w2": "panas",
+    "pmi": 1.4896300898240993,
+    "cooc_count": 97,
+    "unigram_w1": 5758,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "olimpiade",
+    "pmi": 2.807372812212058,
+    "cooc_count": 17,
+    "unigram_w1": 2746,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "olimpiade",
+    "pmi": 2.003631399737888,
+    "cooc_count": 37,
+    "unigram_w1": 13351,
+    "unigram_w2": 5758,
+    "window_size": 10
+  },
+  {
+    "w1": "olimpiade",
+    "w2": "putra",
+    "pmi": 1.8606956770486867,
+    "cooc_count": 46,
+    "unigram_w1": 5758,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "panas",
+    "pmi": 0.5457357540610858,
+    "cooc_count": 18,
+    "unigram_w1": 2746,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "panas",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 13351,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "panas",
+    "w2": "putra",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 58521,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "panas",
+    "pmi": 0.19457489227091698,
+    "cooc_count": 42,
+    "unigram_w1": 9103,
+    "unigram_w2": 58521,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "diselenggarakan",
+    "pmi": 0.5194527330577591,
+    "cooc_count": 4,
+    "unigram_w1": 2746,
+    "unigram_w2": 13351,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "putra",
+    "pmi": 0.5642586346318514,
+    "cooc_count": 6,
+    "unigram_w1": 2746,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "1984",
+    "w2": "los",
+    "pmi": 1.713370208158894,
+    "cooc_count": 9,
+    "unigram_w1": 2746,
+    "unigram_w2": 9103,
+    "window_size": 10
+  },
+  {
+    "w1": "diselenggarakan",
+    "w2": "putra",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 13351,
+    "unigram_w2": 19149,
+    "window_size": 10
+  },
+  {
+    "w1": "los",
+    "w2": "putra",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 9103,
+    "unigram_w2": 19149,
+    "window_size": 10
+  }
+]

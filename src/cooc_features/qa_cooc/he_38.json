@@ -1,0 +1,110 @@
+[
+  {
+    "w1": "החוק",
+    "w2": "נוצר",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 71240,
+    "unigram_w2": 36650,
+    "window_size": 10
+  },
+  {
+    "w1": "האחיד",
+    "w2": "נוצר",
+    "pmi": 2.2687170502143394,
+    "cooc_count": 14,
+    "unigram_w1": 541,
+    "unigram_w2": 36650,
+    "window_size": 10
+  },
+  {
+    "w1": "לשכירות",
+    "w2": "נוצר",
+    "pmi": 1.1886364777533318,
+    "cooc_count": 5,
+    "unigram_w1": 569,
+    "unigram_w2": 36650,
+    "window_size": 10
+  },
+  {
+    "w1": "מתי",
+    "w2": "נוצר",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 42090,
+    "unigram_w2": 36650,
+    "window_size": 10
+  },
+  {
+    "w1": "האחיד",
+    "w2": "החוק",
+    "pmi": 1.5299680479718172,
+    "cooc_count": 13,
+    "unigram_w1": 541,
+    "unigram_w2": 71240,
+    "window_size": 10
+  },
+  {
+    "w1": "החוק",
+    "w2": "למגורים",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 71240,
+    "unigram_w2": 4195,
+    "window_size": 10
+  },
+  {
+    "w1": "החוק",
+    "w2": "לשכירות",
+    "pmi": 1.9102898087844218,
+    "cooc_count": 20,
+    "unigram_w1": 71240,
+    "unigram_w2": 569,
+    "window_size": 10
+  },
+  {
+    "w1": "החוק",
+    "w2": "מתי",
+    "pmi": 0.0,
+    "cooc_count": 134,
+    "unigram_w1": 71240,
+    "unigram_w2": 42090,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "החוק",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 3481,
+    "unigram_w2": 71240,
+    "window_size": 10
+  },
+  {
+    "w1": "למגורים",
+    "w2": "לשכירות",
+    "pmi": 3.3561565661668227,
+    "cooc_count": 5,
+    "unigram_w1": 4195,
+    "unigram_w2": 569,
+    "window_size": 10
+  },
+  {
+    "w1": "למגורים",
+    "w2": "מתי",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 4195,
+    "unigram_w2": 42090,
+    "window_size": 10
+  },
+  {
+    "w1": "1972",
+    "w2": "מתי",
+    "pmi": 0.02750262998267512,
+    "cooc_count": 11,
+    "unigram_w1": 3481,
+    "unigram_w2": 42090,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "w1": "détroit",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 958,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "lors",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 253,
+    "unigram_w1": 142580,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "demi",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 31578,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 31522,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 1942,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "université",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 108533,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 1100,
+    "unigram_w1": 108533,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 24838,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "nom",
+    "w2": "saison",
+    "pmi": 0.0,
+    "cooc_count": 123,
+    "unigram_w1": 108533,
+    "unigram_w2": 76558,
+    "window_size": 10
+  },
+  {
+    "w1": "lloyd",
+    "w2": "nom",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1233,
+    "unigram_w2": 108533,
+    "window_size": 10
+  },
+  {
+    "w1": "détroit",
+    "w2": "lors",
+    "pmi": 0.37924112413453287,
+    "cooc_count": 9,
+    "unigram_w1": 958,
+    "unigram_w2": 142580,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "détroit",
+    "pmi": 1.0775284388543374,
+    "cooc_count": 4,
+    "unigram_w1": 31522,
+    "unigram_w2": 958,
+    "window_size": 10
+  },
+  {
+    "w1": "détroit",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 958,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "demi",
+    "w2": "lors",
+    "pmi": 0.06654572372779956,
+    "cooc_count": 217,
+    "unigram_w1": 31578,
+    "unigram_w2": 142580,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "lors",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 31522,
+    "unigram_w2": 142580,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "lors",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1942,
+    "unigram_w2": 142580,
+    "window_size": 10
+  },
+  {
+    "w1": "lors",
+    "w2": "université",
+    "pmi": 0.0,
+    "cooc_count": 79,
+    "unigram_w1": 142580,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "lors",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 1670,
+    "unigram_w1": 142580,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "lors",
+    "pmi": 0.0,
+    "cooc_count": 146,
+    "unigram_w1": 24838,
+    "unigram_w2": 142580,
+    "window_size": 10
+  },
+  {
+    "w1": "lors",
+    "w2": "saison",
+    "pmi": 0.37474058924618847,
+    "cooc_count": 716,
+    "unigram_w1": 142580,
+    "unigram_w2": 76558,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "demi",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 31522,
+    "unigram_w2": 31578,
+    "window_size": 10
+  },
+  {
+    "w1": "demi",
+    "w2": "université",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 31578,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "brazil",
+    "w2": "demi",
+    "pmi": 2.441385947063923,
+    "cooc_count": 8,
+    "unigram_w1": 489,
+    "unigram_w2": 31578,
+    "window_size": 10
+  },
+  {
+    "w1": "demi",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 299,
+    "unigram_w1": 31578,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "demi",
+    "w2": "football",
+    "pmi": 0.9880537689515226,
+    "cooc_count": 95,
+    "unigram_w1": 31578,
+    "unigram_w2": 24838,
+    "window_size": 10
+  },
+  {
+    "w1": "demi",
+    "w2": "saison",
+    "pmi": 0.8299639102375749,
+    "cooc_count": 250,
+    "unigram_w1": 31578,
+    "unigram_w2": 76558,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "université",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 31522,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 234,
+    "unigram_w1": 31522,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "football",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 31522,
+    "unigram_w2": 24838,
+    "window_size": 10
+  },
+  {
+    "w1": "arrière",
+    "w2": "saison",
+    "pmi": 0.18547527642282755,
+    "cooc_count": 131,
+    "unigram_w1": 31522,
+    "unigram_w2": 76558,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "université",
+    "pmi": 0.790706070390486,
+    "cooc_count": 8,
+    "unigram_w1": 1942,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "était",
+    "pmi": 0.2713051270859831,
+    "cooc_count": 34,
+    "unigram_w1": 1942,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "football",
+    "pmi": 1.0146786523096003,
+    "cooc_count": 6,
+    "unigram_w1": 1942,
+    "unigram_w2": 24838,
+    "window_size": 10
+  },
+  {
+    "w1": "1929",
+    "w2": "saison",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1942,
+    "unigram_w2": 76558,
+    "window_size": 10
+  },
+  {
+    "w1": "université",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 41431,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "université",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 24838,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "saison",
+    "w2": "université",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 76558,
+    "unigram_w2": 41431,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 200,
+    "unigram_w1": 24838,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "saison",
+    "w2": "était",
+    "pmi": 0.0,
+    "cooc_count": 578,
+    "unigram_w1": 76558,
+    "unigram_w2": 295997,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "saison",
+    "pmi": 0.895696460166653,
+    "cooc_count": 210,
+    "unigram_w1": 24838,
+    "unigram_w2": 76558,
+    "window_size": 10
+  },
+  {
+    "w1": "football",
+    "w2": "lloyd",
+    "pmi": 1.2866252412025716,
+    "cooc_count": 5,
+    "unigram_w1": 24838,
+    "unigram_w2": 1233,
+    "window_size": 10
+  }
+]

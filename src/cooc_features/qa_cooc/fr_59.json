@@ -1,0 +1,245 @@
+[
+  {
+    "w1": "elle",
+    "w2": "est",
+    "pmi": 0.35507709624097394,
+    "cooc_count": 150086,
+    "unigram_w1": 640934,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 3023,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "devenue",
+    "w2": "est",
+    "pmi": 1.32989767648213,
+    "cooc_count": 7770,
+    "unigram_w1": 12518,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "whitehaven",
+    "pmi": 0.8135433475948004,
+    "cooc_count": 10,
+    "unigram_w1": 3640850,
+    "unigram_w2": 27,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "school",
+    "pmi": 0.0,
+    "cooc_count": 387,
+    "unigram_w1": 3640850,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "est",
+    "w2": "quelle",
+    "pmi": 0.44183208072764724,
+    "cooc_count": 16003,
+    "unigram_w1": 3640850,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 15380,
+    "unigram_w1": 165667,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "est",
+    "pmi": 0.0,
+    "cooc_count": 8434,
+    "unigram_w1": 161413,
+    "unigram_w2": 3640850,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 3023,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "devenue",
+    "w2": "elle",
+    "pmi": 1.4587919002114098,
+    "cooc_count": 1556,
+    "unigram_w1": 12518,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "school",
+    "pmi": 0.0,
+    "cooc_count": 87,
+    "unigram_w1": 640934,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 1703,
+    "unigram_w1": 640934,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 2910,
+    "unigram_w1": 165667,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 1234,
+    "unigram_w1": 161413,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "school",
+    "pmi": 3.368032218667363,
+    "cooc_count": 35,
+    "unigram_w1": 3023,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "academy",
+    "w2": "année",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 3023,
+    "unigram_w2": 165667,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "academy",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 161413,
+    "unigram_w2": 3023,
+    "window_size": 10
+  },
+  {
+    "w1": "devenue",
+    "w2": "school",
+    "pmi": 0.876672914260761,
+    "cooc_count": 12,
+    "unigram_w1": 12518,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "devenue",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 12518,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "devenue",
+    "pmi": 0.0,
+    "cooc_count": 89,
+    "unigram_w1": 165667,
+    "unigram_w2": 12518,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "devenue",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 161413,
+    "unigram_w2": 12518,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "school",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 62661,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "school",
+    "pmi": 0.01364674286730701,
+    "cooc_count": 67,
+    "unigram_w1": 165667,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "school",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 161413,
+    "unigram_w2": 8847,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "quelle",
+    "pmi": 0.022993894847215528,
+    "cooc_count": 479,
+    "unigram_w1": 165667,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 254,
+    "unigram_w1": 161413,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "année",
+    "pmi": 0.6273009888656973,
+    "cooc_count": 2258,
+    "unigram_w1": 161413,
+    "unigram_w2": 165667,
+    "window_size": 10
+  }
+]

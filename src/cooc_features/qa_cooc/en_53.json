@@ -1,0 +1,596 @@
+[
+  {
+    "w1": "john",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 67574,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 625,
+    "unigram_w1": 67574,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 156,
+    "unigram_w1": 140266,
+    "unigram_w2": 67574,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "john",
+    "pmi": 1.2569259774141301,
+    "cooc_count": 119,
+    "unigram_w1": 10520,
+    "unigram_w2": 67574,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "not",
+    "pmi": 0.0,
+    "cooc_count": 969,
+    "unigram_w1": 67574,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "profit",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 67574,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "john",
+    "pmi": 0.3937442109987141,
+    "cooc_count": 402,
+    "unigram_w1": 84250,
+    "unigram_w2": 67574,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 2.492370494104437,
+    "cooc_count": 3050,
+    "unigram_w1": 67574,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 5988,
+    "unigram_w1": 3716924,
+    "unigram_w2": 67574,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 259,
+    "unigram_w1": 136543,
+    "unigram_w2": 67574,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 237,
+    "unigram_w1": 154337,
+    "unigram_w2": 67574,
+    "window_size": 10
+  },
+  {
+    "w1": "type",
+    "w2": "what",
+    "pmi": 0.041039314362866036,
+    "cooc_count": 4527,
+    "unigram_w1": 145886,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 266,
+    "unigram_w1": 140266,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 10520,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "not",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 4048,
+    "unigram_w1": 1148302,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "profit",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 19111,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 62,
+    "unigram_w1": 84250,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 120,
+    "unigram_w1": 78383,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 13838,
+    "unigram_w1": 3716924,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 551,
+    "unigram_w1": 136543,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "type",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 154337,
+    "unigram_w2": 145886,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 2337,
+    "unigram_w1": 140266,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 176,
+    "unigram_w1": 10520,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "not",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 30540,
+    "unigram_w1": 1148302,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "profit",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 254,
+    "unigram_w1": 19111,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "what",
+    "pmi": 0.33106398317875524,
+    "cooc_count": 3494,
+    "unigram_w1": 84250,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 421,
+    "unigram_w1": 78383,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 70434,
+    "unigram_w1": 3716924,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1338,
+    "unigram_w1": 136543,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1583,
+    "unigram_w1": 154337,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "catholic",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 140266,
+    "unigram_w2": 10520,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "not",
+    "pmi": 0.0,
+    "cooc_count": 4274,
+    "unigram_w1": 140266,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "profit",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 140266,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "god",
+    "pmi": 0.0,
+    "cooc_count": 445,
+    "unigram_w1": 140266,
+    "unigram_w2": 84250,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 240,
+    "unigram_w1": 140266,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "for",
+    "pmi": 0.0,
+    "cooc_count": 24221,
+    "unigram_w1": 140266,
+    "unigram_w2": 3716924,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "group",
+    "pmi": 0.0,
+    "cooc_count": 596,
+    "unigram_w1": 140266,
+    "unigram_w2": 136543,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 3.135530046992616,
+    "cooc_count": 23716,
+    "unigram_w1": 140266,
+    "unigram_w2": 154337,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "not",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 10520,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "profit",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 10520,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "god",
+    "pmi": 0.5476966498993558,
+    "cooc_count": 73,
+    "unigram_w1": 10520,
+    "unigram_w2": 84250,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "st",
+    "pmi": 2.903098877834897,
+    "cooc_count": 716,
+    "unigram_w1": 10520,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "for",
+    "pmi": 0.0,
+    "cooc_count": 986,
+    "unigram_w1": 10520,
+    "unigram_w2": 3716924,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "group",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 10520,
+    "unigram_w2": 136543,
+    "window_size": 10
+  },
+  {
+    "w1": "catholic",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 10520,
+    "unigram_w2": 154337,
+    "window_size": 10
+  },
+  {
+    "w1": "not",
+    "w2": "profit",
+    "pmi": 0.3731492492559744,
+    "cooc_count": 1518,
+    "unigram_w1": 1148302,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "not",
+    "pmi": 0.15696198302644107,
+    "cooc_count": 5391,
+    "unigram_w1": 84250,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "not",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 628,
+    "unigram_w1": 1148302,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "not",
+    "pmi": 0.0,
+    "cooc_count": 124741,
+    "unigram_w1": 3716924,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "not",
+    "pmi": 0.0,
+    "cooc_count": 2733,
+    "unigram_w1": 136543,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "not",
+    "pmi": 0.0,
+    "cooc_count": 3227,
+    "unigram_w1": 154337,
+    "unigram_w2": 1148302,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "profit",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 84250,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "profit",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 19111,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "profit",
+    "pmi": 0.3909812877322199,
+    "cooc_count": 5002,
+    "unigram_w1": 3716924,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "profit",
+    "pmi": 0.6241376881202843,
+    "cooc_count": 232,
+    "unigram_w1": 136543,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "profit",
+    "pmi": 0.0,
+    "cooc_count": 135,
+    "unigram_w1": 154337,
+    "unigram_w2": 19111,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 84250,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "god",
+    "pmi": 0.0,
+    "cooc_count": 10444,
+    "unigram_w1": 3716924,
+    "unigram_w2": 84250,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "group",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 84250,
+    "unigram_w2": 136543,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 101,
+    "unigram_w1": 84250,
+    "unigram_w2": 154337,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 5752,
+    "unigram_w1": 3716924,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 331,
+    "unigram_w1": 136543,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 432,
+    "unigram_w1": 154337,
+    "unigram_w2": 78383,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "group",
+    "pmi": 0.0,
+    "cooc_count": 15853,
+    "unigram_w1": 3716924,
+    "unigram_w2": 136543,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 21434,
+    "unigram_w1": 3716924,
+    "unigram_w2": 154337,
+    "window_size": 10
+  },
+  {
+    "w1": "group",
+    "w2": "health",
+    "pmi": 0.25324625749741847,
+    "cooc_count": 1293,
+    "unigram_w1": 136543,
+    "unigram_w2": 154337,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "w1": "באופן",
+    "w2": "רשמי",
+    "pmi": 2.9764523454752725,
+    "cooc_count": 5027,
+    "unigram_w1": 228981,
+    "unigram_w2": 15321,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "רשמי",
+    "pmi": 0.0,
+    "cooc_count": 2163,
+    "unigram_w1": 3599592,
+    "unigram_w2": 15321,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "רשמי",
+    "pmi": 0.2950800286625036,
+    "cooc_count": 15,
+    "unigram_w1": 9979,
+    "unigram_w2": 15321,
+    "window_size": 10
+  },
+  {
+    "w1": "הגדול",
+    "w2": "רשמי",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 105004,
+    "unigram_w2": 15321,
+    "window_size": 10
+  },
+  {
+    "w1": "קנדה",
+    "w2": "רשמי",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7336,
+    "unigram_w2": 15321,
+    "window_size": 10
+  },
+  {
+    "w1": "החל",
+    "w2": "רשמי",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 84166,
+    "unigram_w2": 15321,
+    "window_size": 10
+  },
+  {
+    "w1": "רשמי",
+    "w2": "שנה",
+    "pmi": 0.33706852790036995,
+    "cooc_count": 271,
+    "unigram_w1": 15321,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "הוויכוח",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 228981,
+    "unigram_w2": 2356,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 41190,
+    "unigram_w1": 228981,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "דגל",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 228981,
+    "unigram_w2": 9979,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "הגדול",
+    "pmi": 0.0,
+    "cooc_count": 356,
+    "unigram_w1": 228981,
+    "unigram_w2": 105004,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "קנדה",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 228981,
+    "unigram_w2": 7336,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "החל",
+    "pmi": 0.0,
+    "cooc_count": 816,
+    "unigram_w1": 228981,
+    "unigram_w2": 84166,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "באופן",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 3166,
+    "unigram_w2": 228981,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "באילו",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 228981,
+    "unigram_w2": 3296,
+    "window_size": 10
+  },
+  {
+    "w1": "באופן",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 1089,
+    "unigram_w1": 228981,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "הוויכוח",
+    "w2": "על",
+    "pmi": 0.379131042018511,
+    "cooc_count": 905,
+    "unigram_w1": 2356,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "הוויכוח",
+    "pmi": 1.6565135754407894,
+    "cooc_count": 9,
+    "unigram_w1": 9979,
+    "unigram_w2": 2356,
+    "window_size": 10
+  },
+  {
+    "w1": "הגדול",
+    "w2": "הוויכוח",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 105004,
+    "unigram_w2": 2356,
+    "window_size": 10
+  },
+  {
+    "w1": "הוויכוח",
+    "w2": "החל",
+    "pmi": 0.035031044885099547,
+    "cooc_count": 15,
+    "unigram_w1": 2356,
+    "unigram_w2": 84166,
+    "window_size": 10
+  },
+  {
+    "w1": "הוויכוח",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 2356,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 1642,
+    "unigram_w1": 9979,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "הגדול",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 11779,
+    "unigram_w1": 105004,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "קנדה",
+    "pmi": 0.0,
+    "cooc_count": 768,
+    "unigram_w1": 3599592,
+    "unigram_w2": 7336,
+    "window_size": 10
+  },
+  {
+    "w1": "החל",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 9726,
+    "unigram_w1": 84166,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 298,
+    "unigram_w1": 3166,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "באילו",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 448,
+    "unigram_w1": 3296,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 20403,
+    "unigram_w1": 3599592,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "הגדול",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 9979,
+    "unigram_w2": 105004,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "קנדה",
+    "pmi": 1.8498210535559079,
+    "cooc_count": 34,
+    "unigram_w1": 9979,
+    "unigram_w2": 7336,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "החל",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 9979,
+    "unigram_w2": 84166,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "דגל",
+    "pmi": 0.955544771663145,
+    "cooc_count": 6,
+    "unigram_w1": 3166,
+    "unigram_w2": 9979,
+    "window_size": 10
+  },
+  {
+    "w1": "דגל",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 9979,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "הגדול",
+    "w2": "קנדה",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 105004,
+    "unigram_w2": 7336,
+    "window_size": 10
+  },
+  {
+    "w1": "הגדול",
+    "w2": "החל",
+    "pmi": 0.0,
+    "cooc_count": 362,
+    "unigram_w1": 105004,
+    "unigram_w2": 84166,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "הגדול",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 3166,
+    "unigram_w2": 105004,
+    "window_size": 10
+  },
+  {
+    "w1": "הגדול",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 708,
+    "unigram_w1": 105004,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "החל",
+    "w2": "קנדה",
+    "pmi": 0.019793771107160976,
+    "cooc_count": 46,
+    "unigram_w1": 84166,
+    "unigram_w2": 7336,
+    "window_size": 10
+  },
+  {
+    "w1": "קנדה",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 7336,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "החל",
+    "pmi": 1.3081432671294646,
+    "cooc_count": 72,
+    "unigram_w1": 3166,
+    "unigram_w2": 84166,
+    "window_size": 10
+  },
+  {
+    "w1": "באילו",
+    "w2": "החל",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 3296,
+    "unigram_w2": 84166,
+    "window_size": 10
+  },
+  {
+    "w1": "החל",
+    "w2": "שנה",
+    "pmi": 0.1330590757498733,
+    "cooc_count": 1214,
+    "unigram_w1": 84166,
+    "unigram_w2": 172874,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "שנה",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 3166,
+    "unigram_w2": 172874,
+    "window_size": 10
+  }
+]

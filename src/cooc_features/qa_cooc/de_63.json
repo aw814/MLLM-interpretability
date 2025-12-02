@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "allgemeinen",
+    "w2": "des",
+    "pmi": 0.45648469023281024,
+    "cooc_count": 2468,
+    "unigram_w1": 21190,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "krankenhaus",
+    "pmi": 0.8571340110930739,
+    "cooc_count": 34,
+    "unigram_w1": 21190,
+    "unigram_w2": 12690,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "stufe",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 21190,
+    "unigram_w2": 12032,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "ursprüngliche",
+    "pmi": 0.42381425770677694,
+    "cooc_count": 6,
+    "unigram_w1": 21190,
+    "unigram_w2": 3454,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 21190,
+    "unigram_w2": 44360,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 646,
+    "unigram_w1": 21190,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "krankenhauses",
+    "pmi": 2.8111497702901453,
+    "cooc_count": 27,
+    "unigram_w1": 21190,
+    "unigram_w2": 1428,
+    "window_size": 10
+  },
+  {
+    "w1": "allgemeinen",
+    "w2": "b",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 21190,
+    "unigram_w2": 223001,
+    "window_size": 10
+  },
+  {
+    "w1": "entebbe",
+    "w2": "wie",
+    "pmi": 1.3584921737865177,
+    "cooc_count": 34,
+    "unigram_w1": 172,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "lautete",
+    "pmi": 0.1424690681682622,
+    "cooc_count": 150,
+    "unigram_w1": 1375079,
+    "unigram_w2": 1763,
+    "window_size": 10
+  },
+  {
+    "w1": "lautete",
+    "w2": "ursprüngliche",
+    "pmi": 3.421152350337242,
+    "cooc_count": 10,
+    "unigram_w1": 1763,
+    "unigram_w2": 3454,
+    "window_size": 10
+  },
+  {
+    "w1": "lautete",
+    "w2": "name",
+    "pmi": 1.9669594562476724,
+    "cooc_count": 30,
+    "unigram_w1": 1763,
+    "unigram_w2": 44360,
+    "window_size": 10
+  },
+  {
+    "w1": "lautete",
+    "w2": "wie",
+    "pmi": 0.5352918649783747,
+    "cooc_count": 153,
+    "unigram_w1": 1763,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "lautete",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 223001,
+    "unigram_w2": 1763,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "krankenhaus",
+    "pmi": 0.0,
+    "cooc_count": 475,
+    "unigram_w1": 1375079,
+    "unigram_w2": 12690,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "stufe",
+    "pmi": 0.0,
+    "cooc_count": 722,
+    "unigram_w1": 1375079,
+    "unigram_w2": 12032,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "ursprüngliche",
+    "pmi": 0.11530950858310522,
+    "cooc_count": 286,
+    "unigram_w1": 1375079,
+    "unigram_w2": 3454,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "name",
+    "pmi": 0.01091382292718537,
+    "cooc_count": 3309,
+    "unigram_w1": 1375079,
+    "unigram_w2": 44360,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 30422,
+    "unigram_w1": 1375079,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "des",
+    "w2": "krankenhauses",
+    "pmi": 2.3337527006915564,
+    "cooc_count": 1087,
+    "unigram_w1": 1375079,
+    "unigram_w2": 1428,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "des",
+    "pmi": 0.0,
+    "cooc_count": 8690,
+    "unigram_w1": 223001,
+    "unigram_w2": 1375079,
+    "window_size": 10
+  },
+  {
+    "w1": "krankenhaus",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 349,
+    "unigram_w1": 12690,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "krankenhaus",
+    "w2": "krankenhauses",
+    "pmi": 3.3602325050149315,
+    "cooc_count": 28,
+    "unigram_w1": 12690,
+    "unigram_w2": 1428,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "krankenhaus",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 223001,
+    "unigram_w2": 12690,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "stufe",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 44360,
+    "unigram_w2": 12032,
+    "window_size": 10
+  },
+  {
+    "w1": "stufe",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 12032,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "stufe",
+    "pmi": 0.36790919722225357,
+    "cooc_count": 208,
+    "unigram_w1": 223001,
+    "unigram_w2": 12032,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "ursprüngliche",
+    "pmi": 0.09047057561298276,
+    "cooc_count": 9,
+    "unigram_w1": 44360,
+    "unigram_w2": 3454,
+    "window_size": 10
+  },
+  {
+    "w1": "ursprüngliche",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 149,
+    "unigram_w1": 3454,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "ursprüngliche",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 223001,
+    "unigram_w2": 3454,
+    "window_size": 10
+  },
+  {
+    "w1": "name",
+    "w2": "wie",
+    "pmi": 0.08174200076662352,
+    "cooc_count": 2446,
+    "unigram_w1": 44360,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "krankenhauses",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1428,
+    "unigram_w2": 44360,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "name",
+    "pmi": 0.0,
+    "cooc_count": 497,
+    "unigram_w1": 223001,
+    "unigram_w2": 44360,
+    "window_size": 10
+  },
+  {
+    "w1": "krankenhauses",
+    "w2": "wie",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 1428,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "wie",
+    "pmi": 0.5943858092794397,
+    "cooc_count": 20531,
+    "unigram_w1": 223001,
+    "unigram_w2": 946950,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "krankenhauses",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 223001,
+    "unigram_w2": 1428,
+    "window_size": 10
+  }
+]

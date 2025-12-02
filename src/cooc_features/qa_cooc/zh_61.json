@@ -1,0 +1,812 @@
+[
+  {
+    "w1": "的",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 219836,
+    "unigram_w1": 10165533,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "律动",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 319,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "这",
+    "pmi": 0.9591030498668525,
+    "cooc_count": 19219,
+    "unigram_w1": 248708,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 3593,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "歌曲",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 193,
+    "unigram_w1": 17333,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "真心",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 3718,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 60761,
+    "unigram_w1": 2356497,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "意义",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 557,
+    "unigram_w1": 27195,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "收录",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 3351,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 12982,
+    "unigram_w1": 754775,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "爱",
+    "w2": "这",
+    "pmi": 0.0,
+    "cooc_count": 1286,
+    "unigram_w1": 58448,
+    "unigram_w2": 431023,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 553,
+    "unigram_w1": 21798,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "that",
+    "pmi": 4.379172540356955,
+    "cooc_count": 200,
+    "unigram_w1": 21798,
+    "unigram_w2": 1674,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 4.972628721862871,
+    "cooc_count": 194,
+    "unigram_w1": 21798,
+    "unigram_w2": 897,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "就是",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 21798,
+    "unigram_w2": 248708,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "s",
+    "pmi": 3.786351083296546,
+    "cooc_count": 352,
+    "unigram_w1": 5330,
+    "unigram_w2": 21798,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "专辑",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21798,
+    "unigram_w2": 3593,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "s",
+    "pmi": 3.446432005618256,
+    "cooc_count": 272,
+    "unigram_w1": 5786,
+    "unigram_w2": 21798,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "s",
+    "pmi": 3.89354039252202,
+    "cooc_count": 68,
+    "unigram_w1": 925,
+    "unigram_w2": 21798,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 21798,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "意义",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 21798,
+    "unigram_w2": 27195,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "收录",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 21798,
+    "unigram_w2": 3351,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 21798,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "爱",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 21798,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "律动",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 319,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 897,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 144694,
+    "unigram_w1": 248708,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 5330,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1571,
+    "unigram_w1": 3593,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "歌曲",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 8592,
+    "unigram_w1": 17333,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "真心",
+    "pmi": 0.0,
+    "cooc_count": 2083,
+    "unigram_w1": 10165533,
+    "unigram_w2": 3718,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 5786,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 925,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1177218,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "哪张",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 69,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "意义",
+    "w2": "的",
+    "pmi": 0.05851158856208793,
+    "cooc_count": 20139,
+    "unigram_w1": 27195,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "收录",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1486,
+    "unigram_w1": 3351,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 391427,
+    "unigram_w1": 754775,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "爱",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 29462,
+    "unigram_w1": 58448,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "律动",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 2356497,
+    "unigram_w2": 319,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "律动",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 754775,
+    "unigram_w2": 319,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "what",
+    "pmi": 6.31442408103393,
+    "cooc_count": 57,
+    "unigram_w1": 1674,
+    "unigram_w2": 897,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "that",
+    "pmi": 5.558226360318517,
+    "cooc_count": 159,
+    "unigram_w1": 5330,
+    "unigram_w2": 1674,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "that",
+    "pmi": 6.169283572502271,
+    "cooc_count": 318,
+    "unigram_w1": 5786,
+    "unigram_w2": 1674,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "that",
+    "pmi": 5.236367211299741,
+    "cooc_count": 20,
+    "unigram_w1": 925,
+    "unigram_w2": 1674,
+    "window_size": 10
+  },
+  {
+    "w1": "that",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1674,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "what",
+    "pmi": 5.495264181762791,
+    "cooc_count": 80,
+    "unigram_w1": 5330,
+    "unigram_w2": 897,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "what",
+    "pmi": 6.272894593772362,
+    "cooc_count": 189,
+    "unigram_w1": 5786,
+    "unigram_w2": 897,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "what",
+    "pmi": 4.9439918684162105,
+    "cooc_count": 8,
+    "unigram_w1": 925,
+    "unigram_w2": 897,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 897,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "就是",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 3593,
+    "unigram_w2": 248708,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "歌曲",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 248708,
+    "unigram_w2": 17333,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "真心",
+    "pmi": 0.48315294971189876,
+    "cooc_count": 103,
+    "unigram_w1": 248708,
+    "unigram_w2": 3718,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "就是",
+    "pmi": 0.0,
+    "cooc_count": 21993,
+    "unigram_w1": 2356497,
+    "unigram_w2": 248708,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "意义",
+    "pmi": 0.0,
+    "cooc_count": 360,
+    "unigram_w1": 248708,
+    "unigram_w2": 27195,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "收录",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 248708,
+    "unigram_w2": 3351,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "就是",
+    "pmi": 0.0,
+    "cooc_count": 6244,
+    "unigram_w1": 754775,
+    "unigram_w2": 248708,
+    "window_size": 10
+  },
+  {
+    "w1": "就是",
+    "w2": "爱",
+    "pmi": 0.0,
+    "cooc_count": 764,
+    "unigram_w1": 248708,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "is",
+    "pmi": 6.838432746782242,
+    "cooc_count": 1977,
+    "unigram_w1": 5330,
+    "unigram_w2": 5786,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "love",
+    "pmi": 5.4892189188995335,
+    "cooc_count": 82,
+    "unigram_w1": 5330,
+    "unigram_w2": 925,
+    "window_size": 10
+  },
+  {
+    "w1": "for",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5330,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "歌曲",
+    "pmi": 4.219612928424259,
+    "cooc_count": 291,
+    "unigram_w1": 3593,
+    "unigram_w2": 17333,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 508,
+    "unigram_w1": 3593,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "收录",
+    "pmi": 4.84360340161429,
+    "cooc_count": 105,
+    "unigram_w1": 3593,
+    "unigram_w2": 3351,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "中",
+    "pmi": 0.07079953517075642,
+    "cooc_count": 200,
+    "unigram_w1": 3593,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "专辑",
+    "w2": "爱",
+    "pmi": 1.4416382543323243,
+    "cooc_count": 61,
+    "unigram_w1": 3593,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "歌曲",
+    "pmi": 0.0,
+    "cooc_count": 1234,
+    "unigram_w1": 2356497,
+    "unigram_w2": 17333,
+    "window_size": 10
+  },
+  {
+    "w1": "收录",
+    "w2": "歌曲",
+    "pmi": 2.6413700513641243,
+    "cooc_count": 56,
+    "unigram_w1": 3351,
+    "unigram_w2": 17333,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "歌曲",
+    "pmi": 0.0,
+    "cooc_count": 520,
+    "unigram_w1": 754775,
+    "unigram_w2": 17333,
+    "window_size": 10
+  },
+  {
+    "w1": "歌曲",
+    "w2": "爱",
+    "pmi": 1.941288590268705,
+    "cooc_count": 485,
+    "unigram_w1": 17333,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "真心",
+    "pmi": 0.0,
+    "cooc_count": 265,
+    "unigram_w1": 2356497,
+    "unigram_w2": 3718,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "真心",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 754775,
+    "unigram_w2": 3718,
+    "window_size": 10
+  },
+  {
+    "w1": "爱",
+    "w2": "真心",
+    "pmi": 1.2085890144192888,
+    "cooc_count": 50,
+    "unigram_w1": 58448,
+    "unigram_w2": 3718,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "love",
+    "pmi": 4.871610714166981,
+    "cooc_count": 48,
+    "unigram_w1": 5786,
+    "unigram_w2": 925,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 5786,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "is",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5786,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 925,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "love",
+    "w2": "爱",
+    "pmi": 0.6336235888154202,
+    "cooc_count": 7,
+    "unigram_w1": 925,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "哪张",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 69,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "意义",
+    "pmi": 0.0,
+    "cooc_count": 2750,
+    "unigram_w1": 2356497,
+    "unigram_w2": 27195,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "收录",
+    "pmi": 0.0,
+    "cooc_count": 365,
+    "unigram_w1": 2356497,
+    "unigram_w2": 3351,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "在",
+    "pmi": 0.5821407185855212,
+    "cooc_count": 218732,
+    "unigram_w1": 754775,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "爱",
+    "pmi": 0.0,
+    "cooc_count": 5091,
+    "unigram_w1": 2356497,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "哪张",
+    "pmi": 0.8045599928188151,
+    "cooc_count": 8,
+    "unigram_w1": 754775,
+    "unigram_w2": 69,
+    "window_size": 10
+  },
+  {
+    "w1": "意义",
+    "w2": "收录",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 27195,
+    "unigram_w2": 3351,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "意义",
+    "pmi": 0.0,
+    "cooc_count": 1183,
+    "unigram_w1": 754775,
+    "unigram_w2": 27195,
+    "window_size": 10
+  },
+  {
+    "w1": "意义",
+    "w2": "爱",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 27195,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "收录",
+    "pmi": 0.0,
+    "cooc_count": 125,
+    "unigram_w1": 754775,
+    "unigram_w2": 3351,
+    "window_size": 10
+  },
+  {
+    "w1": "收录",
+    "w2": "爱",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3351,
+    "unigram_w2": 58448,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "爱",
+    "pmi": 0.0,
+    "cooc_count": 1173,
+    "unigram_w1": 754775,
+    "unigram_w2": 58448,
+    "window_size": 10
+  }
+]

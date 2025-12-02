@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "万物",
+    "w2": "人",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 2763,
+    "unigram_w2": 700316,
+    "window_size": 10
+  },
+  {
+    "w1": "人",
+    "w2": "宗教",
+    "pmi": 0.0,
+    "cooc_count": 197,
+    "unigram_w1": 700316,
+    "unigram_w2": 6294,
+    "window_size": 10
+  },
+  {
+    "w1": "人",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 35447,
+    "unigram_w1": 700316,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "人",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 7697,
+    "unigram_w1": 700316,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "人",
+    "w2": "信奉",
+    "pmi": 0.30730968700174555,
+    "cooc_count": 81,
+    "unigram_w1": 700316,
+    "unigram_w2": 1238,
+    "window_size": 10
+  },
+  {
+    "w1": "万物",
+    "w2": "宗教",
+    "pmi": 1.4314134361939275,
+    "cooc_count": 5,
+    "unigram_w1": 2763,
+    "unigram_w2": 6294,
+    "window_size": 10
+  },
+  {
+    "w1": "万物",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 159,
+    "unigram_w1": 2763,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "万物",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 2763,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "和",
+    "w2": "宗教",
+    "pmi": 0.505740133858209,
+    "cooc_count": 1086,
+    "unigram_w1": 1514452,
+    "unigram_w2": 6294,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "宗教",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 303848,
+    "unigram_w2": 6294,
+    "window_size": 10
+  },
+  {
+    "w1": "信奉",
+    "w2": "宗教",
+    "pmi": 6.109592328929357,
+    "cooc_count": 241,
+    "unigram_w1": 1238,
+    "unigram_w2": 6294,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "和",
+    "pmi": 0.0,
+    "cooc_count": 9400,
+    "unigram_w1": 303848,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "信奉",
+    "w2": "和",
+    "pmi": 1.0577853203515744,
+    "cooc_count": 371,
+    "unigram_w1": 1238,
+    "unigram_w2": 1514452,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "信奉",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 303848,
+    "unigram_w2": 1238,
+    "window_size": 10
+  }
+]

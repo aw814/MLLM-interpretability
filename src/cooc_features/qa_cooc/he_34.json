@@ -1,0 +1,326 @@
+[
+  {
+    "w1": "איזו",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 3796,
+    "unigram_w1": 21314,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 21314,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 1521,
+    "unigram_w1": 21314,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "מזוהה",
+    "pmi": 0.16597481961336025,
+    "cooc_count": 9,
+    "unigram_w1": 21314,
+    "unigram_w2": 4897,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "כמה",
+    "pmi": 0.0,
+    "cooc_count": 356,
+    "unigram_w1": 21314,
+    "unigram_w2": 326482,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "עיר",
+    "pmi": 1.003562150700582,
+    "cooc_count": 176,
+    "unigram_w1": 21314,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "סופרים",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 21314,
+    "unigram_w2": 5407,
+    "window_size": 10
+  },
+  {
+    "w1": "איזו",
+    "w2": "עתיקה",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 21314,
+    "unigram_w2": 4297,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "פי",
+    "pmi": 1.1447870605388772,
+    "cooc_count": 225144,
+    "unigram_w1": 3599592,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 212651,
+    "unigram_w1": 3599592,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "מזוהה",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 616,
+    "unigram_w1": 4897,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 52200,
+    "unigram_w1": 326482,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "עיר",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 4577,
+    "unigram_w1": 41442,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "סופרים",
+    "w2": "על",
+    "pmi": 0.0,
+    "cooc_count": 885,
+    "unigram_w1": 5407,
+    "unigram_w2": 3599592,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "פרהסיה",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 3599592,
+    "unigram_w2": 43,
+    "window_size": 10
+  },
+  {
+    "w1": "על",
+    "w2": "עתיקה",
+    "pmi": 0.0,
+    "cooc_count": 646,
+    "unigram_w1": 3599592,
+    "unigram_w2": 4297,
+    "window_size": 10
+  },
+  {
+    "w1": "עם",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 6351,
+    "unigram_w1": 1747859,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "מזוהה",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 4897,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 4386,
+    "unigram_w1": 326482,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "עיר",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 192,
+    "unigram_w1": 41442,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "סופרים",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 5407,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "עתיקה",
+    "w2": "פי",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 4297,
+    "unigram_w2": 272563,
+    "window_size": 10
+  },
+  {
+    "w1": "מזוהה",
+    "w2": "עם",
+    "pmi": 1.3364029970324274,
+    "cooc_count": 2379,
+    "unigram_w1": 4897,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 25209,
+    "unigram_w1": 326482,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "עיר",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 2987,
+    "unigram_w1": 41442,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "סופרים",
+    "w2": "עם",
+    "pmi": 0.0,
+    "cooc_count": 382,
+    "unigram_w1": 5407,
+    "unigram_w2": 1747859,
+    "window_size": 10
+  },
+  {
+    "w1": "עם",
+    "w2": "פרהסיה",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1747859,
+    "unigram_w2": 43,
+    "window_size": 10
+  },
+  {
+    "w1": "עם",
+    "w2": "עתיקה",
+    "pmi": 0.0,
+    "cooc_count": 382,
+    "unigram_w1": 1747859,
+    "unigram_w2": 4297,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "מזוהה",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 326482,
+    "unigram_w2": 4897,
+    "window_size": 10
+  },
+  {
+    "w1": "מזוהה",
+    "w2": "עיר",
+    "pmi": 0.13703286079723048,
+    "cooc_count": 17,
+    "unigram_w1": 4897,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 340,
+    "unigram_w1": 326482,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "סופרים",
+    "pmi": 0.478206001069227,
+    "cooc_count": 208,
+    "unigram_w1": 326482,
+    "unigram_w2": 5407,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "עתיקה",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 326482,
+    "unigram_w2": 4297,
+    "window_size": 10
+  },
+  {
+    "w1": "סופרים",
+    "w2": "עיר",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 5407,
+    "unigram_w2": 41442,
+    "window_size": 10
+  },
+  {
+    "w1": "עיר",
+    "w2": "עתיקה",
+    "pmi": 4.266478750234192,
+    "cooc_count": 927,
+    "unigram_w1": 41442,
+    "unigram_w2": 4297,
+    "window_size": 10
+  },
+  {
+    "w1": "סופרים",
+    "w2": "עתיקה",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5407,
+    "unigram_w2": 4297,
+    "window_size": 10
+  }
+]

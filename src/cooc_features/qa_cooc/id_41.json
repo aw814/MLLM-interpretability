@@ -1,0 +1,1289 @@
+[
+  {
+    "w1": "basket",
+    "w2": "bermain",
+    "pmi": 0.8760527478743211,
+    "cooc_count": 350,
+    "unigram_w1": 9470,
+    "unigram_w2": 237139,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 283,
+    "unigram_w1": 237139,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "konferensi",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 237139,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 482,
+    "unigram_w1": 237139,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 1644,
+    "unigram_w1": 237139,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "bermain",
+    "pmi": 0.0,
+    "cooc_count": 2535,
+    "unigram_w1": 356514,
+    "unigram_w2": 237139,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "bermain",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 86703,
+    "unigram_w2": 237139,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "bermain",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 5235,
+    "unigram_w2": 237139,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "tempat",
+    "pmi": 0.23352259930029567,
+    "cooc_count": 5578,
+    "unigram_w1": 237139,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "conference",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 237139,
+    "unigram_w2": 4823,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "bermain",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 5415,
+    "unigram_w2": 237139,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 237139,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 237139,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "tim",
+    "pmi": 0.3999822221301587,
+    "cooc_count": 3736,
+    "unigram_w1": 237139,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 2254,
+    "unigram_w1": 237139,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "bermain",
+    "w2": "bola",
+    "pmi": 0.9936894020832857,
+    "cooc_count": 11415,
+    "unigram_w1": 237139,
+    "unigram_w2": 274580,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "bermain",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 7823,
+    "unigram_w2": 237139,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 9470,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 9470,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 9470,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "campbell",
+    "pmi": 3.0335481139997067,
+    "cooc_count": 6,
+    "unigram_w1": 9470,
+    "unigram_w2": 470,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "basket",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 356514,
+    "unigram_w2": 9470,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "basket",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 86703,
+    "unigram_w2": 9470,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 9470,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "basket",
+    "pmi": 0.743503329095978,
+    "cooc_count": 7,
+    "unigram_w1": 5415,
+    "unigram_w2": 9470,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "tim",
+    "pmi": 1.6676059892323631,
+    "cooc_count": 530,
+    "unigram_w1": 9470,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 9470,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "basket",
+    "w2": "bola",
+    "pmi": 3.146899777860566,
+    "cooc_count": 3926,
+    "unigram_w1": 9470,
+    "unigram_w2": 274580,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "basket",
+    "pmi": 1.8636851522758215,
+    "cooc_count": 31,
+    "unigram_w1": 7823,
+    "unigram_w2": 9470,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 10984,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 1430,
+    "unigram_w1": 166941,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 1270,
+    "unigram_w1": 234675,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 2152,
+    "unigram_w1": 356514,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 225,
+    "unigram_w1": 86703,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 5235,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "tempat",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 1038,
+    "unigram_w1": 286951,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 4823,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5415,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "trans",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 5487,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "university",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 17797,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "tim",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 302,
+    "unigram_w1": 162721,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "tahun",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 4630,
+    "unigram_w1": 630119,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 380,
+    "unigram_w1": 274580,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "wanita",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 7823,
+    "unigram_w2": 192514,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 10984,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "konferensi",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 234675,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "konferensi",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 356514,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "konferensi",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 86703,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 10984,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "konferensi",
+    "pmi": 3.108864579992785,
+    "cooc_count": 77,
+    "unigram_w1": 4823,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "konferensi",
+    "pmi": 0.8465069961092011,
+    "cooc_count": 9,
+    "unigram_w1": 5415,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "trans",
+    "pmi": 0.24551155358319782,
+    "cooc_count": 5,
+    "unigram_w1": 10984,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "university",
+    "pmi": 1.0429443339141973,
+    "cooc_count": 36,
+    "unigram_w1": 10984,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 10984,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "konferensi",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 247,
+    "unigram_w1": 10984,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "konferensi",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 274580,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "konferensi",
+    "pmi": 1.8367352480124057,
+    "cooc_count": 35,
+    "unigram_w1": 7823,
+    "unigram_w2": 10984,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 949,
+    "unigram_w1": 234675,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 2274,
+    "unigram_w1": 356514,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 611,
+    "unigram_w1": 86703,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 5235,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 2586,
+    "unigram_w1": 166941,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 4823,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 166941,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 166941,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 884,
+    "unigram_w1": 166941,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "nama",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 3405,
+    "unigram_w1": 166941,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 567,
+    "unigram_w1": 274580,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "nama",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 7823,
+    "unigram_w2": 166941,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 1594,
+    "unigram_w1": 356514,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 667,
+    "unigram_w1": 86703,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "hingga",
+    "pmi": 0.15392603829930587,
+    "cooc_count": 93,
+    "unigram_w1": 5235,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 2278,
+    "unigram_w1": 234675,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 4823,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 5415,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 234675,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 234675,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 1671,
+    "unigram_w1": 234675,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "hingga",
+    "w2": "tahun",
+    "pmi": 0.37916750279825595,
+    "cooc_count": 14022,
+    "unigram_w1": 234675,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 962,
+    "unigram_w1": 274580,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "hingga",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7823,
+    "unigram_w2": 234675,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "campbell",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 356514,
+    "unigram_w2": 470,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "campbell",
+    "pmi": 0.1260413553737656,
+    "cooc_count": 3,
+    "unigram_w1": 86703,
+    "unigram_w2": 470,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 470,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "university",
+    "pmi": 2.808112225538009,
+    "cooc_count": 9,
+    "unigram_w1": 470,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "tim",
+    "pmi": 0.0073183865963157395,
+    "cooc_count": 5,
+    "unigram_w1": 470,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 470,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "apa",
+    "pmi": 0.0,
+    "cooc_count": 673,
+    "unigram_w1": 86703,
+    "unigram_w2": 356514,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "apa",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 5235,
+    "unigram_w2": 356514,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 3467,
+    "unigram_w1": 356514,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "conference",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 356514,
+    "unigram_w2": 4823,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "athletic",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 356514,
+    "unigram_w2": 5415,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 356514,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 356514,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 1058,
+    "unigram_w1": 356514,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 3896,
+    "unigram_w1": 356514,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "bola",
+    "pmi": 0.0,
+    "cooc_count": 1082,
+    "unigram_w1": 356514,
+    "unigram_w2": 274580,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "apa",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 7823,
+    "unigram_w2": 356514,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 0.5682833566865503,
+    "cooc_count": 52,
+    "unigram_w1": 5235,
+    "unigram_w2": 86703,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 346,
+    "unigram_w1": 86703,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "conference",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 86703,
+    "unigram_w2": 4823,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "athletic",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 86703,
+    "unigram_w2": 5415,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "trans",
+    "pmi": 0.3986662208398796,
+    "cooc_count": 46,
+    "unigram_w1": 86703,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "university",
+    "pmi": 0.07550780578399413,
+    "cooc_count": 108,
+    "unigram_w1": 86703,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 379,
+    "unigram_w1": 86703,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "tahun",
+    "pmi": 1.0603593590079443,
+    "cooc_count": 10238,
+    "unigram_w1": 86703,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "bola",
+    "pmi": 0.0,
+    "cooc_count": 209,
+    "unigram_w1": 86703,
+    "unigram_w2": 274580,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "american",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 86703,
+    "unigram_w2": 7823,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 5235,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "conference",
+    "pmi": 1.452042131337584,
+    "cooc_count": 7,
+    "unigram_w1": 5235,
+    "unigram_w2": 4823,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "university",
+    "pmi": 1.3359924355304067,
+    "cooc_count": 23,
+    "unigram_w1": 5235,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 5235,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "tahun",
+    "pmi": 2.0415437554914972,
+    "cooc_count": 1649,
+    "unigram_w1": 5235,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "bola",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 5235,
+    "unigram_w2": 274580,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "american",
+    "pmi": 1.7950487329059432,
+    "cooc_count": 16,
+    "unigram_w1": 5235,
+    "unigram_w2": 7823,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 4823,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 5415,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "tempat",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 102,
+    "unigram_w1": 286951,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "tempat",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 286951,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "tempat",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 885,
+    "unigram_w1": 286951,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "tahun",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 2384,
+    "unigram_w1": 630119,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 1274,
+    "unigram_w1": 274580,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "tempat",
+    "pmi": 0.0,
+    "cooc_count": 38,
+    "unigram_w1": 7823,
+    "unigram_w2": 286951,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "trans",
+    "pmi": 0.8454115296478232,
+    "cooc_count": 4,
+    "unigram_w1": 4823,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "university",
+    "pmi": 2.0201385411202906,
+    "cooc_count": 42,
+    "unigram_w1": 4823,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 4823,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 4823,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "tim",
+    "pmi": 0.6450328916603724,
+    "cooc_count": 109,
+    "unigram_w1": 5415,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 5415,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "bola",
+    "pmi": 1.9525722279393452,
+    "cooc_count": 680,
+    "unigram_w1": 5415,
+    "unigram_w2": 274580,
+    "window_size": 10
+  },
+  {
+    "w1": "tim",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 162721,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "tahun",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 161,
+    "unigram_w1": 630119,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 274580,
+    "unigram_w2": 5487,
+    "window_size": 10
+  },
+  {
+    "w1": "tim",
+    "w2": "university",
+    "pmi": 0.07209568351753887,
+    "cooc_count": 202,
+    "unigram_w1": 162721,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "tahun",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 515,
+    "unigram_w1": 630119,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 274580,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "university",
+    "pmi": 1.8931415134429144,
+    "cooc_count": 60,
+    "unigram_w1": 7823,
+    "unigram_w2": 17797,
+    "window_size": 10
+  },
+  {
+    "w1": "tahun",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 3110,
+    "unigram_w1": 630119,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "tim",
+    "pmi": 0.3937529489110052,
+    "cooc_count": 4299,
+    "unigram_w1": 274580,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "tim",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 7823,
+    "unigram_w2": 162721,
+    "window_size": 10
+  },
+  {
+    "w1": "bola",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 1588,
+    "unigram_w1": 274580,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 223,
+    "unigram_w1": 7823,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "bola",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 7823,
+    "unigram_w2": 274580,
+    "window_size": 10
+  }
+]

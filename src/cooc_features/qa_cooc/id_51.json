@@ -1,0 +1,227 @@
+[
+  {
+    "w1": "del",
+    "w2": "lama",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 7299,
+    "unigram_w2": 160087,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "seorang",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 7299,
+    "unigram_w2": 169875,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 72,
+    "unigram_w1": 7299,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "empat",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 7299,
+    "unigram_w2": 63347,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "del",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 50984,
+    "unigram_w2": 7299,
+    "window_size": 10
+  },
+  {
+    "w1": "lama",
+    "w2": "seorang",
+    "pmi": 0.0,
+    "cooc_count": 1128,
+    "unigram_w1": 160087,
+    "unigram_w2": 169875,
+    "window_size": 10
+  },
+  {
+    "w1": "lama",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 4150,
+    "unigram_w1": 160087,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "empat",
+    "w2": "lama",
+    "pmi": 0.0,
+    "cooc_count": 309,
+    "unigram_w1": 63347,
+    "unigram_w2": 160087,
+    "window_size": 10
+  },
+  {
+    "w1": "lama",
+    "w2": "menjabat",
+    "pmi": 0.11240936807407939,
+    "cooc_count": 66,
+    "unigram_w1": 160087,
+    "unigram_w2": 5677,
+    "window_size": 10
+  },
+  {
+    "w1": "lama",
+    "w2": "rektor",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 160087,
+    "unigram_w2": 6289,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "lama",
+    "pmi": 2.62206168203068,
+    "cooc_count": 7291,
+    "unigram_w1": 50984,
+    "unigram_w2": 160087,
+    "window_size": 10
+  },
+  {
+    "w1": "seorang",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 6449,
+    "unigram_w1": 169875,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "empat",
+    "w2": "seorang",
+    "pmi": 0.0,
+    "cooc_count": 313,
+    "unigram_w1": 63347,
+    "unigram_w2": 169875,
+    "window_size": 10
+  },
+  {
+    "w1": "menjabat",
+    "w2": "seorang",
+    "pmi": 0.022292254391380755,
+    "cooc_count": 64,
+    "unigram_w1": 5677,
+    "unigram_w2": 169875,
+    "window_size": 10
+  },
+  {
+    "w1": "rektor",
+    "w2": "seorang",
+    "pmi": 0.0,
+    "cooc_count": 37,
+    "unigram_w1": 6289,
+    "unigram_w2": 169875,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "seorang",
+    "pmi": 0.0,
+    "cooc_count": 345,
+    "unigram_w1": 50984,
+    "unigram_w2": 169875,
+    "window_size": 10
+  },
+  {
+    "w1": "empat",
+    "w2": "tahun",
+    "pmi": 0.7746235905696124,
+    "cooc_count": 5621,
+    "unigram_w1": 63347,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "menjabat",
+    "w2": "tahun",
+    "pmi": 1.0775930109092715,
+    "cooc_count": 682,
+    "unigram_w1": 5677,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "rektor",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 176,
+    "unigram_w1": 6289,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "tahun",
+    "pmi": 0.0,
+    "cooc_count": 1291,
+    "unigram_w1": 50984,
+    "unigram_w2": 630119,
+    "window_size": 10
+  },
+  {
+    "w1": "empat",
+    "w2": "menjabat",
+    "pmi": 0.8928957616507056,
+    "cooc_count": 57,
+    "unigram_w1": 63347,
+    "unigram_w2": 5677,
+    "window_size": 10
+  },
+  {
+    "w1": "empat",
+    "w2": "rektor",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 63347,
+    "unigram_w2": 6289,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "empat",
+    "pmi": 0.0,
+    "cooc_count": 179,
+    "unigram_w1": 50984,
+    "unigram_w2": 63347,
+    "window_size": 10
+  },
+  {
+    "w1": "menjabat",
+    "w2": "rektor",
+    "pmi": 3.379177673117757,
+    "cooc_count": 68,
+    "unigram_w1": 5677,
+    "unigram_w2": 6289,
+    "window_size": 10
+  },
+  {
+    "w1": "berapa",
+    "w2": "menjabat",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 50984,
+    "unigram_w2": 5677,
+    "window_size": 10
+  }
+]

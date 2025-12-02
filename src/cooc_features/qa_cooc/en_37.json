@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "first",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 5181,
+    "unigram_w1": 435341,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "female",
+    "w2": "who",
+    "pmi": 0.33812968702474067,
+    "cooc_count": 673,
+    "unigram_w1": 22208,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "turkey",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 12259,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "who",
+    "pmi": 0.0,
+    "cooc_count": 28878,
+    "unigram_w1": 2953858,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "mayor",
+    "w2": "who",
+    "pmi": 0.3956690783205198,
+    "cooc_count": 339,
+    "unigram_w1": 10561,
+    "unigram_w2": 453714,
+    "window_size": 10
+  },
+  {
+    "w1": "female",
+    "w2": "first",
+    "pmi": 0.6600661964001869,
+    "cooc_count": 891,
+    "unigram_w1": 22208,
+    "unigram_w2": 435341,
+    "window_size": 10
+  },
+  {
+    "w1": "first",
+    "w2": "turkey",
+    "pmi": 0.0,
+    "cooc_count": 123,
+    "unigram_w1": 435341,
+    "unigram_w2": 12259,
+    "window_size": 10
+  },
+  {
+    "w1": "first",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 42985,
+    "unigram_w1": 435341,
+    "unigram_w2": 2953858,
+    "window_size": 10
+  },
+  {
+    "w1": "first",
+    "w2": "mayor",
+    "pmi": 0.15226992764786046,
+    "cooc_count": 255,
+    "unigram_w1": 435341,
+    "unigram_w2": 10561,
+    "window_size": 10
+  },
+  {
+    "w1": "female",
+    "w2": "turkey",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 22208,
+    "unigram_w2": 12259,
+    "window_size": 10
+  },
+  {
+    "w1": "female",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 1244,
+    "unigram_w1": 22208,
+    "unigram_w2": 2953858,
+    "window_size": 10
+  },
+  {
+    "w1": "female",
+    "w2": "mayor",
+    "pmi": 0.6777258835625843,
+    "cooc_count": 22,
+    "unigram_w1": 22208,
+    "unigram_w2": 10561,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "turkey",
+    "pmi": 0.0,
+    "cooc_count": 722,
+    "unigram_w1": 2953858,
+    "unigram_w2": 12259,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "mayor",
+    "pmi": 0.0,
+    "cooc_count": 365,
+    "unigram_w1": 2953858,
+    "unigram_w2": 10561,
+    "window_size": 10
+  }
+]

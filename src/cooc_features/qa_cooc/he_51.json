@@ -1,0 +1,155 @@
+[
+  {
+    "w1": "cuore",
+    "w2": "del",
+    "pmi": 8.683787682860663,
+    "cooc_count": 9,
+    "unigram_w1": 9,
+    "unigram_w2": 2318,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "כמה",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2318,
+    "unigram_w2": 326482,
+    "window_size": 10
+  },
+  {
+    "w1": "del",
+    "w2": "ארבע",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2318,
+    "unigram_w2": 33294,
+    "window_size": 10
+  },
+  {
+    "w1": "זמן",
+    "w2": "שנים",
+    "pmi": 0.0,
+    "cooc_count": 1974,
+    "unigram_w1": 197591,
+    "unigram_w2": 242249,
+    "window_size": 10
+  },
+  {
+    "w1": "בתפקידו",
+    "w2": "שנים",
+    "pmi": 0.5898438113809492,
+    "cooc_count": 90,
+    "unigram_w1": 2820,
+    "unigram_w2": 242249,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "שנים",
+    "pmi": 1.3001998383313615,
+    "cooc_count": 21201,
+    "unigram_w1": 326482,
+    "unigram_w2": 242249,
+    "window_size": 10
+  },
+  {
+    "w1": "נשאר",
+    "w2": "שנים",
+    "pmi": 0.0,
+    "cooc_count": 329,
+    "unigram_w1": 22104,
+    "unigram_w2": 242249,
+    "window_size": 10
+  },
+  {
+    "w1": "ארבע",
+    "w2": "שנים",
+    "pmi": 2.6509314865803852,
+    "cooc_count": 8346,
+    "unigram_w1": 33294,
+    "unigram_w2": 242249,
+    "window_size": 10
+  },
+  {
+    "w1": "בתפקידו",
+    "w2": "זמן",
+    "pmi": 0.527907530725536,
+    "cooc_count": 69,
+    "unigram_w1": 2820,
+    "unigram_w2": 197591,
+    "window_size": 10
+  },
+  {
+    "w1": "זמן",
+    "w2": "כמה",
+    "pmi": 1.308455407408273,
+    "cooc_count": 17436,
+    "unigram_w1": 197591,
+    "unigram_w2": 326482,
+    "window_size": 10
+  },
+  {
+    "w1": "זמן",
+    "w2": "נשאר",
+    "pmi": 1.0504193135315147,
+    "cooc_count": 912,
+    "unigram_w1": 197591,
+    "unigram_w2": 22104,
+    "window_size": 10
+  },
+  {
+    "w1": "ארבע",
+    "w2": "זמן",
+    "pmi": 0.0,
+    "cooc_count": 292,
+    "unigram_w1": 33294,
+    "unigram_w2": 197591,
+    "window_size": 10
+  },
+  {
+    "w1": "בתפקידו",
+    "w2": "כמה",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 2820,
+    "unigram_w2": 326482,
+    "window_size": 10
+  },
+  {
+    "w1": "בתפקידו",
+    "w2": "נשאר",
+    "pmi": 2.4354853948063755,
+    "cooc_count": 52,
+    "unigram_w1": 2820,
+    "unigram_w2": 22104,
+    "window_size": 10
+  },
+  {
+    "w1": "כמה",
+    "w2": "נשאר",
+    "pmi": 0.3406043694427482,
+    "cooc_count": 741,
+    "unigram_w1": 326482,
+    "unigram_w2": 22104,
+    "window_size": 10
+  },
+  {
+    "w1": "ארבע",
+    "w2": "כמה",
+    "pmi": 0.0,
+    "cooc_count": 256,
+    "unigram_w1": 33294,
+    "unigram_w2": 326482,
+    "window_size": 10
+  },
+  {
+    "w1": "ארבע",
+    "w2": "נשאר",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 33294,
+    "unigram_w2": 22104,
+    "window_size": 10
+  }
+]

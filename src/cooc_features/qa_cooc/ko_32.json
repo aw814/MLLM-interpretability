@@ -1,0 +1,272 @@
+[
+  {
+    "w1": "7월",
+    "w2": "언제인가요?",
+    "pmi": 1.3946965263579914,
+    "cooc_count": 3,
+    "unigram_w1": 28879,
+    "unigram_w2": 49,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "7월",
+    "pmi": 1.8283016010953088,
+    "cooc_count": 830,
+    "unigram_w1": 8787,
+    "unigram_w2": 28879,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "7월",
+    "pmi": 0.0,
+    "cooc_count": 133,
+    "unigram_w1": 197099,
+    "unigram_w2": 28879,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "7월",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 143501,
+    "unigram_w2": 28879,
+    "window_size": 10
+  },
+  {
+    "w1": "7월",
+    "w2": "앨범",
+    "pmi": 0.47433246909620047,
+    "cooc_count": 80,
+    "unigram_w1": 28879,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "7월",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 59836,
+    "unigram_w2": 28879,
+    "window_size": 10
+  },
+  {
+    "w1": "7월",
+    "w2": "날짜는",
+    "pmi": 1.9624095245260336,
+    "cooc_count": 31,
+    "unigram_w1": 28879,
+    "unigram_w2": 287,
+    "window_size": 10
+  },
+  {
+    "w1": "2016년",
+    "w2": "7월",
+    "pmi": 1.547402510674382,
+    "cooc_count": 1581,
+    "unigram_w1": 22166,
+    "unigram_w2": 28879,
+    "window_size": 10
+  },
+  {
+    "w1": "7월",
+    "w2": "발매된",
+    "pmi": 1.4679257638330245,
+    "cooc_count": 50,
+    "unigram_w1": 28879,
+    "unigram_w2": 759,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "7",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 8787,
+    "unigram_w2": 197099,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "15일",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 143501,
+    "unigram_w2": 8787,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "앨범",
+    "pmi": 0.5010229901631629,
+    "cooc_count": 25,
+    "unigram_w1": 8787,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "2016",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 8787,
+    "unigram_w2": 59836,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "날짜는",
+    "pmi": 1.6641737999688437,
+    "cooc_count": 7,
+    "unigram_w1": 8787,
+    "unigram_w2": 287,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "2016년",
+    "pmi": 1.4828983438402314,
+    "cooc_count": 451,
+    "unigram_w1": 8787,
+    "unigram_w2": 22166,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "데이비드",
+    "pmi": 0.770270647009843,
+    "cooc_count": 13,
+    "unigram_w1": 8787,
+    "unigram_w2": 1303,
+    "window_size": 10
+  },
+  {
+    "w1": "15일",
+    "w2": "발매된",
+    "pmi": 1.6361158471736863,
+    "cooc_count": 18,
+    "unigram_w1": 8787,
+    "unigram_w2": 759,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "7",
+    "pmi": 0.4515680629061676,
+    "cooc_count": 23350,
+    "unigram_w1": 143501,
+    "unigram_w2": 197099,
+    "window_size": 10
+  },
+  {
+    "w1": "7",
+    "w2": "앨범",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 197099,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "7",
+    "pmi": 0.28422038526109955,
+    "cooc_count": 8236,
+    "unigram_w1": 59836,
+    "unigram_w2": 197099,
+    "window_size": 10
+  },
+  {
+    "w1": "2016년",
+    "w2": "7",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 22166,
+    "unigram_w2": 197099,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "2016",
+    "pmi": 0.4371210124284469,
+    "cooc_count": 6987,
+    "unigram_w1": 143501,
+    "unigram_w2": 59836,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "2016년",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 143501,
+    "unigram_w2": 22166,
+    "window_size": 10
+  },
+  {
+    "w1": "15",
+    "w2": "데이비드",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 143501,
+    "unigram_w2": 1303,
+    "window_size": 10
+  },
+  {
+    "w1": "2016년",
+    "w2": "앨범",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 22166,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "발매된",
+    "w2": "앨범",
+    "pmi": 4.6511549492233,
+    "cooc_count": 137,
+    "unigram_w1": 759,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "2016",
+    "w2": "2016년",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 59836,
+    "unigram_w2": 22166,
+    "window_size": 10
+  },
+  {
+    "w1": "2016년",
+    "w2": "날짜는",
+    "pmi": 0.9902020014099945,
+    "cooc_count": 9,
+    "unigram_w1": 22166,
+    "unigram_w2": 287,
+    "window_size": 10
+  },
+  {
+    "w1": "2016년",
+    "w2": "데이비드",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 22166,
+    "unigram_w2": 1303,
+    "window_size": 10
+  },
+  {
+    "w1": "2016년",
+    "w2": "발매된",
+    "pmi": 0.998511692785712,
+    "cooc_count": 24,
+    "unigram_w1": 22166,
+    "unigram_w2": 759,
+    "window_size": 10
+  }
+]

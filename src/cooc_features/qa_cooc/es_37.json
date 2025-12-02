@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "fue",
+    "w2": "primera",
+    "pmi": 0.7242070615318641,
+    "cooc_count": 8493,
+    "unigram_w1": 364785,
+    "unigram_w2": 199044,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "quién",
+    "pmi": 0.1879879004503756,
+    "cooc_count": 1031,
+    "unigram_w1": 364785,
+    "unigram_w2": 41307,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 705,
+    "unigram_w1": 364785,
+    "unigram_w2": 180848,
+    "window_size": 10
+  },
+  {
+    "w1": "alcaldesa",
+    "w2": "fue",
+    "pmi": 0.28669867759658824,
+    "cooc_count": 107,
+    "unigram_w1": 3884,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "turquía",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 364785,
+    "unigram_w2": 6221,
+    "window_size": 10
+  },
+  {
+    "w1": "primera",
+    "w2": "quién",
+    "pmi": 0.0,
+    "cooc_count": 253,
+    "unigram_w1": 199044,
+    "unigram_w2": 41307,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "primera",
+    "pmi": 0.0,
+    "cooc_count": 536,
+    "unigram_w1": 180848,
+    "unigram_w2": 199044,
+    "window_size": 10
+  },
+  {
+    "w1": "alcaldesa",
+    "w2": "primera",
+    "pmi": 0.5763609029461061,
+    "cooc_count": 78,
+    "unigram_w1": 3884,
+    "unigram_w2": 199044,
+    "window_size": 10
+  },
+  {
+    "w1": "primera",
+    "w2": "turquía",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 199044,
+    "unigram_w2": 6221,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "quién",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 180848,
+    "unigram_w2": 41307,
+    "window_size": 10
+  },
+  {
+    "w1": "alcaldesa",
+    "w2": "quién",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3884,
+    "unigram_w2": 41307,
+    "window_size": 10
+  },
+  {
+    "w1": "quién",
+    "w2": "turquía",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 41307,
+    "unigram_w2": 6221,
+    "window_size": 10
+  },
+  {
+    "w1": "alcaldesa",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 3884,
+    "unigram_w2": 180848,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "turquía",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 180848,
+    "unigram_w2": 6221,
+    "window_size": 10
+  }
+]

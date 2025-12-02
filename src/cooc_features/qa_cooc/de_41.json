@@ -1,0 +1,380 @@
+[
+  {
+    "w1": "university",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 1497,
+    "unigram_w1": 11552,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "university",
+    "pmi": 0.7462185869125808,
+    "cooc_count": 146,
+    "unigram_w1": 111681,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "university",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 563968,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "spielte",
+    "w2": "university",
+    "pmi": 0.07680147162232057,
+    "cooc_count": 6,
+    "unigram_w1": 8964,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "university",
+    "pmi": 2.5675259941640736,
+    "cooc_count": 45,
+    "unigram_w1": 5570,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "university",
+    "pmi": 0.3016826428350713,
+    "cooc_count": 8,
+    "unigram_w1": 9545,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "university",
+    "pmi": 1.708689421621904,
+    "cooc_count": 36,
+    "unigram_w1": 10518,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "university",
+    "pmi": 2.0282490121236267,
+    "cooc_count": 4,
+    "unigram_w1": 849,
+    "unigram_w2": 11552,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 896,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 12305,
+    "unigram_w1": 111681,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "von",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 3834,
+    "unigram_w1": 2962724,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "von",
+    "pmi": 0.2834364811361606,
+    "cooc_count": 119036,
+    "unigram_w1": 563968,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "spielte",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 902,
+    "unigram_w1": 8964,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "conference",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 192,
+    "unigram_w1": 5570,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 1153,
+    "unigram_w1": 9545,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 911,
+    "unigram_w1": 10518,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "von",
+    "pmi": 0.4794439015439919,
+    "cooc_count": 218,
+    "unigram_w1": 849,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "trans",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 1741,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "athletic",
+    "w2": "spielte",
+    "pmi": 1.9403277392200522,
+    "cooc_count": 3,
+    "unigram_w1": 896,
+    "unigram_w2": 8964,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 111681,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "bis",
+    "pmi": 0.0,
+    "cooc_count": 3230,
+    "unigram_w1": 111681,
+    "unigram_w2": 563968,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "spielte",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 111681,
+    "unigram_w2": 8964,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "conference",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 111681,
+    "unigram_w2": 5570,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 9545,
+    "unigram_w2": 111681,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "american",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 111681,
+    "unigram_w2": 10518,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 111681,
+    "unigram_w2": 1741,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 403,
+    "unigram_w1": 563968,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "spielte",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 8964,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "welcher",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 9545,
+    "unigram_w2": 33494,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "spielte",
+    "pmi": 0.09734664563565383,
+    "cooc_count": 299,
+    "unigram_w1": 563968,
+    "unigram_w2": 8964,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "conference",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 563968,
+    "unigram_w2": 5570,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "bis",
+    "pmi": 0.558660600281297,
+    "cooc_count": 505,
+    "unigram_w1": 9545,
+    "unigram_w2": 563968,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "bis",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 10518,
+    "unigram_w2": 563968,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "campbell",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 563968,
+    "unigram_w2": 849,
+    "window_size": 10
+  },
+  {
+    "w1": "bis",
+    "w2": "trans",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 563968,
+    "unigram_w2": 1741,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "spielte",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 9545,
+    "unigram_w2": 8964,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "spielte",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 10518,
+    "unigram_w2": 8964,
+    "window_size": 10
+  },
+  {
+    "w1": "campbell",
+    "w2": "spielte",
+    "pmi": 1.5887438577754711,
+    "cooc_count": 2,
+    "unigram_w1": 849,
+    "unigram_w2": 8964,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "conference",
+    "pmi": 0.05031691803462289,
+    "cooc_count": 3,
+    "unigram_w1": 9545,
+    "unigram_w2": 5570,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "conference",
+    "pmi": 2.1868385215522754,
+    "cooc_count": 28,
+    "unigram_w1": 10518,
+    "unigram_w2": 5570,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "american",
+    "pmi": 0.6185967011325989,
+    "cooc_count": 10,
+    "unigram_w1": 9545,
+    "unigram_w2": 10518,
+    "window_size": 10
+  },
+  {
+    "w1": "american",
+    "w2": "campbell",
+    "pmi": 2.932949735323273,
+    "cooc_count": 9,
+    "unigram_w1": 10518,
+    "unigram_w2": 849,
+    "window_size": 10
+  }
+]

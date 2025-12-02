@@ -1,0 +1,236 @@
+[
+  {
+    "w1": "名字",
+    "w2": "普里",
+    "pmi": 2.5827723890191896,
+    "cooc_count": 8,
+    "unigram_w1": 25138,
+    "unigram_w2": 350,
+    "window_size": 10
+  },
+  {
+    "w1": "普里",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 350,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "普里",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 754775,
+    "unigram_w2": 350,
+    "window_size": 10
+  },
+  {
+    "w1": "主角",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 5644,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "主角",
+    "w2": "名字",
+    "pmi": 1.2194232503165883,
+    "cooc_count": 33,
+    "unigram_w1": 5644,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "主角",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 3486,
+    "unigram_w1": 5644,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "主角",
+    "pmi": 0.25312183021154466,
+    "cooc_count": 377,
+    "unigram_w1": 754775,
+    "unigram_w2": 5644,
+    "window_size": 10
+  },
+  {
+    "w1": "主角",
+    "w2": "叫",
+    "pmi": 1.6322970126727692,
+    "cooc_count": 89,
+    "unigram_w1": 5644,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "系列小说",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 10165533,
+    "unigram_w2": 94,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "系列小说",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 754775,
+    "unigram_w2": 94,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "名字",
+    "pmi": 1.388576720333737,
+    "cooc_count": 2104,
+    "unigram_w1": 303848,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "查理",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 303848,
+    "unigram_w2": 623,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 3838,
+    "unigram_w1": 754775,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "叫",
+    "pmi": 1.8969422156284015,
+    "cooc_count": 6243,
+    "unigram_w1": 303848,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "名字",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 16505,
+    "unigram_w1": 25138,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "名字",
+    "pmi": 0.0,
+    "cooc_count": 632,
+    "unigram_w1": 754775,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "名字",
+    "pmi": 3.289515319286564,
+    "cooc_count": 2079,
+    "unigram_w1": 44864,
+    "unigram_w2": 25138,
+    "window_size": 10
+  },
+  {
+    "w1": "查理",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 299,
+    "unigram_w1": 623,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "查理",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 754775,
+    "unigram_w2": 623,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "查理",
+    "pmi": 1.4269039788057165,
+    "cooc_count": 8,
+    "unigram_w1": 44864,
+    "unigram_w2": 623,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 391427,
+    "unigram_w1": 754775,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "叫",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 17905,
+    "unigram_w1": 44864,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "兹",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 344,
+    "unigram_w1": 1099,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "叫",
+    "pmi": 0.0,
+    "cooc_count": 669,
+    "unigram_w1": 754775,
+    "unigram_w2": 44864,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "兹",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 754775,
+    "unigram_w2": 1099,
+    "window_size": 10
+  }
+]

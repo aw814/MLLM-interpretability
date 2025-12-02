@@ -1,0 +1,533 @@
+[
+  {
+    "w1": "nguyễn",
+    "w2": "thị",
+    "pmi": 11.513815045894166,
+    "cooc_count": 43,
+    "unigram_w1": 82,
+    "unigram_w2": 110,
+    "window_size": 10
+  },
+  {
+    "w1": "mỹ",
+    "w2": "thị",
+    "pmi": 10.237521579988604,
+    "cooc_count": 6,
+    "unigram_w1": 41,
+    "unigram_w2": 110,
+    "window_size": 10
+  },
+  {
+    "w1": "nguyễn",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 82,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 15143,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 26137,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "what",
+    "pmi": 0.8660818589690257,
+    "cooc_count": 12712,
+    "unigram_w1": 179517,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 179517,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 8382,
+    "unigram_w1": 179517,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 7339,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "win",
+    "pmi": 0.2851252716187738,
+    "cooc_count": 659,
+    "unigram_w1": 179517,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "did",
+    "pmi": 0.0,
+    "cooc_count": 7205,
+    "unigram_w1": 1628517,
+    "unigram_w2": 179517,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "medal",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 179517,
+    "unigram_w2": 4611,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 179517,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "asian",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 26137,
+    "unigram_w2": 15143,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 152,
+    "unigram_w1": 15143,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "games",
+    "pmi": 1.3551209579024317,
+    "cooc_count": 259,
+    "unigram_w1": 15143,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 1017,
+    "unigram_w1": 15143,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "bronze",
+    "pmi": 1.2780019919219958,
+    "cooc_count": 19,
+    "unigram_w1": 15143,
+    "unigram_w2": 7339,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "win",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 15143,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "at",
+    "pmi": 0.0,
+    "cooc_count": 666,
+    "unigram_w1": 15143,
+    "unigram_w2": 1628517,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "medal",
+    "pmi": 2.0564173911153945,
+    "cooc_count": 26,
+    "unigram_w1": 15143,
+    "unigram_w2": 4611,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "women",
+    "pmi": 1.9579802738084722,
+    "cooc_count": 665,
+    "unigram_w1": 15143,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 211,
+    "unigram_w1": 26137,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 26137,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 1809,
+    "unigram_w1": 26137,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "bronze",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 26137,
+    "unigram_w2": 7339,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "win",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 26137,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "at",
+    "pmi": 0.0,
+    "cooc_count": 933,
+    "unigram_w1": 26137,
+    "unigram_w2": 1628517,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "medal",
+    "pmi": 0.44973187443593254,
+    "cooc_count": 9,
+    "unigram_w1": 26137,
+    "unigram_w2": 4611,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 96,
+    "unigram_w1": 26137,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 916,
+    "unigram_w1": 92617,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "what",
+    "pmi": 0.15536321277208362,
+    "cooc_count": 85614,
+    "unigram_w1": 2460921,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 7339,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "win",
+    "pmi": 0.0,
+    "cooc_count": 758,
+    "unigram_w1": 625314,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 26019,
+    "unigram_w1": 1628517,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "medal",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 4611,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "what",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 1127,
+    "unigram_w1": 625314,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 4976,
+    "unigram_w1": 92617,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 7339,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "win",
+    "pmi": 1.6506357890657648,
+    "cooc_count": 1332,
+    "unigram_w1": 92617,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 5066,
+    "unigram_w1": 1628517,
+    "unigram_w2": 92617,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "medal",
+    "pmi": 1.572354000623416,
+    "cooc_count": 98,
+    "unigram_w1": 92617,
+    "unigram_w2": 4611,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 200,
+    "unigram_w1": 92617,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 358,
+    "unigram_w1": 7339,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "win",
+    "pmi": 0.0,
+    "cooc_count": 5442,
+    "unigram_w1": 2460921,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 118818,
+    "unigram_w1": 1628517,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "medal",
+    "w2": "s",
+    "pmi": 0.0,
+    "cooc_count": 453,
+    "unigram_w1": 4611,
+    "unigram_w2": 2460921,
+    "window_size": 10
+  },
+  {
+    "w1": "s",
+    "w2": "women",
+    "pmi": 1.096571878408951,
+    "cooc_count": 45667,
+    "unigram_w1": 2460921,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "win",
+    "pmi": 0.8201104510071869,
+    "cooc_count": 46,
+    "unigram_w1": 7339,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "bronze",
+    "pmi": 0.0,
+    "cooc_count": 303,
+    "unigram_w1": 1628517,
+    "unigram_w2": 7339,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "medal",
+    "pmi": 5.213016092829566,
+    "cooc_count": 296,
+    "unigram_w1": 7339,
+    "unigram_w2": 4611,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "women",
+    "pmi": 0.5892482658284639,
+    "cooc_count": 82,
+    "unigram_w1": 7339,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "win",
+    "pmi": 0.0,
+    "cooc_count": 4283,
+    "unigram_w1": 1628517,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "medal",
+    "w2": "win",
+    "pmi": 2.597890451359109,
+    "cooc_count": 171,
+    "unigram_w1": 4611,
+    "unigram_w2": 57953,
+    "window_size": 10
+  },
+  {
+    "w1": "win",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 57953,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "medal",
+    "pmi": 0.06585477695886022,
+    "cooc_count": 382,
+    "unigram_w1": 1628517,
+    "unigram_w2": 4611,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "women",
+    "pmi": 0.0,
+    "cooc_count": 4246,
+    "unigram_w1": 1628517,
+    "unigram_w2": 130135,
+    "window_size": 10
+  },
+  {
+    "w1": "at",
+    "w2": "đức",
+    "pmi": 2.4512736849011643,
+    "cooc_count": 9,
+    "unigram_w1": 1628517,
+    "unigram_w2": 10,
+    "window_size": 10
+  },
+  {
+    "w1": "medal",
+    "w2": "women",
+    "pmi": 0.3608589256068758,
+    "cooc_count": 41,
+    "unigram_w1": 4611,
+    "unigram_w2": 130135,
+    "window_size": 10
+  }
+]

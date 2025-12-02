@@ -1,0 +1,128 @@
+[
+  {
+    "w1": "bürgermeisterin",
+    "w2": "erste",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 1403,
+    "unigram_w2": 106361,
+    "window_size": 10
+  },
+  {
+    "w1": "bürgermeisterin",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 1403,
+    "unigram_w2": 517841,
+    "window_size": 10
+  },
+  {
+    "w1": "bürgermeisterin",
+    "w2": "wer",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 1403,
+    "unigram_w2": 146185,
+    "window_size": 10
+  },
+  {
+    "w1": "erste",
+    "w2": "war",
+    "pmi": 0.929533389018844,
+    "cooc_count": 7487,
+    "unigram_w1": 106361,
+    "unigram_w2": 517841,
+    "window_size": 10
+  },
+  {
+    "w1": "erste",
+    "w2": "türkei",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 106361,
+    "unigram_w2": 11618,
+    "window_size": 10
+  },
+  {
+    "w1": "erste",
+    "w2": "wer",
+    "pmi": 0.0,
+    "cooc_count": 470,
+    "unigram_w1": 106361,
+    "unigram_w2": 146185,
+    "window_size": 10
+  },
+  {
+    "w1": "erste",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 106361,
+    "unigram_w2": 161165,
+    "window_size": 10
+  },
+  {
+    "w1": "türkei",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 181,
+    "unigram_w1": 11618,
+    "unigram_w2": 517841,
+    "window_size": 10
+  },
+  {
+    "w1": "war",
+    "w2": "wer",
+    "pmi": 0.0,
+    "cooc_count": 2621,
+    "unigram_w1": 517841,
+    "unigram_w2": 146185,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "war",
+    "pmi": 0.0,
+    "cooc_count": 1142,
+    "unigram_w1": 161165,
+    "unigram_w2": 517841,
+    "window_size": 10
+  },
+  {
+    "w1": "türkei",
+    "w2": "wer",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 11618,
+    "unigram_w2": 146185,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "türkei",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 161165,
+    "unigram_w2": 11618,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "wer",
+    "pmi": 0.0,
+    "cooc_count": 322,
+    "unigram_w1": 161165,
+    "unigram_w2": 146185,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "lhan",
+    "pmi": 4.645083218897593,
+    "cooc_count": 9,
+    "unigram_w1": 161165,
+    "unigram_w2": 10,
+    "window_size": 10
+  }
+]

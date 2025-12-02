@@ -1,0 +1,110 @@
+[
+  {
+    "w1": "charlie",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 2540,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 37292,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "era",
+    "pmi": 1.1046164091537798,
+    "cooc_count": 1187,
+    "unigram_w1": 37292,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "protagonista",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 37292,
+    "unigram_w2": 13878,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "nombre",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 2540,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "charlie",
+    "w2": "era",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2540,
+    "unigram_w2": 186016,
+    "window_size": 10
+  },
+  {
+    "w1": "nombre",
+    "w2": "novelas",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 107905,
+    "unigram_w2": 6137,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "novelas",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 186016,
+    "unigram_w2": 6137,
+    "window_size": 10
+  },
+  {
+    "w1": "novelas",
+    "w2": "protagonista",
+    "pmi": 2.317222954723808,
+    "cooc_count": 49,
+    "unigram_w1": 6137,
+    "unigram_w2": 13878,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "nombre",
+    "pmi": 0.26140473209327886,
+    "cooc_count": 1478,
+    "unigram_w1": 186016,
+    "unigram_w2": 107905,
+    "window_size": 10
+  },
+  {
+    "w1": "nombre",
+    "w2": "protagonista",
+    "pmi": 0.01283476588022238,
+    "cooc_count": 86,
+    "unigram_w1": 107905,
+    "unigram_w2": 13878,
+    "window_size": 10
+  },
+  {
+    "w1": "era",
+    "w2": "protagonista",
+    "pmi": 0.6906597907694836,
+    "cooc_count": 292,
+    "unigram_w1": 186016,
+    "unigram_w2": 13878,
+    "window_size": 10
+  }
+]

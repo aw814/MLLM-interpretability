@@ -1,0 +1,47 @@
+[
+  {
+    "w1": "1986",
+    "w2": "1986년",
+    "pmi": 0.9106755249697276,
+    "cooc_count": 4,
+    "unigram_w1": 3662,
+    "unigram_w2": 836,
+    "window_size": 10
+  },
+  {
+    "w1": "1986년",
+    "w2": "상은",
+    "pmi": 4.483099187249396,
+    "cooc_count": 7,
+    "unigram_w1": 836,
+    "unigram_w2": 180,
+    "window_size": 10
+  },
+  {
+    "w1": "상은",
+    "w2": "처음",
+    "pmi": 1.5473297064563065,
+    "cooc_count": 9,
+    "unigram_w1": 180,
+    "unigram_w2": 20246,
+    "window_size": 10
+  },
+  {
+    "w1": "1986년",
+    "w2": "처음",
+    "pmi": 1.2801692697253224,
+    "cooc_count": 32,
+    "unigram_w1": 836,
+    "unigram_w2": 20246,
+    "window_size": 10
+  },
+  {
+    "w1": "언제",
+    "w2": "처음",
+    "pmi": 0.8929942317954233,
+    "cooc_count": 132,
+    "unigram_w1": 5079,
+    "unigram_w2": 20246,
+    "window_size": 10
+  }
+]

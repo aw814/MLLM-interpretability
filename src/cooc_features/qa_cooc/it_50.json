@@ -1,0 +1,353 @@
+[
+  {
+    "w1": "giochi",
+    "w2": "medaglia",
+    "pmi": 1.4933270328240245,
+    "cooc_count": 70,
+    "unigram_w1": 57019,
+    "unigram_w2": 5789,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "medaglia",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 19691,
+    "unigram_w2": 5789,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "medaglia",
+    "pmi": 0.751657235237603,
+    "cooc_count": 258,
+    "unigram_w1": 441209,
+    "unigram_w2": 5789,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzo",
+    "w2": "medaglia",
+    "pmi": 5.841892579234866,
+    "cooc_count": 598,
+    "unigram_w1": 6296,
+    "unigram_w2": 5789,
+    "window_size": 10
+  },
+  {
+    "w1": "medaglia",
+    "w2": "vinto",
+    "pmi": 3.200840507821183,
+    "cooc_count": 117,
+    "unigram_w1": 5789,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "medaglia",
+    "w2": "nel",
+    "pmi": 0.04577346003431047,
+    "cooc_count": 321,
+    "unigram_w1": 5789,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "medaglia",
+    "pmi": 0.11626794201722707,
+    "cooc_count": 340,
+    "unigram_w1": 1097614,
+    "unigram_w2": 5789,
+    "window_size": 10
+  },
+  {
+    "w1": "femminile",
+    "w2": "medaglia",
+    "pmi": 1.6803920916450432,
+    "cooc_count": 41,
+    "unigram_w1": 27699,
+    "unigram_w2": 5789,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "giochi",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 19691,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "giochi",
+    "pmi": 0.7901855820853148,
+    "cooc_count": 2641,
+    "unigram_w1": 441209,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzo",
+    "w2": "giochi",
+    "pmi": 0.8985464630397995,
+    "cooc_count": 42,
+    "unigram_w1": 6296,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "vinto",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 57019,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 1401,
+    "unigram_w1": 57019,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "giochi",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 925,
+    "unigram_w1": 57019,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "femminile",
+    "w2": "giochi",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 27699,
+    "unigram_w2": 57019,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "ai",
+    "pmi": 0.0,
+    "cooc_count": 271,
+    "unigram_w1": 19691,
+    "unigram_w2": 441209,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "bronzo",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 19691,
+    "unigram_w2": 6296,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "vinto",
+    "pmi": 0.04767780361347708,
+    "cooc_count": 17,
+    "unigram_w1": 19691,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "nel",
+    "pmi": 1.0243188927241407,
+    "cooc_count": 2905,
+    "unigram_w1": 19691,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 630,
+    "unigram_w1": 19691,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "femminile",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 19691,
+    "unigram_w2": 27699,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "bronzo",
+    "pmi": 0.005091832519504794,
+    "cooc_count": 133,
+    "unigram_w1": 441209,
+    "unigram_w2": 6296,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "vinto",
+    "pmi": 0.0,
+    "cooc_count": 148,
+    "unigram_w1": 441209,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 11692,
+    "unigram_w1": 441209,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "asiatici",
+    "pmi": 0.6578046413244942,
+    "cooc_count": 48,
+    "unigram_w1": 441209,
+    "unigram_w2": 1183,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 14252,
+    "unigram_w1": 441209,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "ai",
+    "w2": "femminile",
+    "pmi": 0.0,
+    "cooc_count": 199,
+    "unigram_w1": 441209,
+    "unigram_w2": 27699,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzo",
+    "w2": "vinto",
+    "pmi": 1.399234064728615,
+    "cooc_count": 21,
+    "unigram_w1": 6296,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzo",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 231,
+    "unigram_w1": 6296,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzo",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 6296,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzo",
+    "w2": "femminile",
+    "pmi": 1.0609189092704465,
+    "cooc_count": 24,
+    "unigram_w1": 6296,
+    "unigram_w2": 27699,
+    "window_size": 10
+  },
+  {
+    "w1": "nel",
+    "w2": "vinto",
+    "pmi": 0.31563299019113705,
+    "cooc_count": 1255,
+    "unigram_w1": 1111965,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "vinto",
+    "pmi": 2.296375922648787,
+    "cooc_count": 8979,
+    "unigram_w1": 1097614,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "femminile",
+    "w2": "vinto",
+    "pmi": 0.2405256566481675,
+    "cooc_count": 29,
+    "unigram_w1": 27699,
+    "unigram_w2": 17280,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 1183,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "ha",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 47672,
+    "unigram_w1": 1097614,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "femminile",
+    "w2": "nel",
+    "pmi": 0.0,
+    "cooc_count": 1284,
+    "unigram_w1": 27699,
+    "unigram_w2": 1111965,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatici",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 1183,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  },
+  {
+    "w1": "femminile",
+    "w2": "ha",
+    "pmi": 0.0,
+    "cooc_count": 789,
+    "unigram_w1": 27699,
+    "unigram_w2": 1097614,
+    "window_size": 10
+  }
+]

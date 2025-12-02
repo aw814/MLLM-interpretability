@@ -1,0 +1,119 @@
+[
+  {
+    "w1": "3",
+    "w2": "赛事",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 109026,
+    "unigram_w2": 15384,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "赛事",
+    "pmi": 0.951500685476821,
+    "cooc_count": 158,
+    "unigram_w1": 57723,
+    "unigram_w2": 15384,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "赛事",
+    "pmi": 0.0,
+    "cooc_count": 1611,
+    "unigram_w1": 2356497,
+    "unigram_w2": 15384,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "三月",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 109026,
+    "unigram_w2": 3322,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "festa",
+    "pmi": 4.894058261430484,
+    "cooc_count": 6,
+    "unigram_w1": 109026,
+    "unigram_w2": 6,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "举行",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 109026,
+    "unigram_w2": 57723,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 585,
+    "unigram_w1": 109026,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "3",
+    "w2": "k",
+    "pmi": 2.9319934323227224,
+    "cooc_count": 1807,
+    "unigram_w1": 109026,
+    "unigram_w2": 12855,
+    "window_size": 10
+  },
+  {
+    "w1": "三月",
+    "w2": "举行",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 3322,
+    "unigram_w2": 57723,
+    "window_size": 10
+  },
+  {
+    "w1": "三月",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 379,
+    "unigram_w1": 3322,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "在",
+    "pmi": 0.9378055796543838,
+    "cooc_count": 23873,
+    "unigram_w1": 57723,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "几月份",
+    "w2": "在",
+    "pmi": 0.33643840455686386,
+    "cooc_count": 17,
+    "unigram_w1": 75,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "k",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 12855,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  }
+]

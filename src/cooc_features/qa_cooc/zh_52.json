@@ -1,0 +1,380 @@
+[
+  {
+    "w1": "半径",
+    "w2": "方程",
+    "pmi": 6.420910614409093,
+    "cooc_count": 81,
+    "unigram_w1": 1349,
+    "unigram_w2": 1422,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "半径",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 303848,
+    "unigram_w2": 1349,
+    "window_size": 10
+  },
+  {
+    "w1": "半径",
+    "w2": "表示",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1349,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "半径",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 754775,
+    "unigram_w2": 1349,
+    "window_size": 10
+  },
+  {
+    "w1": "半径",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 1349,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "半径",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 202,
+    "unigram_w1": 1349,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "方程",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 303848,
+    "unigram_w2": 1422,
+    "window_size": 10
+  },
+  {
+    "w1": "方程",
+    "w2": "表示",
+    "pmi": 0.05842832731353865,
+    "cooc_count": 17,
+    "unigram_w1": 1422,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "方程",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 754775,
+    "unigram_w2": 1422,
+    "window_size": 10
+  },
+  {
+    "w1": "方程",
+    "w2": "质量",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 1422,
+    "unigram_w2": 47619,
+    "window_size": 10
+  },
+  {
+    "w1": "方程",
+    "w2": "用",
+    "pmi": 0.9001088447670988,
+    "cooc_count": 49,
+    "unigram_w1": 1422,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "方程",
+    "pmi": 0.0,
+    "cooc_count": 129,
+    "unigram_w1": 2356497,
+    "unigram_w2": 1422,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "表示",
+    "pmi": 0.0,
+    "cooc_count": 781,
+    "unigram_w1": 303848,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 21087,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 3838,
+    "unigram_w1": 754775,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 26232,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "质量",
+    "pmi": 0.0,
+    "cooc_count": 184,
+    "unigram_w1": 303848,
+    "unigram_w2": 47619,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "用",
+    "pmi": 0.7074042922537611,
+    "cooc_count": 8635,
+    "unigram_w1": 303848,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "符号",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 303848,
+    "unigram_w2": 2828,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 19863,
+    "unigram_w1": 303848,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "表示",
+    "pmi": 0.005831907791637231,
+    "cooc_count": 8561,
+    "unigram_w1": 754775,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "表示",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 26232,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "表示",
+    "w2": "质量",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 164122,
+    "unigram_w2": 47619,
+    "window_size": 10
+  },
+  {
+    "w1": "用",
+    "w2": "表示",
+    "pmi": 0.0,
+    "cooc_count": 1056,
+    "unigram_w1": 203881,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "符号",
+    "w2": "表示",
+    "pmi": 0.6152470105097648,
+    "cooc_count": 59,
+    "unigram_w1": 2828,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "表示",
+    "pmi": 0.09557235342143254,
+    "cooc_count": 29238,
+    "unigram_w1": 2356497,
+    "unigram_w2": 164122,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 21087,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "p",
+    "pmi": 5.421304849701498,
+    "cooc_count": 8596,
+    "unigram_w1": 26232,
+    "unigram_w2": 21087,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 21087,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 21087,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "中",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 26232,
+    "unigram_w2": 754775,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "质量",
+    "pmi": 0.0,
+    "cooc_count": 862,
+    "unigram_w1": 754775,
+    "unigram_w2": 47619,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 5758,
+    "unigram_w1": 754775,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "符号",
+    "pmi": 0.28489948728352193,
+    "cooc_count": 195,
+    "unigram_w1": 754775,
+    "unigram_w2": 2828,
+    "window_size": 10
+  },
+  {
+    "w1": "中",
+    "w2": "在",
+    "pmi": 0.5821407185855212,
+    "cooc_count": 218732,
+    "unigram_w1": 754775,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 26232,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "m",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 26232,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "用",
+    "w2": "质量",
+    "pmi": 0.0,
+    "cooc_count": 375,
+    "unigram_w1": 203881,
+    "unigram_w2": 47619,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "质量",
+    "pmi": 0.0,
+    "cooc_count": 3510,
+    "unigram_w1": 2356497,
+    "unigram_w2": 47619,
+    "window_size": 10
+  },
+  {
+    "w1": "用",
+    "w2": "符号",
+    "pmi": 0.43165699417650644,
+    "cooc_count": 61,
+    "unigram_w1": 203881,
+    "unigram_w2": 2828,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "用",
+    "pmi": 0.0,
+    "cooc_count": 19315,
+    "unigram_w1": 2356497,
+    "unigram_w2": 203881,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "符号",
+    "pmi": 0.0,
+    "cooc_count": 235,
+    "unigram_w1": 2356497,
+    "unigram_w2": 2828,
+    "window_size": 10
+  }
+]

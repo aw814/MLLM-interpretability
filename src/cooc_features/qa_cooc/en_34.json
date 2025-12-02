@@ -1,0 +1,155 @@
+[
+  {
+    "w1": "according",
+    "w2": "ancient",
+    "pmi": 0.573082681908282,
+    "cooc_count": 75,
+    "unigram_w1": 71623,
+    "unigram_w2": 12395,
+    "window_size": 10
+  },
+  {
+    "w1": "according",
+    "w2": "city",
+    "pmi": 0.0,
+    "cooc_count": 566,
+    "unigram_w1": 71623,
+    "unigram_w2": 180400,
+    "window_size": 10
+  },
+  {
+    "w1": "according",
+    "w2": "writers",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 71623,
+    "unigram_w2": 15378,
+    "window_size": 10
+  },
+  {
+    "w1": "according",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 3858,
+    "unigram_w1": 71623,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "according",
+    "w2": "some",
+    "pmi": 0.0,
+    "cooc_count": 1074,
+    "unigram_w1": 71623,
+    "unigram_w2": 477979,
+    "window_size": 10
+  },
+  {
+    "w1": "ancient",
+    "w2": "city",
+    "pmi": 1.2772548207838976,
+    "cooc_count": 382,
+    "unigram_w1": 12395,
+    "unigram_w2": 180400,
+    "window_size": 10
+  },
+  {
+    "w1": "ancient",
+    "w2": "writers",
+    "pmi": 1.8884174654179573,
+    "cooc_count": 60,
+    "unigram_w1": 12395,
+    "unigram_w2": 15378,
+    "window_size": 10
+  },
+  {
+    "w1": "ancient",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 936,
+    "unigram_w1": 12395,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "ancient",
+    "w2": "some",
+    "pmi": 0.0,
+    "cooc_count": 269,
+    "unigram_w1": 12395,
+    "unigram_w2": 477979,
+    "window_size": 10
+  },
+  {
+    "w1": "city",
+    "w2": "writers",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 180400,
+    "unigram_w2": 15378,
+    "window_size": 10
+  },
+  {
+    "w1": "city",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 11559,
+    "unigram_w1": 180400,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "city",
+    "w2": "some",
+    "pmi": 0.0,
+    "cooc_count": 1469,
+    "unigram_w1": 180400,
+    "unigram_w2": 477979,
+    "window_size": 10
+  },
+  {
+    "w1": "city",
+    "w2": "equated",
+    "pmi": 1.5133142191880413,
+    "cooc_count": 8,
+    "unigram_w1": 180400,
+    "unigram_w2": 205,
+    "window_size": 10
+  },
+  {
+    "w1": "with",
+    "w2": "writers",
+    "pmi": 0.0,
+    "cooc_count": 1252,
+    "unigram_w1": 2478766,
+    "unigram_w2": 15378,
+    "window_size": 10
+  },
+  {
+    "w1": "some",
+    "w2": "writers",
+    "pmi": 0.0,
+    "cooc_count": 276,
+    "unigram_w1": 477979,
+    "unigram_w2": 15378,
+    "window_size": 10
+  },
+  {
+    "w1": "some",
+    "w2": "with",
+    "pmi": 0.0,
+    "cooc_count": 49333,
+    "unigram_w1": 477979,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  },
+  {
+    "w1": "equated",
+    "w2": "with",
+    "pmi": 1.2202523977214446,
+    "cooc_count": 82,
+    "unigram_w1": 205,
+    "unigram_w2": 2478766,
+    "window_size": 10
+  }
+]

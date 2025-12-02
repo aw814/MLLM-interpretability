@@ -1,0 +1,191 @@
+[
+  {
+    "w1": "אנטבה",
+    "w2": "באנטבה",
+    "pmi": 8.78596224137046,
+    "cooc_count": 77,
+    "unigram_w1": 550,
+    "unigram_w2": 293,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "במקור",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 790184,
+    "unigram_w2": 12042,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "הכללי",
+    "pmi": 0.0,
+    "cooc_count": 84,
+    "unigram_w1": 790184,
+    "unigram_w2": 18603,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "נקרא",
+    "pmi": 0.0,
+    "cooc_count": 470,
+    "unigram_w1": 790184,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "דרגה",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 790184,
+    "unigram_w2": 2666,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "בית",
+    "pmi": 0.0,
+    "cooc_count": 2032,
+    "unigram_w1": 790184,
+    "unigram_w2": 420061,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "אנטבה",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 790184,
+    "unigram_w2": 550,
+    "window_size": 10
+  },
+  {
+    "w1": "איך",
+    "w2": "החולים",
+    "pmi": 0.0,
+    "cooc_count": 147,
+    "unigram_w1": 790184,
+    "unigram_w2": 45661,
+    "window_size": 10
+  },
+  {
+    "w1": "במקור",
+    "w2": "נקרא",
+    "pmi": 0.3875527098949395,
+    "cooc_count": 32,
+    "unigram_w1": 12042,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "במקור",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 420061,
+    "unigram_w2": 12042,
+    "window_size": 10
+  },
+  {
+    "w1": "במקור",
+    "w2": "החולים",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 12042,
+    "unigram_w2": 45661,
+    "window_size": 10
+  },
+  {
+    "w1": "הכללי",
+    "w2": "נקרא",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 18603,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "דרגה",
+    "w2": "הכללי",
+    "pmi": 0.3222729814378187,
+    "cooc_count": 5,
+    "unigram_w1": 2666,
+    "unigram_w2": 18603,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "הכללי",
+    "pmi": 0.0,
+    "cooc_count": 338,
+    "unigram_w1": 420061,
+    "unigram_w2": 18603,
+    "window_size": 10
+  },
+  {
+    "w1": "החולים",
+    "w2": "הכללי",
+    "pmi": 1.1244431769375927,
+    "cooc_count": 191,
+    "unigram_w1": 45661,
+    "unigram_w2": 18603,
+    "window_size": 10
+  },
+  {
+    "w1": "דרגה",
+    "w2": "נקרא",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 2666,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "נקרא",
+    "pmi": 0.0,
+    "cooc_count": 420,
+    "unigram_w1": 420061,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "אנטבה",
+    "w2": "נקרא",
+    "pmi": 1.1066666355611994,
+    "cooc_count": 3,
+    "unigram_w1": 550,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "החולים",
+    "w2": "נקרא",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 45661,
+    "unigram_w2": 24693,
+    "window_size": 10
+  },
+  {
+    "w1": "אנטבה",
+    "w2": "בית",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 550,
+    "unigram_w2": 420061,
+    "window_size": 10
+  },
+  {
+    "w1": "בית",
+    "w2": "החולים",
+    "pmi": 2.210572889262481,
+    "cooc_count": 12778,
+    "unigram_w1": 420061,
+    "unigram_w2": 45661,
+    "window_size": 10
+  }
+]

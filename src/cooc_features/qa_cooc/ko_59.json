@@ -1,0 +1,38 @@
+[
+  {
+    "w1": "된",
+    "w2": "해는",
+    "pmi": 0.6608366097148807,
+    "cooc_count": 18,
+    "unigram_w1": 49821,
+    "unigram_w2": 355,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "2014년",
+    "pmi": 0.0,
+    "cooc_count": 85,
+    "unigram_w1": 42356,
+    "unigram_w2": 18250,
+    "window_size": 10
+  },
+  {
+    "w1": "2014",
+    "w2": "된",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 42356,
+    "unigram_w2": 49821,
+    "window_size": 10
+  },
+  {
+    "w1": "2014년",
+    "w2": "된",
+    "pmi": 0.0,
+    "cooc_count": 169,
+    "unigram_w1": 18250,
+    "unigram_w2": 49821,
+    "window_size": 10
+  }
+]

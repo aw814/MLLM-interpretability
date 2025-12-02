@@ -1,0 +1,227 @@
+[
+  {
+    "w1": "ano",
+    "w2": "edição",
+    "pmi": 1.2952942159044043,
+    "cooc_count": 4889,
+    "unigram_w1": 276279,
+    "unigram_w2": 68568,
+    "window_size": 10
+  },
+  {
+    "w1": "edição",
+    "w2": "lançada",
+    "pmi": 1.5476657548528148,
+    "cooc_count": 149,
+    "unigram_w1": 68568,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "edição",
+    "w2": "foi",
+    "pmi": 0.0,
+    "cooc_count": 2495,
+    "unigram_w1": 68568,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "edição",
+    "w2": "news",
+    "pmi": 0.013117123394331758,
+    "cooc_count": 113,
+    "unigram_w1": 68568,
+    "unigram_w2": 23017,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "edição",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 3542,
+    "unigram_w2": 68568,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "edição",
+    "pmi": 0.27807433918205215,
+    "cooc_count": 43,
+    "unigram_w1": 6720,
+    "unigram_w2": 68568,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "pao",
+    "pmi": 0.45709251747838814,
+    "cooc_count": 7,
+    "unigram_w1": 276279,
+    "unigram_w2": 227,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "lançada",
+    "pmi": 0.6097196919503073,
+    "cooc_count": 235,
+    "unigram_w1": 276279,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "foi",
+    "pmi": 0.10337180193505141,
+    "cooc_count": 13904,
+    "unigram_w1": 276279,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 276279,
+    "unigram_w2": 23017,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "ming",
+    "pmi": 1.3797667721343323,
+    "cooc_count": 18,
+    "unigram_w1": 276279,
+    "unigram_w2": 232,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 276279,
+    "unigram_w2": 2365,
+    "window_size": 10
+  },
+  {
+    "w1": "ano",
+    "w2": "daily",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 276279,
+    "unigram_w2": 3542,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "ano",
+    "pmi": 0.6762485373088996,
+    "cooc_count": 258,
+    "unigram_w1": 6720,
+    "unigram_w2": 276279,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "pao",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 642224,
+    "unigram_w2": 227,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "lançada",
+    "pmi": 1.918450649591892,
+    "cooc_count": 2022,
+    "unigram_w1": 642224,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "lançada",
+    "pmi": 0.20000104370324104,
+    "cooc_count": 2,
+    "unigram_w1": 3542,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "lançada",
+    "pmi": 1.6390459702086606,
+    "cooc_count": 16,
+    "unigram_w1": 6720,
+    "unigram_w2": 6542,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 361,
+    "unigram_w1": 642224,
+    "unigram_w2": 23017,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "ming",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 642224,
+    "unigram_w2": 232,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 642224,
+    "unigram_w2": 2365,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "foi",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 3542,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "foi",
+    "pmi": 0.12330744162396881,
+    "cooc_count": 345,
+    "unigram_w1": 6720,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 23017,
+    "unigram_w2": 2365,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "news",
+    "pmi": 4.209869058541204,
+    "cooc_count": 388,
+    "unigram_w1": 3542,
+    "unigram_w2": 23017,
+    "window_size": 10
+  }
+]

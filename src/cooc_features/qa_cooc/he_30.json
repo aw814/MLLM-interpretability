@@ -1,0 +1,497 @@
+[
+  {
+    "w1": "אוגוסט",
+    "w2": "השנייה",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 27528,
+    "unigram_w2": 58711,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "זנב",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 27528,
+    "unigram_w2": 3858,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 59,
+    "unigram_w1": 27528,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 27528,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "במהלך",
+    "pmi": 0.6458075290257047,
+    "cooc_count": 498,
+    "unigram_w1": 27528,
+    "unigram_w2": 129843,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "מלחמת",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 27528,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "העולם",
+    "pmi": 0.0,
+    "cooc_count": 83,
+    "unigram_w1": 27528,
+    "unigram_w2": 194484,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "במטוס",
+    "pmi": 1.2199032930188327,
+    "cooc_count": 13,
+    "unigram_w1": 27528,
+    "unigram_w2": 1909,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "איזה",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 27528,
+    "unigram_w2": 83727,
+    "window_size": 10
+  },
+  {
+    "w1": "אוגוסט",
+    "w2": "וזף",
+    "pmi": 0.5059825885177238,
+    "cooc_count": 7,
+    "unigram_w1": 27528,
+    "unigram_w2": 2099,
+    "window_size": 10
+  },
+  {
+    "w1": "השנייה",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 858,
+    "unigram_w1": 58711,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "השנייה",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 58711,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "השנייה",
+    "pmi": 0.9816272429694529,
+    "cooc_count": 1486,
+    "unigram_w1": 129843,
+    "unigram_w2": 58711,
+    "window_size": 10
+  },
+  {
+    "w1": "השנייה",
+    "w2": "מלחמת",
+    "pmi": 3.83296559063368,
+    "cooc_count": 8920,
+    "unigram_w1": 58711,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "השנייה",
+    "w2": "מילא",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 58711,
+    "unigram_w2": 5625,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "השנייה",
+    "pmi": 2.6192431144460966,
+    "cooc_count": 11447,
+    "unigram_w1": 194484,
+    "unigram_w2": 58711,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "השנייה",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 83727,
+    "unigram_w2": 58711,
+    "window_size": 10
+  },
+  {
+    "w1": "השנייה",
+    "w2": "וזף",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 58711,
+    "unigram_w2": 2099,
+    "window_size": 10
+  },
+  {
+    "w1": "זנב",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 3858,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "זנב",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 129843,
+    "unigram_w2": 3858,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "זנב",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 194484,
+    "unigram_w2": 3858,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "זנב",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 83727,
+    "unigram_w2": 3858,
+    "window_size": 10
+  },
+  {
+    "w1": "שהופל",
+    "w2": "שלו",
+    "pmi": 0.906169342176461,
+    "cooc_count": 8,
+    "unigram_w1": 133,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "במטוס",
+    "w2": "שהופל",
+    "pmi": 5.933473903868172,
+    "cooc_count": 7,
+    "unigram_w1": 1909,
+    "unigram_w2": 133,
+    "window_size": 10
+  },
+  {
+    "w1": "שלו",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 368,
+    "unigram_w1": 332758,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 2207,
+    "unigram_w1": 129843,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "מלחמת",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 255,
+    "unigram_w1": 45024,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "מילא",
+    "w2": "שלו",
+    "pmi": 0.03792775924701899,
+    "cooc_count": 142,
+    "unigram_w1": 5625,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 2117,
+    "unigram_w1": 194484,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "במטוס",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 1909,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 1177,
+    "unigram_w1": 83727,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "וזף",
+    "w2": "שלו",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 2099,
+    "unigram_w2": 332758,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 185,
+    "unigram_w1": 129843,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "מלחמת",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 45024,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "מילא",
+    "w2": "תפקיד",
+    "pmi": 4.1015904958633245,
+    "cooc_count": 696,
+    "unigram_w1": 5625,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 174,
+    "unigram_w1": 194484,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "במטוס",
+    "w2": "תפקיד",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1909,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "תפקיד",
+    "pmi": 0.2495278238491095,
+    "cooc_count": 220,
+    "unigram_w1": 83727,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "וזף",
+    "w2": "תפקיד",
+    "pmi": 0.15143865521499345,
+    "cooc_count": 5,
+    "unigram_w1": 2099,
+    "unigram_w2": 28030,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "מלחמת",
+    "pmi": 1.8322998465997669,
+    "cooc_count": 2668,
+    "unigram_w1": 129843,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "מילא",
+    "pmi": 0.2128449144321728,
+    "cooc_count": 66,
+    "unigram_w1": 129843,
+    "unigram_w2": 5625,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "העולם",
+    "pmi": 0.0,
+    "cooc_count": 1718,
+    "unigram_w1": 129843,
+    "unigram_w2": 194484,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "במטוס",
+    "pmi": 0.32270740062082115,
+    "cooc_count": 25,
+    "unigram_w1": 129843,
+    "unigram_w2": 1909,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "במהלך",
+    "pmi": 0.0,
+    "cooc_count": 227,
+    "unigram_w1": 83727,
+    "unigram_w2": 129843,
+    "window_size": 10
+  },
+  {
+    "w1": "במהלך",
+    "w2": "וזף",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 129843,
+    "unigram_w2": 2099,
+    "window_size": 10
+  },
+  {
+    "w1": "מילא",
+    "w2": "מלחמת",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 5625,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "מלחמת",
+    "pmi": 3.242458326254466,
+    "cooc_count": 16371,
+    "unigram_w1": 194484,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "במטוס",
+    "w2": "מלחמת",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 1909,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "מלחמת",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 83727,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "וזף",
+    "w2": "מלחמת",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 2099,
+    "unigram_w2": 45024,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "מילא",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 194484,
+    "unigram_w2": 5625,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "מילא",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 83727,
+    "unigram_w2": 5625,
+    "window_size": 10
+  },
+  {
+    "w1": "במטוס",
+    "w2": "העולם",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 1909,
+    "unigram_w2": 194484,
+    "window_size": 10
+  },
+  {
+    "w1": "איזה",
+    "w2": "העולם",
+    "pmi": 0.0,
+    "cooc_count": 252,
+    "unigram_w1": 83727,
+    "unigram_w2": 194484,
+    "window_size": 10
+  },
+  {
+    "w1": "העולם",
+    "w2": "וזף",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 194484,
+    "unigram_w2": 2099,
+    "window_size": 10
+  }
+]

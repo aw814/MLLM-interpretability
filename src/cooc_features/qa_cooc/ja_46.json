@@ -1,0 +1,938 @@
+[
+  {
+    "w1": "た",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 176,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 3568,
+    "unigram_w1": 26828306,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 5141625,
+    "unigram_w1": 26828306,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 6437707,
+    "unigram_w1": 26828306,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 2096552,
+    "unigram_w1": 11759829,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "でし",
+    "pmi": 1.454619678174889,
+    "cooc_count": 741326,
+    "unigram_w1": 26828306,
+    "unigram_w2": 833205,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "アニミズム",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 26828306,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 11552,
+    "unigram_w1": 26828306,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 5185501,
+    "unigram_w1": 26828306,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "た",
+    "pmi": 0.0,
+    "cooc_count": 6465683,
+    "unigram_w1": 34355595,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 32365,
+    "unigram_w1": 26828306,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 398,
+    "unigram_w1": 26828306,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 5761,
+    "unigram_w1": 26828306,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "た",
+    "pmi": 0.02272593231902429,
+    "cooc_count": 4174046,
+    "unigram_w1": 19640992,
+    "unigram_w2": 26828306,
+    "window_size": 10
+  },
+  {
+    "w1": "た",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 187693,
+    "unigram_w1": 26828306,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "シャーマン",
+    "pmi": 0.07528477739291035,
+    "cooc_count": 376,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 244,
+    "unigram_w1": 37802361,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 833205,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "シャーマン",
+    "w2": "族",
+    "pmi": 0.9130377595387158,
+    "cooc_count": 2,
+    "unigram_w1": 1344,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 301,
+    "unigram_w1": 29738357,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 269,
+    "unigram_w1": 34355595,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "シャーマン",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 19640992,
+    "unigram_w2": 1344,
+    "window_size": 10
+  },
+  {
+    "w1": "シャーマン",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 1344,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 5549,
+    "unigram_w1": 33509041,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "従っ",
+    "pmi": 1.099273407581811,
+    "cooc_count": 20290,
+    "unigram_w1": 37802361,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 498,
+    "unigram_w1": 11759829,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 833205,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 3335,
+    "unigram_w1": 29738357,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 4449,
+    "unigram_w1": 34355595,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "実践",
+    "w2": "従っ",
+    "pmi": 0.24937610686311068,
+    "cooc_count": 9,
+    "unigram_w1": 39227,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 983,
+    "unigram_w1": 19640992,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "従っ",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 1078849,
+    "unigram_w2": 23090,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 6581725,
+    "unigram_w1": 37802361,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 2264657,
+    "unigram_w1": 11759829,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "は",
+    "pmi": 0.19795450595766098,
+    "cooc_count": 263521,
+    "unigram_w1": 833205,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "アニミズム",
+    "pmi": 0.43281042321195573,
+    "cooc_count": 48,
+    "unigram_w1": 33509041,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 14823,
+    "unigram_w1": 33509041,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 6338228,
+    "unigram_w1": 29738357,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 6181872,
+    "unigram_w1": 34355595,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 34083,
+    "unigram_w1": 33509041,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "宗教的",
+    "pmi": 0.30393970244925406,
+    "cooc_count": 871,
+    "unigram_w1": 33509041,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 6880,
+    "unigram_w1": 33509041,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "は",
+    "pmi": 0.0,
+    "cooc_count": 3133653,
+    "unigram_w1": 19640992,
+    "unigram_w2": 33509041,
+    "window_size": 10
+  },
+  {
+    "w1": "は",
+    "w2": "何",
+    "pmi": 0.0518398876523243,
+    "cooc_count": 294827,
+    "unigram_w1": 33509041,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 2405944,
+    "unigram_w1": 11759829,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "でし",
+    "pmi": 0.0,
+    "cooc_count": 149666,
+    "unigram_w1": 37802361,
+    "unigram_w2": 833205,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "アニミズム",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 37802361,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 10758,
+    "unigram_w1": 37802361,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 7573783,
+    "unigram_w1": 37802361,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "て",
+    "pmi": 0.0,
+    "cooc_count": 7525227,
+    "unigram_w1": 34355595,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 52090,
+    "unigram_w1": 37802361,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 538,
+    "unigram_w1": 37802361,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "実践",
+    "pmi": 0.13886597780249696,
+    "cooc_count": 13193,
+    "unigram_w1": 37802361,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "て",
+    "pmi": 0.3554361255135918,
+    "cooc_count": 8203083,
+    "unigram_w1": 19640992,
+    "unigram_w2": 37802361,
+    "window_size": 10
+  },
+  {
+    "w1": "て",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 293104,
+    "unigram_w1": 37802361,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "でし",
+    "pmi": 0.0,
+    "cooc_count": 37419,
+    "unigram_w1": 11759829,
+    "unigram_w2": 833205,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "アニミズム",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 11759829,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 6049,
+    "unigram_w1": 11759829,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "と",
+    "pmi": 0.09823529738292358,
+    "cooc_count": 2987527,
+    "unigram_w1": 11759829,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "が",
+    "pmi": 0.0,
+    "cooc_count": 2248454,
+    "unigram_w1": 11759829,
+    "unigram_w2": 34355595,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 19600,
+    "unigram_w1": 11759829,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 11759829,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 1122,
+    "unigram_w1": 11759829,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "か",
+    "pmi": 0.14370261615855423,
+    "cooc_count": 2064926,
+    "unigram_w1": 19640992,
+    "unigram_w2": 11759829,
+    "window_size": 10
+  },
+  {
+    "w1": "か",
+    "w2": "何",
+    "pmi": 1.4703277843766105,
+    "cooc_count": 427413,
+    "unigram_w1": 11759829,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 61,
+    "unigram_w1": 833205,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 128053,
+    "unigram_w1": 833205,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "でし",
+    "pmi": 0.13002166868287457,
+    "cooc_count": 252434,
+    "unigram_w1": 34355595,
+    "unigram_w2": 833205,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 833205,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 833205,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 833205,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "でし",
+    "pmi": 0.0,
+    "cooc_count": 31443,
+    "unigram_w1": 19640992,
+    "unigram_w2": 833205,
+    "window_size": 10
+  },
+  {
+    "w1": "でし",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 6809,
+    "unigram_w1": 833205,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "アニミズム",
+    "pmi": 0.8241217276671526,
+    "cooc_count": 63,
+    "unigram_w1": 29738357,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "アニミズム",
+    "pmi": 0.09200786930971715,
+    "cooc_count": 35,
+    "unigram_w1": 34355595,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "アニミズム",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 19640992,
+    "unigram_w2": 120,
+    "window_size": 10
+  },
+  {
+    "w1": "アニミズム",
+    "w2": "何",
+    "pmi": 1.3838243243508628,
+    "cooc_count": 4,
+    "unigram_w1": 120,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 13421,
+    "unigram_w1": 29738357,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 13206,
+    "unigram_w1": 34355595,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "教",
+    "w2": "族",
+    "pmi": 0.8422874785225488,
+    "cooc_count": 304,
+    "unigram_w1": 219265,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "宗教的",
+    "w2": "族",
+    "pmi": 1.4002521398005607,
+    "cooc_count": 6,
+    "unigram_w1": 2477,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 10727,
+    "unigram_w1": 19640992,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "族",
+    "pmi": 0.0,
+    "cooc_count": 301,
+    "unigram_w1": 1078849,
+    "unigram_w2": 77121,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 6255837,
+    "unigram_w1": 34355595,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 35114,
+    "unigram_w1": 29738357,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 541,
+    "unigram_w1": 29738357,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 8134,
+    "unigram_w1": 29738357,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "と",
+    "pmi": 0.0,
+    "cooc_count": 4372253,
+    "unigram_w1": 19640992,
+    "unigram_w2": 29738357,
+    "window_size": 10
+  },
+  {
+    "w1": "と",
+    "w2": "何",
+    "pmi": 0.10317676845013349,
+    "cooc_count": 275434,
+    "unigram_w1": 29738357,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 28217,
+    "unigram_w1": 34355595,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 523,
+    "unigram_w1": 34355595,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 7958,
+    "unigram_w1": 34355595,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "が",
+    "pmi": 0.0,
+    "cooc_count": 3624219,
+    "unigram_w1": 19640992,
+    "unigram_w2": 34355595,
+    "window_size": 10
+  },
+  {
+    "w1": "が",
+    "w2": "何",
+    "pmi": 0.0021382271728112865,
+    "cooc_count": 287619,
+    "unigram_w1": 34355595,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  },
+  {
+    "w1": "実践",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 39227,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "教",
+    "pmi": 0.2102162088150071,
+    "cooc_count": 41149,
+    "unigram_w1": 19640992,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "教",
+    "pmi": 0.0,
+    "cooc_count": 1006,
+    "unigram_w1": 1078849,
+    "unigram_w2": 219265,
+    "window_size": 10
+  },
+  {
+    "w1": "宗教的",
+    "w2": "実践",
+    "pmi": 3.9480646485157194,
+    "cooc_count": 39,
+    "unigram_w1": 2477,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "宗教的",
+    "pmi": 0.0,
+    "cooc_count": 73,
+    "unigram_w1": 19640992,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "宗教的",
+    "pmi": 0.1482721068716043,
+    "cooc_count": 24,
+    "unigram_w1": 1078849,
+    "unigram_w2": 2477,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 1643,
+    "unigram_w1": 19640992,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "何",
+    "w2": "実践",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 1078849,
+    "unigram_w2": 39227,
+    "window_size": 10
+  },
+  {
+    "w1": "い",
+    "w2": "何",
+    "pmi": 0.0,
+    "cooc_count": 130878,
+    "unigram_w1": 19640992,
+    "unigram_w2": 1078849,
+    "window_size": 10
+  }
+]

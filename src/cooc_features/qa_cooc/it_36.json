@@ -1,0 +1,227 @@
+[
+  {
+    "w1": "great",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 13236,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "sulla",
+    "w2": "ufficialmente",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 315675,
+    "unigram_w2": 10174,
+    "window_size": 10
+  },
+  {
+    "w1": "flag",
+    "w2": "sulla",
+    "pmi": 0.28519497172545066,
+    "cooc_count": 29,
+    "unigram_w1": 1450,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 1633,
+    "unigram_w1": 256952,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 2957,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "dibattito",
+    "w2": "sulla",
+    "pmi": 1.6566973153770217,
+    "cooc_count": 969,
+    "unigram_w1": 12293,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "iniziò",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 2976,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "bandiera",
+    "w2": "sulla",
+    "pmi": 0.17186628641844717,
+    "cooc_count": 125,
+    "unigram_w1": 7000,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "sulla",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 3033,
+    "unigram_w2": 315675,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "great",
+    "pmi": 0.04483046329033903,
+    "cooc_count": 2,
+    "unigram_w1": 3033,
+    "unigram_w2": 13236,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "ufficialmente",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 256952,
+    "unigram_w2": 10174,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "ufficialmente",
+    "pmi": 0.7387775028933998,
+    "cooc_count": 3,
+    "unigram_w1": 2957,
+    "unigram_w2": 10174,
+    "window_size": 10
+  },
+  {
+    "w1": "dibattito",
+    "w2": "ufficialmente",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 12293,
+    "unigram_w2": 10174,
+    "window_size": 10
+  },
+  {
+    "w1": "bandiera",
+    "w2": "ufficialmente",
+    "pmi": 0.9756548833765362,
+    "cooc_count": 9,
+    "unigram_w1": 7000,
+    "unigram_w2": 10174,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "flag",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 256952,
+    "unigram_w2": 1450,
+    "window_size": 10
+  },
+  {
+    "w1": "bandiera",
+    "w2": "flag",
+    "pmi": 3.6170739539045718,
+    "cooc_count": 18,
+    "unigram_w1": 7000,
+    "unigram_w2": 1450,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "anno",
+    "pmi": 0.148780981885796,
+    "cooc_count": 42,
+    "unigram_w1": 2957,
+    "unigram_w2": 256952,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "dibattito",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 256952,
+    "unigram_w2": 12293,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "iniziò",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 256952,
+    "unigram_w2": 2976,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "bandiera",
+    "pmi": 0.026713269895660793,
+    "cooc_count": 88,
+    "unigram_w1": 256952,
+    "unigram_w2": 7000,
+    "window_size": 10
+  },
+  {
+    "w1": "anno",
+    "w2": "canadese",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 256952,
+    "unigram_w2": 3033,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "iniziò",
+    "pmi": 1.9680328323231275,
+    "cooc_count": 3,
+    "unigram_w1": 2957,
+    "unigram_w2": 2976,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "bandiera",
+    "pmi": 1.4003848726904409,
+    "cooc_count": 4,
+    "unigram_w1": 2957,
+    "unigram_w2": 7000,
+    "window_size": 10
+  },
+  {
+    "w1": "bandiera",
+    "w2": "dibattito",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 7000,
+    "unigram_w2": 12293,
+    "window_size": 10
+  },
+  {
+    "w1": "canadese",
+    "w2": "iniziò",
+    "pmi": 2.789953704874227,
+    "cooc_count": 7,
+    "unigram_w1": 3033,
+    "unigram_w2": 2976,
+    "window_size": 10
+  }
+]

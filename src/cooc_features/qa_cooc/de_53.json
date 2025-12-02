@@ -1,0 +1,407 @@
+[
+  {
+    "w1": "john",
+    "w2": "von",
+    "pmi": 0.24762103950385966,
+    "cooc_count": 3477,
+    "unigram_w1": 17074,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "of",
+    "pmi": 0.729902381927573,
+    "cooc_count": 696,
+    "unigram_w1": 17074,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 17074,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "john",
+    "pmi": 2.963452037307366,
+    "cooc_count": 41,
+    "unigram_w1": 2311,
+    "unigram_w2": 17074,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 966,
+    "unigram_w1": 2605519,
+    "unigram_w2": 17074,
+    "window_size": 10
+  },
+  {
+    "w1": "john",
+    "w2": "st",
+    "pmi": 2.3418271638190498,
+    "cooc_count": 545,
+    "unigram_w1": 17074,
+    "unigram_w2": 57198,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "john",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 115649,
+    "unigram_w2": 17074,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 466,
+    "unigram_w1": 6082,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "of",
+    "pmi": 2.0147163839010256,
+    "cooc_count": 896,
+    "unigram_w1": 6082,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "health",
+    "pmi": 5.590278243047958,
+    "cooc_count": 677,
+    "unigram_w1": 7746,
+    "unigram_w2": 6082,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 6082,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "ist",
+    "pmi": 0.0,
+    "cooc_count": 208,
+    "unigram_w1": 6082,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "health",
+    "w2": "st",
+    "pmi": 0.017703597655188173,
+    "cooc_count": 19,
+    "unigram_w1": 6082,
+    "unigram_w2": 57198,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "health",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 115649,
+    "unigram_w2": 6082,
+    "window_size": 10
+  },
+  {
+    "w1": "gemeinnützig",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 296,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "gemeinnützig",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 296,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "gemeinnützig",
+    "w2": "ist",
+    "pmi": 0.6338346252420444,
+    "cooc_count": 78,
+    "unigram_w1": 296,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 16976,
+    "unigram_w1": 366137,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 664,
+    "unigram_w1": 7746,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "von",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 15123,
+    "unigram_w1": 2962724,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 212,
+    "unigram_w1": 2311,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "gesundheitsorganisation",
+    "w2": "von",
+    "pmi": 0.922717293192095,
+    "cooc_count": 4,
+    "unigram_w1": 10,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "katholisch",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 962,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 244007,
+    "unigram_w1": 2605519,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "von",
+    "pmi": 0.0,
+    "cooc_count": 6477,
+    "unigram_w1": 57198,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "von",
+    "pmi": 0.07796125694533457,
+    "cooc_count": 19876,
+    "unigram_w1": 115649,
+    "unigram_w2": 2962724,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "of",
+    "pmi": 1.7639047220808775,
+    "cooc_count": 888,
+    "unigram_w1": 7746,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 433,
+    "unigram_w1": 366137,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "of",
+    "pmi": 2.9070590237444724,
+    "cooc_count": 831,
+    "unigram_w1": 2311,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "of",
+    "pmi": 0.0,
+    "cooc_count": 12060,
+    "unigram_w1": 2605519,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "of",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 625,
+    "unigram_w1": 366137,
+    "unigram_w2": 57198,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "of",
+    "pmi": 0.36897611691749166,
+    "cooc_count": 3286,
+    "unigram_w1": 115649,
+    "unigram_w2": 366137,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 7746,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "ist",
+    "pmi": 0.0,
+    "cooc_count": 293,
+    "unigram_w1": 7746,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "care",
+    "w2": "st",
+    "pmi": 0.5449936933556677,
+    "cooc_count": 41,
+    "unigram_w1": 7746,
+    "unigram_w2": 57198,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "care",
+    "pmi": 0.0,
+    "cooc_count": 17,
+    "unigram_w1": 115649,
+    "unigram_w2": 7746,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 12764,
+    "unigram_w1": 2605519,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "st",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 56,
+    "unigram_w1": 57198,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "welche",
+    "pmi": 1.165619895911757,
+    "cooc_count": 2756,
+    "unigram_w1": 115649,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "god",
+    "w2": "ist",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 2311,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "katholisch",
+    "pmi": 0.3714703607745534,
+    "cooc_count": 195,
+    "unigram_w1": 2605519,
+    "unigram_w2": 962,
+    "window_size": 10
+  },
+  {
+    "w1": "katholisch",
+    "w2": "st",
+    "pmi": 1.3152343088587215,
+    "cooc_count": 11,
+    "unigram_w1": 962,
+    "unigram_w2": 57198,
+    "window_size": 10
+  },
+  {
+    "w1": "ist",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 2662,
+    "unigram_w1": 2605519,
+    "unigram_w2": 57198,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "ist",
+    "pmi": 0.0,
+    "cooc_count": 11569,
+    "unigram_w1": 115649,
+    "unigram_w2": 2605519,
+    "window_size": 10
+  },
+  {
+    "w1": "art",
+    "w2": "st",
+    "pmi": 0.0,
+    "cooc_count": 183,
+    "unigram_w1": 115649,
+    "unigram_w2": 57198,
+    "window_size": 10
+  }
+]

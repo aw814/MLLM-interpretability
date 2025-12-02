@@ -1,0 +1,56 @@
+[
+  {
+    "w1": "몇",
+    "w2": "해리",
+    "pmi": 1.166805309525936,
+    "cooc_count": 21,
+    "unigram_w1": 19561,
+    "unigram_w2": 636,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "것은",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 14013,
+    "unigram_w2": 75522,
+    "window_size": 10
+  },
+  {
+    "w1": "것은",
+    "w2": "구매한",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 75522,
+    "unigram_w2": 959,
+    "window_size": 10
+  },
+  {
+    "w1": "것은",
+    "w2": "몇",
+    "pmi": 0.477799703283119,
+    "cooc_count": 1252,
+    "unigram_w1": 75522,
+    "unigram_w2": 19561,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 1342,
+    "unigram_w2": 14013,
+    "window_size": 10
+  },
+  {
+    "w1": "구매한",
+    "w2": "몇",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 959,
+    "unigram_w2": 19561,
+    "window_size": 10
+  }
+]

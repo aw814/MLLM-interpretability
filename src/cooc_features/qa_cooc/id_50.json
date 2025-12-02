@@ -1,0 +1,443 @@
+[
+  {
+    "w1": "apa",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 23173,
+    "unigram_w1": 356514,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "asian",
+    "pmi": 0.0,
+    "cooc_count": 80,
+    "unigram_w1": 356514,
+    "unigram_w2": 15452,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "apa",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 13434,
+    "unigram_w2": 356514,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "perunggu",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 356514,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 285,
+    "unigram_w1": 356514,
+    "unigram_w2": 43865,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 562,
+    "unigram_w1": 356514,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "putri",
+    "pmi": 0.0,
+    "cooc_count": 224,
+    "unigram_w1": 356514,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "diraih",
+    "pmi": 0.007527602828805997,
+    "cooc_count": 152,
+    "unigram_w1": 356514,
+    "unigram_w2": 6520,
+    "window_size": 10
+  },
+  {
+    "w1": "apa",
+    "w2": "medali",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 356514,
+    "unigram_w2": 6417,
+    "window_size": 10
+  },
+  {
+    "w1": "nguyễn",
+    "w2": "đức",
+    "pmi": 11.792766746023515,
+    "cooc_count": 17,
+    "unigram_w1": 90,
+    "unigram_w2": 22,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 707,
+    "unigram_w1": 15452,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "dalam",
+    "pmi": 0.0,
+    "cooc_count": 830,
+    "unigram_w1": 13434,
+    "unigram_w2": 1714536,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "perunggu",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 1714536,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 2952,
+    "unigram_w1": 1714536,
+    "unigram_w2": 43865,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 6229,
+    "unigram_w1": 1714536,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "putri",
+    "pmi": 0.0,
+    "cooc_count": 1001,
+    "unigram_w1": 1714536,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "diraih",
+    "pmi": 0.0,
+    "cooc_count": 497,
+    "unigram_w1": 1714536,
+    "unigram_w2": 6520,
+    "window_size": 10
+  },
+  {
+    "w1": "dalam",
+    "w2": "medali",
+    "pmi": 0.0,
+    "cooc_count": 331,
+    "unigram_w1": 1714536,
+    "unigram_w2": 6417,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "asian",
+    "pmi": 0.03842504565815678,
+    "cooc_count": 14,
+    "unigram_w1": 13434,
+    "unigram_w2": 15452,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "perunggu",
+    "pmi": 3.0996687587536145,
+    "cooc_count": 47,
+    "unigram_w1": 15452,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "games",
+    "pmi": 5.22254891900157,
+    "cooc_count": 8156,
+    "unigram_w1": 15452,
+    "unigram_w2": 43865,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 15452,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "changquan",
+    "pmi": 4.653620003263213,
+    "cooc_count": 2,
+    "unigram_w1": 15452,
+    "unigram_w2": 19,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "putri",
+    "pmi": 1.2356747642998347,
+    "cooc_count": 75,
+    "unigram_w1": 15452,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "diraih",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 15452,
+    "unigram_w2": 6520,
+    "window_size": 10
+  },
+  {
+    "w1": "asian",
+    "w2": "medali",
+    "pmi": 3.937298458579719,
+    "cooc_count": 330,
+    "unigram_w1": 15452,
+    "unigram_w2": 6417,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 13434,
+    "unigram_w2": 43865,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "nomor",
+    "pmi": 1.667777977503175,
+    "cooc_count": 533,
+    "unigram_w1": 13434,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "putri",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 13434,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "medali",
+    "pmi": 0.06991491130660972,
+    "cooc_count": 6,
+    "unigram_w1": 13434,
+    "unigram_w2": 6417,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "perunggu",
+    "pmi": 2.6249834740638414,
+    "cooc_count": 83,
+    "unigram_w1": 43865,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "nomor",
+    "w2": "perunggu",
+    "pmi": 1.0460724841083078,
+    "cooc_count": 45,
+    "unigram_w1": 115336,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "changquan",
+    "w2": "perunggu",
+    "pmi": 7.049188190331397,
+    "cooc_count": 3,
+    "unigram_w1": 19,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "perunggu",
+    "w2": "putri",
+    "pmi": 2.779490740631435,
+    "cooc_count": 48,
+    "unigram_w1": 2112,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "diraih",
+    "w2": "perunggu",
+    "pmi": 4.469094052598621,
+    "cooc_count": 78,
+    "unigram_w1": 6520,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "medali",
+    "w2": "perunggu",
+    "pmi": 6.710334021972039,
+    "cooc_count": 722,
+    "unigram_w1": 6417,
+    "unigram_w2": 2112,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 177,
+    "unigram_w1": 43865,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "changquan",
+    "w2": "games",
+    "pmi": 2.917094531926955,
+    "cooc_count": 1,
+    "unigram_w1": 19,
+    "unigram_w2": 43865,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "putri",
+    "pmi": 0.6283985510935766,
+    "cooc_count": 116,
+    "unigram_w1": 43865,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "diraih",
+    "w2": "games",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 6520,
+    "unigram_w2": 43865,
+    "window_size": 10
+  },
+  {
+    "w1": "games",
+    "w2": "medali",
+    "pmi": 3.4351868170706323,
+    "cooc_count": 567,
+    "unigram_w1": 43865,
+    "unigram_w2": 6417,
+    "window_size": 10
+  },
+  {
+    "w1": "changquan",
+    "w2": "nomor",
+    "pmi": 4.147586237333919,
+    "cooc_count": 9,
+    "unigram_w1": 19,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "nomor",
+    "w2": "putri",
+    "pmi": 0.09546129389871118,
+    "cooc_count": 179,
+    "unigram_w1": 115336,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "diraih",
+    "w2": "nomor",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 6520,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "medali",
+    "w2": "nomor",
+    "pmi": 1.1585325628060603,
+    "cooc_count": 153,
+    "unigram_w1": 6417,
+    "unigram_w2": 115336,
+    "window_size": 10
+  },
+  {
+    "w1": "changquan",
+    "w2": "medali",
+    "pmi": 6.631020017966979,
+    "cooc_count": 6,
+    "unigram_w1": 19,
+    "unigram_w2": 6417,
+    "window_size": 10
+  },
+  {
+    "w1": "diraih",
+    "w2": "putri",
+    "pmi": 2.0715101607773887,
+    "cooc_count": 73,
+    "unigram_w1": 6520,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "medali",
+    "w2": "putri",
+    "pmi": 2.4883222590283247,
+    "cooc_count": 109,
+    "unigram_w1": 6417,
+    "unigram_w2": 21736,
+    "window_size": 10
+  },
+  {
+    "w1": "diraih",
+    "w2": "medali",
+    "pmi": 4.13096858790774,
+    "cooc_count": 169,
+    "unigram_w1": 6520,
+    "unigram_w2": 6417,
+    "window_size": 10
+  }
+]

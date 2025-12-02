@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "소설의",
+    "w2": "주인공",
+    "pmi": 3.787681858154911,
+    "cooc_count": 70,
+    "unigram_w1": 1764,
+    "unigram_w2": 1710,
+    "window_size": 10
+  },
+  {
+    "w1": "이름은",
+    "w2": "주인공",
+    "pmi": 2.4592464362976627,
+    "cooc_count": 30,
+    "unigram_w1": 2854,
+    "unigram_w2": 1710,
+    "window_size": 10
+  },
+  {
+    "w1": "주인공",
+    "w2": "찰리",
+    "pmi": 3.598622323620438,
+    "cooc_count": 9,
+    "unigram_w1": 1710,
+    "unigram_w2": 274,
+    "window_size": 10
+  }
+]

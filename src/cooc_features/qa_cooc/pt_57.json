@@ -1,0 +1,119 @@
+[
+  {
+    "w1": "espiritu",
+    "w2": "santo",
+    "pmi": 5.332551787720499,
+    "cooc_count": 36,
+    "unigram_w1": 62,
+    "unigram_w2": 39701,
+    "window_size": 10
+  },
+  {
+    "w1": "inferior",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 15543,
+    "unigram_w2": 39701,
+    "window_size": 10
+  },
+  {
+    "w1": "formação",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 53130,
+    "unigram_w2": 39701,
+    "window_size": 10
+  },
+  {
+    "w1": "consiste",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 9545,
+    "unigram_w2": 39701,
+    "window_size": 10
+  },
+  {
+    "w1": "parte",
+    "w2": "santo",
+    "pmi": 0.0,
+    "cooc_count": 171,
+    "unigram_w1": 197098,
+    "unigram_w2": 39701,
+    "window_size": 10
+  },
+  {
+    "w1": "formação",
+    "w2": "xisto",
+    "pmi": 1.1903527154669762,
+    "cooc_count": 8,
+    "unigram_w1": 53130,
+    "unigram_w2": 648,
+    "window_size": 10
+  },
+  {
+    "w1": "consiste",
+    "w2": "xisto",
+    "pmi": 0.8276354570722811,
+    "cooc_count": 1,
+    "unigram_w1": 9545,
+    "unigram_w2": 648,
+    "window_size": 10
+  },
+  {
+    "w1": "parte",
+    "w2": "xisto",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 197098,
+    "unigram_w2": 648,
+    "window_size": 10
+  },
+  {
+    "w1": "formação",
+    "w2": "inferior",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 53130,
+    "unigram_w2": 15543,
+    "window_size": 10
+  },
+  {
+    "w1": "inferior",
+    "w2": "parte",
+    "pmi": 2.5952876722670157,
+    "cooc_count": 2901,
+    "unigram_w1": 15543,
+    "unigram_w2": 197098,
+    "window_size": 10
+  },
+  {
+    "w1": "consiste",
+    "w2": "formação",
+    "pmi": 0.595416403875204,
+    "cooc_count": 65,
+    "unigram_w1": 9545,
+    "unigram_w2": 53130,
+    "window_size": 10
+  },
+  {
+    "w1": "formação",
+    "w2": "parte",
+    "pmi": 0.0,
+    "cooc_count": 444,
+    "unigram_w1": 53130,
+    "unigram_w2": 197098,
+    "window_size": 10
+  },
+  {
+    "w1": "consiste",
+    "w2": "parte",
+    "pmi": 0.19147417245312448,
+    "cooc_count": 161,
+    "unigram_w1": 9545,
+    "unigram_w2": 197098,
+    "window_size": 10
+  }
+]

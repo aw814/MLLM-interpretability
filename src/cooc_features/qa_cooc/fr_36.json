@@ -1,0 +1,632 @@
+[
+  {
+    "w1": "a",
+    "w2": "commencé",
+    "pmi": 1.2710209130457015,
+    "cooc_count": 11056,
+    "unigram_w1": 2730698,
+    "unigram_w2": 25189,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 2329,
+    "unigram_w1": 25189,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 25189,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "officiellement",
+    "pmi": 0.907263077588129,
+    "cooc_count": 23,
+    "unigram_w1": 25189,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "débat",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 25189,
+    "unigram_w2": 19738,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "grand",
+    "pmi": 0.0,
+    "cooc_count": 113,
+    "unigram_w1": 25189,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 31,
+    "unigram_w1": 25189,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "commencé",
+    "pmi": 1.1313859410139029,
+    "cooc_count": 12,
+    "unigram_w1": 3408,
+    "unigram_w2": 25189,
+    "window_size": 10
+  },
+  {
+    "w1": "commencé",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 1283,
+    "unigram_w1": 25189,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "commencé",
+    "pmi": 0.31558473561565986,
+    "cooc_count": 258,
+    "unigram_w1": 165667,
+    "unigram_w2": 25189,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "il",
+    "pmi": 0.5732242396785521,
+    "cooc_count": 514680,
+    "unigram_w1": 2730698,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "canadien",
+    "pmi": 0.0,
+    "cooc_count": 962,
+    "unigram_w1": 2730698,
+    "unigram_w2": 8375,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "drapeau",
+    "pmi": 0.0,
+    "cooc_count": 357,
+    "unigram_w1": 2730698,
+    "unigram_w2": 6772,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "officiellement",
+    "pmi": 0.49923105548304547,
+    "cooc_count": 1658,
+    "unigram_w1": 2730698,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "débat",
+    "pmi": 0.0,
+    "cooc_count": 1693,
+    "unigram_w1": 2730698,
+    "unigram_w2": 19738,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "grand",
+    "pmi": 0.0,
+    "cooc_count": 15855,
+    "unigram_w1": 2730698,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4469,
+    "unigram_w1": 2730698,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "a",
+    "pmi": 0.0,
+    "cooc_count": 265,
+    "unigram_w1": 3408,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 124852,
+    "unigram_w1": 2730698,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "année",
+    "pmi": 0.0,
+    "cooc_count": 13077,
+    "unigram_w1": 2730698,
+    "unigram_w2": 165667,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "t",
+    "pmi": 0.8403267347343326,
+    "cooc_count": 72987,
+    "unigram_w1": 2356131,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 333,
+    "unigram_w1": 8375,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "drapeau",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 266,
+    "unigram_w1": 6772,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "officiellement",
+    "pmi": 0.0,
+    "cooc_count": 434,
+    "unigram_w1": 2356131,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "débat",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 1275,
+    "unigram_w1": 19738,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "grand",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 13436,
+    "unigram_w1": 225541,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4536,
+    "unigram_w1": 2356131,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 226,
+    "unigram_w1": 3408,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "il",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 111210,
+    "unigram_w1": 2356131,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "il",
+    "pmi": 0.0,
+    "cooc_count": 8719,
+    "unigram_w1": 165667,
+    "unigram_w2": 2356131,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 8375,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "drapeau",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 6772,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "officiellement",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 8173,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "débat",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 124,
+    "unigram_w1": 19738,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "grand",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 2774,
+    "unigram_w1": 225541,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "t",
+    "pmi": 0.5944759720105592,
+    "cooc_count": 1518,
+    "unigram_w1": 62661,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 40,
+    "unigram_w1": 3408,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "sur",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 11413,
+    "unigram_w1": 2220129,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 760,
+    "unigram_w1": 165667,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "drapeau",
+    "pmi": 2.3568016154988296,
+    "cooc_count": 27,
+    "unigram_w1": 8375,
+    "unigram_w2": 6772,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "officiellement",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 8375,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "débat",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 8375,
+    "unigram_w2": 19738,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "grand",
+    "pmi": 0.0,
+    "cooc_count": 78,
+    "unigram_w1": 8375,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 8375,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "canadien",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 714,
+    "unigram_w1": 8375,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "canadien",
+    "pmi": 0.30643272075677636,
+    "cooc_count": 85,
+    "unigram_w1": 165667,
+    "unigram_w2": 8375,
+    "window_size": 10
+  },
+  {
+    "w1": "drapeau",
+    "w2": "débat",
+    "pmi": 0.14958026451112832,
+    "cooc_count": 7,
+    "unigram_w1": 6772,
+    "unigram_w2": 19738,
+    "window_size": 10
+  },
+  {
+    "w1": "drapeau",
+    "w2": "grand",
+    "pmi": 1.030404055512887,
+    "cooc_count": 193,
+    "unigram_w1": 6772,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "drapeau",
+    "w2": "sur",
+    "pmi": 0.0233672064262123,
+    "cooc_count": 694,
+    "unigram_w1": 6772,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "drapeau",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 165667,
+    "unigram_w2": 6772,
+    "window_size": 10
+  },
+  {
+    "w1": "débat",
+    "w2": "officiellement",
+    "pmi": 0.6546878708079699,
+    "cooc_count": 14,
+    "unigram_w1": 19738,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "grand",
+    "w2": "officiellement",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 225541,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "officiellement",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 8173,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "officiellement",
+    "pmi": 1.5638101132035125,
+    "cooc_count": 6,
+    "unigram_w1": 3408,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "officiellement",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 328,
+    "unigram_w1": 8173,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "officiellement",
+    "pmi": 0.03133122983512981,
+    "cooc_count": 63,
+    "unigram_w1": 165667,
+    "unigram_w2": 8173,
+    "window_size": 10
+  },
+  {
+    "w1": "débat",
+    "w2": "grand",
+    "pmi": 1.4253963439799304,
+    "cooc_count": 835,
+    "unigram_w1": 19738,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "débat",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 19738,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "débat",
+    "w2": "sur",
+    "pmi": 0.9017898546231823,
+    "cooc_count": 4869,
+    "unigram_w1": 19738,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "débat",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 165667,
+    "unigram_w2": 19738,
+    "window_size": 10
+  },
+  {
+    "w1": "grand",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 220,
+    "unigram_w1": 225541,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "grand",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 3408,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "grand",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 13096,
+    "unigram_w1": 225541,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "grand",
+    "pmi": 0.0,
+    "cooc_count": 966,
+    "unigram_w1": 165667,
+    "unigram_w2": 225541,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 3818,
+    "unigram_w1": 62661,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "quelle",
+    "pmi": 0.022993894847215528,
+    "cooc_count": 479,
+    "unigram_w1": 165667,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 3408,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  },
+  {
+    "w1": "1964",
+    "w2": "année",
+    "pmi": 0.6749299384386667,
+    "cooc_count": 50,
+    "unigram_w1": 3408,
+    "unigram_w2": 165667,
+    "window_size": 10
+  },
+  {
+    "w1": "année",
+    "w2": "sur",
+    "pmi": 0.0,
+    "cooc_count": 10138,
+    "unigram_w1": 165667,
+    "unigram_w2": 2220129,
+    "window_size": 10
+  }
+]

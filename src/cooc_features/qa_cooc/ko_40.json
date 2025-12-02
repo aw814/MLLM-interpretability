@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "사람은",
+    "w2": "앨범",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 14076,
+    "unigram_w2": 3280,
+    "window_size": 10
+  },
+  {
+    "w1": "사람은",
+    "w2": "잭",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 14076,
+    "unigram_w2": 27906,
+    "window_size": 10
+  },
+  {
+    "w1": "메이비스",
+    "w2": "사람은",
+    "pmi": 4.906548003727519,
+    "cooc_count": 2,
+    "unigram_w1": 2,
+    "unigram_w2": 14076,
+    "window_size": 10
+  },
+  {
+    "w1": "사람은",
+    "w2": "앨빈",
+    "pmi": 3.2971100912934186,
+    "cooc_count": 15,
+    "unigram_w1": 14076,
+    "unigram_w2": 75,
+    "window_size": 10
+  },
+  {
+    "w1": "기여한",
+    "w2": "사람은",
+    "pmi": 0.16742984522968846,
+    "cooc_count": 9,
+    "unigram_w1": 1029,
+    "unigram_w2": 14076,
+    "window_size": 10
+  },
+  {
+    "w1": "사람은",
+    "w2": "짐",
+    "pmi": 0.5103367340616808,
+    "cooc_count": 14,
+    "unigram_w1": 14076,
+    "unigram_w2": 1136,
+    "window_size": 10
+  },
+  {
+    "w1": "잭",
+    "w2": "존슨,",
+    "pmi": 2.7558404349234156,
+    "cooc_count": 9,
+    "unigram_w1": 27906,
+    "unigram_w2": 39,
+    "window_size": 10
+  },
+  {
+    "w1": "앨빈",
+    "w2": "잭",
+    "pmi": 2.5437467197957906,
+    "cooc_count": 14,
+    "unigram_w1": 75,
+    "unigram_w2": 27906,
+    "window_size": 10
+  },
+  {
+    "w1": "잭",
+    "w2": "짐",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 27906,
+    "unigram_w2": 1136,
+    "window_size": 10
+  }
+]

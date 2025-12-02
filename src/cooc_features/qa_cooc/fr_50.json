@@ -1,0 +1,425 @@
+[
+  {
+    "w1": "a",
+    "w2": "elle",
+    "pmi": 0.2923699331615506,
+    "cooc_count": 105725,
+    "unigram_w1": 2730698,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 4634,
+    "unigram_w1": 2730698,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "a",
+    "pmi": 0.06861331514805387,
+    "cooc_count": 3461,
+    "unigram_w1": 26243,
+    "unigram_w2": 2730698,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "médaille",
+    "pmi": 0.0,
+    "cooc_count": 493,
+    "unigram_w1": 2730698,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "t",
+    "pmi": 0.5525405280600437,
+    "cooc_count": 63436,
+    "unigram_w1": 2730698,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "remportée",
+    "pmi": 0.8223318215240254,
+    "cooc_count": 190,
+    "unigram_w1": 2730698,
+    "unigram_w2": 678,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "bronze",
+    "pmi": 0.0,
+    "cooc_count": 430,
+    "unigram_w1": 2730698,
+    "unigram_w2": 7080,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "asiatiques",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 2730698,
+    "unigram_w2": 2527,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 4469,
+    "unigram_w1": 2730698,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "féminin",
+    "pmi": 0.0,
+    "cooc_count": 556,
+    "unigram_w1": 2730698,
+    "unigram_w2": 9954,
+    "window_size": 10
+  },
+  {
+    "w1": "a",
+    "w2": "đức",
+    "pmi": 0.8576924101550081,
+    "cooc_count": 9,
+    "unigram_w1": 2730698,
+    "unigram_w2": 31,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 367,
+    "unigram_w1": 640934,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 380,
+    "unigram_w1": 26243,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "médaille",
+    "pmi": 0.0,
+    "cooc_count": 93,
+    "unigram_w1": 640934,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "t",
+    "pmi": 0.892839666453013,
+    "cooc_count": 20925,
+    "unigram_w1": 640934,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "remportée",
+    "pmi": 0.49042969781705076,
+    "cooc_count": 32,
+    "unigram_w1": 640934,
+    "unigram_w2": 678,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 7080,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "elle",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 2527,
+    "unigram_w2": 640934,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 1703,
+    "unigram_w1": 640934,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "elle",
+    "w2": "féminin",
+    "pmi": 0.0,
+    "cooc_count": 241,
+    "unigram_w1": 640934,
+    "unigram_w2": 9954,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 26243,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "médaille",
+    "pmi": 1.4407586202240807,
+    "cooc_count": 91,
+    "unigram_w1": 80148,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 80148,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "remportée",
+    "pmi": 1.8117955580889715,
+    "cooc_count": 15,
+    "unigram_w1": 80148,
+    "unigram_w2": 678,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "jeux",
+    "pmi": 0.36878137088361607,
+    "cooc_count": 37,
+    "unigram_w1": 7080,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "jeux",
+    "pmi": 2.8315296544582096,
+    "cooc_count": 155,
+    "unigram_w1": 2527,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "jeux",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 77,
+    "unigram_w1": 80148,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "féminin",
+    "w2": "jeux",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 9954,
+    "unigram_w2": 80148,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "médaille",
+    "pmi": 0.24359932976586104,
+    "cooc_count": 9,
+    "unigram_w1": 26243,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 26243,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "bronze",
+    "pmi": 0.07156367429802207,
+    "cooc_count": 9,
+    "unigram_w1": 26243,
+    "unigram_w2": 7080,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "quelle",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 26243,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "féminin",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 26243,
+    "unigram_w2": 9954,
+    "window_size": 10
+  },
+  {
+    "w1": "médaille",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 5961,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "médaille",
+    "w2": "remportée",
+    "pmi": 3.7818235719603073,
+    "cooc_count": 8,
+    "unigram_w1": 5961,
+    "unigram_w2": 678,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "médaille",
+    "pmi": 5.825750448328874,
+    "cooc_count": 645,
+    "unigram_w1": 7080,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "médaille",
+    "pmi": 1.9961791232667732,
+    "cooc_count": 5,
+    "unigram_w1": 2527,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "médaille",
+    "w2": "quelle",
+    "pmi": 0.26707724805575594,
+    "cooc_count": 22,
+    "unigram_w1": 5961,
+    "unigram_w2": 62661,
+    "window_size": 10
+  },
+  {
+    "w1": "féminin",
+    "w2": "médaille",
+    "pmi": 0.9617097078576807,
+    "cooc_count": 7,
+    "unigram_w1": 9954,
+    "unigram_w2": 5961,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 7080,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2527,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "quelle",
+    "w2": "t",
+    "pmi": 0.5944759720105592,
+    "cooc_count": 1518,
+    "unigram_w1": 62661,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "féminin",
+    "w2": "t",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 9954,
+    "unigram_w2": 296470,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "remportée",
+    "pmi": 3.6097879164924684,
+    "cooc_count": 8,
+    "unigram_w1": 7080,
+    "unigram_w2": 678,
+    "window_size": 10
+  },
+  {
+    "w1": "asiatiques",
+    "w2": "bronze",
+    "pmi": 2.160615704420147,
+    "cooc_count": 7,
+    "unigram_w1": 2527,
+    "unigram_w2": 7080,
+    "window_size": 10
+  },
+  {
+    "w1": "bronze",
+    "w2": "féminin",
+    "pmi": 2.1018604413560107,
+    "cooc_count": 26,
+    "unigram_w1": 7080,
+    "unigram_w2": 9954,
+    "window_size": 10
+  },
+  {
+    "w1": "féminin",
+    "w2": "quelle",
+    "pmi": 0.12903446929859377,
+    "cooc_count": 32,
+    "unigram_w1": 9954,
+    "unigram_w2": 62661,
+    "window_size": 10
+  }
+]

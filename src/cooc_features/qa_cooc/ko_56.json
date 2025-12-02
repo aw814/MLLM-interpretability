@@ -1,0 +1,56 @@
+[
+  {
+    "w1": "로이드",
+    "w2": "무엇입니까?",
+    "pmi": 0.4819030349536467,
+    "cooc_count": 1,
+    "unigram_w1": 377,
+    "unigram_w2": 3117,
+    "window_size": 10
+  },
+  {
+    "w1": "브라질",
+    "w2": "이름은",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 2455,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "무엇입니까?",
+    "w2": "풋볼",
+    "pmi": 1.9685601062380313,
+    "cooc_count": 4,
+    "unigram_w1": 3117,
+    "unigram_w2": 341,
+    "window_size": 10
+  },
+  {
+    "w1": "시즌",
+    "w2": "풋볼",
+    "pmi": 2.897995466699108,
+    "cooc_count": 27,
+    "unigram_w1": 8306,
+    "unigram_w2": 341,
+    "window_size": 10
+  },
+  {
+    "w1": "브라질",
+    "w2": "시즌",
+    "pmi": 1.0293564194118303,
+    "cooc_count": 30,
+    "unigram_w1": 2455,
+    "unigram_w2": 8306,
+    "window_size": 10
+  },
+  {
+    "w1": "디트로이트",
+    "w2": "시즌",
+    "pmi": 2.253386465930293,
+    "cooc_count": 16,
+    "unigram_w1": 385,
+    "unigram_w2": 8306,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "w1": "bremerhaven",
+    "w2": "germany",
+    "pmi": 6.663715421560637,
+    "cooc_count": 27,
+    "unigram_w1": 33,
+    "unigram_w2": 21926,
+    "window_size": 10
+  },
+  {
+    "w1": "germany",
+    "w2": "located",
+    "pmi": 0.40006532133999306,
+    "cooc_count": 99,
+    "unigram_w1": 21926,
+    "unigram_w2": 63541,
+    "window_size": 10
+  },
+  {
+    "w1": "country",
+    "w2": "located",
+    "pmi": 0.3695317422841803,
+    "cooc_count": 410,
+    "unigram_w1": 93620,
+    "unigram_w2": 63541,
+    "window_size": 10
+  },
+  {
+    "w1": "country",
+    "w2": "germany",
+    "pmi": 1.1376985787761384,
+    "cooc_count": 305,
+    "unigram_w1": 93620,
+    "unigram_w2": 21926,
+    "window_size": 10
+  }
+]

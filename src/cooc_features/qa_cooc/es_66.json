@@ -1,0 +1,281 @@
+[
+  {
+    "w1": "lanzó",
+    "w2": "se",
+    "pmi": 0.4420020833763236,
+    "cooc_count": 2128,
+    "unigram_w1": 7449,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "pao",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 337,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 37263,
+    "unigram_w1": 276410,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 469,
+    "unigram_w1": 9916,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 729,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "se",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 275,
+    "unigram_w1": 3238610,
+    "unigram_w2": 3404,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 202,
+    "unigram_w1": 3178,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 711,
+    "unigram_w1": 8299,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "edición",
+    "w2": "se",
+    "pmi": 0.0,
+    "cooc_count": 5339,
+    "unigram_w1": 56043,
+    "unigram_w2": 3238610,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "lanzó",
+    "pmi": 0.6199758201546923,
+    "cooc_count": 217,
+    "unigram_w1": 276410,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzó",
+    "w2": "ming",
+    "pmi": 3.2574868259566743,
+    "cooc_count": 8,
+    "unigram_w1": 7449,
+    "unigram_w2": 729,
+    "window_size": 10
+  },
+  {
+    "w1": "lanzó",
+    "w2": "toronto",
+    "pmi": 1.7164540682720677,
+    "cooc_count": 8,
+    "unigram_w1": 7449,
+    "unigram_w2": 3404,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "lanzó",
+    "pmi": 0.8252702533668845,
+    "cooc_count": 8,
+    "unigram_w1": 8299,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "edición",
+    "w2": "lanzó",
+    "pmi": 0.5494165507811332,
+    "cooc_count": 41,
+    "unigram_w1": 56043,
+    "unigram_w2": 7449,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "pao",
+    "pmi": 0.41527215211798346,
+    "cooc_count": 8,
+    "unigram_w1": 276410,
+    "unigram_w2": 337,
+    "window_size": 10
+  },
+  {
+    "w1": "news",
+    "w2": "pao",
+    "pmi": 2.3567134475142755,
+    "cooc_count": 2,
+    "unigram_w1": 9916,
+    "unigram_w2": 337,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "pao",
+    "pmi": 6.471022005436972,
+    "cooc_count": 9,
+    "unigram_w1": 729,
+    "unigram_w2": 337,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 276410,
+    "unigram_w2": 9916,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "ming",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 276410,
+    "unigram_w2": 729,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "toronto",
+    "pmi": 0.048558741832393726,
+    "cooc_count": 56,
+    "unigram_w1": 276410,
+    "unigram_w2": 3404,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "daily",
+    "pmi": 0.0,
+    "cooc_count": 14,
+    "unigram_w1": 276410,
+    "unigram_w2": 3178,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "año",
+    "pmi": 1.0852665704798456,
+    "cooc_count": 385,
+    "unigram_w1": 8299,
+    "unigram_w2": 276410,
+    "window_size": 10
+  },
+  {
+    "w1": "año",
+    "w2": "edición",
+    "pmi": 0.6557055487480062,
+    "cooc_count": 1692,
+    "unigram_w1": 276410,
+    "unigram_w2": 56043,
+    "window_size": 10
+  },
+  {
+    "w1": "ming",
+    "w2": "news",
+    "pmi": 0.8919754652980336,
+    "cooc_count": 1,
+    "unigram_w1": 729,
+    "unigram_w2": 9916,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "news",
+    "pmi": 4.707908880904566,
+    "cooc_count": 198,
+    "unigram_w1": 3178,
+    "unigram_w2": 9916,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "news",
+    "pmi": 0.06919680514234441,
+    "cooc_count": 5,
+    "unigram_w1": 8299,
+    "unigram_w2": 9916,
+    "window_size": 10
+  },
+  {
+    "w1": "edición",
+    "w2": "news",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 56043,
+    "unigram_w2": 9916,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "toronto",
+    "pmi": 2.4733962753365004,
+    "cooc_count": 19,
+    "unigram_w1": 8299,
+    "unigram_w2": 3404,
+    "window_size": 10
+  },
+  {
+    "w1": "edición",
+    "w2": "toronto",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 56043,
+    "unigram_w2": 3404,
+    "window_size": 10
+  },
+  {
+    "w1": "daily",
+    "w2": "edición",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 3178,
+    "unigram_w2": 56043,
+    "window_size": 10
+  },
+  {
+    "w1": "1993",
+    "w2": "edición",
+    "pmi": 0.6398122590827997,
+    "cooc_count": 50,
+    "unigram_w1": 8299,
+    "unigram_w2": 56043,
+    "window_size": 10
+  }
+]

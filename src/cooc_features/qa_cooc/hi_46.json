@@ -1,0 +1,398 @@
+[
+  {
+    "w1": "करते",
+    "w2": "रिवाज",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 576118,
+    "unigram_w2": 3105,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "रिवाज",
+    "pmi": 0.3086054899729015,
+    "cooc_count": 718,
+    "unigram_w1": 4769152,
+    "unigram_w2": 3105,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "रिवाज",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 340928,
+    "unigram_w2": 3105,
+    "window_size": 10
+  },
+  {
+    "w1": "धार्मिक",
+    "w2": "रिवाज",
+    "pmi": 3.2772737296723595,
+    "cooc_count": 89,
+    "unigram_w1": 30369,
+    "unigram_w2": 3105,
+    "window_size": 10
+  },
+  {
+    "w1": "रिवाज",
+    "w2": "लोग",
+    "pmi": 0.36380207974763307,
+    "cooc_count": 52,
+    "unigram_w1": 3105,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "रिवाज",
+    "w2": "रीति",
+    "pmi": 7.833145710374008,
+    "cooc_count": 1423,
+    "unigram_w1": 3105,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "थे",
+    "w2": "रिवाज",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 369770,
+    "unigram_w2": 3105,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "का",
+    "pmi": 0.028221695515255812,
+    "cooc_count": 100648,
+    "unigram_w1": 576118,
+    "unigram_w2": 4769152,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "किस",
+    "pmi": 0.0,
+    "cooc_count": 4018,
+    "unigram_w1": 576118,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "धार्मिक",
+    "pmi": 0.0,
+    "cooc_count": 391,
+    "unigram_w1": 576118,
+    "unigram_w2": 30369,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "लोग",
+    "pmi": 0.9163082346261462,
+    "cooc_count": 16765,
+    "unigram_w1": 576118,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "रीति",
+    "pmi": 0.2245216500449181,
+    "cooc_count": 131,
+    "unigram_w1": 576118,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "पालन",
+    "pmi": 1.511014948039515,
+    "cooc_count": 3826,
+    "unigram_w1": 576118,
+    "unigram_w2": 41154,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "जादू",
+    "pmi": 0.0,
+    "cooc_count": 98,
+    "unigram_w1": 576118,
+    "unigram_w2": 9031,
+    "window_size": 10
+  },
+  {
+    "w1": "करते",
+    "w2": "थे",
+    "pmi": 0.9693172863408192,
+    "cooc_count": 19999,
+    "unigram_w1": 576118,
+    "unigram_w2": 369770,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "टोना",
+    "pmi": 0.12456420418855708,
+    "cooc_count": 121,
+    "unigram_w1": 4769152,
+    "unigram_w2": 629,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "किस",
+    "pmi": 0.4672848221998535,
+    "cooc_count": 92393,
+    "unigram_w1": 4769152,
+    "unigram_w2": 340928,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "धार्मिक",
+    "pmi": 0.0,
+    "cooc_count": 4968,
+    "unigram_w1": 4769152,
+    "unigram_w2": 30369,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "लोग",
+    "pmi": 0.0,
+    "cooc_count": 26183,
+    "unigram_w1": 4769152,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "रीति",
+    "pmi": 0.0,
+    "cooc_count": 648,
+    "unigram_w1": 4769152,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "पालन",
+    "pmi": 1.3717315031694244,
+    "cooc_count": 27554,
+    "unigram_w1": 4769152,
+    "unigram_w2": 41154,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "जादू",
+    "pmi": 0.7193267541424824,
+    "cooc_count": 3149,
+    "unigram_w1": 4769152,
+    "unigram_w2": 9031,
+    "window_size": 10
+  },
+  {
+    "w1": "का",
+    "w2": "थे",
+    "pmi": 0.0,
+    "cooc_count": 28348,
+    "unigram_w1": 4769152,
+    "unigram_w2": 369770,
+    "window_size": 10
+  },
+  {
+    "w1": "टोना",
+    "w2": "लोग",
+    "pmi": 1.1002385521916602,
+    "cooc_count": 22,
+    "unigram_w1": 629,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "जादू",
+    "w2": "टोना",
+    "pmi": 7.842201246287157,
+    "cooc_count": 515,
+    "unigram_w1": 9031,
+    "unigram_w2": 629,
+    "window_size": 10
+  },
+  {
+    "w1": "टोना",
+    "w2": "थे",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 629,
+    "unigram_w2": 369770,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "धार्मिक",
+    "pmi": 0.0,
+    "cooc_count": 114,
+    "unigram_w1": 340928,
+    "unigram_w2": 30369,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "लोग",
+    "pmi": 0.0,
+    "cooc_count": 796,
+    "unigram_w1": 340928,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "रीति",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 340928,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "पालन",
+    "pmi": 0.014591991161796344,
+    "cooc_count": 507,
+    "unigram_w1": 340928,
+    "unigram_w2": 41154,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "जादू",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 340928,
+    "unigram_w2": 9031,
+    "window_size": 10
+  },
+  {
+    "w1": "किस",
+    "w2": "थे",
+    "pmi": 0.5167727596205614,
+    "cooc_count": 7527,
+    "unigram_w1": 340928,
+    "unigram_w2": 369770,
+    "window_size": 10
+  },
+  {
+    "w1": "धार्मिक",
+    "w2": "लोग",
+    "pmi": 0.5857747241596151,
+    "cooc_count": 635,
+    "unigram_w1": 30369,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "धार्मिक",
+    "w2": "रीति",
+    "pmi": 3.2480415339861333,
+    "cooc_count": 142,
+    "unigram_w1": 30369,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "धार्मिक",
+    "w2": "पालन",
+    "pmi": 0.7476247298504266,
+    "cooc_count": 94,
+    "unigram_w1": 30369,
+    "unigram_w2": 41154,
+    "window_size": 10
+  },
+  {
+    "w1": "थे",
+    "w2": "धार्मिक",
+    "pmi": 0.0,
+    "cooc_count": 372,
+    "unigram_w1": 369770,
+    "unigram_w2": 30369,
+    "window_size": 10
+  },
+  {
+    "w1": "रीति",
+    "w2": "लोग",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 5101,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "पालन",
+    "w2": "लोग",
+    "pmi": 0.15260991118771947,
+    "cooc_count": 558,
+    "unigram_w1": 41154,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "जादू",
+    "w2": "लोग",
+    "pmi": 0.0,
+    "cooc_count": 86,
+    "unigram_w1": 9031,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "थे",
+    "w2": "लोग",
+    "pmi": 1.1111481747549483,
+    "cooc_count": 13075,
+    "unigram_w1": 369770,
+    "unigram_w2": 326850,
+    "window_size": 10
+  },
+  {
+    "w1": "पालन",
+    "w2": "रीति",
+    "pmi": 1.422302904409504,
+    "cooc_count": 31,
+    "unigram_w1": 41154,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "थे",
+    "w2": "रीति",
+    "pmi": 0.0,
+    "cooc_count": 41,
+    "unigram_w1": 369770,
+    "unigram_w2": 5101,
+    "window_size": 10
+  },
+  {
+    "w1": "थे",
+    "w2": "पालन",
+    "pmi": 0.0,
+    "cooc_count": 166,
+    "unigram_w1": 369770,
+    "unigram_w2": 41154,
+    "window_size": 10
+  },
+  {
+    "w1": "जादू",
+    "w2": "थे",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 9031,
+    "unigram_w2": 369770,
+    "window_size": 10
+  }
+]

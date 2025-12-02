@@ -1,0 +1,29 @@
+[
+  {
+    "w1": "맺고",
+    "w2": "무엇을",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 6001,
+    "unigram_w2": 8700,
+    "window_size": 10
+  },
+  {
+    "w1": "1998",
+    "w2": "geographic",
+    "pmi": 2.8609737942865143,
+    "cooc_count": 8,
+    "unigram_w1": 8455,
+    "unigram_w2": 103,
+    "window_size": 10
+  },
+  {
+    "w1": "맺고",
+    "w2": "파트너십을",
+    "pmi": 4.488686607825416,
+    "cooc_count": 313,
+    "unigram_w1": 6001,
+    "unigram_w2": 1115,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "w1": "b",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 24548,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 24548,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "级",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 24548,
+    "unigram_w2": 40272,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 387,
+    "unigram_w1": 24548,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "综合",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 24548,
+    "unigram_w2": 52002,
+    "window_size": 10
+  },
+  {
+    "w1": "b",
+    "w2": "医院",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 24548,
+    "unigram_w2": 60090,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "是",
+    "pmi": 0.937328771102239,
+    "cooc_count": 118150,
+    "unigram_w1": 303848,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "级",
+    "pmi": 0.0,
+    "cooc_count": 2884,
+    "unigram_w1": 2216630,
+    "unigram_w2": 40272,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "原名",
+    "w2": "是",
+    "pmi": 0.10457433172739256,
+    "cooc_count": 221,
+    "unigram_w1": 1307,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "综合",
+    "pmi": 0.0,
+    "cooc_count": 2702,
+    "unigram_w1": 2216630,
+    "unigram_w2": 52002,
+    "window_size": 10
+  },
+  {
+    "w1": "医院",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 3465,
+    "unigram_w1": 60090,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "级",
+    "pmi": 0.0,
+    "cooc_count": 126,
+    "unigram_w1": 303848,
+    "unigram_w2": 40272,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "综合",
+    "pmi": 0.0,
+    "cooc_count": 272,
+    "unigram_w1": 303848,
+    "unigram_w2": 52002,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "医院",
+    "pmi": 0.0,
+    "cooc_count": 268,
+    "unigram_w1": 303848,
+    "unigram_w2": 60090,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "级",
+    "pmi": 0.0,
+    "cooc_count": 13159,
+    "unigram_w1": 10165533,
+    "unigram_w2": 40272,
+    "window_size": 10
+  },
+  {
+    "w1": "级",
+    "w2": "综合",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 40272,
+    "unigram_w2": 52002,
+    "window_size": 10
+  },
+  {
+    "w1": "医院",
+    "w2": "级",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 60090,
+    "unigram_w2": 40272,
+    "window_size": 10
+  },
+  {
+    "w1": "原名",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 424,
+    "unigram_w1": 1307,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "综合",
+    "pmi": 0.0,
+    "cooc_count": 17753,
+    "unigram_w1": 10165533,
+    "unigram_w2": 52002,
+    "window_size": 10
+  },
+  {
+    "w1": "医院",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 20345,
+    "unigram_w1": 60090,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "医院",
+    "w2": "综合",
+    "pmi": 0.5709350033376538,
+    "cooc_count": 380,
+    "unigram_w1": 60090,
+    "unigram_w2": 52002,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "w1": "shale",
+    "w2": "siltstone",
+    "pmi": 9.566796863484491,
+    "cooc_count": 8,
+    "unigram_w1": 1176,
+    "unigram_w2": 10,
+    "window_size": 10
+  },
+  {
+    "w1": "shale",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 1176,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "shale",
+    "pmi": 4.292544528719087,
+    "cooc_count": 36,
+    "unigram_w1": 8786,
+    "unigram_w2": 1176,
+    "window_size": 10
+  },
+  {
+    "w1": "sandstone",
+    "w2": "shale",
+    "pmi": 6.634577995652827,
+    "cooc_count": 39,
+    "unigram_w1": 915,
+    "unigram_w2": 1176,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "part",
+    "pmi": 0.0,
+    "cooc_count": 630,
+    "unigram_w1": 190426,
+    "unigram_w2": 202729,
+    "window_size": 10
+  },
+  {
+    "w1": "consist",
+    "w2": "does",
+    "pmi": 1.176131903893558,
+    "cooc_count": 97,
+    "unigram_w1": 3299,
+    "unigram_w2": 190426,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "what",
+    "pmi": 1.273091450307587,
+    "cooc_count": 20258,
+    "unigram_w1": 190426,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "formation",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 190426,
+    "unigram_w2": 8786,
+    "window_size": 10
+  },
+  {
+    "w1": "does",
+    "w2": "lowest",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 190426,
+    "unigram_w2": 13000,
+    "window_size": 10
+  },
+  {
+    "w1": "consist",
+    "w2": "part",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 3299,
+    "unigram_w2": 202729,
+    "window_size": 10
+  },
+  {
+    "w1": "part",
+    "w2": "santo",
+    "pmi": 0.6994903470714547,
+    "cooc_count": 11,
+    "unigram_w1": 202729,
+    "unigram_w2": 566,
+    "window_size": 10
+  },
+  {
+    "w1": "part",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 3470,
+    "unigram_w1": 202729,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "part",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 8786,
+    "unigram_w2": 202729,
+    "window_size": 10
+  },
+  {
+    "w1": "lowest",
+    "w2": "part",
+    "pmi": 0.0,
+    "cooc_count": 34,
+    "unigram_w1": 13000,
+    "unigram_w2": 202729,
+    "window_size": 10
+  },
+  {
+    "w1": "part",
+    "w2": "sandstone",
+    "pmi": 0.7657040663671862,
+    "cooc_count": 19,
+    "unigram_w1": 202729,
+    "unigram_w2": 915,
+    "window_size": 10
+  },
+  {
+    "w1": "consist",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 3299,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "santo",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 566,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "espiritu",
+    "w2": "santo",
+    "pmi": 8.551779818588583,
+    "cooc_count": 18,
+    "unigram_w1": 129,
+    "unigram_w2": 566,
+    "window_size": 10
+  },
+  {
+    "w1": "sandstone",
+    "w2": "siltstone",
+    "pmi": 9.935529962323926,
+    "cooc_count": 9,
+    "unigram_w1": 915,
+    "unigram_w2": 10,
+    "window_size": 10
+  },
+  {
+    "w1": "espiritu",
+    "w2": "what",
+    "pmi": 1.3620431374398996,
+    "cooc_count": 15,
+    "unigram_w1": 129,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 8786,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "lowest",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 13000,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "sandstone",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 915,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "formation",
+    "w2": "sandstone",
+    "pmi": 2.905885802501341,
+    "cooc_count": 7,
+    "unigram_w1": 8786,
+    "unigram_w2": 915,
+    "window_size": 10
+  }
+]

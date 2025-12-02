@@ -1,0 +1,227 @@
+[
+  {
+    "w1": "cuál",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 37292,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "fue",
+    "pmi": 0.6089592742213863,
+    "cooc_count": 1418,
+    "unigram_w1": 37292,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "cuál",
+    "w2": "televisión",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 37292,
+    "unigram_w2": 32138,
+    "window_size": 10
+  },
+  {
+    "w1": "cadena",
+    "w2": "cuál",
+    "pmi": 0.0,
+    "cooc_count": 47,
+    "unigram_w1": 24686,
+    "unigram_w2": 37292,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "the",
+    "pmi": 1.255754383471735,
+    "cooc_count": 166,
+    "unigram_w1": 2073,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 1337,
+    "unigram_w1": 364785,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 457,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "televisión",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 318,
+    "unigram_w1": 32138,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "cadena",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 131,
+    "unigram_w1": 24686,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "the",
+    "pmi": 2.149993233496775,
+    "cooc_count": 122,
+    "unigram_w1": 623,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "emitió",
+    "w2": "the",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 2653,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "greatest",
+    "w2": "the",
+    "pmi": 3.2223469631877824,
+    "cooc_count": 297,
+    "unigram_w1": 519,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "invention",
+    "w2": "the",
+    "pmi": 3.573185762263404,
+    "cooc_count": 204,
+    "unigram_w1": 251,
+    "unigram_w2": 402333,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "television",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 364785,
+    "unigram_w2": 2073,
+    "window_size": 10
+  },
+  {
+    "w1": "television",
+    "w2": "televisión",
+    "pmi": 2.8141422948158277,
+    "cooc_count": 63,
+    "unigram_w1": 2073,
+    "unigram_w2": 32138,
+    "window_size": 10
+  },
+  {
+    "w1": "cadena",
+    "w2": "television",
+    "pmi": 1.825182175618284,
+    "cooc_count": 18,
+    "unigram_w1": 24686,
+    "unigram_w2": 2073,
+    "window_size": 10
+  },
+  {
+    "w1": "cbc",
+    "w2": "fue",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 457,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "fue",
+    "w2": "televisión",
+    "pmi": 0.0,
+    "cooc_count": 539,
+    "unigram_w1": 364785,
+    "unigram_w2": 32138,
+    "window_size": 10
+  },
+  {
+    "w1": "cadena",
+    "w2": "fue",
+    "pmi": 0.0,
+    "cooc_count": 400,
+    "unigram_w1": 24686,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "fue",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 623,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "emitió",
+    "w2": "fue",
+    "pmi": 0.18469906043458362,
+    "cooc_count": 66,
+    "unigram_w1": 2653,
+    "unigram_w2": 364785,
+    "window_size": 10
+  },
+  {
+    "w1": "canadian",
+    "w2": "cbc",
+    "pmi": 6.072234329835428,
+    "cooc_count": 7,
+    "unigram_w1": 623,
+    "unigram_w2": 457,
+    "window_size": 10
+  },
+  {
+    "w1": "cadena",
+    "w2": "televisión",
+    "pmi": 2.7895486345175122,
+    "cooc_count": 732,
+    "unigram_w1": 24686,
+    "unigram_w2": 32138,
+    "window_size": 10
+  },
+  {
+    "w1": "emitió",
+    "w2": "televisión",
+    "pmi": 1.6431891515905355,
+    "cooc_count": 25,
+    "unigram_w1": 2653,
+    "unigram_w2": 32138,
+    "window_size": 10
+  },
+  {
+    "w1": "cadena",
+    "w2": "emitió",
+    "pmi": 2.0893135576823147,
+    "cooc_count": 30,
+    "unigram_w1": 24686,
+    "unigram_w2": 2653,
+    "window_size": 10
+  }
+]

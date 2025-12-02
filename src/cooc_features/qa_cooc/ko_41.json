@@ -1,0 +1,173 @@
+[
+  {
+    "w1": "컨퍼런스",
+    "w2": "컨퍼런스의",
+    "pmi": 5.123079829040111,
+    "cooc_count": 4,
+    "unigram_w1": 1374,
+    "unigram_w2": 33,
+    "window_size": 10
+  },
+  {
+    "w1": "아메리칸",
+    "w2": "이름은",
+    "pmi": 1.66502422545844,
+    "cooc_count": 8,
+    "unigram_w1": 1009,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "대학교",
+    "w2": "아메리칸",
+    "pmi": 2.0101913687046036,
+    "cooc_count": 13,
+    "unigram_w1": 3284,
+    "unigram_w2": 1009,
+    "window_size": 10
+  },
+  {
+    "w1": "대학교",
+    "w2": "이름은",
+    "pmi": 0.6027048108961134,
+    "cooc_count": 9,
+    "unigram_w1": 3284,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "이름은",
+    "w2": "했던",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2854,
+    "unigram_w2": 7054,
+    "window_size": 10
+  },
+  {
+    "w1": "경기를",
+    "w2": "이름은",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 3505,
+    "unigram_w2": 2854,
+    "window_size": 10
+  },
+  {
+    "w1": "대학교",
+    "w2": "했던",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 3284,
+    "unigram_w2": 7054,
+    "window_size": 10
+  },
+  {
+    "w1": "대학교",
+    "w2": "컨퍼런스",
+    "pmi": 0.5227699199342718,
+    "cooc_count": 4,
+    "unigram_w1": 3284,
+    "unigram_w2": 1374,
+    "window_size": 10
+  },
+  {
+    "w1": "대학교",
+    "w2": "여자",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 3284,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "무엇입니까?",
+    "w2": "했던",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 3117,
+    "unigram_w2": 7054,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "했던",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 30480,
+    "unigram_w2": 7054,
+    "window_size": 10
+  },
+  {
+    "w1": "여자",
+    "w2": "했던",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 19157,
+    "unigram_w2": 7054,
+    "window_size": 10
+  },
+  {
+    "w1": "경기를",
+    "w2": "했던",
+    "pmi": 1.1243580460182432,
+    "cooc_count": 40,
+    "unigram_w1": 3505,
+    "unigram_w2": 7054,
+    "window_size": 10
+  },
+  {
+    "w1": "여자",
+    "w2": "트랜스",
+    "pmi": 0.9441571429778473,
+    "cooc_count": 11,
+    "unigram_w1": 19157,
+    "unigram_w2": 425,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "컨퍼런스",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 30480,
+    "unigram_w2": 1374,
+    "window_size": 10
+  },
+  {
+    "w1": "무엇입니까?",
+    "w2": "여자",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 3117,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "2011",
+    "w2": "여자",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 30480,
+    "unigram_w2": 19157,
+    "window_size": 10
+  },
+  {
+    "w1": "1994",
+    "w2": "2011",
+    "pmi": 0.7840444050938071,
+    "cooc_count": 214,
+    "unigram_w1": 6099,
+    "unigram_w2": 30480,
+    "window_size": 10
+  },
+  {
+    "w1": "경기를",
+    "w2": "여자",
+    "pmi": 0.26504663612429796,
+    "cooc_count": 46,
+    "unigram_w1": 3505,
+    "unigram_w2": 19157,
+    "window_size": 10
+  }
+]

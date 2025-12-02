@@ -1,0 +1,533 @@
+[
+  {
+    "w1": "international",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 398,
+    "unigram_w1": 5873,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "road",
+    "pmi": 3.4658005817043853,
+    "cooc_count": 45,
+    "unigram_w1": 5873,
+    "unigram_w2": 3278,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "מערכות",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 5873,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "להבטיח",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 5873,
+    "unigram_w2": 25544,
+    "window_size": 10
+  },
+  {
+    "w1": "international",
+    "w2": "רכב",
+    "pmi": 0.5447660491523681,
+    "cooc_count": 72,
+    "unigram_w1": 5873,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "המותר",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 355,
+    "unigram_w1": 1967,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "של",
+    "w2": "שקילה",
+    "pmi": 0.0,
+    "cooc_count": 178,
+    "unigram_w1": 4999599,
+    "unigram_w2": 542,
+    "window_size": 10
+  },
+  {
+    "w1": "מאפשרות",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1458,
+    "unigram_w1": 4648,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 185,
+    "unigram_w1": 3278,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "מערכות",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 15409,
+    "unigram_w1": 54842,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "יצאו",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 3128,
+    "unigram_w1": 15025,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 4305,
+    "unigram_w1": 27221,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "שכלי",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 431,
+    "unigram_w1": 1956,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "ליעדם",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 326,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "להבטיח",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 4542,
+    "unigram_w1": 25544,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "רכב",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 15231,
+    "unigram_w1": 97346,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "בתנועה",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 1792,
+    "unigram_w1": 7268,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 4202,
+    "unigram_w1": 15938,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "של",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 543,
+    "unigram_w2": 4999599,
+    "window_size": 10
+  },
+  {
+    "w1": "המותר",
+    "w2": "מאפשרות",
+    "pmi": 1.790084950959444,
+    "cooc_count": 4,
+    "unigram_w1": 1967,
+    "unigram_w2": 4648,
+    "window_size": 10
+  },
+  {
+    "w1": "המותר",
+    "w2": "רכב",
+    "pmi": 1.4050072351043235,
+    "cooc_count": 57,
+    "unigram_w1": 1967,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "המותר",
+    "pmi": 2.167253687967598,
+    "cooc_count": 20,
+    "unigram_w1": 15938,
+    "unigram_w2": 1967,
+    "window_size": 10
+  },
+  {
+    "w1": "מערכות",
+    "w2": "שקילה",
+    "pmi": 2.808289041035453,
+    "cooc_count": 36,
+    "unigram_w1": 54842,
+    "unigram_w2": 542,
+    "window_size": 10
+  },
+  {
+    "w1": "רכב",
+    "w2": "שקילה",
+    "pmi": 0.7303963258990221,
+    "cooc_count": 8,
+    "unigram_w1": 97346,
+    "unigram_w2": 542,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "שקילה",
+    "pmi": 3.9570277928295003,
+    "cooc_count": 33,
+    "unigram_w1": 15938,
+    "unigram_w2": 542,
+    "window_size": 10
+  },
+  {
+    "w1": "מאפשרות",
+    "w2": "מערכות",
+    "pmi": 2.464915535303743,
+    "cooc_count": 219,
+    "unigram_w1": 4648,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "מאפשרות",
+    "pmi": 0.9543652253530408,
+    "cooc_count": 24,
+    "unigram_w1": 27221,
+    "unigram_w2": 4648,
+    "window_size": 10
+  },
+  {
+    "w1": "להבטיח",
+    "w2": "מאפשרות",
+    "pmi": 0.03712225117021389,
+    "cooc_count": 9,
+    "unigram_w1": 25544,
+    "unigram_w2": 4648,
+    "window_size": 10
+  },
+  {
+    "w1": "מאפשרות",
+    "w2": "רכב",
+    "pmi": 0.28621812104534644,
+    "cooc_count": 44,
+    "unigram_w1": 4648,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "בתנועה",
+    "w2": "מאפשרות",
+    "pmi": 1.869407700952332,
+    "cooc_count": 16,
+    "unigram_w1": 7268,
+    "unigram_w2": 4648,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "מערכות",
+    "pmi": 1.535921208888526,
+    "cooc_count": 61,
+    "unigram_w1": 3278,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "רכב",
+    "pmi": 1.3285688408332637,
+    "cooc_count": 88,
+    "unigram_w1": 3278,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "road",
+    "w2": "במשקל",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 3278,
+    "unigram_w2": 15938,
+    "window_size": 10
+  },
+  {
+    "w1": "יצאו",
+    "w2": "מערכות",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 15025,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "מערכות",
+    "pmi": 0.12857365640050866,
+    "cooc_count": 124,
+    "unigram_w1": 27221,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "מערכות",
+    "w2": "שכלי",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 54842,
+    "unigram_w2": 1956,
+    "window_size": 10
+  },
+  {
+    "w1": "להבטיח",
+    "w2": "מערכות",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 25544,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "מערכות",
+    "w2": "רכב",
+    "pmi": 0.05745677587849486,
+    "cooc_count": 413,
+    "unigram_w1": 54842,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "בתנועה",
+    "w2": "מערכות",
+    "pmi": 0.0,
+    "cooc_count": 29,
+    "unigram_w1": 7268,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "מערכות",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 15938,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "dynamics",
+    "w2": "מערכות",
+    "pmi": 1.7078334338730543,
+    "cooc_count": 12,
+    "unigram_w1": 543,
+    "unigram_w2": 54842,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "יצאו",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 27221,
+    "unigram_w2": 15025,
+    "window_size": 10
+  },
+  {
+    "w1": "יצאו",
+    "w2": "להבטיח",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 15025,
+    "unigram_w2": 25544,
+    "window_size": 10
+  },
+  {
+    "w1": "יצאו",
+    "w2": "רכב",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 15025,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "בתנועה",
+    "w2": "יצאו",
+    "pmi": 0.0029820595207254853,
+    "cooc_count": 8,
+    "unigram_w1": 7268,
+    "unigram_w2": 15025,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "יצאו",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 15938,
+    "unigram_w2": 15025,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "שכלי",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 27221,
+    "unigram_w2": 1956,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "ליעדם",
+    "pmi": 2.831501584968505,
+    "cooc_count": 11,
+    "unigram_w1": 27221,
+    "unigram_w2": 326,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "להבטיח",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 27221,
+    "unigram_w2": 25544,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "רכב",
+    "pmi": 0.0,
+    "cooc_count": 66,
+    "unigram_w1": 27221,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "בתנועה",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 27221,
+    "unigram_w2": 7268,
+    "window_size": 10
+  },
+  {
+    "w1": "אילו",
+    "w2": "במשקל",
+    "pmi": 0.0,
+    "cooc_count": 24,
+    "unigram_w1": 27221,
+    "unigram_w2": 15938,
+    "window_size": 10
+  },
+  {
+    "w1": "רכב",
+    "w2": "שכלי",
+    "pmi": 1.5264470184237415,
+    "cooc_count": 64,
+    "unigram_w1": 97346,
+    "unigram_w2": 1956,
+    "window_size": 10
+  },
+  {
+    "w1": "ליעדם",
+    "w2": "רכב",
+    "pmi": 1.2387649459719605,
+    "cooc_count": 8,
+    "unigram_w1": 326,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "להבטיח",
+    "w2": "רכב",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 25544,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "להבטיח",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 15938,
+    "unigram_w2": 25544,
+    "window_size": 10
+  },
+  {
+    "w1": "בתנועה",
+    "w2": "רכב",
+    "pmi": 0.14932891836487108,
+    "cooc_count": 60,
+    "unigram_w1": 7268,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "רכב",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 15938,
+    "unigram_w2": 97346,
+    "window_size": 10
+  },
+  {
+    "w1": "במשקל",
+    "w2": "בתנועה",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 15938,
+    "unigram_w2": 7268,
+    "window_size": 10
+  }
+]

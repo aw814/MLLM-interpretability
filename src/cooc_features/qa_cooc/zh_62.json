@@ -1,0 +1,803 @@
+[
+  {
+    "w1": "要求",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 136856,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "法规",
+    "w2": "要求",
+    "pmi": 1.0445872212841578,
+    "cooc_count": 187,
+    "unigram_w1": 6997,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "特定",
+    "w2": "要求",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 6766,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "巴西",
+    "w2": "要求",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 10910,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "范围",
+    "w2": "要求",
+    "pmi": 0.4190185303621335,
+    "cooc_count": 537,
+    "unigram_w1": 37560,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "要求",
+    "w2": "请求",
+    "pmi": 0.023331237835447424,
+    "cooc_count": 86,
+    "unigram_w1": 136856,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "要求",
+    "pmi": 1.0218807455803054,
+    "cooc_count": 416,
+    "unigram_w1": 15923,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "要求",
+    "w2": "通用",
+    "pmi": 0.2993302844945347,
+    "cooc_count": 86,
+    "unigram_w1": 136856,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "要求",
+    "pmi": 0.0,
+    "cooc_count": 1782,
+    "unigram_w1": 276205,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "要求",
+    "pmi": 0.0,
+    "cooc_count": 209,
+    "unigram_w1": 39787,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "要求",
+    "pmi": 0.13972817542102148,
+    "cooc_count": 830,
+    "unigram_w1": 76758,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "要求",
+    "pmi": 0.0,
+    "cooc_count": 12459,
+    "unigram_w1": 2356497,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "要求",
+    "pmi": 0.0,
+    "cooc_count": 974,
+    "unigram_w1": 108978,
+    "unigram_w2": 136856,
+    "window_size": 10
+  },
+  {
+    "w1": "特定",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 6766,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "巴西",
+    "w2": "访问",
+    "pmi": 0.921124361018209,
+    "cooc_count": 48,
+    "unigram_w1": 10910,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "范围",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 37560,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "访问",
+    "w2": "请求",
+    "pmi": 1.644076156016345,
+    "cooc_count": 81,
+    "unigram_w1": 25490,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 15923,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "访问",
+    "pmi": 1.3140017502041754,
+    "cooc_count": 1800,
+    "unigram_w1": 276205,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 39787,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 76758,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 2242,
+    "unigram_w1": 2356497,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "访问",
+    "pmi": 0.0,
+    "cooc_count": 58,
+    "unigram_w1": 108978,
+    "unigram_w2": 25490,
+    "window_size": 10
+  },
+  {
+    "w1": "法规",
+    "w2": "范围",
+    "pmi": 0.8441378465228682,
+    "cooc_count": 42,
+    "unigram_w1": 6997,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "法规",
+    "pmi": 1.6022294374316588,
+    "cooc_count": 38,
+    "unigram_w1": 15923,
+    "unigram_w2": 6997,
+    "window_size": 10
+  },
+  {
+    "w1": "法规",
+    "w2": "通用",
+    "pmi": 0.8978723223070938,
+    "cooc_count": 8,
+    "unigram_w1": 6997,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "法规",
+    "pmi": 0.0,
+    "cooc_count": 100,
+    "unigram_w1": 276205,
+    "unigram_w2": 6997,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "法规",
+    "pmi": 1.159741520984542,
+    "cooc_count": 61,
+    "unigram_w1": 39787,
+    "unigram_w2": 6997,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "法规",
+    "pmi": 0.15295038271017147,
+    "cooc_count": 43,
+    "unigram_w1": 76758,
+    "unigram_w2": 6997,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "法规",
+    "pmi": 0.0,
+    "cooc_count": 500,
+    "unigram_w1": 2356497,
+    "unigram_w2": 6997,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "法规",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 108978,
+    "unigram_w2": 6997,
+    "window_size": 10
+  },
+  {
+    "w1": "特定",
+    "w2": "范围",
+    "pmi": 1.4027195206860583,
+    "cooc_count": 71,
+    "unigram_w1": 6766,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "特定",
+    "w2": "请求",
+    "pmi": 0.6554446910532497,
+    "cooc_count": 8,
+    "unigram_w1": 6766,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "特定",
+    "pmi": 0.19543927044673545,
+    "cooc_count": 9,
+    "unigram_w1": 15923,
+    "unigram_w2": 6766,
+    "window_size": 10
+  },
+  {
+    "w1": "特定",
+    "w2": "通用",
+    "pmi": 0.7979123450878142,
+    "cooc_count": 7,
+    "unigram_w1": 6766,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "特定",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 276205,
+    "unigram_w2": 6766,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "特定",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 39787,
+    "unigram_w2": 6766,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "特定",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 76758,
+    "unigram_w2": 6766,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "特定",
+    "pmi": 0.15331668072884388,
+    "cooc_count": 1277,
+    "unigram_w1": 2356497,
+    "unigram_w2": 6766,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "特定",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 108978,
+    "unigram_w2": 6766,
+    "window_size": 10
+  },
+  {
+    "w1": "巴西",
+    "w2": "范围",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 10910,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "巴西",
+    "w2": "请求",
+    "pmi": 0.931446763943167,
+    "cooc_count": 17,
+    "unigram_w1": 10910,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "巴西",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 15923,
+    "unigram_w2": 10910,
+    "window_size": 10
+  },
+  {
+    "w1": "巴西",
+    "w2": "时间",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 10910,
+    "unigram_w2": 276205,
+    "window_size": 10
+  },
+  {
+    "w1": "巴西",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 10910,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "巴西",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 76758,
+    "unigram_w2": 10910,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "巴西",
+    "pmi": 0.0,
+    "cooc_count": 1710,
+    "unigram_w1": 2356497,
+    "unigram_w2": 10910,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "巴西",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 108978,
+    "unigram_w2": 10910,
+    "window_size": 10
+  },
+  {
+    "w1": "哪项",
+    "w2": "在",
+    "pmi": 1.0947761706540222,
+    "cooc_count": 15,
+    "unigram_w1": 31,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "范围",
+    "w2": "请求",
+    "pmi": 0.040027395739813634,
+    "cooc_count": 24,
+    "unigram_w1": 37560,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "范围",
+    "pmi": 0.7728214788611106,
+    "cooc_count": 89,
+    "unigram_w1": 15923,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "范围",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 37560,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "范围",
+    "pmi": 0.0,
+    "cooc_count": 677,
+    "unigram_w1": 276205,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "范围",
+    "pmi": 0.0,
+    "cooc_count": 46,
+    "unigram_w1": 39787,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "范围",
+    "pmi": 0.0,
+    "cooc_count": 182,
+    "unigram_w1": 76758,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "数据保护",
+    "w2": "范围",
+    "pmi": 3.4063611816441677,
+    "cooc_count": 20,
+    "unigram_w1": 257,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "范围",
+    "pmi": 0.42360442410228005,
+    "cooc_count": 9289,
+    "unigram_w1": 2356497,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "范围",
+    "pmi": 3.6289411577102975,
+    "cooc_count": 10595,
+    "unigram_w1": 108978,
+    "unigram_w2": 37560,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "请求",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 15923,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "请求",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 3,
+    "unigram_w1": 8935,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "请求",
+    "pmi": 0.6505950584262898,
+    "cooc_count": 325,
+    "unigram_w1": 276205,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "法",
+    "w2": "请求",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 39787,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "请求",
+    "pmi": 0.0,
+    "cooc_count": 36,
+    "unigram_w1": 76758,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "请求",
+    "pmi": 0.0,
+    "cooc_count": 776,
+    "unigram_w1": 2356497,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "请求",
+    "pmi": 0.0,
+    "cooc_count": 55,
+    "unigram_w1": 108978,
+    "unigram_w2": 8935,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 15923,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "时间",
+    "pmi": 0.0,
+    "cooc_count": 95,
+    "unigram_w1": 15923,
+    "unigram_w2": 276205,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 26,
+    "unigram_w1": 15923,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "完成",
+    "pmi": 1.418791927852939,
+    "cooc_count": 347,
+    "unigram_w1": 15923,
+    "unigram_w2": 76758,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "在",
+    "pmi": 0.0,
+    "cooc_count": 1127,
+    "unigram_w1": 15923,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  },
+  {
+    "w1": "主体",
+    "w2": "内",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 15923,
+    "unigram_w2": 108978,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 276205,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 76758,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "数据保护",
+    "w2": "通用",
+    "pmi": 5.929253950248254,
+    "cooc_count": 45,
+    "unigram_w1": 257,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 543,
+    "unigram_w1": 2356497,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "通用",
+    "pmi": 0.0,
+    "cooc_count": 48,
+    "unigram_w1": 108978,
+    "unigram_w2": 6780,
+    "window_size": 10
+  },
+  {
+    "w1": "时间",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 262,
+    "unigram_w1": 276205,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "时间",
+    "pmi": 0.2772099986752284,
+    "cooc_count": 1922,
+    "unigram_w1": 76758,
+    "unigram_w2": 276205,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "时间",
+    "pmi": 0.0,
+    "cooc_count": 30215,
+    "unigram_w1": 2356497,
+    "unigram_w2": 276205,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "时间",
+    "pmi": 0.8085005845469646,
+    "cooc_count": 4642,
+    "unigram_w1": 108978,
+    "unigram_w2": 276205,
+    "window_size": 10
+  },
+  {
+    "w1": "完成",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 81,
+    "unigram_w1": 76758,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "数据保护",
+    "w2": "法",
+    "pmi": 2.550252913998127,
+    "cooc_count": 9,
+    "unigram_w1": 257,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 3993,
+    "unigram_w1": 2356497,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "法",
+    "pmi": 0.0,
+    "cooc_count": 267,
+    "unigram_w1": 108978,
+    "unigram_w2": 39787,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "完成",
+    "pmi": 0.0,
+    "cooc_count": 11039,
+    "unigram_w1": 2356497,
+    "unigram_w2": 76758,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "完成",
+    "pmi": 0.9978855948427839,
+    "cooc_count": 1559,
+    "unigram_w1": 108978,
+    "unigram_w2": 76758,
+    "window_size": 10
+  },
+  {
+    "w1": "在",
+    "w2": "数据保护",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 2356497,
+    "unigram_w2": 257,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "数据保护",
+    "pmi": 2.2357942933310424,
+    "cooc_count": 18,
+    "unigram_w1": 108978,
+    "unigram_w2": 257,
+    "window_size": 10
+  },
+  {
+    "w1": "内",
+    "w2": "在",
+    "pmi": 0.5899135525568854,
+    "cooc_count": 31828,
+    "unigram_w1": 108978,
+    "unigram_w2": 2356497,
+    "window_size": 10
+  }
+]

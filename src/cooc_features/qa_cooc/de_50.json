@@ -1,0 +1,245 @@
+[
+  {
+    "w1": "frauen",
+    "w2": "medaille",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 99853,
+    "unigram_w2": 1946,
+    "window_size": 10
+  },
+  {
+    "w1": "frauen",
+    "w2": "gewann",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 99853,
+    "unigram_w2": 8612,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "frauen",
+    "pmi": 0.0,
+    "cooc_count": 21,
+    "unigram_w1": 23557,
+    "unigram_w2": 99853,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "frauen",
+    "pmi": 0.06084717674095431,
+    "cooc_count": 7117,
+    "unigram_w1": 1249892,
+    "unigram_w2": 99853,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "frauen",
+    "pmi": 0.0,
+    "cooc_count": 7643,
+    "unigram_w1": 2705342,
+    "unigram_w2": 99853,
+    "window_size": 10
+  },
+  {
+    "w1": "frauen",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 431,
+    "unigram_w1": 99853,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "gewann",
+    "w2": "medaille",
+    "pmi": 3.101916850771478,
+    "cooc_count": 20,
+    "unigram_w1": 8612,
+    "unigram_w2": 1946,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "medaille",
+    "pmi": 0.055782415313155975,
+    "cooc_count": 138,
+    "unigram_w1": 1249892,
+    "unigram_w2": 1946,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "medaille",
+    "pmi": 0.0,
+    "cooc_count": 168,
+    "unigram_w1": 2705342,
+    "unigram_w2": 1946,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "gewann",
+    "pmi": 1.223455457415055,
+    "cooc_count": 37,
+    "unigram_w1": 23557,
+    "unigram_w2": 8612,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzemedaille",
+    "w2": "gewann",
+    "pmi": 5.289425166550286,
+    "cooc_count": 36,
+    "unigram_w1": 393,
+    "unigram_w2": 8612,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "gewann",
+    "pmi": 0.09319708885487395,
+    "cooc_count": 634,
+    "unigram_w1": 1249892,
+    "unigram_w2": 8612,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "gewann",
+    "pmi": 0.5737888680928835,
+    "cooc_count": 2219,
+    "unigram_w1": 2705342,
+    "unigram_w2": 8612,
+    "window_size": 10
+  },
+  {
+    "w1": "gewann",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 8612,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "bronzemedaille",
+    "pmi": 2.3090777038199235,
+    "cooc_count": 5,
+    "unigram_w1": 23557,
+    "unigram_w2": 393,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "bei",
+    "pmi": 0.0,
+    "cooc_count": 715,
+    "unigram_w1": 23557,
+    "unigram_w2": 1249892,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "asienspielen",
+    "pmi": 5.874941707037313,
+    "cooc_count": 9,
+    "unigram_w1": 23557,
+    "unigram_w2": 20,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 1375,
+    "unigram_w1": 23557,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "2002",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 23557,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "bronzemedaille",
+    "pmi": 0.6794940996140679,
+    "cooc_count": 52,
+    "unigram_w1": 1249892,
+    "unigram_w2": 393,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzemedaille",
+    "w2": "den",
+    "pmi": 0.3987304482655984,
+    "cooc_count": 85,
+    "unigram_w1": 393,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "bronzemedaille",
+    "w2": "welche",
+    "pmi": 0.5380275851861737,
+    "cooc_count": 5,
+    "unigram_w1": 393,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "asienspielen",
+    "w2": "bei",
+    "pmi": 1.7857692610277467,
+    "cooc_count": 8,
+    "unigram_w1": 20,
+    "unigram_w2": 1249892,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 175988,
+    "unigram_w1": 1249892,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "bei",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 7199,
+    "unigram_w1": 1249892,
+    "unigram_w2": 138445,
+    "window_size": 10
+  },
+  {
+    "w1": "asienspielen",
+    "w2": "den",
+    "pmi": 1.824528287986717,
+    "cooc_count": 18,
+    "unigram_w1": 20,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "welche",
+    "pmi": 0.0,
+    "cooc_count": 12392,
+    "unigram_w1": 2705342,
+    "unigram_w2": 138445,
+    "window_size": 10
+  }
+]

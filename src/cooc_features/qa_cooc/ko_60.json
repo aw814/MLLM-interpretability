@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "승리로",
+    "w2": "총선에서",
+    "pmi": 3.1563926151244006,
+    "cooc_count": 8,
+    "unigram_w1": 767,
+    "unigram_w2": 845,
+    "window_size": 10
+  },
+  {
+    "w1": "승리로",
+    "w2": "이끈",
+    "pmi": 6.008300694951927,
+    "cooc_count": 163,
+    "unigram_w1": 767,
+    "unigram_w2": 994,
+    "window_size": 10
+  },
+  {
+    "w1": "정당은",
+    "w2": "총선에서",
+    "pmi": 4.241279452013537,
+    "cooc_count": 10,
+    "unigram_w1": 324,
+    "unigram_w2": 845,
+    "window_size": 10
+  },
+  {
+    "w1": "1999년",
+    "w2": "정당은",
+    "pmi": 3.0870440058658084,
+    "cooc_count": 8,
+    "unigram_w1": 2144,
+    "unigram_w2": 324,
+    "window_size": 10
+  },
+  {
+    "w1": "이끈",
+    "w2": "총선에서",
+    "pmi": 2.76361081721056,
+    "cooc_count": 7,
+    "unigram_w1": 994,
+    "unigram_w2": 845,
+    "window_size": 10
+  },
+  {
+    "w1": "1999년",
+    "w2": "총선에서",
+    "pmi": 0.7421565331810734,
+    "cooc_count": 2,
+    "unigram_w1": 2144,
+    "unigram_w2": 845,
+    "window_size": 10
+  },
+  {
+    "w1": "노동당",
+    "w2": "헬렌",
+    "pmi": 3.5204046201877444,
+    "cooc_count": 2,
+    "unigram_w1": 629,
+    "unigram_w2": 179,
+    "window_size": 10
+  },
+  {
+    "w1": "노동당",
+    "w2": "뉴질랜드",
+    "pmi": 1.822280755993682,
+    "cooc_count": 5,
+    "unigram_w1": 629,
+    "unigram_w2": 2445,
+    "window_size": 10
+  },
+  {
+    "w1": "1999년",
+    "w2": "이끈",
+    "pmi": 1.2729031344416188,
+    "cooc_count": 4,
+    "unigram_w1": 2144,
+    "unigram_w2": 994,
+    "window_size": 10
+  }
+]

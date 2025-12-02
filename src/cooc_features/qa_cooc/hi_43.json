@@ -1,0 +1,1397 @@
+[
+  {
+    "w1": "को",
+    "w2": "वाले",
+    "pmi": 0.05580801490067107,
+    "cooc_count": 105682,
+    "unigram_w1": 5619443,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "लिए",
+    "pmi": 0.0,
+    "cooc_count": 390433,
+    "unigram_w1": 5619443,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 810970,
+    "unigram_w1": 5619443,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "व्यक्ति",
+    "pmi": 0.1346976011166953,
+    "cooc_count": 34934,
+    "unigram_w1": 5619443,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 1731,
+    "unigram_w1": 5619443,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 1612,
+    "unigram_w1": 5619443,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "को",
+    "pmi": 0.35688952866627344,
+    "cooc_count": 14263,
+    "unigram_w1": 49880,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "जाता",
+    "pmi": 0.0,
+    "cooc_count": 93636,
+    "unigram_w1": 5619443,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "को",
+    "pmi": 0.0,
+    "cooc_count": 158376,
+    "unigram_w1": 898637,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "को",
+    "pmi": 0.0,
+    "cooc_count": 39,
+    "unigram_w1": 459,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "को",
+    "pmi": 0.7951134570994338,
+    "cooc_count": 238,
+    "unigram_w1": 537,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "सरकार",
+    "pmi": 0.10621411651132999,
+    "cooc_count": 106544,
+    "unigram_w1": 5619443,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 795081,
+    "unigram_w1": 5619443,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 69823,
+    "unigram_w1": 5619443,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "को",
+    "pmi": 0.3007428685117219,
+    "cooc_count": 376081,
+    "unigram_w1": 1391173,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "को",
+    "pmi": 0.0,
+    "cooc_count": 1713086,
+    "unigram_w1": 13050901,
+    "unigram_w2": 5619443,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "मुहैया",
+    "pmi": 0.524381104002421,
+    "cooc_count": 3558,
+    "unigram_w1": 5619443,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "को",
+    "w2": "दक्षिण",
+    "pmi": 0.0,
+    "cooc_count": 8167,
+    "unigram_w1": 5619443,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 29528,
+    "unigram_w1": 2625856,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "वाले",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 83335,
+    "unigram_w1": 499430,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "वाले",
+    "w2": "व्यक्ति",
+    "pmi": 1.0075524151498103,
+    "cooc_count": 7432,
+    "unigram_w1": 499430,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "वाले",
+    "w2": "सेवाएं",
+    "pmi": 0.11080501831166928,
+    "cooc_count": 238,
+    "unigram_w1": 499430,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "वाले",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 103,
+    "unigram_w1": 499430,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "वाले",
+    "pmi": 0.7942150519470906,
+    "cooc_count": 1963,
+    "unigram_w1": 49880,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 3640,
+    "unigram_w1": 551351,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 7255,
+    "unigram_w1": 898637,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 459,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 537,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "वाले",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 4054,
+    "unigram_w1": 499430,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "वाले",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 47868,
+    "unigram_w1": 499430,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 9347,
+    "unigram_w1": 574592,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "वाले",
+    "pmi": 1.2284350634771346,
+    "cooc_count": 84519,
+    "unigram_w1": 1391173,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 166059,
+    "unigram_w1": 13050901,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "वाले",
+    "pmi": 0.3324680226271122,
+    "cooc_count": 261,
+    "unigram_w1": 10524,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "वाले",
+    "pmi": 0.0,
+    "cooc_count": 540,
+    "unigram_w1": 56853,
+    "unigram_w2": 499430,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 295680,
+    "unigram_w1": 2625856,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 9760,
+    "unigram_w1": 2625856,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "सेवाएं",
+    "pmi": 0.18298886769773207,
+    "cooc_count": 1345,
+    "unigram_w1": 2625856,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 1178,
+    "unigram_w1": 2625856,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "लिए",
+    "pmi": 0.7005432683549885,
+    "cooc_count": 9398,
+    "unigram_w1": 49880,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "लिए",
+    "pmi": 0.0,
+    "cooc_count": 42647,
+    "unigram_w1": 551351,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "लिए",
+    "pmi": 0.0,
+    "cooc_count": 37512,
+    "unigram_w1": 898637,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "लिए",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 459,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "लिए",
+    "pmi": 0.053960307529457394,
+    "cooc_count": 53,
+    "unigram_w1": 537,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 35484,
+    "unigram_w1": 2625856,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "लिए",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 361563,
+    "unigram_w1": 2625856,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "लिए",
+    "pmi": 0.0,
+    "cooc_count": 31556,
+    "unigram_w1": 574592,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "लिए",
+    "pmi": 0.9537589810178672,
+    "cooc_count": 337645,
+    "unigram_w1": 1391173,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "लिए",
+    "pmi": 0.5961068641600816,
+    "cooc_count": 2215100,
+    "unigram_w1": 13050901,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "लिए",
+    "pmi": 0.7136452111409511,
+    "cooc_count": 2009,
+    "unigram_w1": 10524,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "लिए",
+    "pmi": 0.0,
+    "cooc_count": 2352,
+    "unigram_w1": 56853,
+    "unigram_w2": 2625856,
+    "window_size": 10
+  },
+  {
+    "w1": "व्यक्ति",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 28146,
+    "unigram_w1": 152567,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "से",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 1802,
+    "unigram_w1": 5871698,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "समझौता",
+    "w2": "से",
+    "pmi": 0.0559751932826996,
+    "cooc_count": 3000,
+    "unigram_w1": 13566,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 8911,
+    "unigram_w1": 49880,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 92535,
+    "unigram_w1": 551351,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 120266,
+    "unigram_w1": 898637,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 88,
+    "unigram_w1": 459,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 537,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "सरकार",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 72850,
+    "unigram_w1": 478753,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "से",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 891378,
+    "unigram_w1": 5871698,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 63842,
+    "unigram_w1": 574592,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 230352,
+    "unigram_w1": 1391173,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 1654147,
+    "unigram_w1": 13050901,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 1065,
+    "unigram_w1": 10524,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "से",
+    "pmi": 0.0,
+    "cooc_count": 9508,
+    "unigram_w1": 56853,
+    "unigram_w2": 5871698,
+    "window_size": 10
+  },
+  {
+    "w1": "व्यक्ति",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 152567,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "व्यक्ति",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 33,
+    "unigram_w1": 152567,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 106,
+    "unigram_w1": 49880,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "व्यक्ति",
+    "pmi": 0.19070752013985365,
+    "cooc_count": 3625,
+    "unigram_w1": 551351,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 2961,
+    "unigram_w1": 898637,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "व्यक्ति",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 660,
+    "unigram_w1": 152567,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "व्यक्ति",
+    "w2": "है",
+    "pmi": 0.026478941405871814,
+    "cooc_count": 35928,
+    "unigram_w1": 152567,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 2935,
+    "unigram_w1": 574592,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 6218,
+    "unigram_w1": 1391173,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 52283,
+    "unigram_w1": 13050901,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "व्यक्ति",
+    "pmi": 0.014254230152429955,
+    "cooc_count": 58,
+    "unigram_w1": 10524,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "व्यक्ति",
+    "pmi": 0.0,
+    "cooc_count": 111,
+    "unigram_w1": 56853,
+    "unigram_w2": 152567,
+    "window_size": 10
+  },
+  {
+    "w1": "समझौता",
+    "w2": "सेवाएं",
+    "pmi": 0.7293417800322282,
+    "cooc_count": 12,
+    "unigram_w1": 13566,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "सेवाएं",
+    "pmi": 2.2751004652216493,
+    "cooc_count": 207,
+    "unigram_w1": 49880,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 60,
+    "unigram_w1": 551351,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 190,
+    "unigram_w1": 898637,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "सरकार",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 140,
+    "unigram_w1": 478753,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "सेवाएं",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 1035,
+    "unigram_w1": 11978,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 54,
+    "unigram_w1": 574592,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "सेवाएं",
+    "pmi": 0.340332639980699,
+    "cooc_count": 834,
+    "unigram_w1": 1391173,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 3794,
+    "unigram_w1": 13050901,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "सेवाएं",
+    "pmi": 3.781547158328058,
+    "cooc_count": 197,
+    "unigram_w1": 10524,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "सेवाएं",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 56853,
+    "unigram_w2": 11978,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "समझौता",
+    "pmi": 1.5714768343810277,
+    "cooc_count": 116,
+    "unigram_w1": 49880,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 164,
+    "unigram_w1": 551351,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "समझौता",
+    "pmi": 0.21262568764561532,
+    "cooc_count": 537,
+    "unigram_w1": 898637,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "समझौता",
+    "w2": "सरकार",
+    "pmi": 0.208811137561389,
+    "cooc_count": 285,
+    "unigram_w1": 13566,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "समझौता",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 1990,
+    "unigram_w1": 13566,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 574592,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "समझौता",
+    "pmi": 0.48445419477340607,
+    "cooc_count": 1091,
+    "unigram_w1": 1391173,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 5864,
+    "unigram_w1": 13050901,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "समझौता",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 10524,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "समझौता",
+    "pmi": 0.7474807853801353,
+    "cooc_count": 58,
+    "unigram_w1": 56853,
+    "unigram_w2": 13566,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "जाता",
+    "pmi": 0.0,
+    "cooc_count": 589,
+    "unigram_w1": 49880,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "कहा",
+    "pmi": 0.0,
+    "cooc_count": 1365,
+    "unigram_w1": 49880,
+    "unigram_w2": 898637,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "सरकार",
+    "pmi": 0.1798636961152586,
+    "cooc_count": 1018,
+    "unigram_w1": 49880,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 4542,
+    "unigram_w1": 49880,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 230,
+    "unigram_w1": 49880,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "कराने",
+    "pmi": 0.0,
+    "cooc_count": 2041,
+    "unigram_w1": 1391173,
+    "unigram_w2": 49880,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "के",
+    "pmi": 0.012574754963641641,
+    "cooc_count": 23476,
+    "unigram_w1": 49880,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "मुहैया",
+    "pmi": 4.81289403265587,
+    "cooc_count": 2301,
+    "unigram_w1": 49880,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "कराने",
+    "w2": "दक्षिण",
+    "pmi": 0.0,
+    "cooc_count": 8,
+    "unigram_w1": 49880,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "जाता",
+    "pmi": 1.0889233310323405,
+    "cooc_count": 52423,
+    "unigram_w1": 898637,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "जाता",
+    "pmi": 0.3663562230605368,
+    "cooc_count": 13,
+    "unigram_w1": 459,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "जाता",
+    "pmi": 0.6401912547046715,
+    "cooc_count": 20,
+    "unigram_w1": 537,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 2231,
+    "unigram_w1": 551351,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "है",
+    "pmi": 0.8959791102954815,
+    "cooc_count": 309756,
+    "unigram_w1": 551351,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "जाता",
+    "pmi": 0.020621056626903295,
+    "cooc_count": 11517,
+    "unigram_w1": 574592,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "जाता",
+    "pmi": 0.0,
+    "cooc_count": 13697,
+    "unigram_w1": 1391173,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "जाता",
+    "pmi": 0.0,
+    "cooc_count": 156670,
+    "unigram_w1": 13050901,
+    "unigram_w2": 551351,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "मुहैया",
+    "pmi": 0.0,
+    "cooc_count": 94,
+    "unigram_w1": 551351,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "जाता",
+    "w2": "दक्षिण",
+    "pmi": 0.090476947156166,
+    "cooc_count": 1222,
+    "unigram_w1": 551351,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "कहा",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 537,
+    "unigram_w2": 898637,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "सरकार",
+    "pmi": 0.6245559871139004,
+    "cooc_count": 28611,
+    "unigram_w1": 898637,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 182800,
+    "unigram_w1": 898637,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 17976,
+    "unigram_w1": 898637,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "कहा",
+    "pmi": 0.0,
+    "cooc_count": 25184,
+    "unigram_w1": 1391173,
+    "unigram_w2": 898637,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 215908,
+    "unigram_w1": 898637,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "मुहैया",
+    "pmi": 0.02697466754031647,
+    "cooc_count": 346,
+    "unigram_w1": 898637,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "कहा",
+    "w2": "दक्षिण",
+    "pmi": 0.0,
+    "cooc_count": 1507,
+    "unigram_w1": 898637,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 459,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 142,
+    "unigram_w1": 459,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "अफ़्रीका",
+    "w2": "दक्षिण",
+    "pmi": 5.5497730582107065,
+    "cooc_count": 239,
+    "unigram_w1": 459,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "सरकार",
+    "pmi": 1.186843185952054,
+    "cooc_count": 30,
+    "unigram_w1": 537,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 537,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 537,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "करने",
+    "pmi": 1.173275352191003,
+    "cooc_count": 86,
+    "unigram_w1": 537,
+    "unigram_w2": 1391173,
+    "window_size": 10
+  },
+  {
+    "w1": "आउटसोर्स",
+    "w2": "के",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 537,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "सरकार",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 75553,
+    "unigram_w1": 478753,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 5808,
+    "unigram_w1": 574592,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 16168,
+    "unigram_w1": 1391173,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 175911,
+    "unigram_w1": 13050901,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "सरकार",
+    "pmi": 0.9586985525562266,
+    "cooc_count": 468,
+    "unigram_w1": 10524,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "सरकार",
+    "pmi": 0.0,
+    "cooc_count": 206,
+    "unigram_w1": 56853,
+    "unigram_w2": 478753,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "है",
+    "pmi": 0.6246679631603649,
+    "cooc_count": 246106,
+    "unigram_w1": 574592,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 171992,
+    "unigram_w1": 1391173,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 1471802,
+    "unigram_w1": 13050901,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "मुहैया",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 1983,
+    "unigram_w1": 10524,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "है",
+    "pmi": 0.0,
+    "cooc_count": 6618,
+    "unigram_w1": 56853,
+    "unigram_w2": 6439865,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 14802,
+    "unigram_w1": 1391173,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "क्या",
+    "pmi": 0.0,
+    "cooc_count": 124980,
+    "unigram_w1": 13050901,
+    "unigram_w2": 574592,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "मुहैया",
+    "pmi": 0.0,
+    "cooc_count": 32,
+    "unigram_w1": 574592,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "क्या",
+    "w2": "दक्षिण",
+    "pmi": 0.0,
+    "cooc_count": 300,
+    "unigram_w1": 574592,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "के",
+    "pmi": 0.02943969141559253,
+    "cooc_count": 665891,
+    "unigram_w1": 1391173,
+    "unigram_w2": 13050901,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "मुहैया",
+    "pmi": 0.0,
+    "cooc_count": 249,
+    "unigram_w1": 1391173,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "करने",
+    "w2": "दक्षिण",
+    "pmi": 0.0,
+    "cooc_count": 873,
+    "unigram_w1": 1391173,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "मुहैया",
+    "pmi": 0.0,
+    "cooc_count": 3822,
+    "unigram_w1": 13050901,
+    "unigram_w2": 10524,
+    "window_size": 10
+  },
+  {
+    "w1": "के",
+    "w2": "दक्षिण",
+    "pmi": 0.0,
+    "cooc_count": 22618,
+    "unigram_w1": 13050901,
+    "unigram_w2": 56853,
+    "window_size": 10
+  },
+  {
+    "w1": "दक्षिण",
+    "w2": "मुहैया",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 56853,
+    "unigram_w2": 10524,
+    "window_size": 10
+  }
+]

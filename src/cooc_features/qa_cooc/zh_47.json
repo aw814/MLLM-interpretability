@@ -1,0 +1,947 @@
+[
+  {
+    "w1": "26",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 175,
+    "unigram_w1": 27912,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "运动会",
+    "pmi": 0.0,
+    "cooc_count": 1,
+    "unigram_w1": 27912,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 145,
+    "unigram_w1": 27912,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 63,
+    "unigram_w1": 27912,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 27912,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "26",
+    "pmi": 3.7026699530694493,
+    "cooc_count": 6016,
+    "unigram_w1": 77350,
+    "unigram_w2": 27912,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 27912,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1310,
+    "unigram_w1": 27912,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "亚洲",
+    "pmi": 0.0,
+    "cooc_count": 12,
+    "unigram_w1": 27912,
+    "unigram_w2": 149251,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 211,
+    "unigram_w1": 27912,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 27912,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "举行",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 27912,
+    "unigram_w2": 57723,
+    "window_size": 10
+  },
+  {
+    "w1": "26",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 207,
+    "unigram_w1": 27912,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "26",
+    "pmi": 3.1843994537232403,
+    "cooc_count": 477,
+    "unigram_w1": 10298,
+    "unigram_w2": 27912,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "运动会",
+    "pmi": 0.7934662941601841,
+    "cooc_count": 400,
+    "unigram_w1": 982471,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 54808,
+    "unigram_w1": 982471,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 4830,
+    "unigram_w1": 303848,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 1893,
+    "unigram_w1": 982471,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 825,
+    "unigram_w1": 77350,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 1007,
+    "unigram_w1": 982471,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 260966,
+    "unigram_w1": 982471,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 2315,
+    "unigram_w1": 149251,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "日",
+    "pmi": 1.4430694993379312,
+    "cooc_count": 201072,
+    "unigram_w1": 982471,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 1586,
+    "unigram_w1": 982471,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "年",
+    "pmi": 0.11628167115887385,
+    "cooc_count": 4377,
+    "unigram_w1": 57723,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "年",
+    "w2": "月",
+    "pmi": 1.7098225001613117,
+    "cooc_count": 333286,
+    "unigram_w1": 982471,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "年",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 10298,
+    "unigram_w2": 982471,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "标枪",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 2216630,
+    "unigram_w2": 129,
+    "window_size": 10
+  },
+  {
+    "w1": "标枪",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 129,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "标枪",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 703570,
+    "unigram_w2": 129,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "标枪",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 893148,
+    "unigram_w2": 129,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "运动会",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 2216630,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "运动会",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 77350,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "男子",
+    "w2": "运动会",
+    "pmi": 2.1411837824361797,
+    "cooc_count": 41,
+    "unigram_w1": 26166,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "的",
+    "w2": "运动会",
+    "pmi": 0.0,
+    "cooc_count": 866,
+    "unigram_w1": 10165533,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "运动会",
+    "pmi": 1.2611540999061694,
+    "cooc_count": 97,
+    "unigram_w1": 149251,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "运动会",
+    "pmi": 0.0,
+    "cooc_count": 92,
+    "unigram_w1": 703570,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "运动会",
+    "pmi": 2.204911717610993,
+    "cooc_count": 116,
+    "unigram_w1": 69460,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "运动会",
+    "pmi": 2.585176756591736,
+    "cooc_count": 141,
+    "unigram_w1": 57723,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "运动会",
+    "pmi": 0.0,
+    "cooc_count": 152,
+    "unigram_w1": 893148,
+    "unigram_w2": 2680,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "是",
+    "pmi": 0.937328771102239,
+    "cooc_count": 118150,
+    "unigram_w1": 303848,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 15000,
+    "unigram_w1": 122072,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 654,
+    "unigram_w1": 77350,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 1813,
+    "unigram_w1": 2216630,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 1330663,
+    "unigram_w1": 2216630,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 6211,
+    "unigram_w1": 149251,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 21750,
+    "unigram_w1": 703570,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 6212,
+    "unigram_w1": 2216630,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 1819,
+    "unigram_w1": 57723,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "是",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 30481,
+    "unigram_w1": 2216630,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "是",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 10298,
+    "unigram_w2": 2216630,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "时候",
+    "pmi": 1.7276983318318682,
+    "cooc_count": 14342,
+    "unigram_w1": 303848,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 306,
+    "unigram_w1": 77350,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 189,
+    "unigram_w1": 303848,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 97096,
+    "unigram_w1": 303848,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 1708,
+    "unigram_w1": 149251,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 1981,
+    "unigram_w1": 303848,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 716,
+    "unigram_w1": 303848,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 138,
+    "unigram_w1": 57723,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "什么",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 2867,
+    "unigram_w1": 303848,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "什么",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 10298,
+    "unigram_w2": 303848,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 22,
+    "unigram_w1": 77350,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 64,
+    "unigram_w1": 122072,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "的",
+    "pmi": 0.12883178059310865,
+    "cooc_count": 96985,
+    "unigram_w1": 122072,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 117,
+    "unigram_w1": 149251,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 483,
+    "unigram_w1": 703570,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 334,
+    "unigram_w1": 122072,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 67,
+    "unigram_w1": 57723,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "时候",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 1112,
+    "unigram_w1": 122072,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "时候",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 10298,
+    "unigram_w2": 122072,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 77350,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 6311,
+    "unigram_w1": 77350,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "亚洲",
+    "pmi": 0.0,
+    "cooc_count": 44,
+    "unigram_w1": 77350,
+    "unigram_w2": 149251,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 1036,
+    "unigram_w1": 77350,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 49,
+    "unigram_w1": 77350,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "举行",
+    "pmi": 0.0,
+    "cooc_count": 71,
+    "unigram_w1": 77350,
+    "unigram_w2": 57723,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 930,
+    "unigram_w1": 77350,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "11",
+    "w2": "2010",
+    "pmi": 3.528615421778213,
+    "cooc_count": 1865,
+    "unigram_w1": 77350,
+    "unigram_w2": 10298,
+    "window_size": 10
+  },
+  {
+    "w1": "男子",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 9071,
+    "unigram_w1": 26166,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 51,
+    "unigram_w1": 149251,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 1021,
+    "unigram_w1": 703570,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "男子",
+    "pmi": 0.387613220547695,
+    "cooc_count": 184,
+    "unigram_w1": 69460,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 52,
+    "unigram_w1": 57723,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 1079,
+    "unigram_w1": 893148,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "男子",
+    "pmi": 0.0,
+    "cooc_count": 7,
+    "unigram_w1": 10298,
+    "unigram_w2": 26166,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 17965,
+    "unigram_w1": 149251,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 124006,
+    "unigram_w1": 703570,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "比赛",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 33485,
+    "unigram_w1": 69460,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 18548,
+    "unigram_w1": 57723,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 175840,
+    "unigram_w1": 893148,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "的",
+    "pmi": 0.0,
+    "cooc_count": 594,
+    "unigram_w1": 10298,
+    "unigram_w2": 10165533,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 5564,
+    "unigram_w1": 149251,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 354,
+    "unigram_w1": 149251,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "亚洲",
+    "pmi": 0.0,
+    "cooc_count": 492,
+    "unigram_w1": 57723,
+    "unigram_w2": 149251,
+    "window_size": 10
+  },
+  {
+    "w1": "亚洲",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 1533,
+    "unigram_w1": 149251,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 1738,
+    "unigram_w1": 703570,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "日",
+    "pmi": 1.445727403237257,
+    "cooc_count": 11845,
+    "unigram_w1": 57723,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "日",
+    "w2": "月",
+    "pmi": 2.402513963051227,
+    "cooc_count": 477130,
+    "unigram_w1": 703570,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "日",
+    "pmi": 0.0,
+    "cooc_count": 69,
+    "unigram_w1": 10298,
+    "unigram_w2": 703570,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "比赛",
+    "pmi": 0.7058415758017159,
+    "cooc_count": 558,
+    "unigram_w1": 57723,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "月",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 1658,
+    "unigram_w1": 893148,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "比赛",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 10298,
+    "unigram_w2": 69460,
+    "window_size": 10
+  },
+  {
+    "w1": "举行",
+    "w2": "月",
+    "pmi": 0.8479920598013738,
+    "cooc_count": 8271,
+    "unigram_w1": 57723,
+    "unigram_w2": 893148,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "举行",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 10298,
+    "unigram_w2": 57723,
+    "window_size": 10
+  },
+  {
+    "w1": "2010",
+    "w2": "月",
+    "pmi": 0.0,
+    "cooc_count": 68,
+    "unigram_w1": 10298,
+    "unigram_w2": 893148,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "w1": "für",
+    "w2": "m_",
+    "pmi": 0.4492629407642067,
+    "cooc_count": 5,
+    "unigram_w1": 2477471,
+    "unigram_w2": 24,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichung",
+    "w2": "planck",
+    "pmi": 5.979725887336892,
+    "cooc_count": 31,
+    "unigram_w1": 896,
+    "unigram_w2": 1631,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichung",
+    "w2": "masse",
+    "pmi": 3.4892872837685527,
+    "cooc_count": 14,
+    "unigram_w1": 896,
+    "unigram_w2": 8888,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichung",
+    "w2": "radius",
+    "pmi": 4.124386357373967,
+    "cooc_count": 5,
+    "unigram_w1": 896,
+    "unigram_w2": 1682,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichung",
+    "w2": "p",
+    "pmi": 0.8617155538378592,
+    "cooc_count": 8,
+    "unigram_w1": 896,
+    "unigram_w2": 70292,
+    "window_size": 10
+  },
+  {
+    "w1": "gleichung",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 896,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "gleichung",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 2705342,
+    "unigram_w2": 896,
+    "window_size": 10
+  },
+  {
+    "w1": "für",
+    "w2": "gleichung",
+    "pmi": 0.0,
+    "cooc_count": 91,
+    "unigram_w1": 2477471,
+    "unigram_w2": 896,
+    "window_size": 10
+  },
+  {
+    "w1": "planck",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 6,
+    "unigram_w1": 1631,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "planck",
+    "pmi": 0.0,
+    "cooc_count": 65,
+    "unigram_w1": 2705342,
+    "unigram_w2": 1631,
+    "window_size": 10
+  },
+  {
+    "w1": "für",
+    "w2": "planck",
+    "pmi": 1.211231304253724,
+    "cooc_count": 728,
+    "unigram_w1": 2477471,
+    "unigram_w2": 1631,
+    "window_size": 10
+  },
+  {
+    "w1": "masse",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 18,
+    "unigram_w1": 8888,
+    "unigram_w2": 70292,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnet",
+    "w2": "masse",
+    "pmi": 0.0,
+    "cooc_count": 9,
+    "unigram_w1": 20267,
+    "unigram_w2": 8888,
+    "window_size": 10
+  },
+  {
+    "w1": "masse",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 177,
+    "unigram_w1": 8888,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "masse",
+    "pmi": 0.0,
+    "cooc_count": 829,
+    "unigram_w1": 2705342,
+    "unigram_w2": 8888,
+    "window_size": 10
+  },
+  {
+    "w1": "für",
+    "w2": "masse",
+    "pmi": 0.0,
+    "cooc_count": 621,
+    "unigram_w1": 2477471,
+    "unigram_w2": 8888,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "radius",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 70292,
+    "unigram_w2": 1682,
+    "window_size": 10
+  },
+  {
+    "w1": "radius",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 1682,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "radius",
+    "pmi": 0.0,
+    "cooc_count": 195,
+    "unigram_w1": 2705342,
+    "unigram_w2": 1682,
+    "window_size": 10
+  },
+  {
+    "w1": "für",
+    "w2": "radius",
+    "pmi": 0.0,
+    "cooc_count": 82,
+    "unigram_w1": 2477471,
+    "unigram_w2": 1682,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnet",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 20267,
+    "unigram_w2": 70292,
+    "window_size": 10
+  },
+  {
+    "w1": "p",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 765,
+    "unigram_w1": 70292,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 2122,
+    "unigram_w1": 2705342,
+    "unigram_w2": 70292,
+    "window_size": 10
+  },
+  {
+    "w1": "für",
+    "w2": "p",
+    "pmi": 0.0,
+    "cooc_count": 3155,
+    "unigram_w1": 2477471,
+    "unigram_w2": 70292,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnet",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 495,
+    "unigram_w1": 20267,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnet",
+    "w2": "den",
+    "pmi": 0.0,
+    "cooc_count": 1585,
+    "unigram_w1": 20267,
+    "unigram_w2": 2705342,
+    "window_size": 10
+  },
+  {
+    "w1": "bezeichnet",
+    "w2": "für",
+    "pmi": 0.0,
+    "cooc_count": 1107,
+    "unigram_w1": 20267,
+    "unigram_w2": 2477471,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 40997,
+    "unigram_w1": 2705342,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "für",
+    "w2": "was",
+    "pmi": 0.0,
+    "cooc_count": 58100,
+    "unigram_w1": 2477471,
+    "unigram_w2": 587397,
+    "window_size": 10
+  },
+  {
+    "w1": "den",
+    "w2": "für",
+    "pmi": 0.04148521236680479,
+    "cooc_count": 374874,
+    "unigram_w1": 2705342,
+    "unigram_w2": 2477471,
+    "window_size": 10
+  }
+]

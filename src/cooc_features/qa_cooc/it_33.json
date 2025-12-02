@@ -1,0 +1,56 @@
+[
+  {
+    "w1": "paese",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 6784,
+    "unigram_w1": 91351,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "afn",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 5,
+    "unigram_w1": 63,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "si",
+    "w2": "trovava",
+    "pmi": 2.237233113142762,
+    "cooc_count": 3752,
+    "unigram_w1": 1869781,
+    "unigram_w2": 4497,
+    "window_size": 10
+  },
+  {
+    "w1": "germania",
+    "w2": "si",
+    "pmi": 0.0,
+    "cooc_count": 1252,
+    "unigram_w1": 22934,
+    "unigram_w2": 1869781,
+    "window_size": 10
+  },
+  {
+    "w1": "paese",
+    "w2": "trovava",
+    "pmi": 0.6369740766802602,
+    "cooc_count": 37,
+    "unigram_w1": 91351,
+    "unigram_w2": 4497,
+    "window_size": 10
+  },
+  {
+    "w1": "germania",
+    "w2": "paese",
+    "pmi": 1.028057928029859,
+    "cooc_count": 279,
+    "unigram_w1": 22934,
+    "unigram_w2": 91351,
+    "window_size": 10
+  }
+]

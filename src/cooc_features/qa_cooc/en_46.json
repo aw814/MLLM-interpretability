@@ -1,0 +1,101 @@
+[
+  {
+    "w1": "did",
+    "w2": "religious",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 179517,
+    "unigram_w2": 12919,
+    "window_size": 10
+  },
+  {
+    "w1": "religious",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 183,
+    "unigram_w1": 12919,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "practice",
+    "w2": "religious",
+    "pmi": 1.2220991796413512,
+    "cooc_count": 114,
+    "unigram_w1": 54582,
+    "unigram_w2": 12919,
+    "window_size": 10
+  },
+  {
+    "w1": "follow",
+    "w2": "religious",
+    "pmi": 0.0,
+    "cooc_count": 35,
+    "unigram_w1": 59516,
+    "unigram_w2": 12919,
+    "window_size": 10
+  },
+  {
+    "w1": "animism",
+    "w2": "what",
+    "pmi": 2.532976087687635,
+    "cooc_count": 6,
+    "unigram_w1": 16,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "what",
+    "pmi": 0.8660818589690257,
+    "cooc_count": 12712,
+    "unigram_w1": 179517,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "practice",
+    "pmi": 0.0,
+    "cooc_count": 262,
+    "unigram_w1": 179517,
+    "unigram_w2": 54582,
+    "window_size": 10
+  },
+  {
+    "w1": "did",
+    "w2": "follow",
+    "pmi": 0.0,
+    "cooc_count": 386,
+    "unigram_w1": 179517,
+    "unigram_w2": 59516,
+    "window_size": 10
+  },
+  {
+    "w1": "practice",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 1029,
+    "unigram_w1": 54582,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "follow",
+    "w2": "what",
+    "pmi": 0.0,
+    "cooc_count": 916,
+    "unigram_w1": 59516,
+    "unigram_w2": 625314,
+    "window_size": 10
+  },
+  {
+    "w1": "follow",
+    "w2": "practice",
+    "pmi": 0.0,
+    "cooc_count": 119,
+    "unigram_w1": 59516,
+    "unigram_w2": 54582,
+    "window_size": 10
+  }
+]

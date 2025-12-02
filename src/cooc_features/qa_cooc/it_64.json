@@ -1,0 +1,83 @@
+[
+  {
+    "w1": "anni",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 302,
+    "unigram_w1": 415639,
+    "unigram_w2": 61414,
+    "window_size": 10
+  },
+  {
+    "w1": "acquistò",
+    "w2": "anni",
+    "pmi": 1.1472957078579455,
+    "cooc_count": 28,
+    "unigram_w1": 449,
+    "unigram_w2": 415639,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "decennio",
+    "pmi": 0.9186757310714477,
+    "cooc_count": 265,
+    "unigram_w1": 415639,
+    "unigram_w2": 5341,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 70,
+    "unigram_w1": 415639,
+    "unigram_w2": 4545,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "sinclair",
+    "pmi": 0.0659058591032464,
+    "cooc_count": 7,
+    "unigram_w1": 415639,
+    "unigram_w2": 331,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "anni",
+    "pmi": 0.8438805903592611,
+    "cooc_count": 50,
+    "unigram_w1": 1086,
+    "unigram_w2": 415639,
+    "window_size": 10
+  },
+  {
+    "w1": "decennio",
+    "w2": "f",
+    "pmi": 0.0,
+    "cooc_count": 13,
+    "unigram_w1": 5341,
+    "unigram_w2": 61414,
+    "window_size": 10
+  },
+  {
+    "w1": "f",
+    "w2": "harry",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 61414,
+    "unigram_w2": 4545,
+    "window_size": 10
+  },
+  {
+    "w1": "1910",
+    "w2": "f",
+    "pmi": 2.0220906881410126,
+    "cooc_count": 24,
+    "unigram_w1": 1086,
+    "unigram_w2": 61414,
+    "window_size": 10
+  }
+]

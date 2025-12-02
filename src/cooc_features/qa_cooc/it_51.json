@@ -1,0 +1,758 @@
+[
+  {
+    "w1": "quanto",
+    "w2": "rettore",
+    "pmi": 0.0,
+    "cooc_count": 23,
+    "unigram_w1": 234709,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "rettore",
+    "w2": "università",
+    "pmi": 4.3320037469706385,
+    "cooc_count": 792,
+    "unigram_w1": 3486,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "rettore",
+    "w2": "sacro",
+    "pmi": 1.4132927116546479,
+    "cooc_count": 5,
+    "unigram_w1": 3486,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "rettore",
+    "pmi": 1.7163787470584215,
+    "cooc_count": 16,
+    "unigram_w1": 17316,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "rettore",
+    "pmi": 6.201022980868415,
+    "cooc_count": 297,
+    "unigram_w1": 3626,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "rettore",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 3486,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "rettore",
+    "pmi": 0.0,
+    "cooc_count": 4,
+    "unigram_w1": 70522,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "rettore",
+    "pmi": 0.0,
+    "cooc_count": 288,
+    "unigram_w1": 4422753,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "rettore",
+    "pmi": 0.0,
+    "cooc_count": 42,
+    "unigram_w1": 415639,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "rettore",
+    "pmi": 1.5556714061818153,
+    "cooc_count": 896,
+    "unigram_w1": 1138754,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "rettore",
+    "pmi": 1.901893198908891,
+    "cooc_count": 13,
+    "unigram_w1": 11687,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "quattro",
+    "w2": "rettore",
+    "pmi": 0.17458668932102894,
+    "cooc_count": 13,
+    "unigram_w1": 65745,
+    "unigram_w2": 3486,
+    "window_size": 10
+  },
+  {
+    "w1": "quanto",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 166,
+    "unigram_w1": 234709,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "quanto",
+    "w2": "sacro",
+    "pmi": 0.0,
+    "cooc_count": 50,
+    "unigram_w1": 234709,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "quanto",
+    "pmi": 0.0,
+    "cooc_count": 90,
+    "unigram_w1": 17316,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "quanto",
+    "pmi": 0.0,
+    "cooc_count": 19,
+    "unigram_w1": 3626,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "quanto",
+    "w2": "tempo",
+    "pmi": 0.6247182845530531,
+    "cooc_count": 6254,
+    "unigram_w1": 234709,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "quanto",
+    "pmi": 0.0,
+    "cooc_count": 297,
+    "unigram_w1": 70522,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "quanto",
+    "w2": "rimane",
+    "pmi": 0.10043818014783293,
+    "cooc_count": 294,
+    "unigram_w1": 234709,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "quanto",
+    "pmi": 0.3698129506555285,
+    "cooc_count": 71575,
+    "unigram_w1": 4422753,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "quanto",
+    "pmi": 0.0,
+    "cooc_count": 1927,
+    "unigram_w1": 415639,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "quanto",
+    "pmi": 0.0,
+    "cooc_count": 6886,
+    "unigram_w1": 1138754,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "quanto",
+    "pmi": 0.0,
+    "cooc_count": 75,
+    "unigram_w1": 11687,
+    "unigram_w2": 234709,
+    "window_size": 10
+  },
+  {
+    "w1": "quanto",
+    "w2": "quattro",
+    "pmi": 0.0,
+    "cooc_count": 226,
+    "unigram_w1": 234709,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "sacro",
+    "w2": "università",
+    "pmi": 3.1490418727945864,
+    "cooc_count": 510,
+    "unigram_w1": 7327,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 16,
+    "unigram_w1": 17316,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "università",
+    "pmi": 2.500869112507753,
+    "cooc_count": 132,
+    "unigram_w1": 3626,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "tempo",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 160,
+    "unigram_w1": 299492,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "università",
+    "pmi": 0.8924958498329718,
+    "cooc_count": 514,
+    "unigram_w1": 70522,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "rimane",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 20,
+    "unigram_w1": 23783,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 4965,
+    "unigram_w1": 4422753,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 672,
+    "unigram_w1": 415639,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "università",
+    "pmi": 1.7256367696205308,
+    "cooc_count": 19094,
+    "unigram_w1": 1138754,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "università",
+    "pmi": 3.898380985514561,
+    "cooc_count": 1721,
+    "unigram_w1": 11687,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "quattro",
+    "w2": "università",
+    "pmi": 0.0,
+    "cooc_count": 99,
+    "unigram_w1": 65745,
+    "unigram_w2": 62676,
+    "window_size": 10
+  },
+  {
+    "w1": "sacro",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 43,
+    "unigram_w1": 7327,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "sacro",
+    "pmi": 4.240933677938847,
+    "cooc_count": 1710,
+    "unigram_w1": 70522,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "rimane",
+    "w2": "sacro",
+    "pmi": 0.6562274288185979,
+    "cooc_count": 16,
+    "unigram_w1": 23783,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "sacro",
+    "pmi": 0.0,
+    "cooc_count": 603,
+    "unigram_w1": 4422753,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "sacro",
+    "pmi": 0.0,
+    "cooc_count": 53,
+    "unigram_w1": 415639,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "sacro",
+    "pmi": 0.07870499381449547,
+    "cooc_count": 430,
+    "unigram_w1": 1138754,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "sacro",
+    "pmi": 5.07417719529401,
+    "cooc_count": 652,
+    "unigram_w1": 11687,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "quattro",
+    "w2": "sacro",
+    "pmi": 0.0023203397086440617,
+    "cooc_count": 23,
+    "unigram_w1": 65745,
+    "unigram_w2": 7327,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 221,
+    "unigram_w1": 17316,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "rimane",
+    "pmi": 1.150708317222001,
+    "cooc_count": 62,
+    "unigram_w1": 17316,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 2844,
+    "unigram_w1": 17316,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "carica",
+    "pmi": 0.40883464234468764,
+    "cooc_count": 516,
+    "unigram_w1": 415639,
+    "unigram_w2": 17316,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 659,
+    "unigram_w1": 17316,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "carica",
+    "w2": "quattro",
+    "pmi": 0.7341491680899277,
+    "cooc_count": 113,
+    "unigram_w1": 17316,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 30,
+    "unigram_w1": 3626,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "magnifico",
+    "pmi": 0.44456005045374974,
+    "cooc_count": 19,
+    "unigram_w1": 70522,
+    "unigram_w2": 3626,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "rimane",
+    "pmi": 0.6665162911038199,
+    "cooc_count": 8,
+    "unigram_w1": 3626,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 441,
+    "unigram_w1": 3626,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "magnifico",
+    "pmi": 0.0,
+    "cooc_count": 15,
+    "unigram_w1": 415639,
+    "unigram_w2": 3626,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "magnifico",
+    "pmi": 0.0,
+    "cooc_count": 191,
+    "unigram_w1": 1138754,
+    "unigram_w2": 3626,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "magnifico",
+    "pmi": 0.0,
+    "cooc_count": 2,
+    "unigram_w1": 11687,
+    "unigram_w2": 3626,
+    "window_size": 10
+  },
+  {
+    "w1": "magnifico",
+    "w2": "quattro",
+    "pmi": 0.0,
+    "cooc_count": 10,
+    "unigram_w1": 3626,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 450,
+    "unigram_w1": 70522,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "rimane",
+    "w2": "tempo",
+    "pmi": 0.0020627733534051636,
+    "cooc_count": 340,
+    "unigram_w1": 23783,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 59842,
+    "unigram_w1": 4422753,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 2765,
+    "unigram_w1": 415639,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 6776,
+    "unigram_w1": 1138754,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 57,
+    "unigram_w1": 11687,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "quattro",
+    "w2": "tempo",
+    "pmi": 0.0,
+    "cooc_count": 407,
+    "unigram_w1": 65745,
+    "unigram_w2": 299492,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "rimane",
+    "pmi": 0.09661695835861497,
+    "cooc_count": 88,
+    "unigram_w1": 70522,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 8114,
+    "unigram_w1": 70522,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "cuore",
+    "pmi": 0.0,
+    "cooc_count": 457,
+    "unigram_w1": 415639,
+    "unigram_w2": 70522,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 3268,
+    "unigram_w1": 70522,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "cuore",
+    "pmi": 2.7990243874647214,
+    "cooc_count": 645,
+    "unigram_w1": 11687,
+    "unigram_w2": 70522,
+    "window_size": 10
+  },
+  {
+    "w1": "cuore",
+    "w2": "quattro",
+    "pmi": 0.0,
+    "cooc_count": 110,
+    "unigram_w1": 70522,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "rimane",
+    "pmi": 0.0,
+    "cooc_count": 3414,
+    "unigram_w1": 4422753,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "rimane",
+    "pmi": 0.0,
+    "cooc_count": 351,
+    "unigram_w1": 415639,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "rimane",
+    "pmi": 0.0,
+    "cooc_count": 806,
+    "unigram_w1": 1138754,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "quattro",
+    "w2": "rimane",
+    "pmi": 0.0,
+    "cooc_count": 28,
+    "unigram_w1": 65745,
+    "unigram_w2": 23783,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 64269,
+    "unigram_w1": 415639,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 129900,
+    "unigram_w1": 1138754,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "per",
+    "pmi": 0.0,
+    "cooc_count": 1132,
+    "unigram_w1": 11687,
+    "unigram_w2": 4422753,
+    "window_size": 10
+  },
+  {
+    "w1": "per",
+    "w2": "quattro",
+    "pmi": 0.0,
+    "cooc_count": 9789,
+    "unigram_w1": 4422753,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "dell",
+    "pmi": 0.0,
+    "cooc_count": 10597,
+    "unigram_w1": 415639,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "cattolica",
+    "pmi": 0.0,
+    "cooc_count": 139,
+    "unigram_w1": 415639,
+    "unigram_w2": 11687,
+    "window_size": 10
+  },
+  {
+    "w1": "anni",
+    "w2": "quattro",
+    "pmi": 1.5287563766573293,
+    "cooc_count": 6004,
+    "unigram_w1": 415639,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "dell",
+    "pmi": 0.42117266156621214,
+    "cooc_count": 966,
+    "unigram_w1": 11687,
+    "unigram_w2": 1138754,
+    "window_size": 10
+  },
+  {
+    "w1": "dell",
+    "w2": "quattro",
+    "pmi": 0.0,
+    "cooc_count": 1938,
+    "unigram_w1": 1138754,
+    "unigram_w2": 65745,
+    "window_size": 10
+  },
+  {
+    "w1": "cattolica",
+    "w2": "quattro",
+    "pmi": 0.0,
+    "cooc_count": 25,
+    "unigram_w1": 11687,
+    "unigram_w2": 65745,
+    "window_size": 10
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "w1": "presidente",
+    "w2": "primeira",
+    "pmi": 0.0,
+    "cooc_count": 716,
+    "unigram_w1": 108585,
+    "unigram_w2": 141266,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "primeira",
+    "pmi": 0.6841148428844215,
+    "cooc_count": 12707,
+    "unigram_w1": 642224,
+    "unigram_w2": 141266,
+    "window_size": 10
+  },
+  {
+    "w1": "câmara",
+    "w2": "primeira",
+    "pmi": 0.0,
+    "cooc_count": 365,
+    "unigram_w1": 55534,
+    "unigram_w2": 141266,
+    "window_size": 10
+  },
+  {
+    "w1": "primeira",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 968,
+    "unigram_w1": 141266,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "primeira",
+    "pmi": 0.510216261091603,
+    "cooc_count": 29177,
+    "unigram_w1": 1754718,
+    "unigram_w2": 141266,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "primeira",
+    "pmi": 0.0,
+    "cooc_count": 303,
+    "unigram_w1": 144187,
+    "unigram_w2": 141266,
+    "window_size": 10
+  },
+  {
+    "w1": "primeira",
+    "w2": "turquia",
+    "pmi": 0.0,
+    "cooc_count": 45,
+    "unigram_w1": 141266,
+    "unigram_w2": 4862,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "presidente",
+    "pmi": 0.2302674270108824,
+    "cooc_count": 6204,
+    "unigram_w1": 642224,
+    "unigram_w2": 108585,
+    "window_size": 10
+  },
+  {
+    "w1": "câmara",
+    "w2": "presidente",
+    "pmi": 2.935202655742417,
+    "cooc_count": 8022,
+    "unigram_w1": 55534,
+    "unigram_w2": 108585,
+    "window_size": 10
+  },
+  {
+    "w1": "presidente",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 898,
+    "unigram_w1": 108585,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "presidente",
+    "pmi": 0.0,
+    "cooc_count": 9060,
+    "unigram_w1": 1754718,
+    "unigram_w2": 108585,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "presidente",
+    "pmi": 0.0,
+    "cooc_count": 215,
+    "unigram_w1": 144187,
+    "unigram_w2": 108585,
+    "window_size": 10
+  },
+  {
+    "w1": "presidente",
+    "w2": "turquia",
+    "pmi": 0.5396882626726554,
+    "cooc_count": 64,
+    "unigram_w1": 108585,
+    "unigram_w2": 4862,
+    "window_size": 10
+  },
+  {
+    "w1": "câmara",
+    "w2": "foi",
+    "pmi": 0.0,
+    "cooc_count": 2102,
+    "unigram_w1": 55534,
+    "unigram_w2": 642224,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "quem",
+    "pmi": 0.004980998496152036,
+    "cooc_count": 9874,
+    "unigram_w1": 642224,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "na",
+    "pmi": 0.0,
+    "cooc_count": 66338,
+    "unigram_w1": 642224,
+    "unigram_w2": 1754718,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 1070,
+    "unigram_w1": 642224,
+    "unigram_w2": 144187,
+    "window_size": 10
+  },
+  {
+    "w1": "foi",
+    "w2": "turquia",
+    "pmi": 0.0,
+    "cooc_count": 109,
+    "unigram_w1": 642224,
+    "unigram_w2": 4862,
+    "window_size": 10
+  },
+  {
+    "w1": "câmara",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 171,
+    "unigram_w1": 55534,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "câmara",
+    "w2": "na",
+    "pmi": 0.7336770210398895,
+    "cooc_count": 14342,
+    "unigram_w1": 55534,
+    "unigram_w2": 1754718,
+    "window_size": 10
+  },
+  {
+    "w1": "câmara",
+    "w2": "i",
+    "pmi": 0.0,
+    "cooc_count": 128,
+    "unigram_w1": 55534,
+    "unigram_w2": 144187,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 13240,
+    "unigram_w1": 1754718,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "quem",
+    "pmi": 0.0,
+    "cooc_count": 433,
+    "unigram_w1": 144187,
+    "unigram_w2": 216487,
+    "window_size": 10
+  },
+  {
+    "w1": "quem",
+    "w2": "turquia",
+    "pmi": 0.0,
+    "cooc_count": 11,
+    "unigram_w1": 216487,
+    "unigram_w2": 4862,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "na",
+    "pmi": 0.0,
+    "cooc_count": 4382,
+    "unigram_w1": 144187,
+    "unigram_w2": 1754718,
+    "window_size": 10
+  },
+  {
+    "w1": "na",
+    "w2": "turquia",
+    "pmi": 0.8644037960543851,
+    "cooc_count": 1431,
+    "unigram_w1": 1754718,
+    "unigram_w2": 4862,
+    "window_size": 10
+  },
+  {
+    "w1": "i",
+    "w2": "turquia",
+    "pmi": 0.0,
+    "cooc_count": 27,
+    "unigram_w1": 144187,
+    "unigram_w2": 4862,
+    "window_size": 10
+  }
+]
