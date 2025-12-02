@@ -5,7 +5,7 @@ import os
 import json
 import itertools
 from datasets import load_dataset
-from tokenizers import get_language_config,get_stopwords_for_lang
+from tokenizers import get_language_config, get_stopwords_for_lang
 import argparse
 from pathlib import Path
 
@@ -136,23 +136,38 @@ def compute_cooc_for_language(
     return unigram_counts, cooc_counts, total_windows
 
 def compute_pmi_matrix(unigram_counts, cooc_counts, total_windows, min_cooc=1):
+    """
+    Compute PPMI instead of PMI:
+        PPMI = max(PMI, 0)
+    """
     import math
     pmi = {}
     for (w1, w2), cooc_count in cooc_counts.items():
         if cooc_count < min_cooc:
             continue
+
         uni_w1 = unigram_counts.get(w1, 0)
         uni_w2 = unigram_counts.get(w2, 0)
         if uni_w1 == 0 or uni_w2 == 0:
             continue
+
         p_w1 = uni_w1 / total_windows
         p_w2 = uni_w2 / total_windows
         p_w1_w2 = cooc_count / total_windows
-        if p_w1_w2 == 0 or p_w1 == 0 or p_w2 == 0:
+
+        if p_w1_w2 <= 0 or p_w1 <= 0 or p_w2 <= 0:
             continue
+
+        # Standard PMI
         pmi_val = math.log(p_w1_w2 / (p_w1 * p_w2))
-        pmi[(w1, w2)] = pmi_val
+
+        # Convert to PPMI
+        ppmi_val = max(pmi_val, 0.0)
+
+        pmi[(w1, w2)] = ppmi_val
+
     return pmi
+
 
 def save_qa_pair_details(q_id, lang, pairs_info, out_dir="data/intermediate/qa_cooc"):
     os.makedirs(out_dir, exist_ok=True)
