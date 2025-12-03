@@ -127,8 +127,30 @@ question_type_feat = "question_type"
 cooc_features = ["cooc_num_pairs", "cooc_total_pairs", "cooc_coverage_ratio",
                  "cooc_unseen_keywords_count", "cooc_unseen_keywords_ratio",
                  "cooc_avg_pmi", "cooc_max_pmi", "cooc_min_pmi", "cooc_std_pmi"]
-syntactic_features = ["target_avg_dep_depth", "target_max_tree_depth", "target_num_clauses",
-                      "source_avg_dep_depth", "source_max_tree_depth", "source_num_clauses"]
+cooc_features_advanced = [
+    "cooc_num_pairs_w10",
+    "cooc_total_pairs_w10",
+    "cooc_coverage_ratio_w10",
+    "cooc_unseen_keywords_count_w10",
+    "cooc_unseen_keywords_ratio_w10",
+    "cooc_avg_pmi_w10",
+    "cooc_max_pmi_w10",
+    "cooc_min_pmi_w10",
+    "cooc_std_pmi_w10",
+    "cooc_num_pairs_w50",
+    "cooc_total_pairs_w50",
+    "cooc_coverage_ratio_w50",
+    "cooc_unseen_keywords_count_w50",
+    "cooc_unseen_keywords_ratio_w50",
+    "cooc_avg_pmi_w50",
+    "cooc_max_pmi_w50",
+    "cooc_min_pmi_w50",
+    "cooc_std_pmi_w50"
+]
+
+syntactic_features = [
+    "target_mdd","target_max_tree_depth","target_crossing_rate","target_sentence_count",
+    "source_mdd","source_max_tree_depth","source_crossing_rate","source_sentence_count"]
 linguistic_features = ["source_family", "source_genus", "target_family", "target_genus",
                        "source_script", "source_syllables", "target_script", "target_syllables"]
 wiki_size_features = ["source_wiki_size", "target_wiki_size"]
@@ -137,7 +159,7 @@ FEATURE_SETS = {
     "qa_topic": [qa_topic_feat],
     "language_version_count": [language_version_count_feat],
     "question_type": [question_type_feat],
-    "cooc": cooc_features,
+    "cooc": cooc_features_advanced,
     "syntactic": syntactic_features,
     "linguistic": linguistic_features,
     "wiki_size": wiki_size_features,

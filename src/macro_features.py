@@ -257,10 +257,10 @@ if __name__ == "__main__":
     print(f"Loaded {len(df)} rows from {input_csv}")
 
     # Expect language-pair columns in the dataset
-    required_cols = {"source_lang", "target_lang"}
+    required_cols = {"language", "original_lang"}
     if not required_cols.issubset(df.columns):
         raise SystemExit(
-            "Expected columns 'source_lang' and 'target_lang' in the input CSV."
+            "Expected columns 'original_lang' and 'language' in the input CSV."
         )
 
     # Map ISO 639-1 codes to language names used in this module
@@ -288,8 +288,8 @@ if __name__ == "__main__":
         return CODE_TO_LANG_NAME.get(lang_val, lang_val)
 
     # Normalized language-name columns
-    df["source_lang_name"] = df["source_lang"].apply(to_lang_name)
-    df["target_lang_name"] = df["target_lang"].apply(to_lang_name)
+    df["source_lang_name"] = df["original_lang"].apply(to_lang_name)
+    df["target_lang_name"] = df["language"].apply(to_lang_name)
 
     # Family / genus per language
     df["source_family"] = df["source_lang_name"].apply(get_language_family)
