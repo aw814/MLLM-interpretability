@@ -18,7 +18,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.neighbors import KNeighborsClassifier
 
 
-DATA_PATH = "../data/processed/training_data.csv"
+DATA_PATH = "../data/training_data/gemini-2.0-flash.csv"
 TARGET_COLUMN = "correct_target"
 ID_COLUMNS = []
 
@@ -343,28 +343,28 @@ def main():
         print(results.to_string(index=False))
         print(f"\nSaved detailed performance results to: {out_path_perf}")
 
-    # === 2) SHAP analysis for each model × feature set ===
-    shap_all_rows = []
-    for name, cols in FEATURE_SETS.items():
-        shap_rows = compute_shap_importances(X, y, cols, name)
-        shap_all_rows.extend(shap_rows)
+    # # === 2) SHAP analysis for each model × feature set ===
+    # shap_all_rows = []
+    # for name, cols in FEATURE_SETS.items():
+    #     shap_rows = compute_shap_importances(X, y, cols, name)
+    #     shap_all_rows.extend(shap_rows)
 
-    if not shap_all_rows:
-        raise RuntimeError("No SHAP results produced. Check feature columns and SHAP configuration.")
+    # if not shap_all_rows:
+    #     raise RuntimeError("No SHAP results produced. Check feature columns and SHAP configuration.")
 
-    shap_df = pd.DataFrame(shap_all_rows)
-    shap_df = shap_df.sort_values(["feature_set", "model", "mean_abs_shap"], ascending=[True, True, False])
+    # shap_df = pd.DataFrame(shap_all_rows)
+    # shap_df = shap_df.sort_values(["feature_set", "model", "mean_abs_shap"], ascending=[True, True, False])
 
-    out_path_shap = os.path.join(script_dir, "model_feature_shap_importances.csv")
-    shap_df.to_csv(out_path_shap, index=False)
+    # out_path_shap = os.path.join(script_dir, "model_feature_shap_importances.csv")
+    # shap_df.to_csv(out_path_shap, index=False)
 
-    # Optionally print a small summary
-    print("\n=== Top 10 Features by SHAP Importance (per model & feature set) ===")
-    for (fs, model), grp in shap_df.groupby(["feature_set", "model"]):
-        top = grp.head(10)
-        print(f"\n[Feature set: {fs} | Model: {model}]")
-        print(top[["feature", "mean_abs_shap"]].to_string(index=False))
-    print(f"\nSaved SHAP feature importances to: {out_path_shap}")
+    # # Optionally print a small summary
+    # print("\n=== Top 10 Features by SHAP Importance (per model & feature set) ===")
+    # for (fs, model), grp in shap_df.groupby(["feature_set", "model"]):
+    #     top = grp.head(10)
+    #     print(f"\n[Feature set: {fs} | Model: {model}]")
+    #     print(top[["feature", "mean_abs_shap"]].to_string(index=False))
+    # print(f"\nSaved SHAP feature importances to: {out_path_shap}")
 
 
 if __name__ == "__main__":
