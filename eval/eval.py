@@ -236,6 +236,9 @@ def run_pairwise_eval(
                 "a_tgt": a_tgt,
                 "correct_source": bool(correct_s),
                 "correct_target": bool(correct_t),
+                "translated": row["translated"],
+                "title": row["title"],
+                "url": row["url"]
             }
         )
 
