@@ -60,43 +60,75 @@ nohup uv run python src/wimbd_cooc_features/index_mc4.py --lang de --batch_size 
 
 ---
 
-## 4. Querying Data (Python)
+## 4. Querying Data with `WimbdHelper`
 
-Use the `wimbd` library to search across the indices.
+The `WimbdHelper` class in `wimbd_helper.py` provides a clean abstraction over the `wimbd` library's functional core.
 
-### Basic Usage with `WimbdSearch`
+### Basic Usage
 ```python
-from wimbd.es import WimbdSearch
+from wimbd_helper import WimbdHelper
 
-# Connect to local server
-ws = WimbdSearch(es_url="http://localhost:9200", api_key=None)
+# Initialize the helper (defaults to http://localhost:9200)
+helper = WimbdHelper()
 
 # Count documents containing a phrase (AND logic)
-count = ws.count_documents_containing_phrases(
-    index="mc4_de", 
-    phrases=["künstliche intelligenz"], 
-    all_phrases=True
-)
+count = helper.count_phrases("mc4_de", ["künstliche intelligenz"], all_phrases=True)
 print(f"Found {count} documents.")
 
 # Query multiple languages at once
-res = ws.count_documents_containing_phrases(
-    index="mc4_de,mc4_fr,mc4_es", 
-    phrases=["data science"], 
-    all_phrases=True
-)
+res = helper.count_phrases("mc4_de,mc4_fr,mc4_es", ["data science"], all_phrases=True)
+
+# List all mc4 indices
+print(helper.list_mc4_indices())
 ```
 
-### Low-level Python Client
-For custom management tasks:
+### Retrieving Documents
 ```python
-from elasticsearch import Elasticsearch
-es = Elasticsearch("http://localhost:9200")
-
-# Get list of all index names
-indices = es.indices.get_alias().keys()
-print(list(indices))
+# Get up to 5 document hits
+docs = helper.get_documents("mc4_de", ["klimawandel"], num_documents=5)
+for doc in docs:
+    print(doc["_source"]["text"][:200])
 ```
+
+---
+
+## 5. Calculating Co-occurrences and PPMI
+
+The `calculate_co_occurrences.py` script provides a function to calculate co-occurrence statistics and Positive Pointwise Mutual Information (PPMI).
+
+### Example Usage
+```python
+from calculate_co_occurrences import co_occure
+
+# Calculate stats for two terms in one index
+stats = co_occure("science", "data", "mc4_de")
+
+# Example output:
+# {
+#     'str1': 'science', 
+#     'str2': 'data', 
+#     'indices': 'mc4_de', 
+#     'co_occurrence_count': 5384, 
+#     'count_str1': 60086, 
+#     'count_str2': 88625, 
+#     'total_documents': 8643085, 
+#     'ppmi': 3.1274102488272395
+# }
+
+# Calculate stats across multiple indices
+stats = co_occure("AI", "intelligence", ["mc4_de", "mc4_fr", "mc4_zh"])
+
+print(f"Co-occurrence Count: {stats['co_occurrence_count']}")
+print(f"PPMI Score: {stats['ppmi']}")
+```
+
+**Returned Dictionary Schema:**
+* `str1`, `str2`: The terms compared.
+* `indices`: The index or indices searched.
+* `co_occurrence_count`: Documents containing both terms ($N_{1,2}$).
+* `count_str1`, `count_str2`: Total documents containing each term individually ($N_1$, $N_2$).
+* `total_documents`: Total number of documents across the searched indices ($N_{total}$).
+* `ppmi`: The calculated PPMI score.
 
 ---
 
