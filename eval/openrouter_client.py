@@ -5,6 +5,8 @@ from typing import Optional, Tuple
 import re
 from google import genai
 from google.genai import types
+from gemini_utils import submit_gemini_job, checkback, message2gemini_request
+import time
 
 load_dotenv()
 
@@ -15,7 +17,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_BASE = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1")
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_BASE = os.getenv("GOOGLE_BASE_URL", "https://generativelanguage.googleapis.com/v1beta")
+# GOOGLE_BASE = os.getenv("GOOGLE_BASE_URL", "https://generativelanguage.googleapis.com/v1beta")
 
 
 class RateLimitError(RuntimeError):
@@ -192,11 +194,147 @@ class GoogleClient:
             # Fall back to raw structure for debugging:
             raise RuntimeError(f"Malformed Google Gemini response: {resp}") from e
 
+    def batch_chat(
+        self,
+        messages_list: list[list[dict]],
+        model: str = "gemini-2.5-flash",
+        temperature: float = 0.3,
+        max_tokens: int = 256,
+        batch_size: int = 1000,
+        poll_interval: float = 1.0,
+        max_polls: int = 60,
+        timeout_seconds: float = 120.0,
+    ) -> list[str]:
+        """
+        Batch chat using Gemini batch API.
+
+        Args:
+            messages_list: list of ChatML message-lists (one per example), e.g.
+                [
+                [{"role": "user", "content": "Q1..."}],
+                [{"role": "user", "content": "Q2..."}],
+                ]
+            model: Gemini model name.
+            temperature: Sampling temperature.
+            max_tokens: (kept for API consistency; gemini_utils doesn't currently pass it through)
+            batch_size: number of examples per batch job.
+            poll_interval: seconds between polling attempts.
+            max_polls: max polling attempts per job.
+            timeout_seconds: wall-clock timeout in seconds for polling each batch job.
+
+        Returns:
+            List[str] responses aligned to the same order as `messages_list`.
+        """
+        import time  # ensure time is available
+
+        def _extract_text(resp: object) -> str:
+            # dict-like response
+            try:
+                if isinstance(resp, dict):
+                    cands = resp.get("candidates") or []
+                    if cands:
+                        content = cands[0].get("content") or {}
+                        parts = content.get("parts") or []
+                        if parts and isinstance(parts[0], dict):
+                            return (parts[0].get("text") or "").strip()
+                    if "text" in resp:
+                        return str(resp["text"]).strip()
+            except Exception:
+                pass
+
+            # proto-like response (google.genai types)
+            try:
+                cands = getattr(resp, "candidates", None)
+                if cands:
+                    content = getattr(cands[0], "content", None)
+                    if content:
+                        parts = getattr(content, "parts", None)
+                        if parts and len(parts) > 0:
+                            return (getattr(parts[0], "text", "") or "").strip()
+                txt = getattr(resp, "text", None)
+                if isinstance(txt, str):
+                    return txt.strip()
+            except Exception:
+                pass
+
+            return str(resp).strip()
+
+        if not messages_list:
+            return []
+
+        outputs: list[str] = []
+
+        # Submit in chunks to avoid oversized jobs.
+        for start in range(0, len(messages_list), batch_size):
+            chunk = messages_list[start : start + batch_size]
+
+            batch_requests = []
+            for i, chatml in enumerate(chunk):
+                gemini_msgs = chatml
+                # Useful for debugging; we still return outputs in request order.
+                meta = {"batch_index": str(start + i)}
+                batch_requests.append(
+                    message2gemini_request(
+                        metadata=meta,
+                        messages=gemini_msgs,
+                        temperature=temperature,
+                        max_tokens=max_tokens,
+                        model=model,
+                    )
+                )
+
+            # Submit job
+            job = submit_gemini_job(requests=batch_requests, model=model)
+
+            # Poll until complete (bounded by max_polls AND wall-clock timeout)
+            responses = None
+            deadline = time.time() + float(timeout_seconds)
+            last_status_msg = None
+
+            for attempt in range(max_polls):
+                try:
+                    responses = checkback(job.name)
+                    break
+                except RuntimeError as e:
+                    msg = str(e)
+                    last_status_msg = msg
+                    # gemini_utils.checkback raises this when not completed yet
+                    if "not completed yet" in msg:
+                        if time.time() >= deadline:
+                            break
+                        # lightweight progress print every ~10 polls
+                        if attempt % 10 == 0:
+                            print(f"[Gemini batch] waiting on job {job.name} (attempt {attempt}/{max_polls})")
+                        time.sleep(poll_interval)
+                        continue
+                    raise
+
+            if responses is None:
+                raise RuntimeError(
+                    f"Gemini batch job {job.name} did not complete (timeout={timeout_seconds}s, polls={max_polls}). "
+                    f"Last status: {last_status_msg}"
+                )
+
+            # Responses are aligned to request order.
+            for resp in responses:
+                outputs.append(_extract_text(resp))
+
+        return outputs
+
 
 # Example usage:
 if __name__ == "__main__":
     messages = [{"role": "user", "content": "Hello, who are you?"}]
 
+    msgs_batch = [
+        [{"role": "user", "content": "What is the capital of France?"}],
+        [{"role": "user", "content": "What is 2+2?"}],
+        [{"role": "user", "content": "Who won the World Cup in 2018?"}],
+        [{"role": "user", "content": "What is the largest mammal?"}],
+        [{"role": "user", "content": "What is the boiling point of water?"}],
+        [{"role": "user", "content": "Who is the president of the United States?"}],
+        [{"role": "user", "content": "What is the speed of light?"}]
+    ]
     # openai_client = OpenAIClient()
 
     # reply = openai_client.chat("gpt-4o-mini", messages)
@@ -205,7 +343,19 @@ if __name__ == "__main__":
     # openrouter_client = OpenRouterClient()
     # reply2 = openrouter_client.chat("meta-llama/llama-3.1-70b-instruct", messages)
     # print("OpenRouter:", reply2)
-
     google_client = GoogleClient()
-    reply3 = google_client.chat("gemini-2.5-flash", messages)
-    print("Google Gemini:", reply3)
+    replies = google_client.batch_chat(
+            msgs_batch,
+            model="gemini-2.5-flash",
+            temperature=0.0,
+            max_tokens=64,
+            batch_size=3,          # force multiple jobs to test chunking
+            poll_interval=2.0,
+            max_polls=120,
+            timeout_seconds=600.0, # give it real time to complete
+        )
+
+    for q, r in zip(msgs_batch, replies):
+        print("Q:", q[0]["content"])
+        print("A:", r)
+        print("-" * 50)

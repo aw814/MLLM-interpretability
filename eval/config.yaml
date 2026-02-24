@@ -1,5 +1,6 @@
 data:
-  csv_path: "../data/processed/eclektic_long_subset.csv"
+  name: "eclektic"
+  # name: "klar"
   max_examples: 50
 
 eval:
@@ -10,7 +11,7 @@ eval:
 models:
   tested_model: "gemini-2.0-flash"
   # tested_model: "gpt-4o"
-  judge_model:  "gpt-5"
+
 
 decode:
   temperature: 1
