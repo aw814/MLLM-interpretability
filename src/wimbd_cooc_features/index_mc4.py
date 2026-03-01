@@ -10,7 +10,7 @@ from tqdm import tqdm
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def create_index(es, index_name):
+def create_index(es, index_name, shards=1):
     """Create the index with appropriate mappings if it doesn't exist."""
     try:
         es.indices.get(index=index_name)
@@ -29,14 +29,14 @@ def create_index(es, index_name):
             }
         },
         "settings": {
-            "number_of_shards": 1,
+            "number_of_shards": shards,
             "number_of_replicas": 0,
             "refresh_interval": "-1"  # Disable refresh during bulk indexing
         }
     }
     try:
         es.indices.create(index=index_name, body=mappings)
-        logger.info(f"Created index {index_name}.")
+        logger.info(f"Created index {index_name} with {shards} shards.")
     except Exception as e:
         logger.error(f"Error creating index: {e}")
 
@@ -76,6 +76,9 @@ def main():
     parser.add_argument("--es_url", default="http://localhost:9200", help="Elasticsearch URL")
     parser.add_argument("--batch_size", type=int, default=1000, help="Bulk indexing batch size")
     parser.add_argument("--limit_files", type=int, default=None, help="Limit number of arrow files to index (for testing)")
+    parser.add_argument("--skip_files", type=int, default=0, help="Number of arrow files to skip (useful for resuming)")
+    parser.add_argument("--shards", type=int, default=5, help="Number of shards for the index")
+    parser.add_argument("--workers", type=int, default=4, help="Number of parallel workers for indexing")
     parser.add_argument("--quiet", action="store_true", help="Minimize logging output")
     
     args = parser.parse_args()
@@ -96,6 +99,10 @@ def main():
         logger.error(f"No arrow files found in {lang_dir}")
         return
 
+    if args.skip_files > 0:
+        logger.info(f"Skipping the first {args.skip_files} files.")
+        arrow_files = arrow_files[args.skip_files:]
+
     if args.limit_files:
         arrow_files = arrow_files[:args.limit_files]
         logger.info(f"Limited to first {args.limit_files} files.")
@@ -103,19 +110,19 @@ def main():
     index_name = f"mc4_{args.lang}"
     es = Elasticsearch(
         args.es_url,
-        request_timeout=60  # Increase timeout to 60 seconds
+        request_timeout=120  # Increase timeout for high load
     )
     
-    create_index(es, index_name)
+    create_index(es, index_name, shards=args.shards)
     
-    logger.info(f"Starting indexing for {len(arrow_files)} files into {index_name}...")
+    logger.info(f"Starting parallel indexing with {args.workers} workers into {index_name}...")
     
-    # Use streaming_bulk helper
+    # Use parallel_bulk helper
     success, failed = 0, 0
     progress = tqdm(unit="docs")
     
-    from elasticsearch.helpers import streaming_bulk
-    for ok, item in streaming_bulk(es, doc_generator(index_name, arrow_files), chunk_size=args.batch_size, raise_on_error=False):
+    from elasticsearch.helpers import parallel_bulk
+    for ok, item in parallel_bulk(es, doc_generator(index_name, arrow_files), thread_count=args.workers, chunk_size=args.batch_size, raise_on_error=False):
         if ok:
             success += 1
         else:
