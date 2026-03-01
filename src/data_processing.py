@@ -1,4 +1,5 @@
 import json
+from tkinter import FALSE
 import pandas as pd
 import os
 
@@ -7,7 +8,7 @@ def reshape_eclektic_long(
     input_path: str,
     output_path: str,
     select_langs: list[str] = None,
-    src_eng_only: bool = False,
+    src_langs: list[str] = None,
 ) -> pd.DataFrame:
     """
     Reshape ECLeKTic dataset into long format with original and translated QA pairs.
@@ -16,6 +17,7 @@ def reshape_eclektic_long(
         input_path (str): Path to the input JSONL file.
         output_path (str): Path to save the reshaped CSV file.
         select_langs (list[str]): List of languages to include (e.g., ["en", "fr", "he", "zh"]).
+        src_langs (list[str]): List of source languages to include (e.g., ["en", "fr", "he", "zh"]).
 
     Returns:
         pd.DataFrame: Long-format DataFrame.
@@ -74,9 +76,9 @@ def reshape_eclektic_long(
 
     # --- Filter to selected languages (safety check) ---
     long_df = long_df[long_df["language"].isin(select_langs)]
-    if src_eng_only:
-        long_df = long_df[long_df["original_lang"] == "en"]
-        print(f"Filtered to source English only: {len(long_df)} rows")
+    if src_langs is not None:
+        long_df = long_df[long_df["original_lang"].isin(src_langs)]
+        print(f"Filtered to source languages {src_langs}: {len(long_df)} rows")
 
     # --- Save ---
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -89,9 +91,10 @@ def reshape_eclektic_long(
 
 
 if __name__ == "__main__":
-    INPUT_PATH = "./data/raw/eclektic_main.jsonl"
-    OUTPUT_PATH = "./data/processed/eclektic_long_subset.csv"
-    SELECT_LANGS = ["en", "fr", "he", "zh", "de", "es", "hi", "id", "it", "ja", "ko", "pt"]
-    SRC_ENG_ONLY = True
+    INPUT_PATH = "../data/eclektic/raw/eclektic_main.jsonl"
+    OUTPUT_PATH = "../data/eclektic/raw/eclektic_7.csv"
+    # SELECT_LANGS = ["en", "fr", "he", "zh", "de", "es", "hi", "id", "it", "ja", "ko", "pt"]
+    SELECT_LANGS = ["en", "fr", "he", "zh", "ko", "ja", "es"]
+    SRC_LANG = ["en", "fr", "he", "zh", "ko", "ja", "es"]
 
-    reshape_eclektic_long(INPUT_PATH, OUTPUT_PATH, SELECT_LANGS, SRC_ENG_ONLY)
+    reshape_eclektic_long(INPUT_PATH, OUTPUT_PATH, SELECT_LANGS, SRC_LANG)
