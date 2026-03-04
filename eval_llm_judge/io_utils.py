@@ -4,7 +4,7 @@ import yaml
 import pandas as pd
 from dataclasses import dataclass
 
-DATA_COLUMNS_ECLEKTIC = [
+DATA_COLUMNS = [
     "q_id",
     "original_lang",
     "language",
@@ -18,13 +18,6 @@ DATA_COLUMNS_ECLEKTIC = [
     "url",
 ]
 
-DATA_COLUMNS_KLAR = [
-    "question",
-    "answer",
-    "relation",
-    "sample_index",
-    "index"
-]
 @dataclass
 class Config:
     csv_path: str
@@ -32,6 +25,7 @@ class Config:
     source_lang: str
     target_lang: str
     tested_model: str
+    judge_model: str
     temperature: float
     max_tokens: int
     artifacts_dir: str
@@ -49,11 +43,12 @@ def load_config(path: str) -> Config:
     os.makedirs(outdir, exist_ok=True)
 
     resolved = {
-        "name": data.get("name"),
+        "csv_path": data.get("csv_path"),
         "max_examples": data.get("max_examples", None),
         "source_lang": eval_.get("source_lang", "en"),
         "target_lang": eval_.get("target_lang", "fr"),
         "tested_model": models.get("tested_model"),
+        "judge_model": models.get("judge_model"),
         "temperature": float(decode.get("temperature", 0.0)),
         "max_tokens": int(decode.get("max_tokens", 128)),
         "artifacts_dir": outdir,
@@ -67,7 +62,7 @@ def load_config(path: str) -> Config:
 
 def load_long_csv(csv_path: str, max_examples: int | None) -> pd.DataFrame:
     df = pd.read_csv(csv_path, encoding="utf-8")
-    missing = [c for c in DATA_COLUMNS_ECLEKTIC if c not in df.columns]
+    missing = [c for c in DATA_COLUMNS if c not in df.columns]
     if missing:
         # Allow partial schema: only strictly required columns for this pipeline
         req = ["q_id", "original_lang", "language", "question", "content"]
@@ -78,14 +73,4 @@ def load_long_csv(csv_path: str, max_examples: int | None) -> pd.DataFrame:
         # sample by unique q_id to ensure both languages are likely present
         unique_ids = df["q_id"].dropna().unique().tolist()[:max_examples]
         df = df[df["q_id"].isin(unique_ids)]
-    return df
-
-def load_klar_df(dir: str, target: str, max_examples: int | None) -> pd.DataFrame:
-    path = os.path.join(dir, f"{target}.csv")
-    df = pd.read_csv(path, encoding="utf-8")
-    missing = [c for c in DATA_COLUMNS_KLAR if c not in df.columns]
-    if missing:
-        raise ValueError(f"KLAR CSV missing required columns: {missing}")
-    if max_examples:
-        df = df.head(max_examples)
     return df
