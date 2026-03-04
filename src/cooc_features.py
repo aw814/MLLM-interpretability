@@ -1,10 +1,12 @@
 from collections import defaultdict,Counter
 import re
+import jieba
 import pandas as pd
 import os
 import json
 import itertools
 from datasets import load_dataset
+from pygments.lexer import words
 from tokenizers import get_language_config, get_stopwords_for_lang
 import argparse
 from pathlib import Path
@@ -491,60 +493,63 @@ def build_qa_cooc_features(
 
 # src/compute_keyword_cooc.py (final glue)
 
+# def main():
+#     parser = argparse.ArgumentParser(description="Compute QA co-occurrence features in chunks.")
+#     parser.add_argument("--start_idx", type=int, default=0, help="Start index (inclusive) of the DataFrame slice to process.")
+#     parser.add_argument("--end_idx", type=int, default=None, help="End index (exclusive) of the DataFrame slice to process.")
+#     parser.add_argument(
+#         "--window_sizes",
+#         type=str,
+#         default="50",
+#         help="Comma-separated list of window sizes, e.g., '20,50,100'.",
+#     )
+#     args = parser.parse_args()
+
+#     window_sizes = [int(x) for x in args.window_sizes.split(",") if x.strip()]
+
+#     project_root = Path(__file__).resolve().parents[1]
+
+#     csv_path = project_root / "data" / "processed" / "eclektic_long_subset.csv"
+#     df = pd.read_csv(csv_path)
+#     df = df.loc[:, ["question", "answer", "language", "q_id"]].drop_duplicates()
+
+#     start = args.start_idx or 0
+#     end = args.end_idx
+#     df = df.iloc[start:end].reset_index(drop=True)
+#     print(f"Processing rows from {start} to {end if end is not None else 'end'} (total {len(df)} rows)")
+
+#     # # show dataframe shape and first row
+#     # print("df.shape:", df.shape)
+#     # if not df.empty:
+#     #     print("first row:", df.iloc[0].to_dict())
+#     # else:
+#     #     print("df is empty")
+
+#     # return
+
+#     # STEP 1: extract keywords per QA
+#     qa_keywords = build_language_and_qa_keywords(df)
+#     save_qa_keywords(qa_keywords)
+
+#     print("Extracted keywords for QA pairs.")
+#     print(qa_keywords)
+
+#     out_csv = project_root / "data" / "processed" / "eclektic_long_with_cooc_features.csv"
+#     os.makedirs(out_csv.parent, exist_ok=True)
+
+#     # STEP 2: build QA-level co-occurrence features and save results incrementally
+#     merged = build_qa_cooc_features(
+#         df,
+#         qa_keywords=qa_keywords,
+#         per_qa_out_dir="./cooc_features/qa_cooc",
+#         window_sizes=window_sizes,
+#         iterative_out_csv=out_csv,
+#     )
+#     print(f"Saved QA-level co-occurrence features to {out_csv}")
+
+
 def main():
-    parser = argparse.ArgumentParser(description="Compute QA co-occurrence features in chunks.")
-    parser.add_argument("--start_idx", type=int, default=0, help="Start index (inclusive) of the DataFrame slice to process.")
-    parser.add_argument("--end_idx", type=int, default=None, help="End index (exclusive) of the DataFrame slice to process.")
-    parser.add_argument(
-        "--window_sizes",
-        type=str,
-        default="50",
-        help="Comma-separated list of window sizes, e.g., '20,50,100'.",
-    )
-    args = parser.parse_args()
-
-    window_sizes = [int(x) for x in args.window_sizes.split(",") if x.strip()]
-
-    project_root = Path(__file__).resolve().parents[1]
-
-    csv_path = project_root / "data" / "processed" / "eclektic_long_subset.csv"
-    df = pd.read_csv(csv_path)
-    df = df.loc[:, ["question", "answer", "language", "q_id"]].drop_duplicates()
-
-    start = args.start_idx or 0
-    end = args.end_idx
-    df = df.iloc[start:end].reset_index(drop=True)
-    print(f"Processing rows from {start} to {end if end is not None else 'end'} (total {len(df)} rows)")
-
-    # # show dataframe shape and first row
-    # print("df.shape:", df.shape)
-    # if not df.empty:
-    #     print("first row:", df.iloc[0].to_dict())
-    # else:
-    #     print("df is empty")
-
-    # return
-
-    # STEP 1: extract keywords per QA
-    qa_keywords = build_language_and_qa_keywords(df)
-    save_qa_keywords(qa_keywords)
-
-    print("Extracted keywords for QA pairs.")
-    print(qa_keywords)
-
-    out_csv = project_root / "data" / "processed" / "eclektic_long_with_cooc_features.csv"
-    os.makedirs(out_csv.parent, exist_ok=True)
-
-    # STEP 2: build QA-level co-occurrence features and save results incrementally
-    merged = build_qa_cooc_features(
-        df,
-        qa_keywords=qa_keywords,
-        per_qa_out_dir="./cooc_features/qa_cooc",
-        window_sizes=window_sizes,
-        iterative_out_csv=out_csv,
-    )
-    print(f"Saved QA-level co-occurrence features to {out_csv}")
-
+    print(extract_keywords_from_text("西汉册封谁为武安侯？", lang="zh"))
 
 if __name__ == "__main__":
     main()

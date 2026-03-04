@@ -1,5 +1,9 @@
 import re
 import jieba
+import jieba.posseg as pseg
+from pygments.lexer import words
+from sudachipy.sudachipy import SplitMode
+from yaml import tokens
 
 try:
     from sudachipy import tokenizer as sudachi_tokenizer
@@ -15,6 +19,7 @@ try:
     from konlpy.tag import Okt
     # Test if Java is actually available
     try:
+        # source ~/.zshrc or ~/.bashrc to ensure JAVA_HOME is set, if needed
         okt = Okt()
         okt.morphs("테스트")
         KONLPY_AVAILABLE = True
@@ -201,3 +206,58 @@ def get_language_config(lang):
     # Default for other languages
     else:
         return None, None, r"(?u)\b\w\w+\b"
+
+
+def main():
+    # Test Chinese POS
+    zh_non_functional_pos = [
+    "n","f","s","t",
+    "nr","ns","nt","nw","nz",
+    "v","vd","vn",
+    "a","ad","an",
+    "d",
+    "m","q","eng"
+    "PER","LOC","ORG","TIME"
+]
+    words = pseg.cut("AFN 不来梅哈芬 (AFN Bremerhaven) 位于哪个国家?", use_paddle=True)  # if you add vi mapping
+    print("Using jieba.posseg with Paddle:")
+    print(words)
+    for tok in words:
+        # show word,flag only if it's in our non-functional POS list
+        if tok.flag in zh_non_functional_pos:   
+            print(f"{tok.word} ({tok.flag})")
+    # for word, flag in words:
+    #     print('%s %s' % (word, flag))
+
+    # TEST Japanese POS
+    ja_non_functional_pos = [
+    "名詞",
+    "動詞",
+    "形容詞",
+    "副詞",
+    ]
+    tokenizer_obj = dictionary.Dictionary().create()
+    m = tokenizer_obj.tokenize("AFNブレーマーハーフェンはどの国にありましたか？", SplitMode.C)
+    print("Using Sudachi:")
+    # print([m.surface() for m in m])
+    # filter to non-functional POS
+    for m in m:
+        if m.part_of_speech()[0] in ja_non_functional_pos:
+            print(f"{m.surface()} ({m.part_of_speech()})")
+
+
+    # Test Korean POS
+    preserve_pos = [
+    "Noun",
+    "Verb",
+    "Adjective",
+    "Adverb",
+    "Number",
+    "Foreign",
+    "Alpha"
+    ]
+    okt = Okt()
+    print(okt.morphs(u'AFN 브레머하펜은 어느 나라에 있었나요?'))
+    print(okt.pos(u'AFN 브레머하펜은 어느 나라에 있었나요?'))
+
+if __name__ == "__main__":    main()
