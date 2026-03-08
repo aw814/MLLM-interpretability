@@ -1,0 +1,5 @@
+{"key":"test_1","request":{"contents":[{"role":"user","parts":[{"text":"What is the capital of France?"}]}],"generation_config":{"temperature":0,"top_p":1,"max_output_tokens":64}}}
+{"key":"test_2","request":{"contents":[{"role":"user","parts":[{"text":"What is 2+2?"}]}],"generation_config":{"temperature":0,"top_p":1,"max_output_tokens":64}}}
+{"key":"test_3","request":{"contents":[{"role":"user","parts":[{"text":"Who wrote Hamlet?"}]}],"generation_config":{"temperature":0,"top_p":1,"max_output_tokens":64}}}
+{"key":"test_4","request":{"contents":[{"role":"user","parts":[{"text":"中国的首都是哪里？"}]}],"generation_config":{"temperature":0,"top_p":1,"max_output_tokens":64}}}
+{"key":"test_5","request":{"contents":[{"role":"user","parts":[{"text":"日本の首都はどこですか？"}]}],"generation_config":{"temperature":0,"top_p":1,"max_output_tokens":64}}}
