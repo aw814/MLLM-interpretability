@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "펠릭스 제르진스키",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "펠릭스 제르진스키",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 8,
+    "unigram_w2": 42645,
+    "ppmi": 7.837154323050924
+  }
+]

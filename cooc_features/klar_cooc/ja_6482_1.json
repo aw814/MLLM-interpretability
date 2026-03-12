@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "チリ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2640,
+    "unigram_w1": 551304,
+    "unigram_w2": 498928,
+    "ppmi": 0.7454658027719012
+  },
+  {
+    "w1": "capital",
+    "w2": "サンティアゴ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1356,
+    "unigram_w1": 498928,
+    "unigram_w2": 76424,
+    "ppmi": 2.635035445803931
+  },
+  {
+    "w1": "チリ",
+    "w2": "サンティアゴ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18732,
+    "unigram_w1": 551304,
+    "unigram_w2": 76424,
+    "ppmi": 6.279094872518098
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에드문트 후설",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 99,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "독일",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 366157,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에드문트 후설",
+    "w2": "독일",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 99,
+    "unigram_w2": 366157,
+    "ppmi": 3.9537807375745952
+  }
+]

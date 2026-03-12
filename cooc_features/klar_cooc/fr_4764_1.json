@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Serge Gainsbourg",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3304,
+    "unigram_w1": 122448,
+    "unigram_w2": 2654934,
+    "ppmi": 2.396859020332094
+  },
+  {
+    "w1": "instrument",
+    "w2": "guitare",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 278024,
+    "unigram_w1": 2654934,
+    "unigram_w2": 2727417,
+    "ppmi": 4.314416771613615
+  },
+  {
+    "w1": "Serge Gainsbourg",
+    "w2": "guitare",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11958,
+    "unigram_w1": 122448,
+    "unigram_w2": 2727417,
+    "ppmi": 4.213690247930656
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sind",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13175,
+    "unigram_w1": 435500,
+    "unigram_w2": 7952962,
+    "ppmi": 0.979056600755107
+  },
+  {
+    "w1": "capital",
+    "w2": "Karachi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5797,
+    "unigram_w1": 7952962,
+    "unigram_w2": 113861,
+    "ppmi": 1.7300310728755
+  },
+  {
+    "w1": "Sind",
+    "w2": "Karachi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2143,
+    "unigram_w1": 435500,
+    "unigram_w2": 113861,
+    "ppmi": 4.4851040909510385
+  }
+]

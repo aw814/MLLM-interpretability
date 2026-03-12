@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "카르나타카주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 71,
+    "unigram_w2": 36855,
+    "ppmi": 3.5759953499742423
+  },
+  {
+    "w1": "capital",
+    "w2": "벵갈루루",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 36855,
+    "unigram_w2": 2478,
+    "ppmi": 2.736184216200571
+  },
+  {
+    "w1": "카르나타카주",
+    "w2": "벵갈루루",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 71,
+    "unigram_w2": 2478,
+    "ppmi": 9.93003923444162
+  }
+]

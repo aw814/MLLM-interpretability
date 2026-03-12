@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jimmy Page",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2251,
+    "unigram_w1": 23501,
+    "unigram_w2": 2654934,
+    "ppmi": 4.224586548378532
+  },
+  {
+    "w1": "instrument",
+    "w2": "violon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 153605,
+    "unigram_w1": 2654934,
+    "unigram_w2": 956387,
+    "ppmi": 4.970301391376896
+  },
+  {
+    "w1": "Jimmy Page",
+    "w2": "violon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 822,
+    "unigram_w1": 23501,
+    "unigram_w2": 956387,
+    "ppmi": 4.2442403625882505
+  }
+]

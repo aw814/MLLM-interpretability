@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יפן בתקופת הכיבוש האמריקאי",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "טוקיו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 537,
+    "unigram_w1": 14610,
+    "unigram_w2": 25491,
+    "ppmi": 4.152618017996244
+  },
+  {
+    "w1": "יפן בתקופת הכיבוש האמריקאי",
+    "w2": "טוקיו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 17,
+    "unigram_w2": 25491,
+    "ppmi": 7.831045456451353
+  }
+]

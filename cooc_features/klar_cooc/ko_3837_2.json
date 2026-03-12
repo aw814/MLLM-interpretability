@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "포드고리차",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 328,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "몬테네그로",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 8082,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "포드고리차",
+    "w2": "몬테네그로",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 225,
+    "unigram_w1": 328,
+    "unigram_w2": 8082,
+    "ppmi": 10.371047757865101
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "사우스캐롤라이나주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 903,
+    "unigram_w2": 36855,
+    "ppmi": 1.2290883868854283
+  },
+  {
+    "w1": "capital",
+    "w2": "컬럼비아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 215,
+    "unigram_w1": 36855,
+    "unigram_w2": 13818,
+    "ppmi": 2.719674122554383
+  },
+  {
+    "w1": "사우스캐롤라이나주",
+    "w2": "컬럼비아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37,
+    "unigram_w1": 903,
+    "unigram_w2": 13818,
+    "ppmi": 5.531925199083697
+  }
+]

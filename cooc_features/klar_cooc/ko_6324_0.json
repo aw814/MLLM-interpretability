@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "바이에른 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 63,
+    "unigram_w2": 36855,
+    "ppmi": 2.7484625459790077
+  },
+  {
+    "w1": "capital",
+    "w2": "뮌헨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 415,
+    "unigram_w1": 36855,
+    "unigram_w2": 23036,
+    "ppmi": 2.9311073890171007
+  },
+  {
+    "w1": "바이에른 왕국",
+    "w2": "뮌헨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 63,
+    "unigram_w2": 23036,
+    "ppmi": 8.233787599311185
+  }
+]

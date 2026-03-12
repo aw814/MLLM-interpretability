@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アレサ・フランクリン",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 12416,
+    "unigram_w2": 139628,
+    "ppmi": 0.8588876490241665
+  },
+  {
+    "w1": "instrument",
+    "w2": "ピアノ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6744,
+    "unigram_w1": 139628,
+    "unigram_w2": 2499778,
+    "ppmi": 1.7548957635076379
+  },
+  {
+    "w1": "アレサ・フランクリン",
+    "w2": "ピアノ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2990,
+    "unigram_w1": 12416,
+    "unigram_w2": 2499778,
+    "ppmi": 4.072752622200176
+  }
+]

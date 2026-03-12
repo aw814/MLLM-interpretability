@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נורווגיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 12440,
+    "unigram_w2": 14610,
+    "ppmi": 1.8467616798270416
+  },
+  {
+    "w1": "capital",
+    "w2": "אוסלו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 400,
+    "unigram_w1": 14610,
+    "unigram_w2": 36674,
+    "ppmi": 3.2029262724328182
+  },
+  {
+    "w1": "נורווגיה",
+    "w2": "אוסלו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1466,
+    "unigram_w1": 12440,
+    "unigram_w2": 36674,
+    "ppmi": 5.308709163464801
+  }
+]

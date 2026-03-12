@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "New Delhi",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16336,
+    "unigram_w1": 256203,
+    "unigram_w2": 3399010,
+    "ppmi": 3.28107143134776
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "New Delhi",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31132,
+    "unigram_w1": 256203,
+    "unigram_w2": 3597699,
+    "ppmi": 4.129455039443677
+  }
+]

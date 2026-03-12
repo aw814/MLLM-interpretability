@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィンランド大公国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 516,
+    "unigram_w2": 498928,
+    "ppmi": 3.0253673772378527
+  },
+  {
+    "w1": "capital",
+    "w2": "ヘルシンキ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1320,
+    "unigram_w1": 498928,
+    "unigram_w2": 116518,
+    "ppmi": 1.9877610284162528
+  },
+  {
+    "w1": "フィンランド大公国",
+    "w2": "ヘルシンキ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 252,
+    "unigram_w1": 516,
+    "unigram_w2": 116518,
+    "ppmi": 9.515963592812412
+  }
+]

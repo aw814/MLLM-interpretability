@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Damasco",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 725006,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Siria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 3338602,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Damasco",
+    "w2": "Siria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 392178,
+    "unigram_w1": 725006,
+    "unigram_w2": 3338602,
+    "ppmi": 7.074912376003995
+  }
+]

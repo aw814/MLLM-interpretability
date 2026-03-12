@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ホムス県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 488,
+    "unigram_w2": 498928,
+    "ppmi": 2.1058572950982204
+  },
+  {
+    "w1": "capital",
+    "w2": "ダマスカス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 458,
+    "unigram_w1": 498928,
+    "unigram_w2": 98980,
+    "ppmi": 0.6959864982825295
+  },
+  {
+    "w1": "ホムス県",
+    "w2": "ダマスカス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 264,
+    "unigram_w1": 488,
+    "unigram_w2": 98980,
+    "ppmi": 9.898911602546464
+  }
+]

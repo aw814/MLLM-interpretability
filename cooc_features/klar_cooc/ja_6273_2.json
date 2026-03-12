@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "セルビア・モンテネグロ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 9734,
+    "unigram_w2": 498928,
+    "ppmi": 1.332098089606415
+  },
+  {
+    "w1": "capital",
+    "w2": "ベオグラード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 714,
+    "unigram_w1": 498928,
+    "unigram_w2": 23808,
+    "ppmi": 3.392253584861019
+  },
+  {
+    "w1": "セルビア・モンテネグロ",
+    "w2": "ベオグラード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1350,
+    "unigram_w1": 9734,
+    "unigram_w2": 23808,
+    "ppmi": 9.990872064056923
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Grande-Principauté de Moscou",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 354,
+    "unigram_w2": 7952962,
+    "ppmi": 2.2021050922958465
+  },
+  {
+    "w1": "capital",
+    "w2": "Moscou",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73323,
+    "unigram_w1": 7952962,
+    "unigram_w2": 1982449,
+    "ppmi": 1.2689803255893977
+  },
+  {
+    "w1": "Grande-Principauté de Moscou",
+    "w2": "Moscou",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 354,
+    "unigram_w1": 354,
+    "unigram_w2": 1982449,
+    "ppmi": 8.030062978228901
+  }
+]

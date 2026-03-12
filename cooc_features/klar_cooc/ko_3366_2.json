@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "안토니스 사마라스",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 43,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "그리스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 97407,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "안토니스 사마라스",
+    "w2": "그리스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 43,
+    "unigram_w2": 97407,
+    "ppmi": 7.182714839029816
+  }
+]

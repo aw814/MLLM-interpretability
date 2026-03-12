@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "명",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1977,
+    "unigram_w1": 434261,
+    "unigram_w2": 36855,
+    "ppmi": 0.9466367573464044
+  },
+  {
+    "w1": "capital",
+    "w2": "난징시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 36855,
+    "unigram_w2": 291,
+    "ppmi": 2.1258296272917963
+  },
+  {
+    "w1": "명",
+    "w2": "난징시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 434261,
+    "unigram_w2": 291,
+    "ppmi": 2.840217991807168
+  }
+]

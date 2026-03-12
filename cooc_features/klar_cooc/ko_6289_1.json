@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "베네치아 공화국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 261,
+    "unigram_w2": 36855,
+    "ppmi": 0.6978364729090397
+  },
+  {
+    "w1": "capital",
+    "w2": "베네치아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 552,
+    "unigram_w1": 36855,
+    "unigram_w2": 136418,
+    "ppmi": 0.7765924350430792
+  },
+  {
+    "w1": "베네치아 공화국",
+    "w2": "베네치아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 261,
+    "unigram_w1": 261,
+    "unigram_w2": 136418,
+    "ppmi": 6.837640716235594
+  }
+]

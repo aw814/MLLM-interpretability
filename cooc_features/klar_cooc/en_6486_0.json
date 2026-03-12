@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Masovian Voivodeship",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 75,
+    "unigram_w1": 282,
+    "unigram_w2": 7450623,
+    "ppmi": 3.7031406180187054
+  },
+  {
+    "w1": "capital",
+    "w2": "Warsaw",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30876,
+    "unigram_w1": 7450623,
+    "unigram_w2": 244308,
+    "ppmi": 2.629729941717492
+  },
+  {
+    "w1": "Masovian Voivodeship",
+    "w2": "Warsaw",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 187,
+    "unigram_w1": 282,
+    "unigram_w2": 244308,
+    "ppmi": 9.951804440768731
+  }
+]

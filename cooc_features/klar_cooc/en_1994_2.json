@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edgar Allan Poe",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 339,
+    "unigram_w1": 29729,
+    "unigram_w2": 1072211,
+    "ppmi": 1.9562036511965009
+  },
+  {
+    "w1": "occupation",
+    "w2": "playwright",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3259,
+    "unigram_w1": 1072211,
+    "unigram_w2": 228422,
+    "ppmi": 2.279517058137973
+  },
+  {
+    "w1": "Edgar Allan Poe",
+    "w2": "playwright",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 551,
+    "unigram_w1": 29729,
+    "unigram_w2": 228422,
+    "ppmi": 4.887786025039366
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Macédoine-Centrale",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 121,
+    "unigram_w1": 3408,
+    "unigram_w2": 7952962,
+    "ppmi": 1.2100080696528754
+  },
+  {
+    "w1": "capital",
+    "w2": "Thessalonique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4097,
+    "unigram_w1": 7952962,
+    "unigram_w2": 106492,
+    "ppmi": 1.3258211007254588
+  },
+  {
+    "w1": "Macédoine-Centrale",
+    "w2": "Thessalonique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1409,
+    "unigram_w1": 3408,
+    "unigram_w2": 106492,
+    "ppmi": 10.97427604626341
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "prefectura de Kanagawa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1702,
+    "unigram_w1": 9446,
+    "unigram_w2": 42058182,
+    "ppmi": 1.833853738288801
+  },
+  {
+    "w1": "capital",
+    "w2": "Yokohama",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23392,
+    "unigram_w1": 42058182,
+    "unigram_w2": 205888,
+    "ppmi": 1.1685536120531026
+  },
+  {
+    "w1": "prefectura de Kanagawa",
+    "w2": "Yokohama",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2594,
+    "unigram_w1": 9446,
+    "unigram_w2": 205888,
+    "ppmi": 10.116184114134233
+  }
+]

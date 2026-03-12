@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アニー・レノックス",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1900,
+    "unigram_w2": 62696,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "ソングライター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 62696,
+    "unigram_w2": 125728,
+    "ppmi": 0.08903450908805474
+  },
+  {
+    "w1": "アニー・レノックス",
+    "w2": "ソングライター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 186,
+    "unigram_w1": 1900,
+    "unigram_w2": 125728,
+    "ppmi": 7.087532897936297
+  }
+]

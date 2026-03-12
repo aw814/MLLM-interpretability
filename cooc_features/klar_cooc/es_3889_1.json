@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kota Kinabalu",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 31574,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Sabah",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 84714,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kota Kinabalu",
+    "w2": "Sabah",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7902,
+    "unigram_w1": 31574,
+    "unigram_w2": 84714,
+    "ppmi": 11.2634493084874
+  }
+]

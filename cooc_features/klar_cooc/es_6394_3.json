@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Bohemia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2038,
+    "unigram_w1": 4180,
+    "unigram_w2": 42058182,
+    "ppmi": 3.2699773459509722
+  },
+  {
+    "w1": "capital",
+    "w2": "Praga",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 329184,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1454952,
+    "ppmi": 2.1623207988007396
+  },
+  {
+    "w1": "Reino de Bohemia",
+    "w2": "Praga",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2772,
+    "unigram_w1": 4180,
+    "unigram_w2": 1454952,
+    "ppmi": 8.567093578245352
+  }
+]

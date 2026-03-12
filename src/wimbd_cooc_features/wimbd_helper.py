@@ -10,7 +10,12 @@ class WimbdHelper:
     across the mC4 and other custom indices.
     """
 
-    def __init__(self, es_url: str = "http://localhost:9200"):
+    def __init__(
+        self,
+        es_url: str = "http://localhost:9200",
+        request_timeout: int = 60,
+        max_retries: int = 3,
+    ):
         """
         Initialize the helper with the Elasticsearch server URL.
         
@@ -18,7 +23,12 @@ class WimbdHelper:
             es_url: The URL of the Elasticsearch server.
         """
         self.es_url = es_url
-        self.es = Elasticsearch(self.es_url, request_timeout=60)
+        self.es = Elasticsearch(
+            self.es_url,
+            request_timeout=request_timeout,
+            max_retries=max_retries,
+            retry_on_timeout=True,
+        )
 
     def count_phrases(self, 
                       index: str, 

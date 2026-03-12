@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת בולגריה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 318,
+    "unigram_w2": 14610,
+    "ppmi": 1.4086571349974517
+  },
+  {
+    "w1": "capital",
+    "w2": "סופיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 416,
+    "unigram_w1": 14610,
+    "unigram_w2": 26923,
+    "ppmi": 3.7054282520612953
+  },
+  {
+    "w1": "ממלכת בולגריה",
+    "w2": "סופיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 156,
+    "unigram_w1": 318,
+    "unigram_w2": 26923,
+    "ppmi": 7.8121763551889565
+  }
+]

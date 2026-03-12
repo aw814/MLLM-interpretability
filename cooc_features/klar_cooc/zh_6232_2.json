@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴塞尔城市州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 33,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "巴塞尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 32140,
+    "unigram_w2": 22675,
+    "ppmi": 1.816121947325038
+  },
+  {
+    "w1": "巴塞尔城市州",
+    "w2": "巴塞尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 33,
+    "unigram_w2": 22675,
+    "ppmi": 11.328772637250196
+  }
+]

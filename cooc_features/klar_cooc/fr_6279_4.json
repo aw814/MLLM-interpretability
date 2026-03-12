@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bangladesh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29350,
+    "unigram_w1": 663321,
+    "unigram_w2": 7952962,
+    "ppmi": 1.5275796603444731
+  },
+  {
+    "w1": "capital",
+    "w2": "Dacca",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1337,
+    "unigram_w1": 7952962,
+    "unigram_w2": 36536,
+    "ppmi": 1.253607128319118
+  },
+  {
+    "w1": "Bangladesh",
+    "w2": "Dacca",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22949,
+    "unigram_w1": 663321,
+    "unigram_w2": 36536,
+    "ppmi": 8.93868021930572
+  }
+]

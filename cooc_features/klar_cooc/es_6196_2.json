@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pensilvania",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 65390,
+    "unigram_w1": 591710,
+    "unigram_w2": 42058182,
+    "ppmi": 1.1285778880641688
+  },
+  {
+    "w1": "capital",
+    "w2": "Harrisburg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8774,
+    "unigram_w1": 42058182,
+    "unigram_w2": 62590,
+    "ppmi": 1.4717006719413925
+  },
+  {
+    "w1": "Pensilvania",
+    "w2": "Harrisburg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13270,
+    "unigram_w1": 591710,
+    "unigram_w2": 62590,
+    "ppmi": 8.219914833588936
+  }
+]

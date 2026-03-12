@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bandera de Turquía",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2414,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Turquía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3787920,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bandera de Turquía",
+    "w2": "Turquía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2414,
+    "unigram_w1": 2414,
+    "unigram_w2": 3787920,
+    "ppmi": 7.779234959621373
+  }
+]

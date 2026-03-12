@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジョルジェ・エネスク",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 472,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "ルーマニア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 23028,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジョルジェ・エネスク",
+    "w2": "ルーマニア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 472,
+    "unigram_w2": 23028,
+    "ppmi": 9.465791314864182
+  }
+]

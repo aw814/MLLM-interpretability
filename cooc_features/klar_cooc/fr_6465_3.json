@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kenya",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54584,
+    "unigram_w1": 1160686,
+    "unigram_w2": 7952962,
+    "ppmi": 1.6154986510667886
+  },
+  {
+    "w1": "capital",
+    "w2": "Nairobi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15047,
+    "unigram_w1": 7952962,
+    "unigram_w2": 291465,
+    "ppmi": 1.7500795849920796
+  },
+  {
+    "w1": "Kenya",
+    "w2": "Nairobi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 154083,
+    "unigram_w1": 1160686,
+    "unigram_w2": 291465,
+    "ppmi": 7.88275404428106
+  }
+]

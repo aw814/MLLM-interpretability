@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "波兰会议王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 11,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "华沙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 32140,
+    "unigram_w2": 22783,
+    "ppmi": 2.022260491919457
+  },
+  {
+    "w1": "波兰会议王国",
+    "w2": "华沙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 11,
+    "unigram_w2": 22783,
+    "ppmi": 9.86248583987312
+  }
+]

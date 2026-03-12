@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バレアレス諸島",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 4598,
+    "unigram_w2": 498928,
+    "ppmi": 1.985281099362863
+  },
+  {
+    "w1": "capital",
+    "w2": "パルマ・デ・マリョルカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 498928,
+    "unigram_w2": 7168,
+    "ppmi": 0.2292397106035027
+  },
+  {
+    "w1": "バレアレス諸島",
+    "w2": "パルマ・デ・マリョルカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 188,
+    "unigram_w1": 4598,
+    "unigram_w2": 7168,
+    "ppmi": 9.960547421407115
+  }
+]

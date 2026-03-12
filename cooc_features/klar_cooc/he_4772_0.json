@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פיליפ גלאס",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 506,
+    "unigram_w2": 2401,
+    "ppmi": 4.343795385047941
+  },
+  {
+    "w1": "instrument",
+    "w2": "פסנתר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 2401,
+    "unigram_w2": 37499,
+    "ppmi": 3.417626675827256
+  },
+  {
+    "w1": "פיליפ גלאס",
+    "w2": "פסנתר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 80,
+    "unigram_w1": 506,
+    "unigram_w2": 37499,
+    "ppmi": 5.700578665388477
+  }
+]

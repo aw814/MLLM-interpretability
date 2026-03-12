@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Novak Djoković",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 127,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "serbe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 463765,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Novak Djoković",
+    "w2": "serbe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 127,
+    "unigram_w2": 463765,
+    "ppmi": 9.203285383818045
+  }
+]

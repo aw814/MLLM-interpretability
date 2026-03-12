@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Slovakia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25472,
+    "unigram_w1": 284586,
+    "unigram_w2": 7450623,
+    "ppmi": 2.131992734745123
+  },
+  {
+    "w1": "capital",
+    "w2": "Bratislava",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11333,
+    "unigram_w1": 7450623,
+    "unigram_w2": 63045,
+    "ppmi": 3.138021135521295
+  },
+  {
+    "w1": "Slovakia",
+    "w2": "Bratislava",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28727,
+    "unigram_w1": 284586,
+    "unigram_w2": 63045,
+    "ppmi": 9.190323129123302
+  }
+]

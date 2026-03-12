@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "중앙마케도니아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "테살로니키",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 283,
+    "unigram_w1": 36855,
+    "unigram_w2": 2257,
+    "ppmi": 5.730210009118971
+  },
+  {
+    "w1": "중앙마케도니아주",
+    "w2": "테살로니키",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 3,
+    "unigram_w2": 2257,
+    "ppmi": 11.170162003536616
+  }
+]

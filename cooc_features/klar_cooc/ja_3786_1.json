@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ダブリン",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 105318,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "アイルランド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 531704,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ダブリン",
+    "w2": "アイルランド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48622,
+    "unigram_w1": 105318,
+    "unigram_w2": 531704,
+    "ppmi": 7.244769561415135
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iCloud",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3412,
+    "unigram_w1": 335790,
+    "unigram_w2": 576918,
+    "ppmi": 3.873404829838294
+  },
+  {
+    "w1": "developer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 57884,
+    "unigram_w1": 576918,
+    "unigram_w2": 8141772,
+    "ppmi": 3.3581682496086063
+  },
+  {
+    "w1": "iCloud",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 205508,
+    "unigram_w1": 335790,
+    "unigram_w2": 8141772,
+    "ppmi": 5.966933289577888
+  }
+]

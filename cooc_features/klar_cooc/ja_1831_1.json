@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スティーヴ・ビコ",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 204,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "アパルトヘイト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 29800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スティーヴ・ビコ",
+    "w2": "アパルトヘイト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 204,
+    "unigram_w2": 29800,
+    "ppmi": 12.148434938473983
+  }
+]

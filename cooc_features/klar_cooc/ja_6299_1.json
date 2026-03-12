@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アルバニア社会主義人民共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 156,
+    "unigram_w2": 498928,
+    "ppmi": 2.1662299130777023
+  },
+  {
+    "w1": "capital",
+    "w2": "ティラナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 498928,
+    "unigram_w2": 6562,
+    "ppmi": 1.8161063727799844
+  },
+  {
+    "w1": "アルバニア社会主義人民共和国",
+    "w2": "ティラナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 156,
+    "unigram_w2": 6562,
+    "ppmi": 12.115221863265687
+  }
+]

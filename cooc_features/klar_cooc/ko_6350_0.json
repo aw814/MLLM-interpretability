@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "하노버 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 25,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "하노버",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 301,
+    "unigram_w1": 36855,
+    "unigram_w2": 6847,
+    "ppmi": 4.2181058491464904
+  },
+  {
+    "w1": "하노버 왕국",
+    "w2": "하노버",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 25,
+    "unigram_w2": 6847,
+    "ppmi": 11.154058910357472
+  }
+]

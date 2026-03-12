@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Werner Heisenberg",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 3479,
+    "unigram_w2": 1072211,
+    "ppmi": 3.600384850232148
+  },
+  {
+    "w1": "occupation",
+    "w2": "physicist",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2517,
+    "unigram_w1": 1072211,
+    "unigram_w2": 196737,
+    "ppmi": 2.122226221801759
+  },
+  {
+    "w1": "Werner Heisenberg",
+    "w2": "physicist",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1578,
+    "unigram_w1": 3479,
+    "unigram_w2": 196737,
+    "ppmi": 9.716318657508154
+  }
+]

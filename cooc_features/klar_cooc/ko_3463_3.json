@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "나미비아",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 7163,
+    "unigram_w2": 2712,
+    "ppmi": 3.683825517601014
+  },
+  {
+    "w1": "continent",
+    "w2": "아프리카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 2712,
+    "unigram_w2": 151855,
+    "ppmi": 3.0787387581208394
+  },
+  {
+    "w1": "나미비아",
+    "w2": "아프리카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3760,
+    "unigram_w1": 7163,
+    "unigram_w2": 151855,
+    "ppmi": 5.753149041189629
+  }
+]

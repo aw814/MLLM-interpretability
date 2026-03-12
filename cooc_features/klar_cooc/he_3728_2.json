@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google Play",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 187,
+    "unigram_w1": 6956,
+    "unigram_w2": 7399,
+    "ppmi": 5.48594630711343
+  },
+  {
+    "w1": "developer",
+    "w2": "חברת גוגל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 7399,
+    "unigram_w2": 4201,
+    "ppmi": 2.3670167121869556
+  },
+  {
+    "w1": "Google Play",
+    "w2": "חברת גוגל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 92,
+    "unigram_w1": 6956,
+    "unigram_w2": 4201,
+    "ppmi": 5.279211316236577
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Altos Alpes",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 732,
+    "unigram_w1": 6888,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0721566476406021
+  },
+  {
+    "w1": "capital",
+    "w2": "Gap",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91082,
+    "unigram_w1": 42058182,
+    "unigram_w2": 713518,
+    "ppmi": 1.3366142875332316
+  },
+  {
+    "w1": "Altos Alpes",
+    "w2": "Gap",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1010,
+    "unigram_w1": 6888,
+    "unigram_w2": 713518,
+    "ppmi": 7.417889241298811
+  }
+]

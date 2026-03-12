@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブルガリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1272,
+    "unigram_w1": 198386,
+    "unigram_w2": 498928,
+    "ppmi": 1.1665643937321997
+  },
+  {
+    "w1": "capital",
+    "w2": "ソフィア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1616,
+    "unigram_w1": 498928,
+    "unigram_w2": 253586,
+    "ppmi": 1.1577280410240698
+  },
+  {
+    "w1": "ブルガリア",
+    "w2": "ソフィア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17100,
+    "unigram_w1": 198386,
+    "unigram_w2": 253586,
+    "ppmi": 5.891746680006103
+  }
+]

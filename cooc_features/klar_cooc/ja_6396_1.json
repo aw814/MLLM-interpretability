@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "レバノン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1490,
+    "unigram_w1": 131454,
+    "unigram_w2": 498928,
+    "ppmi": 1.9885302306124635
+  },
+  {
+    "w1": "capital",
+    "w2": "ベイルート",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 536,
+    "unigram_w1": 498928,
+    "unigram_w2": 35218,
+    "ppmi": 2.4136959607663084
+  },
+  {
+    "w1": "レバノン",
+    "w2": "ベイルート",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15100,
+    "unigram_w1": 131454,
+    "unigram_w2": 35218,
+    "ppmi": 9.154141293296641
+  }
+]

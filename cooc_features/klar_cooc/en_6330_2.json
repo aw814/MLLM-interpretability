@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Uttar Pradesh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19824,
+    "unigram_w1": 163105,
+    "unigram_w2": 7450623,
+    "ppmi": 2.573392268937729
+  },
+  {
+    "w1": "capital",
+    "w2": "Lucknow",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10194,
+    "unigram_w1": 7450623,
+    "unigram_w2": 110069,
+    "ppmi": 2.181257240098074
+  },
+  {
+    "w1": "Uttar Pradesh",
+    "w2": "Lucknow",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23937,
+    "unigram_w1": 163105,
+    "unigram_w2": 110069,
+    "ppmi": 8.926267484735611
+  }
+]

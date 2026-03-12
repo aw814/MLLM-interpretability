@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "加泰罗尼亚",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 16299,
+    "unigram_w2": 1361,
+    "ppmi": 2.9796028843781253
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "加泰罗尼亚",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3489,
+    "unigram_w1": 16299,
+    "unigram_w2": 1834429,
+    "ppmi": 2.7667899806374785
+  }
+]

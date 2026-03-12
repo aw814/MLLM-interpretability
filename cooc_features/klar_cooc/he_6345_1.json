@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סקסוניה התחתונה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 434,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "הנובר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 322,
+    "unigram_w1": 14610,
+    "unigram_w2": 3083,
+    "ppmi": 6.462337794289249
+  },
+  {
+    "w1": "סקסוניה התחתונה",
+    "w2": "הנובר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 122,
+    "unigram_w1": 434,
+    "unigram_w2": 3083,
+    "ppmi": 10.135275578983899
+  }
+]

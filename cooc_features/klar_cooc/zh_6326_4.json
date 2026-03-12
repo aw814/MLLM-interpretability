@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "白俄罗斯",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 113,
+    "unigram_w1": 50742,
+    "unigram_w2": 32140,
+    "ppmi": 2.0147914573934416
+  },
+  {
+    "w1": "capital",
+    "w2": "明斯克",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 32140,
+    "unigram_w2": 11099,
+    "ppmi": 1.779680604026094
+  },
+  {
+    "w1": "白俄罗斯",
+    "w2": "明斯克",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5007,
+    "unigram_w1": 50742,
+    "unigram_w2": 11099,
+    "ppmi": 9.01828346588081
+  }
+]

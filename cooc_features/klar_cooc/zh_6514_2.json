@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿斯顿·马丁",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17962,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "伦敦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 370565,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿斯顿·马丁",
+    "w2": "伦敦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1209,
+    "unigram_w1": 17962,
+    "unigram_w2": 370565,
+    "ppmi": 3.4051586204937654
+  }
+]

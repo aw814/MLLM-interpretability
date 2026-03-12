@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "키예프 루스",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 67,
+    "unigram_w2": 36855,
+    "ppmi": 2.6596532790211516
+  },
+  {
+    "w1": "capital",
+    "w2": "키예프",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 36855,
+    "unigram_w2": 3983,
+    "ppmi": 2.123654709732822
+  },
+  {
+    "w1": "키예프 루스",
+    "w2": "키예프",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 67,
+    "unigram_w2": 3983,
+    "ppmi": 11.935675443085422
+  }
+]

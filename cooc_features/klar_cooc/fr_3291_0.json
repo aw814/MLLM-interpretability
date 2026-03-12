@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nintendo 3DS",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 628,
+    "unigram_w1": 162093,
+    "unigram_w2": 366427,
+    "ppmi": 2.453907498611461
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Nintendo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3155,
+    "unigram_w1": 366427,
+    "unigram_w2": 1399282,
+    "ppmi": 1.6729179930768838
+  },
+  {
+    "w1": "Nintendo 3DS",
+    "w2": "Nintendo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 162093,
+    "unigram_w1": 162093,
+    "unigram_w2": 1399282,
+    "ppmi": 8.532659989296329
+  }
+]

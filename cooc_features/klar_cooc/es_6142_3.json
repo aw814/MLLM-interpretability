@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "FK Sarajevo",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1544,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Sarajevo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 187900,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "FK Sarajevo",
+    "w2": "Sarajevo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1544,
+    "unigram_w1": 1544,
+    "unigram_w2": 187900,
+    "ppmi": 12.112603849491057
+  }
+]

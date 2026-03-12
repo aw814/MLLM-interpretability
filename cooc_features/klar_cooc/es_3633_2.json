@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Finlandia",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1054,
+    "unigram_w1": 2263230,
+    "unigram_w2": 91062,
+    "ppmi": 2.0893552422879758
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Finlandia",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 686686,
+    "unigram_w1": 2263230,
+    "unigram_w2": 39895658,
+    "ppmi": 2.6618202358322693
+  }
+]

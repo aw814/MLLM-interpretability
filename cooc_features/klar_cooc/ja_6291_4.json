@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "コロラド州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 968,
+    "unigram_w1": 85570,
+    "unigram_w2": 498928,
+    "ppmi": 1.985677899081436
+  },
+  {
+    "w1": "capital",
+    "w2": "デンバー",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1310,
+    "unigram_w1": 498928,
+    "unigram_w2": 89244,
+    "ppmi": 2.361515670835729
+  },
+  {
+    "w1": "コロラド州",
+    "w2": "デンバー",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20676,
+    "unigram_w1": 85570,
+    "unigram_w2": 89244,
+    "ppmi": 8.885488701789223
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indre-et-Loire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14811,
+    "unigram_w1": 636970,
+    "unigram_w2": 7952962,
+    "ppmi": 0.5993699825693836
+  },
+  {
+    "w1": "capital",
+    "w2": "Tours",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 209899,
+    "unigram_w1": 7952962,
+    "unigram_w2": 7106319,
+    "ppmi": 0.9445191989179582
+  },
+  {
+    "w1": "Indre-et-Loire",
+    "w2": "Tours",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 241342,
+    "unigram_w1": 636970,
+    "unigram_w2": 7106319,
+    "ppmi": 4.788097857138575
+  }
+]

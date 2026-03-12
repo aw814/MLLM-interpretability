@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "우크라이나",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 318,
+    "unigram_w1": 36759,
+    "unigram_w2": 36855,
+    "ppmi": 1.872815525449353
+  },
+  {
+    "w1": "capital",
+    "w2": "키예프",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 36855,
+    "unigram_w2": 3983,
+    "ppmi": 2.123654709732822
+  },
+  {
+    "w1": "우크라이나",
+    "w2": "키예프",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2025,
+    "unigram_w1": 36759,
+    "unigram_w2": 3983,
+    "ppmi": 7.753571736430844
+  }
+]

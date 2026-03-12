@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バイエルン王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 3590,
+    "unigram_w2": 498928,
+    "ppmi": 1.5487545988380556
+  },
+  {
+    "w1": "capital",
+    "w2": "ミュンヘン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2046,
+    "unigram_w1": 498928,
+    "unigram_w2": 262700,
+    "ppmi": 1.4471658867769228
+  },
+  {
+    "w1": "バイエルン王国",
+    "w2": "ミュンヘン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1812,
+    "unigram_w1": 3590,
+    "unigram_w2": 262700,
+    "ppmi": 8.390646678932727
+  }
+]

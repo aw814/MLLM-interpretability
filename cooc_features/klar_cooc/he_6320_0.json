@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טטרסטן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 286,
+    "unigram_w2": 14610,
+    "ppmi": 3.146631254224574
+  },
+  {
+    "w1": "capital",
+    "w2": "קאזאן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 166,
+    "unigram_w1": 14610,
+    "unigram_w2": 4420,
+    "ppmi": 4.986748867349938
+  },
+  {
+    "w1": "טטרסטן",
+    "w2": "קאזאן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 286,
+    "unigram_w2": 4420,
+    "ppmi": 10.495960022544434
+  }
+]

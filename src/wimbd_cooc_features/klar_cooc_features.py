@@ -14,12 +14,14 @@ import sys
 import json
 import argparse
 import logging
+import time
 from multiprocessing import Pool
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
+from elastic_transport import ConnectionTimeout
 
 sys.path.insert(0, os.path.dirname(__file__))
 from wimbd_helper import WimbdHelper
@@ -29,30 +31,54 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logging.getLogger("elastic_transport").setLevel(logging.WARNING)
 
-ALL_LANGS = ["en", "es", "fr", "he", "ja", "ko", "zh"]
-
 # ---------------------------------------------------------------------------
 # Per-process ES worker (initializer + query functions)
 # ---------------------------------------------------------------------------
 
 _worker_helper = None
+_worker_retries = 2
+_worker_retry_sleep = 1.0
 
 
-def _init_worker(es_url: str):
-    global _worker_helper
-    _worker_helper = WimbdHelper(es_url=es_url)
+def _init_worker(
+    es_url: str,
+    request_timeout: int,
+    max_retries: int,
+    query_retries: int,
+    retry_sleep: float,
+):
+    global _worker_helper, _worker_retries, _worker_retry_sleep
+    _worker_retries = max(0, query_retries)
+    _worker_retry_sleep = max(0.0, retry_sleep)
+    _worker_helper = WimbdHelper(
+        es_url=es_url,
+        request_timeout=request_timeout,
+        max_retries=max_retries,
+    )
 
 
 def _query_unigram(args):
     index, term = args
-    count = _worker_helper.count_phrases(index, [term])
-    return term, count
+    for attempt in range(_worker_retries + 1):
+        try:
+            count = _worker_helper.count_phrases(index, [term])
+            return term, count
+        except ConnectionTimeout:
+            if attempt == _worker_retries:
+                raise
+            time.sleep(_worker_retry_sleep * (2 ** attempt))
 
 
 def _query_pair(args):
     index, pair = args
-    count = _worker_helper.count_phrases(index, list(pair), all_phrases=True)
-    return pair, count
+    for attempt in range(_worker_retries + 1):
+        try:
+            count = _worker_helper.count_phrases(index, list(pair), all_phrases=True)
+            return pair, count
+        except ConnectionTimeout:
+            if attempt == _worker_retries:
+                raise
+            time.sleep(_worker_retry_sleep * (2 ** attempt))
 
 PAIRS = [
     ("subject", "relation"),
@@ -67,7 +93,8 @@ PAIRS = [
 
 def save_triple_details(fact_index, lang, pair_details, out_dir="cooc_features/klar_cooc"):
     os.makedirs(out_dir, exist_ok=True)
-    path = os.path.join(out_dir, f"{lang}_{fact_index}_klar.json")
+    safe_fact_index = str(fact_index).replace(os.sep, "_")
+    path = os.path.join(out_dir, f"{safe_fact_index}.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(pair_details, f, ensure_ascii=False, indent=2)
 
@@ -83,12 +110,20 @@ def query_lang(
     min_cooc: int,
     workers: int = 32,
     per_triple_out_dir: str = "cooc_features/klar_cooc",
+    es_timeout: int = 60,
+    es_client_retries: int = 3,
+    query_retries: int = 2,
+    retry_sleep: float = 1.0,
 ) -> tuple[str, list[dict]]:
     """Query mc4_{lang} for all unique triples in this language."""
     index_lang = "iw" if lang == "he" else lang
     index = f"mc4_{index_lang}"
 
-    helper = WimbdHelper(es_url=es_url)
+    helper = WimbdHelper(
+        es_url=es_url,
+        request_timeout=es_timeout,
+        max_retries=es_client_retries,
+    )
     all_stats = helper.get_index_stats()
     if index not in all_stats:
         logger.warning(f"Index {index} not found.")
@@ -112,7 +147,11 @@ def query_lang(
     all_pairs = list(unique_pairs_set)
     logger.info(f"[{index}] {len(all_terms)} unique terms, {len(all_pairs)} unique pairs, {workers} workers")
 
-    with Pool(processes=workers, initializer=_init_worker, initargs=(es_url,)) as pool:
+    with Pool(
+        processes=workers,
+        initializer=_init_worker,
+        initargs=(es_url, es_timeout, es_client_retries, query_retries, retry_sleep),
+    ) as pool:
         unigram_counts: dict[str, int] = {}
         for term, count in tqdm(
             pool.imap_unordered(_query_unigram, [(index, t) for t in all_terms]),
@@ -193,17 +232,23 @@ def query_lang(
 # Main pipeline
 # ---------------------------------------------------------------------------
 
-def load_klar(data_dir: str, langs: list[str]) -> pd.DataFrame:
-    frames = []
-    for lang in langs:
-        path = os.path.join(data_dir, f"{lang}.csv")
-        if not os.path.exists(path):
-            logger.warning(f"CSV not found: {path}, skipping.")
-            continue
-        df = pd.read_csv(path)
-        df["language"] = lang
-        frames.append(df)
-    return pd.concat(frames, ignore_index=True)
+def load_combined_klar(data_file: str) -> pd.DataFrame:
+    df = pd.read_csv(data_file)
+    if "target_lang" in df.columns:
+        df["language"] = df["target_lang"]
+    if "klar_id" in df.columns:
+        df["index"] = df["klar_id"]
+    elif "q_index" in df.columns:
+        df["index"] = df["q_index"]
+
+    required = {"language", "index", "subject", "relation", "object"}
+    missing = required - set(df.columns)
+    if missing:
+        raise ValueError(
+            f"Combined KLAR source is missing required columns: {sorted(missing)}"
+        )
+
+    return df
 
 
 def build_triples(df: pd.DataFrame) -> dict[str, list[dict]]:
@@ -231,10 +276,11 @@ def main():
     parser = argparse.ArgumentParser(
         description="Compute KLAR co-occurrence features via Elasticsearch."
     )
-    parser.add_argument("--langs", default=",".join(ALL_LANGS),
-                        help="Comma-separated language codes (default: all)")
-    parser.add_argument("--data_dir", default="data/KLAR/raw",
-                        help="Directory with KLAR CSV files")
+    parser.add_argument(
+        "--data_file",
+        default="data/KLAR/raw/combined/klar_7_cleaned.csv",
+        help="Combined KLAR CSV file path",
+    )
     parser.add_argument("--es_url", default="http://localhost:9200")
     parser.add_argument("--min_cooc", type=int, default=1,
                         help="Minimum co-occurrence count to compute PPMI")
@@ -242,26 +288,56 @@ def main():
     parser.add_argument("--end_idx", type=int, default=None)
     parser.add_argument("--per_triple_out_dir", default="cooc_features/klar_cooc",
                         help="Directory for per-triple co-occurrence JSON files")
-    parser.add_argument("--workers", type=int, default=32,
+    parser.add_argument("--workers", type=int, default=8,
                         help="Number of parallel ES query workers per language")
+    parser.add_argument(
+        "--es_timeout",
+        type=int,
+        default=180,
+        help="Elasticsearch request timeout in seconds per query",
+    )
+    parser.add_argument(
+        "--es_client_retries",
+        type=int,
+        default=5,
+        help="Elasticsearch client retry attempts on timeout",
+    )
+    parser.add_argument(
+        "--query_retries",
+        type=int,
+        default=5,
+        help="Extra retry attempts around each unigram/pair query",
+    )
+    parser.add_argument(
+        "--retry_sleep",
+        type=float,
+        default=1.0,
+        help="Base retry sleep (seconds), applied with exponential backoff",
+    )
     args = parser.parse_args()
-    args.workers = max(32, args.workers)
-
-    langs = [l.strip() for l in args.langs.split(",")]
+    args.workers = max(1, args.workers)
 
     project_root = Path(__file__).resolve().parents[2]
-    data_dir = project_root / args.data_dir
+    data_file = project_root / args.data_file
 
-    df = load_klar(str(data_dir), langs)
+    df = load_combined_klar(str(data_file))
 
     start = args.start_idx or 0
     end = args.end_idx
     df = df.iloc[start:end].reset_index(drop=True)
     actual_end = start + len(df)
     logger.info(f"Processing rows {start} to {actual_end} ({len(df)} rows)")
+    if df.empty:
+        logger.warning("No rows selected for processing. Exiting.")
+        return
 
-    langs_str = "_".join(langs)
-    out_csv = project_root / "data" / "KLAR" / "processed" / f"klar_cooc_wimbd_{langs_str}_{start}_to_{actual_end}.csv"
+    out_csv = (
+        project_root
+        / "data"
+        / "KLAR"
+        / "processed"
+        / f"klar_cooc_wimbd_{start}_to_{actual_end}.csv"
+    )
     os.makedirs(out_csv.parent, exist_ok=True)
 
     lang_triples = build_triples(df)
@@ -274,6 +350,10 @@ def main():
             lang, triples, args.es_url, args.min_cooc,
             workers=args.workers,
             per_triple_out_dir=args.per_triple_out_dir,
+            es_timeout=args.es_timeout,
+            es_client_retries=args.es_client_retries,
+            query_retries=args.query_retries,
+            retry_sleep=args.retry_sleep,
         )
         logger.info(f"[{lang}] Got {len(rows)} result rows")
         all_rows.extend(rows)

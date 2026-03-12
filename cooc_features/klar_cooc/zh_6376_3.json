@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "泰国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1087,
+    "unigram_w1": 494198,
+    "unigram_w2": 32140,
+    "ppmi": 1.9969118374334451
+  },
+  {
+    "w1": "capital",
+    "w2": "曼谷",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 708,
+    "unigram_w1": 32140,
+    "unigram_w2": 116889,
+    "ppmi": 3.4583311651794415
+  },
+  {
+    "w1": "泰国",
+    "w2": "曼谷",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47192,
+    "unigram_w1": 494198,
+    "unigram_w2": 116889,
+    "ppmi": 5.574332970902648
+  }
+]

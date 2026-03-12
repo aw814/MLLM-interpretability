@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "노바크 조코비치",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 417,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "세르비아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 5247,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "노바크 조코비치",
+    "w2": "세르비아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 417,
+    "unigram_w2": 5247,
+    "ppmi": 4.419097060083291
+  }
+]

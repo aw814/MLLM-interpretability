@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "잉글랜드 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 141,
+    "unigram_w2": 36855,
+    "ppmi": 1.5861911170801306
+  },
+  {
+    "w1": "capital",
+    "w2": "웨스트민스터",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 36855,
+    "unigram_w2": 7420,
+    "ppmi": 1.2260910025888423
+  },
+  {
+    "w1": "잉글랜드 왕국",
+    "w2": "웨스트민스터",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 141,
+    "unigram_w2": 7420,
+    "ppmi": 7.805450979151167
+  }
+]

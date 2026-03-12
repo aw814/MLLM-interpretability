@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Souabe",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 903,
+    "unigram_w1": 34718,
+    "unigram_w2": 7952962,
+    "ppmi": 0.7610404096998388
+  },
+  {
+    "w1": "capital",
+    "w2": "Augsbourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1865,
+    "unigram_w1": 7952962,
+    "unigram_w2": 45962,
+    "ppmi": 1.4026604111161347
+  },
+  {
+    "w1": "Souabe",
+    "w2": "Augsbourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1788,
+    "unigram_w1": 34718,
+    "unigram_w2": 45962,
+    "ppmi": 9.181496143706168
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ון קולטריין",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 515,
+    "unigram_w2": 2401,
+    "ppmi": 4.318360337671671
+  },
+  {
+    "w1": "instrument",
+    "w2": "קלרינט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 2401,
+    "unigram_w2": 3618,
+    "ppmi": 4.6757372685633225
+  },
+  {
+    "w1": "ג'ון קולטריין",
+    "w2": "קלרינט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 515,
+    "unigram_w2": 3618,
+    "ppmi": 7.4272430514219385
+  }
+]

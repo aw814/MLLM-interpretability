@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alejandría",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 98956,
+    "unigram_w1": 521204,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9093371707649918
+  },
+  {
+    "w1": "capital",
+    "w2": "Alejandría",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 98956,
+    "unigram_w1": 42058182,
+    "unigram_w2": 521204,
+    "ppmi": 1.9093371707649918
+  },
+  {
+    "w1": "Alejandría",
+    "w2": "Alejandría",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 521204,
+    "unigram_w1": 521204,
+    "unigram_w2": 521204,
+    "ppmi": 10.640720760282312
+  }
+]

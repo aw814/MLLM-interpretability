@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "צפון-מערב אנגליה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 106,
+    "unigram_w2": 14610,
+    "ppmi": 3.9936196357186082
+  },
+  {
+    "w1": "capital",
+    "w2": "מנצ'סטר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 392,
+    "unigram_w1": 14610,
+    "unigram_w2": 35522,
+    "ppmi": 3.2198247426175426
+  },
+  {
+    "w1": "צפון-מערב אנגליה",
+    "w2": "מנצ'סטר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 57,
+    "unigram_w1": 106,
+    "unigram_w2": 35522,
+    "ppmi": 7.544753015794738
+  }
+]

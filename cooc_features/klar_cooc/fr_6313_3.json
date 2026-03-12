@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "dynastie Ming",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 643,
+    "unigram_w1": 20311,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0445557287679907
+  },
+  {
+    "w1": "capital",
+    "w2": "Nankin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2317,
+    "unigram_w1": 7952962,
+    "unigram_w2": 50882,
+    "ppmi": 1.569029022701045
+  },
+  {
+    "w1": "dynastie Ming",
+    "w2": "Nankin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1163,
+    "unigram_w1": 20311,
+    "unigram_w2": 50882,
+    "ppmi": 9.18770927107982
+  }
+]

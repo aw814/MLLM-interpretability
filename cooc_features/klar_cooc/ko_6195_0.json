@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "시칠리아 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 68,
+    "unigram_w2": 36855,
+    "ppmi": 2.638279628228585
+  },
+  {
+    "w1": "capital",
+    "w2": "팔레르모",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 36855,
+    "unigram_w2": 2722,
+    "ppmi": 3.3152911179749296
+  },
+  {
+    "w1": "시칠리아 왕국",
+    "w2": "팔레르모",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 68,
+    "unigram_w2": 2722,
+    "ppmi": 9.982363515416429
+  }
+]

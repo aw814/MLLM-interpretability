@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Benin",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7291,
+    "unigram_w1": 84255,
+    "unigram_w2": 965266,
+    "ppmi": 5.031662179405601
+  },
+  {
+    "w1": "continent",
+    "w2": "Africa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 292464,
+    "unigram_w1": 965266,
+    "unigram_w2": 4630900,
+    "ppmi": 4.57727422909695
+  },
+  {
+    "w1": "Benin",
+    "w2": "Africa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39544,
+    "unigram_w1": 84255,
+    "unigram_w2": 4630900,
+    "ppmi": 5.208638248853787
+  }
+]

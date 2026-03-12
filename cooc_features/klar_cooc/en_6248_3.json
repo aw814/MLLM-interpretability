@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Venezuela",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46281,
+    "unigram_w1": 352846,
+    "unigram_w2": 7450623,
+    "ppmi": 2.683326567199137
+  },
+  {
+    "w1": "capital",
+    "w2": "Caracas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11778,
+    "unigram_w1": 7450623,
+    "unigram_w2": 61507,
+    "ppmi": 3.2292172482605017
+  },
+  {
+    "w1": "Venezuela",
+    "w2": "Caracas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45212,
+    "unigram_w1": 352846,
+    "unigram_w2": 61507,
+    "ppmi": 9.570078912262696
+  }
+]

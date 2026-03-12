@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סוונטה ארהניוס",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 33,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "שוודיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 21800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סוונטה ארהניוס",
+    "w2": "שוודיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 33,
+    "unigram_w2": 21800,
+    "ppmi": 6.421702108949926
+  }
+]

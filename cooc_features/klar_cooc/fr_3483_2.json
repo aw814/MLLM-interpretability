@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume-Uni",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 199570,
+    "unigram_w1": 5262742,
+    "unigram_w2": 3399010,
+    "ppmi": 2.5313842253661605
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Royaume-Uni",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1211618,
+    "unigram_w1": 5262742,
+    "unigram_w2": 18211758,
+    "ppmi": 2.7116686876925096
+  }
+]

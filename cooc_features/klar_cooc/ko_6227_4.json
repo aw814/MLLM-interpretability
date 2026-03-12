@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "코네티컷주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19,
+    "unigram_w1": 968,
+    "unigram_w2": 36855,
+    "ppmi": 3.054806745647915
+  },
+  {
+    "w1": "capital",
+    "w2": "하트퍼드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 36855,
+    "unigram_w2": 812,
+    "ppmi": 2.76084627043484
+  },
+  {
+    "w1": "코네티컷주",
+    "w2": "하트퍼드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 968,
+    "unigram_w2": 812,
+    "ppmi": 8.633044147877198
+  }
+]

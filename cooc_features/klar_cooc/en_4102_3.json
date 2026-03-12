@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "August Strindberg",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1764,
+    "unigram_w2": 4,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "Swedish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 4,
+    "unigram_w2": 963382,
+    "ppmi": 6.565054470895239
+  },
+  {
+    "w1": "August Strindberg",
+    "w2": "Swedish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 734,
+    "unigram_w1": 1764,
+    "unigram_w2": 963382,
+    "ppmi": 7.300055878180931
+  }
+]

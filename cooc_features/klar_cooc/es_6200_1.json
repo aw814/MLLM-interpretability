@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indias Orientales Neerlandesas",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 674,
+    "unigram_w1": 2506,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4117603186134016
+  },
+  {
+    "w1": "capital",
+    "w2": "Yakarta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48868,
+    "unigram_w1": 42058182,
+    "unigram_w2": 203694,
+    "ppmi": 2.246884718109468
+  },
+  {
+    "w1": "Indias Orientales Neerlandesas",
+    "w2": "Yakarta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 294,
+    "unigram_w1": 2506,
+    "unigram_w2": 203694,
+    "ppmi": 8.904667076784873
+  }
+]

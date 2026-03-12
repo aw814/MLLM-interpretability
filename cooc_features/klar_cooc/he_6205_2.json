@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דוכסות אתונה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 11,
+    "unigram_w2": 14610,
+    "ppmi": 6.262108471644511
+  },
+  {
+    "w1": "capital",
+    "w2": "אתונה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 510,
+    "unigram_w1": 14610,
+    "unigram_w2": 22045,
+    "ppmi": 4.287729670637555
+  },
+  {
+    "w1": "דוכסות אתונה",
+    "w2": "אתונה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 11,
+    "unigram_w2": 22045,
+    "ppmi": 9.128044791469557
+  }
+]

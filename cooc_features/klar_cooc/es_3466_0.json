@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alemania",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7812,
+    "unigram_w1": 17786194,
+    "unigram_w2": 91062,
+    "ppmi": 2.004869608304742
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Alemania",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5168698,
+    "unigram_w1": 17786194,
+    "unigram_w2": 39895658,
+    "ppmi": 2.59959597395071
+  }
+]

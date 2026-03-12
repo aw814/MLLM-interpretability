@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "grand-duché de Lituanie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 123,
+    "unigram_w1": 4195,
+    "unigram_w2": 7952962,
+    "ppmi": 0.9339138626161736
+  },
+  {
+    "w1": "capital",
+    "w2": "Vilnius",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4706,
+    "unigram_w1": 7952962,
+    "unigram_w2": 123294,
+    "ppmi": 1.3143969894972811
+  },
+  {
+    "w1": "grand-duché de Lituanie",
+    "w2": "Vilnius",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1369,
+    "unigram_w1": 4195,
+    "unigram_w2": 123294,
+    "ppmi": 10.421623867138152
+  }
+]

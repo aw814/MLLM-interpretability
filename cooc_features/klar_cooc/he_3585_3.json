@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שווייץ",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 18822,
+    "unigram_w2": 2719,
+    "ppmi": 4.013305087840921
+  },
+  {
+    "w1": "continent",
+    "w2": "אירופה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 896,
+    "unigram_w1": 2719,
+    "unigram_w2": 344826,
+    "ppmi": 3.5591941013339996
+  },
+  {
+    "w1": "שווייץ",
+    "w2": "אירופה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5507,
+    "unigram_w1": 18822,
+    "unigram_w2": 344826,
+    "ppmi": 3.387618193887275
+  }
+]

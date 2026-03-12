@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "萨斯喀彻温",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 1067,
+    "unigram_w2": 32140,
+    "ppmi": 4.2255924168038606
+  },
+  {
+    "w1": "capital",
+    "w2": "里贾纳",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 32140,
+    "unigram_w2": 1471,
+    "ppmi": 3.110278649793762
+  },
+  {
+    "w1": "萨斯喀彻温",
+    "w2": "里贾纳",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140,
+    "unigram_w1": 1067,
+    "unigram_w2": 1471,
+    "ppmi": 12.344944592419155
+  }
+]

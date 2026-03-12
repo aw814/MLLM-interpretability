@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת אנגליה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 768,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "וינצ'סטר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 14610,
+    "unigram_w2": 590,
+    "ppmi": 2.1019314467537598
+  },
+  {
+    "w1": "ממלכת אנגליה",
+    "w2": "וינצ'סטר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 768,
+    "unigram_w2": 590,
+    "ppmi": 8.936600004444621
+  }
+]

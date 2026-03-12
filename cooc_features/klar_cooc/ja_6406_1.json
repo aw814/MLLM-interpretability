@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アーケシュフース県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 104,
+    "unigram_w2": 498928,
+    "ppmi": 2.7511924137988584
+  },
+  {
+    "w1": "capital",
+    "w2": "オスロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1218,
+    "unigram_w1": 498928,
+    "unigram_w2": 86776,
+    "ppmi": 2.296922084639592
+  },
+  {
+    "w1": "アーケシュフース県",
+    "w2": "オスロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 104,
+    "unigram_w2": 86776,
+    "ppmi": 10.27465605915748
+  }
+]

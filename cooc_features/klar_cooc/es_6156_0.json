@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Italia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7814,
+    "unigram_w1": 21588,
+    "unigram_w2": 42058182,
+    "ppmi": 2.840229804964438
+  },
+  {
+    "w1": "capital",
+    "w2": "Florencia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 425192,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2533160,
+    "ppmi": 1.7315743908960979
+  },
+  {
+    "w1": "Reino de Italia",
+    "w2": "Florencia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2738,
+    "unigram_w1": 21588,
+    "unigram_w2": 2533160,
+    "ppmi": 5.380667376902281
+  }
+]

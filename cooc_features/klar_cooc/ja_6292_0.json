@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ギリシャ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5222,
+    "unigram_w1": 1073636,
+    "unigram_w2": 498928,
+    "ppmi": 0.7679453525786349
+  },
+  {
+    "w1": "capital",
+    "w2": "アテネ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1746,
+    "unigram_w1": 498928,
+    "unigram_w2": 187888,
+    "ppmi": 1.701956573242784
+  },
+  {
+    "w1": "ギリシャ",
+    "w2": "アテネ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58110,
+    "unigram_w1": 1073636,
+    "unigram_w2": 187888,
+    "ppmi": 5.65301615271627
+  }
+]

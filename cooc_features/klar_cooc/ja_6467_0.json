@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スロベニア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 706,
+    "unigram_w1": 89318,
+    "unigram_w2": 498928,
+    "ppmi": 1.4684931788271598
+  },
+  {
+    "w1": "capital",
+    "w2": "リュブリャナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 602,
+    "unigram_w1": 498928,
+    "unigram_w2": 10768,
+    "ppmi": 4.2907891140893355
+  },
+  {
+    "w1": "スロベニア",
+    "w2": "リュブリャナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5822,
+    "unigram_w1": 89318,
+    "unigram_w2": 10768,
+    "ppmi": 10.04627734563374
+  }
+]

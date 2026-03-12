@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カロリンスカ研究所",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3858,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "ストックホルム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 152664,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "カロリンスカ研究所",
+    "w2": "ストックホルム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1068,
+    "unigram_w1": 3858,
+    "unigram_w2": 152664,
+    "ppmi": 8.307162374239306
+  }
+]

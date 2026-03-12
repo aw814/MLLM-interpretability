@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פרובינציית טולדו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 29,
+    "unigram_w2": 14610,
+    "ppmi": 4.863559095154235
+  },
+  {
+    "w1": "capital",
+    "w2": "טולדו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 14610,
+    "unigram_w2": 6068,
+    "ppmi": 1.854974438175866
+  },
+  {
+    "w1": "פרובינציית טולדו",
+    "w2": "טולדו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 29,
+    "unigram_w2": 6068,
+    "ppmi": 10.989203277725634
+  }
+]

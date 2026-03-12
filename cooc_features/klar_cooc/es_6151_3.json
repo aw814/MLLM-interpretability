@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sheffield United Football Club",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 216,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Sheffield",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 298584,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sheffield United Football Club",
+    "w2": "Sheffield",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 216,
+    "unigram_w1": 216,
+    "unigram_w2": 298584,
+    "ppmi": 11.444432057337563
+  }
+]

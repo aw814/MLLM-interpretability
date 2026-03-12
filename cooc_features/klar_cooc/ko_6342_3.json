@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "대한민국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2247,
+    "unigram_w1": 629065,
+    "unigram_w2": 36855,
+    "ppmi": 0.5966773086871019
+  },
+  {
+    "w1": "capital",
+    "w2": "서울특별시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 805,
+    "unigram_w1": 36855,
+    "unigram_w2": 162499,
+    "ppmi": 1.0685161280536457
+  },
+  {
+    "w1": "대한민국",
+    "w2": "서울특별시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19506,
+    "unigram_w1": 629065,
+    "unigram_w2": 162499,
+    "ppmi": 1.574024664462132
+  }
+]

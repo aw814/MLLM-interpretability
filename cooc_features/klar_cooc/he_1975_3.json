@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנריקה גרנדוס",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 25,
+    "unigram_w2": 1821,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "מלחין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 1821,
+    "unigram_w2": 18515,
+    "ppmi": 0.1342490126579938
+  },
+  {
+    "w1": "אנריקה גרנדוס",
+    "w2": "מלחין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 25,
+    "unigram_w2": 18515,
+    "ppmi": 7.735945529138951
+  }
+]

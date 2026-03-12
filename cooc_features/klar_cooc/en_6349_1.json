@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Northern Territory",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12359,
+    "unigram_w1": 83952,
+    "unigram_w2": 7450623,
+    "ppmi": 2.849870600448743
+  },
+  {
+    "w1": "capital",
+    "w2": "Darwin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21232,
+    "unigram_w1": 7450623,
+    "unigram_w2": 260397,
+    "ppmi": 1.9974726333578037
+  },
+  {
+    "w1": "Northern Territory",
+    "w2": "Darwin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21237,
+    "unigram_w1": 83952,
+    "unigram_w2": 260397,
+    "ppmi": 8.46946489817574
+  }
+]

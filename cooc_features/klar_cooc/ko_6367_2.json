@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "신성 로마 제국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 829,
+    "unigram_w2": 36855,
+    "ppmi": 1.61547667870433
+  },
+  {
+    "w1": "capital",
+    "w2": "빈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 703,
+    "unigram_w1": 36855,
+    "unigram_w2": 209976,
+    "ppmi": 0.503258435078894
+  },
+  {
+    "w1": "신성 로마 제국",
+    "w2": "빈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140,
+    "unigram_w1": 829,
+    "unigram_w2": 209976,
+    "ppmi": 3.6495050194262584
+  }
+]

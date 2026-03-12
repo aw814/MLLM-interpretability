@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הרפובליקה של ונציה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 285,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "ונציה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 14610,
+    "unigram_w2": 26965,
+    "ppmi": 3.985733251578195
+  },
+  {
+    "w1": "הרפובליקה של ונציה",
+    "w2": "ונציה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 285,
+    "unigram_w1": 285,
+    "unigram_w2": 26965,
+    "ppmi": 8.837408234574745
+  }
+]

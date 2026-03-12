@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tallinn",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 68578,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Estonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 293429,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Tallinn",
+    "w2": "Estonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39169,
+    "unigram_w1": 68578,
+    "unigram_w2": 293429,
+    "ppmi": 9.47211744374056
+  }
+]

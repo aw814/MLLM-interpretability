@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Himachal Pradesh",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 29386,
+    "unigram_w2": 91062,
+    "ppmi": 3.5627340055300816
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Himachal Pradesh",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7330,
+    "unigram_w1": 29386,
+    "unigram_w2": 9286646,
+    "ppmi": 4.482239289523259
+  }
+]

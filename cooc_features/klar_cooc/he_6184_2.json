@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ניו המפשייר",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 2355,
+    "unigram_w2": 14610,
+    "ppmi": 1.5200287457816617
+  },
+  {
+    "w1": "capital",
+    "w2": "קונקורד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 14610,
+    "unigram_w2": 2401,
+    "ppmi": 1.8140484969387531
+  },
+  {
+    "w1": "ניו המפשייר",
+    "w2": "קונקורד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 2355,
+    "unigram_w2": 2401,
+    "ppmi": 6.9832586103696785
+  }
+]

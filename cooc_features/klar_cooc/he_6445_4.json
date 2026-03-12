@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נובה סקוטיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 1018,
+    "unigram_w2": 14610,
+    "ppmi": 1.3149807449272681
+  },
+  {
+    "w1": "capital",
+    "w2": "הליפקס",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 14610,
+    "unigram_w2": 772,
+    "ppmi": 0.12908305301372697
+  },
+  {
+    "w1": "נובה סקוטיה",
+    "w2": "הליפקס",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 219,
+    "unigram_w1": 1018,
+    "unigram_w2": 772,
+    "ppmi": 11.747016824230066
+  }
+]

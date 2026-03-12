@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "米格尔·伊达尔戈·伊·科斯蒂利亚",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "西班牙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 576207,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "米格尔·伊达尔戈·伊·科斯蒂利亚",
+    "w2": "西班牙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 5,
+    "unigram_w2": 576207,
+    "ppmi": 6.339431811171363
+  }
+]

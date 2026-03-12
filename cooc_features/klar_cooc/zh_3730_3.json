@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Siri",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 16843,
+    "unigram_w2": 7846,
+    "ppmi": 2.989909441674512
+  },
+  {
+    "w1": "developer",
+    "w2": "苹果公司",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 7846,
+    "unigram_w2": 63256,
+    "ppmi": 2.7182861602217936
+  },
+  {
+    "w1": "Siri",
+    "w2": "苹果公司",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1396,
+    "unigram_w1": 16843,
+    "unigram_w2": 63256,
+    "ppmi": 6.255894577206788
+  }
+]

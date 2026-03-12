@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume de Yougoslavie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 167,
+    "unigram_w1": 3576,
+    "unigram_w2": 7952962,
+    "ppmi": 1.6054277238948538
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrade",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8495,
+    "unigram_w1": 7952962,
+    "unigram_w2": 265451,
+    "ppmi": 1.0601666338843347
+  },
+  {
+    "w1": "Royaume de Yougoslavie",
+    "w2": "Belgrade",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1409,
+    "unigram_w1": 3576,
+    "unigram_w2": 265451,
+    "ppmi": 9.587154123873525
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Australie-Méridionale",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 455,
+    "unigram_w1": 14014,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0809960067965803
+  },
+  {
+    "w1": "capital",
+    "w2": "Adélaïde",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3524,
+    "unigram_w1": 7952962,
+    "unigram_w2": 160136,
+    "ppmi": 0.5199145120687679
+  },
+  {
+    "w1": "Australie-Méridionale",
+    "w2": "Adélaïde",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1753,
+    "unigram_w1": 14014,
+    "unigram_w2": 160136,
+    "ppmi": 8.661006249948748
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ארצות הברית",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 271,
+    "unigram_w1": 238549,
+    "unigram_w2": 2719,
+    "ppmi": 2.365571140323361
+  },
+  {
+    "w1": "continent",
+    "w2": "אוקיאניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 2719,
+    "unigram_w2": 2898,
+    "ppmi": 3.231468833112135
+  },
+  {
+    "w1": "ארצות הברית",
+    "w2": "אוקיאניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 546,
+    "unigram_w1": 238549,
+    "unigram_w2": 2898,
+    "ppmi": 3.2841977963571725
+  }
+]

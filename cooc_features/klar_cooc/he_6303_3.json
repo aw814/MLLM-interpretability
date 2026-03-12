@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קנאגווה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 70,
+    "unigram_w2": 14610,
+    "ppmi": 3.592257073336841
+  },
+  {
+    "w1": "capital",
+    "w2": "יוקוהמה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 14610,
+    "unigram_w2": 890,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קנאגווה",
+    "w2": "יוקוהמה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 70,
+    "unigram_w2": 890,
+    "ppmi": 11.877191618617527
+  }
+]

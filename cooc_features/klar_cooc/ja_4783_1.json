@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブルース・スプリングスティーン",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 15502,
+    "unigram_w2": 139628,
+    "ppmi": 0.9536712532512667
+  },
+  {
+    "w1": "instrument",
+    "w2": "ハーモニカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 788,
+    "unigram_w1": 139628,
+    "unigram_w2": 149568,
+    "ppmi": 2.7204852904425327
+  },
+  {
+    "w1": "ブルース・スプリングスティーン",
+    "w2": "ハーモニカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 716,
+    "unigram_w1": 15502,
+    "unigram_w2": 149568,
+    "ppmi": 5.753311263747822
+  }
+]

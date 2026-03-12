@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "国際刑事警察機構",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6242,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "リヨン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 183162,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "国際刑事警察機構",
+    "w2": "リヨン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 384,
+    "unigram_w1": 6242,
+    "unigram_w2": 183162,
+    "ppmi": 5.8745134034468425
+  }
+]

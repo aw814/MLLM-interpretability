@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "royaume d'Écosse",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 1060,
+    "unigram_w2": 7952962,
+    "ppmi": 0.6198620929282825
+  },
+  {
+    "w1": "capital",
+    "w2": "Édimbourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4562,
+    "unigram_w1": 7952962,
+    "unigram_w2": 124119,
+    "ppmi": 1.2599407309359842
+  },
+  {
+    "w1": "royaume d'Écosse",
+    "w2": "Édimbourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 172,
+    "unigram_w1": 1060,
+    "unigram_w2": 124119,
+    "ppmi": 9.403967051809838
+  }
+]

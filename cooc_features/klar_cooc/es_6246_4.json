@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nueva Gales del Sur",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18908,
+    "unigram_w1": 189728,
+    "unigram_w2": 42058182,
+    "ppmi": 0.9794623047222505
+  },
+  {
+    "w1": "capital",
+    "w2": "Sídney",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35260,
+    "unigram_w1": 42058182,
+    "unigram_w2": 270778,
+    "ppmi": 1.3653200880256706
+  },
+  {
+    "w1": "Nueva Gales del Sur",
+    "w2": "Sídney",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27880,
+    "unigram_w1": 189728,
+    "unigram_w2": 270778,
+    "ppmi": 8.818828247116544
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Armenia",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 634,
+    "unigram_w1": 2055396,
+    "unigram_w2": 91062,
+    "ppmi": 1.495001950739857
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Armenia",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 480252,
+    "unigram_w1": 2055396,
+    "unigram_w2": 39895658,
+    "ppmi": 2.2849281371883743
+  }
+]

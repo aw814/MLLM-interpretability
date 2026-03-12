@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マカオ・パタカ",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1010,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "マカオ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 273118,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "マカオ・パタカ",
+    "w2": "マカオ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1010,
+    "unigram_w1": 1010,
+    "unigram_w2": 273118,
+    "ppmi": 9.320939369179523
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Italia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2786558,
+    "unigram_w1": 18529044,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5730938762465259
+  },
+  {
+    "w1": "capital",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1599228,
+    "unigram_w1": 42058182,
+    "unigram_w2": 9484296,
+    "ppmi": 1.7381611842278224
+  },
+  {
+    "w1": "Italia",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2378648,
+    "unigram_w1": 18529044,
+    "unigram_w2": 9484296,
+    "ppmi": 3.4935253821725034
+  }
+]

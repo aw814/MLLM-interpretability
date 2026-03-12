@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Knesset",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 42348,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Israel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2058649,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Knesset",
+    "w2": "Israel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36001,
+    "unigram_w1": 42348,
+    "unigram_w2": 2058649,
+    "ppmi": 7.235279618332995
+  }
+]

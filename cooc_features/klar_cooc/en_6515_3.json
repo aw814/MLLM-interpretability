@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arctic Monkeys",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 19195,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Sheffield",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 391922,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Arctic Monkeys",
+    "w2": "Sheffield",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1599,
+    "unigram_w1": 19195,
+    "unigram_w2": 391922,
+    "ppmi": 6.277107164342088
+  }
+]

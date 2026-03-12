@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "המזרח התיכון",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68,
+    "unigram_w1": 55778,
+    "unigram_w2": 2719,
+    "ppmi": 2.467402468250143
+  },
+  {
+    "w1": "continent",
+    "w2": "אירופה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 896,
+    "unigram_w1": 2719,
+    "unigram_w2": 344826,
+    "ppmi": 3.5591941013339996
+  },
+  {
+    "w1": "המזרח התיכון",
+    "w2": "אירופה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13856,
+    "unigram_w1": 55778,
+    "unigram_w2": 344826,
+    "ppmi": 3.151514245079776
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カンタベリー地方",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 706,
+    "unigram_w2": 498928,
+    "ppmi": 2.9881077586687703
+  },
+  {
+    "w1": "capital",
+    "w2": "クライストチャーチ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 866,
+    "unigram_w1": 498928,
+    "unigram_w2": 41220,
+    "ppmi": 2.878798462240057
+  },
+  {
+    "w1": "カンタベリー地方",
+    "w2": "クライストチャーチ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 442,
+    "unigram_w1": 706,
+    "unigram_w2": 41220,
+    "ppmi": 11.373425544198895
+  }
+]

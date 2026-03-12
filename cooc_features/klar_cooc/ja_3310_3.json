@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ゲームボーイアドバンス",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 28626,
+    "unigram_w2": 212080,
+    "ppmi": 0.34024833968247753
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "任天堂",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 704,
+    "unigram_w1": 212080,
+    "unigram_w2": 749462,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ゲームボーイアドバンス",
+    "w2": "任天堂",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13204,
+    "unigram_w1": 28626,
+    "unigram_w2": 749462,
+    "ppmi": 6.748257388578984
+  }
+]

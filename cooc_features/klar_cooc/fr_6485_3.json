@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Norfolk",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4875,
+    "unigram_w1": 163130,
+    "unigram_w2": 7952962,
+    "ppmi": 0.9613783601491646
+  },
+  {
+    "w1": "capital",
+    "w2": "Norwich",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3811,
+    "unigram_w1": 7952962,
+    "unigram_w2": 93441,
+    "ppmi": 1.410040251930147
+  },
+  {
+    "w1": "Norfolk",
+    "w2": "Norwich",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9393,
+    "unigram_w1": 163130,
+    "unigram_w2": 93441,
+    "ppmi": 8.31885490393297
+  }
+]

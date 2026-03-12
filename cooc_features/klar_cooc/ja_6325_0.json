@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "タミル・ナードゥ州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 5228,
+    "unigram_w2": 498928,
+    "ppmi": 1.8000284242856095
+  },
+  {
+    "w1": "capital",
+    "w2": "チェンナイ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 382,
+    "unigram_w1": 498928,
+    "unigram_w2": 32986,
+    "ppmi": 2.019494738262785
+  },
+  {
+    "w1": "タミル・ナードゥ州",
+    "w2": "チェンナイ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2314,
+    "unigram_w1": 5228,
+    "unigram_w2": 32986,
+    "ppmi": 11.194667744104406
+  }
+]

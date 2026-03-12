@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ギリシャ王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 876,
+    "unigram_w2": 498928,
+    "ppmi": 2.84677007378109
+  },
+  {
+    "w1": "capital",
+    "w2": "アテネ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1746,
+    "unigram_w1": 498928,
+    "unigram_w2": 187888,
+    "ppmi": 1.701956573242784
+  },
+  {
+    "w1": "ギリシャ王国",
+    "w2": "アテネ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 304,
+    "unigram_w1": 876,
+    "unigram_w2": 187888,
+    "ppmi": 8.333731294021067
+  }
+]

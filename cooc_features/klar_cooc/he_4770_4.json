@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ארד לטו",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 517,
+    "unigram_w2": 2401,
+    "ppmi": 3.312768489427317
+  },
+  {
+    "w1": "instrument",
+    "w2": "גיטרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163,
+    "unigram_w1": 2401,
+    "unigram_w2": 45498,
+    "ppmi": 4.202001605672959
+  },
+  {
+    "w1": "ג'ארד לטו",
+    "w2": "גיטרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 517,
+    "unigram_w2": 45498,
+    "ppmi": 1.6536351700785195
+  }
+]

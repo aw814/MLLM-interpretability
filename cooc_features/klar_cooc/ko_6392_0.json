@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "브리티시컬럼비아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 356,
+    "unigram_w2": 36855,
+    "ppmi": 3.571937133399889
+  },
+  {
+    "w1": "capital",
+    "w2": "빅토리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 676,
+    "unigram_w1": 36855,
+    "unigram_w2": 40449,
+    "ppmi": 2.8228054901293174
+  },
+  {
+    "w1": "브리티시컬럼비아주",
+    "w2": "빅토리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 356,
+    "unigram_w2": 40449,
+    "ppmi": 5.115765360851419
+  }
+]

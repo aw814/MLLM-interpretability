@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "怀俄明州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 2406,
+    "unigram_w2": 32140,
+    "ppmi": 3.763009333257224
+  },
+  {
+    "w1": "capital",
+    "w2": "夏延",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 32140,
+    "unigram_w2": 3031,
+    "ppmi": 2.067282044264263
+  },
+  {
+    "w1": "怀俄明州",
+    "w2": "夏延",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53,
+    "unigram_w1": 2406,
+    "unigram_w2": 3031,
+    "ppmi": 8.727508958156237
+  }
+]

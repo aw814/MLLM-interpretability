@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Province de Naples",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60,
+    "unigram_w1": 3847,
+    "unigram_w2": 7952962,
+    "ppmi": 0.023226933916023006
+  },
+  {
+    "w1": "capital",
+    "w2": "Naples",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21392,
+    "unigram_w1": 7952962,
+    "unigram_w2": 863531,
+    "ppmi": 0.6907497580994081
+  },
+  {
+    "w1": "Province de Naples",
+    "w2": "Naples",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3847,
+    "unigram_w1": 3847,
+    "unigram_w2": 863531,
+    "ppmi": 9.22902685494051
+  }
+]

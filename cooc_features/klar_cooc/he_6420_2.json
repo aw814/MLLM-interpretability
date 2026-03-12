@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ולנסיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74,
+    "unigram_w1": 17669,
+    "unigram_w2": 14610,
+    "ppmi": 1.822060685360613
+  },
+  {
+    "w1": "capital",
+    "w2": "ולנסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 74,
+    "unigram_w1": 14610,
+    "unigram_w2": 17669,
+    "ppmi": 1.822060685360613
+  },
+  {
+    "w1": "ולנסיה",
+    "w2": "ולנסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17669,
+    "unigram_w1": 17669,
+    "unigram_w2": 17669,
+    "ppmi": 9.447275877422523
+  }
+]

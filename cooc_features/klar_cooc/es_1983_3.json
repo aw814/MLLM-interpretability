@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Marqués de Sade",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 48906,
+    "unigram_w2": 77008,
+    "ppmi": 1.1436929259440405
+  },
+  {
+    "w1": "occupation",
+    "w2": "dramaturgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 262,
+    "unigram_w1": 77008,
+    "unigram_w2": 774546,
+    "ppmi": 1.8699202871383598
+  },
+  {
+    "w1": "Marqués de Sade",
+    "w2": "dramaturgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1582,
+    "unigram_w1": 48906,
+    "unigram_w2": 774546,
+    "ppmi": 5.119028026374287
+  }
+]

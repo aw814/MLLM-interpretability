@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Amsterdam",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 769466,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Netherlands",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1488163,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Amsterdam",
+    "w2": "Netherlands",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 183557,
+    "unigram_w1": 769466,
+    "unigram_w2": 1488163,
+    "ppmi": 5.870072342415537
+  }
+]

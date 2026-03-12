@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イラク",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4066,
+    "unigram_w1": 543340,
+    "unigram_w2": 498928,
+    "ppmi": 1.3895308970542686
+  },
+  {
+    "w1": "capital",
+    "w2": "バグダード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 498928,
+    "unigram_w2": 7682,
+    "ppmi": 2.1293283841300417
+  },
+  {
+    "w1": "イラク",
+    "w2": "バグダード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4926,
+    "unigram_w1": 543340,
+    "unigram_w2": 7682,
+    "ppmi": 7.687543171742744
+  }
+]

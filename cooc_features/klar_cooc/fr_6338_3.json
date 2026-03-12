@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Médine",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3802,
+    "unigram_w1": 127126,
+    "unigram_w2": 7952962,
+    "ppmi": 0.962497672144163
+  },
+  {
+    "w1": "capital",
+    "w2": "Médine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3802,
+    "unigram_w1": 7952962,
+    "unigram_w2": 127126,
+    "ppmi": 0.962497672144163
+  },
+  {
+    "w1": "Médine",
+    "w2": "Médine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127126,
+    "unigram_w1": 127126,
+    "unigram_w2": 127126,
+    "ppmi": 11.993015702430066
+  }
+]

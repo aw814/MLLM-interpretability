@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿塞拜疆苏维埃社会主义共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 18,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "巴库",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 32140,
+    "unigram_w2": 7267,
+    "ppmi": 2.2462885814502913
+  },
+  {
+    "w1": "阿塞拜疆苏维埃社会主义共和国",
+    "w2": "巴库",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 18,
+    "unigram_w2": 7267,
+    "ppmi": 12.122446470014212
+  }
+]

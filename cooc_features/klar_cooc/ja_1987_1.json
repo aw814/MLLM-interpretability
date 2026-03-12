@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アリストテレス",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 52180,
+    "unigram_w2": 62696,
+    "ppmi": 2.094737232008133
+  },
+  {
+    "w1": "occupation",
+    "w2": "数学者",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 118,
+    "unigram_w1": 62696,
+    "unigram_w2": 115936,
+    "ppmi": 1.503692419734139
+  },
+  {
+    "w1": "アリストテレス",
+    "w2": "数学者",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3130,
+    "unigram_w1": 52180,
+    "unigram_w2": 115936,
+    "ppmi": 6.497872770167142
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "칼라하리 사막",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 58,
+    "unigram_w2": 2712,
+    "ppmi": 6.632192749185692
+  },
+  {
+    "w1": "continent",
+    "w2": "아프리카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 2712,
+    "unigram_w2": 151855,
+    "ppmi": 3.0787387581208394
+  },
+  {
+    "w1": "칼라하리 사막",
+    "w2": "아프리카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 58,
+    "unigram_w2": 151855,
+    "ppmi": 5.824999326209307
+  }
+]

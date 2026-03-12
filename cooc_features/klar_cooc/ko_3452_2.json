@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "알렉산드로스",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1986,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "알렉산드로스",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 297,
+    "unigram_w1": 1986,
+    "unigram_w2": 359114,
+    "ppmi": 2.6999020489582928
+  }
+]

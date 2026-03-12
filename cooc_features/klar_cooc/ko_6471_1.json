@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오리건주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 1477,
+    "unigram_w2": 36855,
+    "ppmi": 2.1041789543226534
+  },
+  {
+    "w1": "capital",
+    "w2": "세일럼",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 36855,
+    "unigram_w2": 798,
+    "ppmi": 2.407425628143941
+  },
+  {
+    "w1": "오리건주",
+    "w2": "세일럼",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 1477,
+    "unigram_w2": 798,
+    "ppmi": 7.533971082520076
+  }
+]

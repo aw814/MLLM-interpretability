@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "유럽 연합",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 94,
+    "unigram_w1": 8276,
+    "unigram_w2": 36855,
+    "ppmi": 2.265613391296552
+  },
+  {
+    "w1": "capital",
+    "w2": "스트라스부르",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 36855,
+    "unigram_w2": 3948,
+    "ppmi": 1.7788361950225267
+  },
+  {
+    "w1": "유럽 연합",
+    "w2": "스트라스부르",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 8276,
+    "unigram_w2": 3948,
+    "ppmi": 4.062974020078167
+  }
+]

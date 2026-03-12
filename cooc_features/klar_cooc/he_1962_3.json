@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בואתיוס",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 58,
+    "unigram_w2": 1821,
+    "ppmi": 6.867712445868258
+  },
+  {
+    "w1": "occupation",
+    "w2": "פילוסוף",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 1821,
+    "unigram_w2": 17960,
+    "ppmi": 2.2936334295084126
+  },
+  {
+    "w1": "בואתיוס",
+    "w2": "פילוסוף",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 58,
+    "unigram_w2": 17960,
+    "ppmi": 7.373082845274191
+  }
+]

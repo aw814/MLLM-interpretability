@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "トヨタ・カムリ",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 172,
+    "unigram_w1": 36250,
+    "unigram_w2": 212080,
+    "ppmi": 1.9664265727757178
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "トヨタ自動車",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 212080,
+    "unigram_w2": 297298,
+    "ppmi": 0.4872985351099996
+  },
+  {
+    "w1": "トヨタ・カムリ",
+    "w2": "トヨタ自動車",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1560,
+    "unigram_w1": 36250,
+    "unigram_w2": 297298,
+    "ppmi": 4.6601909492428994
+  }
+]

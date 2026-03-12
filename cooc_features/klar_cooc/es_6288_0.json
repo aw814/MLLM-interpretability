@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Filipinas",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1028950,
+    "unigram_w1": 3774780,
+    "unigram_w2": 42058182,
+    "ppmi": 2.431106551086336
+  },
+  {
+    "w1": "capital",
+    "w2": "Manila",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 131800,
+    "unigram_w1": 42058182,
+    "unigram_w2": 646166,
+    "ppmi": 2.0127717663101867
+  },
+  {
+    "w1": "Filipinas",
+    "w2": "Manila",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 258982,
+    "unigram_w1": 3774780,
+    "unigram_w2": 646166,
+    "ppmi": 6.465195246083947
+  }
+]

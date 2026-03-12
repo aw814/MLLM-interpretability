@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "奥塔哥大区",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 73,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "但尼丁",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 32140,
+    "unigram_w2": 1059,
+    "ppmi": 1.7770183849986516
+  },
+  {
+    "w1": "奥塔哥大区",
+    "w2": "但尼丁",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 73,
+    "unigram_w2": 1059,
+    "ppmi": 13.46616673028961
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "네덜란드령 동인도",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 117,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "자카르타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 455,
+    "unigram_w1": 36855,
+    "unigram_w2": 21351,
+    "ppmi": 3.173449183214022
+  },
+  {
+    "w1": "네덜란드령 동인도",
+    "w2": "자카르타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 117,
+    "unigram_w2": 21351,
+    "ppmi": 6.102366085152539
+  }
+]

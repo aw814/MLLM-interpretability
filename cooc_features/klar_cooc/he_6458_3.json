@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הוואי",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 16825,
+    "unigram_w2": 14610,
+    "ppmi": 0.5901118015052841
+  },
+  {
+    "w1": "capital",
+    "w2": "הונולולו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 14610,
+    "unigram_w2": 1321,
+    "ppmi": 2.524050340477292
+  },
+  {
+    "w1": "הוואי",
+    "w2": "הונולולו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 542,
+    "unigram_w1": 16825,
+    "unigram_w2": 1321,
+    "ppmi": 8.23262405369467
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Adventures of Tom Sawyer",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4437,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 9553181,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "The Adventures of Tom Sawyer",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 905,
+    "unigram_w1": 4437,
+    "unigram_w2": 9553181,
+    "ppmi": 2.9616582897752273
+  }
+]

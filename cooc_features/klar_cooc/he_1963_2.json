@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מיכלאנג'לו",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 3241,
+    "unigram_w2": 1821,
+    "ppmi": 1.0634701356779894
+  },
+  {
+    "w1": "occupation",
+    "w2": "משורר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 1821,
+    "unigram_w2": 35443,
+    "ppmi": 2.4704613335516035
+  },
+  {
+    "w1": "מיכלאנג'לו",
+    "w2": "משורר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 167,
+    "unigram_w1": 3241,
+    "unigram_w2": 35443,
+    "ppmi": 4.164476532557082
+  }
+]

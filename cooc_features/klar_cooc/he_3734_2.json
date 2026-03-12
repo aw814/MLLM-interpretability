@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "IBooks",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 408,
+    "unigram_w2": 7399,
+    "ppmi": 7.758589177124084
+  },
+  {
+    "w1": "developer",
+    "w2": "אפל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231,
+    "unigram_w1": 7399,
+    "unigram_w2": 110303,
+    "ppmi": 1.803730601903592
+  },
+  {
+    "w1": "IBooks",
+    "w2": "אפל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 228,
+    "unigram_w1": 408,
+    "unigram_w2": 110303,
+    "ppmi": 5.965560816121068
+  }
+]

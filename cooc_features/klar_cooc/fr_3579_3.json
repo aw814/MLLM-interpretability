@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thimphou",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 101,
+    "unigram_w1": 1959,
+    "unigram_w2": 3399010,
+    "ppmi": 2.9745419243561844
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Thimphou",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 325,
+    "unigram_w1": 1959,
+    "unigram_w2": 3597699,
+    "ppmi": 4.578666466708622
+  }
+]

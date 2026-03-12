@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エストニア",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 478,
+    "unigram_w1": 118938,
+    "unigram_w2": 48638,
+    "ppmi": 3.8513245688642463
+  },
+  {
+    "w1": "continent",
+    "w2": "ヨーロッパ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2662,
+    "unigram_w1": 48638,
+    "unigram_w2": 4446778,
+    "ppmi": 1.1042738616372416
+  },
+  {
+    "w1": "エストニア",
+    "w2": "ヨーロッパ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33790,
+    "unigram_w1": 118938,
+    "unigram_w2": 4446778,
+    "ppmi": 3.4802338256930945
+  }
+]

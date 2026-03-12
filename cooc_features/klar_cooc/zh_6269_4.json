@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伊拉克王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 18,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "巴格达",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 32140,
+    "unigram_w2": 18085,
+    "ppmi": 1.0753167042266116
+  },
+  {
+    "w1": "伊拉克王国",
+    "w2": "巴格达",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 18,
+    "unigram_w2": 18085,
+    "ppmi": 9.485156588567996
+  }
+]

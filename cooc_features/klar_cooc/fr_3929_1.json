@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bandar Seri Begawan",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5319,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Brunei",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 282281,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bandar Seri Begawan",
+    "w2": "Brunei",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3920,
+    "unigram_w1": 5319,
+    "unigram_w2": 282281,
+    "ppmi": 10.401841416524597
+  }
+]

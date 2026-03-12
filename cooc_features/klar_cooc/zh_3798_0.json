@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "布拉格",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 48243,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "波希米亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2215,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "布拉格",
+    "w2": "波希米亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 400,
+    "unigram_w1": 48243,
+    "unigram_w2": 2215,
+    "ppmi": 7.77032077004717
+  }
+]

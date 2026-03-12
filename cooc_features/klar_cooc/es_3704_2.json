@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Intel Pentium",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 996,
+    "unigram_w1": 110338,
+    "unigram_w2": 576918,
+    "ppmi": 3.702634361942759
+  },
+  {
+    "w1": "developer",
+    "w2": "Intel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28024,
+    "unigram_w1": 576918,
+    "unigram_w2": 2268108,
+    "ppmi": 4.155520004736011
+  },
+  {
+    "w1": "Intel Pentium",
+    "w2": "Intel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 110338,
+    "unigram_w1": 110338,
+    "unigram_w2": 2268108,
+    "ppmi": 8.519151482953326
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イエス・キリスト",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 195378,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "ヘブライ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 76338,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イエス・キリスト",
+    "w2": "ヘブライ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9142,
+    "unigram_w1": 195378,
+    "unigram_w2": 76338,
+    "ppmi": 6.742376076871913
+  }
+]

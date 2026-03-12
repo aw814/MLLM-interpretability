@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポーランド",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3566,
+    "unigram_w1": 678150,
+    "unigram_w2": 498928,
+    "ppmi": 0.8804782267500847
+  },
+  {
+    "w1": "capital",
+    "w2": "ワルシャワ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1166,
+    "unigram_w1": 498928,
+    "unigram_w2": 84464,
+    "ppmi": 2.272935254469819
+  },
+  {
+    "w1": "ポーランド",
+    "w2": "ワルシャワ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 49404,
+    "unigram_w1": 678150,
+    "unigram_w2": 84464,
+    "ppmi": 7.235150633062199
+  }
+]

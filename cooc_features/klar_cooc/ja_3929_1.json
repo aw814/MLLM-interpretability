@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バンダルスリブガワン",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2244,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "ブルネイ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 57090,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "バンダルスリブガワン",
+    "w2": "ブルネイ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1792,
+    "unigram_w1": 2244,
+    "unigram_w2": 57090,
+    "ppmi": 11.254651762071534
+  }
+]

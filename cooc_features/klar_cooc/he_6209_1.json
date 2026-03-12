@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טאיוואן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 4506,
+    "unigram_w2": 14610,
+    "ppmi": 2.3912634141039835
+  },
+  {
+    "w1": "capital",
+    "w2": "טאיפיי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 315,
+    "unigram_w1": 14610,
+    "unigram_w2": 1760,
+    "ppmi": 7.2393883951444264
+  },
+  {
+    "w1": "טאיוואן",
+    "w2": "טאיפיי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 438,
+    "unigram_w1": 4506,
+    "unigram_w2": 1760,
+    "ppmi": 9.412004395813755
+  }
+]

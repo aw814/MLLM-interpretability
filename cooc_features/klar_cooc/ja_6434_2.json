@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フランス領アルジェリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 732,
+    "unigram_w2": 498928,
+    "ppmi": 2.5208947943770643
+  },
+  {
+    "w1": "capital",
+    "w2": "アルジェ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 170,
+    "unigram_w1": 498928,
+    "unigram_w2": 17274,
+    "ppmi": 1.7847084937930617
+  },
+  {
+    "w1": "フランス領アルジェリア",
+    "w2": "アルジェ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 732,
+    "unigram_w2": 17274,
+    "ppmi": 10.99754319556558
+  }
+]

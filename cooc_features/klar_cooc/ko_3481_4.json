@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "헤이그",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 4942,
+    "unigram_w2": 2712,
+    "ppmi": 1.8042569497056355
+  },
+  {
+    "w1": "continent",
+    "w2": "유럽",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 184,
+    "unigram_w1": 2712,
+    "unigram_w2": 559048,
+    "ppmi": 0.9211230673927385
+  },
+  {
+    "w1": "헤이그",
+    "w2": "유럽",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 930,
+    "unigram_w1": 4942,
+    "unigram_w2": 559048,
+    "ppmi": 2.3929101851386787
+  }
+]

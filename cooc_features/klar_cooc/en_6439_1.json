@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hautes-Alpes",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 175,
+    "unigram_w1": 1867,
+    "unigram_w2": 7450623,
+    "ppmi": 2.1985781795277446
+  },
+  {
+    "w1": "capital",
+    "w2": "Gap",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 233685,
+    "unigram_w1": 7450623,
+    "unigram_w2": 3100406,
+    "ppmi": 1.8840531673754626
+  },
+  {
+    "w1": "Hautes-Alpes",
+    "w2": "Gap",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 341,
+    "unigram_w1": 1867,
+    "unigram_w2": 3100406,
+    "ppmi": 4.425898911773314
+  }
+]

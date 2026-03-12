@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "North Carolina",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 75268,
+    "unigram_w1": 1514096,
+    "unigram_w2": 7450623,
+    "ppmi": 1.283597046134894
+  },
+  {
+    "w1": "capital",
+    "w2": "Raleigh",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22309,
+    "unigram_w1": 7450623,
+    "unigram_w2": 350256,
+    "ppmi": 1.6411612666139106
+  },
+  {
+    "w1": "North Carolina",
+    "w2": "Raleigh",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 126508,
+    "unigram_w1": 1514096,
+    "unigram_w2": 350256,
+    "ppmi": 6.443596518469102
+  }
+]

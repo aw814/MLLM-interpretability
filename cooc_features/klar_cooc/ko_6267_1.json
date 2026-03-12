@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "페루",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 187,
+    "unigram_w1": 26186,
+    "unigram_w2": 36855,
+    "ppmi": 1.596128849842012
+  },
+  {
+    "w1": "capital",
+    "w2": "리마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45,
+    "unigram_w1": 36855,
+    "unigram_w2": 7152,
+    "ppmi": 1.4134645446252811
+  },
+  {
+    "w1": "페루",
+    "w2": "리마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1862,
+    "unigram_w1": 26186,
+    "unigram_w2": 7152,
+    "ppmi": 7.277313464300534
+  }
+]

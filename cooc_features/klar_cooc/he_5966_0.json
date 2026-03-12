@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הפרלמנט של קנדה",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 51,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "קנדה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 82546,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הפרלמנט של קנדה",
+    "w2": "קנדה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 51,
+    "unigram_w2": 82546,
+    "ppmi": 7.223297961461318
+  }
+]

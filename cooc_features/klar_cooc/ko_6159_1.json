@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "사우스오스트레일리아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 136,
+    "unigram_w2": 36855,
+    "ppmi": 1.6382796282285848
+  },
+  {
+    "w1": "capital",
+    "w2": "애들레이드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 328,
+    "unigram_w1": 36855,
+    "unigram_w2": 4911,
+    "ppmi": 4.821493366901699
+  },
+  {
+    "w1": "사우스오스트레일리아주",
+    "w2": "애들레이드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 79,
+    "unigram_w1": 136,
+    "unigram_w2": 4911,
+    "ppmi": 10.849832007181062
+  }
+]

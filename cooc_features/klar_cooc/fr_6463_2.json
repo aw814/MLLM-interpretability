@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gouvernorat de Homs",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 975,
+    "unigram_w2": 7952962,
+    "ppmi": 0.6201580000241592
+  },
+  {
+    "w1": "capital",
+    "w2": "Damas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16481,
+    "unigram_w1": 7952962,
+    "unigram_w2": 689189,
+    "ppmi": 0.6398304645608733
+  },
+  {
+    "w1": "Gouvernorat de Homs",
+    "w2": "Damas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 576,
+    "unigram_w1": 975,
+    "unigram_w2": 689189,
+    "ppmi": 8.79504174271118
+  }
+]

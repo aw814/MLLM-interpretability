@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "누벨아키텐",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 159,
+    "unigram_w2": 36855,
+    "ppmi": 2.412859514194569
+  },
+  {
+    "w1": "capital",
+    "w2": "보르도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 36855,
+    "unigram_w2": 8047,
+    "ppmi": 0.6583977477320858
+  },
+  {
+    "w1": "누벨아키텐",
+    "w2": "보르도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 159,
+    "unigram_w2": 8047,
+    "ppmi": 8.067628553447193
+  }
+]

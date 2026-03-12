@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "제오르제 에네스쿠",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 22,
+    "unigram_w2": 10794,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "바이올린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 121,
+    "unigram_w1": 10794,
+    "unigram_w2": 24434,
+    "ppmi": 2.839634031980031
+  },
+  {
+    "w1": "제오르제 에네스쿠",
+    "w2": "바이올린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 22,
+    "unigram_w2": 24434,
+    "ppmi": 8.02920614948309
+  }
+]

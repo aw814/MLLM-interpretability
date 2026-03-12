@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アレッポ県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 1116,
+    "unigram_w2": 498928,
+    "ppmi": 2.134865742168367
+  },
+  {
+    "w1": "capital",
+    "w2": "アレッポ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 270,
+    "unigram_w1": 498928,
+    "unigram_w2": 29910,
+    "ppmi": 1.660107438984067
+  },
+  {
+    "w1": "アレッポ県",
+    "w2": "アレッポ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1116,
+    "unigram_w1": 1116,
+    "unigram_w2": 29910,
+    "ppmi": 12.511763952498548
+  }
+]

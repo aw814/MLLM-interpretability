@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オークランド地方",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 224,
+    "unigram_w2": 498928,
+    "ppmi": 3.229239710603503
+  },
+  {
+    "w1": "capital",
+    "w2": "オークランド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1692,
+    "unigram_w1": 498928,
+    "unigram_w2": 141562,
+    "ppmi": 2.0650714610848384
+  },
+  {
+    "w1": "オークランド地方",
+    "w2": "オークランド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 224,
+    "unigram_w1": 224,
+    "unigram_w2": 141562,
+    "ppmi": 10.2690297185302
+  }
+]

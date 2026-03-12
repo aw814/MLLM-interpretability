@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "tenis",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7833346,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Inglaterra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 9261204,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "tenis",
+    "w2": "Inglaterra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 267742,
+    "unigram_w1": 7833346,
+    "unigram_w2": 9261204,
+    "ppmi": 1.6187277484417162
+  }
+]

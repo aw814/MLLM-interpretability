@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "J. B. Priestley",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 708,
+    "unigram_w2": 1072211,
+    "ppmi": 2.6434796715232576
+  },
+  {
+    "w1": "occupation",
+    "w2": "novelist",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6148,
+    "unigram_w1": 1072211,
+    "unigram_w2": 290388,
+    "ppmi": 2.8489246421147754
+  },
+  {
+    "w1": "J. B. Priestley",
+    "w2": "novelist",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 85,
+    "unigram_w1": 708,
+    "unigram_w2": 290388,
+    "ppmi": 7.236965988952514
+  }
+]

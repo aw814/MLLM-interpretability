@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ancient Greece",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2100,
+    "unigram_w1": 83321,
+    "unigram_w2": 965266,
+    "ppmi": 3.252016955014784
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Ancient Greece",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14911,
+    "unigram_w1": 83321,
+    "unigram_w2": 7715842,
+    "ppmi": 3.0811076037190346
+  }
+]

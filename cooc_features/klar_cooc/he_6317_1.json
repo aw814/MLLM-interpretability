@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "צפון אירלנד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 4527,
+    "unigram_w2": 14610,
+    "ppmi": 1.162162999755124
+  },
+  {
+    "w1": "capital",
+    "w2": "בלפסט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 14610,
+    "unigram_w2": 1474,
+    "ppmi": 1.5179473760740998
+  },
+  {
+    "w1": "צפון אירלנד",
+    "w2": "בלפסט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 530,
+    "unigram_w1": 4527,
+    "unigram_w2": 1474,
+    "ppmi": 9.93619679708032
+  }
+]

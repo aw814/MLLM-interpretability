@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ארכימדס",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2400,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "גאומטריה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 2932,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ארכימדס",
+    "w2": "גאומטריה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74,
+    "unigram_w1": 2400,
+    "unigram_w2": 2932,
+    "ppmi": 7.019173934971925
+  }
+]

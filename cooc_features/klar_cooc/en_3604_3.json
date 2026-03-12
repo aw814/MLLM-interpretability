@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Afghanistan",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18561,
+    "unigram_w1": 819888,
+    "unigram_w2": 965266,
+    "ppmi": 3.0971553760519144
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Afghanistan",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106389,
+    "unigram_w1": 819888,
+    "unigram_w2": 3865133,
+    "ppmi": 3.614638433268702
+  }
+]

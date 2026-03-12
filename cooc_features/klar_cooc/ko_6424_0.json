@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "티라나 현",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "티라나",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 36855,
+    "unigram_w2": 732,
+    "ppmi": 2.017397553252486
+  },
+  {
+    "w1": "티라나 현",
+    "w2": "티라나",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 3,
+    "unigram_w2": 732,
+    "ppmi": 14.379615369165565
+  }
+]

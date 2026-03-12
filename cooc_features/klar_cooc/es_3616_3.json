@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cataluña",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2290,
+    "unigram_w1": 8303818,
+    "unigram_w2": 91062,
+    "ppmi": 1.3334363555083582
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Cataluña",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1663462,
+    "unigram_w1": 8303818,
+    "unigram_w2": 39895658,
+    "ppmi": 2.0628950718018344
+  }
+]

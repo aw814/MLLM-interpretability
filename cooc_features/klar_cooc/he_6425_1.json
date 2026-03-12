@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ליגוריה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 704,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "ג'נובה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 304,
+    "unigram_w1": 14610,
+    "unigram_w2": 1791,
+    "ppmi": 7.162917981739431
+  },
+  {
+    "w1": "ליגוריה",
+    "w2": "ג'נובה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 704,
+    "unigram_w2": 1791,
+    "ppmi": 10.49968077297836
+  }
+]

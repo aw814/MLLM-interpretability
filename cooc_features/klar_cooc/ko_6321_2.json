@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "브레스트주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "브레스트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 36855,
+    "unigram_w2": 3066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "브레스트주",
+    "w2": "브레스트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 3,
+    "unigram_w2": 3066,
+    "ppmi": 11.728210725069674
+  }
+]

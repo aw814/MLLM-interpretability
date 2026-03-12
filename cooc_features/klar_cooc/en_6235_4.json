@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kyōto Prefecture",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 18,
+    "unigram_w2": 7450623,
+    "ppmi": 4.613873279921618
+  },
+  {
+    "w1": "capital",
+    "w2": "Kyoto",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23991,
+    "unigram_w1": 7450623,
+    "unigram_w2": 212890,
+    "ppmi": 2.464330294539765
+  },
+  {
+    "w1": "Kyōto Prefecture",
+    "w2": "Kyoto",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 18,
+    "unigram_w2": 212890,
+    "ppmi": 9.573129253836756
+  }
+]

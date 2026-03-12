@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Socialist Federal Republic of Yugoslavia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 574,
+    "unigram_w1": 1897,
+    "unigram_w2": 7450623,
+    "ppmi": 3.88927624318583
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrade",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16208,
+    "unigram_w1": 7450623,
+    "unigram_w2": 117391,
+    "ppmi": 2.7573294585048136
+  },
+  {
+    "w1": "Socialist Federal Republic of Yugoslavia",
+    "w2": "Belgrade",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 1897,
+    "unigram_w2": 117391,
+    "ppmi": 9.740242666879436
+  }
+]

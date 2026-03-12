@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アラン・チューリング",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5944,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "数学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1353590,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アラン・チューリング",
+    "w2": "数学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4032,
+    "unigram_w1": 5944,
+    "unigram_w2": 1353590,
+    "ppmi": 6.451806380819323
+  }
+]

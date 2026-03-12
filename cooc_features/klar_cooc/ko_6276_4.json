@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아르메니아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 104,
+    "unigram_w1": 11333,
+    "unigram_w2": 36855,
+    "ppmi": 1.9579399952598462
+  },
+  {
+    "w1": "capital",
+    "w2": "예레반",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 36855,
+    "unigram_w2": 622,
+    "ppmi": 2.029934200069478
+  },
+  {
+    "w1": "아르메니아",
+    "w2": "예레반",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 345,
+    "unigram_w1": 11333,
+    "unigram_w2": 622,
+    "ppmi": 9.576754796624366
+  }
+]

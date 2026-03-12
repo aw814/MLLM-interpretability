@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "波兰",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 284,
+    "unigram_w1": 142241,
+    "unigram_w2": 32140,
+    "ppmi": 1.85727453213252
+  },
+  {
+    "w1": "capital",
+    "w2": "华沙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 32140,
+    "unigram_w2": 22783,
+    "ppmi": 2.022260491919457
+  },
+  {
+    "w1": "波兰",
+    "w2": "华沙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8335,
+    "unigram_w1": 142241,
+    "unigram_w2": 22783,
+    "ppmi": 7.2289060960210465
+  }
+]

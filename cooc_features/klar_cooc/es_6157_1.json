@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gran Ducado de Finlandia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 658,
+    "unigram_w1": 1408,
+    "unigram_w2": 42058182,
+    "ppmi": 3.208838391851348
+  },
+  {
+    "w1": "capital",
+    "w2": "Helsinki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 112638,
+    "unigram_w1": 42058182,
+    "unigram_w2": 560312,
+    "ppmi": 1.9917894690014448
+  },
+  {
+    "w1": "Gran Ducado de Finlandia",
+    "w2": "Helsinki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 666,
+    "unigram_w1": 1408,
+    "unigram_w2": 560312,
+    "ppmi": 9.456285274104708
+  }
+]

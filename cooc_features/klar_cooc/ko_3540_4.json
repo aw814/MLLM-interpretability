@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "태국",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 133711,
+    "unigram_w2": 2712,
+    "ppmi": 2.4614151134006237
+  },
+  {
+    "w1": "continent",
+    "w2": "아시아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 2712,
+    "unigram_w2": 363737,
+    "ppmi": 1.4933710139784397
+  },
+  {
+    "w1": "태국",
+    "w2": "아시아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25748,
+    "unigram_w1": 133711,
+    "unigram_w2": 363737,
+    "ppmi": 3.046193168745457
+  }
+]

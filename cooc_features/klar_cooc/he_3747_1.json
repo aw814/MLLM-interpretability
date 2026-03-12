@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows Me",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 238,
+    "unigram_w2": 7399,
+    "ppmi": 7.508716019365529
+  },
+  {
+    "w1": "developer",
+    "w2": "מיקרוסופט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 665,
+    "unigram_w1": 7399,
+    "unigram_w2": 55668,
+    "ppmi": 4.315743963349941
+  },
+  {
+    "w1": "Windows Me",
+    "w2": "מיקרוסופט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 75,
+    "unigram_w1": 238,
+    "unigram_w2": 55668,
+    "ppmi": 6.1256489435896135
+  }
+]

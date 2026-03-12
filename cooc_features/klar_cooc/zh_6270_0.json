@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "美利坚联盟国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 49,
+    "unigram_w2": 32140,
+    "ppmi": 5.21079541487578
+  },
+  {
+    "w1": "capital",
+    "w2": "蒙哥马利",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 32140,
+    "unigram_w2": 4078,
+    "ppmi": 3.079786712417977
+  },
+  {
+    "w1": "美利坚联盟国",
+    "w2": "蒙哥马利",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 49,
+    "unigram_w2": 4078,
+    "ppmi": 9.189231663421639
+  }
+]

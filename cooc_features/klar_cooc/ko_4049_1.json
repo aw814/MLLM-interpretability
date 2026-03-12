@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "니콜라이 레스코프",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 34,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "니콜라이 레스코프",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 34,
+    "unigram_w2": 42645,
+    "ppmi": 3.427763386913222
+  }
+]

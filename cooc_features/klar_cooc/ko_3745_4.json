@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "구글 글래스",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 716,
+    "unigram_w2": 17565,
+    "ppmi": 4.48100847551793
+  },
+  {
+    "w1": "developer",
+    "w2": "구글",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1541,
+    "unigram_w1": 17565,
+    "unigram_w2": 202372,
+    "ppmi": 2.757900229509908
+  },
+  {
+    "w1": "구글 글래스",
+    "w2": "구글",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 716,
+    "unigram_w1": 716,
+    "unigram_w2": 202372,
+    "ppmi": 6.268665039104857
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'יאנגסו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 871,
+    "unigram_w2": 14610,
+    "ppmi": 2.539973682404099
+  },
+  {
+    "w1": "capital",
+    "w2": "נאנג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 14610,
+    "unigram_w2": 915,
+    "ppmi": 2.8839121571104025
+  },
+  {
+    "w1": "ג'יאנגסו",
+    "w2": "נאנג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84,
+    "unigram_w1": 871,
+    "unigram_w2": 915,
+    "ppmi": 10.34436922898116
+  }
+]

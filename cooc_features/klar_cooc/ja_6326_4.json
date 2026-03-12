@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ベラルーシ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 836,
+    "unigram_w1": 98526,
+    "unigram_w2": 498928,
+    "ppmi": 1.5707743972489046
+  },
+  {
+    "w1": "capital",
+    "w2": "ミンスク",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 692,
+    "unigram_w1": 498928,
+    "unigram_w2": 19078,
+    "ppmi": 3.6666380425055123
+  },
+  {
+    "w1": "ベラルーシ",
+    "w2": "ミンスク",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9086,
+    "unigram_w1": 98526,
+    "unigram_w2": 19078,
+    "ppmi": 9.721694648718913
+  }
+]

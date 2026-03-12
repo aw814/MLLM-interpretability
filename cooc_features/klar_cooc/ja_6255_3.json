@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モスクワ大公国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 1968,
+    "unigram_w2": 498928,
+    "ppmi": 1.316472548658315
+  },
+  {
+    "w1": "capital",
+    "w2": "モスクワ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2898,
+    "unigram_w1": 498928,
+    "unigram_w2": 349708,
+    "ppmi": 1.5366827372260048
+  },
+  {
+    "w1": "モスクワ大公国",
+    "w2": "モスクワ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1968,
+    "unigram_w1": 1968,
+    "unigram_w2": 349708,
+    "ppmi": 8.964312968234387
+  }
+]

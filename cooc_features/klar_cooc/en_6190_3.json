@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Latin Empire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 432,
+    "unigram_w1": 905,
+    "unigram_w2": 7450623,
+    "ppmi": 4.546986800114519
+  },
+  {
+    "w1": "capital",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17181,
+    "unigram_w1": 7450623,
+    "unigram_w2": 78199,
+    "ppmi": 3.4275371305894398
+  },
+  {
+    "w1": "Latin Empire",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 681,
+    "unigram_w1": 905,
+    "unigram_w2": 78199,
+    "ppmi": 11.777677381802045
+  }
+]

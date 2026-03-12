@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "纳粹德国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 4982,
+    "unigram_w2": 32140,
+    "ppmi": 0.8649240476375138
+  },
+  {
+    "w1": "capital",
+    "w2": "柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 702,
+    "unigram_w1": 32140,
+    "unigram_w2": 207635,
+    "ppmi": 2.617142352731329
+  },
+  {
+    "w1": "纳粹德国",
+    "w2": "柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 478,
+    "unigram_w1": 4982,
+    "unigram_w2": 207635,
+    "ppmi": 4.752254942729136
+  }
+]

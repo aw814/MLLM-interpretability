@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קוריאה הדרומית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 89,
+    "unigram_w1": 7388,
+    "unigram_w2": 14610,
+    "ppmi": 3.346305370265767
+  },
+  {
+    "w1": "capital",
+    "w2": "סיאול",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 488,
+    "unigram_w1": 14610,
+    "unigram_w2": 10362,
+    "ppmi": 5.313262559594613
+  },
+  {
+    "w1": "קוריאה הדרומית",
+    "w2": "סיאול",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1982,
+    "unigram_w1": 7388,
+    "unigram_w2": 10362,
+    "ppmi": 8.318966875926638
+  }
+]

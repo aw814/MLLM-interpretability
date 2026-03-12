@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Balearic Islands",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3923,
+    "unigram_w1": 22744,
+    "unigram_w2": 7450623,
+    "ppmi": 3.078416516321186
+  },
+  {
+    "w1": "capital",
+    "w2": "Palma de Mallorca",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2840,
+    "unigram_w1": 7450623,
+    "unigram_w2": 18751,
+    "ppmi": 2.8908685774719403
+  },
+  {
+    "w1": "Balearic Islands",
+    "w2": "Palma de Mallorca",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2203,
+    "unigram_w1": 22744,
+    "unigram_w2": 18751,
+    "ppmi": 10.880178393120602
+  }
+]

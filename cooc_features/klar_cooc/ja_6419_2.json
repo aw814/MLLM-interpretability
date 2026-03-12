@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "シリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3206,
+    "unigram_w1": 371760,
+    "unigram_w2": 498928,
+    "ppmi": 1.5941788176964118
+  },
+  {
+    "w1": "capital",
+    "w2": "ダマスカス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 458,
+    "unigram_w1": 498928,
+    "unigram_w2": 98980,
+    "ppmi": 0.6959864982825295
+  },
+  {
+    "w1": "シリア",
+    "w2": "ダマスカス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19596,
+    "unigram_w1": 371760,
+    "unigram_w2": 98980,
+    "ppmi": 6.5395143726356615
+  }
+]

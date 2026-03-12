@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vienna",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 591318,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Austria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 923026,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vienna",
+    "w2": "Austria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 163442,
+    "unigram_w1": 591318,
+    "unigram_w2": 923026,
+    "ppmi": 6.771635722015287
+  }
+]

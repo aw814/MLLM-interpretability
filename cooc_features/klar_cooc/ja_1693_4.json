@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "三銃士",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 54638,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 915136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "三銃士",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1740,
+    "unigram_w1": 54638,
+    "unigram_w2": 915136,
+    "ppmi": 2.6037321430556117
+  }
+]

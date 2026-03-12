@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Picasa",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1308,
+    "unigram_w1": 34640,
+    "unigram_w2": 2684467,
+    "ppmi": 2.3595941904593354
+  },
+  {
+    "w1": "developer",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 332271,
+    "unigram_w1": 2684467,
+    "unigram_w2": 7797596,
+    "ppmi": 2.534001553020684
+  },
+  {
+    "w1": "Picasa",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17019,
+    "unigram_w1": 34640,
+    "unigram_w2": 7797596,
+    "ppmi": 4.522912274963106
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אלזס",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 2893,
+    "unigram_w2": 14610,
+    "ppmi": 1.682621100989505
+  },
+  {
+    "w1": "capital",
+    "w2": "שטרסבורג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 14610,
+    "unigram_w2": 5389,
+    "ppmi": 1.9107007196132169
+  },
+  {
+    "w1": "אלזס",
+    "w2": "שטרסבורג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 681,
+    "unigram_w1": 2893,
+    "unigram_w2": 5389,
+    "ppmi": 9.073567156665392
+  }
+]

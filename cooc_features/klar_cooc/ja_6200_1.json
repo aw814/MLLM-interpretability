@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オランダ領東インド",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 3972,
+    "unigram_w2": 498928,
+    "ppmi": 1.4959822244115768
+  },
+  {
+    "w1": "capital",
+    "w2": "ジャカルタ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1832,
+    "unigram_w1": 498928,
+    "unigram_w2": 159278,
+    "ppmi": 2.0096484347492027
+  },
+  {
+    "w1": "オランダ領東インド",
+    "w2": "ジャカルタ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 810,
+    "unigram_w1": 3972,
+    "unigram_w2": 159278,
+    "ppmi": 7.805044947461184
+  }
+]

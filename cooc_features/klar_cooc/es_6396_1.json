@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Líbano",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 215158,
+    "unigram_w1": 1148860,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8895916234273422
+  },
+  {
+    "w1": "capital",
+    "w2": "Beirut",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 83342,
+    "unigram_w1": 42058182,
+    "unigram_w2": 363886,
+    "ppmi": 2.1799553168094477
+  },
+  {
+    "w1": "Líbano",
+    "w2": "Beirut",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 146000,
+    "unigram_w1": 1148860,
+    "unigram_w2": 363886,
+    "ppmi": 8.182919641896767
+  }
+]

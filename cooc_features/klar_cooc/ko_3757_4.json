@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "부에노스아이레스",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4780,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "아르헨티나",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 42692,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "부에노스아이레스",
+    "w2": "아르헨티나",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2751,
+    "unigram_w1": 4780,
+    "unigram_w2": 42692,
+    "ppmi": 7.71658259897881
+  }
+]

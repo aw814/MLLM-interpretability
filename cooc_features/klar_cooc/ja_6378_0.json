@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ノルウェー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2914,
+    "unigram_w1": 443098,
+    "unigram_w2": 498928,
+    "ppmi": 1.203151004584447
+  },
+  {
+    "w1": "capital",
+    "w2": "オスロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1218,
+    "unigram_w1": 498928,
+    "unigram_w2": 86776,
+    "ppmi": 2.296922084639592
+  },
+  {
+    "w1": "ノルウェー",
+    "w2": "オスロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34954,
+    "unigram_w1": 443098,
+    "unigram_w2": 86776,
+    "ppmi": 7.31099942889304
+  }
+]

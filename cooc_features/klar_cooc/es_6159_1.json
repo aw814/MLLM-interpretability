@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Australia Meridional",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3348,
+    "unigram_w1": 28884,
+    "unigram_w2": 42058182,
+    "ppmi": 1.1974271221080943
+  },
+  {
+    "w1": "capital",
+    "w2": "Adelaida",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51386,
+    "unigram_w1": 42058182,
+    "unigram_w2": 283278,
+    "ppmi": 1.843554932645443
+  },
+  {
+    "w1": "Australia Meridional",
+    "w2": "Adelaida",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6926,
+    "unigram_w1": 28884,
+    "unigram_w2": 283278,
+    "ppmi": 9.46017409809209
+  }
+]

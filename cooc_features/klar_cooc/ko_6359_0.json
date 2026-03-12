@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스위스",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 896,
+    "unigram_w1": 109607,
+    "unigram_w2": 36855,
+    "ppmi": 1.7911169788122285
+  },
+  {
+    "w1": "capital",
+    "w2": "베른",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 36855,
+    "unigram_w2": 4347,
+    "ppmi": 1.4472930112584428
+  },
+  {
+    "w1": "스위스",
+    "w2": "베른",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1846,
+    "unigram_w1": 109607,
+    "unigram_w2": 4347,
+    "ppmi": 5.917717252092997
+  }
+]

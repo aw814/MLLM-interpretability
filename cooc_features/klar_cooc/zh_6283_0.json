@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西班牙帝国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 269,
+    "unigram_w2": 32140,
+    "ppmi": 3.7540428964343637
+  },
+  {
+    "w1": "capital",
+    "w2": "马德里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 156,
+    "unigram_w1": 32140,
+    "unigram_w2": 109162,
+    "ppmi": 1.3747962712654838
+  },
+  {
+    "w1": "西班牙帝国",
+    "w2": "马德里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 269,
+    "unigram_w2": 109162,
+    "ppmi": 5.8969045940175855
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "亨利克·亚当·亚历山大·皮乌斯·显克微支",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "波兰",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 142241,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "亨利克·亚当·亚历山大·皮乌斯·显克微支",
+    "w2": "波兰",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 142241,
+    "ppmi": 0.0
+  }
+]

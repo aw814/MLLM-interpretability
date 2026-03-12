@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Elvis Presley",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3779,
+    "unigram_w1": 119616,
+    "unigram_w2": 2654934,
+    "ppmi": 2.62440868275108
+  },
+  {
+    "w1": "instrument",
+    "w2": "guitare",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 278024,
+    "unigram_w1": 2654934,
+    "unigram_w2": 2727417,
+    "ppmi": 4.314416771613615
+  },
+  {
+    "w1": "Elvis Presley",
+    "w2": "guitare",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15770,
+    "unigram_w1": 119616,
+    "unigram_w2": 2727417,
+    "ppmi": 4.646655622626785
+  }
+]

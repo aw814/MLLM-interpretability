@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스코틀랜드",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 134,
+    "unigram_w1": 22938,
+    "unigram_w2": 36855,
+    "ppmi": 1.3063796743808918
+  },
+  {
+    "w1": "capital",
+    "w2": "에든버러",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 344,
+    "unigram_w1": 36855,
+    "unigram_w2": 6662,
+    "ppmi": 4.450267585506671
+  },
+  {
+    "w1": "스코틀랜드",
+    "w2": "에든버러",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1450,
+    "unigram_w1": 22938,
+    "unigram_w2": 6662,
+    "ppmi": 7.209960768121748
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לאציו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 6998,
+    "unigram_w2": 14610,
+    "ppmi": 0.27074123592932015
+  },
+  {
+    "w1": "capital",
+    "w2": "רומא",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 305,
+    "unigram_w1": 14610,
+    "unigram_w2": 60571,
+    "ppmi": 2.0878659133484168
+  },
+  {
+    "w1": "לאציו",
+    "w2": "רומא",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3416,
+    "unigram_w1": 6998,
+    "unigram_w2": 60571,
+    "ppmi": 6.63523434896967
+  }
+]

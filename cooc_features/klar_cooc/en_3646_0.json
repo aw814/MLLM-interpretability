@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Auckland",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3771,
+    "unigram_w1": 440437,
+    "unigram_w2": 965266,
+    "ppmi": 1.6943911659411546
+  },
+  {
+    "w1": "continent",
+    "w2": "Oceania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6254,
+    "unigram_w1": 965266,
+    "unigram_w2": 108914,
+    "ppmi": 4.439969493313735
+  },
+  {
+    "w1": "Auckland",
+    "w2": "Oceania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3987,
+    "unigram_w1": 440437,
+    "unigram_w2": 108914,
+    "ppmi": 4.922484771331864
+  }
+]

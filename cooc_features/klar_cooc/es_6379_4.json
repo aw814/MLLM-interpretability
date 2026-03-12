@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Renania-Palatinado",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4220,
+    "unigram_w1": 28756,
+    "unigram_w2": 42058182,
+    "ppmi": 1.537778131972152
+  },
+  {
+    "w1": "capital",
+    "w2": "Maguncia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9980,
+    "unigram_w1": 42058182,
+    "unigram_w2": 58604,
+    "ppmi": 1.7524388186647133
+  },
+  {
+    "w1": "Renania-Palatinado",
+    "w2": "Maguncia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2520,
+    "unigram_w1": 28756,
+    "unigram_w2": 58604,
+    "ppmi": 10.281130502384004
+  }
+]

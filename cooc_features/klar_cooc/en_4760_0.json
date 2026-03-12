@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aretha Franklin",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1399,
+    "unigram_w1": 39750,
+    "unigram_w2": 2136875,
+    "ppmi": 2.587244834174436
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 179484,
+    "unigram_w1": 2136875,
+    "unigram_w2": 1589230,
+    "ppmi": 4.2693310409674
+  },
+  {
+    "w1": "Aretha Franklin",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4598,
+    "unigram_w1": 39750,
+    "unigram_w2": 1589230,
+    "ppmi": 4.731029922740963
+  }
+]

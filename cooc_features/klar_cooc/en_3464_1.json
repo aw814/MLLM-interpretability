@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Australian Antarctic Territory",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 233,
+    "unigram_w1": 761,
+    "unigram_w2": 965266,
+    "ppmi": 6.854669377547045
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39763,
+    "unigram_w1": 965266,
+    "unigram_w2": 202761,
+    "ppmi": 6.211954205255503
+  },
+  {
+    "w1": "Australian Antarctic Territory",
+    "w2": "Antarctica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 354,
+    "unigram_w1": 761,
+    "unigram_w2": 202761,
+    "ppmi": 9.709235161774847
+  }
+]

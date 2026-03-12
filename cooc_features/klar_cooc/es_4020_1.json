@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Frida Kahlo",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 294636,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 52196598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Frida Kahlo",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59914,
+    "unigram_w1": 294636,
+    "unigram_w2": 52196598,
+    "ppmi": 1.6967882898678743
+  }
+]

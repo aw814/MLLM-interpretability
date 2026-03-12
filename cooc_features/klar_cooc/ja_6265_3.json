@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウルグアイ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 888,
+    "unigram_w1": 136224,
+    "unigram_w2": 498928,
+    "ppmi": 1.1904266235083492
+  },
+  {
+    "w1": "capital",
+    "w2": "モンテビデオ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 498928,
+    "unigram_w2": 8412,
+    "ppmi": 2.622852362837121
+  },
+  {
+    "w1": "ウルグアイ",
+    "w2": "モンテビデオ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5900,
+    "unigram_w1": 136224,
+    "unigram_w2": 8412,
+    "ppmi": 9.812748972128341
+  }
+]

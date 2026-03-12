@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת בריטניה הגדולה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 234,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "לונדון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1124,
+    "unigram_w1": 14610,
+    "unigram_w2": 119995,
+    "ppmi": 2.983351643777872
+  },
+  {
+    "w1": "ממלכת בריטניה הגדולה",
+    "w2": "לונדון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 234,
+    "unigram_w2": 119995,
+    "ppmi": 5.398191662385559
+  }
+]

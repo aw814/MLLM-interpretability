@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Erna Solberg",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8196,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "noruego",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1201186,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Erna Solberg",
+    "w2": "noruego",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2428,
+    "unigram_w1": 8196,
+    "unigram_w2": 1201186,
+    "ppmi": 7.681029693323903
+  }
+]

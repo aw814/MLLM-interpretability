@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Australie-Occidentale",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 959,
+    "unigram_w1": 36505,
+    "unigram_w2": 7952962,
+    "ppmi": 0.775434998157518
+  },
+  {
+    "w1": "capital",
+    "w2": "Perth",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9148,
+    "unigram_w1": 7952962,
+    "unigram_w2": 216188,
+    "ppmi": 1.4631681833092012
+  },
+  {
+    "w1": "Australie-Occidentale",
+    "w2": "Perth",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12175,
+    "unigram_w1": 36505,
+    "unigram_w2": 216188,
+    "ppmi": 9.642816072224317
+  }
+]

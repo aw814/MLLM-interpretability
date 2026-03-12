@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sacro Imperio Romano Germánico",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15724,
+    "unigram_w1": 49592,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6491870965319904
+  },
+  {
+    "w1": "capital",
+    "w2": "Viena",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 404152,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1974546,
+    "ppmi": 2.01777515098572
+  },
+  {
+    "w1": "Sacro Imperio Romano Germánico",
+    "w2": "Viena",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8288,
+    "unigram_w1": 49592,
+    "unigram_w2": 1974546,
+    "ppmi": 6.138108342475884
+  }
+]

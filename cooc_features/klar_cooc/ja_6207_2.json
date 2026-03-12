@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アルバニア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 678,
+    "unigram_w1": 67774,
+    "unigram_w2": 498928,
+    "ppmi": 1.8083292941578348
+  },
+  {
+    "w1": "capital",
+    "w2": "ティラナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 498928,
+    "unigram_w2": 6562,
+    "ppmi": 1.8161063727799844
+  },
+  {
+    "w1": "アルバニア",
+    "w2": "ティラナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4156,
+    "unigram_w1": 67774,
+    "unigram_w2": 6562,
+    "ppmi": 10.672720001972595
+  }
+]

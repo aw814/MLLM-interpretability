@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "爱尔兰共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 998,
+    "unigram_w2": 32140,
+    "ppmi": 2.447571754374884
+  },
+  {
+    "w1": "capital",
+    "w2": "都柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 300,
+    "unigram_w1": 32140,
+    "unigram_w2": 22083,
+    "ppmi": 4.623675392788648
+  },
+  {
+    "w1": "爱尔兰共和国",
+    "w2": "都柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 167,
+    "unigram_w1": 998,
+    "unigram_w2": 22083,
+    "ppmi": 8.787747297992015
+  }
+]

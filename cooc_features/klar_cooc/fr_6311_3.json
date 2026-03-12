@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "royaume de Hongrie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 289,
+    "unigram_w1": 7868,
+    "unigram_w2": 7952962,
+    "ppmi": 1.258998892826268
+  },
+  {
+    "w1": "capital",
+    "w2": "Budapest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26099,
+    "unigram_w1": 7952962,
+    "unigram_w2": 663158,
+    "ppmi": 1.3585682487253785
+  },
+  {
+    "w1": "royaume de Hongrie",
+    "w2": "Budapest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2046,
+    "unigram_w1": 7868,
+    "unigram_w2": 663158,
+    "ppmi": 7.666731373513035
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "우크라이나의 대통령",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 34,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "우크라이나",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 36759,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "우크라이나의 대통령",
+    "w2": "우크라이나",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31,
+    "unigram_w1": 34,
+    "unigram_w2": 36759,
+    "ppmi": 8.596238777272216
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Campanie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1646,
+    "unigram_w1": 94089,
+    "unigram_w2": 7952962,
+    "ppmi": 0.18886462698452813
+  },
+  {
+    "w1": "capital",
+    "w2": "Naples",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21392,
+    "unigram_w1": 7952962,
+    "unigram_w2": 863531,
+    "ppmi": 0.6907497580994081
+  },
+  {
+    "w1": "Campanie",
+    "w2": "Naples",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41506,
+    "unigram_w1": 94089,
+    "unigram_w2": 863531,
+    "ppmi": 8.048320692247062
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "עיראק",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 106,
+    "unigram_w1": 36546,
+    "unigram_w2": 14610,
+    "ppmi": 1.2920346550401745
+  },
+  {
+    "w1": "capital",
+    "w2": "בגדאד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 31,
+    "unigram_w1": 14610,
+    "unigram_w2": 4559,
+    "ppmi": 2.5212347068039174
+  },
+  {
+    "w1": "עיראק",
+    "w2": "בגדאד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2471,
+    "unigram_w1": 36546,
+    "unigram_w2": 4559,
+    "ppmi": 7.515160359631855
+  }
+]

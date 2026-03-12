@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פרידה קאלו",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1784,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פרידה קאלו",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 1784,
+    "unigram_w2": 47368,
+    "ppmi": 3.4135081685097566
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "일리노이주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 3271,
+    "unigram_w2": 36855,
+    "ppmi": 1.5737883814531588
+  },
+  {
+    "w1": "capital",
+    "w2": "스프링필드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 36855,
+    "unigram_w2": 3076,
+    "ppmi": 2.3868301949606834
+  },
+  {
+    "w1": "일리노이주",
+    "w2": "스프링필드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 68,
+    "unigram_w1": 3271,
+    "unigram_w2": 3076,
+    "ppmi": 6.720422216655342
+  }
+]

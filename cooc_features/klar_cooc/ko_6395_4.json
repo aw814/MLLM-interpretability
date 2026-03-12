@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "모스크바주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 100,
+    "unigram_w2": 36855,
+    "ppmi": 4.403814374591562
+  },
+  {
+    "w1": "capital",
+    "w2": "모스크바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 587,
+    "unigram_w1": 36855,
+    "unigram_w2": 31781,
+    "ppmi": 2.967082262747582
+  },
+  {
+    "w1": "모스크바주",
+    "w2": "모스크바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 76,
+    "unigram_w1": 100,
+    "unigram_w2": 31781,
+    "ppmi": 8.543509631277074
+  }
+]

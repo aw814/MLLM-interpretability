@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Annie Lennox",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 8072,
+    "unigram_w2": 1072211,
+    "ppmi": 1.1323747624998979
+  },
+  {
+    "w1": "occupation",
+    "w2": "songwriter",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2625,
+    "unigram_w1": 1072211,
+    "unigram_w2": 689364,
+    "ppmi": 0.3738407762867565
+  },
+  {
+    "w1": "Annie Lennox",
+    "w2": "songwriter",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1125,
+    "unigram_w1": 8072,
+    "unigram_w2": 689364,
+    "ppmi": 6.204895306317757
+  }
+]

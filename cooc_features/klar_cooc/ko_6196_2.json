@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "펜실베이니아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 2259,
+    "unigram_w2": 36855,
+    "ppmi": 0.7541989155281522
+  },
+  {
+    "w1": "capital",
+    "w2": "해리스버그",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 36855,
+    "unigram_w2": 742,
+    "ppmi": 3.5827845156368814
+  },
+  {
+    "w1": "펜실베이니아주",
+    "w2": "해리스버그",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 2259,
+    "unigram_w2": 742,
+    "ppmi": 8.503973494297968
+  }
+]

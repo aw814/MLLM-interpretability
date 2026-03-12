@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "People's Socialist Republic of Albania",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 67,
+    "unigram_w2": 7450623,
+    "ppmi": 4.071346045520858
+  },
+  {
+    "w1": "capital",
+    "w2": "Tirana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5725,
+    "unigram_w1": 7450623,
+    "unigram_w2": 24084,
+    "ppmi": 3.5411458557095132
+  },
+  {
+    "w1": "People's Socialist Republic of Albania",
+    "w2": "Tirana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 67,
+    "unigram_w2": 24084,
+    "ppmi": 12.464782511172148
+  }
+]

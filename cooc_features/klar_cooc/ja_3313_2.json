@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "天使",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1062,
+    "unigram_w1": 2049008,
+    "unigram_w2": 212080,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "神",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15454,
+    "unigram_w1": 212080,
+    "unigram_w2": 36119738,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "天使",
+    "w2": "神",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1093044,
+    "unigram_w1": 2049008,
+    "unigram_w2": 36119738,
+    "ppmi": 1.3672460103549484
+  }
+]

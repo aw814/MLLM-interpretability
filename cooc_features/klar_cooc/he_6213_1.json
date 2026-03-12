@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנדלוסיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 2835,
+    "unigram_w2": 14610,
+    "ppmi": 1.0597619925098203
+  },
+  {
+    "w1": "capital",
+    "w2": "סביליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 396,
+    "unigram_w1": 14610,
+    "unigram_w2": 14577,
+    "ppmi": 4.519490492522975
+  },
+  {
+    "w1": "אנדלוסיה",
+    "w2": "סביליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 648,
+    "unigram_w1": 2835,
+    "unigram_w2": 14577,
+    "ppmi": 7.59551941318926
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Canberra",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 108212,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Australie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3067806,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Canberra",
+    "w2": "Australie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41546,
+    "unigram_w1": 108212,
+    "unigram_w2": 3067806,
+    "ppmi": 6.01906047111073
+  }
+]

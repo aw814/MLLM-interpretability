@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스릅스카 공화국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 60,
+    "unigram_w2": 36855,
+    "ppmi": 4.403814374591562
+  },
+  {
+    "w1": "capital",
+    "w2": "사라예보",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 36855,
+    "unigram_w2": 2252,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "스릅스카 공화국",
+    "w2": "사라예보",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 60,
+    "unigram_w2": 2252,
+    "ppmi": 11.310865118398157
+  }
+]

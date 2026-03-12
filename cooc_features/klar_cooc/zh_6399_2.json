@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威尔斯",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 8839,
+    "unigram_w2": 32140,
+    "ppmi": 2.1752694333774825
+  },
+  {
+    "w1": "capital",
+    "w2": "加迪夫",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 32140,
+    "unigram_w2": 924,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "威尔斯",
+    "w2": "加迪夫",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 8839,
+    "unigram_w2": 924,
+    "ppmi": 4.836171081886584
+  }
+]

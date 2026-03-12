@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "헤르만 폰 헬름홀츠",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 18,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "생리학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 4859,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "헤르만 폰 헬름홀츠",
+    "w2": "생리학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 18,
+    "unigram_w2": 4859,
+    "ppmi": 8.47894648889001
+  }
+]

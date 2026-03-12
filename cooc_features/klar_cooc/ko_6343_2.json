@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "몰타 기사단",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 83,
+    "unigram_w2": 36855,
+    "ppmi": 2.3507030381319995
+  },
+  {
+    "w1": "capital",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 36855,
+    "unigram_w2": 99776,
+    "ppmi": 1.1472432533510242
+  },
+  {
+    "w1": "몰타 기사단",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 83,
+    "unigram_w2": 99776,
+    "ppmi": 6.161798076848483
+  }
+]

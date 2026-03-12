@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "レソト",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 56,
+    "unigram_w1": 19420,
+    "unigram_w2": 48638,
+    "ppmi": 3.3724072984871394
+  },
+  {
+    "w1": "continent",
+    "w2": "アフリカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2966,
+    "unigram_w1": 48638,
+    "unigram_w2": 1832838,
+    "ppmi": 2.5389629945862024
+  },
+  {
+    "w1": "レソト",
+    "w2": "アフリカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15670,
+    "unigram_w1": 19420,
+    "unigram_w2": 1832838,
+    "ppmi": 6.264918376954133
+  }
+]

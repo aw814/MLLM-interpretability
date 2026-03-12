@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "וירג'יניה המערבית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 509,
+    "unigram_w2": 14610,
+    "ppmi": 2.314980744927268
+  },
+  {
+    "w1": "capital",
+    "w2": "צ'ארלסטון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 394,
+    "ppmi": 3.099488270825431
+  },
+  {
+    "w1": "וירג'יניה המערבית",
+    "w2": "צ'ארלסטון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 509,
+    "unigram_w2": 394,
+    "ppmi": 11.112559983882909
+  }
+]

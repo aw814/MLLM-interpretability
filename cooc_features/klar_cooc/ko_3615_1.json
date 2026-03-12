@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "뭄바이",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 7596,
+    "unigram_w2": 2712,
+    "ppmi": 2.9210776490511283
+  },
+  {
+    "w1": "continent",
+    "w2": "아시아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 2712,
+    "unigram_w2": 363737,
+    "ppmi": 1.4933710139784397
+  },
+  {
+    "w1": "뭄바이",
+    "w2": "아시아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1596,
+    "unigram_w1": 7596,
+    "unigram_w2": 363737,
+    "ppmi": 3.171999792221234
+  }
+]

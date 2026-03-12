@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "British India",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4989,
+    "unigram_w1": 20716,
+    "unigram_w2": 7450623,
+    "ppmi": 3.559950390799195
+  },
+  {
+    "w1": "capital",
+    "w2": "Kolkata",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24495,
+    "unigram_w1": 7450623,
+    "unigram_w2": 278121,
+    "ppmi": 2.108719794710327
+  },
+  {
+    "w1": "British India",
+    "w2": "Kolkata",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1304,
+    "unigram_w1": 20716,
+    "unigram_w2": 278121,
+    "ppmi": 6.367720068657693
+  }
+]

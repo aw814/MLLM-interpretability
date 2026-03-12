@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "메카주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 8,
+    "unigram_w2": 36855,
+    "ppmi": 5.7257424694789245
+  },
+  {
+    "w1": "capital",
+    "w2": "메카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 36855,
+    "unigram_w2": 15338,
+    "ppmi": 0.887008905642487
+  },
+  {
+    "w1": "메카주",
+    "w2": "메카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 8,
+    "unigram_w2": 15338,
+    "ppmi": 7.990492453155398
+  }
+]

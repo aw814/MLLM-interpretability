@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "터키",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 556,
+    "unigram_w1": 74816,
+    "unigram_w2": 36855,
+    "ppmi": 1.6536243276707754
+  },
+  {
+    "w1": "capital",
+    "w2": "앙카라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 36855,
+    "unigram_w2": 2865,
+    "ppmi": 3.1240660951964982
+  },
+  {
+    "w1": "터키",
+    "w2": "앙카라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1803,
+    "unigram_w1": 74816,
+    "unigram_w2": 2865,
+    "ppmi": 7.036120250706026
+  }
+]

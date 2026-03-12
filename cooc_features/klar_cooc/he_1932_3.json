@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנכסגורס",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 73,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "אסטרונומיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 7376,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אנכסגורס",
+    "w2": "אסטרונומיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 73,
+    "unigram_w2": 7376,
+    "ppmi": 6.839689243550675
+  }
+]

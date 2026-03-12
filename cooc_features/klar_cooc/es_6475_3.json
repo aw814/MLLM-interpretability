@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Misisipi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12932,
+    "unigram_w1": 91166,
+    "unigram_w2": 42058182,
+    "ppmi": 1.4887757720569035
+  },
+  {
+    "w1": "capital",
+    "w2": "Jackson",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 256950,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2895626,
+    "ppmi": 0.812010518517956
+  },
+  {
+    "w1": "Misisipi",
+    "w2": "Jackson",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8856,
+    "unigram_w1": 91166,
+    "unigram_w2": 2895626,
+    "ppmi": 4.802996795829477
+  }
+]

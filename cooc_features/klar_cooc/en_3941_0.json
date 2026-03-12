@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Belmopan",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6066,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Belize",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 171788,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Belmopan",
+    "w2": "Belize",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5245,
+    "unigram_w1": 6066,
+    "unigram_w2": 171788,
+    "ppmi": 10.842730451702915
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フランス",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22274,
+    "unigram_w1": 6159866,
+    "unigram_w2": 498928,
+    "ppmi": 0.34023763772681537
+  },
+  {
+    "w1": "capital",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10346,
+    "unigram_w1": 498928,
+    "unigram_w2": 2419066,
+    "ppmi": 0.582398907544786
+  },
+  {
+    "w1": "フランス",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1181168,
+    "unigram_w1": 6159866,
+    "unigram_w2": 2419066,
+    "ppmi": 3.791400751497126
+  }
+]

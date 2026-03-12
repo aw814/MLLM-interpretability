@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Telingana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 50,
+    "unigram_w2": 42058182,
+    "ppmi": 2.832395048420991
+  },
+  {
+    "w1": "capital",
+    "w2": "Hyderabad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 31960,
+    "unigram_w1": 42058182,
+    "unigram_w2": 216238,
+    "ppmi": 1.5480454766697402
+  },
+  {
+    "w1": "Telingana",
+    "w2": "Hyderabad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 50,
+    "unigram_w2": 216238,
+    "ppmi": 10.725524271649407
+  }
+]

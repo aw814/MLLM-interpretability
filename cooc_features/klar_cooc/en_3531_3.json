@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Antarctic Plate",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 113,
+    "unigram_w1": 311,
+    "unigram_w2": 965266,
+    "ppmi": 7.101644068680895
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39763,
+    "unigram_w1": 965266,
+    "unigram_w2": 202761,
+    "ppmi": 6.211954205255503
+  },
+  {
+    "w1": "Antarctic Plate",
+    "w2": "Antarctica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 166,
+    "unigram_w1": 311,
+    "unigram_w2": 202761,
+    "ppmi": 9.907650916411717
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rhode Island",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23262,
+    "unigram_w1": 406923,
+    "unigram_w2": 7450623,
+    "ppmi": 1.485164499592777
+  },
+  {
+    "w1": "capital",
+    "w2": "Providence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25213,
+    "unigram_w1": 7450623,
+    "unigram_w2": 412860,
+    "ppmi": 1.5804603247286935
+  },
+  {
+    "w1": "Rhode Island",
+    "w2": "Providence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 77915,
+    "unigram_w1": 406923,
+    "unigram_w2": 412860,
+    "ppmi": 7.402726967729991
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ケニア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1756,
+    "unigram_w1": 180212,
+    "unigram_w2": 498928,
+    "ppmi": 1.770373706164078
+  },
+  {
+    "w1": "capital",
+    "w2": "ナイロビ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 498928,
+    "unigram_w2": 39920,
+    "ppmi": 2.1947140282852122
+  },
+  {
+    "w1": "ケニア",
+    "w2": "ナイロビ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23884,
+    "unigram_w1": 180212,
+    "unigram_w2": 39920,
+    "ppmi": 9.179701440345303
+  }
+]

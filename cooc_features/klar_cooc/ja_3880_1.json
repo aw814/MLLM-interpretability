@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "サラゴサ",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 18344,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "アラゴン州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2158,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "サラゴサ",
+    "w2": "アラゴン州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 702,
+    "unigram_w1": 18344,
+    "unigram_w2": 2158,
+    "ppmi": 11.596931673741013
+  }
+]

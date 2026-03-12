@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ビシュケク",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5170,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "キルギス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 55352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ビシュケク",
+    "w2": "キルギス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4066,
+    "unigram_w1": 5170,
+    "unigram_w2": 55352,
+    "ppmi": 11.27720235163111
+  }
+]

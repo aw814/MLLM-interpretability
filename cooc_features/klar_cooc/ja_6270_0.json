@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アメリカ連合国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 2922,
+    "unigram_w2": 498928,
+    "ppmi": 2.1868191825800376
+  },
+  {
+    "w1": "capital",
+    "w2": "モンゴメリー",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 196,
+    "unigram_w1": 498928,
+    "unigram_w2": 28384,
+    "ppmi": 1.273551681754095
+  },
+  {
+    "w1": "アメリカ連合国",
+    "w2": "モンゴメリー",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 184,
+    "unigram_w1": 2922,
+    "unigram_w2": 28384,
+    "ppmi": 8.598135441457714
+  }
+]

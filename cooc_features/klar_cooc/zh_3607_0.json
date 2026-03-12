@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿拉伯联合酋长国",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 12286,
+    "unigram_w2": 1361,
+    "ppmi": 4.972333549527841
+  },
+  {
+    "w1": "continent",
+    "w2": "亚洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1361,
+    "unigram_w2": 3645973,
+    "ppmi": 0.30350928675278604
+  },
+  {
+    "w1": "阿拉伯联合酋长国",
+    "w2": "亚洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1933,
+    "unigram_w1": 12286,
+    "unigram_w2": 3645973,
+    "ppmi": 1.3316133748379728
+  }
+]

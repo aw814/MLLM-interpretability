@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フリーダ・カーロ",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5370,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 570272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フリーダ・カーロ",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 638,
+    "unigram_w1": 5370,
+    "unigram_w2": 570272,
+    "ppmi": 5.185519809941903
+  }
+]

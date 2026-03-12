@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "핀란드",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 287,
+    "unigram_w1": 38019,
+    "unigram_w2": 36855,
+    "ppmi": 1.6762164308052854
+  },
+  {
+    "w1": "capital",
+    "w2": "헬싱키",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 93,
+    "unigram_w1": 36855,
+    "unigram_w2": 7616,
+    "ppmi": 2.3700835172790122
+  },
+  {
+    "w1": "핀란드",
+    "w2": "헬싱키",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3665,
+    "unigram_w1": 38019,
+    "unigram_w2": 7616,
+    "ppmi": 7.6256619618135115
+  }
+]

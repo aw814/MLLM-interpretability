@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モンロビア",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2194,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "リベリア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 33606,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "モンロビア",
+    "w2": "リベリア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1474,
+    "unigram_w1": 2194,
+    "unigram_w2": 33606,
+    "ppmi": 11.769846027528626
+  }
+]

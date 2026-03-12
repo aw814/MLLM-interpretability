@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "葡萄牙",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 72,
+    "unigram_w1": 181117,
+    "unigram_w2": 1361,
+    "ppmi": 4.0904987762001195
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "葡萄牙",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47825,
+    "unigram_w1": 181117,
+    "unigram_w2": 1834429,
+    "ppmi": 3.0696028376647795
+  }
+]

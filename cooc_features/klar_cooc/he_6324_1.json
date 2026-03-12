@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת בוואריה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 136,
+    "unigram_w2": 14610,
+    "ppmi": 2.634077249031468
+  },
+  {
+    "w1": "capital",
+    "w2": "מינכן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 456,
+    "unigram_w1": 14610,
+    "unigram_w2": 38362,
+    "ppmi": 3.3270397877823052
+  },
+  {
+    "w1": "ממלכת בוואריה",
+    "w2": "מינכן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 136,
+    "unigram_w2": 38362,
+    "ppmi": 6.48928300350167
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הרפובליקה הסובייטית הסוציאליסטית הבלארוסית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 54,
+    "unigram_w2": 14610,
+    "ppmi": 3.9666525881183388
+  },
+  {
+    "w1": "capital",
+    "w2": "מינסק",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 298,
+    "unigram_w1": 14610,
+    "unigram_w2": 5268,
+    "ppmi": 5.577668980487455
+  },
+  {
+    "w1": "הרפובליקה הסובייטית הסוציאליסטית הבלארוסית",
+    "w2": "מינסק",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 54,
+    "unigram_w2": 5268,
+    "ppmi": 10.245636437610289
+  }
+]

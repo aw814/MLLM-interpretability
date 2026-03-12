@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גוגל כרום",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 2689,
+    "unigram_w2": 7399,
+    "ppmi": 3.8338019807165207
+  },
+  {
+    "w1": "developer",
+    "w2": "חברת גוגל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 7399,
+    "unigram_w2": 4201,
+    "ppmi": 2.3670167121869556
+  },
+  {
+    "w1": "גוגל כרום",
+    "w2": "חברת גוגל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 111,
+    "unigram_w1": 2689,
+    "unigram_w2": 4201,
+    "ppmi": 6.921253403963384
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Austria-Hungary",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4413,
+    "unigram_w1": 22906,
+    "unigram_w2": 7450623,
+    "ppmi": 3.2379793848360983
+  },
+  {
+    "w1": "capital",
+    "w2": "Vienna",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61478,
+    "unigram_w1": 7450623,
+    "unigram_w2": 591318,
+    "ppmi": 2.348081223033788
+  },
+  {
+    "w1": "Austria-Hungary",
+    "w2": "Vienna",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4097,
+    "unigram_w1": 22906,
+    "unigram_w2": 591318,
+    "ppmi": 6.786142495829584
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jack Huston",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 11196,
+    "unigram_w2": 77008,
+    "ppmi": 1.9487929111480504
+  },
+  {
+    "w1": "occupation",
+    "w2": "actor",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4374,
+    "unigram_w1": 77008,
+    "unigram_w2": 11074310,
+    "ppmi": 2.0935127110606873
+  },
+  {
+    "w1": "Jack Huston",
+    "w2": "actor",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3570,
+    "unigram_w1": 11196,
+    "unigram_w2": 11074310,
+    "ppmi": 4.582508501321013
+  }
+]

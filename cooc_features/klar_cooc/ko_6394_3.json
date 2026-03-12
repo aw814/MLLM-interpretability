@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "보헤미아 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 98,
+    "unigram_w2": 36855,
+    "ppmi": 2.1110326253637157
+  },
+  {
+    "w1": "capital",
+    "w2": "프라하",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 99,
+    "unigram_w1": 36855,
+    "unigram_w2": 17713,
+    "ppmi": 1.242578132104221
+  },
+  {
+    "w1": "보헤미아 왕국",
+    "w2": "프라하",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 98,
+    "unigram_w2": 17713,
+    "ppmi": 8.416011919323672
+  }
+]

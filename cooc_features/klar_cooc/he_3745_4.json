@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גוגל גלאס",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 641,
+    "unigram_w2": 7399,
+    "ppmi": 2.963876018634796
+  },
+  {
+    "w1": "developer",
+    "w2": "חברת גוגל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 7399,
+    "unigram_w2": 4201,
+    "ppmi": 2.3670167121869556
+  },
+  {
+    "w1": "גוגל גלאס",
+    "w2": "חברת גוגל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 641,
+    "unigram_w2": 4201,
+    "ppmi": 7.102401626475928
+  }
+]

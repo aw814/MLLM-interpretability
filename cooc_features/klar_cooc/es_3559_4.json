@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Portugal",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5344,
+    "unigram_w1": 9169108,
+    "unigram_w2": 91062,
+    "ppmi": 2.413002197903265
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Portugal",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2355368,
+    "unigram_w1": 9169108,
+    "unigram_w2": 39895658,
+    "ppmi": 2.421652077396149
+  }
+]

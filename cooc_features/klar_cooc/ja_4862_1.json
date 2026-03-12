@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リオネル・メッシ",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 20810,
+    "unigram_w2": 4,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4,
+    "unigram_w2": 570272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "リオネル・メッシ",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 796,
+    "unigram_w1": 20810,
+    "unigram_w2": 570272,
+    "ppmi": 3.5504488449707603
+  }
+]

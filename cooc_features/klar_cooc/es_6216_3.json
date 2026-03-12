@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indonesia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 621376,
+    "unigram_w1": 3373450,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8656398828953287
+  },
+  {
+    "w1": "capital",
+    "w2": "Yakarta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48868,
+    "unigram_w1": 42058182,
+    "unigram_w2": 203694,
+    "ppmi": 2.246884718109468
+  },
+  {
+    "w1": "Indonesia",
+    "w2": "Yakarta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123958,
+    "unigram_w1": 3373450,
+    "unigram_w2": 203694,
+    "ppmi": 7.229863940533394
+  }
+]

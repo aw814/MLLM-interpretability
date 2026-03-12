@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nouvelle-Écosse",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12040,
+    "unigram_w1": 246483,
+    "unigram_w2": 7952962,
+    "ppmi": 1.6702736028519631
+  },
+  {
+    "w1": "capital",
+    "w2": "Halifax",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11006,
+    "unigram_w1": 7952962,
+    "unigram_w2": 227555,
+    "ppmi": 1.6560013049226947
+  },
+  {
+    "w1": "Nouvelle-Écosse",
+    "w2": "Halifax",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48373,
+    "unigram_w1": 246483,
+    "unigram_w2": 227555,
+    "ppmi": 8.803845310395433
+  }
+]

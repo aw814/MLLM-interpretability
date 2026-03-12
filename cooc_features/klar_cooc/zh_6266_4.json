@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿契美尼德王朝",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 548,
+    "unigram_w2": 32140,
+    "ppmi": 2.727473176030461
+  },
+  {
+    "w1": "capital",
+    "w2": "巴比伦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 32140,
+    "unigram_w2": 30922,
+    "ppmi": 0.36859086391413876
+  },
+  {
+    "w1": "阿契美尼德王朝",
+    "w2": "巴比伦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50,
+    "unigram_w1": 548,
+    "unigram_w2": 30922,
+    "ppmi": 7.427065660653496
+  }
+]

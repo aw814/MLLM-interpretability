@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Janet Jackson",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 65,
+    "unigram_w1": 21623,
+    "unigram_w2": 1072211,
+    "ppmi": 0.03273423880837573
+  },
+  {
+    "w1": "occupation",
+    "w2": "model",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82756,
+    "unigram_w1": 1072211,
+    "unigram_w2": 13393201,
+    "ppmi": 1.072224324540637
+  },
+  {
+    "w1": "Janet Jackson",
+    "w2": "model",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1193,
+    "unigram_w1": 21623,
+    "unigram_w2": 13393201,
+    "ppmi": 0.587904691060361
+  }
+]

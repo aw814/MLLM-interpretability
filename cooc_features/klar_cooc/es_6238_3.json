@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Campania",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41108,
+    "unigram_w1": 174298,
+    "unigram_w2": 42058182,
+    "ppmi": 2.2222613097907806
+  },
+  {
+    "w1": "capital",
+    "w2": "Nápoles",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212026,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1163180,
+    "ppmi": 1.8505649615693602
+  },
+  {
+    "w1": "Campania",
+    "w2": "Nápoles",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54212,
+    "unigram_w1": 174298,
+    "unigram_w2": 1163180,
+    "ppmi": 7.7976945748327635
+  }
+]

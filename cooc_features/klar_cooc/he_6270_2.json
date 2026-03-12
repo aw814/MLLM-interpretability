@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קונפדרציית המדינות של אמריקה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 205,
+    "unigram_w2": 14610,
+    "ppmi": 2.042059990776361
+  },
+  {
+    "w1": "capital",
+    "w2": "מונטגומרי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 14610,
+    "unigram_w2": 3227,
+    "ppmi": 2.065562227794865
+  },
+  {
+    "w1": "קונפדרציית המדינות של אמריקה",
+    "w2": "מונטגומרי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 205,
+    "unigram_w2": 3227,
+    "ppmi": 8.864606875755005
+  }
+]

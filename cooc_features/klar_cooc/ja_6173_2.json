@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "デンマーク",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3578,
+    "unigram_w1": 682736,
+    "unigram_w2": 498928,
+    "ppmi": 0.8756015037759916
+  },
+  {
+    "w1": "capital",
+    "w2": "コペンハーゲン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1636,
+    "unigram_w1": 498928,
+    "unigram_w2": 147458,
+    "ppmi": 1.9576445957682571
+  },
+  {
+    "w1": "デンマーク",
+    "w2": "コペンハーゲン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64680,
+    "unigram_w1": 682736,
+    "unigram_w2": 147458,
+    "ppmi": 6.8102234315369765
+  }
+]

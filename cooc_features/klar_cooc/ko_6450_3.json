@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "청나라",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47,
+    "unigram_w1": 14380,
+    "unigram_w2": 36855,
+    "ppmi": 0.4685552658299013
+  },
+  {
+    "w1": "capital",
+    "w2": "베이징시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 36855,
+    "unigram_w2": 1865,
+    "ppmi": 2.1087100677799095
+  },
+  {
+    "w1": "청나라",
+    "w2": "베이징시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 79,
+    "unigram_w1": 14380,
+    "unigram_w2": 1865,
+    "ppmi": 5.5223599851574505
+  }
+]

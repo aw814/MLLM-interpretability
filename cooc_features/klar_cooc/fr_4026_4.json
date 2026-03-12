@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Christoph Willibald Gluck",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4404,
+    "unigram_w2": 21,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "allemand",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 21,
+    "unigram_w2": 7107382,
+    "ppmi": 3.3806735663367227
+  },
+  {
+    "w1": "Christoph Willibald Gluck",
+    "w2": "allemand",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 839,
+    "unigram_w1": 4404,
+    "unigram_w2": 7107382,
+    "ppmi": 3.795956735269781
+  }
+]

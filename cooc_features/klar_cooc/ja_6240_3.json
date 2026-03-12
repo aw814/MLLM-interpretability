@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マイアミ・デイド郡",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 630,
+    "unigram_w2": 498928,
+    "ppmi": 3.152424113552672
+  },
+  {
+    "w1": "capital",
+    "w2": "マイアミ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2262,
+    "unigram_w1": 498928,
+    "unigram_w2": 255490,
+    "ppmi": 1.6321080469944231
+  },
+  {
+    "w1": "マイアミ・デイド郡",
+    "w2": "マイアミ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 630,
+    "unigram_w1": 630,
+    "unigram_w2": 255490,
+    "ppmi": 9.417196943569914
+  }
+]

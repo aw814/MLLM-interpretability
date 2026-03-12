@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mac OS",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11186,
+    "unigram_w1": 296626,
+    "unigram_w2": 270510,
+    "ppmi": 4.6059029220575445
+  },
+  {
+    "w1": "developer",
+    "w2": "アップル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8810,
+    "unigram_w1": 270510,
+    "unigram_w2": 1680756,
+    "ppmi": 1.7590292753601282
+  },
+  {
+    "w1": "Mac OS",
+    "w2": "アップル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35426,
+    "unigram_w1": 296626,
+    "unigram_w2": 1680756,
+    "ppmi": 3.633660797344099
+  }
+]

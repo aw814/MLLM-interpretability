@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スウェーデン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5194,
+    "unigram_w1": 952342,
+    "unigram_w2": 498928,
+    "ppmi": 0.9331421966194646
+  },
+  {
+    "w1": "capital",
+    "w2": "ストックホルム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1842,
+    "unigram_w1": 498928,
+    "unigram_w2": 152664,
+    "ppmi": 2.0786891061268786
+  },
+  {
+    "w1": "スウェーデン",
+    "w2": "ストックホルム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 70240,
+    "unigram_w1": 952342,
+    "unigram_w2": 152664,
+    "ppmi": 6.398988861024682
+  }
+]

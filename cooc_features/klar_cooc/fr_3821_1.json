@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Beyrouth",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 482195,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Liban",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1484874,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Beyrouth",
+    "w2": "Liban",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 243045,
+    "unigram_w1": 482195,
+    "unigram_w2": 1484874,
+    "ppmi": 7.458612978361042
+  }
+]

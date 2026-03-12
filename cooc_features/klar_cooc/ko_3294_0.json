@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "인텔 8008",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 6,
+    "unigram_w2": 23994,
+    "ppmi": 6.759966640197166
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "인텔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 101,
+    "unigram_w1": 23994,
+    "unigram_w2": 52059,
+    "ppmi": 0.3352806448046344
+  },
+  {
+    "w1": "인텔 8008",
+    "w2": "인텔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 6,
+    "unigram_w2": 52059,
+    "ppmi": 8.227455228584125
+  }
+]

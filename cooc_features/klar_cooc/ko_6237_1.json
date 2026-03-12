@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이라크",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 326,
+    "unigram_w1": 45381,
+    "unigram_w2": 36855,
+    "ppmi": 1.6046698440717342
+  },
+  {
+    "w1": "capital",
+    "w2": "바그다드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 36855,
+    "unigram_w2": 3496,
+    "ppmi": 2.6266783419498214
+  },
+  {
+    "w1": "이라크",
+    "w2": "바그다드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2169,
+    "unigram_w1": 45381,
+    "unigram_w2": 3496,
+    "ppmi": 7.736839295983016
+  }
+]

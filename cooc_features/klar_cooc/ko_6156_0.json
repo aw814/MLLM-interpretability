@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이탈리아 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 340,
+    "unigram_w2": 36855,
+    "ppmi": 1.9013140340623786
+  },
+  {
+    "w1": "capital",
+    "w2": "피렌체",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 361,
+    "unigram_w1": 36855,
+    "unigram_w2": 16310,
+    "ppmi": 3.2281283347668484
+  },
+  {
+    "w1": "이탈리아 왕국",
+    "w2": "피렌체",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 340,
+    "unigram_w2": 16310,
+    "ppmi": 6.399345705321178
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "וסטמינסטר",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1962,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "ממלכת אנגליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 768,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "וסטמינסטר",
+    "w2": "ממלכת אנגליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 1962,
+    "unigram_w2": 768,
+    "ppmi": 9.318539039894521
+  }
+]

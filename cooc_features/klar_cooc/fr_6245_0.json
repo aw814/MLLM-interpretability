@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lviv",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1204,
+    "unigram_w1": 48512,
+    "unigram_w2": 7952962,
+    "ppmi": 0.6934200911927297
+  },
+  {
+    "w1": "capital",
+    "w2": "Lviv",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1204,
+    "unigram_w1": 7952962,
+    "unigram_w2": 48512,
+    "ppmi": 0.6934200911927297
+  },
+  {
+    "w1": "Lviv",
+    "w2": "Lviv",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48512,
+    "unigram_w1": 48512,
+    "unigram_w2": 48512,
+    "ppmi": 13.382861261367482
+  }
+]

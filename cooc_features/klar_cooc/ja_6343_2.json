@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マルタ騎士団",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 4418,
+    "unigram_w2": 498928,
+    "ppmi": 1.2493450241931945
+  },
+  {
+    "w1": "capital",
+    "w2": "ローマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7294,
+    "unigram_w1": 498928,
+    "unigram_w2": 1666030,
+    "ppmi": 0.6161436675800324
+  },
+  {
+    "w1": "マルタ騎士団",
+    "w2": "ローマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2260,
+    "unigram_w1": 4418,
+    "unigram_w2": 1666030,
+    "ppmi": 5.745050647756507
+  }
+]

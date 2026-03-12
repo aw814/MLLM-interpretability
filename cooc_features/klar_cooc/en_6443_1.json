@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Piedmont",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10039,
+    "unigram_w1": 138348,
+    "unigram_w2": 7450623,
+    "ppmi": 1.8292589643728618
+  },
+  {
+    "w1": "capital",
+    "w2": "Turin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10685,
+    "unigram_w1": 7450623,
+    "unigram_w2": 118542,
+    "ppmi": 2.1421337895521586
+  },
+  {
+    "w1": "Piedmont",
+    "w2": "Turin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6786,
+    "unigram_w1": 138348,
+    "unigram_w2": 118542,
+    "ppmi": 7.2381675882281975
+  }
+]

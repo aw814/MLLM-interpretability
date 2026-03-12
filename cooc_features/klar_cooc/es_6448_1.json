@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Federal Socialista de Yugoslavia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1292,
+    "unigram_w1": 3532,
+    "unigram_w2": 42058182,
+    "ppmi": 2.855446963798862
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrado",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 75900,
+    "unigram_w1": 42058182,
+    "unigram_w2": 334482,
+    "ppmi": 2.166569452542783
+  },
+  {
+    "w1": "República Federal Socialista de Yugoslavia",
+    "w2": "Belgrado",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1098,
+    "unigram_w1": 3532,
+    "unigram_w2": 334482,
+    "ppmi": 9.595033052641758
+  }
+]

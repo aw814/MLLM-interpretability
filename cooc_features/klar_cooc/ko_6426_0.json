@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아키텐",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 430,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "보르도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 36855,
+    "unigram_w2": 8047,
+    "ppmi": 0.6583977477320858
+  },
+  {
+    "w1": "아키텐",
+    "w2": "보르도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 430,
+    "unigram_w2": 8047,
+    "ppmi": 9.476667788681894
+  }
+]

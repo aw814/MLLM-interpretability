@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポール・ランジュバン",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 134,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "物理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 494366,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ポール・ランジュバン",
+    "w2": "物理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 134,
+    "unigram_w2": 494366,
+    "ppmi": 8.126715506808033
+  }
+]

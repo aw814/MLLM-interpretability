@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Siri",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6176,
+    "unigram_w1": 507386,
+    "unigram_w2": 576918,
+    "ppmi": 4.1339354899725445
+  },
+  {
+    "w1": "developer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 57884,
+    "unigram_w1": 576918,
+    "unigram_w2": 8141772,
+    "ppmi": 3.3581682496086063
+  },
+  {
+    "w1": "Siri",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 240608,
+    "unigram_w1": 507386,
+    "unigram_w2": 8141772,
+    "ppmi": 5.598898899264394
+  }
+]

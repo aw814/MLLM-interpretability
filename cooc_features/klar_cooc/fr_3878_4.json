@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vientiane",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 60219,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Laos",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 566401,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vientiane",
+    "w2": "Laos",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44651,
+    "unigram_w1": 60219,
+    "unigram_w2": 566401,
+    "ppmi": 9.40592474794689
+  }
+]

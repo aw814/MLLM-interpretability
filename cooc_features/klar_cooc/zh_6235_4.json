@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "京都府",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 13193,
+    "unigram_w2": 32140,
+    "ppmi": 0.30794521978214523
+  },
+  {
+    "w1": "capital",
+    "w2": "京都市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 32140,
+    "unigram_w2": 17927,
+    "ppmi": 0.28062130005707175
+  },
+  {
+    "w1": "京都府",
+    "w2": "京都市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6009,
+    "unigram_w1": 13193,
+    "unigram_w2": 17927,
+    "ppmi": 10.53316527378108
+  }
+]

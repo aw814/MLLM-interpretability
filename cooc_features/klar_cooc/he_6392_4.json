@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קולומביה הבריטית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 302,
+    "unigram_w1": 2857,
+    "unigram_w2": 14610,
+    "ppmi": 6.479659508670514
+  },
+  {
+    "w1": "capital",
+    "w2": "ויקטוריה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 426,
+    "unigram_w1": 14610,
+    "unigram_w2": 37255,
+    "ppmi": 3.2711032680378422
+  },
+  {
+    "w1": "קולומביה הבריטית",
+    "w2": "ויקטוריה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 769,
+    "unigram_w1": 2857,
+    "unigram_w2": 37255,
+    "ppmi": 6.4776166725283195
+  }
+]

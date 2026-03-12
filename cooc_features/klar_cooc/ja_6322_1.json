@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イギリス委任統治領パレスチナ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 424,
+    "unigram_w2": 498928,
+    "ppmi": 3.893636678819064
+  },
+  {
+    "w1": "capital",
+    "w2": "エルサレム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1084,
+    "unigram_w1": 498928,
+    "unigram_w2": 160640,
+    "ppmi": 1.240309524455688
+  },
+  {
+    "w1": "イギリス委任統治領パレスチナ",
+    "w2": "エルサレム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 202,
+    "unigram_w1": 424,
+    "unigram_w2": 160640,
+    "ppmi": 9.016923621855724
+  }
+]

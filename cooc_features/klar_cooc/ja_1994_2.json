@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エドガー・アラン・ポー",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 10778,
+    "unigram_w2": 62696,
+    "ppmi": 1.6331790901569947
+  },
+  {
+    "w1": "occupation",
+    "w2": "劇作家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 62696,
+    "unigram_w2": 117094,
+    "ppmi": 1.3615983357875499
+  },
+  {
+    "w1": "エドガー・アラン・ポー",
+    "w2": "劇作家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 372,
+    "unigram_w1": 10778,
+    "unigram_w2": 117094,
+    "ppmi": 5.6861535550220434
+  }
+]

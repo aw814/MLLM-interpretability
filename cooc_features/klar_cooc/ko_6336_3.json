@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "버지니아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33,
+    "unigram_w1": 3736,
+    "unigram_w2": 36855,
+    "ppmi": 1.9028578491277157
+  },
+  {
+    "w1": "capital",
+    "w2": "리치먼드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 36855,
+    "unigram_w2": 2686,
+    "ppmi": 2.2413894756600006
+  },
+  {
+    "w1": "버지니아주",
+    "w2": "리치먼드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 113,
+    "unigram_w1": 3736,
+    "unigram_w2": 2686,
+    "ppmi": 7.456971840727691
+  }
+]

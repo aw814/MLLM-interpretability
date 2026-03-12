@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "노스캐롤라이나주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 1965,
+    "unigram_w2": 36855,
+    "ppmi": 1.7854288723329554
+  },
+  {
+    "w1": "capital",
+    "w2": "롤리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 345,
+    "unigram_w1": 36855,
+    "unigram_w2": 3762,
+    "ppmi": 5.278910887621261
+  },
+  {
+    "w1": "노스캐롤라이나주",
+    "w2": "롤리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 110,
+    "unigram_w1": 1965,
+    "unigram_w2": 3762,
+    "ppmi": 7.859077190305103
+  }
+]

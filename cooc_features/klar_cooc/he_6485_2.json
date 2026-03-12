@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נורפוק",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 611,
+    "unigram_w2": 14610,
+    "ppmi": 3.925943139100375
+  },
+  {
+    "w1": "capital",
+    "w2": "נוריץ'",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 2406,
+    "ppmi": 0.4891191631057307
+  },
+  {
+    "w1": "נורפוק",
+    "w2": "נוריץ'",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 611,
+    "unigram_w2": 2406,
+    "ppmi": 7.316686664421447
+  }
+]

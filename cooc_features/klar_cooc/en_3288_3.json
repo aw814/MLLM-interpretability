@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ferrari 458",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 693,
+    "unigram_w1": 8997,
+    "unigram_w2": 3911896,
+    "ppmi": 2.844849563237683
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Ferrari",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16719,
+    "unigram_w1": 3911896,
+    "unigram_w2": 289415,
+    "ppmi": 2.4297870962529564
+  },
+  {
+    "w1": "Ferrari 458",
+    "w2": "Ferrari",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8997,
+    "unigram_w1": 8997,
+    "unigram_w2": 289415,
+    "ppmi": 10.300022742702298
+  }
+]

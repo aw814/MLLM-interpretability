@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "연합군의 독일 점령 지역",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "베를린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 326,
+    "unigram_w1": 36855,
+    "unigram_w2": 52811,
+    "ppmi": 1.38591978441411
+  },
+  {
+    "w1": "연합군의 독일 점령 지역",
+    "w2": "베를린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 10,
+    "unigram_w2": 52811,
+    "ppmi": 7.692191195323958
+  }
+]

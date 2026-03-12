@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リバーサイド郡",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 620,
+    "unigram_w2": 498928,
+    "ppmi": 3.3454327281080256
+  },
+  {
+    "w1": "capital",
+    "w2": "リバーサイド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 518,
+    "unigram_w1": 498928,
+    "unigram_w2": 99446,
+    "ppmi": 0.8668146971348845
+  },
+  {
+    "w1": "リバーサイド郡",
+    "w2": "リバーサイド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 620,
+    "unigram_w1": 620,
+    "unigram_w2": 99446,
+    "ppmi": 10.778478520013643
+  }
+]

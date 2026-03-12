@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "网球",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 512874,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "英格兰",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 120875,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "网球",
+    "w2": "英格兰",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3293,
+    "unigram_w1": 512874,
+    "unigram_w2": 120875,
+    "ppmi": 1.631373089414437
+  }
+]

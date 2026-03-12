@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Devon",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13224,
+    "unigram_w1": 392749,
+    "unigram_w2": 7450623,
+    "ppmi": 0.7214962125787879
+  },
+  {
+    "w1": "capital",
+    "w2": "Exeter",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9604,
+    "unigram_w1": 7450623,
+    "unigram_w2": 215623,
+    "ppmi": 1.1251414185183328
+  },
+  {
+    "w1": "Devon",
+    "w2": "Exeter",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40652,
+    "unigram_w1": 392749,
+    "unigram_w2": 215623,
+    "ppmi": 7.452441999079601
+  }
+]

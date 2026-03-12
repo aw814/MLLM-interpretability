@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "迪拜酋长国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 894,
+    "unigram_w2": 32140,
+    "ppmi": 3.6063367385288263
+  },
+  {
+    "w1": "capital",
+    "w2": "杜拜",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 32140,
+    "unigram_w2": 9289,
+    "ppmi": 2.8141226830055026
+  },
+  {
+    "w1": "迪拜酋长国",
+    "w2": "杜拜",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 894,
+    "unigram_w2": 9289,
+    "ppmi": 6.812148968942329
+  }
+]

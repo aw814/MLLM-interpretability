@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Fédération des États-Unis de soccer",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 212,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1811565,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Fédération des États-Unis de soccer",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74,
+    "unigram_w1": 212,
+    "unigram_w2": 1811565,
+    "ppmi": 6.641643069827738
+  }
+]

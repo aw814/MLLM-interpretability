@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "智利",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 222,
+    "unigram_w1": 87522,
+    "unigram_w2": 32140,
+    "ppmi": 2.2025630396868388
+  },
+  {
+    "w1": "capital",
+    "w2": "圣地亚哥",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 174,
+    "unigram_w1": 32140,
+    "unigram_w2": 33234,
+    "ppmi": 3.2480764309552392
+  },
+  {
+    "w1": "智利",
+    "w2": "圣地亚哥",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6513,
+    "unigram_w1": 87522,
+    "unigram_w2": 33234,
+    "ppmi": 7.028963669351012
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Portugal",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 151262,
+    "unigram_w1": 3494869,
+    "unigram_w2": 7952962,
+    "ppmi": 1.495737577996415
+  },
+  {
+    "w1": "capital",
+    "w2": "Lisbonne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54785,
+    "unigram_w1": 7952962,
+    "unigram_w2": 1040722,
+    "ppmi": 1.7781944595242567
+  },
+  {
+    "w1": "Portugal",
+    "w2": "Lisbonne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 372398,
+    "unigram_w1": 3494869,
+    "unigram_w2": 1040722,
+    "ppmi": 5.729440836629615
+  }
+]

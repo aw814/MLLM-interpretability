@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Iraq",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 107,
+    "unigram_w1": 288,
+    "unigram_w2": 7450623,
+    "ppmi": 4.185415264880453
+  },
+  {
+    "w1": "capital",
+    "w2": "Baghdad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30811,
+    "unigram_w1": 7450623,
+    "unigram_w2": 166605,
+    "ppmi": 3.1789589939723735
+  },
+  {
+    "w1": "Kingdom of Iraq",
+    "w2": "Baghdad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 288,
+    "unigram_w2": 166605,
+    "ppmi": 10.230586488012712
+  }
+]

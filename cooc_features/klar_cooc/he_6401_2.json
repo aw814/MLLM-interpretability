@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הרפובליקה הדמוקרטית של אפגניסטן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "קאבול",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 14610,
+    "unigram_w2": 1342,
+    "ppmi": 2.501296135523936
+  },
+  {
+    "w1": "הרפובליקה הדמוקרטית של אפגניסטן",
+    "w2": "קאבול",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 7,
+    "unigram_w2": 1342,
+    "ppmi": 12.35868476971488
+  }
+]

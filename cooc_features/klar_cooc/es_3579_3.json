@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Timbu",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 2348,
+    "unigram_w2": 91062,
+    "ppmi": 3.9604311723262025
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Timbu",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 650,
+    "unigram_w1": 2348,
+    "unigram_w2": 9286646,
+    "ppmi": 4.632562394657608
+  }
+]

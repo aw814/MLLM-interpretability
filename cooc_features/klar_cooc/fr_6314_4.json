@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "la Mecque",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9807,
+    "unigram_w1": 303805,
+    "unigram_w2": 7952962,
+    "ppmi": 1.072664526853111
+  },
+  {
+    "w1": "capital",
+    "w2": "La Mecque",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9807,
+    "unigram_w1": 7952962,
+    "unigram_w2": 303805,
+    "ppmi": 1.072664526853111
+  },
+  {
+    "w1": "la Mecque",
+    "w2": "La Mecque",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 303805,
+    "unigram_w1": 303805,
+    "unigram_w2": 303805,
+    "ppmi": 10.736129211299144
+  }
+]

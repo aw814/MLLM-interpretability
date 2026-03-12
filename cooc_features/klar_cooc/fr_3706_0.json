@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "QuickTime",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1494,
+    "unigram_w1": 100404,
+    "unigram_w2": 364637,
+    "ppmi": 4.402321077227692
+  },
+  {
+    "w1": "developer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26175,
+    "unigram_w1": 364637,
+    "unigram_w2": 4733635,
+    "ppmi": 2.974198744914837
+  },
+  {
+    "w1": "QuickTime",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27733,
+    "unigram_w1": 100404,
+    "unigram_w2": 4733635,
+    "ppmi": 4.918257109374
+  }
+]

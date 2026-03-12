@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פוסטסקריפט",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 40,
+    "unigram_w2": 7399,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "developer",
+    "w2": "אדובי מערכות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7399,
+    "unigram_w2": 201,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פוסטסקריפט",
+    "w2": "אדובי מערכות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 40,
+    "unigram_w2": 201,
+    "ppmi": 13.583228861906377
+  }
+]

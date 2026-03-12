@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "리구리아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 33,
+    "unigram_w2": 36855,
+    "ppmi": 3.6813483501204707
+  },
+  {
+    "w1": "capital",
+    "w2": "제노바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 327,
+    "unigram_w1": 36855,
+    "unigram_w2": 4483,
+    "ppmi": 4.948640510926318
+  },
+  {
+    "w1": "리구리아주",
+    "w2": "제노바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 33,
+    "unigram_w2": 4483,
+    "ppmi": 9.52802722609807
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República de Génova",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1888,
+    "unigram_w1": 5686,
+    "unigram_w2": 42058182,
+    "ppmi": 2.7157709024377175
+  },
+  {
+    "w1": "capital",
+    "w2": "Génova",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 142308,
+    "unigram_w1": 42058182,
+    "unigram_w2": 702244,
+    "ppmi": 2.0033706106166265
+  },
+  {
+    "w1": "República de Génova",
+    "w2": "Génova",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5686,
+    "unigram_w1": 5686,
+    "unigram_w2": 702244,
+    "ppmi": 10.210596523287135
+  }
+]

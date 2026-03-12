@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "île Macquarie",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68,
+    "unigram_w1": 310,
+    "unigram_w2": 3399010,
+    "ppmi": 5.0635705598480785
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40422,
+    "unigram_w1": 3399010,
+    "unigram_w2": 258660,
+    "ppmi": 4.574387765793403
+  },
+  {
+    "w1": "île Macquarie",
+    "w2": "Antarctique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 146,
+    "unigram_w1": 310,
+    "unigram_w2": 258660,
+    "ppmi": 9.881918010357342
+  }
+]

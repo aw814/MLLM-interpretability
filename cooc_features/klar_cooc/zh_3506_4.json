@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿塞拜疆",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 26657,
+    "unigram_w2": 1361,
+    "ppmi": 6.2698719097071205
+  },
+  {
+    "w1": "continent",
+    "w2": "亚洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1361,
+    "unigram_w2": 3645973,
+    "ppmi": 0.30350928675278604
+  },
+  {
+    "w1": "阿塞拜疆",
+    "w2": "亚洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5611,
+    "unigram_w1": 26657,
+    "unigram_w2": 3645973,
+    "ppmi": 1.7515305109972539
+  }
+]

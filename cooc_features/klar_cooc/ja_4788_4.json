@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジョン・コルトレーン",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74,
+    "unigram_w1": 16482,
+    "unigram_w2": 139628,
+    "ppmi": 2.489725159600919
+  },
+  {
+    "w1": "instrument",
+    "w2": "クラリネット",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1276,
+    "unigram_w1": 139628,
+    "unigram_w2": 168652,
+    "ppmi": 3.242598202096036
+  },
+  {
+    "w1": "ジョン・コルトレーン",
+    "w2": "クラリネット",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1294,
+    "unigram_w1": 16482,
+    "unigram_w2": 168652,
+    "ppmi": 6.345432547262942
+  }
+]

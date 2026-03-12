@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ferrari Enzo",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 110,
+    "unigram_w1": 22942,
+    "unigram_w2": 513142,
+    "ppmi": 2.958866971429247
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Ferrari",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5592,
+    "unigram_w1": 513142,
+    "unigram_w2": 3076714,
+    "ppmi": 1.5594005369529498
+  },
+  {
+    "w1": "Ferrari Enzo",
+    "w2": "Ferrari",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22942,
+    "unigram_w1": 22942,
+    "unigram_w2": 3076714,
+    "ppmi": 8.07925047907418
+  }
+]

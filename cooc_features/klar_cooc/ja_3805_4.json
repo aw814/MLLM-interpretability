@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポルトープランス",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3892,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "ハイチ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 85522,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ポルトープランス",
+    "w2": "ハイチ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3012,
+    "unigram_w1": 3892,
+    "unigram_w2": 85522,
+    "ppmi": 10.626306330822569
+  }
+]

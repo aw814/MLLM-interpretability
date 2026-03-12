@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Barcelona",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 40579100,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Cataluña",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 8303818,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Barcelona",
+    "w2": "Cataluña",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3657278,
+    "unigram_w1": 40579100,
+    "unigram_w2": 8303818,
+    "ppmi": 3.1749713289932067
+  }
+]

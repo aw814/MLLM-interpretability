@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "우타르프라데시주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 170,
+    "unigram_w2": 36855,
+    "ppmi": 1.3163515333412226
+  },
+  {
+    "w1": "capital",
+    "w2": "러크나우",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 36855,
+    "unigram_w2": 186,
+    "ppmi": 3.1865836583708926
+  },
+  {
+    "w1": "우타르프라데시주",
+    "w2": "러크나우",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 170,
+    "unigram_w2": 186,
+    "ppmi": 11.268693555091236
+  }
+]

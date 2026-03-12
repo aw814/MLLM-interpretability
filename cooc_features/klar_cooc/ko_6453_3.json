@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "메릴랜드주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17,
+    "unigram_w1": 1942,
+    "unigram_w2": 36855,
+    "ppmi": 1.8898778253100714
+  },
+  {
+    "w1": "capital",
+    "w2": "아나폴리스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 36855,
+    "unigram_w2": 412,
+    "ppmi": 3.739681660436798
+  },
+  {
+    "w1": "메릴랜드주",
+    "w2": "아나폴리스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 1942,
+    "unigram_w2": 412,
+    "ppmi": 9.092842116904801
+  }
+]

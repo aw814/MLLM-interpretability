@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kuching",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 15703,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Sarawak",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 25780,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kuching",
+    "w2": "Sarawak",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5353,
+    "unigram_w1": 15703,
+    "unigram_w2": 25780,
+    "ppmi": 12.742330007061513
+  }
+]

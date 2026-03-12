@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ארמניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 8988,
+    "unigram_w2": 14610,
+    "ppmi": 1.7170386980468666
+  },
+  {
+    "w1": "capital",
+    "w2": "ירוואן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 14610,
+    "unigram_w2": 838,
+    "ppmi": 2.332661751469818
+  },
+  {
+    "w1": "ארמניה",
+    "w2": "ירוואן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 610,
+    "unigram_w1": 8988,
+    "unigram_w2": 838,
+    "ppmi": 9.964283237543658
+  }
+]

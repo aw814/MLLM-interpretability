@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "롤렉스",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6289,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "제네바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 22621,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "롤렉스",
+    "w2": "제네바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101,
+    "unigram_w1": 6289,
+    "unigram_w2": 22621,
+    "ppmi": 3.4695366828615675
+  }
+]

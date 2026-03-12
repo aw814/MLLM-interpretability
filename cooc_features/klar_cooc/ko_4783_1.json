@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "브루스 스프링스틴",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 247,
+    "unigram_w2": 10794,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "하모니카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 10794,
+    "unigram_w2": 4512,
+    "ppmi": 2.527746884520488
+  },
+  {
+    "w1": "브루스 스프링스틴",
+    "w2": "하모니카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 247,
+    "unigram_w2": 4512,
+    "ppmi": 5.392359124187292
+  }
+]

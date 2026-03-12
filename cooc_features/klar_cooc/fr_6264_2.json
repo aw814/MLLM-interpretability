@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Irlande",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70332,
+    "unigram_w1": 1742978,
+    "unigram_w2": 7952962,
+    "ppmi": 1.3946251462270813
+  },
+  {
+    "w1": "capital",
+    "w2": "Dublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35188,
+    "unigram_w1": 7952962,
+    "unigram_w2": 737495,
+    "ppmi": 1.6363766065257723
+  },
+  {
+    "w1": "Irlande",
+    "w2": "Dublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 202654,
+    "unigram_w1": 1742978,
+    "unigram_w2": 737495,
+    "ppmi": 6.352177753786094
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אפגניסטן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 11072,
+    "unigram_w2": 14610,
+    "ppmi": 2.014832317208282
+  },
+  {
+    "w1": "capital",
+    "w2": "קאבול",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 14610,
+    "unigram_w2": 1342,
+    "ppmi": 2.501296135523936
+  },
+  {
+    "w1": "אפגניסטן",
+    "w2": "קאבול",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 657,
+    "unigram_w1": 11072,
+    "unigram_w2": 1342,
+    "ppmi": 9.091161024458088
+  }
+]

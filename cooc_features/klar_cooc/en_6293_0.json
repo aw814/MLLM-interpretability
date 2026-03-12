@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Independent State of Croatia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 352,
+    "unigram_w1": 1242,
+    "unigram_w2": 7450623,
+    "ppmi": 3.794855440338434
+  },
+  {
+    "w1": "capital",
+    "w2": "Zagreb",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12420,
+    "unigram_w1": 7450623,
+    "unigram_w2": 83125,
+    "ppmi": 2.8712560179788227
+  },
+  {
+    "w1": "Independent State of Croatia",
+    "w2": "Zagreb",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 425,
+    "unigram_w1": 1242,
+    "unigram_w2": 83125,
+    "ppmi": 10.552677671692912
+  }
+]

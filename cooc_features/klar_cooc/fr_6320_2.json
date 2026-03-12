@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tatarstan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 814,
+    "unigram_w1": 18140,
+    "unigram_w2": 7952962,
+    "ppmi": 1.5478526014544816
+  },
+  {
+    "w1": "capital",
+    "w2": "Kazan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4260,
+    "unigram_w1": 7952962,
+    "unigram_w2": 169296,
+    "ppmi": 0.7133038065699119
+  },
+  {
+    "w1": "Tatarstan",
+    "w2": "Kazan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7613,
+    "unigram_w1": 18140,
+    "unigram_w2": 169296,
+    "ppmi": 10.327089465839512
+  }
+]

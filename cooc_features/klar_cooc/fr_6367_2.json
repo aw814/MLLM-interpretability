@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Saint-Empire romain germanique",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1593,
+    "unigram_w1": 39906,
+    "unigram_w2": 7952962,
+    "ppmi": 1.3790669478198097
+  },
+  {
+    "w1": "capital",
+    "w2": "Vienne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 137986,
+    "unigram_w1": 7952962,
+    "unigram_w2": 4145430,
+    "ppmi": 1.1169264985876317
+  },
+  {
+    "w1": "Saint-Empire romain germanique",
+    "w2": "Vienne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7785,
+    "unigram_w1": 39906,
+    "unigram_w2": 4145430,
+    "ppmi": 4.607988239529655
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שוודיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 21800,
+    "unigram_w2": 14610,
+    "ppmi": 1.6314276706175186
+  },
+  {
+    "w1": "capital",
+    "w2": "סטוקהולם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 14610,
+    "unigram_w2": 3143,
+    "ppmi": 6.361001376175708
+  },
+  {
+    "w1": "שוודיה",
+    "w2": "סטוקהולם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 881,
+    "unigram_w1": 21800,
+    "unigram_w2": 3143,
+    "ppmi": 7.30923978554268
+  }
+]

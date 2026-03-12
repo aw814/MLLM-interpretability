@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에스토니아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 126,
+    "unigram_w1": 10974,
+    "unigram_w2": 36855,
+    "ppmi": 2.281220532508968
+  },
+  {
+    "w1": "capital",
+    "w2": "탈린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 36855,
+    "unigram_w2": 2281,
+    "ppmi": 2.740216739609099
+  },
+  {
+    "w1": "에스토니아",
+    "w2": "탈린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1191,
+    "unigram_w1": 10974,
+    "unigram_w2": 2281,
+    "ppmi": 9.536020313531711
+  }
+]

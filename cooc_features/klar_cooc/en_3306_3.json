@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nintendo Entertainment System",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 565,
+    "unigram_w1": 15486,
+    "unigram_w2": 3911896,
+    "ppmi": 1.7667964591777896
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Nintendo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8416,
+    "unigram_w1": 3911896,
+    "unigram_w2": 472670,
+    "ppmi": 0.73181154268407
+  },
+  {
+    "w1": "Nintendo Entertainment System",
+    "w2": "Nintendo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15486,
+    "unigram_w1": 15486,
+    "unigram_w2": 472670,
+    "ppmi": 9.59232913864037
+  }
+]

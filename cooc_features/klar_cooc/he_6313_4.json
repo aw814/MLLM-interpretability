@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שושלת מינג",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 1209,
+    "unigram_w2": 14610,
+    "ppmi": 3.388832156641202
+  },
+  {
+    "w1": "capital",
+    "w2": "נאנג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 14610,
+    "unigram_w2": 915,
+    "ppmi": 2.8839121571104025
+  },
+  {
+    "w1": "שושלת מינג",
+    "w2": "נאנג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115,
+    "unigram_w1": 1209,
+    "unigram_w2": 915,
+    "ppmi": 10.324472236496515
+  }
+]

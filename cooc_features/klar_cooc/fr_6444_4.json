@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tchéquie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5023,
+    "unigram_w1": 93578,
+    "unigram_w2": 7952962,
+    "ppmi": 1.8063062377632149
+  },
+  {
+    "w1": "capital",
+    "w2": "Prague",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26661,
+    "unigram_w1": 7952962,
+    "unigram_w2": 830756,
+    "ppmi": 1.064232444136387
+  },
+  {
+    "w1": "Tchéquie",
+    "w2": "Prague",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21368,
+    "unigram_w1": 93578,
+    "unigram_w2": 830756,
+    "ppmi": 7.154132503639078
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "호르헤 루이스 보르헤스",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 339,
+    "unigram_w2": 4640,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "사서",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 4640,
+    "unigram_w2": 102893,
+    "ppmi": 0.10901492598255395
+  },
+  {
+    "w1": "호르헤 루이스 보르헤스",
+    "w2": "사서",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 339,
+    "unigram_w2": 102893,
+    "ppmi": 2.839388433502691
+  }
+]

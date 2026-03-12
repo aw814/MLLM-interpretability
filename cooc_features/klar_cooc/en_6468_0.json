@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Otago Region",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 285,
+    "unigram_w1": 2400,
+    "unigram_w2": 7450623,
+    "ppmi": 2.5398726984778413
+  },
+  {
+    "w1": "capital",
+    "w2": "Dunedin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5113,
+    "unigram_w1": 7450623,
+    "unigram_w2": 82504,
+    "ppmi": 1.6016511445458659
+  },
+  {
+    "w1": "Otago Region",
+    "w2": "Dunedin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 694,
+    "unigram_w1": 2400,
+    "unigram_w2": 82504,
+    "ppmi": 10.320599629958654
+  }
+]

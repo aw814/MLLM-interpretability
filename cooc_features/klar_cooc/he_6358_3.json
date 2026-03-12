@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רומניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 213,
+    "unigram_w1": 39436,
+    "unigram_w2": 14610,
+    "ppmi": 2.189024104618113
+  },
+  {
+    "w1": "capital",
+    "w2": "בוקרשט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 490,
+    "unigram_w1": 14610,
+    "unigram_w2": 14323,
+    "ppmi": 4.852131948206425
+  },
+  {
+    "w1": "רומניה",
+    "w2": "בוקרשט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6238,
+    "unigram_w1": 39436,
+    "unigram_w2": 14323,
+    "ppmi": 7.089804798379335
+  }
+]

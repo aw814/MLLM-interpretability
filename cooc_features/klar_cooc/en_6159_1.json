@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Australia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20843,
+    "unigram_w1": 204723,
+    "unigram_w2": 7450623,
+    "ppmi": 2.31783493550996
+  },
+  {
+    "w1": "capital",
+    "w2": "Adelaide",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29749,
+    "unigram_w1": 7450623,
+    "unigram_w2": 427376,
+    "ppmi": 1.769280465321827
+  },
+  {
+    "w1": "South Australia",
+    "w2": "Adelaide",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 71926,
+    "unigram_w1": 204723,
+    "unigram_w2": 427376,
+    "ppmi": 8.228568631576493
+  }
+]

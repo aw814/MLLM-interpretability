@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rashida Jones",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 12802,
+    "unigram_w2": 77008,
+    "ppmi": 3.340369590176447
+  },
+  {
+    "w1": "occupation",
+    "w2": "actor",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4374,
+    "unigram_w1": 77008,
+    "unigram_w2": 11074310,
+    "ppmi": 2.0935127110606873
+  },
+  {
+    "w1": "Rashida Jones",
+    "w2": "actor",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2900,
+    "unigram_w1": 12802,
+    "unigram_w2": 11074310,
+    "ppmi": 4.089251505614088
+  }
+]

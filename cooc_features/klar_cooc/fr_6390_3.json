@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Empire romain",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4156,
+    "unigram_w1": 94578,
+    "unigram_w2": 7952962,
+    "ppmi": 1.517617377887732
+  },
+  {
+    "w1": "capital",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 131987,
+    "unigram_w1": 7952962,
+    "unigram_w2": 4097661,
+    "ppmi": 1.0695215617536842
+  },
+  {
+    "w1": "Empire romain",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32307,
+    "unigram_w1": 94578,
+    "unigram_w2": 4097661,
+    "ppmi": 5.432888250608659
+  }
+]

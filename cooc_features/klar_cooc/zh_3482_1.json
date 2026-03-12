@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "丹麦",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 142745,
+    "unigram_w2": 1361,
+    "ppmi": 0.8490180298562745
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "丹麦",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29514,
+    "unigram_w1": 142745,
+    "unigram_w2": 1834429,
+    "ppmi": 2.7167190843657374
+  }
+]

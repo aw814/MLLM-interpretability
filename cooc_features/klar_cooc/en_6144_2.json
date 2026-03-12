@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Brown University",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 80524,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Providence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 412860,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Brown University",
+    "w2": "Providence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14102,
+    "unigram_w1": 80524,
+    "unigram_w2": 412860,
+    "ppmi": 7.273990736255527
+  }
+]

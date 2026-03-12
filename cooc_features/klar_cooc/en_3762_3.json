@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tripoli",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 59967,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Libya",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 292070,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Tripoli",
+    "w2": "Libya",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30455,
+    "unigram_w1": 59967,
+    "unigram_w2": 292070,
+    "ppmi": 9.30935856455474
+  }
+]

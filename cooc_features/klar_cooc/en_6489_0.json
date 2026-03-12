@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Coca-Cola Company",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 21842,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Atlanta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1563769,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "The Coca-Cola Company",
+    "w2": "Atlanta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3765,
+    "unigram_w1": 21842,
+    "unigram_w2": 1563769,
+    "ppmi": 5.329823736052252
+  }
+]

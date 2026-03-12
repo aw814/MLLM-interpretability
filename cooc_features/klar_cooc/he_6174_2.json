@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מישיגן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 122,
+    "unigram_w1": 10996,
+    "unigram_w2": 14610,
+    "ppmi": 3.2275862363317405
+  },
+  {
+    "w1": "capital",
+    "w2": "לאנסינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 161,
+    "ppmi": 4.39062321216719
+  },
+  {
+    "w1": "מישיגן",
+    "w2": "לאנסינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 10996,
+    "unigram_w2": 161,
+    "ppmi": 8.68324362770694
+  }
+]

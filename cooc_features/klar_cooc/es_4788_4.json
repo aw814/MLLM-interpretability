@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Coltrane",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 332,
+    "unigram_w1": 54224,
+    "unigram_w2": 296558,
+    "ppmi": 4.1026501354073
+  },
+  {
+    "w1": "instrument",
+    "w2": "clarinete",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3540,
+    "unigram_w1": 296558,
+    "unigram_w2": 363920,
+    "ppmi": 4.7705264563357135
+  },
+  {
+    "w1": "John Coltrane",
+    "w2": "clarinete",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3842,
+    "unigram_w1": 54224,
+    "unigram_w2": 363920,
+    "ppmi": 7.339945458688354
+  }
+]

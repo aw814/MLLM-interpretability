@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Skype",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31,
+    "unigram_w1": 16280,
+    "unigram_w2": 7846,
+    "ppmi": 3.823229178709614
+  },
+  {
+    "w1": "developer",
+    "w2": "微软",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 7846,
+    "unigram_w2": 226038,
+    "ppmi": 3.3310279864408114
+  },
+  {
+    "w1": "Skype",
+    "w2": "微软",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2058,
+    "unigram_w1": 16280,
+    "unigram_w2": 226038,
+    "ppmi": 5.027595951565615
+  }
+]

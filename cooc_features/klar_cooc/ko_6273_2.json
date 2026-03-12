@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "세르비아 몬테네그로",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 494,
+    "unigram_w2": 36855,
+    "ppmi": 1.7773752378942465
+  },
+  {
+    "w1": "capital",
+    "w2": "베오그라드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 293,
+    "unigram_w1": 36855,
+    "unigram_w2": 3082,
+    "ppmi": 5.330848177386387
+  },
+  {
+    "w1": "세르비아 몬테네그로",
+    "w2": "베오그라드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 494,
+    "unigram_w2": 3082,
+    "ppmi": 8.9422593300713
+  }
+]

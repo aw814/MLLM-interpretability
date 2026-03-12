@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נשיא רומניה",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 359,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "רומניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 39436,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "נשיא רומניה",
+    "w2": "רומניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 359,
+    "unigram_w1": 359,
+    "unigram_w2": 39436,
+    "ppmi": 8.288983042083135
+  }
+]

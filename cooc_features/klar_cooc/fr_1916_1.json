@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alfred Kinsey",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2523,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "biologie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 1801208,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alfred Kinsey",
+    "w2": "biologie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 111,
+    "unigram_w1": 2523,
+    "unigram_w2": 1801208,
+    "ppmi": 3.6618733151038843
+  }
+]

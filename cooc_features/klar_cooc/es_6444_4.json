@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Checa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 194672,
+    "unigram_w1": 1378930,
+    "unigram_w2": 42058182,
+    "ppmi": 1.4818943138579563
+  },
+  {
+    "w1": "capital",
+    "w2": "Praga",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 329184,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1454952,
+    "ppmi": 2.1623207988007396
+  },
+  {
+    "w1": "República Checa",
+    "w2": "Praga",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 258700,
+    "unigram_w1": 1378930,
+    "unigram_w2": 1454952,
+    "ppmi": 6.745472000469363
+  }
+]

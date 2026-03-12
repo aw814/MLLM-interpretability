@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anna Karenina",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 13963,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "Russian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2632627,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Anna Karenina",
+    "w2": "Russian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3488,
+    "unigram_w1": 13963,
+    "unigram_w2": 2632627,
+    "ppmi": 5.113594217177396
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Egipto",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2760,
+    "unigram_w1": 4272980,
+    "unigram_w2": 91062,
+    "ppmi": 2.5612892833839895
+  },
+  {
+    "w1": "continent",
+    "w2": "África",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8138,
+    "unigram_w1": 91062,
+    "unigram_w2": 7280838,
+    "ppmi": 3.352433351851529
+  },
+  {
+    "w1": "Egipto",
+    "w2": "África",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 514374,
+    "unigram_w1": 4272980,
+    "unigram_w2": 7280838,
+    "ppmi": 3.782183373524533
+  }
+]

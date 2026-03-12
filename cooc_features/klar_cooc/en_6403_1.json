@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Qajar dynasty",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 576,
+    "unigram_w1": 1588,
+    "unigram_w2": 7450623,
+    "ppmi": 4.150803084220972
+  },
+  {
+    "w1": "capital",
+    "w2": "Tehran",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32131,
+    "unigram_w1": 7450623,
+    "unigram_w2": 221616,
+    "ppmi": 2.827849023617571
+  },
+  {
+    "w1": "Qajar dynasty",
+    "w2": "Tehran",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 826,
+    "unigram_w1": 1588,
+    "unigram_w2": 221616,
+    "ppmi": 9.742103170444933
+  }
+]

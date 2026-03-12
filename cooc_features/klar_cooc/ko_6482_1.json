@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "칠레",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 239,
+    "unigram_w1": 34236,
+    "unigram_w2": 36855,
+    "ppmi": 1.563382745156797
+  },
+  {
+    "w1": "capital",
+    "w2": "산티아고",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 76,
+    "unigram_w1": 36855,
+    "unigram_w2": 13922,
+    "ppmi": 1.2085911233058255
+  },
+  {
+    "w1": "칠레",
+    "w2": "산티아고",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3290,
+    "unigram_w1": 34236,
+    "unigram_w2": 13922,
+    "ppmi": 6.7508816841526516
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האימפריה היפנית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 863,
+    "unigram_w2": 14610,
+    "ppmi": 1.5532858418240085
+  },
+  {
+    "w1": "capital",
+    "w2": "טוקיו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 537,
+    "unigram_w1": 14610,
+    "unigram_w2": 25491,
+    "ppmi": 4.152618017996244
+  },
+  {
+    "w1": "האימפריה היפנית",
+    "w2": "טוקיו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 130,
+    "unigram_w1": 863,
+    "unigram_w2": 25491,
+    "ppmi": 6.187659361551192
+  }
+]

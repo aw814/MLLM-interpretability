@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Karnataka",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2756,
+    "unigram_w1": 73514,
+    "unigram_w2": 7952962,
+    "ppmi": 1.2884832229225676
+  },
+  {
+    "w1": "capital",
+    "w2": "Bangalore",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12260,
+    "unigram_w1": 7952962,
+    "unigram_w2": 208696,
+    "ppmi": 1.936482387591577
+  },
+  {
+    "w1": "Karnataka",
+    "w2": "Bangalore",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19987,
+    "unigram_w1": 73514,
+    "unigram_w2": 208696,
+    "ppmi": 9.398914796433457
+  }
+]

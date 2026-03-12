@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oregon",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 62038,
+    "unigram_w1": 1505400,
+    "unigram_w2": 7450623,
+    "ppmi": 1.0130223906461535
+  },
+  {
+    "w1": "capital",
+    "w2": "Salem",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20529,
+    "unigram_w1": 7450623,
+    "unigram_w2": 392383,
+    "ppmi": 1.3573460001147704
+  },
+  {
+    "w1": "Oregon",
+    "w2": "Salem",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50076,
+    "unigram_w1": 1505400,
+    "unigram_w2": 392383,
+    "ppmi": 4.9510161614571695
+  }
+]

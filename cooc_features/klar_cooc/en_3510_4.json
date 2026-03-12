@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chandigarh",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 592,
+    "unigram_w1": 125203,
+    "unigram_w2": 965266,
+    "ppmi": 0.8377796363620907
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Chandigarh",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5081,
+    "unigram_w1": 125203,
+    "unigram_w2": 3865133,
+    "ppmi": 1.9377034293200142
+  }
+]

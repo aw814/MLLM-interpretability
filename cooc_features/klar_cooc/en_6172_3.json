@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "East Flanders",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 375,
+    "unigram_w1": 1965,
+    "unigram_w2": 7450623,
+    "ppmi": 3.2243064681588924
+  },
+  {
+    "w1": "capital",
+    "w2": "Ghent",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5727,
+    "unigram_w1": 7450623,
+    "unigram_w2": 67095,
+    "ppmi": 2.0635195294335946
+  },
+  {
+    "w1": "East Flanders",
+    "w2": "Ghent",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 732,
+    "unigram_w1": 1965,
+    "unigram_w2": 67095,
+    "ppmi": 10.984271516463926
+  }
+]

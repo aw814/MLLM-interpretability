@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "사우디아라비아",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 69,
+    "unigram_w1": 23507,
+    "unigram_w2": 2712,
+    "ppmi": 4.077895389794325
+  },
+  {
+    "w1": "continent",
+    "w2": "아시아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 2712,
+    "unigram_w2": 363737,
+    "ppmi": 1.4933710139784397
+  },
+  {
+    "w1": "사우디아라비아",
+    "w2": "아시아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3451,
+    "unigram_w1": 23507,
+    "unigram_w2": 363737,
+    "ppmi": 2.654774993286793
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イスラエル",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6072,
+    "unigram_w1": 687306,
+    "unigram_w2": 498928,
+    "ppmi": 1.6289951791529083
+  },
+  {
+    "w1": "capital",
+    "w2": "エルサレム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1084,
+    "unigram_w1": 498928,
+    "unigram_w2": 160640,
+    "ppmi": 1.240309524455688
+  },
+  {
+    "w1": "イスラエル",
+    "w2": "エルサレム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88358,
+    "unigram_w1": 687306,
+    "unigram_w2": 160640,
+    "ppmi": 7.127112708402399
+  }
+]

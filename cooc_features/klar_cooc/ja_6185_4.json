@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オデッサ州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 418,
+    "unigram_w2": 498928,
+    "ppmi": 2.329235500580224
+  },
+  {
+    "w1": "capital",
+    "w2": "オデッサ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 200,
+    "unigram_w1": 498928,
+    "unigram_w2": 32044,
+    "ppmi": 1.127721693920162
+  },
+  {
+    "w1": "オデッサ州",
+    "w2": "オデッサ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 418,
+    "unigram_w1": 418,
+    "unigram_w2": 32044,
+    "ppmi": 12.412337614710749
+  }
+]

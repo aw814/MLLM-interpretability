@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "罗马尼亚",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 125,
+    "unigram_w1": 44939,
+    "unigram_w2": 32140,
+    "ppmi": 2.3356091426363723
+  },
+  {
+    "w1": "capital",
+    "w2": "布加勒斯特",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 68,
+    "unigram_w1": 32140,
+    "unigram_w2": 11618,
+    "ppmi": 3.4088939857207508
+  },
+  {
+    "w1": "罗马尼亚",
+    "w2": "布加勒斯特",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3674,
+    "unigram_w1": 44939,
+    "unigram_w2": 11618,
+    "ppmi": 8.680968963127514
+  }
+]

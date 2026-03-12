@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "national flag of Italy",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 60,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Italy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3149717,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "national flag of Italy",
+    "w2": "Italy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 60,
+    "unigram_w1": 60,
+    "unigram_w2": 3149717,
+    "ppmi": 6.8560121353793795
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Territoire du Nord",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1133,
+    "unigram_w1": 34717,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0884319333081933
+  },
+  {
+    "w1": "capital",
+    "w2": "Darwin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18957,
+    "unigram_w1": 7952962,
+    "unigram_w2": 386475,
+    "ppmi": 1.6762819361474455
+  },
+  {
+    "w1": "Territoire du Nord",
+    "w2": "Darwin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6724,
+    "unigram_w1": 34717,
+    "unigram_w2": 386475,
+    "ppmi": 8.02064907600939
+  }
+]

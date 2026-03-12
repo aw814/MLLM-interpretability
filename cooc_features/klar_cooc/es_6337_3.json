@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Inglaterra",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1890,
+    "unigram_w1": 8176,
+    "unigram_w2": 42058182,
+    "ppmi": 2.193317274924217
+  },
+  {
+    "w1": "capital",
+    "w2": "Winchester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16654,
+    "unigram_w1": 42058182,
+    "unigram_w2": 186436,
+    "ppmi": 0.8215864057610538
+  },
+  {
+    "w1": "Reino de Inglaterra",
+    "w2": "Winchester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 296,
+    "unigram_w1": 8176,
+    "unigram_w2": 186436,
+    "ppmi": 7.336162335761787
+  }
+]

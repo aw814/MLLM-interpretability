@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ב.מ.וו X3",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 492,
+    "unigram_w2": 5002,
+    "ppmi": 2.3254048004524583
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "BMW",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 434,
+    "unigram_w1": 5002,
+    "unigram_w2": 11672,
+    "ppmi": 6.518706370318286
+  },
+  {
+    "w1": "ב.מ.וו X3",
+    "w2": "BMW",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 492,
+    "unigram_w2": 11672,
+    "ppmi": 6.985573024077379
+  }
+]

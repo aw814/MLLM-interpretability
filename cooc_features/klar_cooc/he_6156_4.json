@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת איטליה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 531,
+    "unigram_w2": 14610,
+    "ppmi": 0.6689720394776537
+  },
+  {
+    "w1": "capital",
+    "w2": "פירנצה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 409,
+    "unigram_w1": 14610,
+    "unigram_w2": 13400,
+    "ppmi": 4.687551742991059
+  },
+  {
+    "w1": "ממלכת איטליה",
+    "w2": "פירנצה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 65,
+    "unigram_w1": 531,
+    "unigram_w2": 13400,
+    "ppmi": 6.8160630299644716
+  }
+]

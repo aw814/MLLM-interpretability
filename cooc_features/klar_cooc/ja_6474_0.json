@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リトアニア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1000,
+    "unigram_w1": 118568,
+    "unigram_w2": 498928,
+    "ppmi": 1.5620612448495195
+  },
+  {
+    "w1": "capital",
+    "w2": "ヴィリニュス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 498928,
+    "unigram_w2": 12630,
+    "ppmi": 2.036518478893986
+  },
+  {
+    "w1": "リトアニア",
+    "w2": "ヴィリニュス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6014,
+    "unigram_w1": 118568,
+    "unigram_w2": 12630,
+    "ppmi": 9.454291204651833
+  }
+]

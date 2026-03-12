@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rhénanie-Palatinat",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1195,
+    "unigram_w1": 52693,
+    "unigram_w2": 7952962,
+    "ppmi": 0.5633256561105424
+  },
+  {
+    "w1": "capital",
+    "w2": "Mayence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3336,
+    "unigram_w1": 7952962,
+    "unigram_w2": 114122,
+    "ppmi": 0.9295406159764916
+  },
+  {
+    "w1": "Rhénanie-Palatinat",
+    "w2": "Mayence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4274,
+    "unigram_w1": 52693,
+    "unigram_w2": 114122,
+    "ppmi": 8.524745382764406
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רמב\"ם",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 61277,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "עברית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 258636,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "רמב\"ם",
+    "w2": "עברית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2995,
+    "unigram_w1": 61277,
+    "unigram_w2": 258636,
+    "ppmi": 1.220927313762726
+  }
+]

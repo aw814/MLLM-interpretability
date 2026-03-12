@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドドマ",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1218,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "タンザニア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 110918,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドドマ",
+    "w2": "タンザニア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1044,
+    "unigram_w1": 1218,
+    "unigram_w2": 110918,
+    "ppmi": 10.39857783873003
+  }
+]

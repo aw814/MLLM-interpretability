@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Líbano",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 526,
+    "unigram_w1": 1148860,
+    "unigram_w2": 91062,
+    "ppmi": 2.0647952834270535
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Líbano",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 150106,
+    "unigram_w1": 1148860,
+    "unigram_w2": 9286646,
+    "ppmi": 3.5493337281485635
+  }
+]

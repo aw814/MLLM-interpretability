@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נסיכות מוסקבה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 167,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "מוסקבה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 491,
+    "unigram_w1": 14610,
+    "unigram_w2": 47063,
+    "ppmi": 3.138813637906552
+  },
+  {
+    "w1": "נסיכות מוסקבה",
+    "w2": "מוסקבה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 167,
+    "unigram_w1": 167,
+    "unigram_w2": 47063,
+    "ppmi": 8.033902981282719
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פיימונטה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1306,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "טורינו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 316,
+    "unigram_w1": 14610,
+    "unigram_w2": 8824,
+    "ppmi": 4.918103762867528
+  },
+  {
+    "w1": "פיימונטה",
+    "w2": "טורינו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 415,
+    "unigram_w1": 1306,
+    "unigram_w2": 8824,
+    "ppmi": 8.795019917069142
+  }
+]

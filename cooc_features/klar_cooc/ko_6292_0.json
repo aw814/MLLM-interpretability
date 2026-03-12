@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "그리스",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 583,
+    "unigram_w1": 97407,
+    "unigram_w2": 36855,
+    "ppmi": 1.3413567100994788
+  },
+  {
+    "w1": "capital",
+    "w2": "아테네",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 36855,
+    "unigram_w2": 15452,
+    "ppmi": 1.4540926970217176
+  },
+  {
+    "w1": "그리스",
+    "w2": "아테네",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6126,
+    "unigram_w1": 97407,
+    "unigram_w2": 15452,
+    "ppmi": 5.988801064236692
+  }
+]

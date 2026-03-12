@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "네덜란드 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 75,
+    "unigram_w2": 36855,
+    "ppmi": 2.496923778983043
+  },
+  {
+    "w1": "capital",
+    "w2": "암스테르담",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 168,
+    "unigram_w1": 36855,
+    "unigram_w2": 18114,
+    "ppmi": 1.9732423500229033
+  },
+  {
+    "w1": "네덜란드 왕국",
+    "w2": "암스테르담",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 75,
+    "unigram_w2": 18114,
+    "ppmi": 7.9811105933562425
+  }
+]

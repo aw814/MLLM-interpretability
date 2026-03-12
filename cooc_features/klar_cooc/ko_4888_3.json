@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "라이너 마리아 릴케",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 461,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "독일어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 65145,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "라이너 마리아 릴케",
+    "w2": "독일어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 461,
+    "unigram_w2": 65145,
+    "ppmi": 4.099719553316311
+  }
+]

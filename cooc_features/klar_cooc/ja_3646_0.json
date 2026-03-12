@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オークランド",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90,
+    "unigram_w1": 141562,
+    "unigram_w2": 48638,
+    "ppmi": 1.1910865290907025
+  },
+  {
+    "w1": "continent",
+    "w2": "オセアニア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 196,
+    "unigram_w1": 48638,
+    "unigram_w2": 177686,
+    "ppmi": 1.9860473114871071
+  },
+  {
+    "w1": "オークランド",
+    "w2": "オセアニア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5224,
+    "unigram_w1": 141562,
+    "unigram_w2": 177686,
+    "ppmi": 5.180998410712441
+  }
+]

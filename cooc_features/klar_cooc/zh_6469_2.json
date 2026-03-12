@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "江苏省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 268,
+    "unigram_w1": 440709,
+    "unigram_w2": 32140,
+    "ppmi": 0.14212761589878423
+  },
+  {
+    "w1": "capital",
+    "w2": "南京市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 119,
+    "unigram_w1": 32140,
+    "unigram_w2": 194733,
+    "ppmi": 0.14918515994079168
+  },
+  {
+    "w1": "江苏省",
+    "w2": "南京市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45504,
+    "unigram_w1": 440709,
+    "unigram_w2": 194733,
+    "ppmi": 4.950688621264743
+  }
+]

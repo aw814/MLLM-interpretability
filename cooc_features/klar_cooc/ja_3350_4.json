@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "グジェゴシ・ラトー",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 42,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "ポーランド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 678150,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "グジェゴシ・ラトー",
+    "w2": "ポーランド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 42,
+    "unigram_w2": 678150,
+    "ppmi": 7.7040047681619805
+  }
+]

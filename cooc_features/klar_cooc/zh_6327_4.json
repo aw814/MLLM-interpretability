@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "格洛斯特郡",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 399,
+    "unigram_w2": 32140,
+    "ppmi": 2.1852603227686425
+  },
+  {
+    "w1": "capital",
+    "w2": "格洛斯特",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 32140,
+    "unigram_w2": 1367,
+    "ppmi": 2.7306358262722905
+  },
+  {
+    "w1": "格洛斯特郡",
+    "w2": "格洛斯特",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 399,
+    "unigram_w1": 399,
+    "unigram_w2": 1367,
+    "ppmi": 15.380790039947383
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Libia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 298,
+    "unigram_w1": 618,
+    "unigram_w2": 42058182,
+    "ppmi": 3.2540317293111904
+  },
+  {
+    "w1": "capital",
+    "w2": "Trípoli",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66918,
+    "unigram_w1": 42058182,
+    "unigram_w2": 177278,
+    "ppmi": 2.900778959075163
+  },
+  {
+    "w1": "Reino de Libia",
+    "w2": "Trípoli",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 280,
+    "unigram_w1": 618,
+    "unigram_w2": 177278,
+    "ppmi": 11.054375394773395
+  }
+]

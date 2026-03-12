@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Worcestershire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2650,
+    "unigram_w1": 38530,
+    "unigram_w2": 42058182,
+    "ppmi": 0.4444083155444152
+  },
+  {
+    "w1": "capital",
+    "w2": "Worcester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15056,
+    "unigram_w1": 42058182,
+    "unigram_w2": 103824,
+    "ppmi": 1.5205966987988055
+  },
+  {
+    "w1": "Worcestershire",
+    "w2": "Worcester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3578,
+    "unigram_w1": 38530,
+    "unigram_w2": 103824,
+    "ppmi": 9.539672046507699
+  }
+]

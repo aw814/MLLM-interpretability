@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Popular de Polonia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 928,
+    "unigram_w1": 2696,
+    "unigram_w2": 42058182,
+    "ppmi": 2.7677024506991175
+  },
+  {
+    "w1": "capital",
+    "w2": "Varsovia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 139660,
+    "unigram_w1": 42058182,
+    "unigram_w2": 667028,
+    "ppmi": 2.0504977915392217
+  },
+  {
+    "w1": "República Popular de Polonia",
+    "w2": "Varsovia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1420,
+    "unigram_w1": 2696,
+    "unigram_w2": 667028,
+    "ppmi": 9.35989202641024
+  }
+]

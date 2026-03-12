@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אמירות סיציליה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "פלרמו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 14610,
+    "unigram_w2": 3511,
+    "ppmi": 2.6443135275421445
+  },
+  {
+    "w1": "אמירות סיציליה",
+    "w2": "פלרמו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 8,
+    "unigram_w2": 3511,
+    "ppmi": 11.100470461979276
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "安德尔-卢瓦尔省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 60,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "图尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 84,
+    "unigram_w1": 32140,
+    "unigram_w2": 32489,
+    "ppmi": 2.2301589635157675
+  },
+  {
+    "w1": "安德尔-卢瓦尔省",
+    "w2": "图尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 60,
+    "unigram_w2": 32489,
+    "ppmi": 8.990496094941284
+  }
+]

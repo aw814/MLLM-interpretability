@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "乔万尼·薄伽丘",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 24,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "意大利语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 25180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "乔万尼·薄伽丘",
+    "w2": "意大利语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 24,
+    "unigram_w2": 25180,
+    "ppmi": 7.592634404225909
+  }
+]

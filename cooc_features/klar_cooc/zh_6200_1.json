@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "荷属东印度",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 283,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "雅加达",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 275,
+    "unigram_w1": 32140,
+    "unigram_w2": 39507,
+    "ppmi": 3.6589723897396236
+  },
+  {
+    "w1": "荷属东印度",
+    "w2": "雅加达",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 283,
+    "unigram_w2": 39507,
+    "ppmi": 7.740660651676259
+  }
+]

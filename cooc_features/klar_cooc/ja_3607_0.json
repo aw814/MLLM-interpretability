@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アラブ首長国連邦",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 502,
+    "unigram_w1": 161964,
+    "unigram_w2": 48638,
+    "ppmi": 3.4765378576655035
+  },
+  {
+    "w1": "continent",
+    "w2": "アジア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3016,
+    "unigram_w1": 48638,
+    "unigram_w2": 5079156,
+    "ppmi": 1.0925713154500045
+  },
+  {
+    "w1": "アラブ首長国連邦",
+    "w2": "アジア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45228,
+    "unigram_w1": 161964,
+    "unigram_w2": 5079156,
+    "ppmi": 3.263561815314667
+  }
+]

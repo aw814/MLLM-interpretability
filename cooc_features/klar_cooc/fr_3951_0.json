@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arlon",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 149162,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "province de Luxembourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 48510,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Arlon",
+    "w2": "province de Luxembourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9071,
+    "unigram_w1": 149162,
+    "unigram_w2": 48510,
+    "ppmi": 9.34344610860905
+  }
+]

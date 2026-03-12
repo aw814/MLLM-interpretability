@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "작센주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 275,
+    "unigram_w2": 36855,
+    "ppmi": 2.2074171617880585
+  },
+  {
+    "w1": "capital",
+    "w2": "드레스덴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 303,
+    "unigram_w1": 36855,
+    "unigram_w2": 5673,
+    "ppmi": 4.499020304280958
+  },
+  {
+    "w1": "작센주",
+    "w2": "드레스덴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 93,
+    "unigram_w1": 275,
+    "unigram_w2": 5673,
+    "ppmi": 9.8612900614747
+  }
+]

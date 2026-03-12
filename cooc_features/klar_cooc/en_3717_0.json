@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows Media Player",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2102,
+    "unigram_w1": 49517,
+    "unigram_w2": 2684467,
+    "ppmi": 2.5285093378330865
+  },
+  {
+    "w1": "developer",
+    "w2": "Microsoft",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 220506,
+    "unigram_w1": 2684467,
+    "unigram_w2": 3228005,
+    "ppmi": 3.214845678672881
+  },
+  {
+    "w1": "Windows Media Player",
+    "w2": "Microsoft",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17326,
+    "unigram_w1": 49517,
+    "unigram_w2": 3228005,
+    "ppmi": 5.305606242588472
+  }
+]

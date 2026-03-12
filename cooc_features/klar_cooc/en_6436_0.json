@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Carolina",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 40886,
+    "unigram_w1": 784203,
+    "unigram_w2": 7450623,
+    "ppmi": 1.3523249506669721
+  },
+  {
+    "w1": "capital",
+    "w2": "Columbia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 149248,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1983840,
+    "ppmi": 1.8813611091390554
+  },
+  {
+    "w1": "South Carolina",
+    "w2": "Columbia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 91145,
+    "unigram_w1": 784203,
+    "unigram_w2": 1983840,
+    "ppmi": 4.417946929699376
+  }
+]

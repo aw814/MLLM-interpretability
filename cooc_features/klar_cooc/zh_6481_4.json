@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿富汗",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 203,
+    "unigram_w1": 123986,
+    "unigram_w2": 32140,
+    "ppmi": 1.571023475246982
+  },
+  {
+    "w1": "capital",
+    "w2": "喀布尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 32140,
+    "unigram_w2": 7978,
+    "ppmi": 2.448656351624981
+  },
+  {
+    "w1": "阿富汗",
+    "w2": "喀布尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6521,
+    "unigram_w1": 123986,
+    "unigram_w2": 7978,
+    "ppmi": 8.586835962934078
+  }
+]

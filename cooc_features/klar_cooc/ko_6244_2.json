@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "웨스턴오스트레일리아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 67,
+    "unigram_w2": 36855,
+    "ppmi": 2.6596532790211516
+  },
+  {
+    "w1": "capital",
+    "w2": "퍼스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 366,
+    "unigram_w1": 36855,
+    "unigram_w2": 10038,
+    "ppmi": 3.948258077003458
+  },
+  {
+    "w1": "웨스턴오스트레일리아주",
+    "w2": "퍼스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 67,
+    "unigram_w2": 10038,
+    "ppmi": 8.536041786232326
+  }
+]

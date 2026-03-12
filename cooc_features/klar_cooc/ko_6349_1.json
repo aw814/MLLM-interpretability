@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "노던 준주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 71,
+    "unigram_w2": 36855,
+    "ppmi": 4.575995349974242
+  },
+  {
+    "w1": "capital",
+    "w2": "다윈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 36855,
+    "unigram_w2": 6674,
+    "ppmi": 1.480838116933902
+  },
+  {
+    "w1": "노던 준주",
+    "w2": "다윈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 71,
+    "unigram_w2": 6674,
+    "ppmi": 8.36316021164997
+  }
+]

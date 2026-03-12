@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "וולפגנג פאולי",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 141,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "אוסטריה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 46910,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "וולפגנג פאולי",
+    "w2": "אוסטריה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 141,
+    "unigram_w2": 46910,
+    "ppmi": 4.358481033827828
+  }
+]

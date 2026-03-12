@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "나폴리도",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 63,
+    "unigram_w2": 36855,
+    "ppmi": 2.7484625459790077
+  },
+  {
+    "w1": "capital",
+    "w2": "나폴리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 316,
+    "unigram_w1": 36855,
+    "unigram_w2": 12094,
+    "ppmi": 3.4675193540044753
+  },
+  {
+    "w1": "나폴리도",
+    "w2": "나폴리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 63,
+    "unigram_w2": 12094,
+    "ppmi": 9.713583424916223
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "United Arab Emirates",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5281,
+    "unigram_w1": 322302,
+    "unigram_w2": 965266,
+    "ppmi": 2.6307776871633286
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "United Arab Emirates",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33913,
+    "unigram_w1": 322302,
+    "unigram_w2": 3865133,
+    "ppmi": 3.312213463625523
+  }
+]

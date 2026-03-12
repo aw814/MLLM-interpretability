@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "昆明市",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7478,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "雲南省",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 48982,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "昆明市",
+    "w2": "雲南省",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3150,
+    "unigram_w1": 7478,
+    "unigram_w2": 48982,
+    "ppmi": 10.552839538116498
+  }
+]

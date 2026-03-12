@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nueva Jersey",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 95470,
+    "unigram_w1": 803658,
+    "unigram_w2": 42058182,
+    "ppmi": 1.232863914051738
+  },
+  {
+    "w1": "capital",
+    "w2": "Trenton",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10180,
+    "unigram_w1": 42058182,
+    "unigram_w2": 80976,
+    "ppmi": 1.3145694187077392
+  },
+  {
+    "w1": "Nueva Jersey",
+    "w2": "Trenton",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12710,
+    "unigram_w1": 803658,
+    "unigram_w2": 80976,
+    "ppmi": 7.344456879999152
+  }
+]

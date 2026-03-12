@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פינלנד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100,
+    "unigram_w1": 22044,
+    "unigram_w2": 14610,
+    "ppmi": 1.9372978682240263
+  },
+  {
+    "w1": "capital",
+    "w2": "הלסינקי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 332,
+    "unigram_w1": 14610,
+    "unigram_w2": 7339,
+    "ppmi": 5.255211739746392
+  },
+  {
+    "w1": "פינלנד",
+    "w2": "הלסינקי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2231,
+    "unigram_w1": 22044,
+    "unigram_w2": 7339,
+    "ppmi": 7.410217252501963
+  }
+]

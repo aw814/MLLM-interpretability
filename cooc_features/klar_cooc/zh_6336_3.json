@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "弗吉尼亚州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 59,
+    "unigram_w1": 10366,
+    "unigram_w2": 32140,
+    "ppmi": 3.36857662996813
+  },
+  {
+    "w1": "capital",
+    "w2": "里士满",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45,
+    "unigram_w1": 32140,
+    "unigram_w2": 5892,
+    "ppmi": 3.7928166402848134
+  },
+  {
+    "w1": "弗吉尼亚州",
+    "w2": "里士满",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 372,
+    "unigram_w1": 10366,
+    "unigram_w2": 5892,
+    "ppmi": 8.472632985240926
+  }
+]

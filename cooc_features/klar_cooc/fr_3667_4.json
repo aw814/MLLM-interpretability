@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ligue arabe",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7498,
+    "unigram_w1": 120926,
+    "unigram_w2": 3399010,
+    "ppmi": 3.2407572914943636
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Ligue arabe",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5438,
+    "unigram_w1": 120926,
+    "unigram_w2": 3597699,
+    "ppmi": 2.695367734419449
+  }
+]

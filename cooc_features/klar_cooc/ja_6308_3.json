@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "中央マケドニア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 226,
+    "unigram_w2": 498928,
+    "ppmi": 3.9533812644121253
+  },
+  {
+    "w1": "capital",
+    "w2": "テッサロニキ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 622,
+    "unigram_w1": 498928,
+    "unigram_w2": 10706,
+    "ppmi": 4.3462709647555595
+  },
+  {
+    "w1": "中央マケドニア",
+    "w2": "テッサロニキ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 226,
+    "unigram_w2": 10706,
+    "ppmi": 13.477574090952183
+  }
+]

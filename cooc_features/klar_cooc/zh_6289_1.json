@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威尼斯共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 328,
+    "unigram_w2": 32140,
+    "ppmi": 5.052915755094061
+  },
+  {
+    "w1": "capital",
+    "w2": "威尼斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 945,
+    "unigram_w1": 32140,
+    "unigram_w2": 1355218,
+    "ppmi": 0.33958226699554106
+  },
+  {
+    "w1": "威尼斯共和国",
+    "w2": "威尼斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 328,
+    "unigram_w1": 328,
+    "unigram_w2": 1355218,
+    "ppmi": 5.427494056449562
+  }
+]

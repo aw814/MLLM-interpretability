@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アンナ・カレーニナ",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10714,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アンナ・カレーニナ",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1546,
+    "unigram_w1": 10714,
+    "unigram_w2": 310196,
+    "ppmi": 6.344398708437279
+  }
+]

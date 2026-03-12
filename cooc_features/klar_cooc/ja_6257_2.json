@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴィシー政権",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 4330,
+    "unigram_w2": 498928,
+    "ppmi": 1.3714808223258634
+  },
+  {
+    "w1": "capital",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10346,
+    "unigram_w1": 498928,
+    "unigram_w2": 2419066,
+    "ppmi": 0.582398907544786
+  },
+  {
+    "w1": "ヴィシー政権",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2240,
+    "unigram_w1": 4330,
+    "unigram_w2": 2419066,
+    "ppmi": 5.223217249237222
+  }
+]

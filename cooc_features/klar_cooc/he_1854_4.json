@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יישום רשת",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 115,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "אתר אינטרנט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 76261,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "יישום רשת",
+    "w2": "אתר אינטרנט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 115,
+    "unigram_w2": 76261,
+    "ppmi": 4.492060768429215
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Yugoslavia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 616,
+    "unigram_w1": 1811,
+    "unigram_w2": 7450623,
+    "ppmi": 4.058088989666351
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrade",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16208,
+    "unigram_w1": 7450623,
+    "unigram_w2": 117391,
+    "ppmi": 2.7573294585048136
+  },
+  {
+    "w1": "Kingdom of Yugoslavia",
+    "w2": "Belgrade",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 629,
+    "unigram_w1": 1811,
+    "unigram_w2": 117391,
+    "ppmi": 10.076186009650147
+  }
+]

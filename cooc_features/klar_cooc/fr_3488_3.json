@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kiribati",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3260,
+    "unigram_w1": 211186,
+    "unigram_w2": 3399010,
+    "ppmi": 1.234733700221038
+  },
+  {
+    "w1": "continent",
+    "w2": "Océanie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23980,
+    "unigram_w1": 3399010,
+    "unigram_w2": 413354,
+    "ppmi": 3.1447578400096585
+  },
+  {
+    "w1": "Kiribati",
+    "w2": "Océanie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5422,
+    "unigram_w1": 211186,
+    "unigram_w2": 413354,
+    "ppmi": 5.008351702443003
+  }
+]

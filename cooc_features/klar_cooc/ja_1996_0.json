@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スティーヴン・コルベア",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 828,
+    "unigram_w2": 62696,
+    "ppmi": 2.75053150332626
+  },
+  {
+    "w1": "occupation",
+    "w2": "ジャーナリスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1170,
+    "unigram_w1": 62696,
+    "unigram_w2": 776824,
+    "ppmi": 2.069083027308781
+  },
+  {
+    "w1": "スティーヴン・コルベア",
+    "w2": "ジャーナリスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 828,
+    "unigram_w2": 776824,
+    "ppmi": 4.119389037018366
+  }
+]

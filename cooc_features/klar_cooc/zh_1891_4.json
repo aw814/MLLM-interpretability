@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "埃里克·马斯金",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 223,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "经济学家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 133454,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "埃里克·马斯金",
+    "w2": "经济学家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 223,
+    "unigram_w2": 133454,
+    "ppmi": 7.7255921475143925
+  }
+]

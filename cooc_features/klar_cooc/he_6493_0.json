@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קניה וסט",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 341,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "שיקגו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 30177,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קניה וסט",
+    "w2": "שיקגו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 341,
+    "unigram_w2": 30177,
+    "ppmi": 4.168309545320917
+  }
+]

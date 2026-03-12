@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アッバース朝",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 5884,
+    "unigram_w2": 498928,
+    "ppmi": 1.6294903188262129
+  },
+  {
+    "w1": "capital",
+    "w2": "バグダード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 498928,
+    "unigram_w2": 7682,
+    "ppmi": 2.1293283841300417
+  },
+  {
+    "w1": "アッバース朝",
+    "w2": "バグダード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1678,
+    "unigram_w1": 5884,
+    "unigram_w2": 7682,
+    "ppmi": 12.66278346315919
+  }
+]

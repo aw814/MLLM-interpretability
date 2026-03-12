@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "泰米尔纳德邦",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 2529,
+    "unigram_w2": 32140,
+    "ppmi": 2.328508859385354
+  },
+  {
+    "w1": "capital",
+    "w2": "金奈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 32140,
+    "unigram_w2": 12846,
+    "ppmi": 0.8769133960254146
+  },
+  {
+    "w1": "泰米尔纳德邦",
+    "w2": "金奈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 164,
+    "unigram_w1": 2529,
+    "unigram_w2": 12846,
+    "ppmi": 8.201756669401624
+  }
+]

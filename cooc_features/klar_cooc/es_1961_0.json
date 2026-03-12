@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Annie Lennox",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 30876,
+    "unigram_w2": 77008,
+    "ppmi": 1.8072185351533716
+  },
+  {
+    "w1": "occupation",
+    "w2": "compositor de canciones",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 77008,
+    "unigram_w2": 16350,
+    "ppmi": 2.7244137623355207
+  },
+  {
+    "w1": "Annie Lennox",
+    "w2": "compositor de canciones",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 30876,
+    "unigram_w2": 16350,
+    "ppmi": 5.968935646401659
+  }
+]

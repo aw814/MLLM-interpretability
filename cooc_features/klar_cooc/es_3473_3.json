@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tallin",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 224,
+    "unigram_w1": 106440,
+    "unigram_w2": 91062,
+    "ppmi": 4.265321897584276
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Tallin",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40580,
+    "unigram_w1": 106440,
+    "unigram_w2": 39895658,
+    "ppmi": 2.991281340343396
+  }
+]

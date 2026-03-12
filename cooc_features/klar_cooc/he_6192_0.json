@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רוסיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 487,
+    "unigram_w1": 147123,
+    "unigram_w2": 14610,
+    "ppmi": 1.4826547746241538
+  },
+  {
+    "w1": "capital",
+    "w2": "מוסקבה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 491,
+    "unigram_w1": 14610,
+    "unigram_w2": 47063,
+    "ppmi": 3.138813637906552
+  },
+  {
+    "w1": "רוסיה",
+    "w2": "מוסקבה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19440,
+    "unigram_w1": 147123,
+    "unigram_w2": 47063,
+    "ppmi": 5.113980302035867
+  }
+]

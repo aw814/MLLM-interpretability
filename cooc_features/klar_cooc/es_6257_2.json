@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Francia de Vichy",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2556,
+    "unigram_w1": 9360,
+    "unigram_w2": 42058182,
+    "ppmi": 2.433705543229631
+  },
+  {
+    "w1": "capital",
+    "w2": "París",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1847410,
+    "unigram_w1": 42058182,
+    "unigram_w2": 10491248,
+    "ppmi": 1.8007159186068031
+  },
+  {
+    "w1": "Francia de Vichy",
+    "w2": "París",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3396,
+    "unigram_w1": 9360,
+    "unigram_w2": 10491248,
+    "ppmi": 4.8468543497751035
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "시칠리아 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 68,
+    "unigram_w2": 36855,
+    "ppmi": 2.638279628228585
+  },
+  {
+    "w1": "capital",
+    "w2": "나폴리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 316,
+    "unigram_w1": 36855,
+    "unigram_w2": 12094,
+    "ppmi": 3.4675193540044753
+  },
+  {
+    "w1": "시칠리아 왕국",
+    "w2": "나폴리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40,
+    "unigram_w1": 68,
+    "unigram_w2": 12094,
+    "ppmi": 9.567776597435078
+  }
+]

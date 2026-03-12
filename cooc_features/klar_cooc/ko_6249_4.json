@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "매니토바주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 537,
+    "unigram_w2": 36855,
+    "ppmi": 0.6569641914935117
+  },
+  {
+    "w1": "capital",
+    "w2": "위니펙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 299,
+    "unigram_w1": 36855,
+    "unigram_w2": 2771,
+    "ppmi": 5.513553148195612
+  },
+  {
+    "w1": "매니토바주",
+    "w2": "위니펙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 331,
+    "unigram_w1": 537,
+    "unigram_w2": 2771,
+    "ppmi": 11.761033340789997
+  }
+]

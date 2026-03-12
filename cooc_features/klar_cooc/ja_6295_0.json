@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アリゾナ州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1038,
+    "unigram_w1": 96198,
+    "unigram_w2": 498928,
+    "ppmi": 1.9175035807247474
+  },
+  {
+    "w1": "capital",
+    "w2": "フェニックス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7518,
+    "unigram_w1": 498928,
+    "unigram_w2": 488828,
+    "ppmi": 2.4287979326509705
+  },
+  {
+    "w1": "アリゾナ州",
+    "w2": "フェニックス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24556,
+    "unigram_w1": 96198,
+    "unigram_w2": 488828,
+    "ppmi": 6.511205518102519
+  }
+]

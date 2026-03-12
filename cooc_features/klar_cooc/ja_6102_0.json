@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィレンツェ大学",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1862,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "フィレンツェ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 289624,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フィレンツェ大学",
+    "w2": "フィレンツェ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1862,
+    "unigram_w1": 1862,
+    "unigram_w2": 289624,
+    "ppmi": 9.236282610238712
+  }
+]

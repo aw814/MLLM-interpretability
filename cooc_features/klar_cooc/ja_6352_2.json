@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "サウスダコタ州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 158,
+    "unigram_w1": 13750,
+    "unigram_w2": 498928,
+    "ppmi": 2.0082688819303067
+  },
+  {
+    "w1": "capital",
+    "w2": "ピア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 680,
+    "unigram_w1": 498928,
+    "unigram_w2": 181612,
+    "ppmi": 0.3905230618901943
+  },
+  {
+    "w1": "サウスダコタ州",
+    "w2": "ピア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 13750,
+    "unigram_w2": 181612,
+    "ppmi": 3.6381936690974555
+  }
+]

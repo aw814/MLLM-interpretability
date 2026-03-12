@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "비잔티움 제국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 477,
+    "unigram_w2": 36855,
+    "ppmi": 2.635251935531017
+  },
+  {
+    "w1": "capital",
+    "w2": "콘스탄티노폴리스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 36855,
+    "unigram_w2": 700,
+    "ppmi": 1.8594938583677516
+  },
+  {
+    "w1": "비잔티움 제국",
+    "w2": "콘스탄티노폴리스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 477,
+    "unigram_w2": 700,
+    "ppmi": 12.37914865377651
+  }
+]

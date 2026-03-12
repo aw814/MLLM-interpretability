@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פנסילבניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 149,
+    "unigram_w1": 10692,
+    "unigram_w2": 14610,
+    "ppmi": 3.5564644885008905
+  },
+  {
+    "w1": "capital",
+    "w2": "האריסברג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 58,
+    "ppmi": 5.863559095154235
+  },
+  {
+    "w1": "פנסילבניה",
+    "w2": "האריסברג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 10692,
+    "unigram_w2": 58,
+    "ppmi": 8.898946031323174
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yangtsé",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54,
+    "unigram_w1": 23234,
+    "unigram_w2": 91062,
+    "ppmi": 4.40858543599645
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Yangtsé",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5998,
+    "unigram_w1": 23234,
+    "unigram_w2": 9286646,
+    "ppmi": 4.53179905511731
+  }
+]

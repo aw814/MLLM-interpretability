@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "유고슬라비아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 4422,
+    "unigram_w2": 36855,
+    "ppmi": 1.4226140817203023
+  },
+  {
+    "w1": "capital",
+    "w2": "베오그라드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 293,
+    "unigram_w1": 36855,
+    "unigram_w2": 3082,
+    "ppmi": 5.330848177386387
+  },
+  {
+    "w1": "유고슬라비아",
+    "w2": "베오그라드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1119,
+    "unigram_w1": 4422,
+    "unigram_w2": 3082,
+    "ppmi": 10.32317507209499
+  }
+]

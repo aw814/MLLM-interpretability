@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pretzel",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 51246,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Alemania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 17786194,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pretzel",
+    "w2": "Alemania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5634,
+    "unigram_w1": 51246,
+    "unigram_w2": 17786194,
+    "ppmi": 2.362746968857886
+  }
+]

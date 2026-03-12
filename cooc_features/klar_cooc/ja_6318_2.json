@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スペイン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13032,
+    "unigram_w1": 2579244,
+    "unigram_w2": 498928,
+    "ppmi": 0.8228861906396888
+  },
+  {
+    "w1": "capital",
+    "w2": "マドリード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1644,
+    "unigram_w1": 498928,
+    "unigram_w2": 237396,
+    "ppmi": 1.2776906146665887
+  },
+  {
+    "w1": "スペイン",
+    "w2": "マドリード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 153690,
+    "unigram_w1": 2579244,
+    "unigram_w2": 237396,
+    "ppmi": 5.45431508378752
+  }
+]

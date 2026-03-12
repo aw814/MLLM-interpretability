@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아프가니스탄",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 196,
+    "unigram_w1": 17672,
+    "unigram_w2": 36855,
+    "ppmi": 2.2312746102388576
+  },
+  {
+    "w1": "capital",
+    "w2": "카불",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 36855,
+    "unigram_w2": 1125,
+    "ppmi": 2.496923778983043
+  },
+  {
+    "w1": "아프가니스탄",
+    "w2": "카불",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 709,
+    "unigram_w1": 17672,
+    "unigram_w2": 1125,
+    "ppmi": 9.12007003522945
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Roumanie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55943,
+    "unigram_w1": 1493850,
+    "unigram_w2": 7952962,
+    "ppmi": 1.286920592744394
+  },
+  {
+    "w1": "capital",
+    "w2": "Bucarest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11979,
+    "unigram_w1": 7952962,
+    "unigram_w2": 302652,
+    "ppmi": 1.3667739507527727
+  },
+  {
+    "w1": "Roumanie",
+    "w2": "Bucarest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 145474,
+    "unigram_w1": 1493850,
+    "unigram_w2": 302652,
+    "ppmi": 7.381412882411557
+  }
+]

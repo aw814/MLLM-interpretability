@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "케냐",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 167,
+    "unigram_w1": 20860,
+    "unigram_w2": 36855,
+    "ppmi": 1.7609952245458484
+  },
+  {
+    "w1": "capital",
+    "w2": "나이로비",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 342,
+    "unigram_w1": 36855,
+    "unigram_w2": 3528,
+    "ppmi": 5.358960138807301
+  },
+  {
+    "w1": "케냐",
+    "w2": "나이로비",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1655,
+    "unigram_w1": 20860,
+    "unigram_w2": 3528,
+    "ppmi": 8.45484432617954
+  }
+]

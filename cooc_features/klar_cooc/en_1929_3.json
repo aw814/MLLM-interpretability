@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Clyde Tombaugh",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1606,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "astronomer",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 108358,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Clyde Tombaugh",
+    "w2": "astronomer",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 751,
+    "unigram_w1": 1606,
+    "unigram_w2": 108358,
+    "ppmi": 10.620769688907734
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויסקונסין",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 5607,
+    "unigram_w2": 14610,
+    "ppmi": 1.7920886918725059
+  },
+  {
+    "w1": "capital",
+    "w2": "מדיסון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 14610,
+    "unigram_w2": 7508,
+    "ppmi": 1.9766101723958995
+  },
+  {
+    "w1": "ויסקונסין",
+    "w2": "מדיסון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 665,
+    "unigram_w1": 5607,
+    "unigram_w2": 7508,
+    "ppmi": 7.606192889064031
+  }
+]

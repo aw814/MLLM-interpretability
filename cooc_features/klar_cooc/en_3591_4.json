@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Inn",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7793,
+    "unigram_w1": 1182126,
+    "unigram_w2": 965266,
+    "ppmi": 1.3172465909298015
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Inn",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50815,
+    "unigram_w1": 1182126,
+    "unigram_w2": 7715842,
+    "ppmi": 1.0234251633239917
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "タタールスタン共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42,
+    "unigram_w1": 1466,
+    "unigram_w2": 498928,
+    "ppmi": 3.3262801665848993
+  },
+  {
+    "w1": "capital",
+    "w2": "カザン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 420,
+    "unigram_w1": 498928,
+    "unigram_w2": 23544,
+    "ppmi": 2.6428058226656783
+  },
+  {
+    "w1": "タタールスタン共和国",
+    "w2": "カザン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 788,
+    "unigram_w1": 1466,
+    "unigram_w2": 23544,
+    "ppmi": 11.961414846887433
+  }
+]

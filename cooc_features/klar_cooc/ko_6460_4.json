@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "퀸즐랜드주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 330,
+    "unigram_w2": 36855,
+    "ppmi": 1.3594202552331085
+  },
+  {
+    "w1": "capital",
+    "w2": "브리즈번",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 368,
+    "unigram_w1": 36855,
+    "unigram_w2": 11185,
+    "ppmi": 3.800026789589456
+  },
+  {
+    "w1": "퀸즐랜드주",
+    "w2": "브리즈번",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101,
+    "unigram_w1": 330,
+    "unigram_w2": 11185,
+    "ppmi": 8.737926840009106
+  }
+]

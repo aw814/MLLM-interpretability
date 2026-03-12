@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ונטו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 3682,
+    "unigram_w2": 14610,
+    "ppmi": 1.0451911803742133
+  },
+  {
+    "w1": "capital",
+    "w2": "ונציה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 14610,
+    "unigram_w2": 26965,
+    "ppmi": 3.985733251578195
+  },
+  {
+    "w1": "ונטו",
+    "w2": "ונציה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 730,
+    "unigram_w1": 3682,
+    "unigram_w2": 26965,
+    "ppmi": 6.502886976992219
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "עיריית סטוקהולם",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "סטוקהולם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 14610,
+    "unigram_w2": 3143,
+    "ppmi": 6.361001376175708
+  },
+  {
+    "w1": "עיריית סטוקהולם",
+    "w2": "סטוקהולם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 17,
+    "unigram_w2": 3143,
+    "ppmi": 11.938282091173917
+  }
+]

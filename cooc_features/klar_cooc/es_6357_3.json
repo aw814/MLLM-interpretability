@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nápoles",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 212026,
+    "unigram_w1": 1163180,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8505649615693602
+  },
+  {
+    "w1": "capital",
+    "w2": "Nápoles",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212026,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1163180,
+    "ppmi": 1.8505649615693602
+  },
+  {
+    "w1": "Nápoles",
+    "w2": "Nápoles",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1163180,
+    "unigram_w1": 1163180,
+    "unigram_w2": 1163180,
+    "ppmi": 9.482566452827898
+  }
+]

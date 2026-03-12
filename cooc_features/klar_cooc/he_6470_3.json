@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ניו ג'רזי",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 8760,
+    "unigram_w2": 14610,
+    "ppmi": 2.3252646539343638
+  },
+  {
+    "w1": "capital",
+    "w2": "טרנטון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 14610,
+    "unigram_w2": 345,
+    "ppmi": 3.6130156335036383
+  },
+  {
+    "w1": "ניו ג'רזי",
+    "w2": "טרנטון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 107,
+    "unigram_w1": 8760,
+    "unigram_w2": 345,
+    "ppmi": 8.770507928219748
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブリュッセル首都圏地域",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 394,
+    "unigram_w2": 498928,
+    "ppmi": 4.636935234541179
+  },
+  {
+    "w1": "capital",
+    "w2": "ブリュッセル＝ヴィル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 498928,
+    "unigram_w2": 26,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ブリュッセル首都圏地域",
+    "w2": "ブリュッセル＝ヴィル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 394,
+    "unigram_w2": 26,
+    "ppmi": 17.64257520562895
+  }
+]

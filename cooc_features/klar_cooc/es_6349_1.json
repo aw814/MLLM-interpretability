@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Territorio del Norte",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8224,
+    "unigram_w1": 27510,
+    "unigram_w2": 42058182,
+    "ppmi": 2.564282266743709
+  },
+  {
+    "w1": "capital",
+    "w2": "Darwin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127864,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1086680,
+    "ppmi": 1.2190811082931277
+  },
+  {
+    "w1": "Territorio del Norte",
+    "w2": "Darwin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5416,
+    "unigram_w1": 27510,
+    "unigram_w2": 1086680,
+    "ppmi": 7.236057160326847
+  }
+]

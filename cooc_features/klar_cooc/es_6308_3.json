@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Macedonia Central",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1616,
+    "unigram_w1": 6838,
+    "unigram_w2": 42058182,
+    "ppmi": 2.225179012071804
+  },
+  {
+    "w1": "capital",
+    "w2": "Salónica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19090,
+    "unigram_w1": 42058182,
+    "unigram_w2": 91912,
+    "ppmi": 2.0388901079015667
+  },
+  {
+    "w1": "Macedonia Central",
+    "w2": "Salónica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1706,
+    "unigram_w1": 6838,
+    "unigram_w2": 91912,
+    "ppmi": 11.141287003427596
+  }
+]

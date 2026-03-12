@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Andalousie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7006,
+    "unigram_w1": 282869,
+    "unigram_w2": 7952962,
+    "ppmi": 0.6904551724919573
+  },
+  {
+    "w1": "capital",
+    "w2": "Séville",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11642,
+    "unigram_w1": 7952962,
+    "unigram_w2": 581977,
+    "ppmi": 0.3823031421298012
+  },
+  {
+    "w1": "Andalousie",
+    "w2": "Séville",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50476,
+    "unigram_w1": 282869,
+    "unigram_w2": 581977,
+    "ppmi": 7.311848101093501
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Siena",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 84910,
+    "unigram_w1": 532264,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6581906223772238
+  },
+  {
+    "w1": "capital",
+    "w2": "Siena",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 84910,
+    "unigram_w1": 42058182,
+    "unigram_w2": 532264,
+    "ppmi": 1.6581906223772238
+  },
+  {
+    "w1": "Siena",
+    "w2": "Siena",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 532264,
+    "unigram_w1": 532264,
+    "unigram_w2": 532264,
+    "ppmi": 10.610426924244182
+  }
+]

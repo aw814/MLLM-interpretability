@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dubái",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 384872,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Dubái",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 384872,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Dubái",
+    "w2": "Dubái",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 384872,
+    "unigram_w1": 384872,
+    "unigram_w2": 384872,
+    "ppmi": 11.078190199453415
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "중화인민공화국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66,
+    "unigram_w1": 9214,
+    "unigram_w2": 36855,
+    "ppmi": 1.6005247062331667
+  },
+  {
+    "w1": "capital",
+    "w2": "베이징시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 36855,
+    "unigram_w2": 1865,
+    "ppmi": 2.1087100677799095
+  },
+  {
+    "w1": "중화인민공화국",
+    "w2": "베이징시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 9214,
+    "unigram_w2": 1865,
+    "ppmi": 6.693633423867539
+  }
+]

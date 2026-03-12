@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "체코",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 222,
+    "unigram_w1": 35416,
+    "unigram_w2": 36855,
+    "ppmi": 1.4080446777311644
+  },
+  {
+    "w1": "capital",
+    "w2": "프라하",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 99,
+    "unigram_w1": 36855,
+    "unigram_w2": 17713,
+    "ppmi": 1.242578132104221
+  },
+  {
+    "w1": "체코",
+    "w2": "프라하",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7856,
+    "unigram_w1": 35416,
+    "unigram_w2": 17713,
+    "ppmi": 7.610259806212122
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mahavira",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4788,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "India",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 12229280,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Mahavira",
+    "w2": "India",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2990,
+    "unigram_w1": 4788,
+    "unigram_w2": 12229280,
+    "ppmi": 5.409095591055694
+  }
+]

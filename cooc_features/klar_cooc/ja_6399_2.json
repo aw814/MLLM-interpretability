@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウェールズ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1012,
+    "unigram_w1": 130734,
+    "unigram_w2": 498928,
+    "ppmi": 1.438350840471856
+  },
+  {
+    "w1": "capital",
+    "w2": "カーディフ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 716,
+    "unigram_w1": 498928,
+    "unigram_w2": 39550,
+    "ppmi": 2.6640578349566906
+  },
+  {
+    "w1": "ウェールズ",
+    "w2": "カーディフ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7056,
+    "unigram_w1": 130734,
+    "unigram_w2": 39550,
+    "ppmi": 7.897074147652861
+  }
+]

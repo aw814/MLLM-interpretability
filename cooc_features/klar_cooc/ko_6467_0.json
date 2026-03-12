@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "슬로베니아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 102,
+    "unigram_w1": 11600,
+    "unigram_w2": 36855,
+    "ppmi": 1.896330626548123
+  },
+  {
+    "w1": "capital",
+    "w2": "류블랴나",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 36855,
+    "unigram_w2": 1141,
+    "ppmi": 2.3770143152478465
+  },
+  {
+    "w1": "슬로베니아",
+    "w2": "류블랴나",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 751,
+    "unigram_w1": 11600,
+    "unigram_w2": 1141,
+    "ppmi": 9.790064043772901
+  }
+]

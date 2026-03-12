@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스코틀랜드 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 38,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "에든버러",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 344,
+    "unigram_w1": 36855,
+    "unigram_w2": 6662,
+    "ppmi": 4.450267585506671
+  },
+  {
+    "w1": "스코틀랜드 왕국",
+    "w2": "에든버러",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 38,
+    "unigram_w2": 6662,
+    "ppmi": 8.753002977389276
+  }
+]

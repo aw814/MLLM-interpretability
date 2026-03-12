@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דקוטה הצפונית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 419,
+    "unigram_w2": 14610,
+    "ppmi": 3.0107336565824556
+  },
+  {
+    "w1": "capital",
+    "w2": "ביסמרק",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 14610,
+    "unigram_w2": 1563,
+    "ppmi": 2.811877745423235
+  },
+  {
+    "w1": "דקוטה הצפונית",
+    "w2": "ביסמרק",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40,
+    "unigram_w1": 419,
+    "unigram_w2": 1563,
+    "ppmi": 9.557228246161014
+  }
+]

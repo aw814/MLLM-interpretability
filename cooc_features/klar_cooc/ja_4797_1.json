@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フランツ・リスト",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 10110,
+    "unigram_w2": 139628,
+    "ppmi": 1.9853801129786048
+  },
+  {
+    "w1": "instrument",
+    "w2": "ピアノ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6744,
+    "unigram_w1": 139628,
+    "unigram_w2": 2499778,
+    "ppmi": 1.7548957635076379
+  },
+  {
+    "w1": "フランツ・リスト",
+    "w2": "ピアノ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6936,
+    "unigram_w1": 10110,
+    "unigram_w2": 2499778,
+    "ppmi": 5.583128501733294
+  }
+]

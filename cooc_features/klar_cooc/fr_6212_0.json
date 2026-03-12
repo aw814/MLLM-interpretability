@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dakota du Nord",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1692,
+    "unigram_w1": 46001,
+    "unigram_w2": 7952962,
+    "ppmi": 1.2609907024101943
+  },
+  {
+    "w1": "capital",
+    "w2": "Bismarck",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6947,
+    "unigram_w1": 7952962,
+    "unigram_w2": 93090,
+    "ppmi": 2.2816902574599833
+  },
+  {
+    "w1": "Dakota du Nord",
+    "w2": "Bismarck",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2146,
+    "unigram_w1": 46001,
+    "unigram_w2": 93090,
+    "ppmi": 8.020633479843983
+  }
+]

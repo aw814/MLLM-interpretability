@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Airbus A300",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 4448,
+    "unigram_w2": 366427,
+    "ppmi": 3.0472476588668025
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Airbus",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2014,
+    "unigram_w1": 366427,
+    "unigram_w2": 713209,
+    "ppmi": 1.9976315985410789
+  },
+  {
+    "w1": "Airbus A300",
+    "w2": "Airbus",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4448,
+    "unigram_w1": 4448,
+    "unigram_w2": 713209,
+    "ppmi": 9.50494991662365
+  }
+]

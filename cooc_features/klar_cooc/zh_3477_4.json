@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "澳大利亚",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 493332,
+    "unigram_w2": 1361,
+    "ppmi": 2.1753765889143537
+  },
+  {
+    "w1": "continent",
+    "w2": "大洋洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 1361,
+    "unigram_w2": 26564,
+    "ppmi": 4.011879527712296
+  },
+  {
+    "w1": "澳大利亚",
+    "w2": "大洋洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4749,
+    "unigram_w1": 493332,
+    "unigram_w2": 26564,
+    "ppmi": 4.401611479911078
+  }
+]

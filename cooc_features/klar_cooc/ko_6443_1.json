@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "피에몬테주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 100,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "토리노",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 317,
+    "unigram_w1": 36855,
+    "unigram_w2": 6281,
+    "ppmi": 4.417302945618191
+  },
+  {
+    "w1": "피에몬테주",
+    "w2": "토리노",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 100,
+    "unigram_w2": 6281,
+    "ppmi": 9.804605465117055
+  }
+]

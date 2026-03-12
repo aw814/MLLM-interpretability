@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィジー",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 318,
+    "unigram_w1": 101914,
+    "unigram_w2": 48638,
+    "ppmi": 3.4861981884035527
+  },
+  {
+    "w1": "continent",
+    "w2": "オセアニア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 196,
+    "unigram_w1": 48638,
+    "unigram_w2": 177686,
+    "ppmi": 1.9860473114871071
+  },
+  {
+    "w1": "フィジー",
+    "w2": "オセアニア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5936,
+    "unigram_w1": 101914,
+    "unigram_w2": 177686,
+    "ppmi": 5.8394164061449825
+  }
+]

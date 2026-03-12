@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שפילד יונייטד",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1167,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "שפילד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3402,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שפילד יונייטד",
+    "w2": "שפילד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1167,
+    "unigram_w1": 1167,
+    "unigram_w2": 3402,
+    "ppmi": 11.824041222309283
+  }
+]

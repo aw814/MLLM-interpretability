@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ספרד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 430,
+    "unigram_w1": 137851,
+    "unigram_w2": 14610,
+    "ppmi": 1.3969827324366746
+  },
+  {
+    "w1": "capital",
+    "w2": "מדריד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 441,
+    "unigram_w1": 14610,
+    "unigram_w2": 68191,
+    "ppmi": 2.448881214579665
+  },
+  {
+    "w1": "ספרד",
+    "w2": "מדריד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19611,
+    "unigram_w1": 137851,
+    "unigram_w2": 68191,
+    "ppmi": 4.6855402018366314
+  }
+]

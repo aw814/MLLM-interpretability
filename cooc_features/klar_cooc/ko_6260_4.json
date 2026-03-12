@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "브뤼셀",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 177,
+    "unigram_w1": 12067,
+    "unigram_w2": 36855,
+    "ppmi": 2.6345685905214316
+  },
+  {
+    "w1": "capital",
+    "w2": "브뤼셀 시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 36855,
+    "unigram_w2": 26,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "브뤼셀",
+    "w2": "브뤼셀 시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 12067,
+    "unigram_w2": 26,
+    "ppmi": 10.336535778409118
+  }
+]

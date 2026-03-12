@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "维尔纽斯县",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "维尔纽斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 32140,
+    "unigram_w2": 5267,
+    "ppmi": 3.1065957046117556
+  },
+  {
+    "w1": "维尔纽斯县",
+    "w2": "维尔纽斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 2,
+    "unigram_w2": 5267,
+    "ppmi": 13.434821823399487
+  }
+]

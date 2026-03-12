@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아제르바이잔",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 112,
+    "unigram_w1": 8859,
+    "unigram_w2": 36855,
+    "ppmi": 2.420169249681418
+  },
+  {
+    "w1": "capital",
+    "w2": "바쿠",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 36855,
+    "unigram_w2": 2000,
+    "ppmi": 2.1522756075955978
+  },
+  {
+    "w1": "아제르바이잔",
+    "w2": "바쿠",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 773,
+    "unigram_w1": 8859,
+    "unigram_w2": 2000,
+    "ppmi": 9.410927384857258
+  }
+]

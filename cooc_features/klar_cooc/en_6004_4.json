@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Bulgaria",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 72,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Bulgaria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 395356,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "flag of Bulgaria",
+    "w2": "Bulgaria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 72,
+    "unigram_w2": 395356,
+    "ppmi": 9.850010120063768
+  }
+]

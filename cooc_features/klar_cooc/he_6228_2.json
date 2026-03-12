@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סקוטלנד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 51,
+    "unigram_w1": 17407,
+    "unigram_w2": 14610,
+    "ppmi": 1.3065854687879002
+  },
+  {
+    "w1": "capital",
+    "w2": "אדינבורו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 367,
+    "unigram_w1": 14610,
+    "unigram_w2": 6547,
+    "ppmi": 5.564558079536501
+  },
+  {
+    "w1": "סקוטלנד",
+    "w2": "אדינבורו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1559,
+    "unigram_w1": 17407,
+    "unigram_w2": 6547,
+    "ppmi": 7.398615633616531
+  }
+]

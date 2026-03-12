@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "부다페스트",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 13749,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "헝가리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 38301,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "부다페스트",
+    "w2": "헝가리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7385,
+    "unigram_w1": 13749,
+    "unigram_w2": 38301,
+    "ppmi": 7.7735639025205225
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オランダ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8070,
+    "unigram_w1": 1389182,
+    "unigram_w2": 498928,
+    "ppmi": 1.0241808982098488
+  },
+  {
+    "w1": "capital",
+    "w2": "アムステルダム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2238,
+    "unigram_w1": 498928,
+    "unigram_w2": 216710,
+    "ppmi": 1.8542202509014734
+  },
+  {
+    "w1": "オランダ",
+    "w2": "アムステルダム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101246,
+    "unigram_w1": 1389182,
+    "unigram_w2": 216710,
+    "ppmi": 5.876399234543717
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "애리조나주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 3524,
+    "unigram_w2": 36855,
+    "ppmi": 1.4663062166155236
+  },
+  {
+    "w1": "capital",
+    "w2": "피닉스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 125,
+    "unigram_w1": 36855,
+    "unigram_w2": 17605,
+    "ppmi": 1.5878291473905177
+  },
+  {
+    "w1": "애리조나주",
+    "w2": "피닉스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 598,
+    "unigram_w1": 3524,
+    "unigram_w2": 17605,
+    "ppmi": 7.232621065976805
+  }
+]

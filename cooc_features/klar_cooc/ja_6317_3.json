@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "北アイルランド",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 582,
+    "unigram_w1": 57424,
+    "unigram_w2": 498928,
+    "ppmi": 1.8271412670321572
+  },
+  {
+    "w1": "capital",
+    "w2": "ベルファスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 738,
+    "unigram_w1": 498928,
+    "unigram_w2": 25942,
+    "ppmi": 3.316107049915477
+  },
+  {
+    "w1": "北アイルランド",
+    "w2": "ベルファスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7546,
+    "unigram_w1": 57424,
+    "unigram_w2": 25942,
+    "ppmi": 9.789232331414425
+  }
+]

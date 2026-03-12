@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バングラデシュ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1712,
+    "unigram_w1": 145788,
+    "unigram_w2": 498928,
+    "ppmi": 2.039586669458721
+  },
+  {
+    "w1": "capital",
+    "w2": "ダッカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 328,
+    "unigram_w1": 498928,
+    "unigram_w2": 31972,
+    "ppmi": 1.8446627626607963
+  },
+  {
+    "w1": "バングラデシュ",
+    "w2": "ダッカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15428,
+    "unigram_w1": 145788,
+    "unigram_w2": 31972,
+    "ppmi": 9.17533385035441
+  }
+]

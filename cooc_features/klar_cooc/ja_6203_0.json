@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "レスターシャー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 1872,
+    "unigram_w2": 498928,
+    "ppmi": 1.7511924137988586
+  },
+  {
+    "w1": "capital",
+    "w2": "レスター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 314,
+    "unigram_w1": 498928,
+    "unigram_w2": 151914,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "レスターシャー",
+    "w2": "レスター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 430,
+    "unigram_w1": 1872,
+    "unigram_w2": 151914,
+    "ppmi": 8.045037067076784
+  }
+]

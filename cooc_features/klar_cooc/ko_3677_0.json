@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "포스트스크립트",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 244,
+    "unigram_w2": 17565,
+    "ppmi": 4.449124414498144
+  },
+  {
+    "w1": "developer",
+    "w2": "어도비 시스템즈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 17565,
+    "unigram_w2": 90,
+    "ppmi": 4.3030461550101995
+  },
+  {
+    "w1": "포스트스크립트",
+    "w2": "어도비 시스템즈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 244,
+    "unigram_w2": 90,
+    "ppmi": 11.057687274278203
+  }
+]

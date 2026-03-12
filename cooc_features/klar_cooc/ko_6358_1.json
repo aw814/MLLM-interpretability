@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "루마니아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 166,
+    "unigram_w1": 21875,
+    "unigram_w2": 36855,
+    "ppmi": 1.683786504331433
+  },
+  {
+    "w1": "capital",
+    "w2": "부쿠레슈티",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 36855,
+    "unigram_w2": 3098,
+    "ppmi": 2.2160838819396953
+  },
+  {
+    "w1": "루마니아",
+    "w2": "부쿠레슈티",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1045,
+    "unigram_w1": 21875,
+    "unigram_w2": 3098,
+    "ppmi": 7.910485609133868
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de los Países Bajos",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42,
+    "unigram_w1": 34980,
+    "unigram_w2": 91062,
+    "ppmi": 3.455722619406
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Reino de los Países Bajos",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8784,
+    "unigram_w1": 34980,
+    "unigram_w2": 39895658,
+    "ppmi": 2.3889006558051404
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Australie",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 113100,
+    "unigram_w1": 3067806,
+    "unigram_w2": 3399010,
+    "ppmi": 2.49069570483502
+  },
+  {
+    "w1": "continent",
+    "w2": "Océanie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23980,
+    "unigram_w1": 3399010,
+    "unigram_w2": 413354,
+    "ppmi": 3.1447578400096585
+  },
+  {
+    "w1": "Australie",
+    "w2": "Océanie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78808,
+    "unigram_w1": 3067806,
+    "unigram_w2": 413354,
+    "ppmi": 5.0091756228715365
+  }
+]

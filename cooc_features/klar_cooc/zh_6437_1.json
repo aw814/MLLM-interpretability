@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "牙买加",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 17630,
+    "unigram_w2": 32140,
+    "ppmi": 3.0416884996708062
+  },
+  {
+    "w1": "capital",
+    "w2": "京斯敦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 32140,
+    "unigram_w2": 104,
+    "ppmi": 5.710028041571052
+  },
+  {
+    "w1": "牙买加",
+    "w2": "京斯敦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 17630,
+    "unigram_w2": 104,
+    "ppmi": 8.576365495925964
+  }
+]

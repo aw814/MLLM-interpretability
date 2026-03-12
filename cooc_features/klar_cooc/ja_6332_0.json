@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "サラエヴォ県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 134,
+    "unigram_w2": 498928,
+    "ppmi": 2.3855429414821785
+  },
+  {
+    "w1": "capital",
+    "w2": "サラエヴォ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 498928,
+    "unigram_w2": 5020,
+    "ppmi": 1.6175921017391137
+  },
+  {
+    "w1": "サラエヴォ県",
+    "w2": "サラエヴォ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 134,
+    "unigram_w1": 134,
+    "unigram_w2": 5020,
+    "ppmi": 15.086632593667128
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wolfgang Amadeus Mozart",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1216,
+    "unigram_w1": 12449,
+    "unigram_w2": 2136875,
+    "ppmi": 4.059917102330684
+  },
+  {
+    "w1": "instrument",
+    "w2": "viola",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27403,
+    "unigram_w1": 2136875,
+    "unigram_w2": 210517,
+    "ppmi": 4.474200835143102
+  },
+  {
+    "w1": "Wolfgang Amadeus Mozart",
+    "w2": "viola",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 789,
+    "unigram_w1": 12449,
+    "unigram_w2": 210517,
+    "ppmi": 6.779364950670857
+  }
+]

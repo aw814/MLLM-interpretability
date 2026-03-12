@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エスワティニ",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 2286,
+    "unigram_w2": 48638,
+    "ppmi": 3.973626363408974
+  },
+  {
+    "w1": "continent",
+    "w2": "アフリカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2966,
+    "unigram_w1": 48638,
+    "unigram_w2": 1832838,
+    "ppmi": 2.5389629945862024
+  },
+  {
+    "w1": "エスワティニ",
+    "w2": "アフリカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1782,
+    "unigram_w1": 2286,
+    "unigram_w2": 1832838,
+    "ppmi": 6.215128331208188
+  }
+]

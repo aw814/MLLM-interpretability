@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オーストリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4174,
+    "unigram_w1": 593408,
+    "unigram_w2": 498928,
+    "ppmi": 1.300182166093314
+  },
+  {
+    "w1": "capital",
+    "w2": "ウィーン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2720,
+    "unigram_w1": 498928,
+    "unigram_w2": 442450,
+    "ppmi": 1.1058681640446661
+  },
+  {
+    "w1": "オーストリア",
+    "w2": "ウィーン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 128834,
+    "unigram_w1": 593408,
+    "unigram_w2": 442450,
+    "ppmi": 6.421438340745855
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הקיסרות השנייה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 167,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "פריז",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 318,
+    "unigram_w1": 14610,
+    "unigram_w2": 77658,
+    "ppmi": 1.7895761133832064
+  },
+  {
+    "w1": "הקיסרות השנייה",
+    "w2": "פריז",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 102,
+    "unigram_w1": 167,
+    "unigram_w2": 77658,
+    "ppmi": 6.600082765287155
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סלובקיה",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 14451,
+    "unigram_w2": 2719,
+    "ppmi": 2.7878981212770717
+  },
+  {
+    "w1": "continent",
+    "w2": "אירופה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 896,
+    "unigram_w1": 2719,
+    "unigram_w2": 344826,
+    "ppmi": 3.5591941013339996
+  },
+  {
+    "w1": "סלובקיה",
+    "w2": "אירופה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5212,
+    "unigram_w1": 14451,
+    "unigram_w2": 344826,
+    "ppmi": 3.6894392745611566
+  }
+]

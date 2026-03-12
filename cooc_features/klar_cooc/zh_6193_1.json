@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威尼托",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 2507,
+    "unigram_w2": 32140,
+    "ppmi": 2.341113900214653
+  },
+  {
+    "w1": "capital",
+    "w2": "威尼斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 945,
+    "unigram_w1": 32140,
+    "unigram_w2": 1355218,
+    "ppmi": 0.33958226699554106
+  },
+  {
+    "w1": "威尼托",
+    "w2": "威尼斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 832,
+    "unigram_w1": 2507,
+    "unigram_w2": 1355218,
+    "ppmi": 3.836187493756715
+  }
+]

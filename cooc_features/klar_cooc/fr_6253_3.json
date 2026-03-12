@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "royaume de Grande-Bretagne",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 166,
+    "unigram_w1": 3414,
+    "unigram_w2": 7952962,
+    "ppmi": 1.663646540923306
+  },
+  {
+    "w1": "capital",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 316439,
+    "unigram_w1": 7952962,
+    "unigram_w2": 6755180,
+    "ppmi": 1.6098595631734167
+  },
+  {
+    "w1": "royaume de Grande-Bretagne",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1113,
+    "unigram_w1": 3414,
+    "unigram_w2": 6755180,
+    "ppmi": 4.64434305209868
+  }
+]

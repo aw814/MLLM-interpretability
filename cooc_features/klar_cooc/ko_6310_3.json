@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "가이아나",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 5293,
+    "unigram_w2": 36855,
+    "ppmi": 1.3558725308440487
+  },
+  {
+    "w1": "capital",
+    "w2": "조지타운",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 326,
+    "unigram_w1": 36855,
+    "unigram_w2": 3699,
+    "ppmi": 5.221551038586006
+  },
+  {
+    "w1": "가이아나",
+    "w2": "조지타운",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 957,
+    "unigram_w1": 5293,
+    "unigram_w2": 3699,
+    "ppmi": 9.574900798176763
+  }
+]

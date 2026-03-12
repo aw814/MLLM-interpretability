@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hampshire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8926,
+    "unigram_w1": 195519,
+    "unigram_w2": 7952962,
+    "ppmi": 1.5727032579281675
+  },
+  {
+    "w1": "capital",
+    "w2": "Winchester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3821,
+    "unigram_w1": 7952962,
+    "unigram_w2": 140734,
+    "ppmi": 0.8229776083987848
+  },
+  {
+    "w1": "Hampshire",
+    "w2": "Winchester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4066,
+    "unigram_w1": 195519,
+    "unigram_w2": 140734,
+    "ppmi": 6.258749126892654
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Damavand",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 2986,
+    "unigram_w2": 91062,
+    "ppmi": 2.613649415301713
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Damavand",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 718,
+    "unigram_w1": 2986,
+    "unigram_w2": 9286646,
+    "ppmi": 4.429324763540353
+  }
+]

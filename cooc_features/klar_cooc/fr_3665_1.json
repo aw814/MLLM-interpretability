@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Shenzhen",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8737,
+    "unigram_w1": 404371,
+    "unigram_w2": 3399010,
+    "ppmi": 1.7198343883952245
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Shenzhen",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32221,
+    "unigram_w1": 404371,
+    "unigram_w2": 3597699,
+    "ppmi": 3.5206658797333548
+  }
+]

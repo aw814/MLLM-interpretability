@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iPod",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3762,
+    "unigram_w1": 2076046,
+    "unigram_w2": 513142,
+    "ppmi": 1.5550879568154012
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13672,
+    "unigram_w1": 513142,
+    "unigram_w2": 8141772,
+    "ppmi": 1.445236094342625
+  },
+  {
+    "w1": "iPod",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 651564,
+    "unigram_w1": 2076046,
+    "unigram_w2": 8141772,
+    "ppmi": 5.003438389456165
+  }
+]
