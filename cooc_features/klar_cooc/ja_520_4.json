@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エクアドル",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 120388,
+    "unigram_w2": 62,
+    "ppmi": 5.548575862953473
+  },
+  {
+    "w1": "official_language",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 62,
+    "unigram_w2": 570272,
+    "ppmi": 5.304617258662933
+  },
+  {
+    "w1": "エクアドル",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11310,
+    "unigram_w1": 120388,
+    "unigram_w2": 570272,
+    "ppmi": 4.846792808762077
+  }
+]

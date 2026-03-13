@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "コンラート・アデナウアー",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 960,
+    "unigram_w2": 10,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "ケルン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 153506,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "コンラート・アデナウアー",
+    "w2": "ケルン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 206,
+    "unigram_w1": 960,
+    "unigram_w2": 153506,
+    "ppmi": 7.9317786531612215
+  }
+]

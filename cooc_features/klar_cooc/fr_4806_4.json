@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Deutsche Bahn",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 61655,
+    "unigram_w2": 18,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "Allemagne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 18,
+    "unigram_w2": 7867182,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Deutsche Bahn",
+    "w2": "Allemagne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18450,
+    "unigram_w1": 61655,
+    "unigram_w2": 7867182,
+    "ppmi": 4.300902690310131
+  }
+]

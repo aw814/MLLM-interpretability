@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "כלוביס הראשון",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 118,
+    "unigram_w2": 5024,
+    "ppmi": 5.3789448497192
+  },
+  {
+    "w1": "religion",
+    "w2": "נצרות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 240,
+    "unigram_w1": 5024,
+    "unigram_w2": 10566,
+    "ppmi": 5.801336800137195
+  },
+  {
+    "w1": "כלוביס הראשון",
+    "w2": "נצרות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 118,
+    "unigram_w2": 10566,
+    "ppmi": 7.3938867453088015
+  }
+]

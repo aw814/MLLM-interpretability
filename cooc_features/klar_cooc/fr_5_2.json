@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "William Thomson",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2511,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Belfast",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 170408,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "William Thomson",
+    "w2": "Belfast",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 201,
+    "unigram_w1": 2511,
+    "unigram_w2": 170408,
+    "ppmi": 7.927287136873803
+  }
+]

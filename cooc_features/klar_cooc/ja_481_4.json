@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "コートジボワール",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 55084,
+    "unigram_w2": 62,
+    "ppmi": 7.676562226018502
+  },
+  {
+    "w1": "official_language",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 62,
+    "unigram_w2": 915136,
+    "ppmi": 5.207243797579235
+  },
+  {
+    "w1": "コートジボワール",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4028,
+    "unigram_w1": 55084,
+    "unigram_w2": 915136,
+    "ppmi": 3.8029798691518537
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Isaías",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8616,
+    "unigram_w1": 776888,
+    "unigram_w2": 979024,
+    "ppmi": 3.236680121962861
+  },
+  {
+    "w1": "religion",
+    "w2": "judaísmo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19830,
+    "unigram_w1": 979024,
+    "unigram_w2": 455362,
+    "ppmi": 5.209967368670372
+  },
+  {
+    "w1": "Isaías",
+    "w2": "judaísmo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23858,
+    "unigram_w1": 776888,
+    "unigram_w2": 455362,
+    "ppmi": 5.81039339824632
+  }
+]

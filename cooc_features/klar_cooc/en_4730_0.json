@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Romulus Augustus",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 110,
+    "unigram_w1": 417,
+    "unigram_w2": 2269436,
+    "ppmi": 5.406356681056363
+  },
+  {
+    "w1": "religion",
+    "w2": "Christianity",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 274874,
+    "unigram_w1": 2269436,
+    "unigram_w2": 778220,
+    "ppmi": 5.827492933918691
+  },
+  {
+    "w1": "Romulus Augustus",
+    "w2": "Christianity",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 113,
+    "unigram_w1": 417,
+    "unigram_w2": 778220,
+    "ppmi": 6.989259770893798
+  }
+]

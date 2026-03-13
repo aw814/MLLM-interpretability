@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルーマニア",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 243302,
+    "unigram_w2": 62,
+    "ppmi": 5.533519278061943
+  },
+  {
+    "w1": "official_language",
+    "w2": "ルーマニア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 23028,
+    "ppmi": 7.934806435201851
+  },
+  {
+    "w1": "ルーマニア",
+    "w2": "ルーマニア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23028,
+    "unigram_w1": 243302,
+    "unigram_w2": 23028,
+    "ppmi": 9.487715588448818
+  }
+]

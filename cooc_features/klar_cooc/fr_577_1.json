@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union européenne",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 721626,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "tchèque",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 7,
+    "unigram_w2": 1707117,
+    "ppmi": 7.760357963872811
+  },
+  {
+    "w1": "Union européenne",
+    "w2": "tchèque",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28387,
+    "unigram_w1": 721626,
+    "unigram_w2": 1707117,
+    "ppmi": 3.577835766656546
+  }
+]

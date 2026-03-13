@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Claude Bernard",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3363,
+    "unigram_w2": 3,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 3039340,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Claude Bernard",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 967,
+    "unigram_w1": 3363,
+    "unigram_w2": 3039340,
+    "ppmi": 5.109315287588118
+  }
+]

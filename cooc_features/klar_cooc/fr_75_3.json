@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Samuel Johnson",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7623,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 6755180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Samuel Johnson",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1883,
+    "unigram_w1": 7623,
+    "unigram_w2": 6755180,
+    "ppmi": 4.244026641624177
+  }
+]

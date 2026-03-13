@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スペイン",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 2579244,
+    "unigram_w2": 62,
+    "ppmi": 3.44931919717997
+  },
+  {
+    "w1": "official_language",
+    "w2": "カタルーニャ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 62,
+    "unigram_w2": 9344,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スペイン",
+    "w2": "カタルーニャ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8506,
+    "unigram_w1": 2579244,
+    "unigram_w2": 9344,
+    "ppmi": 5.946027993425229
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "למבורגיני",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2761,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "אאודי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 11625,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "למבורגיני",
+    "w2": "אאודי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 349,
+    "unigram_w1": 2761,
+    "unigram_w2": 11625,
+    "ppmi": 7.067373605824132
+  }
+]

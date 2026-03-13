@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "清",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 16361200,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "中国語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 997618,
+    "ppmi": 3.497779961763732
+  },
+  {
+    "w1": "清",
+    "w2": "中国語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 214602,
+    "unigram_w1": 16361200,
+    "unigram_w2": 997618,
+    "ppmi": 1.1995050382903862
+  }
+]

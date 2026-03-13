@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "亚里士多德",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 4217,
+    "unigram_w2": 1325,
+    "ppmi": 3.3838096169363867
+  },
+  {
+    "w1": "occupation",
+    "w2": "数学家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 1325,
+    "unigram_w2": 26571,
+    "ppmi": 1.7282460189655164
+  },
+  {
+    "w1": "亚里士多德",
+    "w2": "数学家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104,
+    "unigram_w1": 4217,
+    "unigram_w2": 26571,
+    "ppmi": 5.758461075165399
+  }
+]

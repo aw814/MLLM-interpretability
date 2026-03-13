@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "국제 표준화 기구(ISO)",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 118,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "국제 표준화 기구(ISO)",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 118,
+    "unigram_w2": 42645,
+    "ppmi": 1.6325831788017204
+  }
+]

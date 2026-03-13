@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aram Khatchatourian",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1382,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Moscou",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1982449,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Aram Khatchatourian",
+    "w2": "Moscou",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 402,
+    "unigram_w1": 1382,
+    "unigram_w2": 1982449,
+    "ppmi": 6.248572769019572
+  }
+]

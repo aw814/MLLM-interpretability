@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Armenia",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2055396,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "armenio",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 318136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Armenia",
+    "w2": "armenio",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100856,
+    "unigram_w1": 2055396,
+    "unigram_w2": 318136,
+    "ppmi": 7.003877724114618
+  }
+]

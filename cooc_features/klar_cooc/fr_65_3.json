@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gordien II",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 419,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Carthage",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 297843,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gordien II",
+    "w2": "Carthage",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 169,
+    "unigram_w1": 419,
+    "unigram_w2": 297843,
+    "ppmi": 9.454795774877947
+  }
+]

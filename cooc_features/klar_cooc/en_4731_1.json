@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Joseph Priestley",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 404,
+    "unigram_w1": 2527,
+    "unigram_w2": 2269436,
+    "ppmi": 4.683902074783386
+  },
+  {
+    "w1": "religion",
+    "w2": "Christianity",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 274874,
+    "unigram_w1": 2269436,
+    "unigram_w2": 778220,
+    "ppmi": 5.827492933918691
+  },
+  {
+    "w1": "Joseph Priestley",
+    "w2": "Christianity",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 235,
+    "unigram_w1": 2527,
+    "unigram_w2": 778220,
+    "ppmi": 5.446291379543498
+  }
+]

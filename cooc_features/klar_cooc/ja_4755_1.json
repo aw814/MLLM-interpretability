@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アンワル・アッ＝サーダート",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 230,
+    "unigram_w2": 154360,
+    "ppmi": 4.883637268853427
+  },
+  {
+    "w1": "religion",
+    "w2": "イスラム教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3482,
+    "unigram_w1": 154360,
+    "unigram_w2": 322468,
+    "ppmi": 3.6110688299934255
+  },
+  {
+    "w1": "アンワル・アッ＝サーダート",
+    "w2": "イスラム教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 230,
+    "unigram_w2": 322468,
+    "ppmi": 7.405742716268878
+  }
+]

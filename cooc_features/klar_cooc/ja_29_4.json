@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フェルディナン・ド・ソシュール",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 906,
+    "unigram_w2": 10,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "ジュネーヴ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 47604,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フェルディナン・ド・ソシュール",
+    "w2": "ジュネーヴ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 906,
+    "unigram_w2": 47604,
+    "ppmi": 8.303344038454838
+  }
+]

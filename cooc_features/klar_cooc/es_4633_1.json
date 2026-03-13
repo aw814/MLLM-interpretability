@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Agustín de Hipona",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1428,
+    "unigram_w1": 45342,
+    "unigram_w2": 979024,
+    "ppmi": 4.742444545309803
+  },
+  {
+    "w1": "religion",
+    "w2": "cristianismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91096,
+    "unigram_w1": 979024,
+    "unigram_w2": 1891270,
+    "ppmi": 5.355400867877766
+  },
+  {
+    "w1": "Agustín de Hipona",
+    "w2": "cristianismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13180,
+    "unigram_w1": 45342,
+    "unigram_w2": 1891270,
+    "ppmi": 6.998787824195285
+  }
+]

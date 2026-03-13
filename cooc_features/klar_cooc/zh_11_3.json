@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "利奥五世",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "亚美尼亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 16626,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "利奥五世",
+    "w2": "亚美尼亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 16626,
+    "ppmi": 0.0
+  }
+]

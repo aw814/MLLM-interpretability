@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Peru",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 534482,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "Spanish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 1,
+    "unigram_w2": 3113420,
+    "ppmi": 6.872734135284328
+  },
+  {
+    "w1": "Peru",
+    "w2": "Spanish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 66016,
+    "unigram_w1": 534482,
+    "unigram_w2": 3113420,
+    "ppmi": 3.855480404284976
+  }
+]

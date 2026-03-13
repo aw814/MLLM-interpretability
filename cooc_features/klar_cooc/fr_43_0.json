@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Johann Pachelbel",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3224,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Nuremberg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 234586,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Johann Pachelbel",
+    "w2": "Nuremberg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 195,
+    "unigram_w1": 3224,
+    "unigram_w2": 234586,
+    "ppmi": 7.0618521938591865
+  }
+]

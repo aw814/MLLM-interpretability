@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ラオス",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 192248,
+    "unigram_w2": 62,
+    "ppmi": 4.873298868103527
+  },
+  {
+    "w1": "official_language",
+    "w2": "ラーオ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 62,
+    "unigram_w2": 550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ラオス",
+    "w2": "ラーオ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 342,
+    "unigram_w1": 192248,
+    "unigram_w2": 550,
+    "ppmi": 9.142059884964278
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カメルーン",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 73116,
+    "unigram_w2": 62,
+    "ppmi": 7.268008406379922
+  },
+  {
+    "w1": "official_language",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 62,
+    "unigram_w2": 8357100,
+    "ppmi": 3.2386918857810945
+  },
+  {
+    "w1": "カメルーン",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14534,
+    "unigram_w1": 73116,
+    "unigram_w2": 8357100,
+    "ppmi": 2.0547779393561822
+  }
+]

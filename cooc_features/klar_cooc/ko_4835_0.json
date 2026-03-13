@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "카타르 항공",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 344,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "카타르",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 23030,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "카타르 항공",
+    "w2": "카타르",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 344,
+    "unigram_w1": 344,
+    "unigram_w2": 23030,
+    "ppmi": 9.4040884167694
+  }
+]

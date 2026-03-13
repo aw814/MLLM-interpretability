@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "卢·里德",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 31,
+    "unigram_w2": 1325,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "摄影师",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 1325,
+    "unigram_w2": 107982,
+    "ppmi": 0.29034210632426016
+  },
+  {
+    "w1": "卢·里德",
+    "w2": "摄影师",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 31,
+    "unigram_w2": 107982,
+    "ppmi": 0.0
+  }
+]

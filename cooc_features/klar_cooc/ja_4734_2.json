@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジャン＝ジャック・ルソー",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66,
+    "unigram_w1": 5066,
+    "unigram_w2": 154360,
+    "ppmi": 3.8819275767225982
+  },
+  {
+    "w1": "religion",
+    "w2": "キリスト教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8718,
+    "unigram_w1": 154360,
+    "unigram_w2": 922786,
+    "ppmi": 3.4183097165799863
+  },
+  {
+    "w1": "ジャン＝ジャック・ルソー",
+    "w2": "キリスト教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 934,
+    "unigram_w1": 5066,
+    "unigram_w2": 922786,
+    "ppmi": 5.1251150296517665
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nāgārjuna",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 319,
+    "unigram_w1": 1054,
+    "unigram_w2": 4547729,
+    "ppmi": 5.107953906010937
+  },
+  {
+    "w1": "religion",
+    "w2": "bouddhisme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 142606,
+    "unigram_w1": 4547729,
+    "unigram_w2": 441513,
+    "ppmi": 5.201779209334191
+  },
+  {
+    "w1": "Nāgārjuna",
+    "w2": "bouddhisme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 772,
+    "unigram_w1": 1054,
+    "unigram_w2": 441513,
+    "ppmi": 9.747616793222612
+  }
+]

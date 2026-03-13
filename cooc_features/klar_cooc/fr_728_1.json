@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Inde",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 3748241,
+    "unigram_w2": 7,
+    "ppmi": 5.3037780914652055
+  },
+  {
+    "w1": "official_language",
+    "w2": "hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 386786,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Inde",
+    "w2": "hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43123,
+    "unigram_w1": 3748241,
+    "unigram_w2": 386786,
+    "ppmi": 3.946126889900314
+  }
+]

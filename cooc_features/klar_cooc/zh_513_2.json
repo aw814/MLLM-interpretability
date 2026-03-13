@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "萨斯喀彻温",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1067,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "萨斯喀彻温",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 126,
+    "unigram_w1": 1067,
+    "unigram_w2": 910574,
+    "ppmi": 2.919106289721393
+  }
+]

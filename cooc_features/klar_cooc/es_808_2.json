@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Menorca",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2495438,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 52196598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Menorca",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 583974,
+    "unigram_w1": 2495438,
+    "unigram_w2": 52196598,
+    "ppmi": 1.8994399298366356
+  }
+]

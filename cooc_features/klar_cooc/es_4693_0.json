@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tom Cruise",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1944,
+    "unigram_w1": 325326,
+    "unigram_w2": 979024,
+    "ppmi": 2.344510591691006
+  },
+  {
+    "w1": "religion",
+    "w2": "cienciología",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2034,
+    "unigram_w1": 979024,
+    "unigram_w2": 55708,
+    "ppmi": 4.9557317517373605
+  },
+  {
+    "w1": "Tom Cruise",
+    "w2": "cienciología",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16136,
+    "unigram_w1": 325326,
+    "unigram_w2": 55708,
+    "ppmi": 9.53308125634937
+  }
+]

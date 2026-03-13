@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ibn Khaldoun",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 27663,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Le Caire",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 256265,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ibn Khaldoun",
+    "w2": "Le Caire",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1001,
+    "unigram_w1": 27663,
+    "unigram_w2": 256265,
+    "ppmi": 6.1931946292806455
+  }
+]

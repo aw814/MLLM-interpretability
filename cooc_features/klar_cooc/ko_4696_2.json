@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "알베르트 슈바이처",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 191,
+    "unigram_w2": 15811,
+    "ppmi": 2.3692453829956537
+  },
+  {
+    "w1": "religion",
+    "w2": "기독교",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1657,
+    "unigram_w1": 15811,
+    "unigram_w2": 113100,
+    "ppmi": 3.853792694488309
+  },
+  {
+    "w1": "알베르트 슈바이처",
+    "w2": "기독교",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 191,
+    "unigram_w2": 113100,
+    "ppmi": 4.1745031654240385
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バハマ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 90746,
+    "unigram_w2": 62,
+    "ppmi": 5.956361500726081
+  },
+  {
+    "w1": "official_language",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 62,
+    "unigram_w2": 8357100,
+    "ppmi": 3.2386918857810945
+  },
+  {
+    "w1": "バハマ",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10508,
+    "unigram_w1": 90746,
+    "unigram_w2": 8357100,
+    "ppmi": 1.2751873278516916
+  }
+]

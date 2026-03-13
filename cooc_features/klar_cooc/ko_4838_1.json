@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "베를린 올림픽 스타디움",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 29,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "베를린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 52811,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "베를린 올림픽 스타디움",
+    "w2": "베를린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 29,
+    "unigram_w2": 52811,
+    "ppmi": 8.206764368153715
+  }
+]

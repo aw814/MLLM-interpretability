@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "DVD",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 71022,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "소니",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 45394,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "DVD",
+    "w2": "소니",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1684,
+    "unigram_w1": 71022,
+    "unigram_w2": 45394,
+    "ppmi": 3.0267992634045577
+  }
+]

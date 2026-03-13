@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mongolian People's Republic",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 293,
+    "unigram_w2": 2269436,
+    "ppmi": 4.834583404695212
+  },
+  {
+    "w1": "religion",
+    "w2": "Buddhism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82478,
+    "unigram_w1": 2269436,
+    "unigram_w2": 280621,
+    "ppmi": 5.562358819785027
+  },
+  {
+    "w1": "Mongolian People's Republic",
+    "w2": "Buddhism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53,
+    "unigram_w1": 293,
+    "unigram_w2": 280621,
+    "ppmi": 7.877703063963192
+  }
+]

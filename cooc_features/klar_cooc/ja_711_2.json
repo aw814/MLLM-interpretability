@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モンゴル国",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 20878,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "モンゴル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 62,
+    "unigram_w2": 19086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "モンゴル国",
+    "w2": "モンゴル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2954,
+    "unigram_w1": 20878,
+    "unigram_w2": 19086,
+    "ppmi": 10.338635300350976
+  }
+]

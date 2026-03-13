@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Byzantine Empire",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 22430,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "Latin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 1941001,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Byzantine Empire",
+    "w2": "Latin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4424,
+    "unigram_w1": 22430,
+    "unigram_w2": 1941001,
+    "ppmi": 5.212427153550375
+  }
+]

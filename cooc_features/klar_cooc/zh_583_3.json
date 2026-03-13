@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "喀拉拉邦",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2821,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "马拉雅拉姆语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 525,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "喀拉拉邦",
+    "w2": "马拉雅拉姆语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 2821,
+    "unigram_w2": 525,
+    "ppmi": 10.428706021359353
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "évêque",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 119240,
+    "unigram_w1": 714312,
+    "unigram_w2": 4547729,
+    "ppmi": 4.2495143664072295
+  },
+  {
+    "w1": "religion",
+    "w2": "christianisme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 433008,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1020411,
+    "ppmi": 5.595515672229268
+  },
+  {
+    "w1": "évêque",
+    "w2": "christianisme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 66413,
+    "unigram_w1": 714312,
+    "unigram_w2": 1020411,
+    "ppmi": 5.561179590343313
+  }
+]

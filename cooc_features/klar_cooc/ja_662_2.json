@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バングラデシュ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 145788,
+    "unigram_w2": 62,
+    "ppmi": 5.272395483236011
+  },
+  {
+    "w1": "official_language",
+    "w2": "ベンガル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 15426,
+    "ppmi": 9.512831536563574
+  },
+  {
+    "w1": "バングラデシュ",
+    "w2": "ベンガル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4274,
+    "unigram_w1": 145788,
+    "unigram_w2": 15426,
+    "ppmi": 8.374886590727884
+  }
+]

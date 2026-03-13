@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "albaneses",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 494,
+    "unigram_w1": 55884,
+    "unigram_w2": 979024,
+    "ppmi": 2.9094442535004506
+  },
+  {
+    "w1": "religion",
+    "w2": "musulmán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22538,
+    "unigram_w1": 979024,
+    "unigram_w2": 1263676,
+    "ppmi": 3.9221013861611125
+  },
+  {
+    "w1": "albaneses",
+    "w2": "musulmán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3114,
+    "unigram_w1": 55884,
+    "unigram_w2": 1263676,
+    "ppmi": 5.197419771529656
+  }
+]

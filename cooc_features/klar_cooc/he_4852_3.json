@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Box Office Mojo",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3583,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "אמזון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 51014,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Box Office Mojo",
+    "w2": "אמזון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 3583,
+    "unigram_w2": 51014,
+    "ppmi": 0.19811355479354825
+  }
+]

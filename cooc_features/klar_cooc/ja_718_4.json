@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モナコ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 199304,
+    "unigram_w2": 62,
+    "ppmi": 4.8212967925509975
+  },
+  {
+    "w1": "official_language",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 62,
+    "unigram_w2": 915136,
+    "ppmi": 5.207243797579235
+  },
+  {
+    "w1": "モナコ",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9024,
+    "unigram_w1": 199304,
+    "unigram_w2": 915136,
+    "ppmi": 3.1114178200763583
+  }
+]

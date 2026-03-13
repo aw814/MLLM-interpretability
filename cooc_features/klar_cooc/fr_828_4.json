@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suisse",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 12492366,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "allemand",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 7107382,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Suisse",
+    "w2": "allemand",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 861326,
+    "unigram_w1": 12492366,
+    "unigram_w2": 7107382,
+    "ppmi": 2.3296849367430625
+  }
+]

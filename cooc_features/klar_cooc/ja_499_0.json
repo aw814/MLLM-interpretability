@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポルトガル",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 793608,
+    "unigram_w2": 62,
+    "ppmi": 3.8278408887333066
+  },
+  {
+    "w1": "official_language",
+    "w2": "ポルトガル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 244134,
+    "ppmi": 5.5285942276359386
+  },
+  {
+    "w1": "ポルトガル",
+    "w2": "ポルトガル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 244134,
+    "unigram_w1": 793608,
+    "unigram_w2": 244134,
+    "ppmi": 7.7820371991201815
+  }
+]

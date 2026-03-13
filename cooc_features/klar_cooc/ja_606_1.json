@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "シチリア王国",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2884,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "ギリシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 62910,
+    "ppmi": 7.484906190413276
+  },
+  {
+    "w1": "シチリア王国",
+    "w2": "ギリシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 298,
+    "unigram_w1": 2884,
+    "unigram_w2": 62910,
+    "ppmi": 8.16441557202149
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Letonia",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1592626,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "letón",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 140674,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Letonia",
+    "w2": "letón",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24130,
+    "unigram_w1": 1592626,
+    "unigram_w2": 140674,
+    "ppmi": 6.4857774189212405
+  }
+]

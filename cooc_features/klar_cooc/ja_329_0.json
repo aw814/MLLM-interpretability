@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "欧州連合",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 168808,
+    "unigram_w2": 62,
+    "ppmi": 5.060884181084114
+  },
+  {
+    "w1": "official_language",
+    "w2": "アイルランド語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 8588,
+    "ppmi": 9.357801456259613
+  },
+  {
+    "w1": "欧州連合",
+    "w2": "アイルランド語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 270,
+    "unigram_w1": 168808,
+    "unigram_w2": 8588,
+    "ppmi": 5.023789612663046
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ערבים",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 329,
+    "unigram_w1": 153765,
+    "unigram_w2": 5024,
+    "ppmi": 2.3931640440573396
+  },
+  {
+    "w1": "religion",
+    "w2": "אסלאם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 164,
+    "unigram_w1": 5024,
+    "unigram_w2": 8814,
+    "ppmi": 5.513558722421688
+  },
+  {
+    "w1": "ערבים",
+    "w2": "אסלאם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1375,
+    "unigram_w1": 153765,
+    "unigram_w2": 8814,
+    "ppmi": 3.6454757412356735
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Unión Europea",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7410512,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "maltés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 191780,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Unión Europea",
+    "w2": "maltés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10366,
+    "unigram_w1": 7410512,
+    "unigram_w2": 191780,
+    "ppmi": 2.6015465269574514
+  }
+]

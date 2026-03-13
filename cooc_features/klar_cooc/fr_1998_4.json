@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lope de Vega",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 113,
+    "unigram_w1": 14051,
+    "unigram_w2": 1178529,
+    "ppmi": 1.8221532440224115
+  },
+  {
+    "w1": "occupation",
+    "w2": "dramaturge",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2589,
+    "unigram_w1": 1178529,
+    "unigram_w2": 289870,
+    "ppmi": 1.9734922164551776
+  },
+  {
+    "w1": "Lope de Vega",
+    "w2": "dramaturge",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 969,
+    "unigram_w1": 14051,
+    "unigram_w2": 289870,
+    "ppmi": 6.945836461376123
+  }
+]

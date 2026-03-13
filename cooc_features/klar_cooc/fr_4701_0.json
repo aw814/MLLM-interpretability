@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Al-Ma’mūn",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 142,
+    "unigram_w1": 359,
+    "unigram_w2": 4547729,
+    "ppmi": 5.494107529564912
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 409223,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1266878,
+    "ppmi": 5.201881981662004
+  },
+  {
+    "w1": "Al-Ma’mūn",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 129,
+    "unigram_w1": 359,
+    "unigram_w2": 1266878,
+    "ppmi": 7.199456351779065
+  }
+]

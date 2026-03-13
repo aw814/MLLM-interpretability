@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Weeknd",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 85338,
+    "unigram_w2": 12,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Toronto",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 12,
+    "unigram_w2": 2558356,
+    "ppmi": 5.7604612887513955
+  },
+  {
+    "w1": "The Weeknd",
+    "w2": "Toronto",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2142,
+    "unigram_w1": 85338,
+    "unigram_w2": 2558356,
+    "ppmi": 3.0292658750540995
+  }
+]

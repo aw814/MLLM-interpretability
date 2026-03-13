@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "雅各",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 23398,
+    "unigram_w2": 2023,
+    "ppmi": 4.301209366175326
+  },
+  {
+    "w1": "religion",
+    "w2": "犹太教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 2023,
+    "unigram_w2": 6940,
+    "ppmi": 6.961477611138057
+  },
+  {
+    "w1": "雅各",
+    "w2": "犹太教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 23398,
+    "unigram_w2": 6940,
+    "ppmi": 5.2776575254314535
+  }
+]

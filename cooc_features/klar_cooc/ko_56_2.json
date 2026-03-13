@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "안티스테네스",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 29,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "아테네",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 15452,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "안티스테네스",
+    "w2": "아테네",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 29,
+    "unigram_w2": 15452,
+    "ppmi": 7.929183172147709
+  }
+]

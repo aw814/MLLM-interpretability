@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "大发工业株式会社",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 15,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "丰田汽车",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 14840,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "大发工业株式会社",
+    "w2": "丰田汽车",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 15,
+    "unigram_w2": 14840,
+    "ppmi": 9.03349350043676
+  }
+]

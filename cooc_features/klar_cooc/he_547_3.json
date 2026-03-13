@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רוסיה",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 147123,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "אזרית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 529,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "רוסיה",
+    "w2": "אזרית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 179,
+    "unigram_w1": 147123,
+    "unigram_w2": 529,
+    "ppmi": 4.826237235382903
+  }
+]

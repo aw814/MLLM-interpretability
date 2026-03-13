@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michael Bloomberg",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 824,
+    "unigram_w1": 32072,
+    "unigram_w2": 2269436,
+    "ppmi": 2.046374366008815
+  },
+  {
+    "w1": "religion",
+    "w2": "Judaism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 85450,
+    "unigram_w1": 2269436,
+    "unigram_w2": 238957,
+    "ppmi": 5.845301907516872
+  },
+  {
+    "w1": "Michael Bloomberg",
+    "w2": "Judaism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 32072,
+    "unigram_w2": 238957,
+    "ppmi": 2.335305161441038
+  }
+]

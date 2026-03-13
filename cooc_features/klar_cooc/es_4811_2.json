@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aeropuerto Internacional O'Hare",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4532,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 4885556,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Aeropuerto Internacional O'Hare",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4212,
+    "unigram_w1": 4532,
+    "unigram_w2": 4885556,
+    "ppmi": 7.306475639327682
+  }
+]

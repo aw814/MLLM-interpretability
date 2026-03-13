@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אצטדיון לואיג'י פראריס",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "ג'נובה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1791,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אצטדיון לואיג'י פראריס",
+    "w2": "ג'נובה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 17,
+    "unigram_w2": 1791,
+    "ppmi": 11.83212118617868
+  }
+]

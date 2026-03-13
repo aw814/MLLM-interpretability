@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ボルツァーノ自治県",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 448,
+    "unigram_w2": 62,
+    "ppmi": 13.618553010060783
+  },
+  {
+    "w1": "official_language",
+    "w2": "ドイツ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 677256,
+    "ppmi": 3.0565661879594885
+  },
+  {
+    "w1": "ボルツァーノ自治県",
+    "w2": "ドイツ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 218,
+    "unigram_w1": 448,
+    "unigram_w2": 677256,
+    "ppmi": 6.971591901065686
+  }
+]

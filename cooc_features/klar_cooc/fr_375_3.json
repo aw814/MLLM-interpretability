@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Malte",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 958802,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "maltais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 159208,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Malte",
+    "w2": "maltais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37400,
+    "unigram_w1": 958802,
+    "unigram_w2": 159208,
+    "ppmi": 6.988239250668696
+  }
+]

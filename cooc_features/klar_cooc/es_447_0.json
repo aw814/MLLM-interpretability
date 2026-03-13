@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Socialista Soviética de Bielorrusia",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1046,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "bielorruso",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 96382,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "República Socialista Soviética de Bielorrusia",
+    "w2": "bielorruso",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 336,
+    "unigram_w1": 1046,
+    "unigram_w2": 96382,
+    "ppmi": 11.437383559257409
+  }
+]

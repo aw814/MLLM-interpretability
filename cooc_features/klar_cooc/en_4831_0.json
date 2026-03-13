@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Palace of Fontainebleau",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 307,
+    "unigram_w2": 8,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "France",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 4371971,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Palace of Fontainebleau",
+    "w2": "France",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 227,
+    "unigram_w1": 307,
+    "unigram_w2": 4371971,
+    "ppmi": 5.947404155126569
+  }
+]

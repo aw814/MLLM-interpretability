@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "클로드 베르나르",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 115,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "파리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 135231,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "클로드 베르나르",
+    "w2": "파리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 79,
+    "unigram_w1": 115,
+    "unigram_w2": 135231,
+    "ppmi": 6.308539521083107
+  }
+]

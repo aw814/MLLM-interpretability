@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이비사섬",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "카탈루냐어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 4419,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "이비사섬",
+    "w2": "카탈루냐어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 4419,
+    "ppmi": 0.0
+  }
+]

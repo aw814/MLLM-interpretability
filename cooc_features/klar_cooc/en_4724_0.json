@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Xuanzang",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 547,
+    "unigram_w1": 2216,
+    "unigram_w2": 2269436,
+    "ppmi": 5.310555397719735
+  },
+  {
+    "w1": "religion",
+    "w2": "Buddhism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82478,
+    "unigram_w1": 2269436,
+    "unigram_w2": 280621,
+    "ppmi": 5.562358819785027
+  },
+  {
+    "w1": "Xuanzang",
+    "w2": "Buddhism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1047,
+    "unigram_w1": 2216,
+    "unigram_w2": 280621,
+    "ppmi": 9.262843024703862
+  }
+]

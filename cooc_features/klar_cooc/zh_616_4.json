@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "泰米尔纳德邦",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2529,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "泰米尔语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1385,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "泰米尔纳德邦",
+    "w2": "泰米尔语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 55,
+    "unigram_w1": 2529,
+    "unigram_w2": 1385,
+    "ppmi": 9.838925698478315
+  }
+]

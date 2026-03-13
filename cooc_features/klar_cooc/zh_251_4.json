@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "柬埔寨",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 122091,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "高棉语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "柬埔寨",
+    "w2": "高棉语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 245,
+    "unigram_w1": 122091,
+    "unigram_w2": 645,
+    "ppmi": 7.5034728265604755
+  }
+]

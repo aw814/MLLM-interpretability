@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "로바니에미",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 613,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "핀란드어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 8611,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "로바니에미",
+    "w2": "핀란드어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 613,
+    "unigram_w2": 8611,
+    "ppmi": 6.608000990163251
+  }
+]

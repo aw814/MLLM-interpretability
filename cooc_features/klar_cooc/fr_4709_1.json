@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Isaïe",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19035,
+    "unigram_w1": 94967,
+    "unigram_w2": 4547729,
+    "ppmi": 4.513428734099716
+  },
+  {
+    "w1": "religion",
+    "w2": "judaïsme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163334,
+    "unigram_w1": 4547729,
+    "unigram_w2": 422601,
+    "ppmi": 5.460729399805521
+  },
+  {
+    "w1": "Isaïe",
+    "w2": "judaïsme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9433,
+    "unigram_w1": 94967,
+    "unigram_w2": 422601,
+    "ppmi": 6.928340937106346
+  }
+]

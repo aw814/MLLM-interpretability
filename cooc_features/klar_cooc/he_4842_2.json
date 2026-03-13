@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מגדל השארד",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 76,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "קטר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 11063,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מגדל השארד",
+    "w2": "קטר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 76,
+    "unigram_w2": 11063,
+    "ppmi": 4.874826094702027
+  }
+]

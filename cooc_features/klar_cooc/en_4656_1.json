@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suleiman the Magnificent",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 452,
+    "unigram_w1": 2930,
+    "unigram_w2": 2269436,
+    "ppmi": 4.6323945540819444
+  },
+  {
+    "w1": "religion",
+    "w2": "Islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231828,
+    "unigram_w1": 2269436,
+    "unigram_w2": 713808,
+    "ppmi": 5.706419294919044
+  },
+  {
+    "w1": "Suleiman the Magnificent",
+    "w2": "Islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 569,
+    "unigram_w1": 2930,
+    "unigram_w2": 713808,
+    "ppmi": 6.633226262023301
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "독일철도주식회사",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "독일",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 366157,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "독일철도주식회사",
+    "w2": "독일",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 8,
+    "unigram_w2": 366157,
+    "ppmi": 4.998174856933049
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bolzano",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 99672,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "italiano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 12574510,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bolzano",
+    "w2": "italiano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20594,
+    "unigram_w1": 99672,
+    "unigram_w2": 12574510,
+    "ppmi": 3.773246340052797
+  }
+]

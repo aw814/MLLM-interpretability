@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "冰岛",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 60289,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "冰岛语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1074,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "冰岛",
+    "w2": "冰岛语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1074,
+    "unigram_w1": 60289,
+    "unigram_w2": 1074,
+    "ppmi": 9.91798038808603
+  }
+]

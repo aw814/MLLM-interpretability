@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "维尔纳·海森堡",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 41,
+    "unigram_w2": 1325,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "物理学家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 1325,
+    "unigram_w2": 29114,
+    "ppmi": 1.5963854773514268
+  },
+  {
+    "w1": "维尔纳·海森堡",
+    "w2": "物理学家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 41,
+    "unigram_w2": 29114,
+    "ppmi": 10.78053511851358
+  }
+]

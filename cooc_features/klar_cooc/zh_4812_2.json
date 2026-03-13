@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "英国广播公司第一台",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "英国广播公司",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 31194,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "英国广播公司第一台",
+    "w2": "英国广播公司",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 5,
+    "unigram_w2": 31194,
+    "ppmi": 10.868606626950962
+  }
+]

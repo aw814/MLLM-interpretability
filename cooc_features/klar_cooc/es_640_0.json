@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "San Vicente y las Granadinas",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 173128,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "San Vicente y las Granadinas",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13456,
+    "unigram_w1": 173128,
+    "unigram_w2": 30884572,
+    "ppmi": 1.0663088336905684
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rosa Parks",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 45780,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Détroit",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 477934,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Rosa Parks",
+    "w2": "Détroit",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 45780,
+    "unigram_w2": 477934,
+    "ppmi": 3.6279395753466797
+  }
+]

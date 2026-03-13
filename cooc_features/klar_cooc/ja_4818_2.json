@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "パルク・デ・プランス",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2354,
+    "unigram_w2": 12,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "パルク・デ・プランス",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1868,
+    "unigram_w1": 2354,
+    "unigram_w2": 2419066,
+    "ppmi": 5.84046567657756
+  }
+]

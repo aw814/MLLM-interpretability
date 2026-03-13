@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "孟加拉国",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 42932,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "孟加拉语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1365,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "孟加拉国",
+    "w2": "孟加拉语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 42932,
+    "unigram_w2": 1365,
+    "ppmi": 6.74802407163106
+  }
+]

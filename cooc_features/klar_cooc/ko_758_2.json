@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "푸에르토리코",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6227,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "푸에르토리코",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 472,
+    "unigram_w1": 6227,
+    "unigram_w2": 359114,
+    "ppmi": 1.7195543211704696
+  }
+]
