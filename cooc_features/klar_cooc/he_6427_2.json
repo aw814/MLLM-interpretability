@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האימפריה האוסטרו-הונגרית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 2700,
+    "unigram_w2": 14610,
+    "ppmi": 0.6447244932309764
+  },
+  {
+    "w1": "capital",
+    "w2": "וינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 447,
+    "unigram_w1": 14610,
+    "unigram_w2": 27071,
+    "ppmi": 3.801210550369668
+  },
+  {
+    "w1": "האימפריה האוסטרו-הונגרית",
+    "w2": "וינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 640,
+    "unigram_w1": 2700,
+    "unigram_w2": 27071,
+    "ppmi": 6.75493248982638
+  }
+]
