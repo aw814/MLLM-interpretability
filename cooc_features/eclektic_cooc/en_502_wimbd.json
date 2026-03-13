@@ -1,0 +1,208 @@
+{
+  "q_id": 502,
+  "language": "en",
+  "query_terms": [
+    "conferred",
+    "title",
+    "marquis",
+    "wu'an",
+    "western",
+    "han",
+    "dynasty",
+    "tian fen"
+  ],
+  "pairs": [
+    {
+      "w1": "conferred",
+      "w2": "title",
+      "pmi": 2.7752106029188464,
+      "cooc_count": 32936,
+      "unigram_w1": 203991,
+      "unigram_w2": 8605479
+    },
+    {
+      "w1": "conferred",
+      "w2": "marquis",
+      "pmi": 3.645548117768172,
+      "cooc_count": 847,
+      "unigram_w1": 203991,
+      "unigram_w2": 121057
+    },
+    {
+      "w1": "conferred",
+      "w2": "wu'an",
+      "pmi": 6.1997948788612005,
+      "cooc_count": 3,
+      "unigram_w1": 203991,
+      "unigram_w2": 73
+    },
+    {
+      "w1": "conferred",
+      "w2": "western",
+      "pmi": 2.3146172292298077,
+      "cooc_count": 18186,
+      "unigram_w1": 203991,
+      "unigram_w2": 6538736
+    },
+    {
+      "w1": "conferred",
+      "w2": "han",
+      "pmi": 2.6930246338052695,
+      "cooc_count": 1208,
+      "unigram_w1": 203991,
+      "unigram_w2": 334127
+    },
+    {
+      "w1": "conferred",
+      "w2": "dynasty",
+      "pmi": 3.2455738136742536,
+      "cooc_count": 2189,
+      "unigram_w1": 203991,
+      "unigram_w2": 412816
+    },
+    {
+      "w1": "marquis",
+      "w2": "title",
+      "pmi": 2.0305505548039573,
+      "cooc_count": 11665,
+      "unigram_w1": 121057,
+      "unigram_w2": 8605479
+    },
+    {
+      "w1": "title",
+      "w2": "wu'an",
+      "pmi": 2.5380823825238292,
+      "cooc_count": 10,
+      "unigram_w1": 8605479,
+      "unigram_w2": 73
+    },
+    {
+      "w1": "title",
+      "w2": "western",
+      "pmi": 1.2801009992073369,
+      "cooc_count": 374525,
+      "unigram_w1": 8605479,
+      "unigram_w2": 6538736
+    },
+    {
+      "w1": "han",
+      "w2": "title",
+      "pmi": 1.7193887221092183,
+      "cooc_count": 25950,
+      "unigram_w1": 334127,
+      "unigram_w2": 8605479
+    },
+    {
+      "w1": "dynasty",
+      "w2": "title",
+      "pmi": 2.2843821489887173,
+      "cooc_count": 47431,
+      "unigram_w1": 412816,
+      "unigram_w2": 8605479
+    },
+    {
+      "w1": "marquis",
+      "w2": "wu'an",
+      "pmi": 7.689579471362226,
+      "cooc_count": 5,
+      "unigram_w1": 121057,
+      "unigram_w2": 73
+    },
+    {
+      "w1": "marquis",
+      "w2": "western",
+      "pmi": 2.305989111963615,
+      "cooc_count": 10728,
+      "unigram_w1": 121057,
+      "unigram_w2": 6538736
+    },
+    {
+      "w1": "han",
+      "w2": "marquis",
+      "pmi": 3.117331976585051,
+      "cooc_count": 962,
+      "unigram_w1": 334127,
+      "unigram_w2": 121057
+    },
+    {
+      "w1": "dynasty",
+      "w2": "marquis",
+      "pmi": 3.7956381036886895,
+      "cooc_count": 1902,
+      "unigram_w1": 412816,
+      "unigram_w2": 121057
+    },
+    {
+      "w1": "western",
+      "w2": "wu'an",
+      "pmi": 3.519288605371731,
+      "cooc_count": 15,
+      "unigram_w1": 6538736,
+      "unigram_w2": 73
+    },
+    {
+      "w1": "han",
+      "w2": "wu'an",
+      "pmi": 7.3623729311563775,
+      "cooc_count": 11,
+      "unigram_w1": 334127,
+      "unigram_w2": 73
+    },
+    {
+      "w1": "dynasty",
+      "w2": "wu'an",
+      "pmi": 7.767763993974509,
+      "cooc_count": 18,
+      "unigram_w1": 412816,
+      "unigram_w2": 73
+    },
+    {
+      "w1": "han",
+      "w2": "western",
+      "pmi": 2.585568595797302,
+      "cooc_count": 35942,
+      "unigram_w1": 334127,
+      "unigram_w2": 6538736
+    },
+    {
+      "w1": "dynasty",
+      "w2": "western",
+      "pmi": 3.2687988295481225,
+      "cooc_count": 71305,
+      "unigram_w1": 412816,
+      "unigram_w2": 6538736
+    },
+    {
+      "w1": "tian fen",
+      "w2": "western",
+      "pmi": 2.994867646585625,
+      "cooc_count": 1,
+      "unigram_w1": 7,
+      "unigram_w2": 6538736
+    },
+    {
+      "w1": "dynasty",
+      "w2": "han",
+      "pmi": 6.391459191017624,
+      "cooc_count": 31736,
+      "unigram_w1": 412816,
+      "unigram_w2": 334127
+    },
+    {
+      "w1": "han",
+      "w2": "tian fen",
+      "pmi": 8.87037345006265,
+      "cooc_count": 3,
+      "unigram_w1": 334127,
+      "unigram_w2": 7
+    },
+    {
+      "w1": "dynasty",
+      "w2": "tian fen",
+      "pmi": 8.98030862935461,
+      "cooc_count": 4,
+      "unigram_w1": 412816,
+      "unigram_w2": 7
+    }
+  ]
+}
