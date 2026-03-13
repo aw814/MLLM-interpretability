@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Université de Genève",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1741,
+    "unigram_w1": 72118,
+    "unigram_w2": 5673888,
+    "ppmi": 1.1406377775410985
+  },
+  {
+    "w1": "localisation",
+    "w2": "Genève",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 3745580,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Université de Genève",
+    "w2": "Genève",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72118,
+    "unigram_w1": 72118,
+    "unigram_w2": 3745580,
+    "ppmi": 7.112157594084625
+  }
+]

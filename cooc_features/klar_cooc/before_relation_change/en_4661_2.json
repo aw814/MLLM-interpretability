@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stephen I of Hungary",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 170,
+    "unigram_w2": 2269436,
+    "ppmi": 4.619949322979758
+  },
+  {
+    "w1": "religion",
+    "w2": "Christianity",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 274874,
+    "unigram_w1": 2269436,
+    "unigram_w2": 778220,
+    "ppmi": 5.827492933918691
+  },
+  {
+    "w1": "Stephen I of Hungary",
+    "w2": "Christianity",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 170,
+    "unigram_w2": 778220,
+    "ppmi": 6.5510562870359115
+  }
+]

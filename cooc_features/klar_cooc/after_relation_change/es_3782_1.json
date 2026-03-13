@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "La Habana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 996872,
+    "unigram_w1": 4551144,
+    "unigram_w2": 42058182,
+    "ppmi": 2.1155771795004163
+  },
+  {
+    "w1": "capital",
+    "w2": "Cuba",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2929298,
+    "unigram_w1": 42058182,
+    "unigram_w2": 13837304,
+    "ppmi": 2.0663902272135934
+  },
+  {
+    "w1": "La Habana",
+    "w2": "Cuba",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3188316,
+    "unigram_w1": 4551144,
+    "unigram_w2": 13837304,
+    "ppmi": 5.396715234698451
+  }
+]

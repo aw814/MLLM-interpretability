@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טאמבלר",
+    "w2": "בעלות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 59,
+    "unigram_w1": 893,
+    "unigram_w2": 359554,
+    "ppmi": 1.1804863981501421
+  },
+  {
+    "w1": "בעלות",
+    "w2": "Yahoo!",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359554,
+    "unigram_w2": 7739,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "טאמבלר",
+    "w2": "Yahoo!",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 893,
+    "unigram_w2": 7739,
+    "ppmi": 5.742651434178355
+  }
+]

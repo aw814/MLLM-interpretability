@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Virgilio",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25598,
+    "unigram_w1": 558756,
+    "unigram_w2": 12196104,
+    "ppmi": 1.6441769507937174
+  },
+  {
+    "w1": "idioma",
+    "w2": "latín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 2258252,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Virgilio",
+    "w2": "latín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28096,
+    "unigram_w1": 558756,
+    "unigram_w2": 2258252,
+    "ppmi": 4.211652571726314
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "조지프 프리스틀리",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 47,
+    "unigram_w2": 255115,
+    "ppmi": 1.3799381537416777
+  },
+  {
+    "w1": "작업",
+    "w2": "철학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 81174,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "조지프 프리스틀리",
+    "w2": "철학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 47,
+    "unigram_w2": 81174,
+    "ppmi": 5.201921270915124
+  }
+]

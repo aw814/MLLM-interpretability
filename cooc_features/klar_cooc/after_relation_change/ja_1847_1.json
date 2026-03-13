@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルイ・パスツール",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 778,
+    "unigram_w1": 2286,
+    "unigram_w2": 30190082,
+    "ppmi": 0.977549559670255
+  },
+  {
+    "w1": "仕事",
+    "w2": "化学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 3799812,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ルイ・パスツール",
+    "w2": "化学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1034,
+    "unigram_w1": 2286,
+    "unigram_w2": 3799812,
+    "ppmi": 4.378018413929848
+  }
+]

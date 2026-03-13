@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "约翰·沃尔夫冈·冯·歌德",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 81,
+    "unigram_w2": 12146148,
+    "ppmi": 0.24567014179445876
+  },
+  {
+    "w1": "工作",
+    "w2": "解剖学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 7362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "约翰·沃尔夫冈·冯·歌德",
+    "w2": "解剖学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 81,
+    "unigram_w2": 7362,
+    "ppmi": 6.611855530284759
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "B-17 Flying Fortress",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 192,
+    "unigram_w1": 4073,
+    "unigram_w2": 3911896,
+    "ppmi": 2.136452730408107
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Boeing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22010,
+    "unigram_w1": 3911896,
+    "unigram_w2": 343811,
+    "ppmi": 2.5779816754277336
+  },
+  {
+    "w1": "B-17 Flying Fortress",
+    "w2": "Boeing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1820,
+    "unigram_w1": 4073,
+    "unigram_w2": 343811,
+    "ppmi": 8.889393371980061
+  }
+]

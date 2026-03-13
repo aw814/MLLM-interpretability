@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dar es Salaam",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7153,
+    "unigram_w1": 41966,
+    "unigram_w2": 7450623,
+    "ppmi": 3.061272667628945
+  },
+  {
+    "w1": "capital",
+    "w2": "Tanzania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35166,
+    "unigram_w1": 7450623,
+    "unigram_w2": 332295,
+    "ppmi": 2.3736618430575738
+  },
+  {
+    "w1": "Dar es Salaam",
+    "w2": "Tanzania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30013,
+    "unigram_w1": 41966,
+    "unigram_w2": 332295,
+    "ppmi": 9.617064428582525
+  }
+]

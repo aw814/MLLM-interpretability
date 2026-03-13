@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Balbinus",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60,
+    "unigram_w1": 223,
+    "unigram_w2": 5281801,
+    "ppmi": 4.216195093535123
+  },
+  {
+    "w1": "died",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 122770,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1168108,
+    "ppmi": 2.8600607027456006
+  },
+  {
+    "w1": "Balbinus",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123,
+    "unigram_w1": 223,
+    "unigram_w2": 1168108,
+    "ppmi": 7.428675282098962
+  }
+]

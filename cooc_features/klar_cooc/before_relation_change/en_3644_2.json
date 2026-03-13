@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mauritius",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8614,
+    "unigram_w1": 135069,
+    "unigram_w2": 965266,
+    "ppmi": 4.591366413836631
+  },
+  {
+    "w1": "continent",
+    "w2": "Africa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 292464,
+    "unigram_w1": 965266,
+    "unigram_w2": 4630900,
+    "ppmi": 4.57727422909695
+  },
+  {
+    "w1": "Mauritius",
+    "w2": "Africa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46634,
+    "unigram_w1": 135069,
+    "unigram_w2": 4630900,
+    "ppmi": 4.765699230831561
+  }
+]

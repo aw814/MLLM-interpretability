@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "了不起的盖茨比",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 148,
+    "unigram_w1": 2474,
+    "unigram_w2": 919361,
+    "ppmi": 1.9241392065485639
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "了不起的盖茨比",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 263,
+    "unigram_w1": 2474,
+    "unigram_w2": 910574,
+    "ppmi": 2.767460031361834
+  }
+]

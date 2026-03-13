@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "プラハ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20554,
+    "unigram_w1": 195808,
+    "unigram_w2": 2444276,
+    "ppmi": 2.9071798530633686
+  },
+  {
+    "w1": "首都",
+    "w2": "チェコスロバキア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 29482,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "プラハ",
+    "w2": "チェコスロバキア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6496,
+    "unigram_w1": 195808,
+    "unigram_w2": 29482,
+    "ppmi": 7.618813199003168
+  }
+]

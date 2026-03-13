@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Henri Becquerel",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4968,
+    "unigram_w1": 23852,
+    "unigram_w2": 57128353,
+    "ppmi": 0.9178385342369074
+  },
+  {
+    "w1": "travail",
+    "w2": "physique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 12876803,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Henri Becquerel",
+    "w2": "physique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4761,
+    "unigram_w1": 23852,
+    "unigram_w2": 12876803,
+    "ppmi": 3.0058704759755686
+  }
+]

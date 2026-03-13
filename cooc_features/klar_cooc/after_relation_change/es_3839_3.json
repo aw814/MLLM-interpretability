@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ciudad de Panamá",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 77762,
+    "unigram_w1": 422152,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8657009176052715
+  },
+  {
+    "w1": "capital",
+    "w2": "Panamá",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 915156,
+    "unigram_w1": 42058182,
+    "unigram_w2": 5955230,
+    "ppmi": 1.60425860374407
+  },
+  {
+    "w1": "Ciudad de Panamá",
+    "w2": "Panamá",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 422152,
+    "unigram_w1": 422152,
+    "unigram_w2": 5955230,
+    "ppmi": 7.126483593129263
+  }
+]

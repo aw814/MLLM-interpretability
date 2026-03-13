@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bourg-en-Bresse",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1142,
+    "unigram_w1": 8880,
+    "unigram_w2": 42058182,
+    "ppmi": 1.3473292108787782
+  },
+  {
+    "w1": "capital",
+    "w2": "Ain",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 56748,
+    "unigram_w1": 42058182,
+    "unigram_w2": 299032,
+    "ppmi": 1.9086678111890605
+  },
+  {
+    "w1": "Bourg-en-Bresse",
+    "w2": "Ain",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1350,
+    "unigram_w1": 8880,
+    "unigram_w2": 299032,
+    "ppmi": 8.724668768643259
+  }
+]

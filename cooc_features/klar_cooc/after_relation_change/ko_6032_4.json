@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "필리핀의 국기",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 2644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "관할권",
+    "w2": "필리핀",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 481765,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "필리핀의 국기",
+    "w2": "필리핀",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 10,
+    "unigram_w2": 481765,
+    "ppmi": 4.695417051856192
+  }
+]

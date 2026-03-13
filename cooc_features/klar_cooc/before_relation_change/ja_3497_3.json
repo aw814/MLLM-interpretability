@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ユーゴスラビア",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66,
+    "unigram_w1": 55624,
+    "unigram_w2": 48638,
+    "ppmi": 2.0912822019024553
+  },
+  {
+    "w1": "continent",
+    "w2": "ヨーロッパ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2662,
+    "unigram_w1": 48638,
+    "unigram_w2": 4446778,
+    "ppmi": 1.1042738616372416
+  },
+  {
+    "w1": "ユーゴスラビア",
+    "w2": "ヨーロッパ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21842,
+    "unigram_w1": 55624,
+    "unigram_w2": 4446778,
+    "ppmi": 3.9471727619912844
+  }
+]

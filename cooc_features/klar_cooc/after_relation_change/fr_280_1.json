@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Navarre",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32418,
+    "unigram_w1": 330428,
+    "unigram_w2": 12749290,
+    "ppmi": 1.995532777835069
+  },
+  {
+    "w1": "langue",
+    "w2": "espagnol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5009550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Navarre",
+    "w2": "espagnol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29415,
+    "unigram_w1": 330428,
+    "unigram_w2": 5009550,
+    "ppmi": 3.2029537134959933
+  }
+]

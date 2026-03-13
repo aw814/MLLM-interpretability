@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "보잉 B-52 스트래토포트리스",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 17565,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "developer",
+    "w2": "보잉",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 17565,
+    "unigram_w2": 13422,
+    "ppmi": 0.4045153044469612
+  },
+  {
+    "w1": "보잉 B-52 스트래토포트리스",
+    "w2": "보잉",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 3,
+    "unigram_w2": 13422,
+    "ppmi": 10.183003165669332
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Richard Arkwright",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 1177,
+    "unigram_w2": 3469075,
+    "ppmi": 1.5157847081309495
+  },
+  {
+    "w1": "spoke",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 350494,
+    "unigram_w1": 3469075,
+    "unigram_w2": 9553181,
+    "ppmi": 1.948163766682552
+  },
+  {
+    "w1": "Richard Arkwright",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 337,
+    "unigram_w1": 1177,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4509593217682974
+  }
+]

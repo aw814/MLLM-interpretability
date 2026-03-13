@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Laos",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19498,
+    "unigram_w1": 161277,
+    "unigram_w2": 9241408,
+    "ppmi": 2.254979015398194
+  },
+  {
+    "w1": "language",
+    "w2": "Lao",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12192,
+    "unigram_w1": 9241408,
+    "unigram_w2": 100549,
+    "ppmi": 2.2592296499978946
+  },
+  {
+    "w1": "Laos",
+    "w2": "Lao",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23913,
+    "unigram_w1": 161277,
+    "unigram_w2": 100549,
+    "ppmi": 9.071590037606837
+  }
+]

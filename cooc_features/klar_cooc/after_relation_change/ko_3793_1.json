@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "다마스쿠스",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 952,
+    "unigram_w1": 1828,
+    "unigram_w2": 1351571,
+    "ppmi": 2.587876745632983
+  },
+  {
+    "w1": "수도",
+    "w2": "시리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 35096,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "다마스쿠스",
+    "w2": "시리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1279,
+    "unigram_w1": 1828,
+    "unigram_w2": 35096,
+    "ppmi": 8.281046410253945
+  }
+]

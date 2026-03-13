@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "司马迁",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4042,
+    "unigram_w1": 19216,
+    "unigram_w2": 12146148,
+    "ppmi": 0.014425220465822517
+  },
+  {
+    "w1": "工作",
+    "w2": "历史",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 4087009,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "司马迁",
+    "w2": "历史",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8187,
+    "unigram_w1": 19216,
+    "unigram_w2": 4087009,
+    "ppmi": 2.6040723221990025
+  }
+]

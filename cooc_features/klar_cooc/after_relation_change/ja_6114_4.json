@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジャーマンウイングス",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 378,
+    "unigram_w1": 1082,
+    "unigram_w2": 27600878,
+    "ppmi": 1.1446510579853117
+  },
+  {
+    "w1": "場所",
+    "w2": "ケルン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 153506,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジャーマンウイングス",
+    "w2": "ケルン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 1082,
+    "unigram_w2": 153506,
+    "ppmi": 6.800604392322906
+  }
+]

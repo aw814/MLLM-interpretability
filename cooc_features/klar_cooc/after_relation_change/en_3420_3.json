@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Amar Sonar Bangla",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 144,
+    "unigram_w2": 9241408,
+    "ppmi": 3.6567586250917916
+  },
+  {
+    "w1": "language",
+    "w2": "Bengali",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34502,
+    "unigram_w1": 9241408,
+    "unigram_w2": 125401,
+    "ppmi": 3.441324716712342
+  },
+  {
+    "w1": "Amar Sonar Bangla",
+    "w2": "Bengali",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 70,
+    "unigram_w1": 144,
+    "unigram_w2": 125401,
+    "ppmi": 10.465971602165588
+  }
+]

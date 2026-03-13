@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ザルツブルク州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 176,
+    "unigram_w1": 1842,
+    "unigram_w2": 2444276,
+    "ppmi": 2.771502746761241
+  },
+  {
+    "w1": "首都",
+    "w2": "ザルツブルク",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 67484,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ザルツブルク州",
+    "w2": "ザルツブルク",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1842,
+    "unigram_w1": 1842,
+    "unigram_w2": 67484,
+    "ppmi": 11.337846373486624
+  }
+]

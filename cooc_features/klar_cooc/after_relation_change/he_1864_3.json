@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לב ויגוצקי",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41,
+    "unigram_w1": 114,
+    "unigram_w2": 1639120,
+    "ppmi": 1.436380591072293
+  },
+  {
+    "w1": "עבודה",
+    "w2": "פסיכולוגיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 84972,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לב ויגוצקי",
+    "w2": "פסיכולוגיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 114,
+    "unigram_w2": 84972,
+    "ppmi": 5.155973654077229
+  }
+]

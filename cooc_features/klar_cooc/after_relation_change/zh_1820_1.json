@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "鸟类学",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 165,
+    "unigram_w1": 407,
+    "unigram_w2": 12146148,
+    "ppmi": 0.9610292797712899
+  },
+  {
+    "w1": "工作",
+    "w2": "鸟纲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 218,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "鸟类学",
+    "w2": "鸟纲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 407,
+    "unigram_w2": 218,
+    "ppmi": 11.36051825851027
+  }
+]

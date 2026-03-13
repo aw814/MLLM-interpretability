@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Melilla",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4697,
+    "unigram_w1": 52722,
+    "unigram_w2": 3399010,
+    "ppmi": 3.763638522808085
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Melilla",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11119,
+    "unigram_w1": 52722,
+    "unigram_w2": 8624942,
+    "ppmi": 3.6634539187628787
+  }
+]

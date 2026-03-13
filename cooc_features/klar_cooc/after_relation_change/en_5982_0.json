@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Ireland",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 493,
+    "unigram_w2": 1074632,
+    "ppmi": 2.0469103051136592
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Ireland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30659,
+    "unigram_w1": 1074632,
+    "unigram_w2": 2464199,
+    "ppmi": 2.0787273249034124
+  },
+  {
+    "w1": "flag of Ireland",
+    "w2": "Ireland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 493,
+    "unigram_w1": 493,
+    "unigram_w2": 2464199,
+    "ppmi": 7.210115576925981
+  }
+]

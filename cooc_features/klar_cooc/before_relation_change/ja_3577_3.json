@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アイルランド",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 894,
+    "unigram_w1": 531704,
+    "unigram_w2": 48638,
+    "ppmi": 2.5941751836511653
+  },
+  {
+    "w1": "continent",
+    "w2": "ヨーロッパ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2662,
+    "unigram_w1": 48638,
+    "unigram_w2": 4446778,
+    "ppmi": 1.1042738616372416
+  },
+  {
+    "w1": "アイルランド",
+    "w2": "ヨーロッパ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 126674,
+    "unigram_w1": 531704,
+    "unigram_w2": 4446778,
+    "ppmi": 3.226272411530175
+  }
+]

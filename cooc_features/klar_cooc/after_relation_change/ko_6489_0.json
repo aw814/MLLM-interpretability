@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "코카콜라 컴퍼니",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 41,
+    "unigram_w2": 563145,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "위치",
+    "w2": "애틀랜타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 30783,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "코카콜라 컴퍼니",
+    "w2": "애틀랜타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 41,
+    "unigram_w2": 30783,
+    "ppmi": 5.627916984916275
+  }
+]

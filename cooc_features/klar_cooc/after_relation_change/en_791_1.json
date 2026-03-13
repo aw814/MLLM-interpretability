@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ASEAN",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9719,
+    "unigram_w1": 127787,
+    "unigram_w2": 9241408,
+    "ppmi": 1.586332285678359
+  },
+  {
+    "w1": "language",
+    "w2": "Thai",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 64567,
+    "unigram_w1": 9241408,
+    "unigram_w2": 876435,
+    "ppmi": 1.5403434729735732
+  },
+  {
+    "w1": "ASEAN",
+    "w2": "Thai",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11798,
+    "unigram_w1": 127787,
+    "unigram_w2": 876435,
+    "ppmi": 5.264388484295844
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "レイフ・ヴォーン・ウィリアムズ",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 1140,
+    "unigram_w2": 620194,
+    "ppmi": 2.567888590917114
+  },
+  {
+    "w1": "死亡した",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 1900368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "レイフ・ヴォーン・ウィリアムズ",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 520,
+    "unigram_w1": 1140,
+    "unigram_w2": 1900368,
+    "ppmi": 5.38980655840802
+  }
+]

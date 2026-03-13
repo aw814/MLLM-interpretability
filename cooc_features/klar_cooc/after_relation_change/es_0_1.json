@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carlos II de España",
+    "w2": "nacido",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 664,
+    "unigram_w1": 4876,
+    "unigram_w2": 9584124,
+    "ppmi": 3.563551268161616
+  },
+  {
+    "w1": "nacido",
+    "w2": "Madrid",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9584124,
+    "unigram_w2": 64420860,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Carlos II de España",
+    "w2": "Madrid",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1882,
+    "unigram_w1": 4876,
+    "unigram_w2": 64420860,
+    "ppmi": 2.3177533081684256
+  }
+]

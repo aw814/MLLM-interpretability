@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스타디오 렌초 바르베라",
+    "w2": "소유",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 15,
+    "unigram_w2": 66918,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "소유",
+    "w2": "팔레르모",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 66918,
+    "unigram_w2": 2722,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "스타디오 렌초 바르베라",
+    "w2": "팔레르모",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 15,
+    "unigram_w2": 2722,
+    "ppmi": 12.278412978478187
+  }
+]

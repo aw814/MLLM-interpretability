@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows 2000",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 749,
+    "unigram_w1": 191392,
+    "unigram_w2": 366427,
+    "ppmi": 2.4683999196406186
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Microsoft",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12966,
+    "unigram_w1": 366427,
+    "unigram_w2": 4779618,
+    "ppmi": 1.9397309829825522
+  },
+  {
+    "w1": "Windows 2000",
+    "w2": "Microsoft",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88641,
+    "unigram_w1": 191392,
+    "unigram_w2": 4779618,
+    "ppmi": 5.649966945960344
+  }
+]

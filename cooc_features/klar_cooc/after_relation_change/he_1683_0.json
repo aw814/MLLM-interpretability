@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מלך האריות",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 225,
+    "unigram_w1": 3758,
+    "unigram_w2": 236631,
+    "ppmi": 1.6419609260599513
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מלך האריות",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 382,
+    "unigram_w1": 3758,
+    "unigram_w2": 231817,
+    "ppmi": 2.435261281751994
+  }
+]

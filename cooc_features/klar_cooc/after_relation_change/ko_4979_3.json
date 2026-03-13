@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "버락 오바마",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 391,
+    "unigram_w1": 17257,
+    "unigram_w2": 250699,
+    "ppmi": 0.4958492246738444
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "버락 오바마",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 893,
+    "unigram_w1": 17257,
+    "unigram_w2": 359114,
+    "ppmi": 1.1688551366540993
+  }
+]

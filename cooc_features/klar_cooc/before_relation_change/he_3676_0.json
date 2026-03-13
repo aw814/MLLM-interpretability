@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ספארי",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 16849,
+    "unigram_w2": 7399,
+    "ppmi": 1.1862806720572927
+  },
+  {
+    "w1": "developer",
+    "w2": "אפל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231,
+    "unigram_w1": 7399,
+    "unigram_w2": 110303,
+    "ppmi": 1.803730601903592
+  },
+  {
+    "w1": "ספארי",
+    "w2": "אפל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1127,
+    "unigram_w1": 16849,
+    "unigram_w2": 110303,
+    "ppmi": 2.902992595567942
+  }
+]

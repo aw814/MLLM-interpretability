@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "waffle",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10428,
+    "unigram_w1": 136836,
+    "unigram_w2": 21073362,
+    "ppmi": 1.5893787856457426
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Bélgica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 3925412,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "waffle",
+    "w2": "Bélgica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2180,
+    "unigram_w1": 136836,
+    "unigram_w2": 3925412,
+    "ppmi": 1.7558208466312948
+  }
+]

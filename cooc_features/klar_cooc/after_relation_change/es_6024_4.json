@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Escudo Nacional de México",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 1476,
+    "unigram_w2": 3205324,
+    "ppmi": 1.4926936208385455
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "México",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 50767870,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Escudo Nacional de México",
+    "w2": "México",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1476,
+    "unigram_w1": 1476,
+    "unigram_w2": 50767870,
+    "ppmi": 4.034796994374066
+  }
+]

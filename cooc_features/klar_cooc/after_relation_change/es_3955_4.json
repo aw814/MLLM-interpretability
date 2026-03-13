@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mascate",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6842,
+    "unigram_w1": 23922,
+    "unigram_w2": 42058182,
+    "ppmi": 2.5004782348028165
+  },
+  {
+    "w1": "capital",
+    "w2": "Omán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 57946,
+    "unigram_w1": 42058182,
+    "unigram_w2": 383332,
+    "ppmi": 1.5805127803470644
+  },
+  {
+    "w1": "Mascate",
+    "w2": "Omán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15480,
+    "unigram_w1": 23922,
+    "unigram_w2": 383332,
+    "ppmi": 10.456041939304889
+  }
+]

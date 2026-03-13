@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of the Netherlands",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 256,
+    "unigram_w2": 1074632,
+    "ppmi": 3.2147465628280183
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Netherlands",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18800,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1488163,
+    "ppmi": 2.100735557949582
+  },
+  {
+    "w1": "flag of the Netherlands",
+    "w2": "Netherlands",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 256,
+    "unigram_w1": 256,
+    "unigram_w2": 1488163,
+    "ppmi": 7.937701789665774
+  }
+]

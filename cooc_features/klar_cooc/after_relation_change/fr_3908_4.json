@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wiesbaden",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4997,
+    "unigram_w1": 64006,
+    "unigram_w2": 9137640,
+    "ppmi": 2.1464520968524425
+  },
+  {
+    "w1": "capitale",
+    "w2": "Hesse",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 149894,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wiesbaden",
+    "w2": "Hesse",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4699,
+    "unigram_w1": 64006,
+    "unigram_w2": 149894,
+    "ppmi": 7.987550710689402
+  }
+]

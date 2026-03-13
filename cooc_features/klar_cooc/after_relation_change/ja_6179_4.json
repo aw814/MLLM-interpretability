@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルーマニア王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 422,
+    "unigram_w1": 1046,
+    "unigram_w2": 2444276,
+    "ppmi": 4.849560526675523
+  },
+  {
+    "w1": "首都",
+    "w2": "ブカレスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 35856,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ルーマニア王国",
+    "w2": "ブカレスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 310,
+    "unigram_w1": 1046,
+    "unigram_w2": 35856,
+    "ppmi": 10.495634578022166
+  }
+]

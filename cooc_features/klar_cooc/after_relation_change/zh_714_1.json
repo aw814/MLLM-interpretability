@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伊维萨岛",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 704,
+    "unigram_w2": 919361,
+    "ppmi": 0.6978090087009989
+  },
+  {
+    "w1": "语言",
+    "w2": "加泰罗尼亚语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 1091,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "伊维萨岛",
+    "w2": "加泰罗尼亚语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 704,
+    "unigram_w2": 1091,
+    "ppmi": 8.568648657479901
+  }
+]

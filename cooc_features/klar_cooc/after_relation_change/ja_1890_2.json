@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ニコラウス・コペルニクス",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 340,
+    "unigram_w1": 1188,
+    "unigram_w2": 30190082,
+    "ppmi": 0.7276047182354772
+  },
+  {
+    "w1": "仕事",
+    "w2": "天文学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 237086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ニコラウス・コペルニクス",
+    "w2": "天文学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 622,
+    "unigram_w1": 1188,
+    "unigram_w2": 237086,
+    "ppmi": 8.591504943641638
+  }
+]

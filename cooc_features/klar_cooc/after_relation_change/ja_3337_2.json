@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルドルフ・ヘス",
+    "w2": "市民権",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 78,
+    "unigram_w1": 1880,
+    "unigram_w2": 199376,
+    "ppmi": 5.18385728541836
+  },
+  {
+    "w1": "市民権",
+    "w2": "ドイツ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 199376,
+    "unigram_w2": 5081430,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ルドルフ・ヘス",
+    "w2": "ドイツ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1544,
+    "unigram_w1": 1880,
+    "unigram_w2": 5081430,
+    "ppmi": 4.819241211061497
+  }
+]

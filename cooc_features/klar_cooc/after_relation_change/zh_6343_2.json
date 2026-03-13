@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "马尔他骑士团",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 29,
+    "unigram_w2": 596594,
+    "ppmi": 1.753216629557928
+  },
+  {
+    "w1": "首都",
+    "w2": "罗马",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 290758,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "马尔他骑士团",
+    "w2": "罗马",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 29,
+    "unigram_w2": 290758,
+    "ppmi": 6.3751097117355515
+  }
+]

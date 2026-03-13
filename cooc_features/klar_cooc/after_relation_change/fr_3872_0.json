@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Quito",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19737,
+    "unigram_w1": 116139,
+    "unigram_w2": 9137640,
+    "ppmi": 3.2686472317125905
+  },
+  {
+    "w1": "capitale",
+    "w2": "Équateur",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 424240,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Quito",
+    "w2": "Équateur",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27221,
+    "unigram_w1": 116139,
+    "unigram_w2": 424240,
+    "ppmi": 8.161333626713127
+  }
+]

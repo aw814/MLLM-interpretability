@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "奥古斯丁",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 5071,
+    "unigram_w2": 2023,
+    "ppmi": 4.829180498815888
+  },
+  {
+    "w1": "religion",
+    "w2": "基督教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 251,
+    "unigram_w1": 2023,
+    "unigram_w2": 77752,
+    "ppmi": 6.540258351504095
+  },
+  {
+    "w1": "奥古斯丁",
+    "w2": "基督教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 278,
+    "unigram_w1": 5071,
+    "unigram_w2": 77752,
+    "ppmi": 5.361881915768478
+  }
+]

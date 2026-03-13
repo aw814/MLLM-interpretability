@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "provincia de Estocolmo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 546,
+    "unigram_w1": 8894,
+    "unigram_w2": 42058182,
+    "ppmi": 0.280466688321748
+  },
+  {
+    "w1": "capital",
+    "w2": "Estocolmo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 240572,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1132110,
+    "ppmi": 2.0718527373520677
+  },
+  {
+    "w1": "provincia de Estocolmo",
+    "w2": "Estocolmo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8894,
+    "unigram_w1": 8894,
+    "unigram_w2": 1132110,
+    "ppmi": 9.521626678788618
+  }
+]

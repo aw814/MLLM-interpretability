@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nicosia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23680,
+    "unigram_w1": 103266,
+    "unigram_w2": 42058182,
+    "ppmi": 2.181701893175435
+  },
+  {
+    "w1": "capital",
+    "w2": "Chipre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 172872,
+    "unigram_w1": 42058182,
+    "unigram_w2": 955014,
+    "ppmi": 1.8405085695398582
+  },
+  {
+    "w1": "Nicosia",
+    "w2": "Chipre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46276,
+    "unigram_w1": 103266,
+    "unigram_w2": 955014,
+    "ppmi": 8.609017775567823
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edmund Husserl",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 714,
+    "unigram_w1": 19104,
+    "unigram_w2": 9533866,
+    "ppmi": 1.7057726158836788
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Alemania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 17786194,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Edmund Husserl",
+    "w2": "Alemania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3940,
+    "unigram_w1": 19104,
+    "unigram_w2": 17786194,
+    "ppmi": 3.2703476927464665
+  }
+]

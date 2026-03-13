@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alabama",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 101322,
+    "unigram_w1": 959878,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0624226449385819
+  },
+  {
+    "w1": "capital",
+    "w2": "Montgomery",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 38524,
+    "unigram_w1": 42058182,
+    "unigram_w2": 354596,
+    "ppmi": 1.1039793877495911
+  },
+  {
+    "w1": "Alabama",
+    "w2": "Montgomery",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41586,
+    "unigram_w1": 959878,
+    "unigram_w2": 354596,
+    "ppmi": 6.667711431864474
+  }
+]

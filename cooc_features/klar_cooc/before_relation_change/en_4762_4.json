@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eric Clapton",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3830,
+    "unigram_w1": 40208,
+    "unigram_w2": 2136875,
+    "ppmi": 4.023665547887789
+  },
+  {
+    "w1": "instrument",
+    "w2": "violin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 86389,
+    "unigram_w1": 2136875,
+    "unigram_w2": 430992,
+    "ppmi": 5.09699026580858
+  },
+  {
+    "w1": "Eric Clapton",
+    "w2": "violin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 989,
+    "unigram_w1": 40208,
+    "unigram_w2": 430992,
+    "ppmi": 4.380133103877011
+  }
+]

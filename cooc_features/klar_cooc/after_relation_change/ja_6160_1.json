@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スコットランド王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 382,
+    "unigram_w1": 1342,
+    "unigram_w2": 2444276,
+    "ppmi": 4.346388346050845
+  },
+  {
+    "w1": "首都",
+    "w2": "エディンバラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 57296,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スコットランド王国",
+    "w2": "エディンバラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 372,
+    "unigram_w1": 1342,
+    "unigram_w2": 57296,
+    "ppmi": 9.722947294092586
+  }
+]

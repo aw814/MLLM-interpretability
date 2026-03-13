@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stockholm",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 69828,
+    "unigram_w1": 781354,
+    "unigram_w2": 9137640,
+    "ppmi": 2.341426358690708
+  },
+  {
+    "w1": "capitale",
+    "w2": "Suède",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 2847086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Stockholm",
+    "w2": "Suède",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 223895,
+    "unigram_w1": 781354,
+    "unigram_w2": 2847086,
+    "ppmi": 5.704706644952887
+  }
+]

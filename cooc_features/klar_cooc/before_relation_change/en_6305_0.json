@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "France",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 357685,
+    "unigram_w1": 4371971,
+    "unigram_w2": 7450623,
+    "ppmi": 2.002350971876333
+  },
+  {
+    "w1": "capital",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 270142,
+    "unigram_w1": 7450623,
+    "unigram_w2": 3039340,
+    "ppmi": 2.121905070605225
+  },
+  {
+    "w1": "France",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 809053,
+    "unigram_w1": 4371971,
+    "unigram_w2": 3039340,
+    "ppmi": 4.473498560150834
+  }
+]

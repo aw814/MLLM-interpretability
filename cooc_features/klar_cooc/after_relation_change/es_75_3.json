@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Samuel Johnson",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2098,
+    "unigram_w1": 24384,
+    "unigram_w2": 8520304,
+    "ppmi": 3.0708876904700593
+  },
+  {
+    "w1": "murió",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 13425458,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Samuel Johnson",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4808,
+    "unigram_w1": 24384,
+    "unigram_w2": 13425458,
+    "ppmi": 3.6113154141214756
+  }
+]

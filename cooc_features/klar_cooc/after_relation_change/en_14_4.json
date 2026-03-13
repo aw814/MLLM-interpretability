@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pliny the Elder",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1312,
+    "unigram_w1": 9718,
+    "unigram_w2": 9106140,
+    "ppmi": 2.435502992245292
+  },
+  {
+    "w1": "born",
+    "w2": "Como",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 38458,
+    "unigram_w1": 9106140,
+    "unigram_w2": 318859,
+    "ppmi": 2.272831744675057
+  },
+  {
+    "w1": "Pliny the Elder",
+    "w2": "Como",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 144,
+    "unigram_w1": 9718,
+    "unigram_w2": 318859,
+    "ppmi": 4.083725121061098
+  }
+]

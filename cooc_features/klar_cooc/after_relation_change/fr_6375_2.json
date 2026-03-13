@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Califat omeyyade",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1468,
+    "unigram_w1": 3253,
+    "unigram_w2": 9137640,
+    "ppmi": 4.677606270901234
+  },
+  {
+    "w1": "capitale",
+    "w2": "Damas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 689189,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Califat omeyyade",
+    "w2": "Damas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1217,
+    "unigram_w1": 3253,
+    "unigram_w2": 689189,
+    "ppmi": 8.135933495578438
+  }
+]

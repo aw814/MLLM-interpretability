@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Trípoli",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66918,
+    "unigram_w1": 177278,
+    "unigram_w2": 42058182,
+    "ppmi": 2.900778959075163
+  },
+  {
+    "w1": "capital",
+    "w2": "Libia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 263890,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1296044,
+    "ppmi": 2.0102201254690337
+  },
+  {
+    "w1": "Trípoli",
+    "w2": "Libia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 117432,
+    "unigram_w1": 177278,
+    "unigram_w2": 1296044,
+    "ppmi": 8.732338206784537
+  }
+]

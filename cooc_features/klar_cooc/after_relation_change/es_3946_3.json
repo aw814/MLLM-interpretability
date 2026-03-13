@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Timbu",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1178,
+    "unigram_w1": 2348,
+    "unigram_w2": 42058182,
+    "ppmi": 3.311233367473812
+  },
+  {
+    "w1": "capital",
+    "w2": "Bután",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17752,
+    "unigram_w1": 42058182,
+    "unigram_w2": 139194,
+    "ppmi": 1.3352826897982701
+  },
+  {
+    "w1": "Timbu",
+    "w2": "Bután",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1398,
+    "unigram_w1": 2348,
+    "unigram_w2": 139194,
+    "ppmi": 11.797403843799078
+  }
+]

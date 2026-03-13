@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jammu-et-Cachemire",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1259,
+    "unigram_w1": 10834,
+    "unigram_w2": 12749290,
+    "ppmi": 2.2397859210399025
+  },
+  {
+    "w1": "langue",
+    "w2": "ourdou",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 28395,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jammu-et-Cachemire",
+    "w2": "ourdou",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 293,
+    "unigram_w1": 10834,
+    "unigram_w2": 28395,
+    "ppmi": 8.947044487177545
+  }
+]

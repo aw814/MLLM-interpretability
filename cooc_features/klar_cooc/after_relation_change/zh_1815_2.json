@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "杰克·鲁比",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 24,
+    "unigram_w2": 12146148,
+    "ppmi": 1.1380611677078623
+  },
+  {
+    "w1": "工作",
+    "w2": "夜总会",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 31236,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "杰克·鲁比",
+    "w2": "夜总会",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 24,
+    "unigram_w2": 31236,
+    "ppmi": 9.451627971149332
+  }
+]

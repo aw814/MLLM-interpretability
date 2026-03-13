@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Canton of Vaud",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 218,
+    "unigram_w1": 2467,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8027639949538945
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Canton of Vaud",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 805,
+    "unigram_w1": 2467,
+    "unigram_w2": 6382804,
+    "ppmi": 4.221346970411175
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "덴버",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1733,
+    "unigram_w1": 10568,
+    "unigram_w2": 1351571,
+    "ppmi": 0.9207505252964514
+  },
+  {
+    "w1": "수도",
+    "w2": "콜로라도주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 2032,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "덴버",
+    "w2": "콜로라도주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 502,
+    "unigram_w1": 10568,
+    "unigram_w2": 2032,
+    "ppmi": 8.510759323381386
+  }
+]

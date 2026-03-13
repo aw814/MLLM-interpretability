@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヘルマン・フォン・ヘルムホルツ",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100,
+    "unigram_w1": 228,
+    "unigram_w2": 30190082,
+    "ppmi": 1.3434990785085243
+  },
+  {
+    "w1": "仕事",
+    "w2": "心理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 1083440,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヘルマン・フォン・ヘルムホルツ",
+    "w2": "心理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 68,
+    "unigram_w1": 228,
+    "unigram_w2": 1083440,
+    "ppmi": 5.587489239866264
+  }
+]

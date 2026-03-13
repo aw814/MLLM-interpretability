@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hawaii",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 56693,
+    "unigram_w1": 1037731,
+    "unigram_w2": 9241408,
+    "ppmi": 1.1090035767503685
+  },
+  {
+    "w1": "language",
+    "w2": "Hawaiian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27066,
+    "unigram_w1": 9241408,
+    "unigram_w2": 404807,
+    "ppmi": 1.4004410298745291
+  },
+  {
+    "w1": "Hawaii",
+    "w2": "Hawaiian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 132816,
+    "unigram_w1": 1037731,
+    "unigram_w2": 404807,
+    "ppmi": 6.849996544277587
+  }
+]

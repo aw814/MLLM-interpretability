@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Achaemenid Empire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1415,
+    "unigram_w1": 3148,
+    "unigram_w2": 7450623,
+    "ppmi": 4.460239792133376
+  },
+  {
+    "w1": "capital",
+    "w2": "Babylon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14029,
+    "unigram_w1": 7450623,
+    "unigram_w2": 157751,
+    "ppmi": 2.122708210399227
+  },
+  {
+    "w1": "Achaemenid Empire",
+    "w2": "Babylon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 523,
+    "unigram_w1": 3148,
+    "unigram_w2": 157751,
+    "ppmi": 8.585960599610852
+  }
+]

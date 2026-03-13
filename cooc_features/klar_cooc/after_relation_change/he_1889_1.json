@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אלפרד מרשל",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 39,
+    "unigram_w1": 93,
+    "unigram_w2": 1639120,
+    "ppmi": 1.6579620083731679
+  },
+  {
+    "w1": "עבודה",
+    "w2": "כלכלה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 143258,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אלפרד מרשל",
+    "w2": "כלכלה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 93,
+    "unigram_w2": 143258,
+    "ppmi": 5.771436705700598
+  }
+]

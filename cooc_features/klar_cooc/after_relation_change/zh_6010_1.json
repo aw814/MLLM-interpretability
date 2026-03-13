@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "越南国旗",
+    "w2": "司法管辖权",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 100,
+    "unigram_w2": 989,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "司法管辖权",
+    "w2": "越南",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 989,
+    "unigram_w2": 356052,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "越南国旗",
+    "w2": "越南",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 100,
+    "unigram_w2": 356052,
+    "ppmi": 7.355859136577598
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バ＝ラン県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 332,
+    "unigram_w2": 2444276,
+    "ppmi": 3.369051543589511
+  },
+  {
+    "w1": "首都",
+    "w2": "ストラスブール",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 42334,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "バ＝ラン県",
+    "w2": "ストラスブール",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 226,
+    "unigram_w1": 332,
+    "unigram_w2": 42334,
+    "ppmi": 11.455714583432378
+  }
+]

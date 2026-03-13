@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הובארט",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 361,
+    "unigram_w2": 90246,
+    "ppmi": 2.991095675894519
+  },
+  {
+    "w1": "בירה",
+    "w2": "טסמניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 937,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הובארט",
+    "w2": "טסמניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 361,
+    "unigram_w2": 937,
+    "ppmi": 11.773410884147467
+  }
+]

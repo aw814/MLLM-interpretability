@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google Earth",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1369,
+    "unigram_w1": 107316,
+    "unigram_w2": 1657738,
+    "ppmi": 1.4894194027616805
+  },
+  {
+    "w1": "owns",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 92858,
+    "unigram_w1": 1657738,
+    "unigram_w2": 7797596,
+    "ppmi": 1.3901589418272418
+  },
+  {
+    "w1": "Google Earth",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 107316,
+    "unigram_w1": 107316,
+    "unigram_w2": 7797596,
+    "ppmi": 5.54820493518512
+  }
+]

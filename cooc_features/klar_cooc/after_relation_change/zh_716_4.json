@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴什科尔托斯坦共和国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 355,
+    "unigram_w2": 919361,
+    "ppmi": 1.5156404115039395
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴什科尔托斯坦共和国",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 355,
+    "unigram_w2": 46749,
+    "ppmi": 5.135192563616065
+  }
+]

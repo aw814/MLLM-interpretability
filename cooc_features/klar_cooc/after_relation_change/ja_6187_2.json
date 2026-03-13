@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オスマン帝国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14302,
+    "unigram_w1": 47266,
+    "unigram_w2": 2444276,
+    "ppmi": 4.434542604348195
+  },
+  {
+    "w1": "首都",
+    "w2": "イスタンブール",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 178158,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オスマン帝国",
+    "w2": "イスタンブール",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8036,
+    "unigram_w1": 47266,
+    "unigram_w2": 178158,
+    "ppmi": 7.381053191311664
+  }
+]

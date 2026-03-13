@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pedro I de Serbia",
+    "w2": "nacido",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 284,
+    "unigram_w2": 9584124,
+    "ppmi": 3.7496787465675183
+  },
+  {
+    "w1": "nacido",
+    "w2": "Belgrado",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9584124,
+    "unigram_w2": 334482,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pedro I de Serbia",
+    "w2": "Belgrado",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 132,
+    "unigram_w1": 284,
+    "unigram_w2": 334482,
+    "ppmi": 10.175287341138798
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Toyota Corolla",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2360,
+    "unigram_w1": 45420,
+    "unigram_w2": 3911896,
+    "ppmi": 2.2768973873453193
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Toyota",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50270,
+    "unigram_w1": 3911896,
+    "unigram_w2": 783321,
+    "ppmi": 2.5815322868316066
+  },
+  {
+    "w1": "Toyota Corolla",
+    "w2": "Toyota",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45420,
+    "unigram_w1": 45420,
+    "unigram_w2": 783321,
+    "ppmi": 8.86355880349748
+  }
+]

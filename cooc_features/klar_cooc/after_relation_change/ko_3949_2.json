@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "보이시",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 185,
+    "unigram_w1": 1668,
+    "unigram_w2": 1351571,
+    "ppmi": 0.3565872244547579
+  },
+  {
+    "w1": "수도",
+    "w2": "아이다호주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 381,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "보이시",
+    "w2": "아이다호주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 1668,
+    "unigram_w2": 381,
+    "ppmi": 9.202726947232778
+  }
+]

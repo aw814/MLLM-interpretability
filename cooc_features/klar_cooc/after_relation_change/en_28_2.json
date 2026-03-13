@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Konrad Adenauer",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 908,
+    "unigram_w1": 6752,
+    "unigram_w2": 9106140,
+    "ppmi": 2.429844003328224
+  },
+  {
+    "w1": "born",
+    "w2": "Cologne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27962,
+    "unigram_w1": 9106140,
+    "unigram_w2": 241622,
+    "ppmi": 2.2131823440307232
+  },
+  {
+    "w1": "Konrad Adenauer",
+    "w2": "Cologne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 519,
+    "unigram_w1": 6752,
+    "unigram_w2": 241622,
+    "ppmi": 6.8589021592336366
+  }
+]

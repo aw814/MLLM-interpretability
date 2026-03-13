@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "교황 요한 바오로 2세",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 586,
+    "unigram_w2": 250699,
+    "ppmi": 1.6718522327057872
+  },
+  {
+    "w1": "언어",
+    "w2": "폴란드어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 19547,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "교황 요한 바오로 2세",
+    "w2": "폴란드어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 586,
+    "unigram_w2": 19547,
+    "ppmi": 4.445898768361384
+  }
+]

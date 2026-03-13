@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lise Meitner",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 2466,
+    "unigram_w2": 1325492,
+    "ppmi": 2.4721446999034162
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Suède",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 2847086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lise Meitner",
+    "w2": "Suède",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 320,
+    "unigram_w1": 2466,
+    "unigram_w2": 2847086,
+    "ppmi": 4.56183166844782
+  }
+]

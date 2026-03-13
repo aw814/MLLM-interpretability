@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bohemian Rhapsody",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 316,
+    "unigram_w2": 236631,
+    "ppmi": 1.100588056226959
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bohemian Rhapsody",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 316,
+    "unigram_w2": 231817,
+    "ppmi": 2.517263898209537
+  }
+]

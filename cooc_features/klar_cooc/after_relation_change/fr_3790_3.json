@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Londres",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 593662,
+    "unigram_w1": 6755180,
+    "unigram_w2": 9137640,
+    "ppmi": 2.317244587674529
+  },
+  {
+    "w1": "capitale",
+    "w2": "Angleterre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 3690288,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Londres",
+    "w2": "Angleterre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 671864,
+    "unigram_w1": 6755180,
+    "unigram_w2": 3690288,
+    "ppmi": 3.8038602398754993
+  }
+]

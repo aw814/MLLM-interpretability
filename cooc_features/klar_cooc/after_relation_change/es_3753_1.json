@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bakú",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28690,
+    "unigram_w1": 133326,
+    "unigram_w2": 42058182,
+    "ppmi": 2.08998796110318
+  },
+  {
+    "w1": "capital",
+    "w2": "Azerbaiyán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61974,
+    "unigram_w1": 42058182,
+    "unigram_w2": 423954,
+    "ppmi": 1.532153491832972
+  },
+  {
+    "w1": "Bakú",
+    "w2": "Azerbaiyán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64688,
+    "unigram_w1": 133326,
+    "unigram_w2": 423954,
+    "ppmi": 9.895273043718623
+  }
+]

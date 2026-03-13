@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jean-Paul Belmondo",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2899,
+    "unigram_w1": 57314,
+    "unigram_w2": 12749290,
+    "ppmi": 1.0397413804414664
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jean-Paul Belmondo",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22700,
+    "unigram_w1": 57314,
+    "unigram_w2": 46536486,
+    "ppmi": 2.140861069955518
+  }
+]

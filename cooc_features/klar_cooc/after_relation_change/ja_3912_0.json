@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リトルロック",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 438,
+    "unigram_w1": 5602,
+    "unigram_w2": 2444276,
+    "ppmi": 2.4821892657419466
+  },
+  {
+    "w1": "首都",
+    "w2": "アーカンソー州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 24050,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "リトルロック",
+    "w2": "アーカンソー州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1904,
+    "unigram_w1": 5602,
+    "unigram_w2": 24050,
+    "ppmi": 11.269446464193933
+  }
+]

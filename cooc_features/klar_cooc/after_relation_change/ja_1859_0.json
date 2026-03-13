@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イワン・パブロフ",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 148,
+    "unigram_w1": 454,
+    "unigram_w2": 30190082,
+    "ppmi": 0.915437781236576
+  },
+  {
+    "w1": "仕事",
+    "w2": "生理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 236008,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イワン・パブロフ",
+    "w2": "生理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 238,
+    "unigram_w1": 454,
+    "unigram_w2": 236008,
+    "ppmi": 8.5998972804106
+  }
+]

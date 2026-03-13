@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Georges Duhamel",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29,
+    "unigram_w1": 98,
+    "unigram_w2": 9106140,
+    "ppmi": 3.567665855756858
+  },
+  {
+    "w1": "born",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 394429,
+    "unigram_w1": 9106140,
+    "unigram_w2": 3039340,
+    "ppmi": 2.3784741652139063
+  },
+  {
+    "w1": "Georges Duhamel",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 98,
+    "unigram_w2": 3039340,
+    "ppmi": 5.965191769494147
+  }
+]

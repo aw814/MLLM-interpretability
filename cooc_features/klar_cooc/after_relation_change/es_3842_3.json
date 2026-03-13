@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bangkok",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 386496,
+    "unigram_w1": 1515744,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3348255134608134
+  },
+  {
+    "w1": "capital",
+    "w2": "Tailandia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 957100,
+    "unigram_w1": 42058182,
+    "unigram_w2": 3731684,
+    "ppmi": 2.343240986974779
+  },
+  {
+    "w1": "Bangkok",
+    "w2": "Tailandia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 627934,
+    "unigram_w1": 1515744,
+    "unigram_w2": 3731684,
+    "ppmi": 6.529472721636254
+  }
+]

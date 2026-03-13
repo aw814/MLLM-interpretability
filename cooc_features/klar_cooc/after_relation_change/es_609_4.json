@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Organización de Aviación Civil Internacional",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1968,
+    "unigram_w1": 42970,
+    "unigram_w2": 12196104,
+    "ppmi": 1.6437647173268601
+  },
+  {
+    "w1": "idioma",
+    "w2": "ruso",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 8350394,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Organización de Aviación Civil Internacional",
+    "w2": "ruso",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1422,
+    "unigram_w1": 42970,
+    "unigram_w2": 8350394,
+    "ppmi": 1.7214601438665178
+  }
+]

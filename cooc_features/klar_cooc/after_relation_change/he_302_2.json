@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "איי בהאמה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 77,
+    "unigram_w1": 1239,
+    "unigram_w2": 236631,
+    "ppmi": 1.6957551548172696
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "איי בהאמה",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 112,
+    "unigram_w1": 1239,
+    "unigram_w2": 231817,
+    "ppmi": 2.265976255053303
+  }
+]

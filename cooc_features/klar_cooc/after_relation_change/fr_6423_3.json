@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Belgique",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 574064,
+    "unigram_w1": 11606823,
+    "unigram_w2": 9137640,
+    "ppmi": 1.4879073870552233
+  },
+  {
+    "w1": "capitale",
+    "w2": "Bruxelles",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 6467862,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Belgique",
+    "w2": "Bruxelles",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1988156,
+    "unigram_w1": 11606823,
+    "unigram_w2": 6467862,
+    "ppmi": 3.7785875656486865
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אוסטרליה המערבית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 315,
+    "unigram_w2": 90246,
+    "ppmi": 3.187742684394411
+  },
+  {
+    "w1": "בירה",
+    "w2": "פרת'",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 1637,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אוסטרליה המערבית",
+    "w2": "פרת'",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 82,
+    "unigram_w1": 315,
+    "unigram_w2": 1637,
+    "ppmi": 10.937714027729319
+  }
+]

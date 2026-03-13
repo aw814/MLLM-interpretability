@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴甫洛夫",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 439,
+    "unigram_w1": 1324,
+    "unigram_w2": 12146148,
+    "ppmi": 0.6709817725198617
+  },
+  {
+    "w1": "工作",
+    "w2": "生理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 17292,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴甫洛夫",
+    "w2": "生理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 126,
+    "unigram_w1": 1324,
+    "unigram_w2": 17292,
+    "ppmi": 8.32636296335024
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Luxembourg",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26189,
+    "unigram_w1": 294043,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8141274024553062
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Luxembourg",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 77843,
+    "unigram_w1": 294043,
+    "unigram_w2": 6382804,
+    "ppmi": 3.9196560681464456
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에든버러",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 972,
+    "unigram_w1": 6662,
+    "unigram_w2": 1351571,
+    "ppmi": 0.752182202314539
+  },
+  {
+    "w1": "수도",
+    "w2": "스코틀랜드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 22938,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에든버러",
+    "w2": "스코틀랜드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1450,
+    "unigram_w1": 6662,
+    "unigram_w2": 22938,
+    "ppmi": 7.209960768121748
+  }
+]

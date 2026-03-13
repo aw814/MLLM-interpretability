@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "알자스",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 396,
+    "unigram_w1": 1768,
+    "unigram_w2": 1351571,
+    "ppmi": 1.3705633980712872
+  },
+  {
+    "w1": "수도",
+    "w2": "스트라스부르",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3948,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "알자스",
+    "w2": "스트라스부르",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 225,
+    "unigram_w1": 1768,
+    "unigram_w2": 3948,
+    "ppmi": 8.974287564818816
+  }
+]

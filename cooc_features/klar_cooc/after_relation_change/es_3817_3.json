@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Islamabad",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32508,
+    "unigram_w1": 121326,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4063041900262125
+  },
+  {
+    "w1": "capital",
+    "w2": "Pakistán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 271354,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1459576,
+    "ppmi": 1.8790249835089479
+  },
+  {
+    "w1": "Islamabad",
+    "w2": "Pakistán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 75444,
+    "unigram_w1": 121326,
+    "unigram_w2": 1459576,
+    "ppmi": 8.469680810405022
+  }
+]

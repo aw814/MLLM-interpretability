@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リロングウェ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1372,
+    "unigram_w1": 2194,
+    "unigram_w2": 2444276,
+    "ppmi": 5.481845429984899
+  },
+  {
+    "w1": "首都",
+    "w2": "マラウイ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 27758,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "リロングウェ",
+    "w2": "マラウイ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1138,
+    "unigram_w1": 2194,
+    "unigram_w2": 27758,
+    "ppmi": 11.67242527125237
+  }
+]

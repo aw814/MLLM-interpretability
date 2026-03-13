@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ザ コカ・コーラ カンパニー",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 312,
+    "unigram_w1": 1472,
+    "unigram_w2": 27600878,
+    "ppmi": 0.42373368039628984
+  },
+  {
+    "w1": "場所",
+    "w2": "アトランタ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 192870,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ザ コカ・コーラ カンパニー",
+    "w2": "アトランタ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 308,
+    "unigram_w1": 1472,
+    "unigram_w2": 192870,
+    "ppmi": 7.566059596136929
+  }
+]

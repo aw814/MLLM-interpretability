@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アラバマ州",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8374,
+    "unigram_w1": 48486,
+    "unigram_w2": 3715876,
+    "ppmi": 3.021253897925223
+  },
+  {
+    "w1": "言語",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アラバマ州",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10964,
+    "unigram_w1": 48486,
+    "unigram_w2": 8357100,
+    "ppmi": 2.24073926825744
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maïmonide",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7510,
+    "unigram_w1": 22945,
+    "unigram_w2": 4547729,
+    "ppmi": 5.220905449985281
+  },
+  {
+    "w1": "religion",
+    "w2": "judaïsme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163334,
+    "unigram_w1": 4547729,
+    "unigram_w2": 422601,
+    "ppmi": 5.460729399805521
+  },
+  {
+    "w1": "Maïmonide",
+    "w2": "judaïsme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9295,
+    "unigram_w1": 22945,
+    "unigram_w2": 422601,
+    "ppmi": 8.95632560748535
+  }
+]

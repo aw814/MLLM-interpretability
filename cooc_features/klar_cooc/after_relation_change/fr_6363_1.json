@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Égypte",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 79820,
+    "unigram_w1": 866479,
+    "unigram_w2": 9137640,
+    "ppmi": 2.3851825244337412
+  },
+  {
+    "w1": "capitale",
+    "w2": "Le Caire",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 256265,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Égypte",
+    "w2": "Le Caire",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53283,
+    "unigram_w1": 866479,
+    "unigram_w2": 256265,
+    "ppmi": 6.958220805950468
+  }
+]

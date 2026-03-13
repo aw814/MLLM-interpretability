@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גולף",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7749,
+    "unigram_w1": 51184,
+    "unigram_w2": 286432,
+    "ppmi": 2.704764646685169
+  },
+  {
+    "w1": "מיקום",
+    "w2": "סקוטלנד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 17407,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גולף",
+    "w2": "סקוטלנד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 304,
+    "unigram_w1": 51184,
+    "unigram_w2": 17407,
+    "ppmi": 2.073350920835177
+  }
+]

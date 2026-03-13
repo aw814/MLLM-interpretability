@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sega",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6559,
+    "unigram_w1": 112298,
+    "unigram_w2": 14590058,
+    "ppmi": 0.5466080826601409
+  },
+  {
+    "w1": "location",
+    "w2": "Tokyo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 78566,
+    "unigram_w1": 14590058,
+    "unigram_w2": 1042843,
+    "ppmi": 0.913847575951341
+  },
+  {
+    "w1": "Sega",
+    "w2": "Tokyo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4258,
+    "unigram_w1": 112298,
+    "unigram_w2": 1042843,
+    "ppmi": 3.729699894223817
+  }
+]

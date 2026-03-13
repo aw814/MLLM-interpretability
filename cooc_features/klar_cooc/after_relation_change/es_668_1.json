@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lausana",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7120,
+    "unigram_w1": 170314,
+    "unigram_w2": 12196104,
+    "ppmi": 1.5121163890399498
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lausana",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28618,
+    "unigram_w1": 170314,
+    "unigram_w2": 16087876,
+    "ppmi": 3.1195365848543193
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "August Krogh",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 84,
+    "unigram_w1": 168,
+    "unigram_w2": 74824954,
+    "ppmi": 1.2857867629267727
+  },
+  {
+    "w1": "work",
+    "w2": "physiology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212615,
+    "unigram_w1": 74824954,
+    "unigram_w2": 457826,
+    "ppmi": 1.1792307495360304
+  },
+  {
+    "w1": "August Krogh",
+    "w2": "physiology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 168,
+    "unigram_w2": 457826,
+    "ppmi": 8.831008121379389
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charles II of Spain",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 385,
+    "unigram_w2": 737500,
+    "ppmi": 1.9467672552792081
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Spain",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23657,
+    "unigram_w1": 737500,
+    "unigram_w2": 2413989,
+    "ppmi": 2.277511232005666
+  },
+  {
+    "w1": "Charles II of Spain",
+    "w2": "Spain",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 385,
+    "unigram_w1": 385,
+    "unigram_w2": 2413989,
+    "ppmi": 7.239815242540753
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "FC 디나모 키예프",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 35,
+    "unigram_w2": 563145,
+    "ppmi": 1.2478477778811161
+  },
+  {
+    "w1": "위치",
+    "w2": "키예프",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 3983,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "FC 디나모 키예프",
+    "w2": "키예프",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 35,
+    "unigram_w2": 3983,
+    "ppmi": 11.935675443085422
+  }
+]

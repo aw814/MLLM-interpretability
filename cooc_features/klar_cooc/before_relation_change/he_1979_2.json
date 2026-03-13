@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "וורן בייטי",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 435,
+    "unigram_w2": 1821,
+    "ppmi": 3.960821850259739
+  },
+  {
+    "w1": "occupation",
+    "w2": "תסריטאי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 1821,
+    "unigram_w2": 13227,
+    "ppmi": 0.6194576793800821
+  },
+  {
+    "w1": "וורן בייטי",
+    "w2": "תסריטאי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43,
+    "unigram_w1": 435,
+    "unigram_w2": 13227,
+    "ppmi": 6.526403549601771
+  }
+]

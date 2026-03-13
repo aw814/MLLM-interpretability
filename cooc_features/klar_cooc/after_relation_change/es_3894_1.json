@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hanói",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15678,
+    "unigram_w1": 96766,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6805675404874856
+  },
+  {
+    "w1": "capital",
+    "w2": "Vietnam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 565456,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2907838,
+    "ppmi": 1.9438660127800016
+  },
+  {
+    "w1": "Hanói",
+    "w2": "Vietnam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 60190,
+    "unigram_w1": 96766,
+    "unigram_w2": 2907838,
+    "ppmi": 7.475717514543405
+  }
+]

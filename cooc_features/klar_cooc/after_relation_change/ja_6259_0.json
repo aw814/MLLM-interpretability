@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴィリニュス県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 176,
+    "unigram_w2": 2444276,
+    "ppmi": 3.0216249504653447
+  },
+  {
+    "w1": "首都",
+    "w2": "ヴィリニュス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 12630,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヴィリニュス県",
+    "w2": "ヴィリニュス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 176,
+    "unigram_w1": 176,
+    "unigram_w2": 12630,
+    "ppmi": 13.755537223830348
+  }
+]

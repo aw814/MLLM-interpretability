@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Liubliana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18908,
+    "unigram_w1": 67378,
+    "unigram_w2": 42058182,
+    "ppmi": 2.473045401387369
+  },
+  {
+    "w1": "capital",
+    "w2": "Eslovenia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 214554,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1057168,
+    "ppmi": 2.005534278813045
+  },
+  {
+    "w1": "Liubliana",
+    "w2": "Eslovenia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35764,
+    "unigram_w1": 67378,
+    "unigram_w2": 1057168,
+    "ppmi": 8.70666665794422
+  }
+]

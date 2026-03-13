@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西オーストラリア州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2736,
+    "unigram_w1": 12374,
+    "unigram_w2": 2444276,
+    "ppmi": 3.9819566704875404
+  },
+  {
+    "w1": "首都",
+    "w2": "パース",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 210894,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西オーストラリア州",
+    "w2": "パース",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6372,
+    "unigram_w1": 12374,
+    "unigram_w2": 210894,
+    "ppmi": 8.736451950388014
+  }
+]

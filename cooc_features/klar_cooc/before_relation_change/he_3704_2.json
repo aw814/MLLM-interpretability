@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פנטיום",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 1487,
+    "unigram_w2": 7399,
+    "ppmi": 2.9722600545375664
+  },
+  {
+    "w1": "developer",
+    "w2": "אינטל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 141,
+    "unigram_w1": 7399,
+    "unigram_w2": 31993,
+    "ppmi": 2.8771767563319224
+  },
+  {
+    "w1": "פנטיום",
+    "w2": "אינטל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 590,
+    "unigram_w1": 1487,
+    "unigram_w2": 31993,
+    "ppmi": 7.257122199570201
+  }
+]

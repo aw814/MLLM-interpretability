@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スタディオ・レンツォ・バルベラ",
+    "w2": "所有する",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 108,
+    "unigram_w2": 779898,
+    "ppmi": 3.052290814387373
+  },
+  {
+    "w1": "所有する",
+    "w2": "パレルモ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 779898,
+    "unigram_w2": 69156,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スタディオ・レンツォ・バルベラ",
+    "w2": "パレルモ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 108,
+    "unigram_w2": 69156,
+    "ppmi": 11.19150612500868
+  }
+]

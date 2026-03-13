@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Rasmus",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 119,
+    "unigram_w1": 3705,
+    "unigram_w2": 5673888,
+    "ppmi": 1.5525689935877505
+  },
+  {
+    "w1": "localisation",
+    "w2": "Helsinki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 284408,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "The Rasmus",
+    "w2": "Helsinki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 191,
+    "unigram_w1": 3705,
+    "unigram_w2": 284408,
+    "ppmi": 6.553483779418767
+  }
+]

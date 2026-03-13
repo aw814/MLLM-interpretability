@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Église apostolique assyrienne de l'Orient",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 96,
+    "unigram_w2": 5673888,
+    "ppmi": 1.5130090574730028
+  },
+  {
+    "w1": "localisation",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 1811565,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Église apostolique assyrienne de l'Orient",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 96,
+    "unigram_w2": 1811565,
+    "ppmi": 5.482038253649351
+  }
+]

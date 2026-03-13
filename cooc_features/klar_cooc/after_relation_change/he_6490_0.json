@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אריקסון",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 372,
+    "unigram_w1": 9899,
+    "unigram_w2": 286432,
+    "ppmi": 0.6944672303476243
+  },
+  {
+    "w1": "מיקום",
+    "w2": "סטוקהולם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 3143,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אריקסון",
+    "w2": "סטוקהולם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 9899,
+    "unigram_w2": 3143,
+    "ppmi": 4.731304205909596
+  }
+]

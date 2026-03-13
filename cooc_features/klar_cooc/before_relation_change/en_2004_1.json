@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "H. P. Lovecraft",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 56,
+    "unigram_w1": 5217,
+    "unigram_w2": 1072211,
+    "ppmi": 1.8689957074950236
+  },
+  {
+    "w1": "occupation",
+    "w2": "journalist",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26941,
+    "unigram_w1": 1072211,
+    "unigram_w2": 1260021,
+    "ppmi": 2.863144937209046
+  },
+  {
+    "w1": "H. P. Lovecraft",
+    "w2": "journalist",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 125,
+    "unigram_w1": 5217,
+    "unigram_w2": 1260021,
+    "ppmi": 2.7945661328069704
+  }
+]

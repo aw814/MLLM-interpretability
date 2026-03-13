@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Seretse Ian Khama",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 228,
+    "unigram_w2": 1178529,
+    "ppmi": 3.5324319574263257
+  },
+  {
+    "w1": "occupation",
+    "w2": "personnalité politique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 759,
+    "unigram_w1": 1178529,
+    "unigram_w2": 66574,
+    "ppmi": 2.3256443136849594
+  },
+  {
+    "w1": "Seretse Ian Khama",
+    "w2": "personnalité politique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 228,
+    "unigram_w2": 66574,
+    "ppmi": 7.093354052773414
+  }
+]

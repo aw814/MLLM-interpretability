@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아일랜드 왕국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 29,
+    "unigram_w2": 1351571,
+    "ppmi": 2.4784832643131414
+  },
+  {
+    "w1": "수도",
+    "w2": "더블린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 8503,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아일랜드 왕국",
+    "w2": "더블린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 29,
+    "unigram_w2": 8503,
+    "ppmi": 6.98357798975989
+  }
+]

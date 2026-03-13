@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Islamic Emirate of Afghanistan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 284,
+    "unigram_w1": 1006,
+    "unigram_w2": 7450623,
+    "ppmi": 3.7892058096207726
+  },
+  {
+    "w1": "capital",
+    "w2": "Kabul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22304,
+    "unigram_w1": 7450623,
+    "unigram_w2": 100334,
+    "ppmi": 3.4444370791076944
+  },
+  {
+    "w1": "Islamic Emirate of Afghanistan",
+    "w2": "Kabul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 460,
+    "unigram_w1": 1006,
+    "unigram_w2": 100334,
+    "ppmi": 10.69942732839547
+  }
+]

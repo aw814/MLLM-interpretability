@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "콩고 공화국",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 748,
+    "unigram_w2": 250699,
+    "ppmi": 2.270805026759452
+  },
+  {
+    "w1": "언어",
+    "w2": "프랑스어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 65940,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "콩고 공화국",
+    "w2": "프랑스어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 87,
+    "unigram_w1": 748,
+    "unigram_w2": 65940,
+    "ppmi": 4.78249797685295
+  }
+]

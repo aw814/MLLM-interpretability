@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ginebra",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80640,
+    "unigram_w1": 2259260,
+    "unigram_w2": 12196104,
+    "ppmi": 1.284081509297918
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ginebra",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 226152,
+    "unigram_w1": 2259260,
+    "unigram_w2": 16087876,
+    "ppmi": 2.37225321084531
+  }
+]

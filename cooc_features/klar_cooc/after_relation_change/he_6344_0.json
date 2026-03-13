@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קאמבריה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 177,
+    "unigram_w2": 90246,
+    "ppmi": 2.2119902306410886
+  },
+  {
+    "w1": "בירה",
+    "w2": "קרליסל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 51,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קאמבריה",
+    "w2": "קרליסל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 177,
+    "unigram_w2": 51,
+    "ppmi": 10.416177755918175
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "런던",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20640,
+    "unigram_w1": 128055,
+    "unigram_w2": 1351571,
+    "ppmi": 0.8958606281514825
+  },
+  {
+    "w1": "수도",
+    "w2": "잉글랜드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 44567,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "런던",
+    "w2": "잉글랜드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7229,
+    "unigram_w1": 128055,
+    "unigram_w2": 44567,
+    "ppmi": 4.304803293416976
+  }
+]

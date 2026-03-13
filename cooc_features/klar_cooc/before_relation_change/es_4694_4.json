@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mahatma Gandhi",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10698,
+    "unigram_w1": 537000,
+    "unigram_w2": 979024,
+    "ppmi": 4.081715615155908
+  },
+  {
+    "w1": "religion",
+    "w2": "hinduismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11010,
+    "unigram_w1": 979024,
+    "unigram_w2": 196126,
+    "ppmi": 5.5763302602998985
+  },
+  {
+    "w1": "Mahatma Gandhi",
+    "w2": "hinduismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5200,
+    "unigram_w1": 537000,
+    "unigram_w2": 196126,
+    "ppmi": 5.360521458345064
+  }
+]

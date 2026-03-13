@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "玛丽·居里",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 153,
+    "unigram_w1": 432,
+    "unigram_w2": 12146148,
+    "ppmi": 0.7660923903209046
+  },
+  {
+    "w1": "工作",
+    "w2": "化学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 641626,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "玛丽·居里",
+    "w2": "化学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 90,
+    "unigram_w1": 432,
+    "unigram_w2": 641626,
+    "ppmi": 4.243180083346831
+  }
+]

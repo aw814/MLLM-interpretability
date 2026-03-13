@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Irénée de Lyon",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4613,
+    "unigram_w1": 9097,
+    "unigram_w2": 19663145,
+    "ppmi": 3.7402389841859196
+  },
+  {
+    "w1": "mort",
+    "w2": "Lyon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 11683326,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Irénée de Lyon",
+    "w2": "Lyon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9097,
+    "unigram_w1": 9097,
+    "unigram_w2": 11683326,
+    "ppmi": 5.470967597355829
+  }
+]

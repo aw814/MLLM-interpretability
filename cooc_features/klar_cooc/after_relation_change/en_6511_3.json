@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "AFC Ajax",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 88,
+    "unigram_w1": 1357,
+    "unigram_w2": 14590058,
+    "ppmi": 0.6975472445189917
+  },
+  {
+    "w1": "location",
+    "w2": "Amsterdam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 71461,
+    "unigram_w1": 14590058,
+    "unigram_w2": 769466,
+    "ppmi": 1.2156910587075378
+  },
+  {
+    "w1": "AFC Ajax",
+    "w2": "Amsterdam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 488,
+    "unigram_w1": 1357,
+    "unigram_w2": 769466,
+    "ppmi": 7.413837191311136
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מוהנדס קרמצ'נד גנדי",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 128,
+    "unigram_w2": 5024,
+    "ppmi": 5.261587899081041
+  },
+  {
+    "w1": "religion",
+    "w2": "הינדואיזם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 5024,
+    "unigram_w2": 1842,
+    "ppmi": 6.029240397104913
+  },
+  {
+    "w1": "מוהנדס קרמצ'נד גנדי",
+    "w2": "הינדואיזם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 128,
+    "unigram_w2": 1842,
+    "ppmi": 10.168582920518629
+  }
+]

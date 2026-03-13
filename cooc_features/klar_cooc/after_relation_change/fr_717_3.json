@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indonésie",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 64938,
+    "unigram_w1": 1183495,
+    "unigram_w2": 12749290,
+    "ppmi": 1.157154880302981
+  },
+  {
+    "w1": "langue",
+    "w2": "indonésien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 291335,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Indonésie",
+    "w2": "indonésien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73823,
+    "unigram_w1": 1183495,
+    "unigram_w2": 291335,
+    "ppmi": 6.793756358561356
+  }
+]

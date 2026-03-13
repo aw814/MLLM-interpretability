@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "法国本土",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 85,
+    "unigram_w1": 1471,
+    "unigram_w2": 596594,
+    "ppmi": 2.4980070295683716
+  },
+  {
+    "w1": "首都",
+    "w2": "巴黎",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 677900,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "法国本土",
+    "w2": "巴黎",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 388,
+    "unigram_w1": 1471,
+    "unigram_w2": 677900,
+    "ppmi": 4.504205933260289
+  }
+]

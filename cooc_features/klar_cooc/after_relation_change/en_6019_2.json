@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Taiwan",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 110,
+    "unigram_w2": 1074632,
+    "ppmi": 1.6260319272457548
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Taiwan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6587,
+    "unigram_w1": 1074632,
+    "unigram_w2": 756994,
+    "ppmi": 1.5628751357892516
+  },
+  {
+    "w1": "flag of Taiwan",
+    "w2": "Taiwan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 110,
+    "unigram_w1": 110,
+    "unigram_w2": 756994,
+    "ppmi": 8.912880574171666
+  }
+]

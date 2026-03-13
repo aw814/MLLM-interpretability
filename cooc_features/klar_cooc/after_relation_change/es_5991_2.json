@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Senado de Francia",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 2868,
+    "unigram_w2": 3205324,
+    "ppmi": 2.0579032742540497
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Francia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 21970124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Senado de Francia",
+    "w2": "Francia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2868,
+    "unigram_w1": 2868,
+    "unigram_w2": 21970124,
+    "ppmi": 5.2431697140786
+  }
+]

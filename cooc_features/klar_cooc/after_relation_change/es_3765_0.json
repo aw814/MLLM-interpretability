@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Heraclión",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9660,
+    "unigram_w1": 20538,
+    "unigram_w2": 42058182,
+    "ppmi": 3.218125632745545
+  },
+  {
+    "w1": "capital",
+    "w2": "Creta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 62734,
+    "unigram_w1": 42058182,
+    "unigram_w2": 394786,
+    "ppmi": 1.6525748660381068
+  },
+  {
+    "w1": "Heraclión",
+    "w2": "Creta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15120,
+    "unigram_w1": 20538,
+    "unigram_w2": 394786,
+    "ppmi": 10.599660528137873
+  }
+]

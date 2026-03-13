@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oscar Ier de Suède",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 140,
+    "unigram_w2": 1325492,
+    "ppmi": 2.481535750416322
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Suède",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 2847086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Oscar Ier de Suède",
+    "w2": "Suède",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140,
+    "unigram_w1": 140,
+    "unigram_w2": 2847086,
+    "ppmi": 7.507860657963297
+  }
+]

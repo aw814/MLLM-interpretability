@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "艾奥瓦州",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 115,
+    "unigram_w1": 5887,
+    "unigram_w2": 919361,
+    "ppmi": 0.30948876452761076
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "艾奥瓦州",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 5887,
+    "unigram_w2": 910574,
+    "ppmi": 0.6873072803621025
+  }
+]

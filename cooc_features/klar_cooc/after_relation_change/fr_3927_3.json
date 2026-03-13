@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sanaa",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35072,
+    "unigram_w1": 101432,
+    "unigram_w2": 9137640,
+    "ppmi": 4.293403864731055
+  },
+  {
+    "w1": "capitale",
+    "w2": "Yémen",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 635467,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sanaa",
+    "w2": "Yémen",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53620,
+    "unigram_w1": 101432,
+    "unigram_w2": 635467,
+    "ppmi": 8.751787873072153
+  }
+]

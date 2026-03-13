@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フリードリヒ・ヴィルヘルム2世",
+    "w2": "生まれた",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 120,
+    "unigram_w1": 308,
+    "unigram_w2": 4588356,
+    "ppmi": 3.890662397004799
+  },
+  {
+    "w1": "生まれた",
+    "w2": "ベルリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4588356,
+    "unigram_w2": 676730,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フリードリヒ・ヴィルヘルム2世",
+    "w2": "ベルリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 176,
+    "unigram_w1": 308,
+    "unigram_w2": 676730,
+    "ppmi": 7.204528500182629
+  }
+]

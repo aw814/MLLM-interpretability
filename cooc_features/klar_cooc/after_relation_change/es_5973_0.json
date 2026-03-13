@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "presidente de Rusia",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1570,
+    "unigram_w1": 141824,
+    "unigram_w2": 3205324,
+    "ppmi": 1.5229773046287427
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Rusia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 12358466,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "presidente de Rusia",
+    "w2": "Rusia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 141824,
+    "unigram_w1": 141824,
+    "unigram_w2": 12358466,
+    "ppmi": 6.073213047272279
+  }
+]

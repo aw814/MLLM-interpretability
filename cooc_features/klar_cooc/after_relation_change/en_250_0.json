@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Ossetia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1761,
+    "unigram_w1": 13261,
+    "unigram_w2": 9241408,
+    "ppmi": 2.39039891287974
+  },
+  {
+    "w1": "language",
+    "w2": "Georgian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19441,
+    "unigram_w1": 9241408,
+    "unigram_w2": 280164,
+    "ppmi": 1.4540244184367466
+  },
+  {
+    "w1": "South Ossetia",
+    "w2": "Georgian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7201,
+    "unigram_w1": 13261,
+    "unigram_w2": 280164,
+    "ppmi": 9.465970452792432
+  }
+]

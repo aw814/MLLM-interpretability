@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jack Ruby",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1473,
+    "unigram_w1": 3781,
+    "unigram_w2": 74824954,
+    "ppmi": 0.9257763439753876
+  },
+  {
+    "w1": "work",
+    "w2": "nightclub",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73561,
+    "unigram_w1": 74824954,
+    "unigram_w2": 259052,
+    "ppmi": 0.46955803825272946
+  },
+  {
+    "w1": "Jack Ruby",
+    "w2": "nightclub",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 461,
+    "unigram_w1": 3781,
+    "unigram_w2": 259052,
+    "ppmi": 7.4239915240472785
+  }
+]

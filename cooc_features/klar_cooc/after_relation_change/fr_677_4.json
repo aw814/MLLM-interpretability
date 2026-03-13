@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Utah",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14426,
+    "unigram_w1": 249726,
+    "unigram_w2": 12749290,
+    "ppmi": 1.2313989288351275
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Utah",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24263,
+    "unigram_w1": 249726,
+    "unigram_w2": 17089249,
+    "ppmi": 1.5588134519617642
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "曼尼托巴",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60,
+    "unigram_w1": 1756,
+    "unigram_w2": 596594,
+    "ppmi": 1.7400110907586606
+  },
+  {
+    "w1": "首都",
+    "w2": "温尼伯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 2984,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "曼尼托巴",
+    "w2": "温尼伯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 491,
+    "unigram_w1": 1756,
+    "unigram_w2": 2984,
+    "ppmi": 12.416057832077541
+  }
+]

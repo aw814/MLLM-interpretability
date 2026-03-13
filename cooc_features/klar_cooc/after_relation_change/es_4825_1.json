@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Estadio Renzo Barbera",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 1124,
+    "unigram_w2": 14358872,
+    "ppmi": 0.5296989095069287
+  },
+  {
+    "w1": "posee",
+    "w2": "Palermo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 2361448,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Estadio Renzo Barbera",
+    "w2": "Palermo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1086,
+    "unigram_w1": 1124,
+    "unigram_w2": 2361448,
+    "ppmi": 8.411351121810679
+  }
+]

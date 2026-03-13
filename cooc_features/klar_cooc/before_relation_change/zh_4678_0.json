@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "梵",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 157206,
+    "unigram_w2": 2023,
+    "ppmi": 3.2534499254575313
+  },
+  {
+    "w1": "religion",
+    "w2": "印度教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 2023,
+    "unigram_w2": 18788,
+    "ppmi": 6.077214703374671
+  },
+  {
+    "w1": "梵",
+    "w2": "印度教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 948,
+    "unigram_w1": 157206,
+    "unigram_w2": 18788,
+    "ppmi": 4.226510182515193
+  }
+]

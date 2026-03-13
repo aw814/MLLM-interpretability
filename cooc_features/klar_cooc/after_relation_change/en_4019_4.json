@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mary Wollstonecraft",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 276,
+    "unigram_w1": 6164,
+    "unigram_w2": 3469075,
+    "ppmi": 2.2355566234327777
+  },
+  {
+    "w1": "spoke",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 183188,
+    "unigram_w1": 3469075,
+    "unigram_w2": 6382804,
+    "ppmi": 1.5938898720411425
+  },
+  {
+    "w1": "Mary Wollstonecraft",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1345,
+    "unigram_w1": 6164,
+    "unigram_w2": 6382804,
+    "ppmi": 3.64078330863852
+  }
+]

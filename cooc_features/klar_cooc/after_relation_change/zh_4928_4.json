@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "吕克·贝松",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 135,
+    "unigram_w1": 1579,
+    "unigram_w2": 919361,
+    "ppmi": 2.4393357670865776
+  },
+  {
+    "w1": "语言",
+    "w2": "法语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 75685,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "吕克·贝松",
+    "w2": "法语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 1579,
+    "unigram_w2": 75685,
+    "ppmi": 5.154896890019217
+  }
+]

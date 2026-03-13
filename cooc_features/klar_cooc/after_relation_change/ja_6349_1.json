@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ノーザンテリトリー",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1874,
+    "unigram_w1": 5710,
+    "unigram_w2": 2444276,
+    "ppmi": 4.5517586816242614
+  },
+  {
+    "w1": "首都",
+    "w2": "ダーウィン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 107156,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ノーザンテリトリー",
+    "w2": "ダーウィン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2800,
+    "unigram_w1": 5710,
+    "unigram_w2": 107156,
+    "ppmi": 9.642687216361287
+  }
+]

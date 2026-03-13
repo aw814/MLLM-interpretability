@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויניפג",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19,
+    "unigram_w1": 733,
+    "unigram_w2": 90246,
+    "ppmi": 1.8248914053127032
+  },
+  {
+    "w1": "בירה",
+    "w2": "מניטובה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 713,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ויניפג",
+    "w2": "מניטובה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 733,
+    "unigram_w2": 713,
+    "ppmi": 11.288701447958168
+  }
+]

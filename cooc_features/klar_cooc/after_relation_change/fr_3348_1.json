@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Élisabeth Ire",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 4900,
+    "unigram_w2": 1325492,
+    "ppmi": 2.282990071034242
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "royaume d'Angleterre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 6753,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Élisabeth Ire",
+    "w2": "royaume d'Angleterre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 135,
+    "unigram_w1": 4900,
+    "unigram_w2": 6753,
+    "ppmi": 11.04585202052416
+  }
+]

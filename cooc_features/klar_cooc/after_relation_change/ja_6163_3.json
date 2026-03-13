@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フランス王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1278,
+    "unigram_w1": 5492,
+    "unigram_w2": 2444276,
+    "ppmi": 4.055684685015174
+  },
+  {
+    "w1": "首都",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フランス王国",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2456,
+    "unigram_w1": 5492,
+    "unigram_w2": 2419066,
+    "ppmi": 5.013064477129421
+  }
+]

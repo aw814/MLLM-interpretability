@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bahia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4047,
+    "unigram_w1": 61636,
+    "unigram_w2": 9241408,
+    "ppmi": 1.3742731864856563
+  },
+  {
+    "w1": "language",
+    "w2": "Portuguese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 135406,
+    "unigram_w1": 9241408,
+    "unigram_w2": 660428,
+    "ppmi": 3.017012051202856
+  },
+  {
+    "w1": "Bahia",
+    "w2": "Portuguese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4679,
+    "unigram_w1": 61636,
+    "unigram_w2": 660428,
+    "ppmi": 5.390260048074583
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גמביה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 106,
+    "unigram_w1": 1831,
+    "unigram_w2": 236631,
+    "ppmi": 1.5934334650288318
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גמביה",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 138,
+    "unigram_w1": 1831,
+    "unigram_w2": 231817,
+    "ppmi": 2.0036901861171326
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פלרמו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 133,
+    "unigram_w1": 3511,
+    "unigram_w2": 90246,
+    "ppmi": 2.3722494346233645
+  },
+  {
+    "w1": "בירה",
+    "w2": "סיציליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 7245,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פלרמו",
+    "w2": "סיציליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1103,
+    "unigram_w1": 3511,
+    "unigram_w2": 7245,
+    "ppmi": 9.062989468239003
+  }
+]

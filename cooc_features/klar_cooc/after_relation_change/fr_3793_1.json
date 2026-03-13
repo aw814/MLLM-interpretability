@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Damas",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 103326,
+    "unigram_w1": 689189,
+    "unigram_w2": 9137640,
+    "ppmi": 3.087828776239054
+  },
+  {
+    "w1": "capitale",
+    "w2": "Syrie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 2527976,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Damas",
+    "w2": "Syrie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 371597,
+    "unigram_w1": 689189,
+    "unigram_w2": 2527976,
+    "ppmi": 6.78820314255268
+  }
+]

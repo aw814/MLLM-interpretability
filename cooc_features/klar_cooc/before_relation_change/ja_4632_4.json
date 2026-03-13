@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "釈迦",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1278,
+    "unigram_w1": 325952,
+    "unigram_w2": 154360,
+    "ppmi": 2.1495369381261065
+  },
+  {
+    "w1": "religion",
+    "w2": "仏教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6072,
+    "unigram_w1": 154360,
+    "unigram_w2": 851502,
+    "ppmi": 3.012470501558772
+  },
+  {
+    "w1": "釈迦",
+    "w2": "仏教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 103176,
+    "unigram_w1": 325952,
+    "unigram_w2": 851502,
+    "ppmi": 6.020901743378847
+  }
+]

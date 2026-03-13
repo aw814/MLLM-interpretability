@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "루이 파스퇴르",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 245,
+    "unigram_w2": 255115,
+    "ppmi": 0.9978890664167445
+  },
+  {
+    "w1": "작업",
+    "w2": "화학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 107321,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "루이 파스퇴르",
+    "w2": "화학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 245,
+    "unigram_w2": 107321,
+    "ppmi": 4.291498510792163
+  }
+]

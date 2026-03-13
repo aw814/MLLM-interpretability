@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "라트비아",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1650,
+    "unigram_w1": 11405,
+    "unigram_w2": 1351571,
+    "ppmi": 0.7399808203167878
+  },
+  {
+    "w1": "수도",
+    "w2": "리가",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 44736,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "라트비아",
+    "w2": "리가",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1043,
+    "unigram_w1": 11405,
+    "unigram_w2": 44736,
+    "ppmi": 4.995311178394437
+  }
+]

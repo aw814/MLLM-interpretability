@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Weeknd",
+    "w2": "nacido",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1868,
+    "unigram_w1": 85338,
+    "unigram_w2": 9584124,
+    "ppmi": 0.9263723079758572
+  },
+  {
+    "w1": "nacido",
+    "w2": "Toronto",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9584124,
+    "unigram_w2": 2558356,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "The Weeknd",
+    "w2": "Toronto",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2142,
+    "unigram_w1": 85338,
+    "unigram_w2": 2558356,
+    "ppmi": 3.0292658750540995
+  }
+]

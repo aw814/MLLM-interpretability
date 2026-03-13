@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Árabe Unida",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2614,
+    "unigram_w1": 6206,
+    "unigram_w2": 42058182,
+    "ppmi": 3.058921681020118
+  },
+  {
+    "w1": "capital",
+    "w2": "El Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 169340,
+    "unigram_w1": 42058182,
+    "unigram_w2": 710664,
+    "ppmi": 2.237081412165681
+  },
+  {
+    "w1": "República Árabe Unida",
+    "w2": "El Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2032,
+    "unigram_w1": 6206,
+    "unigram_w2": 710664,
+    "ppmi": 8.582638002729169
+  }
+]

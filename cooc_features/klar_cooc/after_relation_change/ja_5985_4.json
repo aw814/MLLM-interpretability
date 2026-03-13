@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "連邦大統領",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 552,
+    "unigram_w1": 6436,
+    "unigram_w2": 691438,
+    "ppmi": 4.437439720813485
+  },
+  {
+    "w1": "管轄",
+    "w2": "ドイツ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 5081430,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "連邦大統領",
+    "w2": "ドイツ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3232,
+    "unigram_w1": 6436,
+    "unigram_w2": 5081430,
+    "ppmi": 4.109563992386764
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Daman et Diu",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 149,
+    "unigram_w1": 755,
+    "unigram_w2": 3399010,
+    "ppmi": 4.911067810121697
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Daman et Diu",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 170,
+    "unigram_w1": 755,
+    "unigram_w2": 3597699,
+    "ppmi": 5.019330342985652
+  }
+]

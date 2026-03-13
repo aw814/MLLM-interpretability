@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אמיליה-רומאניה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47,
+    "unigram_w1": 450,
+    "unigram_w2": 90246,
+    "ppmi": 3.83544094046353
+  },
+  {
+    "w1": "בירה",
+    "w2": "בולוניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 8656,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אמיליה-רומאניה",
+    "w2": "בולוניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 180,
+    "unigram_w1": 450,
+    "unigram_w2": 8656,
+    "ppmi": 9.15479576925849
+  }
+]

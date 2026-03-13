@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jared Diamond",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2472,
+    "unigram_w1": 4762,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3398978855608132
+  },
+  {
+    "w1": "work",
+    "w2": "ecology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 270716,
+    "unigram_w1": 74824954,
+    "unigram_w2": 622515,
+    "ppmi": 1.0844583194258932
+  },
+  {
+    "w1": "Jared Diamond",
+    "w2": "ecology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 398,
+    "unigram_w1": 4762,
+    "unigram_w2": 622515,
+    "ppmi": 5.614326554277661
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Roumanie",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 118701,
+    "unigram_w1": 1493850,
+    "unigram_w2": 12749290,
+    "ppmi": 1.6913704310061533
+  },
+  {
+    "w1": "langue",
+    "w2": "roumain",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 498485,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Roumanie",
+    "w2": "roumain",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 125604,
+    "unigram_w1": 1493850,
+    "unigram_w2": 498485,
+    "ppmi": 6.4496437545729774
+  }
+]

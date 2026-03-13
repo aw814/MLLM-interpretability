@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לוגאנו",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68,
+    "unigram_w1": 1771,
+    "unigram_w2": 236631,
+    "ppmi": 1.001043430761395
+  },
+  {
+    "w1": "שפה",
+    "w2": "איטלקית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 48433,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לוגאנו",
+    "w2": "איטלקית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 161,
+    "unigram_w1": 1771,
+    "unigram_w2": 48433,
+    "ppmi": 4.533074281761181
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポートルイス",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 536,
+    "unigram_w1": 1148,
+    "unigram_w2": 2444276,
+    "ppmi": 5.060310737997364
+  },
+  {
+    "w1": "首都",
+    "w2": "モーリシャス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 40626,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ポートルイス",
+    "w2": "モーリシャス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 954,
+    "unigram_w1": 1148,
+    "unigram_w2": 40626,
+    "ppmi": 11.802927067200939
+  }
+]

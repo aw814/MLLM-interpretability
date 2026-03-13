@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドーハ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9696,
+    "unigram_w1": 56900,
+    "unigram_w2": 2444276,
+    "ppmi": 3.6061614256069237
+  },
+  {
+    "w1": "首都",
+    "w2": "カタール",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 182766,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドーハ",
+    "w2": "カタール",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24992,
+    "unigram_w1": 56900,
+    "unigram_w2": 182766,
+    "ppmi": 8.713503763654641
+  }
+]

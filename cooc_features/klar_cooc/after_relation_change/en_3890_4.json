@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tashkent",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6336,
+    "unigram_w1": 27669,
+    "unigram_w2": 7450623,
+    "ppmi": 3.4872470167681384
+  },
+  {
+    "w1": "capital",
+    "w2": "Uzbekistan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17561,
+    "unigram_w1": 7450623,
+    "unigram_w2": 111876,
+    "ppmi": 2.9424196076828135
+  },
+  {
+    "w1": "Tashkent",
+    "w2": "Uzbekistan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17972,
+    "unigram_w1": 27669,
+    "unigram_w2": 111876,
+    "ppmi": 11.048742324875114
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אלבמה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 149,
+    "unigram_w1": 3796,
+    "unigram_w2": 236631,
+    "ppmi": 1.0328333297040218
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אלבמה",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 344,
+    "unigram_w1": 3796,
+    "unigram_w2": 231817,
+    "ppmi": 2.269582282817289
+  }
+]

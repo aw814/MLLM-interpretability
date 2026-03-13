@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aleksey Brusilov",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 2,
+    "unigram_w2": 3469075,
+    "ppmi": 5.716683313169394
+  },
+  {
+    "w1": "spoke",
+    "w2": "Russian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 109621,
+    "unigram_w1": 3469075,
+    "unigram_w2": 2632627,
+    "ppmi": 2.130776289220678
+  },
+  {
+    "w1": "Aleksey Brusilov",
+    "w2": "Russian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 2,
+    "unigram_w2": 2632627,
+    "ppmi": 7.114731214939974
+  }
+]

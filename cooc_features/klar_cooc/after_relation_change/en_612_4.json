@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indore",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2273,
+    "unigram_w1": 67996,
+    "unigram_w2": 9241408,
+    "ppmi": 0.40034138029279237
+  },
+  {
+    "w1": "language",
+    "w2": "Hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 124985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 532562,
+    "ppmi": 3.211927140250318
+  },
+  {
+    "w1": "Indore",
+    "w2": "Hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2211,
+    "unigram_w1": 67996,
+    "unigram_w2": 532562,
+    "ppmi": 4.477533998995242
+  }
+]

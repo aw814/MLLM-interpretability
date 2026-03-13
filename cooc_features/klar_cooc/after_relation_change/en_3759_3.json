@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Florence",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37435,
+    "unigram_w1": 610600,
+    "unigram_w2": 7450623,
+    "ppmi": 1.586105349937687
+  },
+  {
+    "w1": "capital",
+    "w2": "Tuscany",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13569,
+    "unigram_w1": 7450623,
+    "unigram_w2": 188119,
+    "ppmi": 1.8206140185639008
+  },
+  {
+    "w1": "Florence",
+    "w2": "Tuscany",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45599,
+    "unigram_w1": 610600,
+    "unigram_w2": 188119,
+    "ppmi": 7.1783633727905904
+  }
+]

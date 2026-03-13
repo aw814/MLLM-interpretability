@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "presidente de Alemania",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 214,
+    "unigram_w1": 13862,
+    "unigram_w2": 3205324,
+    "ppmi": 2.002789810191768
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Alemania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 17786194,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "presidente de Alemania",
+    "w2": "Alemania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13862,
+    "unigram_w1": 13862,
+    "unigram_w2": 17786194,
+    "ppmi": 5.547954899667533
+  }
+]

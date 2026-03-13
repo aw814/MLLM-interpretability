@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "明朝",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3218,
+    "unigram_w1": 110492,
+    "unigram_w2": 596594,
+    "ppmi": 1.5095638436462995
+  },
+  {
+    "w1": "首都",
+    "w2": "南京市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 194733,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "明朝",
+    "w2": "南京市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 788,
+    "unigram_w1": 110492,
+    "unigram_w2": 194733,
+    "ppmi": 1.0949191328890335
+  }
+]

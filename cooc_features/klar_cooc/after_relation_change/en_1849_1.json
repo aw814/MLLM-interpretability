@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Karl Marx",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23263,
+    "unigram_w1": 43137,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3948980753944107
+  },
+  {
+    "w1": "work",
+    "w2": "economics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 861039,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1926610,
+    "ppmi": 1.1238726935637162
+  },
+  {
+    "w1": "Karl Marx",
+    "w2": "economics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7331,
+    "unigram_w1": 43137,
+    "unigram_w2": 1926610,
+    "ppmi": 5.008325849582379
+  }
+]

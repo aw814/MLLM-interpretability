@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Paavo Nurmi",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 292,
+    "unigram_w1": 4146,
+    "unigram_w2": 8520304,
+    "ppmi": 2.782056073156716
+  },
+  {
+    "w1": "murió",
+    "w2": "Helsinki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 560312,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Paavo Nurmi",
+    "w2": "Helsinki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1100,
+    "unigram_w1": 4146,
+    "unigram_w2": 560312,
+    "ppmi": 8.62212193297335
+  }
+]

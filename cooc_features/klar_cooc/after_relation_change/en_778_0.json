@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100139,
+    "unigram_w1": 1078519,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8741459369505398
+  },
+  {
+    "w1": "language",
+    "w2": "Maltese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9228,
+    "unigram_w1": 9241408,
+    "unigram_w2": 101523,
+    "ppmi": 1.8434768782293334
+  },
+  {
+    "w1": "European Union",
+    "w2": "Maltese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5100,
+    "unigram_w1": 1078519,
+    "unigram_w2": 101523,
+    "ppmi": 4.087017203109629
+  }
+]

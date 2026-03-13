@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Free City of Danzig",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 179,
+    "unigram_w1": 787,
+    "unigram_w2": 9241408,
+    "ppmi": 3.166717622233861
+  },
+  {
+    "w1": "language",
+    "w2": "Polish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127705,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1470656,
+    "ppmi": 1.7775487608123028
+  },
+  {
+    "w1": "Free City of Danzig",
+    "w2": "Polish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 565,
+    "unigram_w1": 787,
+    "unigram_w2": 1470656,
+    "ppmi": 7.476661750029627
+  }
+]

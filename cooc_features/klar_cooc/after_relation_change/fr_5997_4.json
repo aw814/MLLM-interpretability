@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Premier ministre malaisien",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 72,
+    "unigram_w1": 8048,
+    "unigram_w2": 1227582,
+    "ppmi": 1.9170377449754683
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Malaisie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 1213166,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Premier ministre malaisien",
+    "w2": "Malaisie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5333,
+    "unigram_w1": 8048,
+    "unigram_w2": 1213166,
+    "ppmi": 8.144886782195467
+  }
+]

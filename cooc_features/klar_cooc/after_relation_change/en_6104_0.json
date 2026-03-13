@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union for the Mediterranean",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83,
+    "unigram_w1": 1808,
+    "unigram_w2": 14590058,
+    "ppmi": 0.19918110023228583
+  },
+  {
+    "w1": "location",
+    "w2": "Barcelona",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61386,
+    "unigram_w1": 14590058,
+    "unigram_w2": 845814,
+    "ppmi": 0.8599617610329736
+  },
+  {
+    "w1": "Union for the Mediterranean",
+    "w2": "Barcelona",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 593,
+    "unigram_w1": 1808,
+    "unigram_w2": 845814,
+    "ppmi": 7.144531331432475
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "苏丹",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 68938,
+    "unigram_w2": 1361,
+    "ppmi": 2.3141243920439654
+  },
+  {
+    "w1": "continent",
+    "w2": "非洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 1361,
+    "unigram_w2": 440125,
+    "ppmi": 3.3944699216877
+  },
+  {
+    "w1": "苏丹",
+    "w2": "非洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8313,
+    "unigram_w1": 68938,
+    "unigram_w2": 440125,
+    "ppmi": 3.998175443225315
+  }
+]

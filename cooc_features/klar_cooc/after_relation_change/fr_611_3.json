@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Empire romain",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17517,
+    "unigram_w1": 94578,
+    "unigram_w2": 12749290,
+    "ppmi": 2.9122528116849775
+  },
+  {
+    "w1": "langue",
+    "w2": "grec",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 2346675,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Empire romain",
+    "w2": "grec",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11483,
+    "unigram_w1": 94578,
+    "unigram_w2": 2346675,
+    "ppmi": 4.744723648464471
+  }
+]

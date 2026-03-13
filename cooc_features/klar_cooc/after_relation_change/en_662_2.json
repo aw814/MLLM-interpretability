@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bangladesh",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42427,
+    "unigram_w1": 514816,
+    "unigram_w2": 9241408,
+    "ppmi": 1.7021193534377983
+  },
+  {
+    "w1": "language",
+    "w2": "Bengali",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34502,
+    "unigram_w1": 9241408,
+    "unigram_w2": 125401,
+    "ppmi": 3.441324716712342
+  },
+  {
+    "w1": "Bangladesh",
+    "w2": "Bengali",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19457,
+    "unigram_w1": 514816,
+    "unigram_w2": 125401,
+    "ppmi": 6.780917883573285
+  }
+]

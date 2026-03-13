@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "氷の微笑",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1644,
+    "unigram_w1": 5762,
+    "unigram_w2": 27600878,
+    "ppmi": 0.8525340561128669
+  },
+  {
+    "w1": "場所",
+    "w2": "フランス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 6159866,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "氷の微笑",
+    "w2": "フランス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1342,
+    "unigram_w1": 5762,
+    "unigram_w2": 6159866,
+    "ppmi": 2.723451716943788
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Karl Marx",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 64358,
+    "unigram_w1": 144624,
+    "unigram_w2": 57128353,
+    "ppmi": 2.013096111999385
+  },
+  {
+    "w1": "travail",
+    "w2": "philosophie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 4678196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Karl Marx",
+    "w2": "philosophie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32876,
+    "unigram_w1": 144624,
+    "unigram_w2": 4678196,
+    "ppmi": 4.65419412262813
+  }
+]

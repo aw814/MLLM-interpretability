@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Panama City",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7929,
+    "unigram_w1": 93654,
+    "unigram_w2": 7450623,
+    "ppmi": 2.0517434968653387
+  },
+  {
+    "w1": "capital",
+    "w2": "Panama",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 37609,
+    "unigram_w1": 7450623,
+    "unigram_w2": 441014,
+    "ppmi": 2.0621986766571005
+  },
+  {
+    "w1": "Panama City",
+    "w2": "Panama",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 93654,
+    "unigram_w1": 93654,
+    "unigram_w2": 441014,
+    "ppmi": 9.692337984603759
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wolfgang Amadeus Mozart",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4814,
+    "unigram_w1": 67609,
+    "unigram_w2": 2654934,
+    "ppmi": 3.7967634716552228
+  },
+  {
+    "w1": "instrument",
+    "w2": "alto",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53590,
+    "unigram_w1": 2654934,
+    "unigram_w2": 692422,
+    "ppmi": 3.9170548908913223
+  },
+  {
+    "w1": "Wolfgang Amadeus Mozart",
+    "w2": "alto",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5684,
+    "unigram_w1": 67609,
+    "unigram_w2": 692422,
+    "ppmi": 5.975386412782194
+  }
+]

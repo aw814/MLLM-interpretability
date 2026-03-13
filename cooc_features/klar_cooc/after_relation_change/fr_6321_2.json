@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Brest",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 84833,
+    "unigram_w1": 2169580,
+    "unigram_w2": 9137640,
+    "ppmi": 1.1488787326920278
+  },
+  {
+    "w1": "capitale",
+    "w2": "Brest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 2169580,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Brest",
+    "w2": "Brest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2169580,
+    "unigram_w1": 2169580,
+    "unigram_w2": 2169580,
+    "ppmi": 7.8999309458687526
+  }
+]

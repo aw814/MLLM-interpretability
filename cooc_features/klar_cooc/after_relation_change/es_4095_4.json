@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Henry Kissinger",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5506,
+    "unigram_w1": 76008,
+    "unigram_w2": 8126762,
+    "ppmi": 2.8908854190326223
+  },
+  {
+    "w1": "habló",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Henry Kissinger",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11982,
+    "unigram_w1": 76008,
+    "unigram_w2": 30884572,
+    "ppmi": 2.0865438540029038
+  }
+]

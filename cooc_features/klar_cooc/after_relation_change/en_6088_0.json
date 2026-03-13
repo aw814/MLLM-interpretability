@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kraftwerk",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 745,
+    "unigram_w1": 16385,
+    "unigram_w2": 14590058,
+    "ppmi": 0.18532919421995053
+  },
+  {
+    "w1": "location",
+    "w2": "Germany",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 295513,
+    "unigram_w1": 14590058,
+    "unigram_w2": 4308131,
+    "ppmi": 0.7785520147690823
+  },
+  {
+    "w1": "Kraftwerk",
+    "w2": "Germany",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2207,
+    "unigram_w1": 16385,
+    "unigram_w2": 4308131,
+    "ppmi": 3.511955086996067
+  }
+]

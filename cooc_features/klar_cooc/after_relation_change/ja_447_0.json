@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "白ロシア・ソビエト社会主義共和国",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 218,
+    "unigram_w2": 3715876,
+    "ppmi": 3.310210945143708
+  },
+  {
+    "w1": "言語",
+    "w2": "ベラルーシ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 4006,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "白ロシア・ソビエト社会主義共和国",
+    "w2": "ベラルーシ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 218,
+    "unigram_w2": 4006,
+    "ppmi": 13.5019542070432
+  }
+]

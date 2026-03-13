@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Taipéi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12918,
+    "unigram_w1": 87670,
+    "unigram_w2": 42058182,
+    "ppmi": 1.543625714126662
+  },
+  {
+    "w1": "capital",
+    "w2": "República de China",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13574,
+    "unigram_w1": 42058182,
+    "unigram_w2": 68534,
+    "ppmi": 1.9703522623624783
+  },
+  {
+    "w1": "Taipéi",
+    "w2": "República de China",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3876,
+    "unigram_w1": 87670,
+    "unigram_w2": 68534,
+    "ppmi": 9.068234346408147
+  }
+]

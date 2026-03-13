@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charles II of Spain",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 140,
+    "unigram_w1": 385,
+    "unigram_w2": 9106140,
+    "ppmi": 3.864963086107197
+  },
+  {
+    "w1": "born",
+    "w2": "Madrid",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73555,
+    "unigram_w1": 9106140,
+    "unigram_w2": 723923,
+    "ppmi": 2.02545377045517
+  },
+  {
+    "w1": "Charles II of Spain",
+    "w2": "Madrid",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 63,
+    "unigram_w1": 385,
+    "unigram_w2": 723923,
+    "ppmi": 6.365891474069679
+  }
+]

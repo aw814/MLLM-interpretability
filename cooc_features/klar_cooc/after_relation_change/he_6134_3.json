@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לנובו",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 169,
+    "unigram_w1": 7225,
+    "unigram_w2": 286432,
+    "ppmi": 0.010473058968467118
+  },
+  {
+    "w1": "מיקום",
+    "w2": "בייג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 12923,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לנובו",
+    "w2": "בייג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 7225,
+    "unigram_w2": 12923,
+    "ppmi": 1.7236295636682735
+  }
+]

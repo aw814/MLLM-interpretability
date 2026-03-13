@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nuuk",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3758,
+    "unigram_w1": 12014,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6296466396469893
+  },
+  {
+    "w1": "capital",
+    "w2": "Groenlandia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45320,
+    "unigram_w1": 42058182,
+    "unigram_w2": 416598,
+    "ppmi": 1.1058900897068988
+  },
+  {
+    "w1": "Nuuk",
+    "w2": "Groenlandia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5992,
+    "unigram_w1": 12014,
+    "unigram_w2": 416598,
+    "ppmi": 9.960305962863735
+  }
+]

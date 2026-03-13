@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Dakota",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15139,
+    "unigram_w1": 299951,
+    "unigram_w2": 7450623,
+    "ppmi": 1.3054882556323688
+  },
+  {
+    "w1": "capital",
+    "w2": "Pierre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44588,
+    "unigram_w1": 7450623,
+    "unigram_w2": 570257,
+    "ppmi": 1.9369884229122192
+  },
+  {
+    "w1": "South Dakota",
+    "w2": "Pierre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10917,
+    "unigram_w1": 299951,
+    "unigram_w2": 570257,
+    "ppmi": 4.541471709374172
+  }
+]

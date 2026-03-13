@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Norway",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 207,
+    "unigram_w2": 1074632,
+    "ppmi": 2.2988671839922454
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Norway",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9751,
+    "unigram_w1": 1074632,
+    "unigram_w2": 916418,
+    "ppmi": 1.8530798351000883
+  },
+  {
+    "w1": "flag of Norway",
+    "w2": "Norway",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 207,
+    "unigram_w1": 207,
+    "unigram_w2": 916418,
+    "ppmi": 8.637156643609785
+  }
+]

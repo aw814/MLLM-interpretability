@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gloria Estefan",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 4414,
+    "unigram_w2": 1893780,
+    "ppmi": 1.1581320743976287
+  },
+  {
+    "w1": "parlait",
+    "w2": "espagnol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 5009550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gloria Estefan",
+    "w2": "espagnol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 477,
+    "unigram_w1": 4414,
+    "unigram_w2": 5009550,
+    "ppmi": 3.4826402577266813
+  }
+]

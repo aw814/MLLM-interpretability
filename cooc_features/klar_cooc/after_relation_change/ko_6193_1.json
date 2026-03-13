@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "베네토주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 126,
+    "unigram_w2": 1351571,
+    "ppmi": 1.6811124308281593
+  },
+  {
+    "w1": "수도",
+    "w2": "베네치아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 136418,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "베네토주",
+    "w2": "베네치아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45,
+    "unigram_w1": 126,
+    "unigram_w2": 136418,
+    "ppmi": 5.352213889065352
+  }
+]

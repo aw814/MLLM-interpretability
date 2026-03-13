@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "tenis de mesa",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27914,
+    "unigram_w1": 453900,
+    "unigram_w2": 21073362,
+    "ppmi": 1.2799785197299907
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Inglaterra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 9261204,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "tenis de mesa",
+    "w2": "Inglaterra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11858,
+    "unigram_w1": 453900,
+    "unigram_w2": 9261204,
+    "ppmi": 1.2309991772320683
+  }
+]

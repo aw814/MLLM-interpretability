@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kuala Lumpur",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33093,
+    "unigram_w1": 241240,
+    "unigram_w2": 7450623,
+    "ppmi": 2.748002127819837
+  },
+  {
+    "w1": "capital",
+    "w2": "Malaysia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105967,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1175462,
+    "ppmi": 2.1423323382744965
+  },
+  {
+    "w1": "Kuala Lumpur",
+    "w2": "Malaysia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 142148,
+    "unigram_w1": 241240,
+    "unigram_w2": 1175462,
+    "ppmi": 7.514931104258845
+  }
+]

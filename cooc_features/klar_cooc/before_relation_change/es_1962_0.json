@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boecio",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 20684,
+    "unigram_w2": 77008,
+    "ppmi": 2.0632610932375766
+  },
+  {
+    "w1": "occupation",
+    "w2": "filósofo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 934,
+    "unigram_w1": 77008,
+    "unigram_w2": 1936246,
+    "ppmi": 2.3819365944847015
+  },
+  {
+    "w1": "Boecio",
+    "w2": "filósofo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5734,
+    "unigram_w1": 20684,
+    "unigram_w2": 1936246,
+    "ppmi": 6.896477162497047
+  }
+]

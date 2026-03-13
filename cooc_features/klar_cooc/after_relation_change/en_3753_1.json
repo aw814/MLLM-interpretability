@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Baku",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11276,
+    "unigram_w1": 60195,
+    "unigram_w2": 7450623,
+    "ppmi": 3.197485006103526
+  },
+  {
+    "w1": "capital",
+    "w2": "Azerbaijan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23628,
+    "unigram_w1": 7450623,
+    "unigram_w2": 159687,
+    "ppmi": 2.8571958333090755
+  },
+  {
+    "w1": "Baku",
+    "w2": "Azerbaijan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35967,
+    "unigram_w1": 60195,
+    "unigram_w2": 159687,
+    "ppmi": 10.414945743462493
+  }
+]

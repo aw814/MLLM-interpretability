@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "梵蒂冈",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 943,
+    "unigram_w1": 18763,
+    "unigram_w2": 919361,
+    "ppmi": 1.6728266894510007
+  },
+  {
+    "w1": "语言",
+    "w2": "意大利语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 25180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "梵蒂冈",
+    "w2": "意大利语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 283,
+    "unigram_w1": 18763,
+    "unigram_w2": 25180,
+    "ppmi": 5.126652250658868
+  }
+]

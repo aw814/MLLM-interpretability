@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "LaFerrari",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 547,
+    "unigram_w1": 6005,
+    "unigram_w2": 3911896,
+    "ppmi": 3.0868148208899258
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Ferrari",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16719,
+    "unigram_w1": 3911896,
+    "unigram_w2": 289415,
+    "ppmi": 2.4297870962529564
+  },
+  {
+    "w1": "LaFerrari",
+    "w2": "Ferrari",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4589,
+    "unigram_w1": 6005,
+    "unigram_w2": 289415,
+    "ppmi": 9.912038303521573
+  }
+]

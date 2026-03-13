@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "维吉尔",
+    "w2": "说话",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 145,
+    "unigram_w1": 1690,
+    "unigram_w2": 712969,
+    "ppmi": 2.8112093025278453
+  },
+  {
+    "w1": "说话",
+    "w2": "拉丁语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 712969,
+    "unigram_w2": 7315,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "维吉尔",
+    "w2": "拉丁语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37,
+    "unigram_w1": 1690,
+    "unigram_w2": 7315,
+    "ppmi": 7.447591252986998
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "드와이트 D. 아이젠하워",
+    "w2": "말했다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 207,
+    "unigram_w2": 1429427,
+    "ppmi": 0.2142543550042029
+  },
+  {
+    "w1": "말했다",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1429427,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "드와이트 D. 아이젠하워",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 207,
+    "unigram_w2": 359114,
+    "ppmi": 3.033148097048824
+  }
+]

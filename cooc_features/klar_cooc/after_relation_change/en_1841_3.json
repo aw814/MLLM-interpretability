@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Johann Wolfgang von Goethe",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2626,
+    "unigram_w1": 5326,
+    "unigram_w2": 74824954,
+    "ppmi": 1.2656012506090455
+  },
+  {
+    "w1": "work",
+    "w2": "anatomy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 252693,
+    "unigram_w1": 74824954,
+    "unigram_w2": 598190,
+    "ppmi": 1.0425686698178611
+  },
+  {
+    "w1": "Johann Wolfgang von Goethe",
+    "w2": "anatomy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140,
+    "unigram_w1": 5326,
+    "unigram_w2": 598190,
+    "ppmi": 4.003004950249984
+  }
+]

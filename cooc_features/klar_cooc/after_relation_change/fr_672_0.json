@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "République centrafricaine",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16198,
+    "unigram_w1": 333497,
+    "unigram_w2": 12749290,
+    "ppmi": 0.9812155419352165
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "République centrafricaine",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59386,
+    "unigram_w1": 333497,
+    "unigram_w2": 46536486,
+    "ppmi": 0.9875773426441347
+  }
+]

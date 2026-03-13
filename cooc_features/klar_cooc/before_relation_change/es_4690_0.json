@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ricardo I de Inglaterra",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 2158,
+    "unigram_w2": 979024,
+    "ppmi": 2.4631004620268446
+  },
+  {
+    "w1": "religion",
+    "w2": "cristianismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91096,
+    "unigram_w1": 979024,
+    "unigram_w2": 1891270,
+    "ppmi": 5.355400867877766
+  },
+  {
+    "w1": "Ricardo I de Inglaterra",
+    "w2": "cristianismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 236,
+    "unigram_w1": 2158,
+    "unigram_w2": 1891270,
+    "ppmi": 5.588449382350248
+  }
+]

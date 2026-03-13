@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suriname",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10301,
+    "unigram_w1": 212030,
+    "unigram_w2": 12749290,
+    "ppmi": 0.9815896266902887
+  },
+  {
+    "w1": "langue",
+    "w2": "néerlandais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 2080250,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Suriname",
+    "w2": "néerlandais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4087,
+    "unigram_w1": 212030,
+    "unigram_w2": 2080250,
+    "ppmi": 2.2635074597019806
+  }
+]

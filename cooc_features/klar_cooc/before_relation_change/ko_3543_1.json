@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스코틀랜드",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 22938,
+    "unigram_w2": 2712,
+    "ppmi": 1.4641533773947562
+  },
+  {
+    "w1": "continent",
+    "w2": "유럽",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 184,
+    "unigram_w1": 2712,
+    "unigram_w2": 559048,
+    "ppmi": 0.9211230673927385
+  },
+  {
+    "w1": "스코틀랜드",
+    "w2": "유럽",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5581,
+    "unigram_w1": 22938,
+    "unigram_w2": 559048,
+    "ppmi": 2.7635585199666104
+  }
+]

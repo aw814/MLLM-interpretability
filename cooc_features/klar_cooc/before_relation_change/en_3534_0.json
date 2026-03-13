@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tajikistan",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2085,
+    "unigram_w1": 64713,
+    "unigram_w2": 965266,
+    "ppmi": 3.6062996051777336
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Tajikistan",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23338,
+    "unigram_w1": 64713,
+    "unigram_w2": 3865133,
+    "ppmi": 5.089341657678889
+  }
+]

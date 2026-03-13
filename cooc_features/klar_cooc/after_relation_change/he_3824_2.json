@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מוסקבה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1011,
+    "unigram_w1": 47063,
+    "unigram_w2": 90246,
+    "ppmi": 1.5538948952159957
+  },
+  {
+    "w1": "בירה",
+    "w2": "רוסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 147123,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מוסקבה",
+    "w2": "רוסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19440,
+    "unigram_w1": 47063,
+    "unigram_w2": 147123,
+    "ppmi": 5.113980302035867
+  }
+]

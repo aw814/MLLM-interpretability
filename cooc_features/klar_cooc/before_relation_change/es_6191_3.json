@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hungría",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 293882,
+    "unigram_w1": 1872460,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6347002400585509
+  },
+  {
+    "w1": "capital",
+    "w2": "Budapest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223004,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1020554,
+    "ppmi": 2.1121152088156596
+  },
+  {
+    "w1": "Hungría",
+    "w2": "Budapest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 271472,
+    "unigram_w1": 1872460,
+    "unigram_w2": 1020554,
+    "ppmi": 6.885228709931272
+  }
+]

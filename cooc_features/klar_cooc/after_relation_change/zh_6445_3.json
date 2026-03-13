@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "新斯科舍",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 114,
+    "unigram_w1": 1657,
+    "unigram_w2": 596594,
+    "ppmi": 2.7497297516287897
+  },
+  {
+    "w1": "首都",
+    "w2": "哈利法克斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 3442,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "新斯科舍",
+    "w2": "哈利法克斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 358,
+    "unigram_w1": 1657,
+    "unigram_w2": 3442,
+    "ppmi": 11.838014075556044
+  }
+]

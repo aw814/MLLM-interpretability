@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carl Rogers",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9148,
+    "unigram_w1": 18641,
+    "unigram_w2": 57128353,
+    "ppmi": 2.1542607125840503
+  },
+  {
+    "w1": "travail",
+    "w2": "psychologie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 3103532,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Carl Rogers",
+    "w2": "psychologie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7414,
+    "unigram_w1": 18641,
+    "unigram_w2": 3103532,
+    "ppmi": 6.053280473382008
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Rumania",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 556,
+    "unigram_w1": 1216,
+    "unigram_w2": 42058182,
+    "ppmi": 3.1773397960333254
+  },
+  {
+    "w1": "capital",
+    "w2": "Bucarest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159632,
+    "unigram_w1": 42058182,
+    "unigram_w2": 485750,
+    "ppmi": 2.7008621256717915
+  },
+  {
+    "w1": "Reino de Rumania",
+    "w2": "Bucarest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 478,
+    "unigram_w1": 1216,
+    "unigram_w2": 485750,
+    "ppmi": 9.39529421497557
+  }
+]

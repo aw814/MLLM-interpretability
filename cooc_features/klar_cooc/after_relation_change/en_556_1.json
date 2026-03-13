@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maharashtra",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15332,
+    "unigram_w1": 255429,
+    "unigram_w2": 9241408,
+    "ppmi": 1.2448171488625757
+  },
+  {
+    "w1": "language",
+    "w2": "Marathi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27713,
+    "unigram_w1": 9241408,
+    "unigram_w2": 85052,
+    "ppmi": 3.685339403716259
+  },
+  {
+    "w1": "Maharashtra",
+    "w2": "Marathi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13081,
+    "unigram_w1": 255429,
+    "unigram_w2": 85052,
+    "ppmi": 7.7793677826307865
+  }
+]

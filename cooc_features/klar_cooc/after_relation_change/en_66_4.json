@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mstislav Rostropovich",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 380,
+    "unigram_w1": 3097,
+    "unigram_w2": 5281801,
+    "ppmi": 3.0834043385031933
+  },
+  {
+    "w1": "died",
+    "w2": "Moscow",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61743,
+    "unigram_w1": 5281801,
+    "unigram_w2": 853175,
+    "ppmi": 2.3217101940116347
+  },
+  {
+    "w1": "Mstislav Rostropovich",
+    "w2": "Moscow",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 912,
+    "unigram_w1": 3097,
+    "unigram_w2": 853175,
+    "ppmi": 6.976555093994536
+  }
+]

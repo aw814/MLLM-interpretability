@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イングランド王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 650,
+    "unigram_w1": 3094,
+    "unigram_w2": 2444276,
+    "ppmi": 3.9081669006820605
+  },
+  {
+    "w1": "首都",
+    "w2": "ウェストミンスター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 33924,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イングランド王国",
+    "w2": "ウェストミンスター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 380,
+    "unigram_w1": 3094,
+    "unigram_w2": 33924,
+    "ppmi": 9.304683700834843
+  }
+]

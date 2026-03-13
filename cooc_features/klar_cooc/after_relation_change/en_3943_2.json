@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "City of London",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18076,
+    "unigram_w1": 111940,
+    "unigram_w2": 7450623,
+    "ppmi": 2.9832949943096065
+  },
+  {
+    "w1": "capital",
+    "w2": "Kingdom of England",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 523,
+    "unigram_w1": 7450623,
+    "unigram_w2": 2864,
+    "ppmi": 3.160724638904303
+  },
+  {
+    "w1": "City of London",
+    "w2": "Kingdom of England",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 111940,
+    "unigram_w2": 2864,
+    "ppmi": 7.175305696163863
+  }
+]

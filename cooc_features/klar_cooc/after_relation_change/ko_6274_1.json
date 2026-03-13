@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "우크라이나",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8170,
+    "unigram_w1": 36759,
+    "unigram_w2": 1351571,
+    "ppmi": 1.3594198011022287
+  },
+  {
+    "w1": "수도",
+    "w2": "키예프",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3983,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "우크라이나",
+    "w2": "키예프",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2025,
+    "unigram_w1": 36759,
+    "unigram_w2": 3983,
+    "ppmi": 7.753571736430844
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "איי קיימן",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 1287,
+    "unigram_w2": 236631,
+    "ppmi": 1.4402219385000403
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "איי קיימן",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 99,
+    "unigram_w1": 1287,
+    "unigram_w2": 231817,
+    "ppmi": 2.033142086995208
+  }
+]

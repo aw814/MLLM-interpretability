@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Empire d'Autriche",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 434,
+    "unigram_w1": 2120,
+    "unigram_w2": 9137640,
+    "ppmi": 3.537227808093071
+  },
+  {
+    "w1": "capitale",
+    "w2": "Vienne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 4145430,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Empire d'Autriche",
+    "w2": "Vienne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 855,
+    "unigram_w1": 2120,
+    "unigram_w2": 4145430,
+    "ppmi": 5.655757032195575
+  }
+]

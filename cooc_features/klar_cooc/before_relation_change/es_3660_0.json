@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Japón",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4602,
+    "unigram_w1": 11877342,
+    "unigram_w2": 91062,
+    "ppmi": 1.82398445422458
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Japón",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1828570,
+    "unigram_w1": 11877342,
+    "unigram_w2": 9286646,
+    "ppmi": 3.7860589256893453
+  }
+]

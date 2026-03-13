@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kigali",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9822,
+    "unigram_w1": 34840,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4796703404624862
+  },
+  {
+    "w1": "capital",
+    "w2": "Ruanda",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 60008,
+    "unigram_w1": 42058182,
+    "unigram_w2": 358112,
+    "ppmi": 1.7291421262659321
+  },
+  {
+    "w1": "Kigali",
+    "w2": "Ruanda",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20120,
+    "unigram_w1": 34840,
+    "unigram_w2": 358112,
+    "ppmi": 10.390043734618454
+  }
+]

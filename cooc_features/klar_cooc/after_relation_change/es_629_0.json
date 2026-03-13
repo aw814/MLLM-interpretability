@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Democrática de Azerbaiyán",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 150,
+    "unigram_w1": 1070,
+    "unigram_w2": 12196104,
+    "ppmi": 3.2577159778562925
+  },
+  {
+    "w1": "idioma",
+    "w2": "azerí",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 47272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "República Democrática de Azerbaiyán",
+    "w2": "azerí",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 294,
+    "unigram_w1": 1070,
+    "unigram_w2": 47272,
+    "ppmi": 12.239788370659504
+  }
+]

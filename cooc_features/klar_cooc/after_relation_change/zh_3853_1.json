@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "盐湖城",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 948,
+    "unigram_w1": 12041,
+    "unigram_w2": 596594,
+    "ppmi": 2.9442732817430386
+  },
+  {
+    "w1": "首都",
+    "w2": "犹他州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 10425,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "盐湖城",
+    "w2": "犹他州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2796,
+    "unigram_w1": 12041,
+    "unigram_w2": 10425,
+    "ppmi": 10.343308857868772
+  }
+]

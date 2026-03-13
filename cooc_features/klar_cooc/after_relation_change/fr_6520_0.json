@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ducati Motor Holding",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 49,
+    "unigram_w1": 800,
+    "unigram_w2": 5673888,
+    "ppmi": 2.4838627118134866
+  },
+  {
+    "w1": "localisation",
+    "w2": "Bologne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 373022,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ducati Motor Holding",
+    "w2": "Bologne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 355,
+    "unigram_w1": 800,
+    "unigram_w2": 373022,
+    "ppmi": 9.267833129815177
+  }
+]

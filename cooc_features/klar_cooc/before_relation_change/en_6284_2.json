@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nord-Pas-de-Calais",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 534,
+    "unigram_w1": 5102,
+    "unigram_w2": 7450623,
+    "ppmi": 2.3577220280066995
+  },
+  {
+    "w1": "capital",
+    "w2": "Lille",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6244,
+    "unigram_w1": 7450623,
+    "unigram_w2": 65470,
+    "ppmi": 2.2235817434236456
+  },
+  {
+    "w1": "Nord-Pas-de-Calais",
+    "w2": "Lille",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1023,
+    "unigram_w1": 5102,
+    "unigram_w2": 65470,
+    "ppmi": 10.125999801605944
+  }
+]

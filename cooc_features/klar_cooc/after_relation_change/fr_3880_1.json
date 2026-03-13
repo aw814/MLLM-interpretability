@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Saragosse",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12672,
+    "unigram_w1": 126206,
+    "unigram_w2": 9137640,
+    "ppmi": 2.509460771162541
+  },
+  {
+    "w1": "capitale",
+    "w2": "Aragon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 334777,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Saragosse",
+    "w2": "Aragon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10482,
+    "unigram_w1": 126206,
+    "unigram_w2": 334777,
+    "ppmi": 7.006279830114042
+  }
+]

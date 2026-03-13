@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nova Scotia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17414,
+    "unigram_w1": 237959,
+    "unigram_w2": 7450623,
+    "ppmi": 1.841479792862836
+  },
+  {
+    "w1": "capital",
+    "w2": "Halifax",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16830,
+    "unigram_w1": 7450623,
+    "unigram_w2": 252246,
+    "ppmi": 1.7081489697774959
+  },
+  {
+    "w1": "Nova Scotia",
+    "w2": "Halifax",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62815,
+    "unigram_w1": 237959,
+    "unigram_w2": 252246,
+    "ppmi": 8.576799042799582
+  }
+]

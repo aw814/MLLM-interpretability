@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "广州市",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7708,
+    "unigram_w1": 404644,
+    "unigram_w2": 596594,
+    "ppmi": 0.897044802984296
+  },
+  {
+    "w1": "首都",
+    "w2": "广东省",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 575289,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "广州市",
+    "w2": "广东省",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78394,
+    "unigram_w1": 404644,
+    "unigram_w2": 575289,
+    "ppmi": 4.29582214948257
+  }
+]

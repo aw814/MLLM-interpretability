@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "LOT Polish Airlines",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 388,
+    "unigram_w1": 7914,
+    "unigram_w2": 13047836,
+    "ppmi": 0.9613295736924597
+  },
+  {
+    "w1": "possède",
+    "w2": "Pologne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 2398179,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "LOT Polish Airlines",
+    "w2": "Pologne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1560,
+    "unigram_w1": 7914,
+    "unigram_w2": 2398179,
+    "ppmi": 5.412546348510867
+  }
+]

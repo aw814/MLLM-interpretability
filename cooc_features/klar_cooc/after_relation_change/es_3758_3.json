@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Múnich",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 119926,
+    "unigram_w1": 996778,
+    "unigram_w2": 42058182,
+    "ppmi": 1.2511984793922106
+  },
+  {
+    "w1": "capital",
+    "w2": "Baviera",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82322,
+    "unigram_w1": 42058182,
+    "unigram_w2": 481906,
+    "ppmi": 1.7569244110198783
+  },
+  {
+    "w1": "Múnich",
+    "w2": "Baviera",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72202,
+    "unigram_w1": 996778,
+    "unigram_w2": 481906,
+    "ppmi": 6.966655631392117
+  }
+]

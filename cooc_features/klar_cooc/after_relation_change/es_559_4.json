@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "municipio de Solna",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 154,
+    "unigram_w2": 12196104,
+    "ppmi": 0.8255058279540198
+  },
+  {
+    "w1": "idioma",
+    "w2": "sueco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 2334422,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "municipio de Solna",
+    "w2": "sueco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 154,
+    "unigram_w2": 2334422,
+    "ppmi": 7.380713897466927
+  }
+]

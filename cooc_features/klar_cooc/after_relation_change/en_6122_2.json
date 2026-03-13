@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guinness World Records",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2290,
+    "unigram_w1": 28929,
+    "unigram_w2": 14590058,
+    "ppmi": 0.9852236808068389
+  },
+  {
+    "w1": "location",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 563269,
+    "unigram_w1": 14590058,
+    "unigram_w2": 8112147,
+    "ppmi": 0.7961328145808008
+  },
+  {
+    "w1": "Guinness World Records",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3866,
+    "unigram_w1": 28929,
+    "unigram_w2": 8112147,
+    "ppmi": 2.5875476377314297
+  }
+]

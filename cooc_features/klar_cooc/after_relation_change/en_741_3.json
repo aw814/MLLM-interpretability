@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Odessa Oblast",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 71,
+    "unigram_w1": 427,
+    "unigram_w2": 9241408,
+    "ppmi": 2.714776530361283
+  },
+  {
+    "w1": "language",
+    "w2": "Ukrainian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45724,
+    "unigram_w1": 9241408,
+    "unigram_w2": 363231,
+    "ppmi": 2.3132578587682375
+  },
+  {
+    "w1": "Odessa Oblast",
+    "w2": "Ukrainian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 261,
+    "unigram_w1": 427,
+    "unigram_w2": 363231,
+    "ppmi": 9.26208884156021
+  }
+]

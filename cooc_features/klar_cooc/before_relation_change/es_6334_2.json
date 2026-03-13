@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Afganistán",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 108,
+    "unigram_w1": 286,
+    "unigram_w2": 42058182,
+    "ppmi": 2.9013424021384826
+  },
+  {
+    "w1": "capital",
+    "w2": "Kabul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 71896,
+    "unigram_w1": 42058182,
+    "unigram_w2": 244422,
+    "ppmi": 2.5409355036219092
+  },
+  {
+    "w1": "Reino de Afganistán",
+    "w2": "Kabul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84,
+    "unigram_w1": 286,
+    "unigram_w2": 244422,
+    "ppmi": 9.965640856771733
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Sicily",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 186,
+    "unigram_w1": 1069,
+    "unigram_w2": 9241408,
+    "ppmi": 2.780234343864632
+  },
+  {
+    "w1": "language",
+    "w2": "Sicilian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6562,
+    "unigram_w1": 9241408,
+    "unigram_w2": 95364,
+    "ppmi": 1.4418844191835765
+  },
+  {
+    "w1": "Kingdom of Sicily",
+    "w2": "Sicilian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 354,
+    "unigram_w1": 1069,
+    "unigram_w2": 95364,
+    "ppmi": 10.30720519648954
+  }
+]

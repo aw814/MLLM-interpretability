@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "新罕布什尔州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 117,
+    "unigram_w1": 3516,
+    "unigram_w2": 596594,
+    "ppmi": 1.7018429891255005
+  },
+  {
+    "w1": "首都",
+    "w2": "康科德",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 1308,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "新罕布什尔州",
+    "w2": "康科德",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 63,
+    "unigram_w1": 3516,
+    "unigram_w2": 1308,
+    "ppmi": 9.642001310411874
+  }
+]

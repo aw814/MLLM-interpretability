@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨハン・クリスティアン・バッハ",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 686,
+    "unigram_w2": 620194,
+    "ppmi": 2.3006419337964057
+  },
+  {
+    "w1": "死亡した",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 1900368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヨハン・クリスティアン・バッハ",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 436,
+    "unigram_w1": 686,
+    "unigram_w2": 1900368,
+    "ppmi": 5.868376413035784
+  }
+]

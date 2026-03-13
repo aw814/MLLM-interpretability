@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ון די",
+    "w2": "מת",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 222,
+    "unigram_w2": 241785,
+    "ppmi": 2.685782484643374
+  },
+  {
+    "w1": "מת",
+    "w2": "סארי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 241785,
+    "unigram_w2": 7030,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ג'ון די",
+    "w2": "סארי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 222,
+    "unigram_w2": 7030,
+    "ppmi": 0.0
+  }
+]

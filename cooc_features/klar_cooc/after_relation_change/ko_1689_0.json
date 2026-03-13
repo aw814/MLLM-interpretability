@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "슬럼독 밀리어네어",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 453,
+    "unigram_w2": 250699,
+    "ppmi": 0.9437061735308855
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "슬럼독 밀리어네어",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40,
+    "unigram_w1": 453,
+    "unigram_w2": 359114,
+    "ppmi": 1.9397936905270279
+  }
+]

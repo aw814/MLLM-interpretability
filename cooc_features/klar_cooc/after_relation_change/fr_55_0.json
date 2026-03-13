@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Richard Wagner",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19296,
+    "unigram_w1": 68181,
+    "unigram_w2": 19663145,
+    "ppmi": 2.898856597865253
+  },
+  {
+    "w1": "mort",
+    "w2": "Venise",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 1679071,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Richard Wagner",
+    "w2": "Venise",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4478,
+    "unigram_w1": 68181,
+    "unigram_w2": 1679071,
+    "ppmi": 4.341240167763942
+  }
+]

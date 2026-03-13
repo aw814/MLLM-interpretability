@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Frederick Banting",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 843,
+    "unigram_w1": 1726,
+    "unigram_w2": 74824954,
+    "ppmi": 1.2519588346899002
+  },
+  {
+    "w1": "work",
+    "w2": "physiology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212615,
+    "unigram_w1": 74824954,
+    "unigram_w2": 457826,
+    "ppmi": 1.1792307495360304
+  },
+  {
+    "w1": "Frederick Banting",
+    "w2": "physiology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 206,
+    "unigram_w1": 1726,
+    "unigram_w2": 457826,
+    "ppmi": 6.571646821441257
+  }
+]

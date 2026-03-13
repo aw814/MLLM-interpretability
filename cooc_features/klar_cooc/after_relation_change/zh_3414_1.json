@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "爱丽丝梦游仙境",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 227,
+    "unigram_w1": 3667,
+    "unigram_w2": 919361,
+    "ppmi": 1.9734795624752328
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "爱丽丝梦游仙境",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 264,
+    "unigram_w1": 3667,
+    "unigram_w2": 910574,
+    "ppmi": 2.2051803956926888
+  }
+]

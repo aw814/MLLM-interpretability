@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "겐나디 주가노프",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 23,
+    "unigram_w2": 250699,
+    "ppmi": 1.4361565354625037
+  },
+  {
+    "w1": "언어",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "겐나디 주가노프",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 23,
+    "unigram_w2": 42645,
+    "ppmi": 4.991664272106549
+  }
+]

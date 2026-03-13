@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "三星电子",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3650,
+    "unigram_w1": 26456,
+    "unigram_w2": 6418768,
+    "ppmi": 0.3260959995406507
+  },
+  {
+    "w1": "位置",
+    "w2": "首尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 142464,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "三星电子",
+    "w2": "首尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 733,
+    "unigram_w1": 26456,
+    "unigram_w2": 142464,
+    "ppmi": 3.5037117481541817
+  }
+]

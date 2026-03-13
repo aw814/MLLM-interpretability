@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סימביאן",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1124,
+    "unigram_w2": 7399,
+    "ppmi": 3.890595839198817
+  },
+  {
+    "w1": "developer",
+    "w2": "נוקיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 7399,
+    "unigram_w2": 17527,
+    "ppmi": 2.2205124500291413
+  },
+  {
+    "w1": "סימביאן",
+    "w2": "נוקיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 738,
+    "unigram_w1": 1124,
+    "unigram_w2": 17527,
+    "ppmi": 8.85196787519369
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "汉堡王",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 827,
+    "unigram_w1": 7936,
+    "unigram_w2": 6418768,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "位置",
+    "w2": "迈阿密",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 44778,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "汉堡王",
+    "w2": "迈阿密",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40,
+    "unigram_w1": 7936,
+    "unigram_w2": 44778,
+    "ppmi": 2.7148168805470774
+  }
+]

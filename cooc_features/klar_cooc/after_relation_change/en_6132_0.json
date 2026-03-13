@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "United States Soccer Federation",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 148,
+    "unigram_w1": 2570,
+    "unigram_w2": 14590058,
+    "ppmi": 0.526221352848258
+  },
+  {
+    "w1": "location",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 283392,
+    "unigram_w1": 14590058,
+    "unigram_w2": 3652152,
+    "ppmi": 0.9564447582323935
+  },
+  {
+    "w1": "United States Soccer Federation",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 260,
+    "unigram_w1": 2570,
+    "unigram_w2": 3652152,
+    "ppmi": 3.337302703036475
+  }
+]

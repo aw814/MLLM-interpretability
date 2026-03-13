@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Mercia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 139,
+    "unigram_w1": 859,
+    "unigram_w2": 9241408,
+    "ppmi": 2.675548422062135
+  },
+  {
+    "w1": "language",
+    "w2": "Latin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 308799,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1941001,
+    "ppmi": 2.6510607949227665
+  },
+  {
+    "w1": "Kingdom of Mercia",
+    "w2": "Latin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123,
+    "unigram_w1": 859,
+    "unigram_w2": 1941001,
+    "ppmi": 4.750433667490079
+  }
+]

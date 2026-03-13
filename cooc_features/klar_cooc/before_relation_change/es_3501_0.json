@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tiflis",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 53426,
+    "unigram_w2": 91062,
+    "ppmi": 2.9118250977730544
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Tiflis",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14900,
+    "unigram_w1": 53426,
+    "unigram_w2": 39895658,
+    "ppmi": 2.540251309545346
+  }
+]

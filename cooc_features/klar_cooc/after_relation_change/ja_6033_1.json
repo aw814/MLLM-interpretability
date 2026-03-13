@@ -1,0 +1,32 @@
+[
+  {
+    "w1": ".de",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18522,
+    "unigram_w1": 4821078,
+    "unigram_w2": 691438,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "管轄",
+    "w2": "ドイツ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 5081430,
+    "ppmi": 0.0
+  },
+  {
+    "w1": ".de",
+    "w2": "ドイツ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 348616,
+    "unigram_w1": 4821078,
+    "unigram_w2": 5081430,
+    "ppmi": 1.3136560388350254
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西班牙",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22537,
+    "unigram_w1": 576207,
+    "unigram_w2": 596594,
+    "ppmi": 1.9349778274972507
+  },
+  {
+    "w1": "首都",
+    "w2": "马德里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 109162,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西班牙",
+    "w2": "马德里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39580,
+    "unigram_w1": 576207,
+    "unigram_w2": 109162,
+    "ppmi": 5.197732691405847
+  }
+]

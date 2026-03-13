@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "EMI",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 2860,
+    "unigram_w2": 286432,
+    "ppmi": 0.9465760632959347
+  },
+  {
+    "w1": "מיקום",
+    "w2": "לונדון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 119995,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "EMI",
+    "w2": "לונדון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 261,
+    "unigram_w1": 2860,
+    "unigram_w2": 119995,
+    "ppmi": 3.2297004461519396
+  }
+]

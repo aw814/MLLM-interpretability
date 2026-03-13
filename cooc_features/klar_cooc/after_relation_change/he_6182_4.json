@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "השושלת הפאטמית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 140,
+    "unigram_w2": 90246,
+    "ppmi": 4.135275264500276
+  },
+  {
+    "w1": "בירה",
+    "w2": "קהיר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 14925,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "השושלת הפאטמית",
+    "w2": "קהיר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54,
+    "unigram_w1": 140,
+    "unigram_w2": 14925,
+    "ppmi": 8.316369822151641
+  }
+]

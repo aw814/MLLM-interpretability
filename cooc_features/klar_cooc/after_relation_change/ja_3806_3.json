@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アテネ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19758,
+    "unigram_w1": 187888,
+    "unigram_w2": 2444276,
+    "ppmi": 2.9097643692051762
+  },
+  {
+    "w1": "首都",
+    "w2": "ギリシャ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 1073636,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アテネ",
+    "w2": "ギリシャ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58110,
+    "unigram_w1": 187888,
+    "unigram_w2": 1073636,
+    "ppmi": 5.65301615271627
+  }
+]

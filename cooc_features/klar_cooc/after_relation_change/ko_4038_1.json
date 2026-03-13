@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "주세페 페아노",
+    "w2": "말했다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 1429427,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "말했다",
+    "w2": "이탈리아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1429427,
+    "unigram_w2": 44332,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "주세페 페아노",
+    "w2": "이탈리아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 44332,
+    "ppmi": 0.0
+  }
+]

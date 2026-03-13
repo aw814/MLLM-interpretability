@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Theodore Roosevelt",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1807,
+    "unigram_w1": 21641,
+    "unigram_w2": 12749290,
+    "ppmi": 1.762902974504841
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Theodore Roosevelt",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3850,
+    "unigram_w1": 21641,
+    "unigram_w2": 17089249,
+    "ppmi": 2.4314928225649206
+  }
+]

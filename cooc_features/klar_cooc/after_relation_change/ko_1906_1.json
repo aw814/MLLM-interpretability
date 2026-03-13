@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에드워드 텔러",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 61,
+    "unigram_w2": 255115,
+    "ppmi": 1.588752168577585
+  },
+  {
+    "w1": "작업",
+    "w2": "물리학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 23798,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에드워드 텔러",
+    "w2": "물리학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 61,
+    "unigram_w2": 23798,
+    "ppmi": 7.818342579554387
+  }
+]

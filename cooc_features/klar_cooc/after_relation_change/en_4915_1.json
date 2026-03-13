@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Swedes",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7676,
+    "unigram_w1": 60166,
+    "unigram_w2": 9241408,
+    "ppmi": 2.332599841473552
+  },
+  {
+    "w1": "language",
+    "w2": "Swedish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 92822,
+    "unigram_w1": 9241408,
+    "unigram_w2": 963382,
+    "ppmi": 1.9275523900220122
+  },
+  {
+    "w1": "Swedes",
+    "w2": "Swedish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28248,
+    "unigram_w1": 60166,
+    "unigram_w2": 963382,
+    "ppmi": 7.47425475145592
+  }
+]

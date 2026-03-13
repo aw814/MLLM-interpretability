@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "安卡拉",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2140,
+    "unigram_w1": 14297,
+    "unigram_w2": 596594,
+    "ppmi": 3.871167874468526
+  },
+  {
+    "w1": "首都",
+    "w2": "土耳其",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 324859,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "安卡拉",
+    "w2": "土耳其",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8728,
+    "unigram_w1": 14297,
+    "unigram_w2": 324859,
+    "ppmi": 6.776143973301432
+  }
+]

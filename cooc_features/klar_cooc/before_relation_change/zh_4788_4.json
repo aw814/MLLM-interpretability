@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "约翰·柯川",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17,
+    "unigram_w2": 3087,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "单簧管",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 3087,
+    "unigram_w2": 3415,
+    "ppmi": 5.052890437482023
+  },
+  {
+    "w1": "约翰·柯川",
+    "w2": "单簧管",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 17,
+    "unigram_w2": 3415,
+    "ppmi": 9.972454863125652
+  }
+]

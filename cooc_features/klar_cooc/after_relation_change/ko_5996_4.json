@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "네덜란드의 국기",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 9,
+    "unigram_w2": 2644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "관할권",
+    "w2": "네덜란드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 91068,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "네덜란드의 국기",
+    "w2": "네덜란드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 9,
+    "unigram_w2": 91068,
+    "ppmi": 6.835696126625209
+  }
+]

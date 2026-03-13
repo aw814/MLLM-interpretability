@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ולדימיר מאיאקובסקי",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 90,
+    "unigram_w2": 236631,
+    "ppmi": 2.671507608570592
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ולדימיר מאיאקובסקי",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 90,
+    "unigram_w2": 106961,
+    "ppmi": 5.058069936692891
+  }
+]

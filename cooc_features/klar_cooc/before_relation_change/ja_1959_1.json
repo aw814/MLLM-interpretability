@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハル・ベリー",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 12834,
+    "unigram_w2": 62696,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "モデル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3138,
+    "unigram_w1": 62696,
+    "unigram_w2": 16238710,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハル・ベリー",
+    "w2": "モデル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2666,
+    "unigram_w1": 12834,
+    "unigram_w2": 16238710,
+    "ppmi": 1.1599483458381
+  }
+]

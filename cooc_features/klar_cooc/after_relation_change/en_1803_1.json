@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eugene Wigner",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 744,
+    "unigram_w1": 1113,
+    "unigram_w2": 74824954,
+    "ppmi": 1.7047076966928445
+  },
+  {
+    "w1": "work",
+    "w2": "physics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 697033,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1537230,
+    "ppmi": 1.1447525911407226
+  },
+  {
+    "w1": "Eugene Wigner",
+    "w2": "physics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 814,
+    "unigram_w1": 1113,
+    "unigram_w2": 1537230,
+    "ppmi": 7.439548414659545
+  }
+]

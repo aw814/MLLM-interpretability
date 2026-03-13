@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "南オーストラリア州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2230,
+    "unigram_w1": 9342,
+    "unigram_w2": 2444276,
+    "ppmi": 4.092440739222753
+  },
+  {
+    "w1": "首都",
+    "w2": "アデレード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 46896,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "南オーストラリア州",
+    "w2": "アデレード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4974,
+    "unigram_w1": 9342,
+    "unigram_w2": 46896,
+    "ppmi": 10.953602052232435
+  }
+]

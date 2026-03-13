@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트리아-헝가리 제국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 208,
+    "unigram_w1": 560,
+    "unigram_w2": 1351571,
+    "ppmi": 2.1002660385792353
+  },
+  {
+    "w1": "수도",
+    "w2": "부다페스트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 13749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "오스트리아-헝가리 제국",
+    "w2": "부다페스트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 560,
+    "unigram_w2": 13749,
+    "ppmi": 6.603955620130328
+  }
+]

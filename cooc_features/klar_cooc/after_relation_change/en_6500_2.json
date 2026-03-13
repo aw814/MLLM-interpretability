@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union of Lublin",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 65,
+    "unigram_w1": 378,
+    "unigram_w2": 14590058,
+    "ppmi": 2.1044460201079307
+  },
+  {
+    "w1": "location",
+    "w2": "Lublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1577,
+    "unigram_w1": 14590058,
+    "unigram_w2": 18663,
+    "ppmi": 1.0793942844546636
+  },
+  {
+    "w1": "Union of Lublin",
+    "w2": "Lublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 378,
+    "unigram_w1": 378,
+    "unigram_w2": 18663,
+    "ppmi": 14.254909622302574
+  }
+]

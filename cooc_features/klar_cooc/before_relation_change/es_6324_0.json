@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Baviera",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 634,
+    "unigram_w1": 2010,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6416854808265198
+  },
+  {
+    "w1": "capital",
+    "w2": "Múnich",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 119926,
+    "unigram_w1": 42058182,
+    "unigram_w2": 996778,
+    "ppmi": 1.2511984793922106
+  },
+  {
+    "w1": "Reino de Baviera",
+    "w2": "Múnich",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 560,
+    "unigram_w1": 2010,
+    "unigram_w2": 996778,
+    "ppmi": 7.861599920299853
+  }
+]

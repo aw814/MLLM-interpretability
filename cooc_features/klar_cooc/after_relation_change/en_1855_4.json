@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nagarjuna",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3844,
+    "unigram_w1": 13120,
+    "unigram_w2": 74824954,
+    "ppmi": 0.514699284195077
+  },
+  {
+    "w1": "work",
+    "w2": "Buddhism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108949,
+    "unigram_w1": 74824954,
+    "unigram_w2": 280621,
+    "ppmi": 0.9208167418313624
+  },
+  {
+    "w1": "Nagarjuna",
+    "w2": "Buddhism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2365,
+    "unigram_w1": 13120,
+    "unigram_w2": 280621,
+    "ppmi": 7.872683832543553
+  }
+]

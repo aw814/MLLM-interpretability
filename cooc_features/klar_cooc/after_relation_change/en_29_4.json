@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ferdinand de Saussure",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 255,
+    "unigram_w1": 1445,
+    "unigram_w2": 9106140,
+    "ppmi": 2.821894364215311
+  },
+  {
+    "w1": "born",
+    "w2": "Geneva",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54281,
+    "unigram_w1": 9106140,
+    "unigram_w2": 539800,
+    "ppmi": 2.010488932323351
+  },
+  {
+    "w1": "Ferdinand de Saussure",
+    "w2": "Geneva",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 87,
+    "unigram_w1": 1445,
+    "unigram_w2": 539800,
+    "ppmi": 5.34682718115808
+  }
+]

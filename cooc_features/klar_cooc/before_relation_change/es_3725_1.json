@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Airbus A350",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 27884,
+    "unigram_w2": 576918,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "developer",
+    "w2": "Airbus",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6304,
+    "unigram_w1": 576918,
+    "unigram_w2": 699026,
+    "ppmi": 3.7012678676068163
+  },
+  {
+    "w1": "Airbus A350",
+    "w2": "Airbus",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27884,
+    "unigram_w1": 27884,
+    "unigram_w2": 699026,
+    "ppmi": 10.21722279916982
+  }
+]

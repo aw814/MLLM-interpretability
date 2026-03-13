@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "도미니카 연방",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33,
+    "unigram_w1": 235,
+    "unigram_w2": 250699,
+    "ppmi": 3.1275956643129703
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "도미니카 연방",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 85,
+    "unigram_w1": 235,
+    "unigram_w2": 359114,
+    "ppmi": 3.9741068252586027
+  }
+]

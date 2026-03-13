@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גלילאו גליליי",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 245,
+    "unigram_w1": 1131,
+    "unigram_w2": 1639120,
+    "ppmi": 0.7049733256317011
+  },
+  {
+    "w1": "עבודה",
+    "w2": "מתמטיקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 57558,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גלילאו גליליי",
+    "w2": "מתמטיקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 142,
+    "unigram_w1": 1131,
+    "unigram_w2": 57558,
+    "ppmi": 4.7498437111199685
+  }
+]

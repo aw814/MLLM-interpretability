@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Francia metropolitana",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 10948,
+    "unigram_w2": 91062,
+    "ppmi": 3.739268146071298
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Francia metropolitana",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3412,
+    "unigram_w1": 10948,
+    "unigram_w2": 39895658,
+    "ppmi": 2.700503197562291
+  }
+]

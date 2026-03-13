@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bandera de Suiza",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 2460,
+    "unigram_w2": 3205324,
+    "ppmi": 1.3406905273934955
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Suiza",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 6266180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bandera de Suiza",
+    "w2": "Suiza",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2460,
+    "unigram_w1": 2460,
+    "unigram_w2": 6266180,
+    "ppmi": 7.053054608726186
+  }
+]

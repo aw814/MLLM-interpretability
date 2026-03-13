@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אברהם",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 774,
+    "unigram_w1": 397869,
+    "unigram_w2": 5024,
+    "ppmi": 2.255843685095873
+  },
+  {
+    "w1": "religion",
+    "w2": "יהדות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 898,
+    "unigram_w1": 5024,
+    "unigram_w2": 185989,
+    "ppmi": 3.5673017612495532
+  },
+  {
+    "w1": "אברהם",
+    "w2": "יהדות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30880,
+    "unigram_w1": 397869,
+    "unigram_w2": 185989,
+    "ppmi": 2.363802037425898
+  }
+]

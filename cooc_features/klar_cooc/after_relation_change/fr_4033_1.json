@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "mère Teresa",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1422,
+    "unigram_w1": 47570,
+    "unigram_w2": 1893780,
+    "ppmi": 3.0320193320045288
+  },
+  {
+    "w1": "parlait",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "mère Teresa",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3499,
+    "unigram_w1": 47570,
+    "unigram_w2": 17089249,
+    "ppmi": 1.1572921816370247
+  }
+]

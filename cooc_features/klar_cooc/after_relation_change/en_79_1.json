@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sandro Botticelli",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 327,
+    "unigram_w1": 2694,
+    "unigram_w2": 5281801,
+    "ppmi": 3.067817087882688
+  },
+  {
+    "w1": "died",
+    "w2": "Florence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 60841,
+    "unigram_w1": 5281801,
+    "unigram_w2": 610600,
+    "ppmi": 2.7830925792186263
+  },
+  {
+    "w1": "Sandro Botticelli",
+    "w2": "Florence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1076,
+    "unigram_w1": 2694,
+    "unigram_w2": 610600,
+    "ppmi": 7.898863077051785
+  }
+]

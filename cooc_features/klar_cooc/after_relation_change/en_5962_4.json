@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Australian Labor Party",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 119,
+    "unigram_w1": 5706,
+    "unigram_w2": 1074632,
+    "ppmi": 2.823945372496638
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Australia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54573,
+    "unigram_w1": 1074632,
+    "unigram_w2": 6118940,
+    "ppmi": 1.5984410523400339
+  },
+  {
+    "w1": "Australian Labor Party",
+    "w2": "Australia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4156,
+    "unigram_w1": 5706,
+    "unigram_w2": 6118940,
+    "ppmi": 5.440668499214501
+  }
+]

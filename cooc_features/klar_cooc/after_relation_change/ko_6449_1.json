@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "영국령 인도 제국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 55,
+    "unigram_w2": 1351571,
+    "ppmi": 1.654640219466968
+  },
+  {
+    "w1": "수도",
+    "w2": "콜카타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3914,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "영국령 인도 제국",
+    "w2": "콜카타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 55,
+    "unigram_w2": 3914,
+    "ppmi": 8.501455548185506
+  }
+]

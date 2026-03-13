@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sucre",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3388,
+    "unigram_w1": 18381,
+    "unigram_w2": 7450623,
+    "ppmi": 3.174163802555331
+  },
+  {
+    "w1": "capital",
+    "w2": "Bolivia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23909,
+    "unigram_w1": 7450623,
+    "unigram_w2": 209642,
+    "ppmi": 2.481571197688758
+  },
+  {
+    "w1": "Sucre",
+    "w2": "Bolivia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3994,
+    "unigram_w1": 18381,
+    "unigram_w2": 209642,
+    "ppmi": 8.562925642677408
+  }
+]

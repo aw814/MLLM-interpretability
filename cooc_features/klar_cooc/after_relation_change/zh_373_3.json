@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴布亚新几内亚",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 844,
+    "unigram_w1": 15704,
+    "unigram_w2": 919361,
+    "ppmi": 1.7695703571369978
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴布亚新几内亚",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 585,
+    "unigram_w1": 15704,
+    "unigram_w2": 910574,
+    "ppmi": 1.254619184050497
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오하이오주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 699,
+    "unigram_w1": 3865,
+    "unigram_w2": 1351571,
+    "ppmi": 1.0620052839463359
+  },
+  {
+    "w1": "수도",
+    "w2": "콜럼버스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 6659,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "오하이오주",
+    "w2": "콜럼버스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 122,
+    "unigram_w1": 3865,
+    "unigram_w2": 6659,
+    "ppmi": 6.208710021383126
+  }
+]

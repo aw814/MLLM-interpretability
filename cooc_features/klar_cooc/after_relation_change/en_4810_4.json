@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Compact Disc",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 474,
+    "unigram_w1": 34200,
+    "unigram_w2": 1657738,
+    "ppmi": 1.6090528771748986
+  },
+  {
+    "w1": "owns",
+    "w2": "Sony",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14785,
+    "unigram_w1": 1657738,
+    "unigram_w2": 1057627,
+    "ppmi": 1.6214654738485288
+  },
+  {
+    "w1": "Compact Disc",
+    "w2": "Sony",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2788,
+    "unigram_w1": 34200,
+    "unigram_w2": 1057627,
+    "ppmi": 4.81370957305035
+  }
+]

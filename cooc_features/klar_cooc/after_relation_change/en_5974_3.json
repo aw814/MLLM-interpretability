@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Federal Chancellor of Austria",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 128,
+    "unigram_w2": 1074632,
+    "ppmi": 3.9923541414915706
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Austria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10202,
+    "unigram_w1": 1074632,
+    "unigram_w2": 923026,
+    "ppmi": 1.9079442651349432
+  },
+  {
+    "w1": "Federal Chancellor of Austria",
+    "w2": "Austria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 128,
+    "unigram_w1": 128,
+    "unigram_w2": 923026,
+    "ppmi": 8.626791152906554
+  }
+]

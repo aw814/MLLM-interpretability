@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "B-17轰炸机",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 388,
+    "unigram_w2": 7846,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "developer",
+    "w2": "波音",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 7846,
+    "unigram_w2": 230615,
+    "ppmi": 0.4370365418840595
+  },
+  {
+    "w1": "B-17轰炸机",
+    "w2": "波音",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 388,
+    "unigram_w2": 230615,
+    "ppmi": 3.289438492603786
+  }
+]

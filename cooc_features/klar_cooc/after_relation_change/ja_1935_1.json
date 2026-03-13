@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アダム・スミス",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8046,
+    "unigram_w1": 19788,
+    "unigram_w2": 30190082,
+    "ppmi": 1.2342507413655481
+  },
+  {
+    "w1": "仕事",
+    "w2": "経済学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 846712,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アダム・スミス",
+    "w2": "経済学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11284,
+    "unigram_w1": 19788,
+    "unigram_w2": 846712,
+    "ppmi": 6.878245198736092
+  }
+]

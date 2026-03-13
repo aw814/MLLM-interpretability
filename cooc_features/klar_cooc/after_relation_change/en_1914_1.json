@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hermann von Helmholtz",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 709,
+    "unigram_w1": 1081,
+    "unigram_w2": 74824954,
+    "ppmi": 1.6772777724316386
+  },
+  {
+    "w1": "work",
+    "w2": "physiology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212615,
+    "unigram_w1": 74824954,
+    "unigram_w2": 457826,
+    "ppmi": 1.1792307495360304
+  },
+  {
+    "w1": "Hermann von Helmholtz",
+    "w2": "physiology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 168,
+    "unigram_w1": 1081,
+    "unigram_w2": 457826,
+    "ppmi": 6.952529658481104
+  }
+]

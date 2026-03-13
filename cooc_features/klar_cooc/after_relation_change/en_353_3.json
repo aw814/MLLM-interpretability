@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Patna",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3156,
+    "unigram_w1": 65064,
+    "unigram_w2": 9241408,
+    "ppmi": 0.9374312619316818
+  },
+  {
+    "w1": "language",
+    "w2": "Hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 124985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 532562,
+    "ppmi": 3.211927140250318
+  },
+  {
+    "w1": "Patna",
+    "w2": "Hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3165,
+    "unigram_w1": 65064,
+    "unigram_w2": 532562,
+    "ppmi": 5.058630833937999
+  }
+]

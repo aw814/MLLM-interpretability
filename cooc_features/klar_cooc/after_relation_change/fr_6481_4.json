@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Afghanistan",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 93188,
+    "unigram_w1": 1032709,
+    "unigram_w2": 9137640,
+    "ppmi": 2.3553793392097573
+  },
+  {
+    "w1": "capitale",
+    "w2": "Kaboul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 198213,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Afghanistan",
+    "w2": "Kaboul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101386,
+    "unigram_w1": 1032709,
+    "unigram_w2": 198213,
+    "ppmi": 8.003719809590557
+  }
+]

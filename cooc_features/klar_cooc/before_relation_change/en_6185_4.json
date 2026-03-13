@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Odessa Oblast",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 98,
+    "unigram_w1": 427,
+    "unigram_w2": 7450623,
+    "ppmi": 3.4904908644163357
+  },
+  {
+    "w1": "capital",
+    "w2": "Odessa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6576,
+    "unigram_w1": 7450623,
+    "unigram_w2": 87008,
+    "ppmi": 1.8880074275785408
+  },
+  {
+    "w1": "Odessa Oblast",
+    "w2": "Odessa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 427,
+    "unigram_w1": 427,
+    "unigram_w2": 87008,
+    "ppmi": 12.03394247791421
+  }
+]

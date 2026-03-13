@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pays-Bas",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 118635,
+    "unigram_w1": 3317487,
+    "unigram_w2": 3399010,
+    "ppmi": 2.4467429170126636
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Pays-Bas",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 770502,
+    "unigram_w1": 3317487,
+    "unigram_w2": 18211758,
+    "ppmi": 2.724328235888432
+  }
+]

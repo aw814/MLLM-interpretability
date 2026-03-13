@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "캐나다의 총리",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 28,
+    "unigram_w2": 2644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "관할권",
+    "w2": "캐나다",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 325933,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "캐나다의 총리",
+    "w2": "캐나다",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 28,
+    "unigram_w2": 325933,
+    "ppmi": 4.773744381781084
+  }
+]

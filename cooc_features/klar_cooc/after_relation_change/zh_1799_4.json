@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "理查德·瓦格纳",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 109,
+    "unigram_w1": 299,
+    "unigram_w2": 12146148,
+    "ppmi": 0.8077747003705426
+  },
+  {
+    "w1": "工作",
+    "w2": "歌剧",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 94983,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "理查德·瓦格纳",
+    "w2": "歌剧",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 155,
+    "unigram_w1": 299,
+    "unigram_w2": 94983,
+    "ppmi": 8.314328595219406
+  }
+]

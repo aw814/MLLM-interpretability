@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "킹 군",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 20,
+    "unigram_w2": 1351571,
+    "ppmi": 1.207181242495747
+  },
+  {
+    "w1": "수도",
+    "w2": "시애틀",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 27457,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "킹 군",
+    "w2": "시애틀",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 20,
+    "unigram_w2": 27457,
+    "ppmi": 8.287932348945892
+  }
+]

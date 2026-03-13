@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Calvin",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9390,
+    "unigram_w1": 18456,
+    "unigram_w2": 74824954,
+    "ppmi": 1.310893916784927
+  },
+  {
+    "w1": "work",
+    "w2": "theology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 281882,
+    "unigram_w1": 74824954,
+    "unigram_w2": 575198,
+    "ppmi": 1.2568194588663388
+  },
+  {
+    "w1": "John Calvin",
+    "w2": "theology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6317,
+    "unigram_w1": 18456,
+    "unigram_w2": 575198,
+    "ppmi": 7.76232534825599
+  }
+]

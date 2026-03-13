@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aragon",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5346,
+    "unigram_w1": 52596,
+    "unigram_w2": 9241408,
+    "ppmi": 2.0047003284743585
+  },
+  {
+    "w1": "language",
+    "w2": "Catalan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23996,
+    "unigram_w1": 9241408,
+    "unigram_w2": 137019,
+    "ppmi": 2.789611551103592
+  },
+  {
+    "w1": "Aragon",
+    "w2": "Catalan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2817,
+    "unigram_w1": 52596,
+    "unigram_w2": 137019,
+    "ppmi": 7.156064862524485
+  }
+]

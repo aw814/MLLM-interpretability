@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Emmanuelle Seigner",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 588,
+    "unigram_w2": 737500,
+    "ppmi": 0.7508470453039513
+  },
+  {
+    "w1": "citizenship",
+    "w2": "France",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 43998,
+    "unigram_w1": 737500,
+    "unigram_w2": 4371971,
+    "ppmi": 2.315817314168819
+  },
+  {
+    "w1": "Emmanuelle Seigner",
+    "w2": "France",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 144,
+    "unigram_w1": 588,
+    "unigram_w2": 4371971,
+    "ppmi": 4.353203169811781
+  }
+]

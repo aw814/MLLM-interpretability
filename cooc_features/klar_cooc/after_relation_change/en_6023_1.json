@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Haiti",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 81,
+    "unigram_w2": 1074632,
+    "ppmi": 3.06754163788579
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Haiti",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2555,
+    "unigram_w1": 1074632,
+    "unigram_w2": 284084,
+    "ppmi": 1.610541162903848
+  },
+  {
+    "w1": "flag of Haiti",
+    "w2": "Haiti",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 81,
+    "unigram_w1": 81,
+    "unigram_w2": 284084,
+    "ppmi": 10.326844860247418
+  }
+]

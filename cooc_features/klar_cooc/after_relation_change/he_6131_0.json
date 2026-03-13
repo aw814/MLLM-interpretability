@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ר.ב. לייפציג",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 965,
+    "unigram_w2": 286432,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מיקום",
+    "w2": "לייפציג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 6535,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ר.ב. לייפציג",
+    "w2": "לייפציג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 965,
+    "unigram_w1": 965,
+    "unigram_w2": 6535,
+    "ppmi": 10.882237127289873
+  }
+]

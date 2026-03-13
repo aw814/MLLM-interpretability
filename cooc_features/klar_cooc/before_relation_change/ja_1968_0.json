@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イアン・カーマ",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 84,
+    "unigram_w2": 62696,
+    "ppmi": 6.051701038046825
+  },
+  {
+    "w1": "occupation",
+    "w2": "政治家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1900,
+    "unigram_w1": 62696,
+    "unigram_w2": 1652632,
+    "ppmi": 1.6794680865934735
+  },
+  {
+    "w1": "イアン・カーマ",
+    "w2": "政治家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 84,
+    "unigram_w2": 1652632,
+    "ppmi": 5.138807664333684
+  }
+]

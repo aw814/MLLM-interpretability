@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウクライナの首相",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 286,
+    "unigram_w2": 691438,
+    "ppmi": 3.6283474600379773
+  },
+  {
+    "w1": "管轄",
+    "w2": "ウクライナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 461120,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウクライナの首相",
+    "w2": "ウクライナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 286,
+    "unigram_w1": 286,
+    "unigram_w2": 461120,
+    "ppmi": 8.565321527443153
+  }
+]

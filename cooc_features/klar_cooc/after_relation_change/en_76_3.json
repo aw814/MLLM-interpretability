@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jacques Cousteau",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 637,
+    "unigram_w1": 8843,
+    "unigram_w2": 5281801,
+    "ppmi": 2.3150337864935104
+  },
+  {
+    "w1": "died",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 207387,
+    "unigram_w1": 5281801,
+    "unigram_w2": 3039340,
+    "ppmi": 2.2368436920057535
+  },
+  {
+    "w1": "Jacques Cousteau",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 414,
+    "unigram_w1": 8843,
+    "unigram_w2": 3039340,
+    "ppmi": 2.490643055527487
+  }
+]

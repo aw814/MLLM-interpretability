@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califato abasí",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1882,
+    "unigram_w1": 3416,
+    "unigram_w2": 42058182,
+    "ppmi": 3.44628488986145
+  },
+  {
+    "w1": "capital",
+    "w2": "Damasco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 157002,
+    "unigram_w1": 42058182,
+    "unigram_w2": 725006,
+    "ppmi": 2.09911623941069
+  },
+  {
+    "w1": "califato abasí",
+    "w2": "Damasco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 924,
+    "unigram_w1": 3416,
+    "unigram_w2": 725006,
+    "ppmi": 8.27823276342126
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アキテーヌ地域圏",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 104,
+    "unigram_w1": 916,
+    "unigram_w2": 2444276,
+    "ppmi": 3.0203644042594275
+  },
+  {
+    "w1": "首都",
+    "w2": "ボルドー",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 743864,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アキテーヌ地域圏",
+    "w2": "ボルドー",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 378,
+    "unigram_w1": 916,
+    "unigram_w2": 743864,
+    "ppmi": 6.598463525413844
+  }
+]

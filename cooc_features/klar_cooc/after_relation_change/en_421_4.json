@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Flanders",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9869,
+    "unigram_w1": 106264,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8745164632532796
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Flanders",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12443,
+    "unigram_w1": 106264,
+    "unigram_w2": 1528017,
+    "ppmi": 4.805327090835746
+  }
+]

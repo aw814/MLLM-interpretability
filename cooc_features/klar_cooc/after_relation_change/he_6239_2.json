@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יפן",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2429,
+    "unigram_w1": 86311,
+    "unigram_w2": 90246,
+    "ppmi": 1.943523238116811
+  },
+  {
+    "w1": "בירה",
+    "w2": "טוקיו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 25491,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "יפן",
+    "w2": "טוקיו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8707,
+    "unigram_w1": 86311,
+    "unigram_w2": 25491,
+    "ppmi": 5.609211489182733
+  }
+]

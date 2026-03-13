@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Joseph Louis Gay-Lussac",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 136,
+    "unigram_w1": 262,
+    "unigram_w2": 74824954,
+    "ppmi": 1.339826602639662
+  },
+  {
+    "w1": "work",
+    "w2": "chemistry",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 679124,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1610189,
+    "ppmi": 1.0403036473379514
+  },
+  {
+    "w1": "Joseph Louis Gay-Lussac",
+    "w2": "chemistry",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 144,
+    "unigram_w1": 262,
+    "unigram_w2": 1610189,
+    "ppmi": 6.960506306267048
+  }
+]

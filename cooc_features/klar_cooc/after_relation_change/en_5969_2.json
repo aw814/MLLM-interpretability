@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prime Minister of Japan",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 3710,
+    "unigram_w2": 1074632,
+    "ppmi": 2.135150669983405
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Japan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26264,
+    "unigram_w1": 1074632,
+    "unigram_w2": 3807916,
+    "ppmi": 1.2276204518796852
+  },
+  {
+    "w1": "Prime Minister of Japan",
+    "w2": "Japan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3710,
+    "unigram_w1": 3710,
+    "unigram_w2": 3807916,
+    "ppmi": 6.582232690475259
+  }
+]

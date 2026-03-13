@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ソマリア",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 206,
+    "unigram_w1": 79188,
+    "unigram_w2": 48638,
+    "ppmi": 3.2238142807842176
+  },
+  {
+    "w1": "continent",
+    "w2": "アフリカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2966,
+    "unigram_w1": 48638,
+    "unigram_w2": 1832838,
+    "ppmi": 2.5389629945862024
+  },
+  {
+    "w1": "ソマリア",
+    "w2": "アフリカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39546,
+    "unigram_w1": 79188,
+    "unigram_w2": 1832838,
+    "ppmi": 5.572706350631243
+  }
+]

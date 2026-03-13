@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "미시간주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 408,
+    "unigram_w1": 2280,
+    "unigram_w2": 1351571,
+    "ppmi": 1.0467165703025008
+  },
+  {
+    "w1": "수도",
+    "w2": "랜싱",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 925,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "미시간주",
+    "w2": "랜싱",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54,
+    "unigram_w1": 2280,
+    "unigram_w2": 925,
+    "ppmi": 8.642075045157299
+  }
+]

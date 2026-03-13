@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Inglourious Basterds",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 618,
+    "unigram_w1": 6416,
+    "unigram_w2": 9241408,
+    "ppmi": 1.9271262719265454
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "Inglourious Basterds",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 638,
+    "unigram_w1": 6416,
+    "unigram_w2": 9553181,
+    "ppmi": 1.9252073329348323
+  }
+]

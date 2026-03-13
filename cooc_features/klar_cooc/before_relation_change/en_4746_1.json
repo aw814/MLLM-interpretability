@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ahmed I",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 201,
+    "unigram_w1": 2678,
+    "unigram_w2": 2269436,
+    "ppmi": 3.593011986830985
+  },
+  {
+    "w1": "religion",
+    "w2": "Islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231828,
+    "unigram_w1": 2269436,
+    "unigram_w2": 713808,
+    "ppmi": 5.706419294919044
+  },
+  {
+    "w1": "Ahmed I",
+    "w2": "Islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 286,
+    "unigram_w1": 2678,
+    "unigram_w2": 713808,
+    "ppmi": 5.770557460480409
+  }
+]

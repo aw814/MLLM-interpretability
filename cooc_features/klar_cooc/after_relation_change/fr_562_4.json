@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Palestine mandataire",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1702,
+    "unigram_w1": 8820,
+    "unigram_w2": 12749290,
+    "ppmi": 2.9714541100330183
+  },
+  {
+    "w1": "langue",
+    "w2": "hébreu",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 726162,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Palestine mandataire",
+    "w2": "hébreu",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2483,
+    "unigram_w1": 8820,
+    "unigram_w2": 726162,
+    "ppmi": 7.650288994837648
+  }
+]

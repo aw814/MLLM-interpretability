@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dundee",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6226,
+    "unigram_w1": 148250,
+    "unigram_w2": 9241408,
+    "ppmi": 0.72953895273818
+  },
+  {
+    "w1": "language",
+    "w2": "Scots",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20809,
+    "unigram_w1": 9241408,
+    "unigram_w2": 172665,
+    "ppmi": 2.2504255404933415
+  },
+  {
+    "w1": "Dundee",
+    "w2": "Scots",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4759,
+    "unigram_w1": 148250,
+    "unigram_w2": 172665,
+    "ppmi": 6.083956927958902
+  }
+]

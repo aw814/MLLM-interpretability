@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "小王子",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1173,
+    "unigram_w1": 26658,
+    "unigram_w2": 919361,
+    "ppmi": 1.4810219971933323
+  },
+  {
+    "w1": "语言",
+    "w2": "法语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 75685,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "小王子",
+    "w2": "法语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 295,
+    "unigram_w1": 26658,
+    "unigram_w2": 75685,
+    "ppmi": 3.0921580045174806
+  }
+]

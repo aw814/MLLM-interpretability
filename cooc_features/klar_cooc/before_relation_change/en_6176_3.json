@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rashidun Caliphates",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 7,
+    "unigram_w2": 7450623,
+    "ppmi": 4.39148085858517
+  },
+  {
+    "w1": "capital",
+    "w2": "Medina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15491,
+    "unigram_w1": 7450623,
+    "unigram_w2": 160273,
+    "ppmi": 2.2428440574826585
+  },
+  {
+    "w1": "Rashidun Caliphates",
+    "w2": "Medina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 7,
+    "unigram_w2": 160273,
+    "ppmi": 9.930238612304946
+  }
+]

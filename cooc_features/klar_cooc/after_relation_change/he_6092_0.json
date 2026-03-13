@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טניס שולחן",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 466,
+    "unigram_w1": 17399,
+    "unigram_w2": 286432,
+    "ppmi": 0.20584486988327422
+  },
+  {
+    "w1": "מיקום",
+    "w2": "אנגליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 93787,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "טניס שולחן",
+    "w2": "אנגליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 134,
+    "unigram_w1": 17399,
+    "unigram_w2": 93787,
+    "ppmi": 0.01848072733843149
+  }
+]

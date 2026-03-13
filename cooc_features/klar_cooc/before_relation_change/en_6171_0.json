@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Apulia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1395,
+    "unigram_w1": 10809,
+    "unigram_w2": 7450623,
+    "ppmi": 2.6599772494902214
+  },
+  {
+    "w1": "capital",
+    "w2": "Bari",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6581,
+    "unigram_w1": 7450623,
+    "unigram_w2": 59540,
+    "ppmi": 2.4363927853253147
+  },
+  {
+    "w1": "Apulia",
+    "w2": "Bari",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1953,
+    "unigram_w1": 10809,
+    "unigram_w2": 59540,
+    "ppmi": 10.112762109552415
+  }
+]

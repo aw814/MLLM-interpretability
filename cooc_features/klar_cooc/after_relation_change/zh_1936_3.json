@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "罗伯特·密立根",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 12146148,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "工作",
+    "w2": "物理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 82863,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "罗伯特·密立根",
+    "w2": "物理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 2,
+    "unigram_w2": 82863,
+    "ppmi": 8.45914713492349
+  }
+]

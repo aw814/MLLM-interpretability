@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nunavut",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12213,
+    "unigram_w1": 95480,
+    "unigram_w2": 12749290,
+    "ppmi": 2.3782207896839664
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nunavut",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13506,
+    "unigram_w1": 95480,
+    "unigram_w2": 17089249,
+    "ppmi": 2.100731533453165
+  }
+]

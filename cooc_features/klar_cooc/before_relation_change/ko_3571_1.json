@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "지부티",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 3777,
+    "unigram_w2": 2712,
+    "ppmi": 3.1921111765942474
+  },
+  {
+    "w1": "continent",
+    "w2": "아프리카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 2712,
+    "unigram_w2": 151855,
+    "ppmi": 3.0787387581208394
+  },
+  {
+    "w1": "지부티",
+    "w2": "아프리카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2725,
+    "unigram_w1": 3777,
+    "unigram_w2": 151855,
+    "ppmi": 6.211995767448357
+  }
+]

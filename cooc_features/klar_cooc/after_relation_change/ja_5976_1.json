@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スペインの国旗",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 928,
+    "unigram_w2": 691438,
+    "ppmi": 2.2928078810735024
+  },
+  {
+    "w1": "管轄",
+    "w2": "スペイン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 2579244,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スペインの国旗",
+    "w2": "スペイン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 928,
+    "unigram_w1": 928,
+    "unigram_w2": 2579244,
+    "ppmi": 6.081587412679482
+  }
+]

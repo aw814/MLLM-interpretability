@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "벨로루시 소비에트 사회주의 공화국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 32,
+    "unigram_w2": 1351571,
+    "ppmi": 2.8510374322704717
+  },
+  {
+    "w1": "수도",
+    "w2": "민스크",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 2603,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "벨로루시 소비에트 사회주의 공화국",
+    "w2": "민스크",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 32,
+    "unigram_w2": 2603,
+    "ppmi": 10.134318111766651
+  }
+]

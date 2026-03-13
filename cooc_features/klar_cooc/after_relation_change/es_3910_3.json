@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ruan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5208,
+    "unigram_w1": 40610,
+    "unigram_w2": 42058182,
+    "ppmi": 1.3432925631073511
+  },
+  {
+    "w1": "capital",
+    "w2": "Normandía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 47814,
+    "unigram_w1": 42058182,
+    "unigram_w2": 312580,
+    "ppmi": 1.5976057724305939
+  },
+  {
+    "w1": "Ruan",
+    "w2": "Normandía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3176,
+    "unigram_w1": 40610,
+    "unigram_w2": 312580,
+    "ppmi": 7.701791234141268
+  }
+]

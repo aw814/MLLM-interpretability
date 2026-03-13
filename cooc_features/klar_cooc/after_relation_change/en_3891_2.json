@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dodoma",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1260,
+    "unigram_w1": 4970,
+    "unigram_w2": 7450623,
+    "ppmi": 3.634051161859248
+  },
+  {
+    "w1": "capital",
+    "w2": "Tanzania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35166,
+    "unigram_w1": 7450623,
+    "unigram_w2": 332295,
+    "ppmi": 2.3736618430575738
+  },
+  {
+    "w1": "Dodoma",
+    "w2": "Tanzania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4072,
+    "unigram_w1": 4970,
+    "unigram_w2": 332295,
+    "ppmi": 9.813189563981119
+  }
+]

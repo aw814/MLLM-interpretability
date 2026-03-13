@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "איטליה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6029,
+    "unigram_w1": 153684,
+    "unigram_w2": 236631,
+    "ppmi": 1.0320246516107858
+  },
+  {
+    "w1": "שפה",
+    "w2": "איטלקית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 48433,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "איטליה",
+    "w2": "איטלקית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11682,
+    "unigram_w1": 153684,
+    "unigram_w2": 48433,
+    "ppmi": 4.2748981211499775
+  }
+]

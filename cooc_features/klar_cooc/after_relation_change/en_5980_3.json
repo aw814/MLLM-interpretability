@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Denmark",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 319,
+    "unigram_w2": 1074632,
+    "ppmi": 1.6749415277267012
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Denmark",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8899,
+    "unigram_w1": 1074632,
+    "unigram_w2": 859650,
+    "ppmi": 1.813429280426003
+  },
+  {
+    "w1": "flag of Denmark",
+    "w2": "Denmark",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 319,
+    "unigram_w1": 319,
+    "unigram_w2": 859650,
+    "ppmi": 8.729413042527282
+  }
+]

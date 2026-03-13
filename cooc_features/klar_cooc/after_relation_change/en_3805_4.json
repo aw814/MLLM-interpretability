@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Port-au-Prince",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8707,
+    "unigram_w1": 33392,
+    "unigram_w2": 7450623,
+    "ppmi": 3.674618402764807
+  },
+  {
+    "w1": "capital",
+    "w2": "Haiti",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27132,
+    "unigram_w1": 7450623,
+    "unigram_w2": 284084,
+    "ppmi": 2.225623003702753
+  },
+  {
+    "w1": "Port-au-Prince",
+    "w2": "Haiti",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28995,
+    "unigram_w1": 33392,
+    "unigram_w2": 284084,
+    "ppmi": 10.123146492907338
+  }
+]

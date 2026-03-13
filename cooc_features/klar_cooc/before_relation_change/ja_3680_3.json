@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "B-17",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 86,
+    "unigram_w1": 25256,
+    "unigram_w2": 270510,
+    "ppmi": 1.136708050009009
+  },
+  {
+    "w1": "developer",
+    "w2": "ボーイング",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 276,
+    "unigram_w1": 270510,
+    "unigram_w2": 161982,
+    "ppmi": 0.13783231820652558
+  },
+  {
+    "w1": "B-17",
+    "w2": "ボーイング",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 868,
+    "unigram_w1": 25256,
+    "unigram_w2": 161982,
+    "ppmi": 5.2118429504452175
+  }
+]

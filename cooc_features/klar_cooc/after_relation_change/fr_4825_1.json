@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "stade Renzo-Barbera",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 468,
+    "unigram_w2": 13047836,
+    "ppmi": 1.570526378839595
+  },
+  {
+    "w1": "possède",
+    "w2": "Palerme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 236789,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "stade Renzo-Barbera",
+    "w2": "Palerme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 442,
+    "unigram_w1": 468,
+    "unigram_w2": 236789,
+    "ppmi": 11.013210602583362
+  }
+]

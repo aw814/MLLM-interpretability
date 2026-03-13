@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "吉隆坡",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6589,
+    "unigram_w1": 65156,
+    "unigram_w2": 596594,
+    "ppmi": 3.30543101864863
+  },
+  {
+    "w1": "首都",
+    "w2": "马来西亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 292988,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "吉隆坡",
+    "w2": "马来西亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23369,
+    "unigram_w1": 65156,
+    "unigram_w2": 292988,
+    "ppmi": 6.157803478273034
+  }
+]

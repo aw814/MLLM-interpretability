@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 942,
+    "unigram_w1": 2754,
+    "unigram_w2": 30190082,
+    "ppmi": 0.9848033083763603
+  },
+  {
+    "w1": "仕事",
+    "w2": "解剖学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 158772,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "w2": "解剖学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 2754,
+    "unigram_w2": 158772,
+    "ppmi": 4.676194413359897
+  }
+]

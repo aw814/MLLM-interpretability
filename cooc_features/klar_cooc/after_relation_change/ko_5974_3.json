@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트리아의 총리",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 9,
+    "unigram_w2": 2644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "관할권",
+    "w2": "오스트리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 60508,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "오스트리아의 총리",
+    "w2": "오스트리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 9,
+    "unigram_w2": 60508,
+    "ppmi": 7.162480021977546
+  }
+]

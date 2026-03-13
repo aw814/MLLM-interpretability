@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Woodrow Wilson",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3156,
+    "unigram_w1": 65952,
+    "unigram_w2": 12196104,
+    "ppmi": 1.7070450691231234
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Woodrow Wilson",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11908,
+    "unigram_w1": 65952,
+    "unigram_w2": 30884572,
+    "ppmi": 2.282341105285901
+  }
+]

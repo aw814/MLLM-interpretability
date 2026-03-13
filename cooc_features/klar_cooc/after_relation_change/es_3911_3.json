@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oklahoma City",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23710,
+    "unigram_w1": 225026,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0598021014481762
+  },
+  {
+    "w1": "capital",
+    "w2": "Oklahoma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 103464,
+    "unigram_w1": 42058182,
+    "unigram_w2": 798608,
+    "ppmi": 1.3579675860758351
+  },
+  {
+    "w1": "Oklahoma City",
+    "w2": "Oklahoma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 225026,
+    "unigram_w1": 225026,
+    "unigram_w2": 798608,
+    "ppmi": 10.025081392108621
+  }
+]

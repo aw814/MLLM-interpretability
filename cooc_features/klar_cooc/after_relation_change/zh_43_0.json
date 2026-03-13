@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "约翰·帕赫贝尔",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 23,
+    "unigram_w2": 517729,
+    "ppmi": 3.2921880056786166
+  },
+  {
+    "w1": "去世",
+    "w2": "纽伦堡",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 13501,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "约翰·帕赫贝尔",
+    "w2": "纽伦堡",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 23,
+    "unigram_w2": 13501,
+    "ppmi": 8.553246962329366
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Locarno",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1498,
+    "unigram_w1": 12869,
+    "unigram_w2": 9241408,
+    "ppmi": 2.200331247699771
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "Locarno",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2033,
+    "unigram_w1": 12869,
+    "unigram_w2": 3499556,
+    "ppmi": 4.04184461894619
+  }
+]

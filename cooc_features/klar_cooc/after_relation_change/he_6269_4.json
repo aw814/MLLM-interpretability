@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בית המלוכה העיראקי",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 30,
+    "unigram_w2": 90246,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בירה",
+    "w2": "בגדאד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 4559,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בית המלוכה העיראקי",
+    "w2": "בגדאד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 30,
+    "unigram_w2": 4559,
+    "ppmi": 10.079778859220541
+  }
+]

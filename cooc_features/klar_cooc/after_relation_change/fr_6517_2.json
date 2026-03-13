@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "EMI",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3378,
+    "unigram_w1": 280423,
+    "unigram_w2": 5673888,
+    "ppmi": 0.1377175133038504
+  },
+  {
+    "w1": "localisation",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 6755180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "EMI",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19945,
+    "unigram_w1": 280423,
+    "unigram_w2": 6755180,
+    "ppmi": 2.4478468637884463
+  }
+]

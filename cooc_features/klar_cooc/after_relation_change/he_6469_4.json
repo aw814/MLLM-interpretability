@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'יאנגסו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 871,
+    "unigram_w2": 90246,
+    "ppmi": 1.6500324662914274
+  },
+  {
+    "w1": "בירה",
+    "w2": "נאנג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 915,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ג'יאנגסו",
+    "w2": "נאנג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84,
+    "unigram_w1": 871,
+    "unigram_w2": 915,
+    "ppmi": 10.34436922898116
+  }
+]

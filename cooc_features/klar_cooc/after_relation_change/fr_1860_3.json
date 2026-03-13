@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hermann Minkowski",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 247,
+    "unigram_w1": 663,
+    "unigram_w2": 57128353,
+    "ppmi": 1.756713868912686
+  },
+  {
+    "w1": "travail",
+    "w2": "géométrie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 1017919,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Hermann Minkowski",
+    "w2": "géométrie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 303,
+    "unigram_w1": 663,
+    "unigram_w2": 1017919,
+    "ppmi": 7.862032888769835
+  }
+]

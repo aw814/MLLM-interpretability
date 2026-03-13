@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mark Strong",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 488,
+    "unigram_w1": 6780,
+    "unigram_w2": 9106140,
+    "ppmi": 1.528062484283674
+  },
+  {
+    "w1": "born",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 793762,
+    "unigram_w1": 9106140,
+    "unigram_w2": 8112147,
+    "ppmi": 1.971089311670511
+  },
+  {
+    "w1": "Mark Strong",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 949,
+    "unigram_w1": 6780,
+    "unigram_w2": 8112147,
+    "ppmi": 2.654345267995613
+  }
+]

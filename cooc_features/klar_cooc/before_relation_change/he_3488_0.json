@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קיריבטי",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1355,
+    "unigram_w2": 2719,
+    "ppmi": 1.743271075706674
+  },
+  {
+    "w1": "continent",
+    "w2": "אוקיאניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 2719,
+    "unigram_w2": 2898,
+    "ppmi": 3.231468833112135
+  },
+  {
+    "w1": "קיריבטי",
+    "w2": "אוקיאניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74,
+    "unigram_w1": 1355,
+    "unigram_w2": 2898,
+    "ppmi": 7.860742997803454
+  }
+]

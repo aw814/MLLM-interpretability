@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mogadiscio",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22888,
+    "unigram_w1": 47312,
+    "unigram_w2": 42058182,
+    "ppmi": 3.2587114909562622
+  },
+  {
+    "w1": "capital",
+    "w2": "Somalia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105846,
+    "unigram_w1": 42058182,
+    "unigram_w2": 560294,
+    "ppmi": 1.9021089432828362
+  },
+  {
+    "w1": "Mogadiscio",
+    "w2": "Somalia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36504,
+    "unigram_w1": 47312,
+    "unigram_w2": 560294,
+    "ppmi": 10.162233283259496
+  }
+]

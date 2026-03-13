@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "교황 클레멘스 14세",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 37935,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "죽었다",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 99776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "교황 클레멘스 14세",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 10,
+    "unigram_w2": 99776,
+    "ppmi": 6.7743368219220645
+  }
+]

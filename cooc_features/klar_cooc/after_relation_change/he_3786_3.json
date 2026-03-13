@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דבלין",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 643,
+    "unigram_w1": 8809,
+    "unigram_w2": 90246,
+    "ppmi": 3.318545669348907
+  },
+  {
+    "w1": "בירה",
+    "w2": "אירלנד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 36489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דבלין",
+    "w2": "אירלנד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3588,
+    "unigram_w1": 8809,
+    "unigram_w2": 36489,
+    "ppmi": 7.105236291703383
+  }
+]

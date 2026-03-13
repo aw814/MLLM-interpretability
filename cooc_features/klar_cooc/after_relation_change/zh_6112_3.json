@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "任天堂",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8169,
+    "unigram_w1": 69289,
+    "unigram_w2": 6418768,
+    "ppmi": 0.09932763431934112
+  },
+  {
+    "w1": "位置",
+    "w2": "京都市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 17927,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "任天堂",
+    "w2": "京都市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 69289,
+    "unigram_w2": 17927,
+    "ppmi": 0.5874023933757369
+  }
+]

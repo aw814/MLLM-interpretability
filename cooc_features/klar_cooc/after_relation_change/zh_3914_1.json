@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "安曼",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 830,
+    "unigram_w1": 6019,
+    "unigram_w2": 596594,
+    "ppmi": 3.7528570495184588
+  },
+  {
+    "w1": "首都",
+    "w2": "约旦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 43953,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "安曼",
+    "w2": "约旦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1710,
+    "unigram_w1": 6019,
+    "unigram_w2": 43953,
+    "ppmi": 8.558386056890907
+  }
+]

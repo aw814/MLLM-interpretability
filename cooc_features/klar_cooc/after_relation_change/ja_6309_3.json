@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "シチリア首長国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 86,
+    "unigram_w2": 2444276,
+    "ppmi": 4.980791232956767
+  },
+  {
+    "w1": "首都",
+    "w2": "パレルモ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 69156,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "シチリア首長国",
+    "w2": "パレルモ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 86,
+    "unigram_w2": 69156,
+    "ppmi": 9.198200777582688
+  }
+]

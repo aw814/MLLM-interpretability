@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dusambé",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1464,
+    "unigram_w1": 3536,
+    "unigram_w2": 42058182,
+    "ppmi": 3.0341235156460145
+  },
+  {
+    "w1": "capital",
+    "w2": "Tayikistán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24600,
+    "unigram_w1": 42058182,
+    "unigram_w2": 173628,
+    "ppmi": 1.4870568356631604
+  },
+  {
+    "w1": "Dusambé",
+    "w2": "Tayikistán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2674,
+    "unigram_w1": 3536,
+    "unigram_w2": 173628,
+    "ppmi": 11.823450485183551
+  }
+]

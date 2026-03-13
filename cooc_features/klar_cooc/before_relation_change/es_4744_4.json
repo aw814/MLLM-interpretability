@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Taj Mahal",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1092,
+    "unigram_w1": 147076,
+    "unigram_w2": 979024,
+    "ppmi": 2.6577795104751667
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61902,
+    "unigram_w1": 979024,
+    "unigram_w2": 1779692,
+    "ppmi": 4.885726937382873
+  },
+  {
+    "w1": "Taj Mahal",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4342,
+    "unigram_w1": 147076,
+    "unigram_w2": 1779692,
+    "ppmi": 3.786954927355551
+  }
+]

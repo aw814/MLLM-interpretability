@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dilma Rousseff",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 224,
+    "unigram_w1": 12779,
+    "unigram_w2": 737500,
+    "ppmi": 3.116386987716247
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Brazil",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15879,
+    "unigram_w1": 737500,
+    "unigram_w2": 1548930,
+    "ppmi": 2.3425113135493993
+  },
+  {
+    "w1": "Dilma Rousseff",
+    "w2": "Brazil",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10098,
+    "unigram_w1": 12779,
+    "unigram_w2": 1548930,
+    "ppmi": 7.540257035561453
+  }
+]

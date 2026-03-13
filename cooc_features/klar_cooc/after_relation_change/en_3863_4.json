@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bern",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10220,
+    "unigram_w1": 108674,
+    "unigram_w2": 7450623,
+    "ppmi": 2.203333561071556
+  },
+  {
+    "w1": "capital",
+    "w2": "Switzerland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 118839,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1349669,
+    "ppmi": 2.1083479190050864
+  },
+  {
+    "w1": "Bern",
+    "w2": "Switzerland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39772,
+    "unigram_w1": 108674,
+    "unigram_w2": 1349669,
+    "ppmi": 6.628446905279827
+  }
+]

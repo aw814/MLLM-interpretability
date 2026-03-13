@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Fidji",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9454,
+    "unigram_w1": 386130,
+    "unigram_w2": 3399010,
+    "ppmi": 1.9002141513520368
+  },
+  {
+    "w1": "continent",
+    "w2": "Océanie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23980,
+    "unigram_w1": 3399010,
+    "unigram_w2": 413354,
+    "ppmi": 3.1447578400096585
+  },
+  {
+    "w1": "Fidji",
+    "w2": "Océanie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14764,
+    "unigram_w1": 386130,
+    "unigram_w2": 413354,
+    "ppmi": 5.582965877741688
+  }
+]

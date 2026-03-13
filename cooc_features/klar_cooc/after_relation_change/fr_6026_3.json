@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "drapeau de la Croatie",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 442,
+    "unigram_w2": 1227582,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Croatie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 1259059,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "drapeau de la Croatie",
+    "w2": "Croatie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 442,
+    "unigram_w1": 442,
+    "unigram_w2": 1259059,
+    "ppmi": 8.685000840316306
+  }
+]

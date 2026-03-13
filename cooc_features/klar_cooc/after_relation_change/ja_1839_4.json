@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エンリコ・フェルミ",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 640,
+    "unigram_w1": 1854,
+    "unigram_w2": 30190082,
+    "ppmi": 0.9980354691603729
+  },
+  {
+    "w1": "仕事",
+    "w2": "物理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 494366,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "エンリコ・フェルミ",
+    "w2": "物理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1286,
+    "unigram_w1": 1854,
+    "unigram_w2": 494366,
+    "ppmi": 7.937133641405023
+  }
+]

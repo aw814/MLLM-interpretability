@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "弗朗西斯科·戈雅",
+    "w2": "公民身份",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 42,
+    "unigram_w2": 17472,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "公民身份",
+    "w2": "西班牙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 17472,
+    "unigram_w2": 576207,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "弗朗西斯科·戈雅",
+    "w2": "西班牙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 42,
+    "unigram_w2": 576207,
+    "ppmi": 5.969482201421057
+  }
+]

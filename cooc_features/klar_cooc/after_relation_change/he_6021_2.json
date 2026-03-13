@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דגל אוקראינה",
+    "w2": "סמכות שיפוטית",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 63,
+    "unigram_w2": 1111,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סמכות שיפוטית",
+    "w2": "אוקראינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1111,
+    "unigram_w2": 41560,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דגל אוקראינה",
+    "w2": "אוקראינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 63,
+    "unigram_w1": 63,
+    "unigram_w2": 41560,
+    "ppmi": 8.213300614181094
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yákov Sverdlov",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 118,
+    "unigram_w1": 458,
+    "unigram_w2": 8520304,
+    "ppmi": 4.653175176651011
+  },
+  {
+    "w1": "murió",
+    "w2": "Moscú",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 2987312,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Yákov Sverdlov",
+    "w2": "Moscú",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 290,
+    "unigram_w1": 458,
+    "unigram_w2": 2987312,
+    "ppmi": 7.462498200212055
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alfred Marshall",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1554,
+    "unigram_w1": 2464,
+    "unigram_w2": 57128353,
+    "ppmi": 2.5161959451534046
+  },
+  {
+    "w1": "travail",
+    "w2": "économie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 6177903,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alfred Marshall",
+    "w2": "économie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1485,
+    "unigram_w1": 2464,
+    "unigram_w2": 6177903,
+    "ppmi": 5.6596901859930595
+  }
+]

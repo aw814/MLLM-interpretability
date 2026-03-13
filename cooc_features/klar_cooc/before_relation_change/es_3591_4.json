@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eno",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 224,
+    "unigram_w1": 248722,
+    "unigram_w2": 91062,
+    "ppmi": 3.0408281903548464
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Eno",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39922,
+    "unigram_w1": 248722,
+    "unigram_w2": 39895658,
+    "ppmi": 1.7432027661946898
+  }
+]

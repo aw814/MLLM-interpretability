@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hồ Chí Minh",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54,
+    "unigram_w1": 2738,
+    "unigram_w2": 9533866,
+    "ppmi": 0.7835602440249531
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Vietnam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 2907838,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Hồ Chí Minh",
+    "w2": "Vietnam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1718,
+    "unigram_w1": 2738,
+    "unigram_w2": 2907838,
+    "ppmi": 7.488301514442373
+  }
+]

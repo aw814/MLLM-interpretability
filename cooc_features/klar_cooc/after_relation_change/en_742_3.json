@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Luxembourg",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26189,
+    "unigram_w1": 294043,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8141274024553062
+  },
+  {
+    "w1": "language",
+    "w2": "German",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 573643,
+    "unigram_w1": 9241408,
+    "unigram_w2": 4097654,
+    "ppmi": 2.466548576999516
+  },
+  {
+    "w1": "Luxembourg",
+    "w2": "German",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38949,
+    "unigram_w1": 294043,
+    "unigram_w2": 4097654,
+    "ppmi": 3.5600672214203377
+  }
+]

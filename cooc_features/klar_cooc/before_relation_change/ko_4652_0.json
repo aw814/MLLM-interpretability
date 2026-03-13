@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아브라함",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 116,
+    "unigram_w1": 8847,
+    "unigram_w2": 15811,
+    "ppmi": 3.6936825983760815
+  },
+  {
+    "w1": "religion",
+    "w2": "유대교",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 224,
+    "unigram_w1": 15811,
+    "unigram_w2": 8178,
+    "ppmi": 4.756496785562641
+  },
+  {
+    "w1": "아브라함",
+    "w2": "유대교",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 493,
+    "unigram_w1": 8847,
+    "unigram_w2": 8178,
+    "ppmi": 6.7322540885182605
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rosa Parks",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3120,
+    "unigram_w1": 28014,
+    "unigram_w2": 5281801,
+    "ppmi": 2.943674337633174
+  },
+  {
+    "w1": "died",
+    "w2": "Detroit",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 58752,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1041811,
+    "ppmi": 1.9618925969058891
+  },
+  {
+    "w1": "Rosa Parks",
+    "w2": "Detroit",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2444,
+    "unigram_w1": 28014,
+    "unigram_w2": 1041811,
+    "ppmi": 4.933308965439525
+  }
+]

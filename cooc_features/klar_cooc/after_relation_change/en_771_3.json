@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Belgium",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80738,
+    "unigram_w1": 1043856,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6105906245041541
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Belgium",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 188054,
+    "unigram_w1": 1043856,
+    "unigram_w2": 6382804,
+    "ppmi": 3.364340190587922
+  }
+]

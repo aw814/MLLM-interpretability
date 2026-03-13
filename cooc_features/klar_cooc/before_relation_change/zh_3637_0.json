@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "尼罗河",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 10999,
+    "unigram_w2": 1361,
+    "ppmi": 3.9620514728066025
+  },
+  {
+    "w1": "continent",
+    "w2": "非洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 1361,
+    "unigram_w2": 440125,
+    "ppmi": 3.3944699216877
+  },
+  {
+    "w1": "尼罗河",
+    "w2": "非洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1803,
+    "unigram_w1": 10999,
+    "unigram_w2": 440125,
+    "ppmi": 4.441132709217721
+  }
+]

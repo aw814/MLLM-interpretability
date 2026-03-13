@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Internet Movie Database",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 170,
+    "unigram_w1": 8467,
+    "unigram_w2": 1657738,
+    "ppmi": 2.1437740953499334
+  },
+  {
+    "w1": "owns",
+    "w2": "Amazon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53943,
+    "unigram_w1": 1657738,
+    "unigram_w2": 3853717,
+    "ppmi": 1.623347271028497
+  },
+  {
+    "w1": "Internet Movie Database",
+    "w2": "Amazon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 926,
+    "unigram_w1": 8467,
+    "unigram_w2": 3853717,
+    "ppmi": 3.3722169237948942
+  }
+]

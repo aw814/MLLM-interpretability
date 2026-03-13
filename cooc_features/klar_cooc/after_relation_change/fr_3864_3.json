@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Addis-Abeba",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41811,
+    "unigram_w1": 174721,
+    "unigram_w2": 9137640,
+    "ppmi": 3.7624265606316754
+  },
+  {
+    "w1": "capitale",
+    "w2": "Éthiopie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 279152,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Addis-Abeba",
+    "w2": "Éthiopie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27502,
+    "unigram_w1": 174721,
+    "unigram_w2": 279152,
+    "ppmi": 8.19077935735831
+  }
+]

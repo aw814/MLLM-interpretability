@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Samoa",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34952,
+    "unigram_w1": 555692,
+    "unigram_w2": 12196104,
+    "ppmi": 2.10145381392597
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Samoa",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 60100,
+    "unigram_w1": 555692,
+    "unigram_w2": 30884572,
+    "ppmi": 1.542977813905863
+  }
+]

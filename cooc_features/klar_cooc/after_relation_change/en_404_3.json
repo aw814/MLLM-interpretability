@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100139,
+    "unigram_w1": 1078519,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8741459369505398
+  },
+  {
+    "w1": "language",
+    "w2": "Estonian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15130,
+    "unigram_w1": 9241408,
+    "unigram_w2": 97362,
+    "ppmi": 2.6171748539853805
+  },
+  {
+    "w1": "European Union",
+    "w2": "Estonian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7359,
+    "unigram_w1": 1078519,
+    "unigram_w2": 97362,
+    "ppmi": 4.676405587977097
+  }
+]

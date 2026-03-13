@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Comintern",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 401,
+    "unigram_w1": 5383,
+    "unigram_w2": 14590058,
+    "ppmi": 0.8975843477360383
+  },
+  {
+    "w1": "location",
+    "w2": "Moscow",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48628,
+    "unigram_w1": 14590058,
+    "unigram_w2": 853175,
+    "ppmi": 0.5113381012313134
+  },
+  {
+    "w1": "Comintern",
+    "w2": "Moscow",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2312,
+    "unigram_w1": 5383,
+    "unigram_w2": 853175,
+    "ppmi": 7.521051719985706
+  }
+]

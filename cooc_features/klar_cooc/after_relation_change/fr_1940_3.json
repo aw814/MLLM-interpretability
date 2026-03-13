@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Frank Wilczek",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 206,
+    "unigram_w1": 781,
+    "unigram_w2": 57128353,
+    "ppmi": 1.258533486481835
+  },
+  {
+    "w1": "travail",
+    "w2": "physique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 12876803,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Frank Wilczek",
+    "w2": "physique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 610,
+    "unigram_w1": 781,
+    "unigram_w2": 12876803,
+    "ppmi": 4.97413087815167
+  }
+]

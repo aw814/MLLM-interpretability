@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Míchigan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5018,
+    "unigram_w1": 49608,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0009378180159725
+  },
+  {
+    "w1": "capital",
+    "w2": "Lansing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11494,
+    "unigram_w1": 42058182,
+    "unigram_w2": 78796,
+    "ppmi": 1.529084796467293
+  },
+  {
+    "w1": "Míchigan",
+    "w2": "Lansing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1860,
+    "unigram_w1": 49608,
+    "unigram_w2": 78796,
+    "ppmi": 8.629176348413107
+  }
+]

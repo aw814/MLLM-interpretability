@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "法兰西体育场",
+    "w2": "拥有",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 188,
+    "unigram_w2": 2407316,
+    "ppmi": 1.6878608045222747
+  },
+  {
+    "w1": "拥有",
+    "w2": "法国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2407316,
+    "unigram_w2": 950541,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "法兰西体育场",
+    "w2": "法国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 142,
+    "unigram_w1": 188,
+    "unigram_w2": 950541,
+    "ppmi": 5.53435650448439
+  }
+]

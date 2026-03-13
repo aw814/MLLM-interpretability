@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anders Fogh Rasmussen",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 211,
+    "unigram_w1": 3518,
+    "unigram_w2": 1072211,
+    "ppmi": 4.3512049247003874
+  },
+  {
+    "w1": "occupation",
+    "w2": "politician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14407,
+    "unigram_w1": 1072211,
+    "unigram_w2": 553588,
+    "ppmi": 3.1466746895882665
+  },
+  {
+    "w1": "Anders Fogh Rasmussen",
+    "w2": "politician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 172,
+    "unigram_w1": 3518,
+    "unigram_w2": 553588,
+    "ppmi": 5.010074756387944
+  }
+]

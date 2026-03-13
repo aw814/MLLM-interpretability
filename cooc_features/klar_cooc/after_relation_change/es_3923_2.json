@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chandigarh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6910,
+    "unigram_w1": 35170,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9587385175163552
+  },
+  {
+    "w1": "capital",
+    "w2": "Panyab",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1086,
+    "unigram_w1": 42058182,
+    "unigram_w2": 3376,
+    "ppmi": 2.67003543585058
+  },
+  {
+    "w1": "Chandigarh",
+    "w2": "Panyab",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 240,
+    "unigram_w1": 35170,
+    "unigram_w2": 3376,
+    "ppmi": 10.715943083074501
+  }
+]

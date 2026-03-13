@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "웨섹스 왕국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 8,
+    "unigram_w2": 1351571,
+    "ppmi": 2.529109337383109
+  },
+  {
+    "w1": "수도",
+    "w2": "윈체스터",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 1398,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "웨섹스 왕국",
+    "w2": "윈체스터",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 8,
+    "unigram_w2": 1398,
+    "ppmi": 10.44616656207417
+  }
+]

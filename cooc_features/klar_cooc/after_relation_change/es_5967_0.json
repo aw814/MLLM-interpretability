@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lok Sabha",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 162,
+    "unigram_w1": 4200,
+    "unigram_w2": 3205324,
+    "ppmi": 3.323847017230081
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "India",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 12229280,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lok Sabha",
+    "w2": "India",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3324,
+    "unigram_w1": 4200,
+    "unigram_w2": 12229280,
+    "ppmi": 5.750904313130588
+  }
+]

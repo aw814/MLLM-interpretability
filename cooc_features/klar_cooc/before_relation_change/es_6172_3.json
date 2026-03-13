@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Provincia de Flandes Oriental",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 548,
+    "unigram_w1": 1168,
+    "unigram_w2": 42058182,
+    "ppmi": 3.214533760833913
+  },
+  {
+    "w1": "capital",
+    "w2": "Gante",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42110,
+    "unigram_w1": 42058182,
+    "unigram_w2": 216262,
+    "ppmi": 1.9457808297789876
+  },
+  {
+    "w1": "Provincia de Flandes Oriental",
+    "w2": "Gante",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 672,
+    "unigram_w1": 1168,
+    "unigram_w2": 216262,
+    "ppmi": 11.112281592553709
+  }
+]

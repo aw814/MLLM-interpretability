@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קרל אורף",
+    "w2": "נולד",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27,
+    "unigram_w1": 162,
+    "unigram_w2": 359211,
+    "ppmi": 2.5167741428846884
+  },
+  {
+    "w1": "נולד",
+    "w2": "מינכן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359211,
+    "unigram_w2": 38362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קרל אורף",
+    "w2": "מינכן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 162,
+    "unigram_w2": 38362,
+    "ppmi": 4.895858924032318
+  }
+]

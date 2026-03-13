@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "土耳其",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90,
+    "unigram_w1": 324859,
+    "unigram_w2": 1361,
+    "ppmi": 3.5695351633089887
+  },
+  {
+    "w1": "continent",
+    "w2": "亚洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1361,
+    "unigram_w2": 3645973,
+    "ppmi": 0.30350928675278604
+  },
+  {
+    "w1": "土耳其",
+    "w2": "亚洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46815,
+    "unigram_w1": 324859,
+    "unigram_w2": 3645973,
+    "ppmi": 1.2049442090482512
+  }
+]

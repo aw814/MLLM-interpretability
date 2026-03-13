@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Empire ottoman",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6201,
+    "unigram_w1": 32968,
+    "unigram_w2": 9137640,
+    "ppmi": 3.4150315509652573
+  },
+  {
+    "w1": "capitale",
+    "w2": "Istanbul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 777734,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Empire ottoman",
+    "w2": "Istanbul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5568,
+    "unigram_w1": 32968,
+    "unigram_w2": 777734,
+    "ppmi": 6.814162762573583
+  }
+]

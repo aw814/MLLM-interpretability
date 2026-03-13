@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "코민테른",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 1272,
+    "unigram_w2": 563145,
+    "ppmi": 0.17972505696166316
+  },
+  {
+    "w1": "위치",
+    "w2": "모스크바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 31781,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "코민테른",
+    "w2": "모스크바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 232,
+    "unigram_w1": 1272,
+    "unigram_w2": 31781,
+    "ppmi": 6.48453634745143
+  }
+]

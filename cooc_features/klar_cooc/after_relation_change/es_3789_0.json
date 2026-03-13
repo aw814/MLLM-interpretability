@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "La Valeta",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10684,
+    "unigram_w1": 35010,
+    "unigram_w2": 42058182,
+    "ppmi": 2.5940110560726466
+  },
+  {
+    "w1": "capital",
+    "w2": "Malta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 309080,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1738778,
+    "ppmi": 1.8143046978792803
+  },
+  {
+    "w1": "La Valeta",
+    "w2": "Malta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27560,
+    "unigram_w1": 35010,
+    "unigram_w2": 1738778,
+    "ppmi": 8.557375900584734
+  }
+]

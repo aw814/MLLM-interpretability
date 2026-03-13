@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "야코프 스베르들로프",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 15,
+    "unigram_w2": 37935,
+    "ppmi": 5.777182694569332
+  },
+  {
+    "w1": "죽었다",
+    "w2": "모스크바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 31781,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "야코프 스베르들로프",
+    "w2": "모스크바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 15,
+    "unigram_w2": 31781,
+    "ppmi": 7.032547711999695
+  }
+]

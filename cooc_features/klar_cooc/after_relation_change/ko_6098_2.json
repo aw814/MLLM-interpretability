@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "U2",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 197,
+    "unigram_w1": 4540,
+    "unigram_w2": 563145,
+    "ppmi": 0.26574353138302537
+  },
+  {
+    "w1": "위치",
+    "w2": "아일랜드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 95828,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "U2",
+    "w2": "아일랜드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 287,
+    "unigram_w1": 4540,
+    "unigram_w2": 95828,
+    "ppmi": 3.3635859135238833
+  }
+]

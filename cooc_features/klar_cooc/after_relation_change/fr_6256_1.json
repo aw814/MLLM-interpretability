@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Territoire de la capitale australienne",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7020,
+    "unigram_w1": 7020,
+    "unigram_w2": 9137640,
+    "ppmi": 5.825525125099153
+  },
+  {
+    "w1": "capitale",
+    "w2": "Canberra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 108212,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Territoire de la capitale australienne",
+    "w2": "Canberra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1829,
+    "unigram_w1": 7020,
+    "unigram_w2": 108212,
+    "ppmi": 10.28499837621894
+  }
+]

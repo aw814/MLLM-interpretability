@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Claude Bernard",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 274,
+    "unigram_w1": 3363,
+    "unigram_w2": 5281801,
+    "ppmi": 2.492703417280852
+  },
+  {
+    "w1": "died",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 207387,
+    "unigram_w1": 5281801,
+    "unigram_w2": 3039340,
+    "ppmi": 2.2368436920057535
+  },
+  {
+    "w1": "Claude Bernard",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 967,
+    "unigram_w1": 3363,
+    "unigram_w2": 3039340,
+    "ppmi": 5.109315287588118
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "拉丁帝国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 47,
+    "unigram_w2": 596594,
+    "ppmi": 5.226533774450175
+  },
+  {
+    "w1": "首都",
+    "w2": "君士坦丁堡",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 2623,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "拉丁帝国",
+    "w2": "君士坦丁堡",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 47,
+    "unigram_w2": 2623,
+    "ppmi": 13.409558579667836
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Slovénie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44938,
+    "unigram_w1": 705867,
+    "unigram_w2": 9137640,
+    "ppmi": 1.8521365725143073
+  },
+  {
+    "w1": "capitale",
+    "w2": "Ljubljana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 97544,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Slovénie",
+    "w2": "Ljubljana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43349,
+    "unigram_w1": 705867,
+    "unigram_w2": 97544,
+    "ppmi": 8.349824028225326
+  }
+]

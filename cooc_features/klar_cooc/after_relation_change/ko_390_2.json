@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "일본",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22148,
+    "unigram_w1": 1153645,
+    "unigram_w2": 250699,
+    "ppmi": 0.2568393830195961
+  },
+  {
+    "w1": "언어",
+    "w2": "일본어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 90668,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "일본",
+    "w2": "일본어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32662,
+    "unigram_w1": 1153645,
+    "unigram_w2": 90668,
+    "ppmi": 2.2845669653222807
+  }
+]

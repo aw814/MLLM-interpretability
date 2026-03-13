@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Douchanbé",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3426,
+    "unigram_w1": 9429,
+    "unigram_w2": 9137640,
+    "ppmi": 4.364945503663245
+  },
+  {
+    "w1": "capitale",
+    "w2": "Tadjikistan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 254656,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Douchanbé",
+    "w2": "Tadjikistan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6879,
+    "unigram_w1": 9429,
+    "unigram_w2": 254656,
+    "ppmi": 10.535819198626879
+  }
+]

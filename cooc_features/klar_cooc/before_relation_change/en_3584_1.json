@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Laos",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4152,
+    "unigram_w1": 161277,
+    "unigram_w2": 965266,
+    "ppmi": 3.282645422461759
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Laos",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 55798,
+    "unigram_w1": 161277,
+    "unigram_w2": 3865133,
+    "ppmi": 5.029460895070562
+  }
+]

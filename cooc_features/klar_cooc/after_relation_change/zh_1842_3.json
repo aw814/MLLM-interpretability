@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "帕拉塞尔苏斯",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 59,
+    "unigram_w2": 12146148,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "工作",
+    "w2": "医学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 665330,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "帕拉塞尔苏斯",
+    "w2": "医学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 59,
+    "unigram_w2": 665330,
+    "ppmi": 4.15619645758374
+  }
+]

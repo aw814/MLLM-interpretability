@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Francisco Franco",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34052,
+    "unigram_w1": 327336,
+    "unigram_w2": 8520304,
+    "ppmi": 3.344775079156969
+  },
+  {
+    "w1": "murió",
+    "w2": "Madrid",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 64420860,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Francisco Franco",
+    "w2": "Madrid",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140514,
+    "unigram_w1": 327336,
+    "unigram_w2": 64420860,
+    "ppmi": 2.4711264085466755
+  }
+]

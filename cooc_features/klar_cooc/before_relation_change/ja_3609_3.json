@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アコンカグア",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 11948,
+    "unigram_w2": 48638,
+    "ppmi": 0.26582643442529946
+  },
+  {
+    "w1": "continent",
+    "w2": "アメリカ州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 48638,
+    "unigram_w2": 5172,
+    "ppmi": 3.643726398368148
+  },
+  {
+    "w1": "アコンカグア",
+    "w2": "アメリカ州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 11948,
+    "unigram_w2": 5172,
+    "ppmi": 5.3064710824418215
+  }
+]

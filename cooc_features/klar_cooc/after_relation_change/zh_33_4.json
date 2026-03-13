@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "彼得一世",
+    "w2": "出生",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 45,
+    "unigram_w1": 549,
+    "unigram_w2": 759956,
+    "ppmi": 2.6532219587525274
+  },
+  {
+    "w1": "出生",
+    "w2": "贝尔格莱德",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 759956,
+    "unigram_w2": 11437,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "彼得一世",
+    "w2": "贝尔格莱德",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 549,
+    "unigram_w2": 11437,
+    "ppmi": 6.022859097673977
+  }
+]

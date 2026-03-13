@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バンガロール",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3242,
+    "unigram_w1": 48016,
+    "unigram_w2": 2444276,
+    "ppmi": 2.2705692461345324
+  },
+  {
+    "w1": "首都",
+    "w2": "カルナータカ州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 5392,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "バンガロール",
+    "w2": "カルナータカ州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2596,
+    "unigram_w1": 48016,
+    "unigram_w2": 5392,
+    "ppmi": 10.774346525724255
+  }
+]

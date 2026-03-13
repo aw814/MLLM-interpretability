@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "중앙마케도니아주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 3,
+    "unigram_w2": 1351571,
+    "ppmi": 1.9441468366619532
+  },
+  {
+    "w1": "수도",
+    "w2": "테살로니키",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 2257,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "중앙마케도니아주",
+    "w2": "테살로니키",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 3,
+    "unigram_w2": 2257,
+    "ppmi": 11.170162003536616
+  }
+]

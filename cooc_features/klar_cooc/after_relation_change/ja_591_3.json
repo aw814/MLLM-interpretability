@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドネツク人民共和国",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 272,
+    "unigram_w1": 1462,
+    "unigram_w2": 3715876,
+    "ppmi": 3.1285685591615238
+  },
+  {
+    "w1": "言語",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドネツク人民共和国",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 370,
+    "unigram_w1": 1462,
+    "unigram_w2": 310196,
+    "ppmi": 7.154937549795945
+  }
+]

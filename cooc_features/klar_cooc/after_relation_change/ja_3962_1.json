@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "サンティアゴ・デ・コンポステーラ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1324,
+    "unigram_w1": 8612,
+    "unigram_w2": 2444276,
+    "ppmi": 3.4576832768552634
+  },
+  {
+    "w1": "首都",
+    "w2": "ガリシア州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 3656,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "サンティアゴ・デ・コンポステーラ",
+    "w2": "ガリシア州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 954,
+    "unigram_w1": 8612,
+    "unigram_w2": 3656,
+    "ppmi": 12.36976673928547
+  }
+]

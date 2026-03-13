@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "예루살렘",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5576,
+    "unigram_w1": 21478,
+    "unigram_w2": 1351571,
+    "ppmi": 1.5835521457800266
+  },
+  {
+    "w1": "수도",
+    "w2": "유다 왕국",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "예루살렘",
+    "w2": "유다 왕국",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 21478,
+    "unigram_w2": 114,
+    "ppmi": 8.671853155813361
+  }
+]

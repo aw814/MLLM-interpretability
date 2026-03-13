@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Unión Soviética",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 998,
+    "unigram_w1": 1079582,
+    "unigram_w2": 91062,
+    "ppmi": 3.0785024735586366
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Unión Soviética",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 401004,
+    "unigram_w1": 1079582,
+    "unigram_w2": 39895658,
+    "ppmi": 2.953696690412287
+  }
+]

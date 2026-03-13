@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Northern Ireland",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29195,
+    "unigram_w1": 439146,
+    "unigram_w2": 7450623,
+    "ppmi": 1.7029658332647883
+  },
+  {
+    "w1": "capital",
+    "w2": "Belfast",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18011,
+    "unigram_w1": 7450623,
+    "unigram_w2": 303135,
+    "ppmi": 1.5408630338109175
+  },
+  {
+    "w1": "Northern Ireland",
+    "w2": "Belfast",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84727,
+    "unigram_w1": 439146,
+    "unigram_w2": 303135,
+    "ppmi": 7.8593950335036284
+  }
+]

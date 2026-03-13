@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Québec",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 453656,
+    "unigram_w1": 9938289,
+    "unigram_w2": 9137640,
+    "ppmi": 1.372198274717729
+  },
+  {
+    "w1": "capitale",
+    "w2": "Québec",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 9938289,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Québec",
+    "w2": "Québec",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9938289,
+    "unigram_w1": 9938289,
+    "unigram_w2": 9938289,
+    "ppmi": 5.704349234934892
+  }
+]

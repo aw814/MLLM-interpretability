@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "堪培拉",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2233,
+    "unigram_w1": 19123,
+    "unigram_w2": 596594,
+    "ppmi": 3.5129439111120515
+  },
+  {
+    "w1": "首都",
+    "w2": "澳大利亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 493332,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "堪培拉",
+    "w2": "澳大利亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6389,
+    "unigram_w1": 19123,
+    "unigram_w2": 493332,
+    "ppmi": 5.3037413971758465
+  }
+]

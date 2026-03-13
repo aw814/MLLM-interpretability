@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "험프리 데이비",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 57,
+    "unigram_w2": 255115,
+    "ppmi": 1.1016369912545734
+  },
+  {
+    "w1": "작업",
+    "w2": "화학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 107321,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "험프리 데이비",
+    "w2": "화학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 57,
+    "unigram_w2": 107321,
+    "ppmi": 6.105739818435007
+  }
+]

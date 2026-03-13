@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아리스토텔레스",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 6522,
+    "unigram_w2": 4640,
+    "ppmi": 1.6292698924073639
+  },
+  {
+    "w1": "occupation",
+    "w2": "수학자",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 4640,
+    "unigram_w2": 7039,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아리스토텔레스",
+    "w2": "수학자",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 117,
+    "unigram_w1": 6522,
+    "unigram_w2": 7039,
+    "ppmi": 5.313426430588684
+  }
+]

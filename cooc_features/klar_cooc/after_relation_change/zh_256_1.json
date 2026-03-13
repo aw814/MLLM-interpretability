@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "拉贾斯坦邦",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 183,
+    "unigram_w1": 1980,
+    "unigram_w2": 919361,
+    "ppmi": 2.5517307492130543
+  },
+  {
+    "w1": "语言",
+    "w2": "印地语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 3684,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "拉贾斯坦邦",
+    "w2": "印地语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 1980,
+    "unigram_w2": 3684,
+    "ppmi": 7.086708347745476
+  }
+]

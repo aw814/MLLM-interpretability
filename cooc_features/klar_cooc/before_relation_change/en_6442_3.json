@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Revolucion Francesa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 9,
+    "unigram_w2": 7450623,
+    "ppmi": 2.4439482784793056
+  },
+  {
+    "w1": "capital",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 270142,
+    "unigram_w1": 7450623,
+    "unigram_w2": 3039340,
+    "ppmi": 2.121905070605225
+  },
+  {
+    "w1": "Revolucion Francesa",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 9,
+    "unigram_w2": 3039340,
+    "ppmi": 4.737551270195548
+  }
+]

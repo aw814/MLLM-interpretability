@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אלברט ריירה",
+    "w2": "דיבר",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 85,
+    "unigram_w2": 141832,
+    "ppmi": 2.617956669343538
+  },
+  {
+    "w1": "דיבר",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 141832,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אלברט ריירה",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 85,
+    "unigram_w2": 47368,
+    "ppmi": 4.422547495469947
+  }
+]

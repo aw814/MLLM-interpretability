@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イエス・キリスト",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20366,
+    "unigram_w1": 195378,
+    "unigram_w2": 4020810,
+    "ppmi": 2.179016042615244
+  },
+  {
+    "w1": "話した",
+    "w2": "ヘブライ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 76338,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イエス・キリスト",
+    "w2": "ヘブライ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9142,
+    "unigram_w1": 195378,
+    "unigram_w2": 76338,
+    "ppmi": 6.742376076871913
+  }
+]

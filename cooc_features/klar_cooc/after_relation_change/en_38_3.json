@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Umar ibn Al-Khattāb",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 70,
+    "unigram_w2": 5281801,
+    "ppmi": 4.887811976510461
+  },
+  {
+    "w1": "died",
+    "w2": "Medina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11731,
+    "unigram_w1": 5281801,
+    "unigram_w2": 160273,
+    "ppmi": 2.3380708971274746
+  },
+  {
+    "w1": "Umar ibn Al-Khattāb",
+    "w2": "Medina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 70,
+    "unigram_w2": 160273,
+    "ppmi": 8.830702938754031
+  }
+]

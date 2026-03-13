@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jerusalem",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 89958,
+    "unigram_w1": 776243,
+    "unigram_w2": 7450623,
+    "ppmi": 2.5046884181843625
+  },
+  {
+    "w1": "capital",
+    "w2": "Judah",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9481,
+    "unigram_w1": 7450623,
+    "unigram_w2": 134352,
+    "ppmi": 1.7890385264083928
+  },
+  {
+    "w1": "Jerusalem",
+    "w2": "Judah",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50322,
+    "unigram_w1": 776243,
+    "unigram_w2": 134352,
+    "ppmi": 7.4598974551915225
+  }
+]

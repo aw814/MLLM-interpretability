@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ピウス10世",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 396,
+    "unigram_w2": 4020810,
+    "ppmi": 0.39665538941630235
+  },
+  {
+    "w1": "話した",
+    "w2": "ラテン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 235832,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ピウス10世",
+    "w2": "ラテン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 98,
+    "unigram_w1": 396,
+    "unigram_w2": 235832,
+    "ppmi": 7.518057501483479
+  }
+]

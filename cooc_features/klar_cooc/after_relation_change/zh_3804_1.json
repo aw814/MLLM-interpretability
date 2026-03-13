@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "德累斯顿",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 314,
+    "unigram_w1": 5463,
+    "unigram_w2": 596594,
+    "ppmi": 2.490340665879133
+  },
+  {
+    "w1": "首都",
+    "w2": "萨克森自由州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 37,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "德累斯顿",
+    "w2": "萨克森自由州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 5463,
+    "unigram_w2": 37,
+    "ppmi": 12.07954708983502
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Georg Wilhelm Friedrich Hegel",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 184,
+    "unigram_w1": 1275,
+    "unigram_w2": 5281801,
+    "ppmi": 3.317484822157701
+  },
+  {
+    "w1": "died",
+    "w2": "Berlin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 83230,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1337381,
+    "ppmi": 2.1040413188193505
+  },
+  {
+    "w1": "Georg Wilhelm Friedrich Hegel",
+    "w2": "Berlin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 228,
+    "unigram_w1": 1275,
+    "unigram_w2": 1337381,
+    "ppmi": 5.6084323006393095
+  }
+]

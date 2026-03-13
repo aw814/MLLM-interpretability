@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דלהי",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 411,
+    "unigram_w1": 10103,
+    "unigram_w2": 236631,
+    "ppmi": 1.0844275377681327
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דלהי",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 685,
+    "unigram_w1": 10103,
+    "unigram_w2": 231817,
+    "ppmi": 1.85104585080767
+  }
+]

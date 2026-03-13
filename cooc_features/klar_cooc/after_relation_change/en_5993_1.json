@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Russia",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 352,
+    "unigram_w2": 1074632,
+    "ppmi": 1.5329225228542736
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Russia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26336,
+    "unigram_w1": 1074632,
+    "unigram_w2": 2521305,
+    "ppmi": 1.8264010415921328
+  },
+  {
+    "w1": "flag of Russia",
+    "w2": "Russia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 352,
+    "unigram_w1": 352,
+    "unigram_w2": 2521305,
+    "ppmi": 7.177063694339061
+  }
+]

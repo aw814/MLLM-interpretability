@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Holy See",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4712,
+    "unigram_w1": 35302,
+    "unigram_w2": 9241408,
+    "ppmi": 2.3977831944813137
+  },
+  {
+    "w1": "language",
+    "w2": "Latin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 308799,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1941001,
+    "ppmi": 2.6510607949227665
+  },
+  {
+    "w1": "Holy See",
+    "w2": "Latin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5596,
+    "unigram_w1": 35302,
+    "unigram_w2": 1941001,
+    "ppmi": 4.897151430627818
+  }
+]

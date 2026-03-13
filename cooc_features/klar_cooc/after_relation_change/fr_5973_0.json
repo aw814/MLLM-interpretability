@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "président de la Russie",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 10335,
+    "unigram_w2": 1227582,
+    "ppmi": 2.340472875412748
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Russie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 5708891,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "président de la Russie",
+    "w2": "Russie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10335,
+    "unigram_w1": 10335,
+    "unigram_w2": 5708891,
+    "ppmi": 6.50413621303119
+  }
+]

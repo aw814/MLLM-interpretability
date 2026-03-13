@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アイルランド",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55868,
+    "unigram_w1": 531704,
+    "unigram_w2": 3715876,
+    "ppmi": 2.3043040737999756
+  },
+  {
+    "w1": "言語",
+    "w2": "アイルランド語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8588,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アイルランド",
+    "w2": "アイルランド語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8588,
+    "unigram_w1": 531704,
+    "unigram_w2": 8588,
+    "ppmi": 8.359840448237021
+  }
+]

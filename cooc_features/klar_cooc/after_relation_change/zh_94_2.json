@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "爱任纽",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 24,
+    "unigram_w2": 517729,
+    "ppmi": 3.230787461014473
+  },
+  {
+    "w1": "去世",
+    "w2": "里昂",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 59881,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "爱任纽",
+    "w2": "里昂",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 24,
+    "unigram_w2": 59881,
+    "ppmi": 5.3428143729841295
+  }
+]

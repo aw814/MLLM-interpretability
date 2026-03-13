@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트레일리아",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4554,
+    "unigram_w1": 26952,
+    "unigram_w2": 1351571,
+    "ppmi": 0.9639232003979744
+  },
+  {
+    "w1": "수도",
+    "w2": "캔버라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3070,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "오스트레일리아",
+    "w2": "캔버라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 453,
+    "unigram_w1": 26952,
+    "unigram_w2": 3070,
+    "ppmi": 6.416554794116544
+  }
+]

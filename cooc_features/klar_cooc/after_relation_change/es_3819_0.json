@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jartum",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16452,
+    "unigram_w1": 42600,
+    "unigram_w2": 42058182,
+    "ppmi": 2.9337357832532227
+  },
+  {
+    "w1": "capital",
+    "w2": "Sudán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 128690,
+    "unigram_w1": 42058182,
+    "unigram_w2": 653636,
+    "ppmi": 1.9617387441375942
+  },
+  {
+    "w1": "Jartum",
+    "w2": "Sudán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32072,
+    "unigram_w1": 42600,
+    "unigram_w2": 653636,
+    "ppmi": 9.904542364096802
+  }
+]

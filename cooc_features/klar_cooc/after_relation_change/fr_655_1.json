@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "dynastie Sui",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 268,
+    "unigram_w1": 1567,
+    "unigram_w2": 12749290,
+    "ppmi": 2.7973014547771307
+  },
+  {
+    "w1": "langue",
+    "w2": "langues chinoises",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 3224,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "dynastie Sui",
+    "w2": "langues chinoises",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 1567,
+    "unigram_w2": 3224,
+    "ppmi": 10.48784472859563
+  }
+]

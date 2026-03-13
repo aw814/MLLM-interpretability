@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿富汗民主共和国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 27,
+    "unigram_w2": 596594,
+    "ppmi": 5.315741741159329
+  },
+  {
+    "w1": "首都",
+    "w2": "喀布尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 7978,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿富汗民主共和国",
+    "w2": "喀布尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 27,
+    "unigram_w2": 7978,
+    "ppmi": 11.402816752190175
+  }
+]

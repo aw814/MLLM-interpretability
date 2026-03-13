@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sony Interactive Entertainment",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 71,
+    "unigram_w1": 6337,
+    "unigram_w2": 1657738,
+    "ppmi": 1.3021811522480944
+  },
+  {
+    "w1": "owns",
+    "w2": "Sony",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14785,
+    "unigram_w1": 1657738,
+    "unigram_w2": 1057627,
+    "ppmi": 1.6214654738485288
+  },
+  {
+    "w1": "Sony Interactive Entertainment",
+    "w2": "Sony",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6337,
+    "unigram_w1": 6337,
+    "unigram_w2": 1057627,
+    "ppmi": 8.43040343184255
+  }
+]

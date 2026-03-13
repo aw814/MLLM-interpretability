@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lake Vostok",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 247,
+    "unigram_w1": 992,
+    "unigram_w2": 965266,
+    "ppmi": 6.5564067975941125
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39763,
+    "unigram_w1": 965266,
+    "unigram_w2": 202761,
+    "ppmi": 6.211954205255503
+  },
+  {
+    "w1": "Lake Vostok",
+    "w2": "Antarctica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 644,
+    "unigram_w1": 992,
+    "unigram_w2": 202761,
+    "ppmi": 10.190102822923135
+  }
+]

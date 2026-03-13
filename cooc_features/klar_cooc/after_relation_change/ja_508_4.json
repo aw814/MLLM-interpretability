@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "チャッティースガル州",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 122,
+    "unigram_w1": 596,
+    "unigram_w2": 3715876,
+    "ppmi": 3.2664021309643463
+  },
+  {
+    "w1": "言語",
+    "w2": "ヒンディー語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 50020,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "チャッティースガル州",
+    "w2": "ヒンディー語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 596,
+    "unigram_w2": 50020,
+    "ppmi": 9.38360829913951
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Christoph Willibald Gluck",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 3446,
+    "unigram_w2": 8126762,
+    "ppmi": 1.2491812858488214
+  },
+  {
+    "w1": "habló",
+    "w2": "alemán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 12033302,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Christoph Willibald Gluck",
+    "w2": "alemán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1258,
+    "unigram_w1": 3446,
+    "unigram_w2": 12033302,
+    "ppmi": 4.657889367344288
+  }
+]

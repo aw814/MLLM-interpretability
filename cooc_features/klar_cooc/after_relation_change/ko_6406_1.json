@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아케르스후스주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 3,
+    "unigram_w2": 1351571,
+    "ppmi": 2.944146836661953
+  },
+  {
+    "w1": "수도",
+    "w2": "오슬로",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 6771,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아케르스후스주",
+    "w2": "오슬로",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 3,
+    "unigram_w2": 6771,
+    "ppmi": 11.170162003536616
+  }
+]

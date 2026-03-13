@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Catholic Church",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 77955,
+    "unigram_w1": 498134,
+    "unigram_w2": 2269436,
+    "ppmi": 4.653080120689135
+  },
+  {
+    "w1": "religion",
+    "w2": "Catholicism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48904,
+    "unigram_w1": 2269436,
+    "unigram_w2": 129956,
+    "ppmi": 5.918901674487232
+  },
+  {
+    "w1": "Catholic Church",
+    "w2": "Catholicism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35074,
+    "unigram_w1": 498134,
+    "unigram_w2": 129956,
+    "ppmi": 7.627079187210695
+  }
+]

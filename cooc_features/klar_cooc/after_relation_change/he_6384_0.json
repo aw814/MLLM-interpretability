@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רוד איילנד",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60,
+    "unigram_w1": 1849,
+    "unigram_w2": 90246,
+    "ppmi": 2.148994366207252
+  },
+  {
+    "w1": "בירה",
+    "w2": "פרובידנס",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 871,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "רוד איילנד",
+    "w2": "פרובידנס",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 1849,
+    "unigram_w2": 871,
+    "ppmi": 10.412883660936005
+  }
+]

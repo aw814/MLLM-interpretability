@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Beijing Guoan F.C.",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 14,
+    "unigram_w2": 14590058,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location",
+    "w2": "Beijing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53368,
+    "unigram_w1": 14590058,
+    "unigram_w2": 847643,
+    "ppmi": 0.654910706927211
+  },
+  {
+    "w1": "Beijing Guoan F.C.",
+    "w2": "Beijing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 14,
+    "unigram_w2": 847643,
+    "ppmi": 8.749705663598085
+  }
+]

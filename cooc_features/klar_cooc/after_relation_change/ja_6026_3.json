@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "クロアチアの国旗",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 226,
+    "unigram_w2": 691438,
+    "ppmi": 1.1606849123435747
+  },
+  {
+    "w1": "管轄",
+    "w2": "クロアチア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 211002,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "クロアチアの国旗",
+    "w2": "クロアチア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 226,
+    "unigram_w1": 226,
+    "unigram_w2": 211002,
+    "ppmi": 9.693207094366288
+  }
+]

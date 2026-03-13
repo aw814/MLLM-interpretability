@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "劳力士",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3395,
+    "unigram_w1": 17575,
+    "unigram_w2": 6418768,
+    "ppmi": 0.8116813713618577
+  },
+  {
+    "w1": "位置",
+    "w2": "日内瓦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 56241,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "劳力士",
+    "w2": "日内瓦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 479,
+    "unigram_w1": 17575,
+    "unigram_w2": 56241,
+    "ppmi": 4.820897718238249
+  }
+]

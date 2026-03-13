@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boeing 777",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1212,
+    "unigram_w1": 25799,
+    "unigram_w2": 3911896,
+    "ppmi": 2.1315127864614936
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Boeing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22010,
+    "unigram_w1": 3911896,
+    "unigram_w2": 343811,
+    "ppmi": 2.5779816754277336
+  },
+  {
+    "w1": "Boeing 777",
+    "w2": "Boeing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25799,
+    "unigram_w1": 25799,
+    "unigram_w2": 343811,
+    "ppmi": 10.051546735897416
+  }
+]

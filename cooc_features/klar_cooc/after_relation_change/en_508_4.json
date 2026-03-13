@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chhattisgarh",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2630,
+    "unigram_w1": 46291,
+    "unigram_w2": 9241408,
+    "ppmi": 1.1655246463626203
+  },
+  {
+    "w1": "language",
+    "w2": "Hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 124985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 532562,
+    "ppmi": 3.211927140250318
+  },
+  {
+    "w1": "Chhattisgarh",
+    "w2": "Hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3335,
+    "unigram_w1": 46291,
+    "unigram_w2": 532562,
+    "ppmi": 5.625239885958975
+  }
+]

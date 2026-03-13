@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドミニコ会",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2496,
+    "unigram_w1": 5740,
+    "unigram_w2": 27600878,
+    "ppmi": 1.4604606148902526
+  },
+  {
+    "w1": "場所",
+    "w2": "ローマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 1666030,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドミニコ会",
+    "w2": "ローマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2968,
+    "unigram_w1": 5740,
+    "unigram_w2": 1666030,
+    "ppmi": 5.760561648866985
+  }
+]

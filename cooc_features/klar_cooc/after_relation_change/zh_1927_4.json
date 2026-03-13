@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "尼古拉·哥白尼",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 107,
+    "unigram_w2": 12146148,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "工作",
+    "w2": "数学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 472680,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "尼古拉·哥白尼",
+    "w2": "数学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 107,
+    "unigram_w2": 472680,
+    "ppmi": 4.790578784650892
+  }
+]

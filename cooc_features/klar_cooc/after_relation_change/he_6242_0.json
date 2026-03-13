@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האלפים הימיים",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 79,
+    "unigram_w2": 90246,
+    "ppmi": 3.1127806267131892
+  },
+  {
+    "w1": "בירה",
+    "w2": "ניס",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 11547,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "האלפים הימיים",
+    "w2": "ניס",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 79,
+    "unigram_w2": 11547,
+    "ppmi": 9.005124956707155
+  }
+]

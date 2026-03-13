@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abdul Hamid I",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 61,
+    "unigram_w2": 5281801,
+    "ppmi": 4.349392061726334
+  },
+  {
+    "w1": "died",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17551,
+    "unigram_w1": 5281801,
+    "unigram_w2": 78199,
+    "ppmi": 3.9546074722514715
+  },
+  {
+    "w1": "Abdul Hamid I",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 61,
+    "unigram_w2": 78199,
+    "ppmi": 10.344665879447994
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tierras Australes y Antárticas Francesas",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 358,
+    "unigram_w1": 3696,
+    "unigram_w2": 12196104,
+    "ppmi": 2.72435910449712
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Tierras Australes y Antárticas Francesas",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 840,
+    "unigram_w1": 3696,
+    "unigram_w2": 16087876,
+    "ppmi": 3.55523533573938
+  }
+]

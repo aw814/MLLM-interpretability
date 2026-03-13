@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ליטל רוק",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 333,
+    "unigram_w2": 90246,
+    "ppmi": 2.715254912931668
+  },
+  {
+    "w1": "בירה",
+    "w2": "ארקנסו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 2441,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ליטל רוק",
+    "w2": "ארקנסו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 173,
+    "unigram_w1": 333,
+    "unigram_w2": 2441,
+    "ppmi": 11.358201928756976
+  }
+]

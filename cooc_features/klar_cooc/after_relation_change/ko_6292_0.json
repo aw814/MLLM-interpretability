@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "그리스",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22480,
+    "unigram_w1": 97407,
+    "unigram_w2": 1351571,
+    "ppmi": 1.4137259199114558
+  },
+  {
+    "w1": "수도",
+    "w2": "아테네",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 15452,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "그리스",
+    "w2": "아테네",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6126,
+    "unigram_w1": 97407,
+    "unigram_w2": 15452,
+    "ppmi": 5.988801064236692
+  }
+]

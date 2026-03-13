@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Turquía",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 145864,
+    "unigram_w1": 3787920,
+    "unigram_w2": 12196104,
+    "ppmi": 1.3935822745086737
+  },
+  {
+    "w1": "idioma",
+    "w2": "turco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 2559444,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Turquía",
+    "w2": "turco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 559726,
+    "unigram_w1": 3787920,
+    "unigram_w2": 2559444,
+    "ppmi": 5.586197188218463
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מוחמד זאהיר שאה",
+    "w2": "מת",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 29,
+    "unigram_w2": 241785,
+    "ppmi": 3.622217355865908
+  },
+  {
+    "w1": "מת",
+    "w2": "קאבול",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 241785,
+    "unigram_w2": 1342,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מוחמד זאהיר שאה",
+    "w2": "קאבול",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 29,
+    "unigram_w2": 1342,
+    "ppmi": 12.008498414786004
+  }
+]

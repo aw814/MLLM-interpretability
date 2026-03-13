@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Andrey Kolmogorov",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 173,
+    "unigram_w1": 243,
+    "unigram_w2": 74824954,
+    "ppmi": 1.7956024869577165
+  },
+  {
+    "w1": "work",
+    "w2": "topology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 67225,
+    "unigram_w1": 74824954,
+    "unigram_w2": 162128,
+    "ppmi": 1.015723247931491
+  },
+  {
+    "w1": "Andrey Kolmogorov",
+    "w2": "topology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 243,
+    "unigram_w2": 162128,
+    "ppmi": 8.069197660817881
+  }
+]

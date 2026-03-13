@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100139,
+    "unigram_w1": 1078519,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8741459369505398
+  },
+  {
+    "w1": "language",
+    "w2": "Irish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 137877,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1759004,
+    "ppmi": 1.629816625311971
+  },
+  {
+    "w1": "European Union",
+    "w2": "Irish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40704,
+    "unigram_w1": 1078519,
+    "unigram_w2": 1759004,
+    "ppmi": 2.9687383747317777
+  }
+]

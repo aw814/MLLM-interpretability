@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "guacamole",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11515,
+    "unigram_w1": 141579,
+    "unigram_w2": 14590058,
+    "ppmi": 1.0242996570005094
+  },
+  {
+    "w1": "location",
+    "w2": "Mexico",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 263985,
+    "unigram_w1": 14590058,
+    "unigram_w2": 3105381,
+    "ppmi": 1.0880782084253344
+  },
+  {
+    "w1": "guacamole",
+    "w2": "Mexico",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13419,
+    "unigram_w1": 141579,
+    "unigram_w2": 3105381,
+    "ppmi": 3.477205839426681
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Beirut",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20551,
+    "unigram_w1": 146168,
+    "unigram_w2": 7450623,
+    "ppmi": 2.7835262792085205
+  },
+  {
+    "w1": "capital",
+    "w2": "Lebanon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 46521,
+    "unigram_w1": 7450623,
+    "unigram_w2": 463599,
+    "ppmi": 2.2969498394714543
+  },
+  {
+    "w1": "Beirut",
+    "w2": "Lebanon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 69111,
+    "unigram_w1": 146168,
+    "unigram_w2": 463599,
+    "ppmi": 8.539644742403825
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Formentera",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 435,
+    "unigram_w1": 10111,
+    "unigram_w2": 9241408,
+    "ppmi": 0.7643551916734784
+  },
+  {
+    "w1": "language",
+    "w2": "Catalan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23996,
+    "unigram_w1": 9241408,
+    "unigram_w2": 137019,
+    "ppmi": 2.789611551103592
+  },
+  {
+    "w1": "Formentera",
+    "w2": "Catalan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 491,
+    "unigram_w1": 10111,
+    "unigram_w2": 137019,
+    "ppmi": 7.014727623170355
+  }
+]

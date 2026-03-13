@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "万塔",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100,
+    "unigram_w1": 2376,
+    "unigram_w2": 919361,
+    "ppmi": 1.4168526948699427
+  },
+  {
+    "w1": "语言",
+    "w2": "瑞典语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 8058,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "万塔",
+    "w2": "瑞典语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 2376,
+    "unigram_w2": 8058,
+    "ppmi": 3.192024857325236
+  }
+]

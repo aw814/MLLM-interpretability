@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Niamey",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5980,
+    "unigram_w1": 16262,
+    "unigram_w2": 42058182,
+    "ppmi": 2.863038926524509
+  },
+  {
+    "w1": "capital",
+    "w2": "Níger",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48690,
+    "unigram_w1": 42058182,
+    "unigram_w2": 259760,
+    "ppmi": 1.8908443527364431
+  },
+  {
+    "w1": "Niamey",
+    "w2": "Níger",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10490,
+    "unigram_w1": 16262,
+    "unigram_w2": 259760,
+    "ppmi": 11.012899604662655
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האיחוד האירופי",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2311,
+    "unigram_w1": 56116,
+    "unigram_w2": 236631,
+    "ppmi": 1.1021060751854188
+  },
+  {
+    "w1": "שפה",
+    "w2": "פורטוגזית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 11832,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "האיחוד האירופי",
+    "w2": "פורטוגזית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 283,
+    "unigram_w1": 56116,
+    "unigram_w2": 11832,
+    "ppmi": 2.394335998160301
+  }
+]

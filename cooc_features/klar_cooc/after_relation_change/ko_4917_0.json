@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "앤드루 잭슨",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 235,
+    "unigram_w2": 250699,
+    "ppmi": 1.542633163591814
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "앤드루 잭슨",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37,
+    "unigram_w1": 235,
+    "unigram_w2": 359114,
+    "ppmi": 2.7741692547498507
+  }
+]

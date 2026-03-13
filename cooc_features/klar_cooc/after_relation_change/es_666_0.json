@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kamchatka",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3068,
+    "unigram_w1": 55248,
+    "unigram_w2": 12196104,
+    "ppmi": 1.9217405172984678
+  },
+  {
+    "w1": "idioma",
+    "w2": "ruso",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 8350394,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kamchatka",
+    "w2": "ruso",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11728,
+    "unigram_w1": 55248,
+    "unigram_w2": 8350394,
+    "ppmi": 4.402831320188829
+  }
+]

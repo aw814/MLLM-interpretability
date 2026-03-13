@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Warren Beatty",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 73,
+    "unigram_w1": 11082,
+    "unigram_w2": 1178529,
+    "ppmi": 1.534253378046334
+  },
+  {
+    "w1": "occupation",
+    "w2": "scénariste",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4291,
+    "unigram_w1": 1178529,
+    "unigram_w2": 1124763,
+    "ppmi": 0.7462680456253115
+  },
+  {
+    "w1": "Warren Beatty",
+    "w2": "scénariste",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1137,
+    "unigram_w1": 11082,
+    "unigram_w2": 1124763,
+    "ppmi": 5.562811575734242
+  }
+]

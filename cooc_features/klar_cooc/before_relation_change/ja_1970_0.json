@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "J・B・プリーストリー",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 110,
+    "unigram_w2": 62696,
+    "ppmi": 5.6626587473009256
+  },
+  {
+    "w1": "occupation",
+    "w2": "小説家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 224,
+    "unigram_w1": 62696,
+    "unigram_w2": 461202,
+    "ppmi": 0.4363341392038187
+  },
+  {
+    "w1": "J・B・プリーストリー",
+    "w2": "小説家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 110,
+    "unigram_w2": 461202,
+    "ppmi": 6.953630286743545
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "クランベリーズ",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 396,
+    "unigram_w1": 1588,
+    "unigram_w2": 27600878,
+    "ppmi": 0.6582548405277063
+  },
+  {
+    "w1": "場所",
+    "w2": "リムリック",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 3292,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "クランベリーズ",
+    "w2": "リムリック",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 1588,
+    "unigram_w2": 3292,
+    "ppmi": 10.521792043577976
+  }
+]

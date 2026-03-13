@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Province of Genoa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 62,
+    "unigram_w1": 331,
+    "unigram_w2": 7450623,
+    "ppmi": 3.1973821835012752
+  },
+  {
+    "w1": "capital",
+    "w2": "Genoa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8239,
+    "unigram_w1": 7450623,
+    "unigram_w2": 98882,
+    "ppmi": 2.028706503796101
+  },
+  {
+    "w1": "Province of Genoa",
+    "w2": "Genoa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 331,
+    "unigram_w1": 331,
+    "unigram_w2": 98882,
+    "ppmi": 11.849382610717404
+  }
+]

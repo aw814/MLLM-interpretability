@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "마르크 샤갈",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 481,
+    "unigram_w2": 250699,
+    "ppmi": 0.8571803298070787
+  },
+  {
+    "w1": "언어",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "마르크 샤갈",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 481,
+    "unigram_w2": 42645,
+    "ppmi": 1.927261239280882
+  }
+]

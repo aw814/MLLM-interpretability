@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hobart",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12896,
+    "unigram_w1": 95916,
+    "unigram_w2": 42058182,
+    "ppmi": 1.4114783906629769
+  },
+  {
+    "w1": "capital",
+    "w2": "Tasmania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28238,
+    "unigram_w1": 42058182,
+    "unigram_w2": 180424,
+    "ppmi": 1.630644794338477
+  },
+  {
+    "w1": "Hobart",
+    "w2": "Tasmania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22840,
+    "unigram_w1": 95916,
+    "unigram_w2": 180424,
+    "ppmi": 10.100968813232157
+  }
+]

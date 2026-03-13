@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yerevan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8235,
+    "unigram_w1": 41371,
+    "unigram_w2": 7450623,
+    "ppmi": 3.2850940048577315
+  },
+  {
+    "w1": "capital",
+    "w2": "Armenia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23660,
+    "unigram_w1": 7450623,
+    "unigram_w2": 166285,
+    "ppmi": 2.8007372247929583
+  },
+  {
+    "w1": "Yerevan",
+    "w2": "Armenia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29800,
+    "unigram_w1": 41371,
+    "unigram_w2": 166285,
+    "ppmi": 10.626196906142441
+  }
+]

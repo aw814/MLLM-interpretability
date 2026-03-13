@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Canada",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 414652,
+    "unigram_w1": 6681798,
+    "unigram_w2": 9241408,
+    "ppmi": 1.2928582578585268
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Canada",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 427317,
+    "unigram_w1": 6681798,
+    "unigram_w2": 6382804,
+    "ppmi": 1.8701862472162327
+  }
+]

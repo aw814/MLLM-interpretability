@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "L. L. Zamenhof",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 204,
+    "unigram_w2": 5281801,
+    "ppmi": 2.9613410119324257
+  },
+  {
+    "w1": "died",
+    "w2": "Warsaw",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20057,
+    "unigram_w1": 5281801,
+    "unigram_w2": 244308,
+    "ppmi": 2.5036810295672094
+  },
+  {
+    "w1": "L. L. Zamenhof",
+    "w2": "Warsaw",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 204,
+    "unigram_w2": 244308,
+    "ppmi": 7.456998492029547
+  }
+]

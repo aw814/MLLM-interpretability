@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "어린 왕자",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 86,
+    "unigram_w1": 2129,
+    "unigram_w2": 250699,
+    "ppmi": 1.3300230117693204
+  },
+  {
+    "w1": "언어",
+    "w2": "프랑스어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 65940,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "어린 왕자",
+    "w2": "프랑스어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62,
+    "unigram_w1": 2129,
+    "unigram_w2": 65940,
+    "ppmi": 2.784685016826439
+  }
+]

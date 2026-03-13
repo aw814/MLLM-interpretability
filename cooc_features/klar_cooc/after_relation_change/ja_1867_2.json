@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨーゼフ・シュンペーター",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 352,
+    "unigram_w1": 864,
+    "unigram_w2": 30190082,
+    "ppmi": 1.2370770193723701
+  },
+  {
+    "w1": "仕事",
+    "w2": "経済学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 846712,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヨーゼフ・シュンペーター",
+    "w2": "経済学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 624,
+    "unigram_w1": 864,
+    "unigram_w2": 846712,
+    "ppmi": 7.2191071490079235
+  }
+]

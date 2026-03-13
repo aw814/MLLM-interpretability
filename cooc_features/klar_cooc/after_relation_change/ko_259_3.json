@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "마요르카섬",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 37,
+    "unigram_w2": 250699,
+    "ppmi": 0.7502651258905667
+  },
+  {
+    "w1": "언어",
+    "w2": "카탈루냐어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 4419,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "마요르카섬",
+    "w2": "카탈루냐어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 37,
+    "unigram_w2": 4419,
+    "ppmi": 6.576357626063652
+  }
+]

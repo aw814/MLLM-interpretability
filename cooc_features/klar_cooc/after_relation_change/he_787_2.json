@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ארצות הברית",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10507,
+    "unigram_w1": 238549,
+    "unigram_w2": 236631,
+    "ppmi": 1.1990661569628436
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ארצות הברית",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23476,
+    "unigram_w1": 238549,
+    "unigram_w2": 231817,
+    "ppmi": 2.388554684935196
+  }
+]

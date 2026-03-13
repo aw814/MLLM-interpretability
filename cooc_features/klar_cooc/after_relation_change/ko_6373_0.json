@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "우크라이나 소비에트 사회주의 공화국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 56,
+    "unigram_w2": 1351571,
+    "ppmi": 2.3656106051002297
+  },
+  {
+    "w1": "수도",
+    "w2": "키예프",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3983,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "우크라이나 소비에트 사회주의 공화국",
+    "w2": "키예프",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 56,
+    "unigram_w2": 3983,
+    "ppmi": 10.587752139665115
+  }
+]

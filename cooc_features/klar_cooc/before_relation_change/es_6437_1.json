@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jamaica",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 442692,
+    "unigram_w1": 1921126,
+    "unigram_w2": 42058182,
+    "ppmi": 2.18874930075039
+  },
+  {
+    "w1": "capital",
+    "w2": "Kingston",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105424,
+    "unigram_w1": 42058182,
+    "unigram_w2": 650592,
+    "ppmi": 1.68077649134409
+  },
+  {
+    "w1": "Jamaica",
+    "w2": "Kingston",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 102452,
+    "unigram_w1": 1921126,
+    "unigram_w2": 650592,
+    "ppmi": 6.091883743445871
+  }
+]

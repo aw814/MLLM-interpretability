@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "탈린",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 604,
+    "unigram_w1": 2281,
+    "unigram_w2": 1351571,
+    "ppmi": 1.612063345396051
+  },
+  {
+    "w1": "수도",
+    "w2": "에스토니아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 10974,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "탈린",
+    "w2": "에스토니아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1191,
+    "unigram_w1": 2281,
+    "unigram_w2": 10974,
+    "ppmi": 9.536020313531711
+  }
+]

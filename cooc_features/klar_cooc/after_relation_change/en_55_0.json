@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Richard Wagner",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2036,
+    "unigram_w1": 13067,
+    "unigram_w2": 5281801,
+    "ppmi": 3.42808590777833
+  },
+  {
+    "w1": "died",
+    "w2": "Venice",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32913,
+    "unigram_w1": 5281801,
+    "unigram_w2": 554443,
+    "ppmi": 2.035894685715242
+  },
+  {
+    "w1": "Richard Wagner",
+    "w2": "Venice",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 728,
+    "unigram_w1": 13067,
+    "unigram_w2": 554443,
+    "ppmi": 5.196277593078044
+  }
+]

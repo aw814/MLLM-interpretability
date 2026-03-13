@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ランボルギーニ",
+    "w2": "所有する",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4018,
+    "unigram_w1": 182158,
+    "unigram_w2": 779898,
+    "ppmi": 2.3046093342136054
+  },
+  {
+    "w1": "所有する",
+    "w2": "アウディ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 779898,
+    "unigram_w2": 532632,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ランボルギーニ",
+    "w2": "アウディ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35754,
+    "unigram_w1": 182158,
+    "unigram_w2": 532632,
+    "ppmi": 6.008310862999416
+  }
+]

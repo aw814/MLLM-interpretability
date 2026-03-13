@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cagliari",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2675,
+    "unigram_w1": 23050,
+    "unigram_w2": 7450623,
+    "ppmi": 2.506717325893427
+  },
+  {
+    "w1": "capital",
+    "w2": "Sardinia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6652,
+    "unigram_w1": 7450623,
+    "unigram_w2": 69294,
+    "ppmi": 2.233002915366111
+  },
+  {
+    "w1": "Cagliari",
+    "w2": "Sardinia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6798,
+    "unigram_w1": 23050,
+    "unigram_w2": 69294,
+    "ppmi": 10.600775612433802
+  }
+]

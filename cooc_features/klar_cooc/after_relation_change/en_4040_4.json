@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tristan Tzara",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 1632,
+    "unigram_w2": 3469075,
+    "ppmi": 1.9749953087607846
+  },
+  {
+    "w1": "spoke",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 183188,
+    "unigram_w1": 3469075,
+    "unigram_w2": 6382804,
+    "ppmi": 1.5938898720411425
+  },
+  {
+    "w1": "Tristan Tzara",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 542,
+    "unigram_w1": 1632,
+    "unigram_w2": 6382804,
+    "ppmi": 4.246767697091695
+  }
+]

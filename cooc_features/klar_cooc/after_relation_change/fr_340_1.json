@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anguilla",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7034,
+    "unigram_w1": 168784,
+    "unigram_w2": 12749290,
+    "ppmi": 0.7603127247618174
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Anguilla",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8971,
+    "unigram_w1": 168784,
+    "unigram_w2": 17089249,
+    "ppmi": 0.6885641100012069
+  }
+]

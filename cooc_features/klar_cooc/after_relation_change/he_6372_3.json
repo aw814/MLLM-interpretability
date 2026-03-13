@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויומינג",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47,
+    "unigram_w1": 1080,
+    "unigram_w2": 90246,
+    "ppmi": 2.572406534629736
+  },
+  {
+    "w1": "בירה",
+    "w2": "שאיין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ויומינג",
+    "w2": "שאיין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 1080,
+    "unigram_w2": 610,
+    "ppmi": 9.396652619913901
+  }
+]

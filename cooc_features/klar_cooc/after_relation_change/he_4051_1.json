@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ורג'ה אנסקו",
+    "w2": "דיבר",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 96,
+    "unigram_w2": 141832,
+    "ppmi": 1.4423851047600833
+  },
+  {
+    "w1": "דיבר",
+    "w2": "רומנית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 141832,
+    "unigram_w2": 9555,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ג'ורג'ה אנסקו",
+    "w2": "רומנית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 96,
+    "unigram_w2": 9555,
+    "ppmi": 8.272767945443706
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carl Orff",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 330,
+    "unigram_w1": 1998,
+    "unigram_w2": 9106140,
+    "ppmi": 2.726376051197892
+  },
+  {
+    "w1": "born",
+    "w2": "Munich",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 59963,
+    "unigram_w1": 9106140,
+    "unigram_w2": 513362,
+    "ppmi": 2.2265626652875565
+  },
+  {
+    "w1": "Carl Orff",
+    "w2": "Munich",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 253,
+    "unigram_w1": 1998,
+    "unigram_w2": 513362,
+    "ppmi": 6.4918386374804555
+  }
+]

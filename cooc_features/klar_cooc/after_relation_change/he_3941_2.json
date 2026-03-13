@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בלמופן",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 49,
+    "unigram_w2": 90246,
+    "ppmi": 5.064885936608878
+  },
+  {
+    "w1": "בירה",
+    "w2": "בליז",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 3116,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בלמופן",
+    "w2": "בליז",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46,
+    "unigram_w1": 49,
+    "unigram_w2": 3116,
+    "ppmi": 11.859581241852803
+  }
+]

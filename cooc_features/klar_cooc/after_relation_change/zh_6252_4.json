@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伊朗",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24895,
+    "unigram_w1": 414536,
+    "unigram_w2": 596594,
+    "ppmi": 2.5536281485083476
+  },
+  {
+    "w1": "首都",
+    "w2": "德黑兰",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 22535,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "伊朗",
+    "w2": "德黑兰",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12558,
+    "unigram_w1": 414536,
+    "unigram_w2": 22535,
+    "ppmi": 6.292888963797024
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hrant Dink",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 211,
+    "unigram_w1": 1641,
+    "unigram_w2": 5281801,
+    "ppmi": 3.150944063040381
+  },
+  {
+    "w1": "died",
+    "w2": "Istanbul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19859,
+    "unigram_w1": 5281801,
+    "unigram_w2": 367855,
+    "ppmi": 1.8989320796897053
+  },
+  {
+    "w1": "Hrant Dink",
+    "w2": "Istanbul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 983,
+    "unigram_w1": 1641,
+    "unigram_w2": 367855,
+    "ppmi": 9.21471332127667
+  }
+]

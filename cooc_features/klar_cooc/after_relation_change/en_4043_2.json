@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imre Nagy",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 87,
+    "unigram_w1": 789,
+    "unigram_w2": 3469075,
+    "ppmi": 3.5357453190046635
+  },
+  {
+    "w1": "spoke",
+    "w2": "Hungarian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13399,
+    "unigram_w1": 3469075,
+    "unigram_w2": 353784,
+    "ppmi": 1.994011748001693
+  },
+  {
+    "w1": "Imre Nagy",
+    "w2": "Hungarian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 638,
+    "unigram_w1": 789,
+    "unigram_w2": 353784,
+    "ppmi": 9.70382476011671
+  }
+]

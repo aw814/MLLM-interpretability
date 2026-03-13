@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אסלאמאבאד",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 96,
+    "unigram_w2": 90246,
+    "ppmi": 3.969102397919071
+  },
+  {
+    "w1": "בירה",
+    "w2": "פקיסטן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 17466,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אסלאמאבאד",
+    "w2": "פקיסטן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 82,
+    "unigram_w1": 96,
+    "unigram_w2": 17466,
+    "ppmi": 9.236536527025674
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ibiza",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3980,
+    "unigram_w1": 117373,
+    "unigram_w2": 9241408,
+    "ppmi": 0.42093333646478376
+  },
+  {
+    "w1": "language",
+    "w2": "Spanish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 649985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3113420,
+    "ppmi": 3.0430997910537174
+  },
+  {
+    "w1": "Ibiza",
+    "w2": "Spanish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13462,
+    "unigram_w1": 117373,
+    "unigram_w2": 3113420,
+    "ppmi": 3.7485982271763745
+  }
+]

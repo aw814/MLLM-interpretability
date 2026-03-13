@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cuerpos de la Guardia Revolucionaria Islámica",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 114,
+    "unigram_w1": 3802,
+    "unigram_w2": 21073362,
+    "ppmi": 0.2436394269306541
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Teherán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 595740,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Cuerpos de la Guardia Revolucionaria Islámica",
+    "w2": "Teherán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1938,
+    "unigram_w1": 3802,
+    "unigram_w2": 595740,
+    "ppmi": 9.475696125253794
+  }
+]

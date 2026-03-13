@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Le nozze di Figaro",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1562,
+    "unigram_w1": 12030,
+    "unigram_w2": 12749290,
+    "ppmi": 2.399831444870479
+  },
+  {
+    "w1": "langue",
+    "w2": "italien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5551452,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Le nozze di Figaro",
+    "w2": "italien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1740,
+    "unigram_w1": 12030,
+    "unigram_w2": 5551452,
+    "ppmi": 3.755004136572856
+  }
+]

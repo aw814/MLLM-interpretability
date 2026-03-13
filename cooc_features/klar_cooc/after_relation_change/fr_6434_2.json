@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Algérie française",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1836,
+    "unigram_w1": 17738,
+    "unigram_w2": 9137640,
+    "ppmi": 2.5533197373145473
+  },
+  {
+    "w1": "capitale",
+    "w2": "Alger",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1280376,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Algérie française",
+    "w2": "Alger",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6318,
+    "unigram_w1": 17738,
+    "unigram_w2": 1280376,
+    "ppmi": 7.171475681101537
+  }
+]

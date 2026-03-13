@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "주희",
+    "w2": "말했다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 305,
+    "unigram_w1": 2519,
+    "unigram_w2": 1429427,
+    "ppmi": 0.4023397195822383
+  },
+  {
+    "w1": "말했다",
+    "w2": "중국어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1429427,
+    "unigram_w2": 89242,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "주희",
+    "w2": "중국어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 2519,
+    "unigram_w2": 89242,
+    "ppmi": 1.54356199780156
+  }
+]

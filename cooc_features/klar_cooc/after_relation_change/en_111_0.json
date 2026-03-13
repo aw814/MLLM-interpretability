@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charles Louis Alphonse Laveran",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 74,
+    "unigram_w2": 5281801,
+    "ppmi": 4.293068454996719
+  },
+  {
+    "w1": "died",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 207387,
+    "unigram_w1": 5281801,
+    "unigram_w2": 3039340,
+    "ppmi": 2.2368436920057535
+  },
+  {
+    "w1": "Charles Louis Alphonse Laveran",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 74,
+    "unigram_w2": 3039340,
+    "ppmi": 4.6980229060089105
+  }
+]

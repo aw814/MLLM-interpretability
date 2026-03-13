@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "パウル・ヒンデミット",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 1484,
+    "unigram_w2": 139628,
+    "ppmi": 3.7536001131481784
+  },
+  {
+    "w1": "instrument",
+    "w2": "ヴィオラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 139628,
+    "unigram_w2": 125948,
+    "ppmi": 2.3294003771483793
+  },
+  {
+    "w1": "パウル・ヒンデミット",
+    "w2": "ヴィオラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 448,
+    "unigram_w1": 1484,
+    "unigram_w2": 125948,
+    "ppmi": 8.70971510062715
+  }
+]

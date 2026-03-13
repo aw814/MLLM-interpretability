@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Édimbourg",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12332,
+    "unigram_w1": 124119,
+    "unigram_w2": 9137640,
+    "ppmi": 2.4942798462260556
+  },
+  {
+    "w1": "capitale",
+    "w2": "Écosse",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 603004,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Édimbourg",
+    "w2": "Écosse",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32028,
+    "unigram_w1": 124119,
+    "unigram_w2": 603004,
+    "ppmi": 7.792788890774636
+  }
+]

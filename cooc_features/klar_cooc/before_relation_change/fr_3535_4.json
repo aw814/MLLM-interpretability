@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "désert du Kalahari",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1872,
+    "unigram_w1": 10445,
+    "unigram_w2": 3399010,
+    "ppmi": 4.772071971500911
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "désert du Kalahari",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5527,
+    "unigram_w1": 10445,
+    "unigram_w2": 8624942,
+    "ppmi": 4.990588000329976
+  }
+]

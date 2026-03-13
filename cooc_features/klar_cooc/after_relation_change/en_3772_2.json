@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gaborone",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2869,
+    "unigram_w1": 13964,
+    "unigram_w2": 7450623,
+    "ppmi": 3.3307808911375285
+  },
+  {
+    "w1": "capital",
+    "w2": "Botswana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17509,
+    "unigram_w1": 7450623,
+    "unigram_w2": 149455,
+    "ppmi": 2.5203307107961606
+  },
+  {
+    "w1": "Gaborone",
+    "w2": "Botswana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11098,
+    "unigram_w1": 13964,
+    "unigram_w2": 149455,
+    "ppmi": 10.922038722578906
+  }
+]

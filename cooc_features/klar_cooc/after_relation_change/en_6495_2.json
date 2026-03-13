@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Coldplay",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2078,
+    "unigram_w1": 49121,
+    "unigram_w2": 14590058,
+    "ppmi": 0.08124825941880508
+  },
+  {
+    "w1": "location",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 563269,
+    "unigram_w1": 14590058,
+    "unigram_w2": 8112147,
+    "ppmi": 0.7961328145808008
+  },
+  {
+    "w1": "Coldplay",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6363,
+    "unigram_w1": 49121,
+    "unigram_w2": 8112147,
+    "ppmi": 2.542589644463966
+  }
+]

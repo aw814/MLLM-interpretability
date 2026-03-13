@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sarvepalli Radhakrishnan",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 99,
+    "unigram_w1": 330,
+    "unigram_w2": 4547729,
+    "ppmi": 5.095234849717076
+  },
+  {
+    "w1": "religion",
+    "w2": "hindouisme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22528,
+    "unigram_w1": 4547729,
+    "unigram_w2": 42498,
+    "ppmi": 5.916524734849624
+  },
+  {
+    "w1": "Sarvepalli Radhakrishnan",
+    "w2": "hindouisme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 330,
+    "unigram_w2": 42498,
+    "ppmi": 10.377410759064116
+  }
+]

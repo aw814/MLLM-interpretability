@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Flandes",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22306,
+    "unigram_w1": 408136,
+    "unigram_w2": 12196104,
+    "ppmi": 1.898746130353931
+  },
+  {
+    "w1": "idioma",
+    "w2": "neerlandés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 271004,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Flandes",
+    "w2": "neerlandés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10750,
+    "unigram_w1": 408136,
+    "unigram_w2": 271004,
+    "ppmi": 6.337613364950841
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wyoming",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8287,
+    "unigram_w1": 144022,
+    "unigram_w2": 12749290,
+    "ppmi": 1.225706254617238
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wyoming",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13882,
+    "unigram_w1": 144022,
+    "unigram_w2": 17089249,
+    "ppmi": 1.5473277698553745
+  }
+]

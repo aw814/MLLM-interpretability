@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "חבר המדינות",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 133,
+    "unigram_w1": 1322,
+    "unigram_w2": 236631,
+    "ppmi": 2.390705060256468
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "חבר המדינות",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 261,
+    "unigram_w1": 1322,
+    "unigram_w2": 106961,
+    "ppmi": 4.508882849943666
+  }
+]

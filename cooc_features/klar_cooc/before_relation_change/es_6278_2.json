@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jalisco",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 816058,
+    "unigram_w1": 4268508,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9193379517586115
+  },
+  {
+    "w1": "capital",
+    "w2": "Guadalajara",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2348484,
+    "unigram_w1": 42058182,
+    "unigram_w2": 9434718,
+    "ppmi": 2.3000766045529635
+  },
+  {
+    "w1": "Jalisco",
+    "w2": "Guadalajara",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1723026,
+    "unigram_w1": 4268508,
+    "unigram_w2": 9434718,
+    "ppmi": 5.153874012924975
+  }
+]

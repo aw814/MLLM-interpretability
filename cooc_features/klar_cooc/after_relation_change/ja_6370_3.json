@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "シラクーザ県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 80,
+    "unigram_w2": 2444276,
+    "ppmi": 4.422162880049073
+  },
+  {
+    "w1": "首都",
+    "w2": "シラクサ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 4864,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "シラクーザ県",
+    "w2": "シラクサ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 80,
+    "unigram_w2": 4864,
+    "ppmi": 13.39521113489547
+  }
+]

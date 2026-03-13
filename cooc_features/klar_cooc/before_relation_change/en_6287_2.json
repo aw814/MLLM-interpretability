@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Ireland",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 235,
+    "unigram_w1": 1108,
+    "unigram_w2": 7450623,
+    "ppmi": 3.376648060437429
+  },
+  {
+    "w1": "capital",
+    "w2": "Dublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61089,
+    "unigram_w1": 7450623,
+    "unigram_w2": 846398,
+    "ppmi": 1.8215215909307085
+  },
+  {
+    "w1": "Kingdom of Ireland",
+    "w2": "Dublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 400,
+    "unigram_w1": 1108,
+    "unigram_w2": 846398,
+    "ppmi": 7.281940244794529
+  }
+]

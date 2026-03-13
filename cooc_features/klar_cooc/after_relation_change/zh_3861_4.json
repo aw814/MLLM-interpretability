@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "普罗旺斯地区艾克斯",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 337,
+    "unigram_w2": 596594,
+    "ppmi": 1.0219477655612457
+  },
+  {
+    "w1": "首都",
+    "w2": "普罗旺斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 11142,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "普罗旺斯地区艾克斯",
+    "w2": "普罗旺斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 337,
+    "unigram_w1": 337,
+    "unigram_w2": 11142,
+    "ppmi": 12.353866966896867
+  }
+]

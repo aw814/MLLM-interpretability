@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Acra",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5960,
+    "unigram_w1": 46654,
+    "unigram_w2": 42058182,
+    "ppmi": 1.3377096930247787
+  },
+  {
+    "w1": "capital",
+    "w2": "Ghana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 291220,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1196742,
+    "ppmi": 2.267395418258879
+  },
+  {
+    "w1": "Acra",
+    "w2": "Ghana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7824,
+    "unigram_w1": 46654,
+    "unigram_w2": 1196742,
+    "ppmi": 6.865506155296644
+  }
+]

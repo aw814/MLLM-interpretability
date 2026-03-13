@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Max Ernst",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 824,
+    "unigram_w1": 6152,
+    "unigram_w2": 5281801,
+    "ppmi": 3.2098651370683005
+  },
+  {
+    "w1": "died",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 207387,
+    "unigram_w1": 5281801,
+    "unigram_w2": 3039340,
+    "ppmi": 2.2368436920057535
+  },
+  {
+    "w1": "Max Ernst",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1937,
+    "unigram_w1": 6152,
+    "unigram_w2": 3039340,
+    "ppmi": 5.240244722279288
+  }
+]

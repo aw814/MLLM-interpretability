@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エリック・マスキン",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 160,
+    "unigram_w2": 30190082,
+    "ppmi": 1.068585803138751
+  },
+  {
+    "w1": "仕事",
+    "w2": "経済学者",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 162638,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "エリック・マスキン",
+    "w2": "経済学者",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 160,
+    "unigram_w2": 162638,
+    "ppmi": 9.501758796120493
+  }
+]

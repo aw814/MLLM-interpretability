@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Adobe Acrobat",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1730,
+    "unigram_w1": 151004,
+    "unigram_w2": 576918,
+    "ppmi": 4.046531721622381
+  },
+  {
+    "w1": "developer",
+    "w2": "Adobe Inc.",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 576918,
+    "unigram_w2": 1412,
+    "ppmi": 5.118141107645617
+  },
+  {
+    "w1": "Adobe Acrobat",
+    "w2": "Adobe Inc.",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 338,
+    "unigram_w1": 151004,
+    "unigram_w2": 1412,
+    "ppmi": 10.365337213128678
+  }
+]

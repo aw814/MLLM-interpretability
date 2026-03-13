@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alfred Kinsey",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 225,
+    "unigram_w1": 441,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3149331085862892
+  },
+  {
+    "w1": "work",
+    "w2": "biology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 676595,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1529427,
+    "ppmi": 1.1091599354920438
+  },
+  {
+    "w1": "Alfred Kinsey",
+    "w2": "biology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40,
+    "unigram_w1": 441,
+    "unigram_w2": 1529427,
+    "ppmi": 4.435536345663326
+  }
+]

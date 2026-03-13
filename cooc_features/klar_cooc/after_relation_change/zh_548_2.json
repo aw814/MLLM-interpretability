@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "努纳武特",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 246,
+    "unigram_w2": 919361,
+    "ppmi": 3.2927286340003294
+  },
+  {
+    "w1": "语言",
+    "w2": "法语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 75685,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "努纳武特",
+    "w2": "法语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 246,
+    "unigram_w2": 75685,
+    "ppmi": 5.969281376547559
+  }
+]

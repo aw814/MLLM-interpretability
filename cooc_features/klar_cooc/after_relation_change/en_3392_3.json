@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "First Blood",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1047,
+    "unigram_w1": 22464,
+    "unigram_w2": 9241408,
+    "ppmi": 0.8798401771033387
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "First Blood",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1658,
+    "unigram_w1": 22464,
+    "unigram_w2": 9553181,
+    "ppmi": 1.495154216816073
+  }
+]

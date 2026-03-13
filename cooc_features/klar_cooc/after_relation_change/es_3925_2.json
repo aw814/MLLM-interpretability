@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suva",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5920,
+    "unigram_w1": 21418,
+    "unigram_w2": 42058182,
+    "ppmi": 2.451171549340575
+  },
+  {
+    "w1": "capital",
+    "w2": "Fiyi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12086,
+    "unigram_w1": 42058182,
+    "unigram_w2": 126962,
+    "ppmi": 0.9133382291445568
+  },
+  {
+    "w1": "Suva",
+    "w2": "Fiyi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4266,
+    "unigram_w1": 21418,
+    "unigram_w2": 126962,
+    "ppmi": 10.35030425878875
+  }
+]

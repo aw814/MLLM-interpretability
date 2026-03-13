@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Margaret Atwood",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 199,
+    "unigram_w1": 25705,
+    "unigram_w2": 1325492,
+    "ppmi": 1.5976819962672484
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Canada",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 14720385,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Margaret Atwood",
+    "w2": "Canada",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5444,
+    "unigram_w1": 25705,
+    "unigram_w2": 14720385,
+    "ppmi": 2.898293190759887
+  }
+]

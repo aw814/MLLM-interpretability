@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "朝永振一郎",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2258,
+    "unigram_w1": 5722,
+    "unigram_w2": 30190082,
+    "ppmi": 1.191058891348359
+  },
+  {
+    "w1": "仕事",
+    "w2": "物理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 494366,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "朝永振一郎",
+    "w2": "物理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4162,
+    "unigram_w1": 5722,
+    "unigram_w2": 494366,
+    "ppmi": 8.005641710114759
+  }
+]

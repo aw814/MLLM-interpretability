@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thimphu",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 126,
+    "unigram_w1": 14238,
+    "unigram_w2": 965266,
+    "ppmi": 1.7420569139811224
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Thimphu",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1684,
+    "unigram_w1": 14238,
+    "unigram_w2": 3865133,
+    "ppmi": 3.4809338233367626
+  }
+]

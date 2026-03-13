@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "pesto",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12962,
+    "unigram_w1": 239420,
+    "unigram_w2": 21073362,
+    "ppmi": 1.0961088005474424
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Italia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 18529044,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "pesto",
+    "w2": "Italia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29930,
+    "unigram_w1": 239420,
+    "unigram_w2": 18529044,
+    "ppmi": 2.489044789370421
+  }
+]

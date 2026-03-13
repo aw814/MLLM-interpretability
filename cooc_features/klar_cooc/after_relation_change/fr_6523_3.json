@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nikon",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9631,
+    "unigram_w1": 658279,
+    "unigram_w2": 5673888,
+    "ppmi": 0.41813929601181055
+  },
+  {
+    "w1": "localisation",
+    "w2": "Tokyo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 2106140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nikon",
+    "w2": "Tokyo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8508,
+    "unigram_w1": 658279,
+    "unigram_w2": 2106140,
+    "ppmi": 1.6690100603625382
+  }
+]

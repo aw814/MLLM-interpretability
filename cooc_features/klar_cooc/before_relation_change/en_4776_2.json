@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lady Gaga",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1719,
+    "unigram_w1": 137652,
+    "unigram_w2": 2136875,
+    "ppmi": 1.0924196104284463
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 179484,
+    "unigram_w1": 2136875,
+    "unigram_w2": 1589230,
+    "ppmi": 4.2693310409674
+  },
+  {
+    "w1": "Lady Gaga",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6834,
+    "unigram_w1": 137652,
+    "unigram_w2": 1589230,
+    "ppmi": 3.5107548983927543
+  }
+]

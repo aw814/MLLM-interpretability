@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伊玛目",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 1444,
+    "unigram_w2": 2023,
+    "ppmi": 5.31945193610799
+  },
+  {
+    "w1": "religion",
+    "w2": "伊斯兰教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 79,
+    "unigram_w1": 2023,
+    "unigram_w2": 23746,
+    "ppmi": 6.583690818860432
+  },
+  {
+    "w1": "伊玛目",
+    "w2": "伊斯兰教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 563,
+    "unigram_w1": 1444,
+    "unigram_w2": 23746,
+    "ppmi": 9.90332676043467
+  }
+]

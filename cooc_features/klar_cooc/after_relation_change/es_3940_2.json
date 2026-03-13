@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Juneau",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5190,
+    "unigram_w1": 26708,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9428607351056673
+  },
+  {
+    "w1": "capital",
+    "w2": "Alaska",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 292188,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1448778,
+    "ppmi": 1.9964585265964512
+  },
+  {
+    "w1": "Juneau",
+    "w2": "Alaska",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15790,
+    "unigram_w1": 26708,
+    "unigram_w2": 1448778,
+    "ppmi": 8.407543503278212
+  }
+]

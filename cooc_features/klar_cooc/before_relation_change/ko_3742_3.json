@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "블로거",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 64,
+    "unigram_w1": 24816,
+    "unigram_w2": 17565,
+    "ppmi": 1.195916280303783
+  },
+  {
+    "w1": "developer",
+    "w2": "구글",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1541,
+    "unigram_w1": 17565,
+    "unigram_w2": 202372,
+    "ppmi": 2.757900229509908
+  },
+  {
+    "w1": "블로거",
+    "w2": "구글",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3605,
+    "unigram_w1": 24816,
+    "unigram_w2": 202372,
+    "ppmi": 3.4854656121969505
+  }
+]

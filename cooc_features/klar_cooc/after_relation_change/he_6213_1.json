@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנדלוסיה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 168,
+    "unigram_w1": 2835,
+    "unigram_w2": 90246,
+    "ppmi": 3.017817682952099
+  },
+  {
+    "w1": "בירה",
+    "w2": "סביליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 14577,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אנדלוסיה",
+    "w2": "סביליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 648,
+    "unigram_w1": 2835,
+    "unigram_w2": 14577,
+    "ppmi": 7.59551941318926
+  }
+]

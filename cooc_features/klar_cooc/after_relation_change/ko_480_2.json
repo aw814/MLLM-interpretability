@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이집트 고왕국",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 45,
+    "unigram_w2": 250699,
+    "ppmi": 1.467865395189842
+  },
+  {
+    "w1": "언어",
+    "w2": "이집트어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 161,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "이집트 고왕국",
+    "w2": "이집트어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 45,
+    "unigram_w2": 161,
+    "ppmi": 13.072545233005316
+  }
+]

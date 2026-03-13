@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rococo",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14428,
+    "unigram_w1": 40771,
+    "unigram_w2": 74824954,
+    "ppmi": 0.78711474858057
+  },
+  {
+    "w1": "work",
+    "w2": "architecture",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1531330,
+    "unigram_w1": 74824954,
+    "unigram_w2": 4327251,
+    "ppmi": 0.7871211725471332
+  },
+  {
+    "w1": "Rococo",
+    "w2": "architecture",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8097,
+    "unigram_w1": 40771,
+    "unigram_w2": 4327251,
+    "ppmi": 4.065699578687855
+  }
+]

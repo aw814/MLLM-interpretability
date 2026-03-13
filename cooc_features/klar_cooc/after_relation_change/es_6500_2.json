@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Unión de Lublin",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 88,
+    "unigram_w1": 5240,
+    "unigram_w2": 21073362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Lublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 83268,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Unión de Lublin",
+    "w2": "Lublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5240,
+    "unigram_w1": 5240,
+    "unigram_w2": 83268,
+    "ppmi": 13.286734838607336
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Community of Valencia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 185,
+    "unigram_w1": 841,
+    "unigram_w2": 7450623,
+    "ppmi": 3.429292750182786
+  },
+  {
+    "w1": "capital",
+    "w2": "Valencia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16966,
+    "unigram_w1": 7450623,
+    "unigram_w2": 256058,
+    "ppmi": 1.6981210182735145
+  },
+  {
+    "w1": "Community of Valencia",
+    "w2": "Valencia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 841,
+    "unigram_w1": 841,
+    "unigram_w2": 256058,
+    "ppmi": 10.476691805703265
+  }
+]

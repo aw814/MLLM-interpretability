@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Libreville",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1724,
+    "unigram_w1": 5757,
+    "unigram_w2": 7450623,
+    "ppmi": 3.8743158420941795
+  },
+  {
+    "w1": "capital",
+    "w2": "Gabon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7505,
+    "unigram_w1": 7450623,
+    "unigram_w2": 56551,
+    "ppmi": 2.700244721042045
+  },
+  {
+    "w1": "Libreville",
+    "w2": "Gabon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4304,
+    "unigram_w1": 5757,
+    "unigram_w2": 56551,
+    "ppmi": 12.235898864191432
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Elfriede Jelinek",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 9124,
+    "unigram_w2": 77008,
+    "ppmi": 4.051392873466432
+  },
+  {
+    "w1": "occupation",
+    "w2": "poeta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1628,
+    "unigram_w1": 77008,
+    "unigram_w2": 5320434,
+    "ppmi": 1.7252611631941606
+  },
+  {
+    "w1": "Elfriede Jelinek",
+    "w2": "poeta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1828,
+    "unigram_w1": 9124,
+    "unigram_w2": 5320434,
+    "ppmi": 4.969696510638718
+  }
+]

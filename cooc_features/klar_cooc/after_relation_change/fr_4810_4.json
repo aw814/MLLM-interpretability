@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "disque compact",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2027,
+    "unigram_w1": 36284,
+    "unigram_w2": 13047836,
+    "ppmi": 1.149692565999214
+  },
+  {
+    "w1": "possède",
+    "w2": "Sony",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 2743498,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "disque compact",
+    "w2": "Sony",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3920,
+    "unigram_w1": 36284,
+    "unigram_w2": 2743498,
+    "ppmi": 4.350922256182487
+  }
+]

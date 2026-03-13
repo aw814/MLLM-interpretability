@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google学术搜索",
+    "w2": "拥有",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 115,
+    "unigram_w2": 2407316,
+    "ppmi": 0.33806591620196813
+  },
+  {
+    "w1": "拥有",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2407316,
+    "unigram_w2": 235245,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Google学术搜索",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115,
+    "unigram_w1": 115,
+    "unigram_w2": 235245,
+    "ppmi": 7.953783033507616
+  }
+]

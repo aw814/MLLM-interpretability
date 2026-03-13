@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tierras Australes y Antárticas Francesas",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 3696,
+    "unigram_w2": 91062,
+    "ppmi": 3.890861324741353
+  },
+  {
+    "w1": "continent",
+    "w2": "Antártida",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1282,
+    "unigram_w1": 91062,
+    "unigram_w2": 714500,
+    "ppmi": 4.035253926297092
+  },
+  {
+    "w1": "Tierras Australes y Antárticas Francesas",
+    "w2": "Antártida",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2106,
+    "unigram_w1": 3696,
+    "unigram_w2": 714500,
+    "ppmi": 9.374175584537594
+  }
+]

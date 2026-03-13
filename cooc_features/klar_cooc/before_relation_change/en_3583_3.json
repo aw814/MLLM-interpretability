@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Irrawaddy River",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 117,
+    "unigram_w1": 4123,
+    "unigram_w2": 965266,
+    "ppmi": 3.42312185009165
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Irrawaddy River",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1456,
+    "unigram_w1": 4123,
+    "unigram_w2": 3865133,
+    "ppmi": 5.059032180496102
+  }
+]

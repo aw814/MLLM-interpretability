@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Queensland",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44536,
+    "unigram_w1": 613140,
+    "unigram_w2": 7450623,
+    "ppmi": 1.8307006471589826
+  },
+  {
+    "w1": "capital",
+    "w2": "Brisbane",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40565,
+    "unigram_w1": 7450623,
+    "unigram_w2": 595296,
+    "ppmi": 1.7385734730052962
+  },
+  {
+    "w1": "Queensland",
+    "w2": "Brisbane",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 142671,
+    "unigram_w1": 613140,
+    "unigram_w2": 595296,
+    "ppmi": 7.156030828295814
+  }
+]

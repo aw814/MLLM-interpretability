@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Olivier Messiaen",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2044,
+    "unigram_w1": 25091,
+    "unigram_w2": 12749290,
+    "ppmi": 1.7272988597801255
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Olivier Messiaen",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7907,
+    "unigram_w1": 25091,
+    "unigram_w2": 46536486,
+    "ppmi": 1.811088718664472
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "유엔",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3067,
+    "unigram_w1": 94671,
+    "unigram_w2": 250699,
+    "ppmi": 1.0116960019948242
+  },
+  {
+    "w1": "언어",
+    "w2": "스페인어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 57722,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "유엔",
+    "w2": "스페인어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 550,
+    "unigram_w1": 94671,
+    "unigram_w2": 57722,
+    "ppmi": 0.6511344071242489
+  }
+]

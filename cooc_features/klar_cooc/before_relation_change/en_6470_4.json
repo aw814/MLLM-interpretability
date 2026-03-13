@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "New Jersey",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90130,
+    "unigram_w1": 1669419,
+    "unigram_w2": 7450623,
+    "ppmi": 1.4026783851229065
+  },
+  {
+    "w1": "capital",
+    "w2": "Trenton",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7558,
+    "unigram_w1": 7450623,
+    "unigram_w2": 116810,
+    "ppmi": 1.663857821403104
+  },
+  {
+    "w1": "New Jersey",
+    "w2": "Trenton",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39993,
+    "unigram_w1": 1669419,
+    "unigram_w2": 116810,
+    "ppmi": 6.225543872942621
+  }
+]

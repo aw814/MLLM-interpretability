@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Managua",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6780,
+    "unigram_w1": 34501,
+    "unigram_w2": 9137640,
+    "ppmi": 3.4782441250410763
+  },
+  {
+    "w1": "capitale",
+    "w2": "Nicaragua",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 471691,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Managua",
+    "w2": "Nicaragua",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22256,
+    "unigram_w1": 34501,
+    "unigram_w2": 471691,
+    "ppmi": 9.468988897468588
+  }
+]

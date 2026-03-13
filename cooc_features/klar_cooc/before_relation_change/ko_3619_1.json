@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "중앙아프리카 공화국",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 778,
+    "unigram_w2": 2712,
+    "ppmi": 4.886547399327072
+  },
+  {
+    "w1": "continent",
+    "w2": "아프리카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 2712,
+    "unigram_w2": 151855,
+    "ppmi": 3.0787387581208394
+  },
+  {
+    "w1": "중앙아프리카 공화국",
+    "w2": "아프리카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 211,
+    "unigram_w1": 778,
+    "unigram_w2": 151855,
+    "ppmi": 4.800453165057872
+  }
+]

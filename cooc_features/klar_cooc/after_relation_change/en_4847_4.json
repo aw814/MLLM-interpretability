@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stadio San Paolo",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1340,
+    "unigram_w2": 1657738,
+    "ppmi": 0.7159291424794896
+  },
+  {
+    "w1": "owns",
+    "w2": "Naples",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3480,
+    "unigram_w1": 1657738,
+    "unigram_w2": 279382,
+    "ppmi": 1.4550103753297752
+  },
+  {
+    "w1": "Stadio San Paolo",
+    "w2": "Naples",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 483,
+    "unigram_w1": 1340,
+    "unigram_w2": 279382,
+    "ppmi": 8.87878545908603
+  }
+]

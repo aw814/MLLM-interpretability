@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Milán",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 418132,
+    "unigram_w1": 2637848,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6489951652006698
+  },
+  {
+    "w1": "capital",
+    "w2": "Milán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 418132,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2637848,
+    "ppmi": 1.6489951652006698
+  },
+  {
+    "w1": "Milán",
+    "w2": "Milán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2637848,
+    "unigram_w1": 2637848,
+    "unigram_w2": 2637848,
+    "ppmi": 8.301279386402276
+  }
+]

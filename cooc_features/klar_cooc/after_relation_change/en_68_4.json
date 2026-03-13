@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abd al-Karim Qasim",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43,
+    "unigram_w1": 169,
+    "unigram_w2": 5281801,
+    "ppmi": 4.135589716266822
+  },
+  {
+    "w1": "died",
+    "w2": "Baghdad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23061,
+    "unigram_w1": 5281801,
+    "unigram_w2": 166605,
+    "ppmi": 3.2572996790329074
+  },
+  {
+    "w1": "Abd al-Karim Qasim",
+    "w2": "Baghdad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101,
+    "unigram_w1": 169,
+    "unigram_w2": 166605,
+    "ppmi": 10.354062787747532
+  }
+]

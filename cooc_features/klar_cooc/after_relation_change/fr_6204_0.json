@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "comté de King",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 183,
+    "unigram_w1": 2559,
+    "unigram_w2": 9137640,
+    "ppmi": 2.019860531343749
+  },
+  {
+    "w1": "capitale",
+    "w2": "Seattle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 566274,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "comté de King",
+    "w2": "Seattle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1128,
+    "unigram_w1": 2559,
+    "unigram_w2": 566274,
+    "ppmi": 8.655961454258556
+  }
+]

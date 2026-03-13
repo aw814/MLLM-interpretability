@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פלאו",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 2401,
+    "unigram_w2": 236631,
+    "ppmi": 1.4745093980325532
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פלאו",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 177,
+    "unigram_w1": 2401,
+    "unigram_w2": 231817,
+    "ppmi": 1.9717676669888815
+  }
+]

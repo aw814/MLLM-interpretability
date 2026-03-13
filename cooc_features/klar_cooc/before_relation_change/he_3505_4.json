@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ניו דלהי",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 4073,
+    "unigram_w2": 2719,
+    "ppmi": 3.6149037315817902
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "ניו דלהי",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 437,
+    "unigram_w1": 4073,
+    "unigram_w2": 100491,
+    "ppmi": 3.7191152449849283
+  }
+]

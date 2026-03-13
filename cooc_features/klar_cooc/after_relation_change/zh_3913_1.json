@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "恩贾梅纳",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 131,
+    "unigram_w1": 323,
+    "unigram_w2": 596594,
+    "ppmi": 5.309230271529025
+  },
+  {
+    "w1": "首都",
+    "w2": "乍得",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 10279,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "恩贾梅纳",
+    "w2": "乍得",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 265,
+    "unigram_w1": 323,
+    "unigram_w2": 10279,
+    "ppmi": 12.18463346503968
+  }
+]

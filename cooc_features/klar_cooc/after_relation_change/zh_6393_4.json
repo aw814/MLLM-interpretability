@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西孟加拉邦",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 1314,
+    "unigram_w2": 596594,
+    "ppmi": 2.380731081308137
+  },
+  {
+    "w1": "首都",
+    "w2": "加尔各答",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 5686,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西孟加拉邦",
+    "w2": "加尔各答",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 141,
+    "unigram_w1": 1314,
+    "unigram_w2": 5686,
+    "ppmi": 10.104190975952381
+  }
+]

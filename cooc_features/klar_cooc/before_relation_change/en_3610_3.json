@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Basel",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2831,
+    "unigram_w1": 184662,
+    "unigram_w2": 965266,
+    "ppmi": 2.5348044187700296
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Basel",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32690,
+    "unigram_w1": 184662,
+    "unigram_w2": 7715842,
+    "ppmi": 3.0654450086197294
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Willem Einthoven",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 106,
+    "unigram_w1": 205,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3342271179845258
+  },
+  {
+    "w1": "work",
+    "w2": "physiology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212615,
+    "unigram_w1": 74824954,
+    "unigram_w2": 457826,
+    "ppmi": 1.1792307495360304
+  },
+  {
+    "w1": "Willem Einthoven",
+    "w2": "physiology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62,
+    "unigram_w1": 205,
+    "unigram_w2": 457826,
+    "ppmi": 7.913079254318423
+  }
+]

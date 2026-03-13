@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Larry King",
+    "w2": "né",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 743,
+    "unigram_w1": 6742,
+    "unigram_w2": 9980164,
+    "ppmi": 2.5165406957871412
+  },
+  {
+    "w1": "né",
+    "w2": "Brooklyn",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9980164,
+    "unigram_w2": 627224,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Larry King",
+    "w2": "Brooklyn",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 159,
+    "unigram_w1": 6742,
+    "unigram_w2": 627224,
+    "ppmi": 4.2842161048376
+  }
+]

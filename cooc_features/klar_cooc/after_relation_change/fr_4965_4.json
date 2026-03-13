@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gustave Flaubert",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14690,
+    "unigram_w1": 102382,
+    "unigram_w2": 12749290,
+    "ppmi": 2.5439459354900764
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gustave Flaubert",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28407,
+    "unigram_w1": 102382,
+    "unigram_w2": 46536486,
+    "ppmi": 1.6274126498677701
+  }
+]

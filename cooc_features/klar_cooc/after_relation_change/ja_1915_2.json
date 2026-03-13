@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フリードリヒ・ヴィルヘルム・ベッセル",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 114,
+    "unigram_w2": 30190082,
+    "ppmi": 0.5069978107914038
+  },
+  {
+    "w1": "仕事",
+    "w2": "天文学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 237086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フリードリヒ・ヴィルヘルム・ベッセル",
+    "w2": "天文学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88,
+    "unigram_w1": 114,
+    "unigram_w2": 237086,
+    "ppmi": 9.151594898784357
+  }
+]

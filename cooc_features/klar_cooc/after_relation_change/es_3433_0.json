@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Du gamla, du fria",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 260,
+    "unigram_w2": 12196104,
+    "ppmi": 3.5293561742577637
+  },
+  {
+    "w1": "idioma",
+    "w2": "sueco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 2334422,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Du gamla, du fria",
+    "w2": "sueco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 260,
+    "unigram_w2": 2334422,
+    "ppmi": 7.930941054657459
+  }
+]

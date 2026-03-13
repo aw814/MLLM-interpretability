@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Provincia de Medina",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 110,
+    "unigram_w1": 308,
+    "unigram_w2": 42058182,
+    "ppmi": 2.820899409583162
+  },
+  {
+    "w1": "capital",
+    "w2": "Medina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 933626,
+    "unigram_w1": 42058182,
+    "unigram_w2": 6083324,
+    "ppmi": 1.6023830355270732
+  },
+  {
+    "w1": "Provincia de Medina",
+    "w2": "Medina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 308,
+    "unigram_w1": 308,
+    "unigram_w2": 6083324,
+    "ppmi": 7.095780976654426
+  }
+]

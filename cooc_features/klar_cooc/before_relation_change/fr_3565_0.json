@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califat abbasside",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 346,
+    "unigram_w1": 4104,
+    "unigram_w2": 3399010,
+    "ppmi": 3.6840453359016476
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "califat abbasside",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 749,
+    "unigram_w1": 4104,
+    "unigram_w2": 8624942,
+    "ppmi": 3.4548388679219824
+  }
+]

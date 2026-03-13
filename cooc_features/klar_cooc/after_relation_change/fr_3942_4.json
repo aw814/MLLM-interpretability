@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sacramento",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9788,
+    "unigram_w1": 148299,
+    "unigram_w2": 9137640,
+    "ppmi": 1.904174167202087
+  },
+  {
+    "w1": "capitale",
+    "w2": "Californie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 2367113,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sacramento",
+    "w2": "Californie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37059,
+    "unigram_w1": 148299,
+    "unigram_w2": 2367113,
+    "ppmi": 5.773605139660691
+  }
+]

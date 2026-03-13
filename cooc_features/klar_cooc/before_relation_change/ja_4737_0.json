@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イド・アル＝フィトル",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 294,
+    "unigram_w2": 154360,
+    "ppmi": 2.944492474240281
+  },
+  {
+    "w1": "religion",
+    "w2": "イスラム教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3482,
+    "unigram_w1": 154360,
+    "unigram_w2": 322468,
+    "ppmi": 3.6110688299934255
+  },
+  {
+    "w1": "イド・アル＝フィトル",
+    "w2": "イスラム教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 214,
+    "unigram_w1": 294,
+    "unigram_w2": 322468,
+    "ppmi": 8.623102407335724
+  }
+]

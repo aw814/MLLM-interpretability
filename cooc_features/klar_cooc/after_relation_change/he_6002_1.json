@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קיסר יפן",
+    "w2": "סמכות שיפוטית",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 564,
+    "unigram_w2": 1111,
+    "ppmi": 4.299014194184783
+  },
+  {
+    "w1": "סמכות שיפוטית",
+    "w2": "יפן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1111,
+    "unigram_w2": 86311,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קיסר יפן",
+    "w2": "יפן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 564,
+    "unigram_w1": 564,
+    "unigram_w2": 86311,
+    "ppmi": 7.158951831450684
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Virgilio",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22214,
+    "unigram_w1": 558756,
+    "unigram_w2": 8126762,
+    "ppmi": 2.0252828615620624
+  },
+  {
+    "w1": "habló",
+    "w2": "latín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 2258252,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Virgilio",
+    "w2": "latín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28096,
+    "unigram_w1": 558756,
+    "unigram_w2": 2258252,
+    "ppmi": 4.211652571726314
+  }
+]

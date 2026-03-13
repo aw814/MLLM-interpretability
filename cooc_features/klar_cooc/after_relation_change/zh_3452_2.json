@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alexander",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 747,
+    "unigram_w1": 12971,
+    "unigram_w2": 919361,
+    "ppmi": 1.869277970600351
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alexander",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 893,
+    "unigram_w1": 12971,
+    "unigram_w2": 910574,
+    "ppmi": 2.140685104082254
+  }
+]

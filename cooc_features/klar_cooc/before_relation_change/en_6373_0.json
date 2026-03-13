@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ukrainian Soviet Socialist Republic",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 348,
+    "unigram_w1": 1142,
+    "unigram_w2": 7450623,
+    "ppmi": 3.8994698404075034
+  },
+  {
+    "w1": "capital",
+    "w2": "Kiev",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22764,
+    "unigram_w1": 7450623,
+    "unigram_w2": 150028,
+    "ppmi": 2.8934674909538085
+  },
+  {
+    "w1": "Ukrainian Soviet Socialist Republic",
+    "w2": "Kiev",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 399,
+    "unigram_w1": 1142,
+    "unigram_w2": 150028,
+    "ppmi": 9.73082866169803
+  }
+]

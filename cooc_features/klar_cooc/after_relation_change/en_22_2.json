@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edward I of England",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 618,
+    "unigram_w1": 2084,
+    "unigram_w2": 9106140,
+    "ppmi": 3.5707181703703608
+  },
+  {
+    "w1": "born",
+    "w2": "Westminster",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53695,
+    "unigram_w1": 9106140,
+    "unigram_w2": 448513,
+    "ppmi": 2.2621045608804873
+  },
+  {
+    "w1": "Edward I of England",
+    "w2": "Westminster",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 243,
+    "unigram_w1": 2084,
+    "unigram_w2": 448513,
+    "ppmi": 6.567685579043366
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Catalonia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12382,
+    "unigram_w1": 94889,
+    "unigram_w2": 9241408,
+    "ppmi": 2.3651251822425223
+  },
+  {
+    "w1": "language",
+    "w2": "Catalan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23996,
+    "unigram_w1": 9241408,
+    "unigram_w2": 137019,
+    "ppmi": 2.789611551103592
+  },
+  {
+    "w1": "Catalonia",
+    "w2": "Catalan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29123,
+    "unigram_w1": 94889,
+    "unigram_w2": 137019,
+    "ppmi": 9.67470460294497
+  }
+]

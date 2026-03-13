@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "クライド・トンボー",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 192,
+    "unigram_w1": 602,
+    "unigram_w2": 30190082,
+    "ppmi": 0.8838757268599955
+  },
+  {
+    "w1": "仕事",
+    "w2": "天文学者",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 54336,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "クライド・トンボー",
+    "w2": "天文学者",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 316,
+    "unigram_w1": 602,
+    "unigram_w2": 54336,
+    "ppmi": 10.720644570369625
+  }
+]

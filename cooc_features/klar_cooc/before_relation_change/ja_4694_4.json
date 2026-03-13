@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マハトマ・ガンディー",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 3724,
+    "unigram_w2": 154360,
+    "ppmi": 4.410810478462818
+  },
+  {
+    "w1": "religion",
+    "w2": "ヒンドゥー教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1032,
+    "unigram_w1": 154360,
+    "unigram_w2": 63888,
+    "ppmi": 4.1921347178668515
+  },
+  {
+    "w1": "マハトマ・ガンディー",
+    "w2": "ヒンドゥー教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 578,
+    "unigram_w1": 3724,
+    "unigram_w2": 63888,
+    "ppmi": 8.7291352108141
+  }
+]

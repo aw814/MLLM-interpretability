@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Masaccio",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 180,
+    "unigram_w1": 13646,
+    "unigram_w2": 9533866,
+    "ppmi": 0.2032420684881323
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Italia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 18529044,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Masaccio",
+    "w2": "Italia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6696,
+    "unigram_w1": 13646,
+    "unigram_w2": 18529044,
+    "ppmi": 4.461817590159877
+  }
+]

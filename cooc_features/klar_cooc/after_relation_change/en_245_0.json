@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "World Athletics",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 203,
+    "unigram_w1": 4964,
+    "unigram_w2": 9241408,
+    "ppmi": 0.6911701875319108
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "World Athletics",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 377,
+    "unigram_w1": 4964,
+    "unigram_w2": 6382804,
+    "ppmi": 2.1181773108476265
+  }
+]

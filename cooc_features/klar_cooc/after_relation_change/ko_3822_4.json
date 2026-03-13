@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "리스본",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1777,
+    "unigram_w1": 10169,
+    "unigram_w2": 1351571,
+    "ppmi": 1.0124471095611727
+  },
+  {
+    "w1": "수도",
+    "w2": "포르투갈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 39155,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "리스본",
+    "w2": "포르투갈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4596,
+    "unigram_w1": 10169,
+    "unigram_w2": 39155,
+    "ppmi": 7.492679168703911
+  }
+]

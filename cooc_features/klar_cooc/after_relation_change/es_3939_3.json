@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Conakri",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1494,
+    "unigram_w1": 5684,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3785998302998603
+  },
+  {
+    "w1": "capital",
+    "w2": "Guinea",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 383896,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1607180,
+    "ppmi": 2.240582153812491
+  },
+  {
+    "w1": "Conakri",
+    "w2": "Guinea",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4942,
+    "unigram_w1": 5684,
+    "unigram_w2": 1607180,
+    "ppmi": 8.81429776127549
+  }
+]

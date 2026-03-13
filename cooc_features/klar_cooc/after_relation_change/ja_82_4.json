@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヘンリー4世",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68,
+    "unigram_w1": 1112,
+    "unigram_w2": 620194,
+    "ppmi": 4.106265967774894
+  },
+  {
+    "w1": "死亡した",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 1900368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヘンリー4世",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 392,
+    "unigram_w1": 1112,
+    "unigram_w2": 1900368,
+    "ppmi": 5.018025625823371
+  }
+]

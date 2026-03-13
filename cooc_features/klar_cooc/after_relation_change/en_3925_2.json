@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suva",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3600,
+    "unigram_w1": 20881,
+    "unigram_w2": 7450623,
+    "ppmi": 3.0777512867458383
+  },
+  {
+    "w1": "capital",
+    "w2": "Fiji",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15167,
+    "unigram_w1": 7450623,
+    "unigram_w2": 187926,
+    "ppmi": 1.9827162560718643
+  },
+  {
+    "w1": "Suva",
+    "w2": "Fiji",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14807,
+    "unigram_w1": 20881,
+    "unigram_w2": 187926,
+    "ppmi": 10.42708632417109
+  }
+]

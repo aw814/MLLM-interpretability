@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ナイジェリア",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 632,
+    "unigram_w1": 151056,
+    "unigram_w2": 48638,
+    "ppmi": 3.9093647408936127
+  },
+  {
+    "w1": "continent",
+    "w2": "アフリカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2966,
+    "unigram_w1": 48638,
+    "unigram_w2": 1832838,
+    "ppmi": 2.5389629945862024
+  },
+  {
+    "w1": "ナイジェリア",
+    "w2": "アフリカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 75980,
+    "unigram_w1": 151056,
+    "unigram_w2": 1832838,
+    "ppmi": 5.583064525433549
+  }
+]

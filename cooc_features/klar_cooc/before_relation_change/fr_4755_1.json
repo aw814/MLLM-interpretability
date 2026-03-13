@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anouar el-Sadate",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1364,
+    "unigram_w1": 8418,
+    "unigram_w2": 4547729,
+    "ppmi": 4.206566578566399
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 409223,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1266878,
+    "ppmi": 5.201881981662004
+  },
+  {
+    "w1": "Anouar el-Sadate",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 893,
+    "unigram_w1": 8418,
+    "unigram_w2": 1266878,
+    "ppmi": 5.43932370095903
+  }
+]

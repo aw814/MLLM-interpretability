@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Grecia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 822,
+    "unigram_w1": 2660,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6121102900465347
+  },
+  {
+    "w1": "capital",
+    "w2": "Atenas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 312124,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1775356,
+    "ppmi": 1.7984090884427604
+  },
+  {
+    "w1": "Reino de Grecia",
+    "w2": "Atenas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 638,
+    "unigram_w1": 2660,
+    "unigram_w2": 1775356,
+    "ppmi": 6.812734557339353
+  }
+]

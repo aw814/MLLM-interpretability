@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Halle Berry",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 111548,
+    "unigram_w2": 77008,
+    "ppmi": 1.8801110747162677
+  },
+  {
+    "w1": "occupation",
+    "w2": "modelo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12942,
+    "unigram_w1": 77008,
+    "unigram_w2": 51344910,
+    "ppmi": 1.4455437161500118
+  },
+  {
+    "w1": "Halle Berry",
+    "w2": "modelo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20370,
+    "unigram_w1": 111548,
+    "unigram_w2": 51344910,
+    "ppmi": 1.565344700638241
+  }
+]

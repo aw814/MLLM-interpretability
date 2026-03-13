@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קורט ולדהיים",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 195,
+    "unigram_w2": 49512,
+    "ppmi": 3.9383502283365726
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "אוסטריה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 46910,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קורט ולדהיים",
+    "w2": "אוסטריה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 112,
+    "unigram_w1": 195,
+    "unigram_w2": 46910,
+    "ppmi": 7.238625375897318
+  }
+]

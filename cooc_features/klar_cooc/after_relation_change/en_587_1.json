@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thailand",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83975,
+    "unigram_w1": 1163970,
+    "unigram_w2": 9241408,
+    "ppmi": 1.5101714962569908
+  },
+  {
+    "w1": "language",
+    "w2": "Thai",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 64567,
+    "unigram_w1": 9241408,
+    "unigram_w2": 876435,
+    "ppmi": 1.5403434729735732
+  },
+  {
+    "w1": "Thailand",
+    "w2": "Thai",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 261281,
+    "unigram_w1": 1163970,
+    "unigram_w2": 876435,
+    "ppmi": 6.546135588560585
+  }
+]

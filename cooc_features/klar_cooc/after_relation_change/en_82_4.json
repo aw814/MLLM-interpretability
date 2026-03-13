@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Henry IV of England",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 171,
+    "unigram_w1": 349,
+    "unigram_w2": 5281801,
+    "ppmi": 5.080973686523154
+  },
+  {
+    "w1": "died",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 433686,
+    "unigram_w1": 5281801,
+    "unigram_w2": 8112147,
+    "ppmi": 1.884843379050838
+  },
+  {
+    "w1": "Henry IV of England",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 146,
+    "unigram_w1": 349,
+    "unigram_w2": 8112147,
+    "ppmi": 4.233891881668575
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "美国足球协会",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 8,
+    "unigram_w2": 6418768,
+    "ppmi": 0.18372258107702366
+  },
+  {
+    "w1": "位置",
+    "w2": "芝加哥",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 105113,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "美国足球协会",
+    "w2": "芝加哥",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 8,
+    "unigram_w2": 105113,
+    "ppmi": 6.116005985417817
+  }
+]

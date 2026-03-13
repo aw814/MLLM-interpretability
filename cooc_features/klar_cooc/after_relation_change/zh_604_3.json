@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威尔斯",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 528,
+    "unigram_w1": 8839,
+    "unigram_w2": 919361,
+    "ppmi": 1.9220423010036345
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "威尔斯",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 505,
+    "unigram_w1": 8839,
+    "unigram_w2": 910574,
+    "ppmi": 1.8716429604342555
+  }
+]

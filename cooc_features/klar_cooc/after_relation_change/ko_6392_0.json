@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "브리티시컬럼비아주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 356,
+    "unigram_w2": 1351571,
+    "ppmi": 1.3753040013040738
+  },
+  {
+    "w1": "수도",
+    "w2": "빅토리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 40449,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "브리티시컬럼비아주",
+    "w2": "빅토리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 356,
+    "unigram_w2": 40449,
+    "ppmi": 5.115765360851419
+  }
+]

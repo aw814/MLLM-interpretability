@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tallahassee",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16706,
+    "unigram_w1": 87500,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9174095629638752
+  },
+  {
+    "w1": "capital",
+    "w2": "Florida",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 931708,
+    "unigram_w1": 42058182,
+    "unigram_w2": 6650946,
+    "ppmi": 1.4707164652335165
+  },
+  {
+    "w1": "Tallahassee",
+    "w2": "Florida",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 52912,
+    "unigram_w1": 87500,
+    "unigram_w2": 6650946,
+    "ppmi": 6.241393197535755
+  }
+]

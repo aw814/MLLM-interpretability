@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "独立国家联合体",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 250,
+    "unigram_w2": 919361,
+    "ppmi": 3.108994182484236
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "独立国家联合体",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 250,
+    "unigram_w2": 46749,
+    "ppmi": 7.177136393586232
+  }
+]

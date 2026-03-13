@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charles Darwin",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24277,
+    "unigram_w1": 53305,
+    "unigram_w2": 74824954,
+    "ppmi": 1.1511060524114254
+  },
+  {
+    "w1": "work",
+    "w2": "biology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 676595,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1529427,
+    "ppmi": 1.1091599354920438
+  },
+  {
+    "w1": "Charles Darwin",
+    "w2": "biology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7629,
+    "unigram_w1": 53305,
+    "unigram_w2": 1529427,
+    "ppmi": 5.093538100312488
+  }
+]

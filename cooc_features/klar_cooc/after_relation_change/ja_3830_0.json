@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オタワ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7218,
+    "unigram_w1": 36868,
+    "unigram_w2": 2444276,
+    "ppmi": 3.8064303667319037
+  },
+  {
+    "w1": "首都",
+    "w2": "カナダ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 1911168,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オタワ",
+    "w2": "カナダ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26236,
+    "unigram_w1": 36868,
+    "unigram_w2": 1911168,
+    "ppmi": 6.0232596944432695
+  }
+]

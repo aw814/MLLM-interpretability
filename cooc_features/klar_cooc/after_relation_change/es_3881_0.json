@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oxford",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 367820,
+    "unigram_w1": 3143522,
+    "unigram_w2": 42058182,
+    "ppmi": 1.21101620957698
+  },
+  {
+    "w1": "capital",
+    "w2": "Oxfordshire",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5386,
+    "unigram_w1": 42058182,
+    "unigram_w2": 41904,
+    "ppmi": 1.3465244069044793
+  },
+  {
+    "w1": "Oxford",
+    "w2": "Oxfordshire",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11658,
+    "unigram_w1": 3143522,
+    "unigram_w2": 41904,
+    "ppmi": 6.202491303436497
+  }
+]

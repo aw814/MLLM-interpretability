@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Innocent XI",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 250,
+    "unigram_w1": 666,
+    "unigram_w2": 5281801,
+    "ppmi": 4.696610315437733
+  },
+  {
+    "w1": "died",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 122770,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1168108,
+    "ppmi": 2.8600607027456006
+  },
+  {
+    "w1": "Innocent XI",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 337,
+    "unigram_w1": 666,
+    "unigram_w2": 1168108,
+    "ppmi": 7.304287090790623
+  }
+]

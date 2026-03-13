@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cagliari",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 119050,
+    "unigram_w1": 380544,
+    "unigram_w2": 42058182,
+    "ppmi": 2.629830583890818
+  },
+  {
+    "w1": "capital",
+    "w2": "Cerdeña",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72236,
+    "unigram_w1": 42058182,
+    "unigram_w2": 409066,
+    "ppmi": 1.80478251810692
+  },
+  {
+    "w1": "Cagliari",
+    "w2": "Cerdeña",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43858,
+    "unigram_w1": 380544,
+    "unigram_w2": 409066,
+    "ppmi": 7.873083941114942
+  }
+]

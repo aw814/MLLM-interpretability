@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מערב בנגל",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 221,
+    "unigram_w2": 90246,
+    "ppmi": 3.2136213162200167
+  },
+  {
+    "w1": "בירה",
+    "w2": "קולקטה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 804,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מערב בנגל",
+    "w2": "קולקטה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 221,
+    "unigram_w2": 804,
+    "ppmi": 11.924609319459911
+  }
+]

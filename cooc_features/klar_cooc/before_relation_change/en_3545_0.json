@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kanchenjunga",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 148,
+    "unigram_w1": 8657,
+    "unigram_w2": 965266,
+    "ppmi": 2.6920377978804764
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Kanchenjunga",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 737,
+    "unigram_w1": 8657,
+    "unigram_w2": 3865133,
+    "ppmi": 3.0065856511357567
+  }
+]

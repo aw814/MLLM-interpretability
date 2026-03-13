@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Catalogne",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18467,
+    "unigram_w1": 695506,
+    "unigram_w2": 3399010,
+    "ppmi": 2.017190585048512
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Catalogne",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127616,
+    "unigram_w1": 695506,
+    "unigram_w2": 18211758,
+    "ppmi": 2.3842947007129784
+  }
+]

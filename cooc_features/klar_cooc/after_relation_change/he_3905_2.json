@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "באטון רוז'",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 138,
+    "unigram_w2": 90246,
+    "ppmi": 2.7934637452823647
+  },
+  {
+    "w1": "בירה",
+    "w2": "לואיזיאנה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 4287,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "באטון רוז'",
+    "w2": "לואיזיאנה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 87,
+    "unigram_w1": 138,
+    "unigram_w2": 4287,
+    "ppmi": 10.824874985226254
+  }
+]

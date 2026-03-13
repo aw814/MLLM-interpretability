@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califato Omeya",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 218,
+    "unigram_w1": 11536,
+    "unigram_w2": 979024,
+    "ppmi": 4.005553564993361
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61902,
+    "unigram_w1": 979024,
+    "unigram_w2": 1779692,
+    "ppmi": 4.885726937382873
+  },
+  {
+    "w1": "califato Omeya",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4308,
+    "unigram_w1": 11536,
+    "unigram_w2": 1779692,
+    "ppmi": 7.447960321945735
+  }
+]

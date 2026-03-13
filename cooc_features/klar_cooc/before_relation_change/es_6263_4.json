@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Emilia-Romaña",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7210,
+    "unigram_w1": 61314,
+    "unigram_w2": 42058182,
+    "ppmi": 1.218180875140482
+  },
+  {
+    "w1": "capital",
+    "w2": "Bolonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 222600,
+    "unigram_w1": 42058182,
+    "unigram_w2": 890868,
+    "ppmi": 2.305568146118337
+  },
+  {
+    "w1": "Emilia-Romaña",
+    "w2": "Bolonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13266,
+    "unigram_w1": 61314,
+    "unigram_w2": 890868,
+    "ppmi": 7.658874137730363
+  }
+]

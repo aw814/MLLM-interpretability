@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Honda Civic",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4381,
+    "unigram_w1": 78651,
+    "unigram_w2": 3911896,
+    "ppmi": 2.3772333397094996
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Honda",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 47907,
+    "unigram_w1": 3911896,
+    "unigram_w2": 715075,
+    "ppmi": 2.643580141019099
+  },
+  {
+    "w1": "Honda Civic",
+    "w2": "Honda",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78651,
+    "unigram_w1": 78651,
+    "unigram_w2": 715075,
+    "ppmi": 8.995067873899904
+  }
+]

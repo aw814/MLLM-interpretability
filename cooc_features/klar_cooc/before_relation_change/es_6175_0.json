@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dinastía ayubí",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 370,
+    "unigram_w1": 728,
+    "unigram_w2": 42058182,
+    "ppmi": 3.3299130570710194
+  },
+  {
+    "w1": "capital",
+    "w2": "El Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 169340,
+    "unigram_w1": 42058182,
+    "unigram_w2": 710664,
+    "ppmi": 2.237081412165681
+  },
+  {
+    "w1": "Dinastía ayubí",
+    "w2": "El Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 320,
+    "unigram_w1": 728,
+    "unigram_w2": 710664,
+    "ppmi": 9.007534752174388
+  }
+]

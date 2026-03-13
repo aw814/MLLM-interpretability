@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "포트란",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 503,
+    "unigram_w2": 17565,
+    "ppmi": 4.1424127564217095
+  },
+  {
+    "w1": "developer",
+    "w2": "IBM",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 654,
+    "unigram_w1": 17565,
+    "unigram_w2": 28032,
+    "ppmi": 4.373259017236783
+  },
+  {
+    "w1": "포트란",
+    "w2": "IBM",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62,
+    "unigram_w1": 503,
+    "unigram_w2": 28032,
+    "ppmi": 6.1003098684297825
+  }
+]

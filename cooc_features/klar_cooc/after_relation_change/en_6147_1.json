@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "WWE",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7476,
+    "unigram_w1": 186597,
+    "unigram_w2": 14590058,
+    "ppmi": 0.002805219059709393
+  },
+  {
+    "w1": "location",
+    "w2": "Stamford",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11520,
+    "unigram_w1": 14590058,
+    "unigram_w2": 173330,
+    "ppmi": 0.7330118750630138
+  },
+  {
+    "w1": "WWE",
+    "w2": "Stamford",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1361,
+    "unigram_w1": 186597,
+    "unigram_w2": 173330,
+    "ppmi": 3.9405261468897566
+  }
+]

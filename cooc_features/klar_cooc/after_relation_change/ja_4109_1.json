@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ミハイル・ホドルコフスキー",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 450,
+    "unigram_w2": 4020810,
+    "ppmi": 2.327708035698811
+  },
+  {
+    "w1": "話した",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ミハイル・ホドルコフスキー",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 128,
+    "unigram_w1": 450,
+    "unigram_w2": 310196,
+    "ppmi": 7.323502494015033
+  }
+]

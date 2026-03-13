@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伦敦",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15633,
+    "unigram_w1": 370565,
+    "unigram_w2": 596594,
+    "ppmi": 2.044137565676689
+  },
+  {
+    "w1": "首都",
+    "w2": "英格兰",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 120875,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "伦敦",
+    "w2": "英格兰",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14621,
+    "unigram_w1": 370565,
+    "unigram_w2": 120875,
+    "ppmi": 4.2508184712695005
+  }
+]

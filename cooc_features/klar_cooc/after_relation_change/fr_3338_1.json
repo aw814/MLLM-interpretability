@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Henri V",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 127,
+    "unigram_w1": 18590,
+    "unigram_w2": 1325492,
+    "ppmi": 1.4172643043266107
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "royaume d'Angleterre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 6753,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Henri V",
+    "w2": "royaume d'Angleterre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 308,
+    "unigram_w1": 18590,
+    "unigram_w2": 6753,
+    "ppmi": 10.31214984825132
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hanoï",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4339,
+    "unigram_w1": 213013,
+    "unigram_w2": 3399010,
+    "ppmi": 1.6347970406777044
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Hanoï",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27800,
+    "unigram_w1": 213013,
+    "unigram_w2": 3597699,
+    "ppmi": 4.23248754954761
+  }
+]

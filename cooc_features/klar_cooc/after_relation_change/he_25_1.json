@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ארתור הרדן",
+    "w2": "נולד",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 18,
+    "unigram_w2": 359211,
+    "ppmi": 4.391243260800829
+  },
+  {
+    "w1": "נולד",
+    "w2": "מנצ'סטר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359211,
+    "unigram_w2": 35522,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ארתור הרדן",
+    "w2": "מנצ'סטר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 18,
+    "unigram_w2": 35522,
+    "ppmi": 5.269858454750883
+  }
+]

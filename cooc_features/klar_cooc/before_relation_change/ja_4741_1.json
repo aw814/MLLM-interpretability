@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モンゴル人民共和国",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 2430,
+    "unigram_w2": 154360,
+    "ppmi": 2.2193523154708648
+  },
+  {
+    "w1": "religion",
+    "w2": "仏教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6072,
+    "unigram_w1": 154360,
+    "unigram_w2": 851502,
+    "ppmi": 3.012470501558772
+  },
+  {
+    "w1": "モンゴル人民共和国",
+    "w2": "仏教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 516,
+    "unigram_w1": 2430,
+    "unigram_w2": 851502,
+    "ppmi": 5.444940506502033
+  }
+]

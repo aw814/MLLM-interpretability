@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "欧州サッカー連盟",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 292,
+    "unigram_w1": 6668,
+    "unigram_w2": 3715876,
+    "ppmi": 1.041619483757222
+  },
+  {
+    "w1": "言語",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 915136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "欧州サッカー連盟",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 236,
+    "unigram_w1": 6668,
+    "unigram_w2": 915136,
+    "ppmi": 2.756082267620379
+  }
+]

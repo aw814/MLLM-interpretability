@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Max Weber",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34713,
+    "unigram_w1": 67496,
+    "unigram_w2": 57128353,
+    "ppmi": 2.2218857433714394
+  },
+  {
+    "w1": "travail",
+    "w2": "économie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 6177903,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Max Weber",
+    "w2": "économie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13704,
+    "unigram_w1": 67496,
+    "unigram_w2": 6177903,
+    "ppmi": 4.0900245609436015
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Byelorussian Soviet Socialist Republic",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 64,
+    "unigram_w1": 269,
+    "unigram_w2": 9241408,
+    "ppmi": 3.231659307920467
+  },
+  {
+    "w1": "language",
+    "w2": "Polish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127705,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1470656,
+    "ppmi": 1.7775487608123028
+  },
+  {
+    "w1": "Byelorussian Soviet Socialist Republic",
+    "w2": "Polish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 269,
+    "unigram_w2": 1470656,
+    "ppmi": 6.5271683454526634
+  }
+]

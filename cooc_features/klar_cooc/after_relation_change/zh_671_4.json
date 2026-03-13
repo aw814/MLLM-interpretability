@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "斯塔夫罗波尔边疆区",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 86,
+    "unigram_w2": 919361,
+    "ppmi": 2.5610508711938857
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "斯塔夫罗波尔边疆区",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 86,
+    "unigram_w2": 46749,
+    "ppmi": 7.028599929860961
+  }
+]

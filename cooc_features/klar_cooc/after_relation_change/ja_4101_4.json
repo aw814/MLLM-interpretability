@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アルベルト・リエラ",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 174,
+    "unigram_w2": 4020810,
+    "ppmi": 2.69854573106712
+  },
+  {
+    "w1": "話した",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 570272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アルベルト・リエラ",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 174,
+    "unigram_w2": 570272,
+    "ppmi": 4.400832573922236
+  }
+]

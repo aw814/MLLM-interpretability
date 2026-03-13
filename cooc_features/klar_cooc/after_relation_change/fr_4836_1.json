@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "La Ronde de nuit",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 617,
+    "unigram_w1": 7617,
+    "unigram_w2": 13047836,
+    "ppmi": 1.6857275802587888
+  },
+  {
+    "w1": "possède",
+    "w2": "Amsterdam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 1501543,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "La Ronde de nuit",
+    "w2": "Amsterdam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2167,
+    "unigram_w1": 7617,
+    "unigram_w2": 1501543,
+    "ppmi": 6.617377197694044
+  }
+]

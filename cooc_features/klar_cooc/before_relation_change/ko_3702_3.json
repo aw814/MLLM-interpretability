@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "심비안 OS",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 65,
+    "unigram_w2": 17565,
+    "ppmi": 4.77253143831142
+  },
+  {
+    "w1": "developer",
+    "w2": "노키아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 17565,
+    "unigram_w2": 9050,
+    "ppmi": 2.458552096539548
+  },
+  {
+    "w1": "심비안 OS",
+    "w2": "노키아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 65,
+    "unigram_w2": 9050,
+    "ppmi": 9.899170319005535
+  }
+]

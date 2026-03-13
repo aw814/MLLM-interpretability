@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아크로티리 데켈리아",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 66,
+    "unigram_w2": 250699,
+    "ppmi": 3.9153243721610633
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아크로티리 데켈리아",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 66,
+    "unigram_w2": 359114,
+    "ppmi": 4.682240935189696
+  }
+]

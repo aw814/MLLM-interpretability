@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האומות המאוחדות",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 743,
+    "unigram_w1": 9213,
+    "unigram_w2": 236631,
+    "ppmi": 2.0716921891045352
+  },
+  {
+    "w1": "שפה",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "האומות המאוחדות",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 258,
+    "unigram_w1": 9213,
+    "unigram_w2": 47368,
+    "ppmi": 2.8663554672762674
+  }
+]

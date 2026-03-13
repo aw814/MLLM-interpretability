@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Parliament of Canada",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 517,
+    "unigram_w1": 3091,
+    "unigram_w2": 1074632,
+    "ppmi": 5.827554172227126
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Canada",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 86609,
+    "unigram_w1": 1074632,
+    "unigram_w2": 6681798,
+    "ppmi": 2.1378160331573692
+  },
+  {
+    "w1": "Parliament of Canada",
+    "w2": "Canada",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3091,
+    "unigram_w1": 3091,
+    "unigram_w2": 6681798,
+    "ppmi": 5.770997975950187
+  }
+]

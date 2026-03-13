@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "约翰·斯图尔特·密尔",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 19,
+    "unigram_w2": 919361,
+    "ppmi": 3.3243506131735545
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "约翰·斯图尔特·密尔",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 19,
+    "unigram_w2": 910574,
+    "ppmi": 3.7532433136023156
+  }
+]

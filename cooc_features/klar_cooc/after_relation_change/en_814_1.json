@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Community of Valencia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83,
+    "unigram_w1": 841,
+    "unigram_w2": 9241408,
+    "ppmi": 1.9621991115688715
+  },
+  {
+    "w1": "language",
+    "w2": "Catalan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23996,
+    "unigram_w1": 9241408,
+    "unigram_w2": 137019,
+    "ppmi": 2.789611551103592
+  },
+  {
+    "w1": "Community of Valencia",
+    "w2": "Catalan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 841,
+    "unigram_w2": 137019,
+    "ppmi": 7.470179410197825
+  }
+]

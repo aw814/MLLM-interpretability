@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アラニス・モリセット",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 174,
+    "unigram_w1": 2606,
+    "unigram_w2": 4020810,
+    "ppmi": 1.5363716360553497
+  },
+  {
+    "w1": "話した",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アラニス・モリセット",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 612,
+    "unigram_w1": 2606,
+    "unigram_w2": 8357100,
+    "ppmi": 2.295299748234883
+  }
+]

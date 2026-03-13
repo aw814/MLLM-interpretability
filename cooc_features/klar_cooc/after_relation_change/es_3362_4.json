@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hamad Al Thani",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 268,
+    "unigram_w1": 11202,
+    "unigram_w2": 9533866,
+    "ppmi": 1.0621999506297983
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Catar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 583484,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Hamad Al Thani",
+    "w2": "Catar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3676,
+    "unigram_w1": 11202,
+    "unigram_w2": 583484,
+    "ppmi": 8.870328158961657
+  }
+]

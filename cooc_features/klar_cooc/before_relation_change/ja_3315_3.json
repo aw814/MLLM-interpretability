@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エアバスA350 XWB",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 548,
+    "unigram_w2": 212080,
+    "ppmi": 1.5878231097901145
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "エアバス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 150,
+    "unigram_w1": 212080,
+    "unigram_w2": 70646,
+    "ppmi": 0.8063536266981159
+  },
+  {
+    "w1": "エアバスA350 XWB",
+    "w2": "エアバス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 548,
+    "unigram_w1": 548,
+    "unigram_w2": 70646,
+    "ppmi": 11.271783985956857
+  }
+]

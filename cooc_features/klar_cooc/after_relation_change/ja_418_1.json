@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウェールズ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17278,
+    "unigram_w1": 130734,
+    "unigram_w2": 3715876,
+    "ppmi": 2.635207056495493
+  },
+  {
+    "w1": "言語",
+    "w2": "ウェールズ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 7620,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウェールズ",
+    "w2": "ウェールズ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7620,
+    "unigram_w1": 130734,
+    "unigram_w2": 7620,
+    "ppmi": 10.383829376342858
+  }
+]

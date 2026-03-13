@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nikolai Ivanovich Lobachevsky",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 50,
+    "unigram_w1": 77,
+    "unigram_w2": 74824954,
+    "ppmi": 1.662856412006596
+  },
+  {
+    "w1": "work",
+    "w2": "geometry",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 285345,
+    "unigram_w1": 74824954,
+    "unigram_w2": 682452,
+    "ppmi": 1.0277664681274763
+  },
+  {
+    "w1": "Nikolai Ivanovich Lobachevsky",
+    "w2": "geometry",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 77,
+    "unigram_w2": 682452,
+    "ppmi": 8.410358164724727
+  }
+]

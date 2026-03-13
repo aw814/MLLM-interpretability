@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Led Zeppelin",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19671,
+    "unigram_w1": 60660,
+    "unigram_w2": 74824954,
+    "ppmi": 0.6611115656604234
+  },
+  {
+    "w1": "work",
+    "w2": "musician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 491509,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1212749,
+    "ppmi": 0.9827955120475669
+  },
+  {
+    "w1": "Led Zeppelin",
+    "w2": "musician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7068,
+    "unigram_w1": 60660,
+    "unigram_w2": 1212749,
+    "ppmi": 5.131581801728939
+  }
+]

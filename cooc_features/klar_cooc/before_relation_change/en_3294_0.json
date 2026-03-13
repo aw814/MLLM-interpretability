@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Intel 8008",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 352,
+    "unigram_w2": 3911896,
+    "ppmi": 3.6074966661100816
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Intel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 46042,
+    "unigram_w1": 3911896,
+    "unigram_w2": 846430,
+    "ppmi": 2.342997975519505
+  },
+  {
+    "w1": "Intel 8008",
+    "w2": "Intel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 352,
+    "unigram_w1": 352,
+    "unigram_w2": 846430,
+    "ppmi": 8.751771677735217
+  }
+]

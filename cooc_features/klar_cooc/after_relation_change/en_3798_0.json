@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prague",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36951,
+    "unigram_w1": 337123,
+    "unigram_w2": 7450623,
+    "ppmi": 2.424283535776324
+  },
+  {
+    "w1": "capital",
+    "w2": "Bohemia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7706,
+    "unigram_w1": 7450623,
+    "unigram_w2": 67259,
+    "ppmi": 2.4882000418515187
+  },
+  {
+    "w1": "Prague",
+    "w2": "Bohemia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14765,
+    "unigram_w1": 337123,
+    "unigram_w2": 67259,
+    "ppmi": 7.892341409172072
+  }
+]

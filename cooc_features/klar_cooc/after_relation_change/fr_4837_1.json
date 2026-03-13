@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Blogger",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14223,
+    "unigram_w1": 371003,
+    "unigram_w2": 13047836,
+    "ppmi": 0.6064749326922257
+  },
+  {
+    "w1": "possède",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 13685522,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Blogger",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 97669,
+    "unigram_w1": 371003,
+    "unigram_w2": 13685522,
+    "ppmi": 3.3173099494166256
+  }
+]

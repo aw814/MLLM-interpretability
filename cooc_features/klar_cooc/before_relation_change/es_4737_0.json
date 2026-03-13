@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eid al-Fitr",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 186,
+    "unigram_w1": 14680,
+    "unigram_w2": 979024,
+    "ppmi": 3.4288191528347136
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61902,
+    "unigram_w1": 979024,
+    "unigram_w2": 1779692,
+    "ppmi": 4.885726937382873
+  },
+  {
+    "w1": "Eid al-Fitr",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3368,
+    "unigram_w1": 14680,
+    "unigram_w2": 1779692,
+    "ppmi": 6.745125311978171
+  }
+]

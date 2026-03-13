@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ונצואלה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 266,
+    "unigram_w1": 12089,
+    "unigram_w2": 90246,
+    "ppmi": 1.588508425917591
+  },
+  {
+    "w1": "בירה",
+    "w2": "קראקס",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 1069,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ונצואלה",
+    "w2": "קראקס",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 628,
+    "unigram_w1": 12089,
+    "unigram_w2": 1069,
+    "ppmi": 9.227375969557276
+  }
+]

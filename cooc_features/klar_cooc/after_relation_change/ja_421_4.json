@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フランドル",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3762,
+    "unigram_w1": 37760,
+    "unigram_w2": 3715876,
+    "ppmi": 2.227546303137613
+  },
+  {
+    "w1": "言語",
+    "w2": "オランダ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 150826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フランドル",
+    "w2": "オランダ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2250,
+    "unigram_w1": 37760,
+    "unigram_w2": 150826,
+    "ppmi": 6.108716762233462
+  }
+]

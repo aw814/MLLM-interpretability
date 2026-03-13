@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דאר א-סלאם",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19,
+    "unigram_w1": 315,
+    "unigram_w2": 90246,
+    "ppmi": 3.0433527750592364
+  },
+  {
+    "w1": "בירה",
+    "w2": "טנזניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 7540,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דאר א-סלאם",
+    "w2": "טנזניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 165,
+    "unigram_w1": 315,
+    "unigram_w2": 7540,
+    "ppmi": 9.742974035675179
+  }
+]

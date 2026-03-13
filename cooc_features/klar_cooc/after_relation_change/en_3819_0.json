@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Khartoum",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10145,
+    "unigram_w1": 37704,
+    "unigram_w2": 7450623,
+    "ppmi": 3.7199245585502867
+  },
+  {
+    "w1": "capital",
+    "w2": "Sudan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42155,
+    "unigram_w1": 7450623,
+    "unigram_w2": 304226,
+    "ppmi": 2.7625054891920158
+  },
+  {
+    "w1": "Khartoum",
+    "w2": "Sudan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28367,
+    "unigram_w1": 37704,
+    "unigram_w2": 304226,
+    "ppmi": 9.81751498200331
+  }
+]

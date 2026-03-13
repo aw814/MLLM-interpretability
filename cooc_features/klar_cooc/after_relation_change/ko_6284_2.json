@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "노르파드칼레",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 25,
+    "unigram_w2": 1351571,
+    "ppmi": 0.8852531476083846
+  },
+  {
+    "w1": "수도",
+    "w2": "릴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 459525,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "노르파드칼레",
+    "w2": "릴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 25,
+    "unigram_w2": 459525,
+    "ppmi": 2.7636032860890354
+  }
+]

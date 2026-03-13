@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "柴门霍夫",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 97,
+    "unigram_w2": 517729,
+    "ppmi": 3.215837119548502
+  },
+  {
+    "w1": "去世",
+    "w2": "华沙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 22783,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "柴门霍夫",
+    "w2": "华沙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 97,
+    "unigram_w2": 22783,
+    "ppmi": 6.722004616323289
+  }
+]

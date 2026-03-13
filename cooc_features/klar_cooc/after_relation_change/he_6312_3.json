@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סקסוניה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 142,
+    "unigram_w1": 2508,
+    "unigram_w2": 90246,
+    "ppmi": 2.952058766705573
+  },
+  {
+    "w1": "בירה",
+    "w2": "דרזדן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 4191,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סקסוניה",
+    "w2": "דרזדן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 392,
+    "unigram_w1": 2508,
+    "unigram_w2": 4191,
+    "ppmi": 8.845518053155217
+  }
+]

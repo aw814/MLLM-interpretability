@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿图尔·鲁宾斯坦",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 184,
+    "unigram_w2": 3087,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "钢琴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 102,
+    "unigram_w1": 3087,
+    "unigram_w2": 178307,
+    "ppmi": 3.4340193258838907
+  },
+  {
+    "w1": "阿图尔·鲁宾斯坦",
+    "w2": "钢琴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 117,
+    "unigram_w1": 184,
+    "unigram_w2": 178307,
+    "ppmi": 7.7003865150539115
+  }
+]

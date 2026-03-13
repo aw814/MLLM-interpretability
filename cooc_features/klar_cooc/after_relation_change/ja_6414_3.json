@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アラブ連合共和国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 316,
+    "unigram_w1": 814,
+    "unigram_w2": 2444276,
+    "ppmi": 4.794024238126135
+  },
+  {
+    "w1": "首都",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 321728,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アラブ連合共和国",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 248,
+    "unigram_w1": 814,
+    "unigram_w2": 321728,
+    "ppmi": 7.369933594930524
+  }
+]

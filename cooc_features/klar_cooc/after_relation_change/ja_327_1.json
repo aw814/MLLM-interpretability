@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スリランカ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21148,
+    "unigram_w1": 237102,
+    "unigram_w2": 3715876,
+    "ppmi": 2.067918618532275
+  },
+  {
+    "w1": "言語",
+    "w2": "タミル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 19236,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スリランカ",
+    "w2": "タミル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2882,
+    "unigram_w1": 237102,
+    "unigram_w2": 19236,
+    "ppmi": 6.786289345092017
+  }
+]

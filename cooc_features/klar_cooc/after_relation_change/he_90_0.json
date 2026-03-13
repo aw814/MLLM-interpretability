@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פטר הראשון",
+    "w2": "מת",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 177,
+    "unigram_w2": 241785,
+    "ppmi": 3.414691244481828
+  },
+  {
+    "w1": "מת",
+    "w2": "בלגרד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 241785,
+    "unigram_w2": 9404,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פטר הראשון",
+    "w2": "בלגרד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 177,
+    "unigram_w2": 9404,
+    "ppmi": 8.018827291181616
+  }
+]

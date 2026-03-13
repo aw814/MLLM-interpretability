@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴィルヘルムス・ファン・ナッソウエ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 40,
+    "unigram_w2": 3715876,
+    "ppmi": 4.232905218976259
+  },
+  {
+    "w1": "言語",
+    "w2": "オランダ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 150826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヴィルヘルムス・ファン・ナッソウエ",
+    "w2": "オランダ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 40,
+    "unigram_w2": 150826,
+    "ppmi": 9.44061302621206
+  }
+]

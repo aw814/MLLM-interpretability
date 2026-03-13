@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Uusimaa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1072,
+    "unigram_w1": 9606,
+    "unigram_w2": 42058182,
+    "ppmi": 1.1426953339737629
+  },
+  {
+    "w1": "capital",
+    "w2": "Helsinki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 112638,
+    "unigram_w1": 42058182,
+    "unigram_w2": 560312,
+    "ppmi": 1.9917894690014448
+  },
+  {
+    "w1": "Uusimaa",
+    "w2": "Helsinki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7436,
+    "unigram_w1": 9606,
+    "unigram_w2": 560312,
+    "ppmi": 10.166929487352812
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "canton de Bâle-Ville",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 317,
+    "unigram_w1": 5474,
+    "unigram_w2": 9137640,
+    "ppmi": 1.7154844358736039
+  },
+  {
+    "w1": "capitale",
+    "w2": "Bâle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 721668,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "canton de Bâle-Ville",
+    "w2": "Bâle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5474,
+    "unigram_w1": 5474,
+    "unigram_w2": 721668,
+    "ppmi": 9.487939540498644
+  }
+]

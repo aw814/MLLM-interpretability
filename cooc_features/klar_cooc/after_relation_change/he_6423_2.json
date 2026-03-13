@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בלגיה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1622,
+    "unigram_w1": 40730,
+    "unigram_w2": 90246,
+    "ppmi": 2.4443871903294254
+  },
+  {
+    "w1": "בירה",
+    "w2": "בריסל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 12060,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בלגיה",
+    "w2": "בריסל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4150,
+    "unigram_w1": 40730,
+    "unigram_w2": 12060,
+    "ppmi": 6.703357788416093
+  }
+]

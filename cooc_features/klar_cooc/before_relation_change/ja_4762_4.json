@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エリック・クラプトン",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 35532,
+    "unigram_w2": 139628,
+    "ppmi": 2.126240524257147
+  },
+  {
+    "w1": "instrument",
+    "w2": "ヴァイオリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1438,
+    "unigram_w1": 139628,
+    "unigram_w2": 337070,
+    "ppmi": 2.4160347458899167
+  },
+  {
+    "w1": "エリック・クラプトン",
+    "w2": "ヴァイオリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1274,
+    "unigram_w1": 35532,
+    "unigram_w2": 337070,
+    "ppmi": 4.21573382454449
+  }
+]

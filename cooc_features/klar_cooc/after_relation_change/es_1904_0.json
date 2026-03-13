@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Johan Huizinga",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2770,
+    "unigram_w1": 5742,
+    "unigram_w2": 128711420,
+    "ppmi": 1.6409772140728256
+  },
+  {
+    "w1": "trabajo",
+    "w2": "historia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 86009474,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Johan Huizinga",
+    "w2": "historia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3506,
+    "unigram_w1": 5742,
+    "unigram_w2": 86009474,
+    "ppmi": 2.5624898096536075
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Patna",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4892,
+    "unigram_w1": 21482,
+    "unigram_w2": 42058182,
+    "ppmi": 2.1716942295141153
+  },
+  {
+    "w1": "capital",
+    "w2": "Bihar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9900,
+    "unigram_w1": 42058182,
+    "unigram_w2": 51624,
+    "ppmi": 1.9237847364635208
+  },
+  {
+    "w1": "Patna",
+    "w2": "Bihar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4388,
+    "unigram_w1": 21482,
+    "unigram_w2": 51624,
+    "ppmi": 11.684962195178139
+  }
+]

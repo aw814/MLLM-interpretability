@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jiangsu",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15574,
+    "unigram_w1": 226872,
+    "unigram_w2": 42058182,
+    "ppmi": 0.4416591072234295
+  },
+  {
+    "w1": "capital",
+    "w2": "Nankín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6082,
+    "unigram_w1": 42058182,
+    "unigram_w2": 22218,
+    "ppmi": 2.4372150028914152
+  },
+  {
+    "w1": "Jiangsu",
+    "w2": "Nankín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1992,
+    "unigram_w1": 226872,
+    "unigram_w2": 22218,
+    "ppmi": 8.361250947401281
+  }
+]

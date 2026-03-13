@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sindh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4440,
+    "unigram_w1": 17210,
+    "unigram_w2": 42058182,
+    "ppmi": 2.351710721063306
+  },
+  {
+    "w1": "capital",
+    "w2": "Karachi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45522,
+    "unigram_w1": 42058182,
+    "unigram_w2": 182888,
+    "ppmi": 2.300001668118146
+  },
+  {
+    "w1": "Sindh",
+    "w2": "Karachi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5936,
+    "unigram_w1": 17210,
+    "unigram_w2": 182888,
+    "ppmi": 10.615924398638267
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mandato británico de Palestina",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1830,
+    "unigram_w1": 6644,
+    "unigram_w2": 42058182,
+    "ppmi": 2.446117811962432
+  },
+  {
+    "w1": "capital",
+    "w2": "Jerusalén",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 323922,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1901444,
+    "ppmi": 1.7529491473419783
+  },
+  {
+    "w1": "Mandato británico de Palestina",
+    "w2": "Jerusalén",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3472,
+    "unigram_w1": 6644,
+    "unigram_w2": 1901444,
+    "ppmi": 7.837260245495814
+  }
+]

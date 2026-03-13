@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Singapore",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 121273,
+    "unigram_w1": 1857857,
+    "unigram_w2": 9241408,
+    "ppmi": 1.3658125016234814
+  },
+  {
+    "w1": "language",
+    "w2": "Malay",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25450,
+    "unigram_w1": 9241408,
+    "unigram_w2": 117399,
+    "ppmi": 3.097439112209219
+  },
+  {
+    "w1": "Singapore",
+    "w2": "Malay",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30009,
+    "unigram_w1": 1857857,
+    "unigram_w2": 117399,
+    "ppmi": 5.649641913194295
+  }
+]

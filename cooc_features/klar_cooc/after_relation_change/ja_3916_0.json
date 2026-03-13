@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブリッジタウン",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 362,
+    "unigram_w1": 1834,
+    "unigram_w2": 2444276,
+    "ppmi": 3.8181964377034303
+  },
+  {
+    "w1": "首都",
+    "w2": "バルバドス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 32540,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ブリッジタウン",
+    "w2": "バルバドス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1122,
+    "unigram_w1": 1834,
+    "unigram_w2": 32540,
+    "ppmi": 11.681256648959112
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "תאילנד",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 85,
+    "unigram_w1": 39754,
+    "unigram_w2": 2719,
+    "ppmi": 3.277926738583713
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "תאילנד",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6291,
+    "unigram_w1": 39754,
+    "unigram_w2": 100491,
+    "ppmi": 4.279763111803597
+  }
+]

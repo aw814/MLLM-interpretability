@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guangzhou",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16050,
+    "unigram_w1": 146639,
+    "unigram_w2": 7450623,
+    "ppmi": 2.422249629770831
+  },
+  {
+    "w1": "capital",
+    "w2": "Guangdong",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11329,
+    "unigram_w1": 7450623,
+    "unigram_w2": 87562,
+    "ppmi": 2.66358889395531
+  },
+  {
+    "w1": "Guangzhou",
+    "w2": "Guangdong",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19869,
+    "unigram_w1": 146639,
+    "unigram_w2": 87562,
+    "ppmi": 9.141107943523446
+  }
+]

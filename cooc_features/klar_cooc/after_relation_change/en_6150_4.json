@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lexus",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11695,
+    "unigram_w1": 168136,
+    "unigram_w2": 14590058,
+    "ppmi": 0.7986557415788496
+  },
+  {
+    "w1": "location",
+    "w2": "Nagoya",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4848,
+    "unigram_w1": 14590058,
+    "unigram_w2": 55306,
+    "ppmi": 1.132346232147685
+  },
+  {
+    "w1": "Lexus",
+    "w2": "Nagoya",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 288,
+    "unigram_w1": 168136,
+    "unigram_w2": 55306,
+    "ppmi": 3.4983104017939772
+  }
+]

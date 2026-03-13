@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ramesses II",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 125,
+    "unigram_w1": 2980,
+    "unigram_w2": 3469075,
+    "ppmi": 2.141370982481957
+  },
+  {
+    "w1": "spoke",
+    "w2": "Egyptian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 31621,
+    "unigram_w1": 3469075,
+    "unigram_w2": 657166,
+    "ppmi": 2.3393803702254243
+  },
+  {
+    "w1": "Ramesses II",
+    "w2": "Egyptian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2117,
+    "unigram_w1": 2980,
+    "unigram_w2": 657166,
+    "ppmi": 8.623613537099667
+  }
+]

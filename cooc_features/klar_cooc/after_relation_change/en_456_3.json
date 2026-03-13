@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Russia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 224885,
+    "unigram_w1": 2521305,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8162103607858229
+  },
+  {
+    "w1": "language",
+    "w2": "Ukrainian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45724,
+    "unigram_w1": 9241408,
+    "unigram_w2": 363231,
+    "ppmi": 2.3132578587682375
+  },
+  {
+    "w1": "Russia",
+    "w2": "Ukrainian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 107433,
+    "unigram_w1": 2521305,
+    "unigram_w2": 363231,
+    "ppmi": 5.4196135708681155
+  }
+]

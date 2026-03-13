@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Korea",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60852,
+    "unigram_w1": 735774,
+    "unigram_w2": 9241408,
+    "ppmi": 1.70723555904124
+  },
+  {
+    "w1": "language",
+    "w2": "Korean",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 140920,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1225103,
+    "ppmi": 2.1831669072523785
+  },
+  {
+    "w1": "South Korea",
+    "w2": "Korean",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 186842,
+    "unigram_w1": 735774,
+    "unigram_w2": 1225103,
+    "ppmi": 6.240887392820028
+  }
+]

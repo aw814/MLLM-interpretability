@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guinée équatoriale",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10541,
+    "unigram_w1": 238017,
+    "unigram_w2": 12749290,
+    "ppmi": 0.8480207529753901
+  },
+  {
+    "w1": "langue",
+    "w2": "espagnol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5009550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Guinée équatoriale",
+    "w2": "espagnol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6809,
+    "unigram_w1": 238017,
+    "unigram_w2": 5009550,
+    "ppmi": 1.5651878399167067
+  }
+]

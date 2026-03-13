@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "メリーランド州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5258,
+    "unigram_w1": 53224,
+    "unigram_w2": 2444276,
+    "ppmi": 2.819637582451189
+  },
+  {
+    "w1": "首都",
+    "w2": "アナポリス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 6930,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "メリーランド州",
+    "w2": "アナポリス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2050,
+    "unigram_w1": 53224,
+    "unigram_w2": 6930,
+    "ppmi": 9.923083481491359
+  }
+]

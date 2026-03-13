@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Laurent Fabius",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11507,
+    "unigram_w1": 208284,
+    "unigram_w2": 12749290,
+    "ppmi": 1.167033371702194
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Laurent Fabius",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123277,
+    "unigram_w1": 208284,
+    "unigram_w2": 46536486,
+    "ppmi": 2.7204079996636086
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Turkmenistán",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9172,
+    "unigram_w1": 179628,
+    "unigram_w2": 12196104,
+    "ppmi": 1.8006602821959954
+  },
+  {
+    "w1": "idioma",
+    "w2": "ruso",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 8350394,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Turkmenistán",
+    "w2": "ruso",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15698,
+    "unigram_w1": 179628,
+    "unigram_w2": 8350394,
+    "ppmi": 3.122436969026374
+  }
+]

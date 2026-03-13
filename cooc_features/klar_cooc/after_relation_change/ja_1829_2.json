@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "科学的方法",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4934,
+    "unigram_w1": 10604,
+    "unigram_w2": 30190082,
+    "ppmi": 1.4287539483314056
+  },
+  {
+    "w1": "仕事",
+    "w2": "科学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 6610610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "科学的方法",
+    "w2": "科学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10604,
+    "unigram_w1": 10604,
+    "unigram_w2": 6610610,
+    "ppmi": 4.723752269319488
+  }
+]

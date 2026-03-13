@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에도 막부",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 223,
+    "unigram_w1": 812,
+    "unigram_w2": 1351571,
+    "ppmi": 1.6646733201182378
+  },
+  {
+    "w1": "수도",
+    "w2": "에도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 79197,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에도 막부",
+    "w2": "에도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 812,
+    "unigram_w1": 812,
+    "unigram_w2": 79197,
+    "ppmi": 7.622157046169718
+  }
+]

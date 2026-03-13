@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nikephoros III Botaneiates",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 30,
+    "unigram_w2": 5281801,
+    "ppmi": 4.788276302959546
+  },
+  {
+    "w1": "died",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17551,
+    "unigram_w1": 5281801,
+    "unigram_w2": 78199,
+    "ppmi": 3.9546074722514715
+  },
+  {
+    "w1": "Nikephoros III Botaneiates",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 30,
+    "unigram_w2": 78199,
+    "ppmi": 11.528977293595608
+  }
+]

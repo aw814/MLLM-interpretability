@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prime Minister of Ukraine",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 1913,
+    "unigram_w2": 1074632,
+    "ppmi": 2.5057704824243023
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Ukraine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8989,
+    "unigram_w1": 1074632,
+    "unigram_w2": 771271,
+    "ppmi": 1.9844582138663682
+  },
+  {
+    "w1": "Prime Minister of Ukraine",
+    "w2": "Ukraine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1913,
+    "unigram_w1": 1913,
+    "unigram_w2": 771271,
+    "ppmi": 8.88592457331673
+  }
+]

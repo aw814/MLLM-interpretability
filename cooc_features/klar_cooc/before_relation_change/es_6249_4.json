@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Manitoba",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16700,
+    "unigram_w1": 89806,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8793625038284405
+  },
+  {
+    "w1": "capital",
+    "w2": "Winnipeg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30666,
+    "unigram_w1": 42058182,
+    "unigram_w2": 164328,
+    "ppmi": 1.8844598156614774
+  },
+  {
+    "w1": "Manitoba",
+    "w2": "Winnipeg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22034,
+    "unigram_w1": 89806,
+    "unigram_w2": 164328,
+    "ppmi": 10.278910179491998
+  }
+]

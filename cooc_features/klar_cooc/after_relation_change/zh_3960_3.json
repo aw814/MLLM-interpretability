@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "里尔",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1373,
+    "unigram_w1": 39702,
+    "unigram_w2": 596594,
+    "ppmi": 1.757389469894657
+  },
+  {
+    "w1": "首都",
+    "w2": "诺尔省",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 35,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "里尔",
+    "w2": "诺尔省",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 39702,
+    "unigram_w2": 35,
+    "ppmi": 8.713308580557896
+  }
+]

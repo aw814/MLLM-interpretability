@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hiroshima",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15994,
+    "unigram_w1": 171969,
+    "unigram_w2": 9137640,
+    "ppmi": 2.3989793023446007
+  },
+  {
+    "w1": "capitale",
+    "w2": "Hiroshima",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 171969,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Hiroshima",
+    "w2": "Hiroshima",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 171969,
+    "unigram_w1": 171969,
+    "unigram_w2": 171969,
+    "ppmi": 11.557126304227129
+  }
+]

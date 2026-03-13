@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ibn Khaldun",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 453,
+    "unigram_w1": 2897,
+    "unigram_w2": 5281801,
+    "ppmi": 3.4332276686227403
+  },
+  {
+    "w1": "died",
+    "w2": "Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25153,
+    "unigram_w1": 5281801,
+    "unigram_w2": 288395,
+    "ppmi": 2.590960631275075
+  },
+  {
+    "w1": "Ibn Khaldun",
+    "w2": "Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 408,
+    "unigram_w1": 2897,
+    "unigram_w2": 288395,
+    "ppmi": 7.47719765989128
+  }
+]

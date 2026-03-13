@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "NT File System",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 204,
+    "unigram_w2": 270510,
+    "ppmi": 4.247318999369557
+  },
+  {
+    "w1": "developer",
+    "w2": "マイクロソフト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15308,
+    "unigram_w1": 270510,
+    "unigram_w2": 865310,
+    "ppmi": 3.513922476511051
+  },
+  {
+    "w1": "NT File System",
+    "w2": "マイクロソフト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46,
+    "unigram_w1": 204,
+    "unigram_w2": 865310,
+    "ppmi": 5.508383306813439
+  }
+]

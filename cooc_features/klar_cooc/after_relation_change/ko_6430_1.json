@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이집트 왕국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 52,
+    "unigram_w2": 1351571,
+    "ppmi": 2.1505977141293795
+  },
+  {
+    "w1": "수도",
+    "w2": "카이로",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 9065,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "이집트 왕국",
+    "w2": "카이로",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 52,
+    "unigram_w2": 9065,
+    "ppmi": 7.856139106734599
+  }
+]

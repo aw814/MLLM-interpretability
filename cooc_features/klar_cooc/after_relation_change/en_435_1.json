@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Montenegro",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13915,
+    "unigram_w1": 117932,
+    "unigram_w2": 9241408,
+    "ppmi": 2.2198792478982905
+  },
+  {
+    "w1": "language",
+    "w2": "Croatian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22130,
+    "unigram_w1": 9241408,
+    "unigram_w2": 158001,
+    "ppmi": 2.467263337373899
+  },
+  {
+    "w1": "Montenegro",
+    "w2": "Croatian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7033,
+    "unigram_w1": 117932,
+    "unigram_w2": 158001,
+    "ppmi": 7.105557541317539
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Claudio Abbado",
+    "w2": "né",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2653,
+    "unigram_w1": 14636,
+    "unigram_w2": 9980164,
+    "ppmi": 3.234458467122364
+  },
+  {
+    "w1": "né",
+    "w2": "Milan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9980164,
+    "unigram_w2": 2231780,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Claudio Abbado",
+    "w2": "Milan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2213,
+    "unigram_w1": 14636,
+    "unigram_w2": 2231780,
+    "ppmi": 5.133705946641906
+  }
+]

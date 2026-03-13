@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "U2",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 181,
+    "unigram_w1": 3671,
+    "unigram_w2": 286432,
+    "ppmi": 1.0862639829453444
+  },
+  {
+    "w1": "מיקום",
+    "w2": "אירלנד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 36489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "U2",
+    "w2": "אירלנד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 199,
+    "unigram_w1": 3671,
+    "unigram_w2": 36489,
+    "ppmi": 4.195701876210193
+  }
+]

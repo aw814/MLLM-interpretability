@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Waiting for Godot",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 450,
+    "unigram_w1": 9255,
+    "unigram_w2": 14590058,
+    "ppmi": 0.2820845477596493
+  },
+  {
+    "w1": "location",
+    "w2": "France",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306803,
+    "unigram_w1": 14590058,
+    "unigram_w2": 4371971,
+    "ppmi": 0.8114212949635919
+  },
+  {
+    "w1": "Waiting for Godot",
+    "w2": "France",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 642,
+    "unigram_w1": 9255,
+    "unigram_w2": 4371971,
+    "ppmi": 2.5333627255702003
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מחוז גולוויי",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 29,
+    "unigram_w2": 90246,
+    "ppmi": 4.236652284875357
+  },
+  {
+    "w1": "בירה",
+    "w2": "גולוויי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 205,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מחוז גולוויי",
+    "w2": "גולוויי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 29,
+    "unigram_w2": 205,
+    "ppmi": 15.876728548467222
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "서벵골주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 27,
+    "unigram_w2": 1351571,
+    "ppmi": 0.7742218352196407
+  },
+  {
+    "w1": "수도",
+    "w2": "콜카타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3914,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "서벵골주",
+    "w2": "콜카타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 27,
+    "unigram_w2": 3914,
+    "ppmi": 10.665431283296632
+  }
+]

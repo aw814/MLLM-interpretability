@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Antananarivo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8832,
+    "unigram_w1": 24056,
+    "unigram_w2": 42058182,
+    "ppmi": 2.86074154095757
+  },
+  {
+    "w1": "capital",
+    "w2": "Madagascar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73512,
+    "unigram_w1": 42058182,
+    "unigram_w2": 591768,
+    "ppmi": 1.2973462300844443
+  },
+  {
+    "w1": "Antananarivo",
+    "w2": "Madagascar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16858,
+    "unigram_w1": 24056,
+    "unigram_w2": 591768,
+    "ppmi": 9.944573846599091
+  }
+]

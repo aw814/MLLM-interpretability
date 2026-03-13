@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Des Moines",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38032,
+    "unigram_w1": 341276,
+    "unigram_w2": 9137640,
+    "ppmi": 2.6598718771373244
+  },
+  {
+    "w1": "capitale",
+    "w2": "Iowa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 162964,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Des Moines",
+    "w2": "Iowa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12080,
+    "unigram_w1": 341276,
+    "unigram_w2": 162964,
+    "ppmi": 6.814474926178699
+  }
+]

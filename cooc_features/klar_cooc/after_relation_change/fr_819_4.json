@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Shimla",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 627,
+    "unigram_w1": 8068,
+    "unigram_w2": 12749290,
+    "ppmi": 1.659327992981016
+  },
+  {
+    "w1": "langue",
+    "w2": "hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 386786,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Shimla",
+    "w2": "hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 516,
+    "unigram_w1": 8068,
+    "unigram_w2": 386786,
+    "ppmi": 6.42097113554638
+  }
+]

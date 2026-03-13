@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Waterford",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5760,
+    "unigram_w1": 54264,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0704715556103932
+  },
+  {
+    "w1": "capital",
+    "w2": "Waterford",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5760,
+    "unigram_w1": 42058182,
+    "unigram_w2": 54264,
+    "ppmi": 1.0704715556103932
+  },
+  {
+    "w1": "Waterford",
+    "w2": "Waterford",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54264,
+    "unigram_w1": 54264,
+    "unigram_w2": 54264,
+    "ppmi": 13.904501613213153
+  }
+]

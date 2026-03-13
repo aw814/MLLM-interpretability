@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume de Libye",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 156,
+    "unigram_w1": 432,
+    "unigram_w2": 9137640,
+    "ppmi": 4.356039841797933
+  },
+  {
+    "w1": "capitale",
+    "w2": "Tripoli",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 277034,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Royaume de Libye",
+    "w2": "Tripoli",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 236,
+    "unigram_w1": 432,
+    "unigram_w2": 277034,
+    "ppmi": 9.996967325190843
+  }
+]

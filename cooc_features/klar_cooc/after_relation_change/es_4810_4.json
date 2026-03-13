@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "disco compacto",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8318,
+    "unigram_w1": 226378,
+    "unigram_w2": 14358872,
+    "ppmi": 1.0904170427360724
+  },
+  {
+    "w1": "posee",
+    "w2": "Sony",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 4832072,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "disco compacto",
+    "w2": "Sony",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7692,
+    "unigram_w1": 226378,
+    "unigram_w2": 4832072,
+    "ppmi": 2.548767682506657
+  }
+]

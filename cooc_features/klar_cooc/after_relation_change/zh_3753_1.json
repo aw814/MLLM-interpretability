@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴库",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 757,
+    "unigram_w1": 7267,
+    "unigram_w2": 596594,
+    "ppmi": 3.3482029236869493
+  },
+  {
+    "w1": "首都",
+    "w2": "阿塞拜疆",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 26657,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴库",
+    "w2": "阿塞拜疆",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3365,
+    "unigram_w1": 7267,
+    "unigram_w2": 26657,
+    "ppmi": 9.984607359003357
+  }
+]

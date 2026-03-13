@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Navarra",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 468456,
+    "unigram_w1": 8095210,
+    "unigram_w2": 12196104,
+    "ppmi": 1.9812093156956982
+  },
+  {
+    "w1": "idioma",
+    "w2": "euskera",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 682944,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Navarra",
+    "w2": "euskera",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140874,
+    "unigram_w1": 8095210,
+    "unigram_w2": 682944,
+    "ppmi": 4.406210399068214
+  }
+]

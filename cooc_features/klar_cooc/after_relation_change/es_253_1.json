@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República del Congo",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3166,
+    "unigram_w1": 64058,
+    "unigram_w2": 12196104,
+    "ppmi": 1.753646773820352
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "República del Congo",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7698,
+    "unigram_w1": 64058,
+    "unigram_w2": 16087876,
+    "ppmi": 2.6359156803344033
+  }
+]

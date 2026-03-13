@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מייק שינודה",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 103,
+    "unigram_w2": 2401,
+    "ppmi": 5.640288432559033
+  },
+  {
+    "w1": "instrument",
+    "w2": "גיטרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163,
+    "unigram_w1": 2401,
+    "unigram_w2": 45498,
+    "ppmi": 4.202001605672959
+  },
+  {
+    "w1": "מייק שינודה",
+    "w2": "גיטרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 103,
+    "unigram_w2": 45498,
+    "ppmi": 5.483655453739419
+  }
+]

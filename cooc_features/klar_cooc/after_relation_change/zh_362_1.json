@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "塞内加尔",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 901,
+    "unigram_w1": 24565,
+    "unigram_w2": 919361,
+    "ppmi": 1.218382303071142
+  },
+  {
+    "w1": "语言",
+    "w2": "法语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 75685,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "塞内加尔",
+    "w2": "法语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 402,
+    "unigram_w1": 24565,
+    "unigram_w2": 75685,
+    "ppmi": 3.656602859539985
+  }
+]

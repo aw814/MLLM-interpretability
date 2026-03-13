@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "穆罕默德·查希尔沙",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 517729,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "去世",
+    "w2": "喀布尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 7978,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "穆罕默德·查希尔沙",
+    "w2": "喀布尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 8,
+    "unigram_w2": 7978,
+    "ppmi": 9.835776159466281
+  }
+]

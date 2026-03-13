@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "New Delhi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 71087,
+    "unigram_w1": 587702,
+    "unigram_w2": 7450623,
+    "ppmi": 2.566446128908138
+  },
+  {
+    "w1": "capital",
+    "w2": "India",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 552335,
+    "unigram_w1": 7450623,
+    "unigram_w2": 6800584,
+    "ppmi": 1.9918300920002507
+  },
+  {
+    "w1": "New Delhi",
+    "w2": "India",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 384494,
+    "unigram_w1": 587702,
+    "unigram_w2": 6800584,
+    "ppmi": 5.133451978793089
+  }
+]

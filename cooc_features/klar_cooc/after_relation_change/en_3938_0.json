@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lima",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25574,
+    "unigram_w1": 226935,
+    "unigram_w2": 7450623,
+    "ppmi": 2.464343881688522
+  },
+  {
+    "w1": "capital",
+    "w2": "Peru",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54476,
+    "unigram_w1": 7450623,
+    "unigram_w2": 534482,
+    "ppmi": 2.3194245973004235
+  },
+  {
+    "w1": "Lima",
+    "w2": "Peru",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73839,
+    "unigram_w1": 226935,
+    "unigram_w2": 534482,
+    "ppmi": 7.795196865043446
+  }
+]

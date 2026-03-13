@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Joseph Brodsky",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 706,
+    "unigram_w1": 2622,
+    "unigram_w2": 12749290,
+    "ppmi": 3.4520741318413646
+  },
+  {
+    "w1": "langue",
+    "w2": "russe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5543562,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Joseph Brodsky",
+    "w2": "russe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1266,
+    "unigram_w1": 2622,
+    "unigram_w2": 5543562,
+    "ppmi": 5.4961431756021835
+  }
+]

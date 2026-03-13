@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "North Macedonia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 713,
+    "unigram_w1": 5516,
+    "unigram_w2": 9241408,
+    "ppmi": 2.351473195406999
+  },
+  {
+    "w1": "language",
+    "w2": "Macedonian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10860,
+    "unigram_w1": 9241408,
+    "unigram_w2": 54310,
+    "ppmi": 2.980927910357252
+  },
+  {
+    "w1": "North Macedonia",
+    "w2": "Macedonian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1640,
+    "unigram_w1": 5516,
+    "unigram_w2": 54310,
+    "ppmi": 10.96394602911887
+  }
+]

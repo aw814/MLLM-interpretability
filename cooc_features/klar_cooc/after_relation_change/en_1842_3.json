@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Paracelsus",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3448,
+    "unigram_w1": 6792,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3077100784628324
+  },
+  {
+    "w1": "work",
+    "w2": "medicine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1822380,
+    "unigram_w1": 74824954,
+    "unigram_w2": 4823636,
+    "ppmi": 0.8814895390283145
+  },
+  {
+    "w1": "Paracelsus",
+    "w2": "medicine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2669,
+    "unigram_w1": 6792,
+    "unigram_w2": 4823636,
+    "ppmi": 4.893576148146574
+  }
+]

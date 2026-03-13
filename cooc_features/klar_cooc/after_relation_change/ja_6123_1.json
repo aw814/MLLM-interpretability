@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "国際チェス連盟",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 148,
+    "unigram_w1": 446,
+    "unigram_w2": 27600878,
+    "ppmi": 1.0704468832996994
+  },
+  {
+    "w1": "場所",
+    "w2": "アテネ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 187888,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "国際チェス連盟",
+    "w2": "アテネ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 446,
+    "unigram_w2": 187888,
+    "ppmi": 3.059690940258351
+  }
+]

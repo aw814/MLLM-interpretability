@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lenovo",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17483,
+    "unigram_w1": 211395,
+    "unigram_w2": 14590058,
+    "ppmi": 1.0484040482127324
+  },
+  {
+    "w1": "location",
+    "w2": "Beijing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53368,
+    "unigram_w1": 14590058,
+    "unigram_w2": 847643,
+    "ppmi": 0.654910706927211
+  },
+  {
+    "w1": "Lenovo",
+    "w2": "Beijing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3570,
+    "unigram_w1": 211395,
+    "unigram_w2": 847643,
+    "ppmi": 2.861832294159939
+  }
+]

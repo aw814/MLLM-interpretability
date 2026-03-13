@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Irlanda del Norte",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 69586,
+    "unigram_w1": 454930,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5975506463182279
+  },
+  {
+    "w1": "capital",
+    "w2": "Belfast",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 60694,
+    "unigram_w1": 42058182,
+    "unigram_w2": 312196,
+    "ppmi": 1.9434999925723557
+  },
+  {
+    "w1": "Irlanda del Norte",
+    "w2": "Belfast",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72042,
+    "unigram_w1": 454930,
+    "unigram_w2": 312196,
+    "ppmi": 8.721382426551614
+  }
+]

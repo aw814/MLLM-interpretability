@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abkhazia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2159,
+    "unigram_w1": 14994,
+    "unigram_w2": 9241408,
+    "ppmi": 2.5071715116917366
+  },
+  {
+    "w1": "language",
+    "w2": "Russian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 340244,
+    "unigram_w1": 9241408,
+    "unigram_w2": 2632627,
+    "ppmi": 2.35126016680195
+  },
+  {
+    "w1": "Abkhazia",
+    "w2": "Russian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9843,
+    "unigram_w1": 14994,
+    "unigram_w2": 2632627,
+    "ppmi": 6.5075159073716895
+  }
+]

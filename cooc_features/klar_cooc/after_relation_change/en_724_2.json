@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Organisation for Economic Cooperation and Development",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 593,
+    "unigram_w1": 6878,
+    "unigram_w2": 9241408,
+    "ppmi": 1.767236564496304
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Organisation for Economic Cooperation and Development",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 608,
+    "unigram_w1": 6878,
+    "unigram_w2": 6382804,
+    "ppmi": 2.3371981106261135
+  }
+]

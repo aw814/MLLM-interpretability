@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union pour la Méditerranée",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 243,
+    "unigram_w1": 10211,
+    "unigram_w2": 5673888,
+    "ppmi": 1.1199850200742054
+  },
+  {
+    "w1": "localisation",
+    "w2": "Barcelone",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 2832706,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Union pour la Méditerranée",
+    "w2": "Barcelone",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3426,
+    "unigram_w1": 10211,
+    "unigram_w2": 2832706,
+    "ppmi": 5.939638749787536
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "누르술탄",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 288,
+    "unigram_w1": 840,
+    "unigram_w2": 1351571,
+    "ppmi": 1.984788821159299
+  },
+  {
+    "w1": "수도",
+    "w2": "카자흐스탄",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 21489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "누르술탄",
+    "w2": "카자흐스탄",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 657,
+    "unigram_w1": 840,
+    "unigram_w2": 21489,
+    "ppmi": 9.149508522672408
+  }
+]

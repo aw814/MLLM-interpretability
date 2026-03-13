@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Boynton Priestley",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 292,
+    "unigram_w2": 1178529,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "romancier",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4730,
+    "unigram_w1": 1178529,
+    "unigram_w2": 519814,
+    "ppmi": 2.0003479746385464
+  },
+  {
+    "w1": "John Boynton Priestley",
+    "w2": "romancier",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 292,
+    "unigram_w2": 519814,
+    "ppmi": 6.900737793145401
+  }
+]

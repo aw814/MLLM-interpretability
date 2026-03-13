@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Terranova y Labrador",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 722,
+    "unigram_w1": 9856,
+    "unigram_w2": 12196104,
+    "ppmi": 2.3213608548411906
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Terranova y Labrador",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1944,
+    "unigram_w1": 9856,
+    "unigram_w2": 30884572,
+    "ppmi": 2.409852351498001
+  }
+]

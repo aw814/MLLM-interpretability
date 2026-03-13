@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿尔弗雷德·金赛",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 12146148,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "工作",
+    "w2": "生物学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 77624,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿尔弗雷德·金赛",
+    "w2": "生物学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 77624,
+    "ppmi": 0.0
+  }
+]

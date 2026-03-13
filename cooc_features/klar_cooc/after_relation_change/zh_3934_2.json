@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "努克",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 818,
+    "unigram_w1": 9549,
+    "unigram_w2": 596594,
+    "ppmi": 3.066020715270172
+  },
+  {
+    "w1": "首都",
+    "w2": "格陵兰",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 13816,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "努克",
+    "w2": "格陵兰",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 9549,
+    "unigram_w2": 13816,
+    "ppmi": 5.877683693168632
+  }
+]

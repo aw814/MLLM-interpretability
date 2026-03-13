@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Scott Morrison",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 854,
+    "unigram_w1": 22234,
+    "unigram_w2": 737500,
+    "ppmi": 4.248131750949588
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Australia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 46356,
+    "unigram_w1": 737500,
+    "unigram_w2": 6118940,
+    "ppmi": 1.906137531046444
+  },
+  {
+    "w1": "Scott Morrison",
+    "w2": "Australia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13704,
+    "unigram_w1": 22234,
+    "unigram_w2": 6118940,
+    "ppmi": 5.19978212916479
+  }
+]

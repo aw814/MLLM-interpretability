@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sony Pictures",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11602,
+    "unigram_w1": 229286,
+    "unigram_w2": 14358872,
+    "ppmi": 1.5520674692922964
+  },
+  {
+    "w1": "posee",
+    "w2": "Sony",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 4832072,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sony Pictures",
+    "w2": "Sony",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 229286,
+    "unigram_w1": 229286,
+    "unigram_w2": 4832072,
+    "ppmi": 7.427998869747294
+  }
+]

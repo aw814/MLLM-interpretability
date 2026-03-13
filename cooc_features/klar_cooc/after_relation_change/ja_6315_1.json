@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オスマン帝国領エジプト",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 34,
+    "unigram_w2": 2444276,
+    "ppmi": 5.393593727852302
+  },
+  {
+    "w1": "首都",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 321728,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オスマン帝国領エジプト",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 34,
+    "unigram_w2": 321728,
+    "ppmi": 8.456591046196854
+  }
+]

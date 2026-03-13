@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino Unido de Gran Bretaña e Irlanda",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7564,
+    "unigram_w1": 40520,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8849133310146646
+  },
+  {
+    "w1": "capital",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2485646,
+    "unigram_w1": 42058182,
+    "unigram_w2": 13425458,
+    "ppmi": 1.873047681997854
+  },
+  {
+    "w1": "Reino Unido de Gran Bretaña e Irlanda",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14268,
+    "unigram_w1": 40520,
+    "unigram_w2": 13425458,
+    "ppmi": 4.447890367681923
+  }
+]

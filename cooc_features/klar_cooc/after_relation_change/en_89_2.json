@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Giorgione",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 348,
+    "unigram_w1": 2417,
+    "unigram_w2": 5281801,
+    "ppmi": 3.3141461359300544
+  },
+  {
+    "w1": "died",
+    "w2": "Venice",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32913,
+    "unigram_w1": 5281801,
+    "unigram_w2": 554443,
+    "ppmi": 2.035894685715242
+  },
+  {
+    "w1": "Giorgione",
+    "w2": "Venice",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1074,
+    "unigram_w1": 2417,
+    "unigram_w2": 554443,
+    "ppmi": 8.191899809243452
+  }
+]

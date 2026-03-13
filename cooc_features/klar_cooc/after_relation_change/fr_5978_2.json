@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "président de l'Ukraine",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74,
+    "unigram_w1": 3870,
+    "unigram_w2": 1227582,
+    "ppmi": 3.0128628479358603
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Ukraine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 1478227,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "président de l'Ukraine",
+    "w2": "Ukraine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2557,
+    "unigram_w1": 3870,
+    "unigram_w2": 1478227,
+    "ppmi": 7.855597494298945
+  }
+]

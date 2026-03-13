@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アフガニスタン王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 94,
+    "unigram_w1": 180,
+    "unigram_w2": 2444276,
+    "ppmi": 5.221864229563242
+  },
+  {
+    "w1": "首都",
+    "w2": "カーブル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 2672,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アフガニスタン王国",
+    "w2": "カーブル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 60,
+    "unigram_w1": 180,
+    "unigram_w2": 2672,
+    "ppmi": 14.411437449310053
+  }
+]

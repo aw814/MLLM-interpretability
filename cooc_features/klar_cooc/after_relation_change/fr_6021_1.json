@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "drapeau de l'Ukraine",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 399,
+    "unigram_w2": 1227582,
+    "ppmi": 2.888637319173941
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Ukraine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 1478227,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "drapeau de l'Ukraine",
+    "w2": "Ukraine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 224,
+    "unigram_w1": 399,
+    "unigram_w2": 1478227,
+    "ppmi": 7.620588885924327
+  }
+]

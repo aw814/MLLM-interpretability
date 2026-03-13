@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "하이데라바드",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 238,
+    "unigram_w1": 1714,
+    "unigram_w2": 250699,
+    "ppmi": 3.1113848607149603
+  },
+  {
+    "w1": "언어",
+    "w2": "텔루구어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 3289,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "하이데라바드",
+    "w2": "텔루구어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 1714,
+    "unigram_w2": 3289,
+    "ppmi": 4.928162139139003
+  }
+]

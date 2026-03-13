@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ריקסדאג",
+    "w2": "סמכות שיפוטית",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 9,
+    "unigram_w2": 1111,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סמכות שיפוטית",
+    "w2": "שוודיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1111,
+    "unigram_w2": 21800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ריקסדאג",
+    "w2": "שוודיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 9,
+    "unigram_w2": 21800,
+    "ppmi": 9.144168133421017
+  }
+]

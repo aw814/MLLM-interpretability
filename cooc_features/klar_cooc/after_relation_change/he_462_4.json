@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דוכסות נורמנדיה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 48,
+    "unigram_w2": 236631,
+    "ppmi": 3.1189665855418136
+  },
+  {
+    "w1": "שפה",
+    "w2": "השפה הנורמנית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 9,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דוכסות נורמנדיה",
+    "w2": "השפה הנורמנית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 48,
+    "unigram_w2": 9,
+    "ppmi": 16.8013211458092
+  }
+]

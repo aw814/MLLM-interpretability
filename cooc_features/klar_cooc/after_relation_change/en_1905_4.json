@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Science",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4420197,
+    "unigram_w1": 10461554,
+    "unigram_w2": 74824954,
+    "ppmi": 1.0428721662902671
+  },
+  {
+    "w1": "work",
+    "w2": "science",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4420197,
+    "unigram_w1": 74824954,
+    "unigram_w2": 10461554,
+    "ppmi": 1.0428721662902671
+  },
+  {
+    "w1": "Science",
+    "w2": "science",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10461554,
+    "unigram_w1": 10461554,
+    "unigram_w2": 10461554,
+    "ppmi": 5.124209078680681
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハンガリー評議会共和国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54,
+    "unigram_w1": 116,
+    "unigram_w2": 2444276,
+    "ppmi": 5.056034981251176
+  },
+  {
+    "w1": "首都",
+    "w2": "ブダペスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 98126,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハンガリー評議会共和国",
+    "w2": "ブダペスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 116,
+    "unigram_w2": 98126,
+    "ppmi": 10.225177635249159
+  }
+]

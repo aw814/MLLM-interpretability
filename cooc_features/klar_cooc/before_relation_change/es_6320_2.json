@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tartaristán",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2820,
+    "unigram_w1": 6276,
+    "unigram_w2": 42058182,
+    "ppmi": 3.1521760470714617
+  },
+  {
+    "w1": "capital",
+    "w2": "Kazán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21308,
+    "unigram_w1": 42058182,
+    "unigram_w2": 113340,
+    "ppmi": 1.895136220317665
+  },
+  {
+    "w1": "Tartaristán",
+    "w2": "Kazán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3316,
+    "unigram_w1": 6276,
+    "unigram_w2": 113340,
+    "ppmi": 11.921510463216602
+  }
+]

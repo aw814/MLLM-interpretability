@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גז'גוז' לאטו",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 28,
+    "unigram_w2": 49512,
+    "ppmi": 4.738325620028579
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "פולין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 74335,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גז'גוז' לאטו",
+    "w2": "פולין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 28,
+    "unigram_w2": 74335,
+    "ppmi": 7.210955884768746
+  }
+]

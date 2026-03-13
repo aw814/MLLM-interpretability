@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Slovaquie",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41485,
+    "unigram_w1": 752919,
+    "unigram_w2": 12749290,
+    "ppmi": 1.1631687538169928
+  },
+  {
+    "w1": "langue",
+    "w2": "slovaque",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 322736,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Slovaquie",
+    "w2": "slovaque",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 52206,
+    "unigram_w1": 752919,
+    "unigram_w2": 322736,
+    "ppmi": 6.798713174184749
+  }
+]

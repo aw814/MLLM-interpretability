@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "dynastie Qing",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4289,
+    "unigram_w1": 21616,
+    "unigram_w2": 9137640,
+    "ppmi": 3.4921387664090244
+  },
+  {
+    "w1": "capitale",
+    "w2": "Pékin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1279291,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "dynastie Qing",
+    "w2": "Pékin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6070,
+    "unigram_w1": 21616,
+    "unigram_w2": 1279291,
+    "ppmi": 6.829671101006409
+  }
+]

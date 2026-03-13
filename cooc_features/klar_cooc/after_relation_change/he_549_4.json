@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קוטקה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 127,
+    "unigram_w2": 236631,
+    "ppmi": 0.7152443994908039
+  },
+  {
+    "w1": "שפה",
+    "w2": "פינית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 6277,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קוטקה",
+    "w2": "פינית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 127,
+    "unigram_w2": 6277,
+    "ppmi": 5.951664467617421
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ナット・キング・コール",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 8982,
+    "unigram_w2": 139628,
+    "ppmi": 1.1560544829894088
+  },
+  {
+    "w1": "instrument",
+    "w2": "ピアノ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6744,
+    "unigram_w1": 139628,
+    "unigram_w2": 2499778,
+    "ppmi": 1.7548957635076379
+  },
+  {
+    "w1": "ナット・キング・コール",
+    "w2": "ピアノ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3468,
+    "unigram_w1": 8982,
+    "unigram_w2": 2499778,
+    "ppmi": 4.7538028717440985
+  }
+]

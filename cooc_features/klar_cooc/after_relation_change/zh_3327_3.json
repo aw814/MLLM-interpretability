@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "图拉真",
+    "w2": "公民身份",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 555,
+    "unigram_w2": 17472,
+    "ppmi": 2.5884864653961235
+  },
+  {
+    "w1": "公民身份",
+    "w2": "西班牙",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 17472,
+    "unigram_w2": 576207,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "图拉真",
+    "w2": "西班牙",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 118,
+    "unigram_w1": 555,
+    "unigram_w2": 576207,
+    "ppmi": 4.427658994183098
+  }
+]

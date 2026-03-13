@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "罗伯特·威廉·本生",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 5,
+    "unigram_w2": 12146148,
+    "ppmi": 0.9416639549043588
+  },
+  {
+    "w1": "工作",
+    "w2": "化学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 641626,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "罗伯特·威廉·本生",
+    "w2": "化学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 5,
+    "unigram_w2": 641626,
+    "ppmi": 6.184286394293263
+  }
+]

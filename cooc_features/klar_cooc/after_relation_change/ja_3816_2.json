@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "クアラルンプール",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23186,
+    "unigram_w1": 218048,
+    "unigram_w2": 2444276,
+    "ppmi": 2.9258085724019165
+  },
+  {
+    "w1": "首都",
+    "w2": "マレーシア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 794488,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "クアラルンプール",
+    "w2": "マレーシア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 149914,
+    "unigram_w1": 218048,
+    "unigram_w2": 794488,
+    "ppmi": 7.239927699591915
+  }
+]

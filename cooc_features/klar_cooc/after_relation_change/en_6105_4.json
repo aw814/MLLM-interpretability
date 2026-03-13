@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Interpol",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2568,
+    "unigram_w1": 40537,
+    "unigram_w2": 14590058,
+    "ppmi": 0.6637984148754937
+  },
+  {
+    "w1": "location",
+    "w2": "Lyon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21079,
+    "unigram_w1": 14590058,
+    "unigram_w2": 260613,
+    "ppmi": 1.0162899119397302
+  },
+  {
+    "w1": "Interpol",
+    "w2": "Lyon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1232,
+    "unigram_w1": 40537,
+    "unigram_w2": 260613,
+    "ppmi": 5.41108822586817
+  }
+]

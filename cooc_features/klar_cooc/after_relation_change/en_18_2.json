@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Enrico Caruso",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 901,
+    "unigram_w1": 2982,
+    "unigram_w2": 9106140,
+    "ppmi": 3.5977134582745904
+  },
+  {
+    "w1": "born",
+    "w2": "Naples",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35297,
+    "unigram_w1": 9106140,
+    "unigram_w2": 279382,
+    "ppmi": 2.339773105592826
+  },
+  {
+    "w1": "Enrico Caruso",
+    "w2": "Naples",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 354,
+    "unigram_w1": 2982,
+    "unigram_w2": 279382,
+    "ppmi": 7.276464373394947
+  }
+]

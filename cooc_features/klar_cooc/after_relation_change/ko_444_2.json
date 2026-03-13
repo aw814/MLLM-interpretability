@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "잉글랜드",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1382,
+    "unigram_w1": 44567,
+    "unigram_w2": 250699,
+    "ppmi": 0.9485721622623822
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "잉글랜드",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3392,
+    "unigram_w1": 44567,
+    "unigram_w2": 359114,
+    "ppmi": 1.725465060603707
+  }
+]

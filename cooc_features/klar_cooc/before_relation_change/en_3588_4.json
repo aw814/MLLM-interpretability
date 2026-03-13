@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pune",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1586,
+    "unigram_w1": 294238,
+    "unigram_w2": 965266,
+    "ppmi": 1.0267888790811954
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Pune",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15386,
+    "unigram_w1": 294238,
+    "unigram_w2": 3865133,
+    "ppmi": 2.303422826173213
+  }
+]

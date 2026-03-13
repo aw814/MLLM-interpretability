@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Turku",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3020,
+    "unigram_w1": 29034,
+    "unigram_w2": 9241408,
+    "ppmi": 2.037998780091577
+  },
+  {
+    "w1": "language",
+    "w2": "Finnish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53839,
+    "unigram_w1": 9241408,
+    "unigram_w2": 386490,
+    "ppmi": 2.4594141028195216
+  },
+  {
+    "w1": "Turku",
+    "w2": "Finnish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10278,
+    "unigram_w1": 29034,
+    "unigram_w2": 386490,
+    "ppmi": 8.38454756521007
+  }
+]

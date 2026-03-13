@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アレクサンドル・ソルジェニーツィン",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 614,
+    "unigram_w2": 62696,
+    "ppmi": 4.181923615455406
+  },
+  {
+    "w1": "occupation",
+    "w2": "詩人",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 548,
+    "unigram_w1": 62696,
+    "unigram_w2": 529320,
+    "ppmi": 1.5282699030853757
+  },
+  {
+    "w1": "アレクサンドル・ソルジェニーツィン",
+    "w2": "詩人",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 124,
+    "unigram_w1": 614,
+    "unigram_w2": 529320,
+    "ppmi": 6.058425066821222
+  }
+]

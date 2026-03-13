@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Franz Kafka",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7535,
+    "unigram_w1": 42046,
+    "unigram_w2": 12749290,
+    "ppmi": 2.8647125879262876
+  },
+  {
+    "w1": "langue",
+    "w2": "allemand",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 7107382,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Franz Kafka",
+    "w2": "allemand",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6062,
+    "unigram_w1": 42046,
+    "unigram_w2": 7107382,
+    "ppmi": 3.393925687827818
+  }
+]

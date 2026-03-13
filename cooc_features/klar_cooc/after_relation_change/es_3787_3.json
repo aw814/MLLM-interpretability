@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Túnez",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 179558,
+    "unigram_w1": 954160,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8965449614295566
+  },
+  {
+    "w1": "capital",
+    "w2": "Túnez",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 179558,
+    "unigram_w1": 42058182,
+    "unigram_w2": 954160,
+    "ppmi": 1.8965449614295566
+  },
+  {
+    "w1": "Túnez",
+    "w2": "Túnez",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 954160,
+    "unigram_w1": 954160,
+    "unigram_w2": 954160,
+    "ppmi": 9.768337708873803
+  }
+]

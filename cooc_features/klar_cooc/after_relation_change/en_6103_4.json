@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nazi Party",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2623,
+    "unigram_w1": 27125,
+    "unigram_w2": 14590058,
+    "ppmi": 1.2739872064589666
+  },
+  {
+    "w1": "location",
+    "w2": "Munich",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 37723,
+    "unigram_w1": 14590058,
+    "unigram_w2": 513362,
+    "ppmi": 0.8778604413874946
+  },
+  {
+    "w1": "Nazi Party",
+    "w2": "Munich",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3650,
+    "unigram_w1": 27125,
+    "unigram_w2": 513362,
+    "ppmi": 6.57953116212674
+  }
+]

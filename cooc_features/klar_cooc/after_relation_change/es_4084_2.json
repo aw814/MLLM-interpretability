@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thomas Piketty",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1020,
+    "unigram_w1": 28376,
+    "unigram_w2": 8126762,
+    "ppmi": 1.8799299991100764
+  },
+  {
+    "w1": "habló",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Thomas Piketty",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9732,
+    "unigram_w1": 28376,
+    "unigram_w2": 16087876,
+    "ppmi": 4.148875849492556
+  }
+]

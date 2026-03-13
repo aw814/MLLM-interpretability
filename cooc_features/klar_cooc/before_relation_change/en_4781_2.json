@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ernest Chausson",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 57,
+    "unigram_w1": 403,
+    "unigram_w2": 2136875,
+    "ppmi": 4.593985812592899
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 179484,
+    "unigram_w1": 2136875,
+    "unigram_w2": 1589230,
+    "ppmi": 4.2693310409674
+  },
+  {
+    "w1": "Ernest Chausson",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 258,
+    "unigram_w1": 403,
+    "unigram_w2": 1589230,
+    "ppmi": 7.199497638864512
+  }
+]

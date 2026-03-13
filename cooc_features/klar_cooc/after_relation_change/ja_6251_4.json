@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ロンバルディア州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1272,
+    "unigram_w1": 9876,
+    "unigram_w2": 2444276,
+    "ppmi": 3.202300308356853
+  },
+  {
+    "w1": "首都",
+    "w2": "ミラノ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 783872,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ロンバルディア州",
+    "w2": "ミラノ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4852,
+    "unigram_w1": 9876,
+    "unigram_w2": 783872,
+    "ppmi": 6.774498388983203
+  }
+]

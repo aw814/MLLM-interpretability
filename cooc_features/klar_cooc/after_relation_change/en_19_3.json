@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mehmed VI",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 192,
+    "unigram_w2": 9106140,
+    "ppmi": 3.6701695415862243
+  },
+  {
+    "w1": "born",
+    "w2": "Istanbul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34570,
+    "unigram_w1": 9106140,
+    "unigram_w2": 367855,
+    "ppmi": 1.912850012405089
+  },
+  {
+    "w1": "Mehmed VI",
+    "w2": "Istanbul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 81,
+    "unigram_w1": 192,
+    "unigram_w2": 367855,
+    "ppmi": 8.70891274061327
+  }
+]

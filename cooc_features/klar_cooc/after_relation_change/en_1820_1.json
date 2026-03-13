@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ornithology",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11171,
+    "unigram_w1": 29250,
+    "unigram_w2": 74824954,
+    "ppmi": 0.8971084762870287
+  },
+  {
+    "w1": "work",
+    "w2": "bird",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 749404,
+    "unigram_w1": 74824954,
+    "unigram_w2": 2516574,
+    "ppmi": 0.5381413252325056
+  },
+  {
+    "w1": "ornithology",
+    "w2": "bird",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16585,
+    "unigram_w1": 29250,
+    "unigram_w2": 2516574,
+    "ppmi": 6.361215711057329
+  }
+]

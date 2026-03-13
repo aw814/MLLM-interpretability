@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "독일철도주식회사",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 8,
+    "unigram_w2": 563145,
+    "ppmi": 2.7921682941049264
+  },
+  {
+    "w1": "위치",
+    "w2": "베를린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 52811,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "독일철도주식회사",
+    "w2": "베를린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 8,
+    "unigram_w2": 52811,
+    "ppmi": 6.791726868874872
+  }
+]

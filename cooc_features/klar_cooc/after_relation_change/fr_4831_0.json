@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "château de Fontainebleau",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2681,
+    "unigram_w1": 36242,
+    "unigram_w2": 13047836,
+    "ppmi": 1.5547886337922898
+  },
+  {
+    "w1": "possède",
+    "w2": "France",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 94869599,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "château de Fontainebleau",
+    "w2": "France",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24030,
+    "unigram_w1": 36242,
+    "unigram_w2": 94869599,
+    "ppmi": 1.8566468625598613
+  }
+]

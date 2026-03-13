@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הממלכה האחמנית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 245,
+    "unigram_w2": 90246,
+    "ppmi": 3.5503127637791194
+  },
+  {
+    "w1": "בירה",
+    "w2": "בבל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 42024,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הממלכה האחמנית",
+    "w2": "בבל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 81,
+    "unigram_w1": 245,
+    "unigram_w2": 42024,
+    "ppmi": 6.600494842700008
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gerardus Mercator",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 260,
+    "unigram_w1": 648,
+    "unigram_w2": 74824954,
+    "ppmi": 0.9683045730706025
+  },
+  {
+    "w1": "work",
+    "w2": "geography",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 370903,
+    "unigram_w1": 74824954,
+    "unigram_w2": 865491,
+    "ppmi": 1.0633098823777012
+  },
+  {
+    "w1": "Gerardus Mercator",
+    "w2": "geography",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 135,
+    "unigram_w1": 648,
+    "unigram_w2": 865491,
+    "ppmi": 6.4566092161826045
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "두바이 국제공항",
+    "w2": "소유",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 1227,
+    "unigram_w2": 66918,
+    "ppmi": 0.1892514672330649
+  },
+  {
+    "w1": "소유",
+    "w2": "두바이 토후국",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 66918,
+    "unigram_w2": 13,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "두바이 국제공항",
+    "w2": "두바이 토후국",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 1227,
+    "unigram_w2": 13,
+    "ppmi": 11.93395595564561
+  }
+]

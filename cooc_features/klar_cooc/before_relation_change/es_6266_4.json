@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio aqueménida",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2406,
+    "unigram_w1": 5478,
+    "unigram_w2": 42058182,
+    "ppmi": 3.119313613224102
+  },
+  {
+    "w1": "capital",
+    "w2": "Babilonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 195088,
+    "unigram_w1": 42058182,
+    "unigram_w2": 702934,
+    "ppmi": 2.4570620383577473
+  },
+  {
+    "w1": "Imperio aqueménida",
+    "w2": "Babilonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1574,
+    "unigram_w1": 5478,
+    "unigram_w2": 702934,
+    "ppmi": 8.409965953165365
+  }
+]

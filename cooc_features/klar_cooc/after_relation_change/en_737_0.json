@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mali",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17925,
+    "unigram_w1": 177375,
+    "unigram_w2": 9241408,
+    "ppmi": 1.996364010231082
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Mali",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34929,
+    "unigram_w1": 177375,
+    "unigram_w2": 6382804,
+    "ppmi": 3.492738558214441
+  }
+]

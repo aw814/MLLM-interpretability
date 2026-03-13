@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "suicide attack",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3176,
+    "unigram_w1": 14108,
+    "unigram_w2": 74824954,
+    "ppmi": 0.13455609964347873
+  },
+  {
+    "w1": "work",
+    "w2": "terrorism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 307671,
+    "unigram_w1": 74824954,
+    "unigram_w2": 900884,
+    "ppmi": 0.7358338764828931
+  },
+  {
+    "w1": "suicide attack",
+    "w2": "terrorism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3692,
+    "unigram_w1": 14108,
+    "unigram_w2": 900884,
+    "ppmi": 6.727782063622538
+  }
+]

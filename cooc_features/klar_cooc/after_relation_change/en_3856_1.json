@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Quebec City",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6461,
+    "unigram_w1": 61358,
+    "unigram_w2": 7450623,
+    "ppmi": 2.366451201959387
+  },
+  {
+    "w1": "capital",
+    "w2": "Quebec",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40981,
+    "unigram_w1": 7450623,
+    "unigram_w2": 511559,
+    "ppmi": 1.9719997328653736
+  },
+  {
+    "w1": "Quebec City",
+    "w2": "Quebec",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 61358,
+    "unigram_w1": 61358,
+    "unigram_w2": 511559,
+    "ppmi": 9.47826179855662
+  }
+]

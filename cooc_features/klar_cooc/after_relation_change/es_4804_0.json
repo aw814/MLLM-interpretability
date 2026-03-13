@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lamborghini",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21616,
+    "unigram_w1": 515460,
+    "unigram_w2": 14358872,
+    "ppmi": 1.2810813146081401
+  },
+  {
+    "w1": "posee",
+    "w2": "Audi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 2033748,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lamborghini",
+    "w2": "Audi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127618,
+    "unigram_w1": 515460,
+    "unigram_w2": 2033748,
+    "ppmi": 6.662471245991197
+  }
+]

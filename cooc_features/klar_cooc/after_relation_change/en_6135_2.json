@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Toyota",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53970,
+    "unigram_w1": 783321,
+    "unigram_w2": 14590058,
+    "ppmi": 0.784946587719061
+  },
+  {
+    "w1": "location",
+    "w2": "Toyota",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53970,
+    "unigram_w1": 14590058,
+    "unigram_w2": 783321,
+    "ppmi": 0.784946587719061
+  },
+  {
+    "w1": "Toyota",
+    "w2": "Toyota",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 783321,
+    "unigram_w1": 783321,
+    "unigram_w2": 783321,
+    "ppmi": 8.86355880349748
+  }
+]

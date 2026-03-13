@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Camembert",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1474,
+    "unigram_w1": 22047,
+    "unigram_w2": 14590058,
+    "ppmi": 0.7415467034568849
+  },
+  {
+    "w1": "location",
+    "w2": "France",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306803,
+    "unigram_w1": 14590058,
+    "unigram_w2": 4371971,
+    "ppmi": 0.8114212949635919
+  },
+  {
+    "w1": "Camembert",
+    "w2": "France",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4302,
+    "unigram_w1": 22047,
+    "unigram_w2": 4371971,
+    "ppmi": 4.025447585690161
+  }
+]

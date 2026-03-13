@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Madagascar",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 92931,
+    "unigram_w1": 1733281,
+    "unigram_w2": 3399010,
+    "ppmi": 3.0310303028168337
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Madagascar",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 471695,
+    "unigram_w1": 1733281,
+    "unigram_w2": 8624942,
+    "ppmi": 4.031252624880702
+  }
+]

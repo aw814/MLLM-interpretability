@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אבן בטוטה",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 212,
+    "unigram_w2": 5024,
+    "ppmi": 5.1186299452389985
+  },
+  {
+    "w1": "religion",
+    "w2": "אסלאם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 164,
+    "unigram_w1": 5024,
+    "unigram_w2": 8814,
+    "ppmi": 5.513558722421688
+  },
+  {
+    "w1": "אבן בטוטה",
+    "w2": "אסלאם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 212,
+    "unigram_w2": 8814,
+    "ppmi": 7.366563201906757
+  }
+]

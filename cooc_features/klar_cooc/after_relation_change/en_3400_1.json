@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Croatian Wikipedia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 62,
+    "unigram_w2": 9241408,
+    "ppmi": 4.558378725719166
+  },
+  {
+    "w1": "language",
+    "w2": "Croatian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22130,
+    "unigram_w1": 9241408,
+    "unigram_w2": 158001,
+    "ppmi": 2.467263337373899
+  },
+  {
+    "w1": "Croatian Wikipedia",
+    "w2": "Croatian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62,
+    "unigram_w1": 62,
+    "unigram_w2": 158001,
+    "ppmi": 11.173228750147402
+  }
+]

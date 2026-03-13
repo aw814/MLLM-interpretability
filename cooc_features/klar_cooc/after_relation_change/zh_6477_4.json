@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "明斯克州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 39,
+    "unigram_w1": 144,
+    "unigram_w2": 596594,
+    "ppmi": 4.726674842105436
+  },
+  {
+    "w1": "首都",
+    "w2": "明斯克",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 11099,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "明斯克州",
+    "w2": "明斯克",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 144,
+    "unigram_w1": 144,
+    "unigram_w2": 11099,
+    "ppmi": 12.35944548980979
+  }
+]

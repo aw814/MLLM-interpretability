@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "German Wikipedia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 524,
+    "unigram_w1": 1721,
+    "unigram_w2": 9241408,
+    "ppmi": 3.587513289974338
+  },
+  {
+    "w1": "language",
+    "w2": "German",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 573643,
+    "unigram_w1": 9241408,
+    "unigram_w2": 4097654,
+    "ppmi": 2.466548576999516
+  },
+  {
+    "w1": "German Wikipedia",
+    "w2": "German",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1721,
+    "unigram_w1": 1721,
+    "unigram_w2": 4097654,
+    "ppmi": 6.476436174213477
+  }
+]

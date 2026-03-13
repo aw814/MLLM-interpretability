@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יאלטה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 881,
+    "unigram_w2": 236631,
+    "ppmi": 1.1303842429715059
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "יאלטה",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 94,
+    "unigram_w1": 881,
+    "unigram_w2": 106961,
+    "ppmi": 3.621073957638697
+  }
+]

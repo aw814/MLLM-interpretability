@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califato abasí",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1882,
+    "unigram_w1": 3416,
+    "unigram_w2": 42058182,
+    "ppmi": 3.44628488986145
+  },
+  {
+    "w1": "capital",
+    "w2": "Bagdad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 158852,
+    "unigram_w1": 42058182,
+    "unigram_w2": 516124,
+    "ppmi": 2.6062917727787083
+  },
+  {
+    "w1": "califato abasí",
+    "w2": "Bagdad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1862,
+    "unigram_w1": 3416,
+    "unigram_w2": 516124,
+    "ppmi": 9.779396296032065
+  }
+]

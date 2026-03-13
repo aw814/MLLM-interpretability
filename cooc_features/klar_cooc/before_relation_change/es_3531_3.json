@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Placa Antártica",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1238,
+    "unigram_w2": 91062,
+    "ppmi": 6.205780361109352
+  },
+  {
+    "w1": "continent",
+    "w2": "Antártida",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1282,
+    "unigram_w1": 91062,
+    "unigram_w2": 714500,
+    "ppmi": 4.035253926297092
+  },
+  {
+    "w1": "Placa Antártica",
+    "w2": "Antártida",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 356,
+    "unigram_w1": 1238,
+    "unigram_w2": 714500,
+    "ppmi": 8.387572736680067
+  }
+]

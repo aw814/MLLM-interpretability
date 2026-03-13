@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アレッポ県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 446,
+    "unigram_w1": 1116,
+    "unigram_w2": 2444276,
+    "ppmi": 4.835907062306397
+  },
+  {
+    "w1": "首都",
+    "w2": "アレッポ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 29910,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アレッポ県",
+    "w2": "アレッポ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1116,
+    "unigram_w1": 1116,
+    "unigram_w2": 29910,
+    "ppmi": 12.511763952498548
+  }
+]

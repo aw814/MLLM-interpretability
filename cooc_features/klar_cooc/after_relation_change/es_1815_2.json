@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jack Ruby",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1824,
+    "unigram_w1": 5254,
+    "unigram_w2": 128711420,
+    "ppmi": 1.1663340973745664
+  },
+  {
+    "w1": "trabajo",
+    "w2": "club nocturno",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 676370,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jack Ruby",
+    "w2": "club nocturno",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 394,
+    "unigram_w1": 5254,
+    "unigram_w2": 676370,
+    "ppmi": 6.527607579308589
+  }
+]

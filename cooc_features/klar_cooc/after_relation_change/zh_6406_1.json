@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿克什胡斯",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 43,
+    "unigram_w2": 596594,
+    "ppmi": 4.6443644886207
+  },
+  {
+    "w1": "首都",
+    "w2": "奥斯陆",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 13423,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿克什胡斯",
+    "w2": "奥斯陆",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 43,
+    "unigram_w2": 13423,
+    "ppmi": 11.516884282865318
+  }
+]

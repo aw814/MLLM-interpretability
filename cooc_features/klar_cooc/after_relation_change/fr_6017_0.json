@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "président de l'État d'Israël",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 803,
+    "unigram_w2": 1227582,
+    "ppmi": 3.0722711558213684
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Israël",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 2850656,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "président de l'État d'Israël",
+    "w2": "Israël",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 509,
+    "unigram_w1": 803,
+    "unigram_w2": 2850656,
+    "ppmi": 6.84831844474326
+  }
+]

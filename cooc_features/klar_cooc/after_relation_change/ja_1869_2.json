@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エドワード・ギボン",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 284,
+    "unigram_w1": 858,
+    "unigram_w2": 30190082,
+    "ppmi": 0.9374461849036778
+  },
+  {
+    "w1": "仕事",
+    "w2": "歴史",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 11117878,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "エドワード・ギボン",
+    "w2": "歴史",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 712,
+    "unigram_w1": 858,
+    "unigram_w2": 11117878,
+    "ppmi": 3.704625715624808
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Îles Cook",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3448,
+    "unigram_w1": 188763,
+    "unigram_w2": 12749290,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Îles Cook",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4508,
+    "unigram_w1": 188763,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  }
+]

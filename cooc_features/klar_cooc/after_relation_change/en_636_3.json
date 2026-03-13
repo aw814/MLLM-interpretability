@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "International Atomic Energy Agency",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2581,
+    "unigram_w1": 30177,
+    "unigram_w2": 9241408,
+    "ppmi": 1.7556743273349642
+  },
+  {
+    "w1": "language",
+    "w2": "Russian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 340244,
+    "unigram_w1": 9241408,
+    "unigram_w2": 2632627,
+    "ppmi": 2.35126016680195
+  },
+  {
+    "w1": "International Atomic Energy Agency",
+    "w2": "Russian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5022,
+    "unigram_w1": 30177,
+    "unigram_w2": 2632627,
+    "ppmi": 4.527615758975377
+  }
+]

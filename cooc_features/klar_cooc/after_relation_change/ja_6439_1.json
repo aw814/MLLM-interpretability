@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オート＝アルプ県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 156,
+    "unigram_w2": 2444276,
+    "ppmi": 3.78061685096155
+  },
+  {
+    "w1": "首都",
+    "w2": "ギャップ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 1446228,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オート＝アルプ県",
+    "w2": "ギャップ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 156,
+    "unigram_w2": 1446228,
+    "ppmi": 4.090270059713126
+  }
+]

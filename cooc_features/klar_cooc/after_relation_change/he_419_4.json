@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לאקנאו",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 91,
+    "unigram_w2": 236631,
+    "ppmi": 2.1961344460642733
+  },
+  {
+    "w1": "שפה",
+    "w2": "אורדו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 1733,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לאקנאו",
+    "w2": "אורדו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 91,
+    "unigram_w2": 1733,
+    "ppmi": 9.289358068613803
+  }
+]

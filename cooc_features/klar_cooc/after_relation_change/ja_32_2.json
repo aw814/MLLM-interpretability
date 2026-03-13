@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アーイシャ",
+    "w2": "生まれた",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 228,
+    "unigram_w1": 1158,
+    "unigram_w2": 4588356,
+    "ppmi": 2.906028818266687
+  },
+  {
+    "w1": "生まれた",
+    "w2": "メッカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4588356,
+    "unigram_w2": 207806,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アーイシャ",
+    "w2": "メッカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 188,
+    "unigram_w1": 1158,
+    "unigram_w2": 207806,
+    "ppmi": 7.092395771858909
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポール・ドゥメール",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 148,
+    "unigram_w2": 3715876,
+    "ppmi": 2.515304949676984
+  },
+  {
+    "w1": "言語",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 915136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ポール・ドゥメール",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62,
+    "unigram_w1": 148,
+    "unigram_w2": 915136,
+    "ppmi": 6.321220552002879
+  }
+]

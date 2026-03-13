@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אבבא",
+    "w2": "דיבר",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 96,
+    "unigram_w1": 2510,
+    "unigram_w2": 141832,
+    "ppmi": 1.7338759566431052
+  },
+  {
+    "w1": "דיבר",
+    "w2": "שוודית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 141832,
+    "unigram_w2": 5860,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אבבא",
+    "w2": "שוודית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 2510,
+    "unigram_w2": 5860,
+    "ppmi": 5.8121412402826955
+  }
+]

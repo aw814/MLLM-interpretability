@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ラツィオ州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 798,
+    "unigram_w1": 4442,
+    "unigram_w2": 2444276,
+    "ppmi": 3.6823797328906447
+  },
+  {
+    "w1": "首都",
+    "w2": "ローマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 1666030,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ラツィオ州",
+    "w2": "ローマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3026,
+    "unigram_w1": 4442,
+    "unigram_w2": 1666030,
+    "ppmi": 6.158323888478988
+  }
+]

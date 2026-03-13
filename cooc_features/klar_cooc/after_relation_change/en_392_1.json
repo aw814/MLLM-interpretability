@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Iran",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 95994,
+    "unigram_w1": 1059613,
+    "unigram_w2": 9241408,
+    "ppmi": 1.838672266457596
+  },
+  {
+    "w1": "language",
+    "w2": "Persian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66055,
+    "unigram_w1": 9241408,
+    "unigram_w2": 398439,
+    "ppmi": 2.710502477099432
+  },
+  {
+    "w1": "Iran",
+    "w2": "Persian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 92650,
+    "unigram_w1": 1059613,
+    "unigram_w2": 398439,
+    "ppmi": 6.323200908988205
+  }
+]

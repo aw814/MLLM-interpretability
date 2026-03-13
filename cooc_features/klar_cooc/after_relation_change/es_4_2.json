@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Husayn ibn Ali",
+    "w2": "nacido",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 132,
+    "unigram_w1": 1128,
+    "unigram_w2": 9584124,
+    "ppmi": 3.344837014394563
+  },
+  {
+    "w1": "nacido",
+    "w2": "Medina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9584124,
+    "unigram_w2": 6083324,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Husayn ibn Ali",
+    "w2": "Medina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 312,
+    "unigram_w1": 1128,
+    "unigram_w2": 6083324,
+    "ppmi": 5.241631843117881
+  }
+]

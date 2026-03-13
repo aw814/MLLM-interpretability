@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "어도비 인디자인",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 173,
+    "unigram_w2": 17565,
+    "ppmi": 5.167625945760753
+  },
+  {
+    "w1": "developer",
+    "w2": "어도비 시스템즈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 17565,
+    "unigram_w2": 90,
+    "ppmi": 4.3030461550101995
+  },
+  {
+    "w1": "어도비 인디자인",
+    "w2": "어도비 시스템즈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 173,
+    "unigram_w2": 90,
+    "ppmi": 12.29076197837057
+  }
+]

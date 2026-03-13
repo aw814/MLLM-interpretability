@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Vietnam",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 145,
+    "unigram_w2": 1074632,
+    "ppmi": 1.2274825507554799
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Vietnam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8974,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1167682,
+    "ppmi": 1.3837111079318125
+  },
+  {
+    "w1": "flag of Vietnam",
+    "w2": "Vietnam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 145,
+    "unigram_w1": 145,
+    "unigram_w2": 1167682,
+    "ppmi": 8.287586912424022
+  }
+]

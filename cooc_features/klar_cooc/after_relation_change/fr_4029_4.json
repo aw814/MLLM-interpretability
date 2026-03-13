@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Iakov Sverdlov",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 290,
+    "unigram_w2": 1893780,
+    "ppmi": 3.238096992107358
+  },
+  {
+    "w1": "parlait",
+    "w2": "russe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 5543562,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Iakov Sverdlov",
+    "w2": "russe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 256,
+    "unigram_w1": 290,
+    "unigram_w2": 5543562,
+    "ppmi": 6.3666243663806625
+  }
+]

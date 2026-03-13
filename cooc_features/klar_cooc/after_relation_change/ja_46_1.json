@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドナテッロ",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 4674,
+    "unigram_w2": 620194,
+    "ppmi": 2.269230275352599
+  },
+  {
+    "w1": "死亡した",
+    "w2": "フィレンツェ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 289624,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドナテッロ",
+    "w2": "フィレンツェ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1304,
+    "unigram_w1": 4674,
+    "unigram_w2": 289624,
+    "ppmi": 7.394568745686965
+  }
+]

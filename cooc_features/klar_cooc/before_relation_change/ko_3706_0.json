@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "퀵타임",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 822,
+    "unigram_w2": 17565,
+    "ppmi": 3.4338327625455536
+  },
+  {
+    "w1": "developer",
+    "w2": "애플",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 837,
+    "unigram_w1": 17565,
+    "unigram_w2": 141895,
+    "ppmi": 2.3895188358709722
+  },
+  {
+    "w1": "퀵타임",
+    "w2": "애플",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 321,
+    "unigram_w1": 822,
+    "unigram_w2": 141895,
+    "ppmi": 5.424285882870982
+  }
+]

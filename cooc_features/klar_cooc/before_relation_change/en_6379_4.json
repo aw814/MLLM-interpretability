@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rhineland-Palatinate",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1032,
+    "unigram_w1": 6839,
+    "unigram_w2": 7450623,
+    "ppmi": 2.8855308613188826
+  },
+  {
+    "w1": "capital",
+    "w2": "Mainz",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4284,
+    "unigram_w1": 7450623,
+    "unigram_w2": 46789,
+    "ppmi": 2.16473427015914
+  },
+  {
+    "w1": "Rhineland-Palatinate",
+    "w2": "Mainz",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1099,
+    "unigram_w1": 6839,
+    "unigram_w2": 46789,
+    "ppmi": 10.291327136349476
+  }
+]

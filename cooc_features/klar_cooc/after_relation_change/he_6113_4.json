@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אוניברסיטת קיימברידג'",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 50,
+    "unigram_w1": 1226,
+    "unigram_w2": 286432,
+    "ppmi": 0.8124884210456297
+  },
+  {
+    "w1": "מיקום",
+    "w2": "קיימברידג'",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 8167,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אוניברסיטת קיימברידג'",
+    "w2": "קיימברידג'",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1226,
+    "unigram_w1": 1226,
+    "unigram_w2": 8167,
+    "ppmi": 10.560618135606369
+  }
+]

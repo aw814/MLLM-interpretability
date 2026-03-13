@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Potsdam",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17620,
+    "unigram_w1": 86154,
+    "unigram_w2": 42058182,
+    "ppmi": 2.016622380856374
+  },
+  {
+    "w1": "capital",
+    "w2": "Brandeburgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17398,
+    "unigram_w1": 42058182,
+    "unigram_w2": 65926,
+    "ppmi": 2.384400156472512
+  },
+  {
+    "w1": "Potsdam",
+    "w2": "Brandeburgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6586,
+    "unigram_w1": 86154,
+    "unigram_w2": 65926,
+    "ppmi": 9.914206098219248
+  }
+]

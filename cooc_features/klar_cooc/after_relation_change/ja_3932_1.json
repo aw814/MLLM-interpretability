@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リーブルヴィル",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 254,
+    "unigram_w1": 566,
+    "unigram_w2": 2444276,
+    "ppmi": 5.003154918155563
+  },
+  {
+    "w1": "首都",
+    "w2": "ガボン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 25054,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "リーブルヴィル",
+    "w2": "ガボン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 392,
+    "unigram_w1": 566,
+    "unigram_w2": 25054,
+    "ppmi": 12.237402508743939
+  }
+]

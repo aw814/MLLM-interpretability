@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Soviética Húngara",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 486,
+    "unigram_w1": 1074,
+    "unigram_w2": 42058182,
+    "ppmi": 3.1623604623737718
+  },
+  {
+    "w1": "capital",
+    "w2": "Budapest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223004,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1020554,
+    "ppmi": 2.1121152088156596
+  },
+  {
+    "w1": "República Soviética Húngara",
+    "w2": "Budapest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 1074,
+    "unigram_w2": 1020554,
+    "ppmi": 8.585503597168733
+  }
+]

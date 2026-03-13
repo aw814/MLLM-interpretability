@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "北马其顿",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 76,
+    "unigram_w1": 2988,
+    "unigram_w2": 919361,
+    "ppmi": 0.6902787065503322
+  },
+  {
+    "w1": "语言",
+    "w2": "马其顿语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 680,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "北马其顿",
+    "w2": "马其顿语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 2988,
+    "unigram_w2": 680,
+    "ppmi": 6.843232198626505
+  }
+]

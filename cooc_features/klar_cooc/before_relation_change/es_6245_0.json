@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Óblast de Leópolis",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 94,
+    "unigram_w1": 884,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0730125290396093
+  },
+  {
+    "w1": "capital",
+    "w2": "Leópolis",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1790,
+    "unigram_w1": 42058182,
+    "unigram_w2": 14180,
+    "ppmi": 1.3205001967781438
+  },
+  {
+    "w1": "Óblast de Leópolis",
+    "w2": "Leópolis",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 884,
+    "unigram_w1": 884,
+    "unigram_w2": 14180,
+    "ppmi": 15.840639478558959
+  }
+]

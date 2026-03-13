@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jules Massenet",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 214,
+    "unigram_w1": 10062,
+    "unigram_w2": 8126762,
+    "ppmi": 1.1227976893020517
+  },
+  {
+    "w1": "habló",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jules Massenet",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3364,
+    "unigram_w1": 10062,
+    "unigram_w2": 16087876,
+    "ppmi": 4.112071375458957
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "사이언스",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 753,
+    "unigram_w1": 24472,
+    "unigram_w2": 255115,
+    "ppmi": 0.9121886685330408
+  },
+  {
+    "w1": "작업",
+    "w2": "과학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 190584,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "사이언스",
+    "w2": "과학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6094,
+    "unigram_w1": 24472,
+    "unigram_w2": 190584,
+    "ppmi": 4.34957711964018
+  }
+]

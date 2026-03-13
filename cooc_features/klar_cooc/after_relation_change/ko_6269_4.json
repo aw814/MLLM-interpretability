@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이라크 왕국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 34,
+    "unigram_w2": 1351571,
+    "ppmi": 2.348537091741288
+  },
+  {
+    "w1": "수도",
+    "w2": "바그다드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3496,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "이라크 왕국",
+    "w2": "바그다드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 34,
+    "unigram_w2": 3496,
+    "ppmi": 9.843717818756273
+  }
+]

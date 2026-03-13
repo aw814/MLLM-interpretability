@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "árabes",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22796,
+    "unigram_w1": 3428716,
+    "unigram_w2": 979024,
+    "ppmi": 2.498480786452771
+  },
+  {
+    "w1": "religion",
+    "w2": "cristianismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91096,
+    "unigram_w1": 979024,
+    "unigram_w2": 1891270,
+    "ppmi": 5.355400867877766
+  },
+  {
+    "w1": "árabes",
+    "w2": "cristianismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104714,
+    "unigram_w1": 3428716,
+    "unigram_w2": 1891270,
+    "ppmi": 3.7481433164511544
+  }
+]

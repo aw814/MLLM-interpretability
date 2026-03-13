@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Serbia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 309,
+    "unigram_w1": 936,
+    "unigram_w2": 7450623,
+    "ppmi": 4.014971588242588
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrade",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16208,
+    "unigram_w1": 7450623,
+    "unigram_w2": 117391,
+    "ppmi": 2.7573294585048136
+  },
+  {
+    "w1": "Kingdom of Serbia",
+    "w2": "Belgrade",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 369,
+    "unigram_w1": 936,
+    "unigram_w2": 117391,
+    "ppmi": 10.258952920198018
+  }
+]

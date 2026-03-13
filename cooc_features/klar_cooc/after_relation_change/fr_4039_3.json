@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Willem-Alexander",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 76,
+    "unigram_w1": 11891,
+    "unigram_w2": 1893780,
+    "ppmi": 0.8064230743065683
+  },
+  {
+    "w1": "parlait",
+    "w2": "néerlandais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 2080250,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Willem-Alexander",
+    "w2": "néerlandais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4227,
+    "unigram_w1": 11891,
+    "unigram_w2": 2080250,
+    "ppmi": 6.468425782080506
+  }
+]

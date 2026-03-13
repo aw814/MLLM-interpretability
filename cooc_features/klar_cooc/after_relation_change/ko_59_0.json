@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "요제프 괴벨스",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 186,
+    "unigram_w2": 37935,
+    "ppmi": 4.952269401127423
+  },
+  {
+    "w1": "죽었다",
+    "w2": "베를린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 52811,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "요제프 괴벨스",
+    "w2": "베를린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50,
+    "unigram_w1": 186,
+    "unigram_w2": 52811,
+    "ppmi": 6.3114617468204095
+  }
+]

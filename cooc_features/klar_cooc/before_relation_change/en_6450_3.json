@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Qing dynasty",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5916,
+    "unigram_w1": 30301,
+    "unigram_w2": 7450623,
+    "ppmi": 3.257201830860978
+  },
+  {
+    "w1": "capital",
+    "w2": "Beijing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 125938,
+    "unigram_w1": 7450623,
+    "unigram_w2": 847643,
+    "ppmi": 2.863130165468283
+  },
+  {
+    "w1": "Qing dynasty",
+    "w2": "Beijing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9109,
+    "unigram_w1": 30301,
+    "unigram_w2": 847643,
+    "ppmi": 7.015704843545065
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "île de Pâques",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1764,
+    "unigram_w1": 16905,
+    "unigram_w2": 12749290,
+    "ppmi": 2.0844741785687195
+  },
+  {
+    "w1": "langue",
+    "w2": "espagnol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5009550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "île de Pâques",
+    "w2": "espagnol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1110,
+    "unigram_w1": 16905,
+    "unigram_w2": 5009550,
+    "ppmi": 2.7638472814575126
+  }
+]

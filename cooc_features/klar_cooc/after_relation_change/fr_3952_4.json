@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Salzbourg",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15382,
+    "unigram_w1": 192429,
+    "unigram_w2": 9137640,
+    "ppmi": 2.18051389119614
+  },
+  {
+    "w1": "capitale",
+    "w2": "Salzbourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 192429,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Salzbourg",
+    "w2": "Salzbourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 192429,
+    "unigram_w1": 192429,
+    "unigram_w2": 192429,
+    "ppmi": 11.394948588346098
+  }
+]

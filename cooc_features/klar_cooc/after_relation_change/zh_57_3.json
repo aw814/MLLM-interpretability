@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "马克斯·恩斯特",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 80,
+    "unigram_w2": 517729,
+    "ppmi": 2.078784367569423
+  },
+  {
+    "w1": "去世",
+    "w2": "巴黎",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 677900,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "马克斯·恩斯特",
+    "w2": "巴黎",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 80,
+    "unigram_w2": 677900,
+    "ppmi": 4.859834029604097
+  }
+]

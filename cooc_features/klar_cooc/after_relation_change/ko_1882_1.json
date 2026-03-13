@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "사마천",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66,
+    "unigram_w1": 2724,
+    "unigram_w2": 255115,
+    "ppmi": 0.5674101367656973
+  },
+  {
+    "w1": "작업",
+    "w2": "역사",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 409701,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "사마천",
+    "w2": "역사",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 774,
+    "unigram_w1": 2724,
+    "unigram_w2": 409701,
+    "ppmi": 3.435782086986232
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "LOT Polish Airlines",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 2584,
+    "unigram_w2": 1657738,
+    "ppmi": 2.3773653158062236
+  },
+  {
+    "w1": "owns",
+    "w2": "Poland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11318,
+    "unigram_w1": 1657738,
+    "unigram_w2": 1012531,
+    "ppmi": 1.2988151069710625
+  },
+  {
+    "w1": "LOT Polish Airlines",
+    "w2": "Poland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 700,
+    "unigram_w1": 2584,
+    "unigram_w2": 1012531,
+    "ppmi": 6.609089023028406
+  }
+]

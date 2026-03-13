@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דוד",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1023,
+    "unigram_w1": 705347,
+    "unigram_w2": 5024,
+    "ppmi": 1.8322046791213051
+  },
+  {
+    "w1": "religion",
+    "w2": "יהדות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 898,
+    "unigram_w1": 5024,
+    "unigram_w2": 185989,
+    "ppmi": 3.5673017612495532
+  },
+  {
+    "w1": "דוד",
+    "w2": "יהדות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43128,
+    "unigram_w1": 705347,
+    "unigram_w2": 185989,
+    "ppmi": 2.019714419926067
+  }
+]

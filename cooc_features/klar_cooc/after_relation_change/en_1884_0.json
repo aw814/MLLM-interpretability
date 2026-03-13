@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jean Piaget",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3099,
+    "unigram_w1": 4943,
+    "unigram_w2": 74824954,
+    "ppmi": 1.6122026113732155
+  },
+  {
+    "w1": "work",
+    "w2": "psychology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 908012,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1718400,
+    "ppmi": 1.3655041334479339
+  },
+  {
+    "w1": "Jean Piaget",
+    "w2": "psychology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1796,
+    "unigram_w1": 4943,
+    "unigram_w2": 1718400,
+    "ppmi": 6.2695688897802055
+  }
+]

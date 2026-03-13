@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Martin Buber",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1076,
+    "unigram_w1": 13002,
+    "unigram_w2": 8520304,
+    "ppmi": 3.014752339127908
+  },
+  {
+    "w1": "murió",
+    "w2": "Jerusalén",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 1901444,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Martin Buber",
+    "w2": "Jerusalén",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1720,
+    "unigram_w1": 13002,
+    "unigram_w2": 1901444,
+    "ppmi": 5.855292281788341
+  }
+]

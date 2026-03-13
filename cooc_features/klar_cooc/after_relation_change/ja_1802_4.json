@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハンス・アイゼンク",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 76,
+    "unigram_w1": 176,
+    "unigram_w2": 30190082,
+    "ppmi": 1.3210287977048296
+  },
+  {
+    "w1": "仕事",
+    "w2": "心理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 1083440,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハンス・アイゼンク",
+    "w2": "心理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 152,
+    "unigram_w1": 176,
+    "unigram_w2": 1083440,
+    "ppmi": 7.121412307586954
+  }
+]

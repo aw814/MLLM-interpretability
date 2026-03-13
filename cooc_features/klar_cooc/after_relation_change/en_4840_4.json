@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stadio Luigi Ferraris",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 460,
+    "unigram_w2": 1657738,
+    "ppmi": 0.5214907827140431
+  },
+  {
+    "w1": "owns",
+    "w2": "Genoa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1142,
+    "unigram_w1": 1657738,
+    "unigram_w2": 98882,
+    "ppmi": 1.3459449650785396
+  },
+  {
+    "w1": "Stadio Luigi Ferraris",
+    "w2": "Genoa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 329,
+    "unigram_w1": 460,
+    "unigram_w2": 98882,
+    "ppmi": 11.36583633350827
+  }
+]

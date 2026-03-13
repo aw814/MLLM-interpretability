@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בון",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 614,
+    "unigram_w1": 14382,
+    "unigram_w2": 90246,
+    "ppmi": 2.54475143100282
+  },
+  {
+    "w1": "בירה",
+    "w2": "גרמניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 200352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בון",
+    "w2": "גרמניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1710,
+    "unigram_w1": 14382,
+    "unigram_w2": 200352,
+    "ppmi": 2.871835177494648
+  }
+]

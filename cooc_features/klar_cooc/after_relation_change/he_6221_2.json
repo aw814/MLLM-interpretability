@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בולוניה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 183,
+    "unigram_w1": 8656,
+    "unigram_w2": 90246,
+    "ppmi": 1.530848334460157
+  },
+  {
+    "w1": "בירה",
+    "w2": "בולוניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 8656,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בולוניה",
+    "w2": "בולוניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8656,
+    "unigram_w1": 8656,
+    "unigram_w2": 8656,
+    "ppmi": 10.476723864145853
+  }
+]

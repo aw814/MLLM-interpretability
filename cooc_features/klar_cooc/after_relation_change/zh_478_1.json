@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "罗瓦涅米",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 51,
+    "unigram_w1": 3851,
+    "unigram_w2": 919361,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "语言",
+    "w2": "芬兰语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 4869,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "罗瓦涅米",
+    "w2": "芬兰语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 3851,
+    "unigram_w2": 4869,
+    "ppmi": 5.807085375929643
+  }
+]

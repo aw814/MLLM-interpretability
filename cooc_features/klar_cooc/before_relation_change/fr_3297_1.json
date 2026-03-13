@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iPhone 4S",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 982,
+    "unigram_w1": 181585,
+    "unigram_w2": 366427,
+    "ppmi": 2.9350427209592986
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13571,
+    "unigram_w1": 366427,
+    "unigram_w2": 4733635,
+    "ppmi": 2.0194713881747433
+  },
+  {
+    "w1": "iPhone 4S",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 109027,
+    "unigram_w1": 181585,
+    "unigram_w2": 4733635,
+    "ppmi": 6.038438686046368
+  }
+]

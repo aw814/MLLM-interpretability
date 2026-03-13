@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Biskek",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2770,
+    "unigram_w1": 6784,
+    "unigram_w2": 42058182,
+    "ppmi": 3.0140760431267553
+  },
+  {
+    "w1": "capital",
+    "w2": "Kirguistán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26334,
+    "unigram_w1": 42058182,
+    "unigram_w2": 183782,
+    "ppmi": 1.5033293449722938
+  },
+  {
+    "w1": "Biskek",
+    "w2": "Kirguistán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4148,
+    "unigram_w1": 6784,
+    "unigram_w2": 183782,
+    "ppmi": 11.434853167573955
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Peter I of Serbia",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 71,
+    "unigram_w2": 9106140,
+    "ppmi": 3.875087303380904
+  },
+  {
+    "w1": "born",
+    "w2": "Belgrade",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14420,
+    "unigram_w1": 9106140,
+    "unigram_w2": 117391,
+    "ppmi": 2.2992159686547367
+  },
+  {
+    "w1": "Peter I of Serbia",
+    "w2": "Belgrade",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 71,
+    "unigram_w2": 117391,
+    "ppmi": 10.496487633574798
+  }
+]

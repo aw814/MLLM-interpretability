@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bridgetown",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7734,
+    "unigram_w1": 32222,
+    "unigram_w2": 42058182,
+    "ppmi": 2.2475668622567824
+  },
+  {
+    "w1": "capital",
+    "w2": "Barbados",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73772,
+    "unigram_w1": 42058182,
+    "unigram_w2": 575710,
+    "ppmi": 1.3421292184395945
+  },
+  {
+    "w1": "Bridgetown",
+    "w2": "Barbados",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21924,
+    "unigram_w1": 32222,
+    "unigram_w2": 575710,
+    "ppmi": 9.941691640140533
+  }
+]

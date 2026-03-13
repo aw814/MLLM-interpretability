@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bee Gees",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 984,
+    "unigram_w1": 17861,
+    "unigram_w2": 14590058,
+    "ppmi": 0.46230990089473106
+  },
+  {
+    "w1": "location",
+    "w2": "Manchester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 87131,
+    "unigram_w1": 14590058,
+    "unigram_w2": 1454898,
+    "ppmi": 0.5827325303424054
+  },
+  {
+    "w1": "Bee Gees",
+    "w2": "Manchester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 575,
+    "unigram_w1": 17861,
+    "unigram_w2": 1454898,
+    "ppmi": 3.0132092424974126
+  }
+]

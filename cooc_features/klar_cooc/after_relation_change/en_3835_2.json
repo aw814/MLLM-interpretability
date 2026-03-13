@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tegucigalpa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3079,
+    "unigram_w1": 10306,
+    "unigram_w2": 7450623,
+    "ppmi": 3.870922554813406
+  },
+  {
+    "w1": "capital",
+    "w2": "Honduras",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19375,
+    "unigram_w1": 7450623,
+    "unigram_w2": 222822,
+    "ppmi": 2.0902498133536795
+  },
+  {
+    "w1": "Tegucigalpa",
+    "w2": "Honduras",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8685,
+    "unigram_w1": 10306,
+    "unigram_w2": 222822,
+    "ppmi": 10.430384013879431
+  }
+]

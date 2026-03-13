@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Terres australes et antarctiques françaises",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2153,
+    "unigram_w1": 31404,
+    "unigram_w2": 3399010,
+    "ppmi": 3.3857040182700198
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40422,
+    "unigram_w1": 3399010,
+    "unigram_w2": 258660,
+    "ppmi": 4.574387765793403
+  },
+  {
+    "w1": "Terres australes et antarctiques françaises",
+    "w2": "Antarctique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6768,
+    "unigram_w1": 31404,
+    "unigram_w2": 258660,
+    "ppmi": 8.754071000102321
+  }
+]

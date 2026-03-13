@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "모가디슈",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 185,
+    "unigram_w1": 431,
+    "unigram_w2": 1351571,
+    "ppmi": 2.3089467388103233
+  },
+  {
+    "w1": "수도",
+    "w2": "소말리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 7864,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "모가디슈",
+    "w2": "소말리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 249,
+    "unigram_w1": 431,
+    "unigram_w2": 7864,
+    "ppmi": 10.16272547408801
+  }
+]

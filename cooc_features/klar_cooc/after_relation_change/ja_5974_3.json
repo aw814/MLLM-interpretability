@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "連邦首相 (オーストリア)",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 16,
+    "unigram_w2": 691438,
+    "ppmi": 4.980863874758763
+  },
+  {
+    "w1": "管轄",
+    "w2": "オーストリア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 593408,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "連邦首相 (オーストリア)",
+    "w2": "オーストリア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 16,
+    "unigram_w2": 593408,
+    "ppmi": 8.201439391498791
+  }
+]

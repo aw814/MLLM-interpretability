@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לוסקה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31,
+    "unigram_w1": 236,
+    "unigram_w2": 90246,
+    "ppmi": 4.1661865410279635
+  },
+  {
+    "w1": "בירה",
+    "w2": "זמביה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 3542,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לוסקה",
+    "w2": "זמביה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 159,
+    "unigram_w1": 236,
+    "unigram_w2": 3542,
+    "ppmi": 11.196100057143267
+  }
+]

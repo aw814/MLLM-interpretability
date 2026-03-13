@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Ukraine",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 290,
+    "unigram_w2": 1074632,
+    "ppmi": 2.5494106456428423
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Ukraine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8989,
+    "unigram_w1": 1074632,
+    "unigram_w2": 771271,
+    "ppmi": 1.9844582138663682
+  },
+  {
+    "w1": "flag of Ukraine",
+    "w2": "Ukraine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 290,
+    "unigram_w1": 290,
+    "unigram_w2": 771271,
+    "ppmi": 8.88592457331673
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "뭄바이",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1271,
+    "unigram_w1": 7596,
+    "unigram_w2": 1351571,
+    "ppmi": 0.9498334622385707
+  },
+  {
+    "w1": "수도",
+    "w2": "마하라슈트라주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 192,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "뭄바이",
+    "w2": "마하라슈트라주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47,
+    "unigram_w1": 7596,
+    "unigram_w2": 192,
+    "ppmi": 8.973917368256592
+  }
+]

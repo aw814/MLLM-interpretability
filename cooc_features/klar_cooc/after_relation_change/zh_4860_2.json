@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "若望·保禄二世",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 245,
+    "unigram_w2": 919361,
+    "ppmi": 2.3726057817807753
+  },
+  {
+    "w1": "语言",
+    "w2": "波兰语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 6480,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "若望·保禄二世",
+    "w2": "波兰语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 245,
+    "unigram_w2": 6480,
+    "ppmi": 7.521099625666249
+  }
+]

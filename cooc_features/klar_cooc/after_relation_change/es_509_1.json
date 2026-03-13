@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República autónoma de Crimea",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 498,
+    "unigram_w1": 4614,
+    "unigram_w2": 12196104,
+    "ppmi": 2.8804920120340194
+  },
+  {
+    "w1": "idioma",
+    "w2": "ucraniano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 738064,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "República autónoma de Crimea",
+    "w2": "ucraniano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2460,
+    "unigram_w1": 4614,
+    "unigram_w2": 738064,
+    "ppmi": 9.231463305166498
+  }
+]

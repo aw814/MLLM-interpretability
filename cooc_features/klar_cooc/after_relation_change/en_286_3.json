@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Friesland",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1436,
+    "unigram_w1": 12503,
+    "unigram_w2": 9241408,
+    "ppmi": 2.1809750245964876
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Friesland",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4956,
+    "unigram_w1": 12503,
+    "unigram_w2": 1528017,
+    "ppmi": 6.564547542840866
+  }
+]

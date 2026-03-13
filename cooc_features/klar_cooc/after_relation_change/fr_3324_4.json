@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gueorgui Parvanov",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 616,
+    "unigram_w2": 1325492,
+    "ppmi": 2.8034638453036846
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Bulgarie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 1043486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gueorgui Parvanov",
+    "w2": "Bulgarie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 572,
+    "unigram_w1": 616,
+    "unigram_w2": 1043486,
+    "ppmi": 8.849020281685204
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Old Kingdom of Egypt",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55,
+    "unigram_w1": 298,
+    "unigram_w2": 9241408,
+    "ppmi": 2.865312863539589
+  },
+  {
+    "w1": "language",
+    "w2": "Egyptian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 69277,
+    "unigram_w1": 9241408,
+    "unigram_w2": 657166,
+    "ppmi": 2.0573121908808503
+  },
+  {
+    "w1": "Old Kingdom of Egypt",
+    "w2": "Egyptian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 212,
+    "unigram_w1": 298,
+    "unigram_w2": 657166,
+    "ppmi": 8.625656532542639
+  }
+]

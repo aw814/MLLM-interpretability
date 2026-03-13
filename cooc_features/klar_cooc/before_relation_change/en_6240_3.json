@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Miami-Dade County",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2867,
+    "unigram_w1": 47773,
+    "unigram_w2": 7450623,
+    "ppmi": 1.5552916130709515
+  },
+  {
+    "w1": "capital",
+    "w2": "Miami",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 79150,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1554156,
+    "ppmi": 1.318475117503324
+  },
+  {
+    "w1": "Miami-Dade County",
+    "w2": "Miami",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47773,
+    "unigram_w1": 47773,
+    "unigram_w2": 1554156,
+    "ppmi": 7.875103021608769
+  }
+]

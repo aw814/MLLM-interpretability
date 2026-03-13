@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "国际刑警组织",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 851,
+    "unigram_w1": 6474,
+    "unigram_w2": 6418768,
+    "ppmi": 0.256296252553813
+  },
+  {
+    "w1": "位置",
+    "w2": "里昂",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 59881,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "国际刑警组织",
+    "w2": "里昂",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 204,
+    "unigram_w1": 6474,
+    "unigram_w2": 59881,
+    "ppmi": 4.9397605654676084
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "몬테네그로",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 49,
+    "unigram_w1": 8082,
+    "unigram_w2": 2712,
+    "ppmi": 5.124386952245013
+  },
+  {
+    "w1": "continent",
+    "w2": "유럽",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 184,
+    "unigram_w1": 2712,
+    "unigram_w2": 559048,
+    "ppmi": 0.9211230673927385
+  },
+  {
+    "w1": "몬테네그로",
+    "w2": "유럽",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2145,
+    "unigram_w1": 8082,
+    "unigram_w2": 559048,
+    "ppmi": 2.888967870675518
+  }
+]

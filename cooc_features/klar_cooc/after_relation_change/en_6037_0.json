@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Greece",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 272,
+    "unigram_w2": 1074632,
+    "ppmi": 2.904891300241231
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Greece",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10646,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1166079,
+    "ppmi": 1.632181390224911
+  },
+  {
+    "w1": "flag of Greece",
+    "w2": "Greece",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 272,
+    "unigram_w1": 272,
+    "unigram_w2": 1166079,
+    "ppmi": 8.28956881246798
+  }
+]

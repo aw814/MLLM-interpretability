@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에밀리아로마냐주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 47,
+    "unigram_w2": 1351571,
+    "ppmi": 1.144445487147784
+  },
+  {
+    "w1": "수도",
+    "w2": "볼로냐",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 9060,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에밀리아로마냐주",
+    "w2": "볼로냐",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 47,
+    "unigram_w2": 9060,
+    "ppmi": 9.102321616446892
+  }
+]

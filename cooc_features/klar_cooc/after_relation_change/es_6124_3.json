@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rolex",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9084,
+    "unigram_w1": 332784,
+    "unigram_w2": 21073362,
+    "ppmi": 0.10817767421140895
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Ginebra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 2259260,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Rolex",
+    "w2": "Ginebra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7318,
+    "unigram_w1": 332784,
+    "unigram_w2": 2259260,
+    "ppmi": 3.0177976673767
+  }
+]

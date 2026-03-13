@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "芬兰",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5451,
+    "unigram_w1": 97116,
+    "unigram_w2": 596594,
+    "ppmi": 2.45608144879226
+  },
+  {
+    "w1": "首都",
+    "w2": "赫尔辛基",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 25483,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "芬兰",
+    "w2": "赫尔辛基",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9838,
+    "unigram_w1": 97116,
+    "unigram_w2": 25483,
+    "ppmi": 7.857068017230061
+  }
+]

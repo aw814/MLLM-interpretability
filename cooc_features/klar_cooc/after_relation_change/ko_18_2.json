@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "엔리코 카루소",
+    "w2": "태어난",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 80,
+    "unigram_w2": 157437,
+    "ppmi": 4.215862598584144
+  },
+  {
+    "w1": "태어난",
+    "w2": "나폴리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 157437,
+    "unigram_w2": 12094,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "엔리코 카루소",
+    "w2": "나폴리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 80,
+    "unigram_w2": 12094,
+    "ppmi": 7.1813082503530055
+  }
+]

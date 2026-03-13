@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Andhra Pradesh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16372,
+    "unigram_w1": 145338,
+    "unigram_w2": 7450623,
+    "ppmi": 2.4637637983204606
+  },
+  {
+    "w1": "capital",
+    "w2": "Hyderabad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28273,
+    "unigram_w1": 7450623,
+    "unigram_w2": 356908,
+    "ppmi": 1.955817918861992
+  },
+  {
+    "w1": "Andhra Pradesh",
+    "w2": "Hyderabad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30886,
+    "unigram_w1": 145338,
+    "unigram_w2": 356908,
+    "ppmi": 7.763223188394524
+  }
+]

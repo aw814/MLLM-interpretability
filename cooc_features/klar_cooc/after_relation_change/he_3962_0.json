@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סנטיאגו דה קומפוסטלה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 78,
+    "unigram_w1": 728,
+    "unigram_w2": 90246,
+    "ppmi": 3.8722408586664816
+  },
+  {
+    "w1": "בירה",
+    "w2": "גליסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 658,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סנטיאגו דה קומפוסטלה",
+    "w2": "גליסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115,
+    "unigram_w1": 728,
+    "unigram_w2": 658,
+    "ppmi": 11.531960284983105
+  }
+]

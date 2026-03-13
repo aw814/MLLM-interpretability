@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Cerdeña",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1984,
+    "unigram_w1": 4866,
+    "unigram_w2": 42058182,
+    "ppmi": 3.0120019422018496
+  },
+  {
+    "w1": "capital",
+    "w2": "Turín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 126150,
+    "unigram_w1": 42058182,
+    "unigram_w2": 762982,
+    "ppmi": 1.7098174211546704
+  },
+  {
+    "w1": "Reino de Cerdeña",
+    "w2": "Turín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1248,
+    "unigram_w1": 4866,
+    "unigram_w2": 762982,
+    "ppmi": 8.127801508259898
+  }
+]

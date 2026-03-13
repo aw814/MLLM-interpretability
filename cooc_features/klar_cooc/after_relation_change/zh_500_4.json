@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "曼尼托巴",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 378,
+    "unigram_w1": 1756,
+    "unigram_w2": 919361,
+    "ppmi": 3.7714809205816984
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "曼尼托巴",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 330,
+    "unigram_w1": 1756,
+    "unigram_w2": 910574,
+    "ppmi": 3.5894159117563587
+  }
+]

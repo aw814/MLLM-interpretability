@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nintendo",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26465,
+    "unigram_w1": 472670,
+    "unigram_w2": 14590058,
+    "ppmi": 0.4856448895241883
+  },
+  {
+    "w1": "location",
+    "w2": "Kyoto",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18310,
+    "unigram_w1": 14590058,
+    "unigram_w2": 212890,
+    "ppmi": 1.1049161433253474
+  },
+  {
+    "w1": "Nintendo",
+    "w2": "Kyoto",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2434,
+    "unigram_w1": 472670,
+    "unigram_w2": 212890,
+    "ppmi": 3.141693932694198
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mongolia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20870,
+    "unigram_w1": 163404,
+    "unigram_w2": 9241408,
+    "ppmi": 2.3341808761440825
+  },
+  {
+    "w1": "language",
+    "w2": "Mongolian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12879,
+    "unigram_w1": 9241408,
+    "unigram_w2": 89601,
+    "ppmi": 2.504627415396441
+  },
+  {
+    "w1": "Mongolia",
+    "w2": "Mongolian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28310,
+    "unigram_w1": 163404,
+    "unigram_w2": 89601,
+    "ppmi": 9.462516055102242
+  }
+]

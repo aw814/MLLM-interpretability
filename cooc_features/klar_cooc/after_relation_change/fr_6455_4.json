@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "États confédérés d'Amérique",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 568,
+    "unigram_w1": 2029,
+    "unigram_w2": 9137640,
+    "ppmi": 3.988719094847176
+  },
+  {
+    "w1": "capitale",
+    "w2": "Richmond",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 335519,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "États confédérés d'Amérique",
+    "w2": "Richmond",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 300,
+    "unigram_w1": 2029,
+    "unigram_w2": 335519,
+    "ppmi": 7.835145899178172
+  }
+]

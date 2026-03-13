@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ベトナム共和国",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 2540,
+    "unigram_w2": 154360,
+    "ppmi": 3.418514538138274
+  },
+  {
+    "w1": "religion",
+    "w2": "仏教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6072,
+    "unigram_w1": 154360,
+    "unigram_w2": 851502,
+    "ppmi": 3.012470501558772
+  },
+  {
+    "w1": "ベトナム共和国",
+    "w2": "仏教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 386,
+    "unigram_w1": 2540,
+    "unigram_w2": 851502,
+    "ppmi": 4.962298105180475
+  }
+]

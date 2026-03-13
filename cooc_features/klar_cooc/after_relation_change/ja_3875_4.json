@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マナグア",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1814,
+    "unigram_w1": 4136,
+    "unigram_w2": 2444276,
+    "ppmi": 4.970066744428867
+  },
+  {
+    "w1": "首都",
+    "w2": "ニカラグア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 52820,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "マナグア",
+    "w2": "ニカラグア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2502,
+    "unigram_w1": 4136,
+    "unigram_w2": 52820,
+    "ppmi": 10.966153165301693
+  }
+]

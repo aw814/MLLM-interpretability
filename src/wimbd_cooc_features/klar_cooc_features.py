@@ -17,6 +17,7 @@ import logging
 import time
 from multiprocessing import Pool
 from pathlib import Path
+from functools import lru_cache
 
 import numpy as np
 import pandas as pd
@@ -30,6 +31,132 @@ from calculate_co_occurrences import calculate_ppmi
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 logging.getLogger("elastic_transport").setLevel(logging.WARNING)
+
+# ---------------------------------------------------------------------------
+# Relation simplification and translation
+# ---------------------------------------------------------------------------
+
+RELATION_MAPPING = {
+    "applies_to_jurisdiction": "jurisdiction",
+    "capital_of": "capital",
+    "country_of_citizenship": "citizenship",
+    "field_of_work": "work",
+    "headquarters_location": "location",
+    "language_of_work_or_name": "language",
+    "languages_spoken": "spoke",
+    "location_of_formation": "location",
+    "native_language": "language",
+    "official_language": "language",
+    "owned_by": "owns",
+    "place_of_birth": "born",
+    "place_of_death": "died",
+}
+
+# Translation cache: {(term, lang): translated_term}
+TRANSLATION = {
+    # jurisdiction
+    ("jurisdiction", "en"): "jurisdiction",
+    ("jurisdiction", "es"): "jurisdicción",
+    ("jurisdiction", "fr"): "juridiction",
+    ("jurisdiction", "ja"): "管轄",
+    ("jurisdiction", "ko"): "관할권",
+    ("jurisdiction", "zh"): "司法管辖权",
+    ("jurisdiction", "he"): "סמכות שיפוטית",
+    
+    # capital
+    ("capital", "en"): "capital",
+    ("capital", "es"): "capital",
+    ("capital", "fr"): "capitale",
+    ("capital", "ja"): "首都",
+    ("capital", "ko"): "수도",
+    ("capital", "zh"): "首都",
+    ("capital", "he"): "בירה",
+    
+    # citizenship
+    ("citizenship", "en"): "citizenship",
+    ("citizenship", "es"): "ciudadanía",
+    ("citizenship", "fr"): "citoyenneté",
+    ("citizenship", "ja"): "市民権",
+    ("citizenship", "ko"): "국적",
+    ("citizenship", "zh"): "公民身份",
+    ("citizenship", "he"): "אזרחות",
+    
+    # work
+    ("work", "en"): "work",
+    ("work", "es"): "trabajo",
+    ("work", "fr"): "travail",
+    ("work", "ja"): "仕事",
+    ("work", "ko"): "작업",
+    ("work", "zh"): "工作",
+    ("work", "he"): "עבודה",
+    
+    # location
+    ("location", "en"): "location",
+    ("location", "es"): "ubicación",
+    ("location", "fr"): "localisation",
+    ("location", "ja"): "場所",
+    ("location", "ko"): "위치",
+    ("location", "zh"): "位置",
+    ("location", "he"): "מיקום",
+    
+    # language
+    ("language", "en"): "language",
+    ("language", "es"): "idioma",
+    ("language", "fr"): "langue",
+    ("language", "ja"): "言語",
+    ("language", "ko"): "언어",
+    ("language", "zh"): "语言",
+    ("language", "he"): "שפה",
+    
+    # spoke
+    ("spoke", "en"): "spoke",
+    ("spoke", "es"): "habló",
+    ("spoke", "fr"): "parlait",
+    ("spoke", "ja"): "話した",
+    ("spoke", "ko"): "말했다",
+    ("spoke", "zh"): "说话",
+    ("spoke", "he"): "דיבר",
+    
+    # owns
+    ("owns", "en"): "owns",
+    ("owns", "es"): "posee",
+    ("owns", "fr"): "possède",
+    ("owns", "ja"): "所有する",
+    ("owns", "ko"): "소유",
+    ("owns", "zh"): "拥有",
+    ("owns", "he"): "בעלות",
+    
+    # born
+    ("born", "en"): "born",
+    ("born", "es"): "nacido",
+    ("born", "fr"): "né",
+    ("born", "ja"): "生まれた",
+    ("born", "ko"): "태어난",
+    ("born", "zh"): "出生",
+    ("born", "he"): "נולד",
+    
+    # died
+    ("died", "en"): "died",
+    ("died", "es"): "murió",
+    ("died", "fr"): "mort",
+    ("died", "ja"): "死亡した",
+    ("died", "ko"): "죽었다",
+    ("died", "zh"): "去世",
+    ("died", "he"): "מת",
+}
+
+# Query result cache: {(index, term, lang): count}
+_es_query_cache = {}
+
+
+def simplify_relation(relation: str) -> str:
+    """Map complex relation names to simpler versions."""
+    return RELATION_MAPPING.get(relation, relation)
+
+
+def get_translated_term(term: str, lang: str) -> str:
+    """Get cached translation of a term for a given language."""
+    return TRANSLATION.get((term, lang), term)
 
 # ---------------------------------------------------------------------------
 # Per-process ES worker (initializer + query functions)
@@ -59,9 +186,14 @@ def _init_worker(
 
 def _query_unigram(args):
     index, term = args
+    cache_key = (index, term, "unigram")
+    if cache_key in _es_query_cache:
+        return term, _es_query_cache[cache_key]
+    
     for attempt in range(_worker_retries + 1):
         try:
             count = _worker_helper.count_phrases(index, [term])
+            _es_query_cache[cache_key] = count
             return term, count
         except ConnectionTimeout:
             if attempt == _worker_retries:
@@ -71,9 +203,14 @@ def _query_unigram(args):
 
 def _query_pair(args):
     index, pair = args
+    cache_key = (index, pair, "pair")
+    if cache_key in _es_query_cache:
+        return pair, _es_query_cache[cache_key]
+    
     for attempt in range(_worker_retries + 1):
         try:
             count = _worker_helper.count_phrases(index, list(pair), all_phrases=True)
+            _es_query_cache[cache_key] = count
             return pair, count
         except ConnectionTimeout:
             if attempt == _worker_retries:
@@ -134,14 +271,28 @@ def query_lang(
         logger.warning(f"Index {index} has 0 documents.")
         return lang, []
 
-    # Collect unique terms and pairs
+    # Collect unique terms and pairs, translating relations to target language
     unique_terms: set[str] = set()
     unique_pairs_set: set[tuple[str, str]] = set()
+    relation_translations: dict[str, str] = {}  # Map original relation to translated
+    
     for t in triples:
-        for role in ("subject", "relation", "object"):
-            unique_terms.add(t[role])
+        # Translate relation to target language
+        original_relation = t["relation"]
+        if original_relation not in relation_translations:
+            relation_translations[original_relation] = get_translated_term(original_relation, lang)
+        translated_relation = relation_translations[original_relation]
+        
+        # Add terms (subject/object as-is, relation translated)
+        unique_terms.add(t["subject"])
+        unique_terms.add(translated_relation)
+        unique_terms.add(t["object"])
+        
+        # Add pairs with translated relation
         for r1, r2 in PAIRS:
-            unique_pairs_set.add((t[r1], t[r2]))
+            term1 = t[r1]
+            term2 = translated_relation if r2 == "relation" else t[r2]
+            unique_pairs_set.add((term1, term2))
 
     all_terms = list(unique_terms)
     all_pairs = list(unique_pairs_set)
@@ -171,23 +322,29 @@ def query_lang(
 
     rows = []
     for t in triples:
+        # Get translated relation for this triple
+        translated_relation = relation_translations[t["relation"]]
+        
         row = {
             "language": lang,
             "subject": t["subject"],
-            "relation": t["relation"],
+            "relation": translated_relation,
             "object": t["object"],
             "fact_index": t["fact_index"],
             "total_docs": total_docs,
             "count_subject": unigram_counts.get(t["subject"], 0),
-            "count_relation": unigram_counts.get(t["relation"], 0),
+            "count_relation": unigram_counts.get(translated_relation, 0),
             "count_object": unigram_counts.get(t["object"], 0),
         }
         pair_details = []
         pmi_vals = []
         for r1, r2 in PAIRS:
-            cooc = unique_pairs.get((t[r1], t[r2]), 0)
-            n1 = unigram_counts.get(t[r1], 0)
-            n2 = unigram_counts.get(t[r2], 0)
+            # Use translated relation in pairs (can be in position r1 or r2)
+            term1 = translated_relation if r1 == "relation" else t[r1]
+            term2 = translated_relation if r2 == "relation" else t[r2]
+            cooc = unique_pairs.get((term1, term2), 0)
+            n1 = unigram_counts.get(term1, 0)
+            n2 = unigram_counts.get(term2, 0)
             ppmi = calculate_ppmi(cooc, n1, n2, total_docs) if cooc >= min_cooc else 0.0
             col = f"{r1}_{r2}"
             row[f"cooc_{col}"] = cooc
@@ -195,8 +352,8 @@ def query_lang(
             if ppmi > 0.0:
                 pmi_vals.append(ppmi)
             pair_details.append({
-                "w1": t[r1],
-                "w2": t[r2],
+                "w1": term1,
+                "w2": term2,
                 "role1": r1,
                 "role2": r2,
                 "cooc_count": cooc,
@@ -206,7 +363,8 @@ def query_lang(
             })
 
         roles = ("subject", "relation", "object")
-        unseen = sum(1 for r in roles if unigram_counts.get(t[r], 0) == 0)
+        unseen = sum(1 for r in roles if unigram_counts.get(
+            t[r] if r != "relation" else translated_relation, 0) == 0)
         num_pairs = len(pmi_vals)
         row["cooc_total_pairs"] = 3
         row["cooc_num_pairs"] = num_pairs
@@ -252,18 +410,22 @@ def load_combined_klar(data_file: str) -> pd.DataFrame:
 
 
 def build_triples(df: pd.DataFrame) -> dict[str, list[dict]]:
-    """Return unique (subject, relation, object, fact_index) per language."""
+    """Return unique (subject, relation, object, fact_index) per language.
+    
+    Relations are simplified using RELATION_MAPPING (e.g., applies_to_jurisdiction -> jurisdiction).
+    """
     lang_triples: dict[str, list[dict]] = {}
     for lang, group in df.groupby("language"):
         seen = set()
         triples = []
         for _, row in group.iterrows():
-            key = (row["subject"], row["relation"], row["object"], row["index"])
+            simplified_relation = simplify_relation(row["relation"])
+            key = (row["subject"], simplified_relation, row["object"], row["index"])
             if key not in seen:
                 seen.add(key)
                 triples.append({
                     "subject": row["subject"],
-                    "relation": row["relation"],
+                    "relation": simplified_relation,
                     "object": row["object"],
                     "fact_index": row["index"],
                 })
@@ -286,7 +448,7 @@ def main():
                         help="Minimum co-occurrence count to compute PPMI")
     parser.add_argument("--start_idx", type=int, default=0)
     parser.add_argument("--end_idx", type=int, default=None)
-    parser.add_argument("--per_triple_out_dir", default="cooc_features/klar_cooc",
+    parser.add_argument("--per_triple_out_dir", default="cooc_features/klar_cooc/after_relation_change",
                         help="Directory for per-triple co-occurrence JSON files")
     parser.add_argument("--workers", type=int, default=8,
                         help="Number of parallel ES query workers per language")
@@ -336,7 +498,7 @@ def main():
         / "data"
         / "KLAR"
         / "processed"
-        / f"klar_cooc_wimbd_{start}_to_{actual_end}.csv"
+        / f"klar_cooc_wimbd_{start}_to_{actual_end}_new.csv"
     )
     os.makedirs(out_csv.parent, exist_ok=True)
 

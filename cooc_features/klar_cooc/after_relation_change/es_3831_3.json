@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Montevideo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 749094,
+    "unigram_w1": 3308980,
+    "unigram_w2": 42058182,
+    "ppmi": 2.1631583365810734
+  },
+  {
+    "w1": "capital",
+    "w2": "Uruguay",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2330198,
+    "unigram_w1": 42058182,
+    "unigram_w2": 11042468,
+    "ppmi": 2.0617880380621556
+  },
+  {
+    "w1": "Montevideo",
+    "w2": "Uruguay",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1895448,
+    "unigram_w1": 3308980,
+    "unigram_w2": 11042468,
+    "ppmi": 5.431802381024099
+  }
+]

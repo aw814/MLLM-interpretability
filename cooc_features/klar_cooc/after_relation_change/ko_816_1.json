@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "하리아나주",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 53,
+    "unigram_w2": 250699,
+    "ppmi": 1.2317980369563173
+  },
+  {
+    "w1": "언어",
+    "w2": "힌디어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 4546,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "하리아나주",
+    "w2": "힌디어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 53,
+    "unigram_w2": 4546,
+    "ppmi": 8.338940878955922
+  }
+]

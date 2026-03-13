@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kurt Lewin",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1367,
+    "unigram_w1": 1935,
+    "unigram_w2": 74824954,
+    "ppmi": 1.78446643950106
+  },
+  {
+    "w1": "work",
+    "w2": "psychology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 908012,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1718400,
+    "ppmi": 1.3655041334479339
+  },
+  {
+    "w1": "Kurt Lewin",
+    "w2": "psychology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 788,
+    "unigram_w1": 1935,
+    "unigram_w2": 1718400,
+    "ppmi": 6.434102414603435
+  }
+]

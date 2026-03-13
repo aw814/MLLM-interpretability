@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "丹麦",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7016,
+    "unigram_w1": 142745,
+    "unigram_w2": 596594,
+    "ppmi": 2.264549970215902
+  },
+  {
+    "w1": "首都",
+    "w2": "哥本哈根",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 24094,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "丹麦",
+    "w2": "哥本哈根",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9897,
+    "unigram_w1": 142745,
+    "unigram_w2": 24094,
+    "ppmi": 7.390896139827392
+  }
+]

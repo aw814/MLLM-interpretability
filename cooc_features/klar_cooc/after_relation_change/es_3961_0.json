@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Topeka",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10064,
+    "unigram_w1": 40102,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3118558743324917
+  },
+  {
+    "w1": "capital",
+    "w2": "Kansas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 149184,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1133668,
+    "ppmi": 1.3804927544452672
+  },
+  {
+    "w1": "Topeka",
+    "w2": "Kansas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14972,
+    "unigram_w1": 40102,
+    "unigram_w2": 1133668,
+    "ppmi": 8.098235382848596
+  }
+]

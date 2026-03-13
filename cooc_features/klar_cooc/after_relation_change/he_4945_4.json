@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ניקולאי אלכסייביץ' נקראסוב",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 236631,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ניקולאי אלכסייביץ' נקראסוב",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 6,
+    "unigram_w2": 106961,
+    "ppmi": 5.849483314881474
+  }
+]

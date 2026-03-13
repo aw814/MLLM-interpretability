@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mike Shinoda",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 10416,
+    "unigram_w2": 296558,
+    "ppmi": 1.1077408923787346
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25102,
+    "unigram_w1": 296558,
+    "unigram_w2": 4426392,
+    "ppmi": 3.992069529692425
+  },
+  {
+    "w1": "Mike Shinoda",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 792,
+    "unigram_w1": 10416,
+    "unigram_w2": 4426392,
+    "ppmi": 3.837352486821888
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オーストラリア首都特別地域",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2244,
+    "unigram_w1": 2244,
+    "unigram_w2": 2444276,
+    "ppmi": 6.159128474215279
+  },
+  {
+    "w1": "首都",
+    "w2": "キャンベラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 26378,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オーストラリア首都特別地域",
+    "w2": "キャンベラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1764,
+    "unigram_w1": 2244,
+    "unigram_w2": 26378,
+    "ppmi": 12.34583456540247
+  }
+]

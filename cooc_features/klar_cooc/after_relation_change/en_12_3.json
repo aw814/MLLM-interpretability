@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Marco Delvecchio",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 81,
+    "unigram_w2": 9106140,
+    "ppmi": 3.154469703302182
+  },
+  {
+    "w1": "born",
+    "w2": "Milan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 76556,
+    "unigram_w1": 9106140,
+    "unigram_w2": 610029,
+    "ppmi": 2.3301042336089686
+  },
+  {
+    "w1": "Marco Delvecchio",
+    "w2": "Milan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 81,
+    "unigram_w2": 610029,
+    "ppmi": 7.791325204039537
+  }
+]

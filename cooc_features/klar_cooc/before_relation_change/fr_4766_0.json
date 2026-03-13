@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Itzhak Perlman",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 494,
+    "unigram_w1": 4032,
+    "unigram_w2": 2654934,
+    "ppmi": 4.579758041321038
+  },
+  {
+    "w1": "instrument",
+    "w2": "violon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 153605,
+    "unigram_w1": 2654934,
+    "unigram_w2": 956387,
+    "ppmi": 4.970301391376896
+  },
+  {
+    "w1": "Itzhak Perlman",
+    "w2": "violon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1992,
+    "unigram_w1": 4032,
+    "unigram_w2": 956387,
+    "ppmi": 8.064402313786632
+  }
+]

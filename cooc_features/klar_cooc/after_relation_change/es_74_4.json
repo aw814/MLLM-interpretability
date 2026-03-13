@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Johann Christian Bach",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 516,
+    "unigram_w1": 2604,
+    "unigram_w2": 8520304,
+    "ppmi": 4.2744494376437325
+  },
+  {
+    "w1": "murió",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 13425458,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Johann Christian Bach",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1074,
+    "unigram_w1": 2604,
+    "unigram_w2": 13425458,
+    "ppmi": 4.676005965723389
+  }
+]

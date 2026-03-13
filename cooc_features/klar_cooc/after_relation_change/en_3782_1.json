@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Havana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19976,
+    "unigram_w1": 183150,
+    "unigram_w2": 7450623,
+    "ppmi": 2.417187210366546
+  },
+  {
+    "w1": "capital",
+    "w2": "Cuba",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50032,
+    "unigram_w1": 7450623,
+    "unigram_w2": 492994,
+    "ppmi": 2.313226221068161
+  },
+  {
+    "w1": "Havana",
+    "w2": "Cuba",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 94763,
+    "unigram_w1": 183150,
+    "unigram_w2": 492994,
+    "ppmi": 8.58096242725996
+  }
+]

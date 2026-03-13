@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טגוסיגלפה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 525,
+    "unigram_w2": 90246,
+    "ppmi": 2.9653502630579633
+  },
+  {
+    "w1": "בירה",
+    "w2": "הונדורס",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 9900,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "טגוסיגלפה",
+    "w2": "הונדורס",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 181,
+    "unigram_w1": 525,
+    "unigram_w2": 9900,
+    "ppmi": 8.746668112648054
+  }
+]

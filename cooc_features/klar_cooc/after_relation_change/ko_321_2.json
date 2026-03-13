@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "폴란드",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4327,
+    "unigram_w1": 52432,
+    "unigram_w2": 250699,
+    "ppmi": 2.3607099393986477
+  },
+  {
+    "w1": "언어",
+    "w2": "폴란드어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 19547,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "폴란드",
+    "w2": "폴란드어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2768,
+    "unigram_w1": 52432,
+    "unigram_w2": 19547,
+    "ppmi": 5.397123892877597
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "하노이",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 41772,
+    "unigram_w2": 2712,
+    "ppmi": 0.13992514486842486
+  },
+  {
+    "w1": "continent",
+    "w2": "아시아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 2712,
+    "unigram_w2": 363737,
+    "ppmi": 1.4933710139784397
+  },
+  {
+    "w1": "하노이",
+    "w2": "아시아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4246,
+    "unigram_w1": 41772,
+    "unigram_w2": 363737,
+    "ppmi": 2.124419102608925
+  }
+]

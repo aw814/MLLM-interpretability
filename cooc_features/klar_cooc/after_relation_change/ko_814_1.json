@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "발렌시아 지방",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 73,
+    "unigram_w2": 250699,
+    "ppmi": 2.9398189340818117
+  },
+  {
+    "w1": "언어",
+    "w2": "카탈루냐어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 4419,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "발렌시아 지방",
+    "w2": "카탈루냐어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 73,
+    "unigram_w2": 4419,
+    "ppmi": 9.683449274062925
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Iran",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 3935,
+    "unigram_w2": 1074632,
+    "ppmi": 2.323224715503138
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Iran",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14633,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1059613,
+    "ppmi": 2.229223577627461
+  },
+  {
+    "w1": "President of Iran",
+    "w2": "Iran",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3935,
+    "unigram_w1": 3935,
+    "unigram_w2": 1059613,
+    "ppmi": 8.427696895794167
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ムハンマド・イクバール",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 116,
+    "unigram_w2": 62696,
+    "ppmi": 5.586037465698013
+  },
+  {
+    "w1": "occupation",
+    "w2": "詩人",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 548,
+    "unigram_w1": 62696,
+    "unigram_w2": 529320,
+    "ppmi": 1.5282699030853757
+  },
+  {
+    "w1": "ムハンマド・イクバール",
+    "w2": "詩人",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 116,
+    "unigram_w2": 529320,
+    "ppmi": 7.793744825539203
+  }
+]

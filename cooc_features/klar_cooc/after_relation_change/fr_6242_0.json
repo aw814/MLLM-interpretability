@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alpes-Maritimes",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34097,
+    "unigram_w1": 1359577,
+    "unigram_w2": 9137640,
+    "ppmi": 0.5081558845844635
+  },
+  {
+    "w1": "capitale",
+    "w2": "Nice",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 7545408,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alpes-Maritimes",
+    "w2": "Nice",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 530469,
+    "unigram_w1": 1359577,
+    "unigram_w2": 7545408,
+    "ppmi": 4.743930305232449
+  }
+]

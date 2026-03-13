@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Marcus Licinius Crassus",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 540,
+    "unigram_w2": 3469075,
+    "ppmi": 2.7273305573689024
+  },
+  {
+    "w1": "spoke",
+    "w2": "Latin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72644,
+    "unigram_w1": 3469075,
+    "unigram_w2": 1941001,
+    "ppmi": 1.9768699060702832
+  },
+  {
+    "w1": "Marcus Licinius Crassus",
+    "w2": "Latin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123,
+    "unigram_w1": 540,
+    "unigram_w2": 1941001,
+    "ppmi": 5.420132391577712
+  }
+]

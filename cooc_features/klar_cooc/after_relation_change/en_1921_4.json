@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Dalton",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1336,
+    "unigram_w1": 3179,
+    "unigram_w2": 74824954,
+    "ppmi": 1.035133754262849
+  },
+  {
+    "w1": "work",
+    "w2": "chemistry",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 679124,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1610189,
+    "ppmi": 1.0403036473379514
+  },
+  {
+    "w1": "John Dalton",
+    "w2": "chemistry",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 605,
+    "unigram_w1": 3179,
+    "unigram_w2": 1610189,
+    "ppmi": 5.430438337386166
+  }
+]

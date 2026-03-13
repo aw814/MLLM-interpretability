@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Heinrich von Kleist",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 844,
+    "unigram_w2": 5281801,
+    "ppmi": 3.3891052091397236
+  },
+  {
+    "w1": "died",
+    "w2": "Berlin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 83230,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1337381,
+    "ppmi": 2.1040413188193505
+  },
+  {
+    "w1": "Heinrich von Kleist",
+    "w2": "Berlin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 235,
+    "unigram_w1": 844,
+    "unigram_w2": 1337381,
+    "ppmi": 6.247241576078603
+  }
+]

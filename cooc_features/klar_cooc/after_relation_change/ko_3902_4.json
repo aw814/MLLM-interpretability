@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "민스크",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 446,
+    "unigram_w1": 2603,
+    "unigram_w2": 1351571,
+    "ppmi": 0.9840496408993018
+  },
+  {
+    "w1": "수도",
+    "w2": "벨라루스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 10852,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "민스크",
+    "w2": "벨라루스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1331,
+    "unigram_w1": 2603,
+    "unigram_w2": 10852,
+    "ppmi": 9.52197713467552
+  }
+]

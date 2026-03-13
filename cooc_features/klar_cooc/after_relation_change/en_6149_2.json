@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Caribbean Community Secretariat",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 103,
+    "unigram_w2": 14590058,
+    "ppmi": 0.5427826048384865
+  },
+  {
+    "w1": "location",
+    "w2": "Georgetown",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27380,
+    "unigram_w1": 14590058,
+    "unigram_w2": 323384,
+    "ppmi": 1.0822666823411597
+  },
+  {
+    "w1": "Caribbean Community Secretariat",
+    "w2": "Georgetown",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 103,
+    "unigram_w2": 323384,
+    "ppmi": 7.3603042072596185
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vietnam",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 146820,
+    "unigram_w1": 2907838,
+    "unigram_w2": 12196104,
+    "ppmi": 1.7844658842128005
+  },
+  {
+    "w1": "idioma",
+    "w2": "vietnamita",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 1173280,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vietnam",
+    "w2": "vietnamita",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 300768,
+    "unigram_w1": 2907838,
+    "unigram_w2": 1173280,
+    "ppmi": 6.196869560726174
+  }
+]

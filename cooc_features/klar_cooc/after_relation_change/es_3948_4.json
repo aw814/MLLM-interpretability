@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alba Iulia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1900,
+    "unigram_w1": 7090,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4065400278448354
+  },
+  {
+    "w1": "capital",
+    "w2": "Alba",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 926310,
+    "unigram_w1": 42058182,
+    "unigram_w2": 5676660,
+    "ppmi": 1.6908508953042483
+  },
+  {
+    "w1": "Alba Iulia",
+    "w2": "Alba",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7090,
+    "unigram_w1": 7090,
+    "unigram_w2": 5676660,
+    "ppmi": 7.1955984864783415
+  }
+]

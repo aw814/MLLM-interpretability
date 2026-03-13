@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Italy",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1804,
+    "unigram_w1": 5070,
+    "unigram_w2": 7450623,
+    "ppmi": 4.123086871286296
+  },
+  {
+    "w1": "capital",
+    "w2": "Turin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10685,
+    "unigram_w1": 7450623,
+    "unigram_w2": 118542,
+    "ppmi": 2.1421337895521586
+  },
+  {
+    "w1": "Kingdom of Italy",
+    "w2": "Turin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 520,
+    "unigram_w1": 5070,
+    "unigram_w2": 118542,
+    "ppmi": 8.302361917160088
+  }
+]

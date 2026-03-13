@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "捷克语维基百科",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1,
+    "unigram_w2": 919361,
+    "ppmi": 5.987315625895984
+  },
+  {
+    "w1": "语言",
+    "w2": "捷克语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 3649,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "捷克语维基百科",
+    "w2": "捷克语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 1,
+    "unigram_w2": 3649,
+    "ppmi": 13.964302131968962
+  }
+]

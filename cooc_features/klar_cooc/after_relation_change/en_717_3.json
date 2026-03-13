@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indonesia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 87610,
+    "unigram_w1": 1119685,
+    "unigram_w2": 9241408,
+    "ppmi": 1.627268115111848
+  },
+  {
+    "w1": "language",
+    "w2": "Indonesian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 43734,
+    "unigram_w1": 9241408,
+    "unigram_w2": 354064,
+    "ppmi": 2.2859387188910776
+  },
+  {
+    "w1": "Indonesia",
+    "w2": "Indonesian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 168685,
+    "unigram_w1": 1119685,
+    "unigram_w2": 354064,
+    "ppmi": 7.278462954781765
+  }
+]

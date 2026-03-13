@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Puss in Boots",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 601,
+    "unigram_w1": 8458,
+    "unigram_w2": 9241408,
+    "ppmi": 1.488242006159475
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "Puss in Boots",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 287,
+    "unigram_w1": 8458,
+    "unigram_w2": 3499556,
+    "ppmi": 1.822868531984414
+  }
+]

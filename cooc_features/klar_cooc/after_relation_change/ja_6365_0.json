@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ランカシャー",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 556,
+    "unigram_w1": 7108,
+    "unigram_w2": 2444276,
+    "ppmi": 2.4828415809101085
+  },
+  {
+    "w1": "首都",
+    "w2": "プレストン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 28574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ランカシャー",
+    "w2": "プレストン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 620,
+    "unigram_w1": 7108,
+    "unigram_w2": 28574,
+    "ppmi": 9.0585852926605
+  }
+]

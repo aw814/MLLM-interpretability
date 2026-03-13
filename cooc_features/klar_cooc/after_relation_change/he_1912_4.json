@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לארי סנגר",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 42,
+    "unigram_w2": 1639120,
+    "ppmi": 0.978832796477488
+  },
+  {
+    "w1": "עבודה",
+    "w2": "פילוסופיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 50828,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לארי סנגר",
+    "w2": "פילוסופיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 42,
+    "unigram_w2": 50828,
+    "ppmi": 4.53055538146933
+  }
+]

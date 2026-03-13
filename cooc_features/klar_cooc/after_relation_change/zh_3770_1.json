@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "柏林",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11463,
+    "unigram_w1": 207635,
+    "unigram_w2": 596594,
+    "ppmi": 2.4322045411999476
+  },
+  {
+    "w1": "首都",
+    "w2": "德国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 1175469,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "柏林",
+    "w2": "德国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 52502,
+    "unigram_w1": 207635,
+    "unigram_w2": 1175469,
+    "ppmi": 3.6491771406708735
+  }
+]

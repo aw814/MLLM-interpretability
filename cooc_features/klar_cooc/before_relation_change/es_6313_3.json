@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "dinastía Ming",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12512,
+    "unigram_w1": 46460,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4136495003645857
+  },
+  {
+    "w1": "capital",
+    "w2": "Nankín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6082,
+    "unigram_w1": 42058182,
+    "unigram_w2": 22218,
+    "ppmi": 2.4372150028914152
+  },
+  {
+    "w1": "dinastía Ming",
+    "w2": "Nankín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 984,
+    "unigram_w1": 46460,
+    "unigram_w2": 22218,
+    "ppmi": 9.631581027436122
+  }
+]

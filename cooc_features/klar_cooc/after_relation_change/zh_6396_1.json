@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "黎巴嫩",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3885,
+    "unigram_w1": 44464,
+    "unigram_w2": 596594,
+    "ppmi": 3.0945463887800106
+  },
+  {
+    "w1": "首都",
+    "w2": "贝鲁特",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 11868,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "黎巴嫩",
+    "w2": "贝鲁特",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5887,
+    "unigram_w1": 44464,
+    "unigram_w2": 11868,
+    "ppmi": 9.345765149185363
+  }
+]

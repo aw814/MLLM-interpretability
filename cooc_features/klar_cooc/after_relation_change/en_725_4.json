@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bern",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11596,
+    "unigram_w1": 108674,
+    "unigram_w2": 9241408,
+    "ppmi": 2.074813993863443
+  },
+  {
+    "w1": "language",
+    "w2": "German",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 573643,
+    "unigram_w1": 9241408,
+    "unigram_w2": 4097654,
+    "ppmi": 2.466548576999516
+  },
+  {
+    "w1": "Bern",
+    "w2": "German",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15073,
+    "unigram_w1": 108674,
+    "unigram_w2": 4097654,
+    "ppmi": 3.6264678461882967
+  }
+]

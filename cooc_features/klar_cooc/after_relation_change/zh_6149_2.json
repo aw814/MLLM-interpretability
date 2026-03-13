@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "加勒比共同体",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 127,
+    "unigram_w2": 6418768,
+    "ppmi": 0.3649628957471701
+  },
+  {
+    "w1": "位置",
+    "w2": "乔治敦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 2943,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "加勒比共同体",
+    "w2": "乔治敦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 127,
+    "unigram_w2": 2943,
+    "ppmi": 9.285831053840884
+  }
+]

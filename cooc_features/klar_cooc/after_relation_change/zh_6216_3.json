@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "印度尼西亚",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4219,
+    "unigram_w1": 67017,
+    "unigram_w2": 596594,
+    "ppmi": 2.6216435112665253
+  },
+  {
+    "w1": "首都",
+    "w2": "雅加达",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 39507,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "印度尼西亚",
+    "w2": "雅加达",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5250,
+    "unigram_w1": 67017,
+    "unigram_w2": 39507,
+    "ppmi": 6.853629111692579
+  }
+]

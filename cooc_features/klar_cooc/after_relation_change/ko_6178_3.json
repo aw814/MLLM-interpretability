@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "소련",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10912,
+    "unigram_w1": 40423,
+    "unigram_w2": 1351571,
+    "ppmi": 1.639848491302631
+  },
+  {
+    "w1": "수도",
+    "w2": "모스크바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 31781,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "소련",
+    "w2": "모스크바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3916,
+    "unigram_w1": 40423,
+    "unigram_w2": 31781,
+    "ppmi": 5.571714582107258
+  }
+]

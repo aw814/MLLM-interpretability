@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハボローネ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 364,
+    "unigram_w1": 954,
+    "unigram_w2": 2444276,
+    "ppmi": 4.769077658408464
+  },
+  {
+    "w1": "首都",
+    "w2": "ボツワナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 34702,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハボローネ",
+    "w2": "ボツワナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 682,
+    "unigram_w1": 954,
+    "unigram_w2": 34702,
+    "ppmi": 11.813155523115245
+  }
+]

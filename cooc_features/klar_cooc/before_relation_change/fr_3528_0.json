@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Craiova",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 410,
+    "unigram_w1": 17798,
+    "unigram_w2": 3399010,
+    "ppmi": 1.8122847123101482
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Craiova",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3203,
+    "unigram_w1": 17798,
+    "unigram_w2": 18211758,
+    "ppmi": 2.356329013140116
+  }
+]

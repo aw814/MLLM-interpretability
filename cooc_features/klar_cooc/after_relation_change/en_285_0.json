@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union of European Football Associations",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 176,
+    "unigram_w1": 2206,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6553362135230059
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Union of European Football Associations",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 362,
+    "unigram_w1": 2206,
+    "unigram_w2": 6382804,
+    "ppmi": 3.2296728092011415
+  }
+]

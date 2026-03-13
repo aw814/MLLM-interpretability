@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Zagreb",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12420,
+    "unigram_w1": 83125,
+    "unigram_w2": 7450623,
+    "ppmi": 2.8712560179788227
+  },
+  {
+    "w1": "capital",
+    "w2": "Croatia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35729,
+    "unigram_w1": 7450623,
+    "unigram_w2": 428340,
+    "ppmi": 2.0302843128892873
+  },
+  {
+    "w1": "Zagreb",
+    "w2": "Croatia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43843,
+    "unigram_w1": 83125,
+    "unigram_w2": 428340,
+    "ppmi": 8.811470115682928
+  }
+]

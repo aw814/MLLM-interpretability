@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alexander",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 125838,
+    "unigram_w1": 3844028,
+    "unigram_w2": 12196104,
+    "ppmi": 1.1593130756299013
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alexander",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 409814,
+    "unigram_w1": 3844028,
+    "unigram_w2": 30884572,
+    "ppmi": 1.5222487192287175
+  }
+]

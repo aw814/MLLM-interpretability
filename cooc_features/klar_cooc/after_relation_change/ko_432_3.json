@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "남아프리카 공화국",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 550,
+    "unigram_w1": 7536,
+    "unigram_w2": 250699,
+    "ppmi": 2.1834230503187553
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "남아프리카 공화국",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 930,
+    "unigram_w1": 7536,
+    "unigram_w2": 359114,
+    "ppmi": 2.4227364920685113
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סינגפור",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1129,
+    "unigram_w1": 25884,
+    "unigram_w2": 236631,
+    "ppmi": 1.1849858951543604
+  },
+  {
+    "w1": "שפה",
+    "w2": "מלאית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 1976,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סינגפור",
+    "w2": "מלאית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 130,
+    "unigram_w1": 25884,
+    "unigram_w2": 1976,
+    "ppmi": 4.970436267534835
+  }
+]

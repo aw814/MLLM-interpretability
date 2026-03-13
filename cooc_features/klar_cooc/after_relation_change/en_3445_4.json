@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Serbian Wikipedia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 70,
+    "unigram_w2": 9241408,
+    "ppmi": 4.4217661669757105
+  },
+  {
+    "w1": "language",
+    "w2": "Serbian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21966,
+    "unigram_w1": 9241408,
+    "unigram_w2": 141242,
+    "ppmi": 2.618296600013767
+  },
+  {
+    "w1": "Serbian Wikipedia",
+    "w2": "Serbian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 70,
+    "unigram_w1": 70,
+    "unigram_w2": 141242,
+    "ppmi": 11.334993284449943
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יוהאן שטראוס",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 391,
+    "unigram_w2": 2401,
+    "ppmi": 4.715764162434899
+  },
+  {
+    "w1": "instrument",
+    "w2": "כינור",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 2401,
+    "unigram_w2": 17033,
+    "ppmi": 4.153387072168822
+  },
+  {
+    "w1": "יוהאן שטראוס",
+    "w2": "כינור",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 391,
+    "unigram_w2": 17033,
+    "ppmi": 5.933533033088498
+  }
+]

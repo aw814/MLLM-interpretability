@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Victor-Emmanuel II",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 249,
+    "unigram_w1": 18372,
+    "unigram_w2": 1893780,
+    "ppmi": 1.8908588510820672
+  },
+  {
+    "w1": "parlait",
+    "w2": "italien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 5551452,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Victor-Emmanuel II",
+    "w2": "italien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4404,
+    "unigram_w1": 18372,
+    "unigram_w2": 5551452,
+    "ppmi": 4.483859253243629
+  }
+]

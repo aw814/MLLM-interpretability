@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西门子公司",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 488,
+    "unigram_w1": 2577,
+    "unigram_w2": 6418768,
+    "ppmi": 0.7829830967802902
+  },
+  {
+    "w1": "位置",
+    "w2": "柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 207635,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西门子公司",
+    "w2": "柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 2577,
+    "unigram_w2": 207635,
+    "ppmi": 2.9723456205719168
+  }
+]

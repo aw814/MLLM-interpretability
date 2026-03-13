@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Franz Liszt",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 182,
+    "unigram_w1": 41340,
+    "unigram_w2": 296558,
+    "ppmi": 3.6267984974302565
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25102,
+    "unigram_w1": 296558,
+    "unigram_w2": 4426392,
+    "ppmi": 3.992069529692425
+  },
+  {
+    "w1": "Franz Liszt",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22746,
+    "unigram_w1": 41340,
+    "unigram_w2": 4426392,
+    "ppmi": 6.692584073486905
+  }
+]

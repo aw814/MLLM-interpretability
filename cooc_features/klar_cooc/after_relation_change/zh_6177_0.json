@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "江户幕府",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 877,
+    "unigram_w2": 596594,
+    "ppmi": 1.5352043103818593
+  },
+  {
+    "w1": "首都",
+    "w2": "江户",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 14965,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "江户幕府",
+    "w2": "江户",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 877,
+    "unigram_w1": 877,
+    "unigram_w2": 14965,
+    "ppmi": 11.928282909167981
+  }
+]

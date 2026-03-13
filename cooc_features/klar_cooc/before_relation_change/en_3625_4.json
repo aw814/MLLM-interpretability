@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Athens",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8916,
+    "unigram_w1": 528190,
+    "unigram_w2": 965266,
+    "ppmi": 2.67371931539652
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Athens",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 82336,
+    "unigram_w1": 528190,
+    "unigram_w2": 7715842,
+    "ppmi": 2.881949022971386
+  }
+]

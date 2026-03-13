@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿塞拜疆苏维埃社会主义共和国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 18,
+    "unigram_w2": 919361,
+    "ppmi": 4.402353125174828
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿塞拜疆苏维埃社会主义共和国",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 18,
+    "unigram_w2": 46749,
+    "ppmi": 8.922369603736039
+  }
+]

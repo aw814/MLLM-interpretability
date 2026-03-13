@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ivan Bounine",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68,
+    "unigram_w1": 1882,
+    "unigram_w2": 1893780,
+    "ppmi": 3.3054899157567332
+  },
+  {
+    "w1": "parlait",
+    "w2": "russe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 5543562,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ivan Bounine",
+    "w2": "russe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1205,
+    "unigram_w1": 1882,
+    "unigram_w2": 5543562,
+    "ppmi": 5.9032999747843835
+  }
+]

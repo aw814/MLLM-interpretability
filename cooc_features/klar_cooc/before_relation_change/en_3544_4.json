@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Burgundy",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 233,
+    "unigram_w2": 965266,
+    "ppmi": 3.505404653799634
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Kingdom of Burgundy",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 113,
+    "unigram_w1": 233,
+    "unigram_w2": 7715842,
+    "ppmi": 4.519403561258036
+  }
+]

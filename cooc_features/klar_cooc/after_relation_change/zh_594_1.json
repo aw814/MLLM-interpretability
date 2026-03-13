@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "肯塔基州",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 192,
+    "unigram_w1": 4976,
+    "unigram_w2": 919361,
+    "ppmi": 1.2915073564865374
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "肯塔基州",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 284,
+    "unigram_w1": 4976,
+    "unigram_w2": 910574,
+    "ppmi": 1.8701471764199806
+  }
+]

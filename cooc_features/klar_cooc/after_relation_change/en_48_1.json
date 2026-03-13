@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Robert Hooke",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 608,
+    "unigram_w1": 3516,
+    "unigram_w2": 5281801,
+    "ppmi": 3.57841255614709
+  },
+  {
+    "w1": "died",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 433686,
+    "unigram_w1": 5281801,
+    "unigram_w2": 8112147,
+    "ppmi": 1.884843379050838
+  },
+  {
+    "w1": "Robert Hooke",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1344,
+    "unigram_w1": 3516,
+    "unigram_w2": 8112147,
+    "ppmi": 4.103748616633566
+  }
+]

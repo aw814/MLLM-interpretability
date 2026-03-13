@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "サッカー",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 943480,
+    "unigram_w1": 3455118,
+    "unigram_w2": 27600878,
+    "ppmi": 0.789222275720209
+  },
+  {
+    "w1": "場所",
+    "w2": "イングランド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 520172,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "サッカー",
+    "w2": "イングランド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 172578,
+    "unigram_w1": 3455118,
+    "unigram_w2": 520172,
+    "ppmi": 4.068060510497854
+  }
+]

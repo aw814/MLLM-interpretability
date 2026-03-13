@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Noruega",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 680846,
+    "unigram_w1": 3640982,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8873990464735366
+  },
+  {
+    "w1": "capital",
+    "w2": "Oslo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 155720,
+    "unigram_w1": 42058182,
+    "unigram_w2": 797190,
+    "ppmi": 1.950356873515379
+  },
+  {
+    "w1": "Noruega",
+    "w2": "Oslo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 268628,
+    "unigram_w1": 3640982,
+    "unigram_w2": 797190,
+    "ppmi": 6.266999289367669
+  }
+]

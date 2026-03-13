@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טויוטה קאמרי",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1303,
+    "unigram_w2": 5002,
+    "ppmi": 0.9202979372235635
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "טויוטה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 166,
+    "unigram_w1": 5002,
+    "unigram_w2": 31652,
+    "ppmi": 3.6929496952524588
+  },
+  {
+    "w1": "טויוטה קאמרי",
+    "w2": "טויוטה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1303,
+    "unigram_w1": 1303,
+    "unigram_w2": 31652,
+    "ppmi": 8.606199606086504
+  }
+]

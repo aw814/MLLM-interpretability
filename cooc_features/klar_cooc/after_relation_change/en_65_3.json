@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gordian II",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 99,
+    "unigram_w2": 5281801,
+    "ppmi": 4.650772779209611
+  },
+  {
+    "w1": "died",
+    "w2": "Carthage",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6353,
+    "unigram_w1": 5281801,
+    "unigram_w2": 48304,
+    "ppmi": 3.183571660134072
+  },
+  {
+    "w1": "Gordian II",
+    "w2": "Carthage",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45,
+    "unigram_w1": 99,
+    "unigram_w2": 48304,
+    "ppmi": 11.74544434867541
+  }
+]

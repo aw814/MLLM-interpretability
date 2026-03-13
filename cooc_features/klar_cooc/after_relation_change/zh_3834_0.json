@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "布达佩斯",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2335,
+    "unigram_w1": 29218,
+    "unigram_w2": 596594,
+    "ppmi": 2.965834652065085
+  },
+  {
+    "w1": "首都",
+    "w2": "匈牙利",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 92997,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "布达佩斯",
+    "w2": "匈牙利",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11051,
+    "unigram_w1": 29218,
+    "unigram_w2": 92997,
+    "ppmi": 7.890010507762207
+  }
+]

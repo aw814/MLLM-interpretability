@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Adén",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15188,
+    "unigram_w1": 45962,
+    "unigram_w2": 42058182,
+    "ppmi": 2.708816563741908
+  },
+  {
+    "w1": "capital",
+    "w2": "Yemen",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 147860,
+    "unigram_w1": 42058182,
+    "unigram_w2": 778952,
+    "ppmi": 1.9090236248568615
+  },
+  {
+    "w1": "Adén",
+    "w2": "Yemen",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23540,
+    "unigram_w1": 45962,
+    "unigram_w2": 778952,
+    "ppmi": 9.095707229197657
+  }
+]

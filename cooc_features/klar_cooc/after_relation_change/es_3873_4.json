@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Leicester",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 89940,
+    "unigram_w1": 487740,
+    "unigram_w2": 42058182,
+    "ppmi": 1.867248731917815
+  },
+  {
+    "w1": "capital",
+    "w2": "Leicestershire",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2958,
+    "unigram_w1": 42058182,
+    "unigram_w2": 21914,
+    "ppmi": 1.4171673483383593
+  },
+  {
+    "w1": "Leicester",
+    "w2": "Leicestershire",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4136,
+    "unigram_w1": 487740,
+    "unigram_w2": 21914,
+    "ppmi": 8.330911867094693
+  }
+]

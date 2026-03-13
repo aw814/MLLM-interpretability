@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vatican City",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4478,
+    "unigram_w1": 46779,
+    "unigram_w2": 9241408,
+    "ppmi": 1.91818708241613
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "Vatican City",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11679,
+    "unigram_w1": 46779,
+    "unigram_w2": 3499556,
+    "ppmi": 4.702118179492409
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abbey Road",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3476,
+    "unigram_w1": 113096,
+    "unigram_w2": 12196104,
+    "ppmi": 1.0683163562983637
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Abbey Road",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15252,
+    "unigram_w1": 113096,
+    "unigram_w2": 30884572,
+    "ppmi": 1.8613488251482788
+  }
+]

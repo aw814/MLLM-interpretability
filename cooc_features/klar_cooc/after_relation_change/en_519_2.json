@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lappeenranta",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 335,
+    "unigram_w1": 4280,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6277438745337167
+  },
+  {
+    "w1": "language",
+    "w2": "Finnish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53839,
+    "unigram_w1": 9241408,
+    "unigram_w2": 386490,
+    "ppmi": 2.4594141028195216
+  },
+  {
+    "w1": "Lappeenranta",
+    "w2": "Finnish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1547,
+    "unigram_w1": 4280,
+    "unigram_w2": 386490,
+    "ppmi": 8.414593753163397
+  }
+]

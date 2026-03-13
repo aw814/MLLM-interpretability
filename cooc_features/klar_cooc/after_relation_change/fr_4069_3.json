@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jules Massenet",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 170,
+    "unigram_w1": 22779,
+    "unigram_w2": 1893780,
+    "ppmi": 1.0300521298196357
+  },
+  {
+    "w1": "parlait",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jules Massenet",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6956,
+    "unigram_w1": 22779,
+    "unigram_w2": 46536486,
+    "ppmi": 1.765681783055338
+  }
+]

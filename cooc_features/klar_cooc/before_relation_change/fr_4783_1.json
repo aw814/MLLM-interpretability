@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bruce Springsteen",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1606,
+    "unigram_w1": 60479,
+    "unigram_w2": 2654934,
+    "ppmi": 2.3737802459270356
+  },
+  {
+    "w1": "instrument",
+    "w2": "harmonica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17485,
+    "unigram_w1": 2654934,
+    "unigram_w2": 100490,
+    "ppmi": 5.085808491868054
+  },
+  {
+    "w1": "Bruce Springsteen",
+    "w2": "harmonica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1184,
+    "unigram_w1": 60479,
+    "unigram_w2": 100490,
+    "ppmi": 6.657529583387666
+  }
+]

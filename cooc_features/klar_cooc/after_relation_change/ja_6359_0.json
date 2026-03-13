@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スイス",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 85946,
+    "unigram_w1": 2018254,
+    "unigram_w2": 2444276,
+    "ppmi": 1.605595030455415
+  },
+  {
+    "w1": "首都",
+    "w2": "ベルン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 39744,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "スイス",
+    "w2": "ベルン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24218,
+    "unigram_w1": 2018254,
+    "unigram_w2": 39744,
+    "ppmi": 5.720770571089157
+  }
+]

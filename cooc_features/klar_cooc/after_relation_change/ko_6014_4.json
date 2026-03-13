@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "마카오 파타카",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 108,
+    "unigram_w2": 2644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "관할권",
+    "w2": "마카오",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 554153,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "마카오 파타카",
+    "w2": "마카오",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 108,
+    "unigram_w2": 554153,
+    "ppmi": 4.815390377917613
+  }
+]

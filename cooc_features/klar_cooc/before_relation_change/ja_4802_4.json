@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブライアン・メイ",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 11892,
+    "unigram_w2": 139628,
+    "ppmi": 1.3361342425824938
+  },
+  {
+    "w1": "instrument",
+    "w2": "ギター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8514,
+    "unigram_w1": 139628,
+    "unigram_w2": 1964750,
+    "ppmi": 2.4385825434071586
+  },
+  {
+    "w1": "ブライアン・メイ",
+    "w2": "ギター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5218,
+    "unigram_w1": 11892,
+    "unigram_w2": 1964750,
+    "ppmi": 5.2857674022715395
+  }
+]

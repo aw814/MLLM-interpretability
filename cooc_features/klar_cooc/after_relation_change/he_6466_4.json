@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גרמניה המערבית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 102,
+    "unigram_w1": 2665,
+    "unigram_w2": 90246,
+    "ppmi": 2.387138804327887
+  },
+  {
+    "w1": "בירה",
+    "w2": "בון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 14382,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גרמניה המערבית",
+    "w2": "בון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 168,
+    "unigram_w1": 2665,
+    "unigram_w2": 14382,
+    "ppmi": 5.756629558734601
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האיים הקנריים",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 2159,
+    "unigram_w2": 236631,
+    "ppmi": 1.6277815582404644
+  },
+  {
+    "w1": "שפה",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "האיים הקנריים",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 232,
+    "unigram_w1": 2159,
+    "unigram_w2": 47368,
+    "ppmi": 4.806416976655111
+  }
+]

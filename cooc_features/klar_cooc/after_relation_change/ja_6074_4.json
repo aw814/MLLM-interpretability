@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "レゲエ",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37978,
+    "unigram_w1": 163870,
+    "unigram_w2": 27600878,
+    "ppmi": 0.5525774932677295
+  },
+  {
+    "w1": "場所",
+    "w2": "ジャマイカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 143584,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "レゲエ",
+    "w2": "ジャマイカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23570,
+    "unigram_w1": 163870,
+    "unigram_w2": 143584,
+    "ppmi": 7.451040675909468
+  }
+]
