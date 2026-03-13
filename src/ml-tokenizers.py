@@ -216,7 +216,7 @@ def main():
     "v","vd","vn",
     "a","ad","an",
     "d",
-    "m","q","eng"
+    "m","q","eng",
     "PER","LOC","ORG","TIME"
 ]
     words = pseg.cut("AFN 不来梅哈芬 (AFN Bremerhaven) 位于哪个国家?", use_paddle=True)  # if you add vi mapping
