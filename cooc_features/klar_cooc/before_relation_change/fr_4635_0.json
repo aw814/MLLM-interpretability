@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bède le Vénérable",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1445,
+    "unigram_w1": 6353,
+    "unigram_w2": 4547729,
+    "ppmi": 4.695831917470534
+  },
+  {
+    "w1": "religion",
+    "w2": "christianisme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 433008,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1020411,
+    "ppmi": 5.595515672229268
+  },
+  {
+    "w1": "Bède le Vénérable",
+    "w2": "christianisme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1495,
+    "unigram_w1": 6353,
+    "unigram_w2": 1020411,
+    "ppmi": 6.900903839152924
+  }
+]

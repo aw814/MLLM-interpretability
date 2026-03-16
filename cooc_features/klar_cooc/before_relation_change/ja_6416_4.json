@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジロンド県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 1060,
+    "unigram_w2": 498928,
+    "ppmi": 0.4017835824893891
+  },
+  {
+    "w1": "capital",
+    "w2": "ボルドー",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 790,
+    "unigram_w1": 498928,
+    "unigram_w2": 743864,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジロンド県",
+    "w2": "ボルドー",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 726,
+    "unigram_w1": 1060,
+    "unigram_w2": 743864,
+    "ppmi": 7.329402077834905
+  }
+]

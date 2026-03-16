@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hawaii",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47920,
+    "unigram_w1": 1037731,
+    "unigram_w2": 7450623,
+    "ppmi": 1.1772124806483455
+  },
+  {
+    "w1": "capital",
+    "w2": "Honolulu",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14753,
+    "unigram_w1": 7450623,
+    "unigram_w2": 234681,
+    "ppmi": 1.6222524945646197
+  },
+  {
+    "w1": "Hawaii",
+    "w2": "Honolulu",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 122522,
+    "unigram_w1": 1037731,
+    "unigram_w2": 234681,
+    "ppmi": 7.520141604598921
+  }
+]

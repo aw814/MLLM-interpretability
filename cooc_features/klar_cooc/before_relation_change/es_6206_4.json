@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de los Países Bajos",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8280,
+    "unigram_w1": 34980,
+    "unigram_w2": 42058182,
+    "ppmi": 2.2274986203310765
+  },
+  {
+    "w1": "capital",
+    "w2": "Ámsterdam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 141328,
+    "unigram_w1": 42058182,
+    "unigram_w2": 817028,
+    "ppmi": 1.774988037298593
+  },
+  {
+    "w1": "Reino de los Países Bajos",
+    "w2": "Ámsterdam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2614,
+    "unigram_w1": 34980,
+    "unigram_w2": 817028,
+    "ppmi": 6.249984152062834
+  }
+]

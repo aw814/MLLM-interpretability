@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cairo",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 288395,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Egypt",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1204246,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Cairo",
+    "w2": "Egypt",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148539,
+    "unigram_w1": 288395,
+    "unigram_w2": 1204246,
+    "ppmi": 7.2858998312859224
+  }
+]

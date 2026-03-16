@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "보잉",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 689,
+    "unigram_w1": 13422,
+    "unigram_w2": 563145,
+    "ppmi": 0.5082164250289427
+  },
+  {
+    "w1": "위치",
+    "w2": "시애틀",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 27457,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "보잉",
+    "w2": "시애틀",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 764,
+    "unigram_w1": 13422,
+    "unigram_w2": 27457,
+    "ppmi": 5.015545611451432
+  }
+]

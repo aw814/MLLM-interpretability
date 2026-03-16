@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Shah Jahan",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1399,
+    "unigram_w1": 14074,
+    "unigram_w2": 2269436,
+    "ppmi": 3.9983359904633304
+  },
+  {
+    "w1": "religion",
+    "w2": "Islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231828,
+    "unigram_w1": 2269436,
+    "unigram_w2": 713808,
+    "ppmi": 5.706419294919044
+  },
+  {
+    "w1": "Shah Jahan",
+    "w2": "Islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1253,
+    "unigram_w1": 14074,
+    "unigram_w2": 713808,
+    "ppmi": 5.5080522706704
+  }
+]

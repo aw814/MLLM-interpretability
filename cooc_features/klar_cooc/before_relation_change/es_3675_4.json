@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iOS",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 78766,
+    "unigram_w1": 5331618,
+    "unigram_w2": 576918,
+    "ppmi": 4.413346044758728
+  },
+  {
+    "w1": "developer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 57884,
+    "unigram_w1": 576918,
+    "unigram_w2": 8141772,
+    "ppmi": 3.3581682496086063
+  },
+  {
+    "w1": "iOS",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1524870,
+    "unigram_w1": 5331618,
+    "unigram_w2": 8141772,
+    "ppmi": 4.869410835904671
+  }
+]

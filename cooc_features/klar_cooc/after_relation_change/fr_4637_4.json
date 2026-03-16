@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jacob",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 96321,
+    "unigram_w1": 1496713,
+    "unigram_w2": 4547729,
+    "ppmi": 2.874397018223841
+  },
+  {
+    "w1": "religion",
+    "w2": "judaïsme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163334,
+    "unigram_w1": 4547729,
+    "unigram_w2": 422601,
+    "ppmi": 5.460729399805521
+  },
+  {
+    "w1": "Jacob",
+    "w2": "judaïsme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30859,
+    "unigram_w1": 1496713,
+    "unigram_w2": 422601,
+    "ppmi": 4.660016159626552
+  }
+]

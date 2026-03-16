@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pérou",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35143,
+    "unigram_w1": 1140208,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0059385868777684
+  },
+  {
+    "w1": "capital",
+    "w2": "Lima",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15606,
+    "unigram_w1": 7952962,
+    "unigram_w2": 496200,
+    "ppmi": 1.0351054276011111
+  },
+  {
+    "w1": "Pérou",
+    "w2": "Lima",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 136891,
+    "unigram_w1": 1140208,
+    "unigram_w2": 496200,
+    "ppmi": 6.970155564697728
+  }
+]

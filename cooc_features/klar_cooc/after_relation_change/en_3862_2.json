@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Monrovia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5110,
+    "unigram_w1": 36520,
+    "unigram_w2": 7450623,
+    "ppmi": 2.7765817108750173
+  },
+  {
+    "w1": "capital",
+    "w2": "Liberia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16828,
+    "unigram_w1": 7450623,
+    "unigram_w2": 129000,
+    "ppmi": 2.6754378426050662
+  },
+  {
+    "w1": "Monrovia",
+    "w2": "Liberia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15524,
+    "unigram_w1": 36520,
+    "unigram_w2": 129000,
+    "ppmi": 10.231604946767492
+  }
+]

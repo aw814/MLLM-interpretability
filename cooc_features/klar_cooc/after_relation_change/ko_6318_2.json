@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스페인",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31446,
+    "unigram_w1": 157111,
+    "unigram_w2": 1351571,
+    "ppmi": 1.208273564006891
+  },
+  {
+    "w1": "수도",
+    "w2": "마드리드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 27521,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "스페인",
+    "w2": "마드리드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13171,
+    "unigram_w1": 157111,
+    "unigram_w2": 27521,
+    "ppmi": 5.570722532593464
+  }
+]

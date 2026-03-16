@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Marquis de Sade",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 54976,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 6,
+    "unigram_w2": 53474489,
+    "ppmi": 0.6916053434836923
+  },
+  {
+    "w1": "Marquis de Sade",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26170,
+    "unigram_w1": 54976,
+    "unigram_w2": 53474489,
+    "ppmi": 2.205679827001782
+  }
+]

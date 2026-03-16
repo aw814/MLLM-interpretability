@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Florencia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 425192,
+    "unigram_w1": 2533160,
+    "unigram_w2": 42058182,
+    "ppmi": 1.7315743908960979
+  },
+  {
+    "w1": "capital",
+    "w2": "Florencia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 425192,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2533160,
+    "ppmi": 1.7315743908960979
+  },
+  {
+    "w1": "Florencia",
+    "w2": "Florencia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2533160,
+    "unigram_w1": 2533160,
+    "unigram_w2": 2533160,
+    "ppmi": 8.35970261761702
+  }
+]

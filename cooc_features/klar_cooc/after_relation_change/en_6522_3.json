@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Def Leppard",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 568,
+    "unigram_w1": 16302,
+    "unigram_w2": 14590058,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location",
+    "w2": "Sheffield",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24411,
+    "unigram_w1": 14590058,
+    "unigram_w2": 391922,
+    "ppmi": 0.6393573740391254
+  },
+  {
+    "w1": "Def Leppard",
+    "w2": "Sheffield",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 654,
+    "unigram_w1": 16302,
+    "unigram_w2": 391922,
+    "ppmi": 5.22298135515102
+  }
+]

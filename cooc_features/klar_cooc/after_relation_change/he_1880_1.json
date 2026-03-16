@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לוקה פאצ'ולי",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 57,
+    "unigram_w2": 1639120,
+    "ppmi": 1.2487535878965215
+  },
+  {
+    "w1": "עבודה",
+    "w2": "מתמטיקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 57558,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לוקה פאצ'ולי",
+    "w2": "מתמטיקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 57,
+    "unigram_w2": 57558,
+    "ppmi": 6.302907214219126
+  }
+]

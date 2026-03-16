@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Dee",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4477,
+    "unigram_w2": 3,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Surrey",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 383782,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "John Dee",
+    "w2": "Surrey",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 4477,
+    "unigram_w2": 383782,
+    "ppmi": 3.5719137102800604
+  }
+]

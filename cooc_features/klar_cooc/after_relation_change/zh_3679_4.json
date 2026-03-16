@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "IE浏览器",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 10123,
+    "unigram_w2": 7846,
+    "ppmi": 2.724421666319713
+  },
+  {
+    "w1": "developer",
+    "w2": "微软",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 7846,
+    "unigram_w2": 226038,
+    "ppmi": 3.3310279864408114
+  },
+  {
+    "w1": "IE浏览器",
+    "w2": "微软",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1528,
+    "unigram_w1": 10123,
+    "unigram_w2": 226038,
+    "ppmi": 5.283461309262056
+  }
+]

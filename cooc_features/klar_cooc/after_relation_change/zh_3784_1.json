@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "摩加迪休",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 50,
+    "unigram_w1": 126,
+    "unigram_w2": 596594,
+    "ppmi": 5.277773890960308
+  },
+  {
+    "w1": "首都",
+    "w2": "索马里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 47483,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "摩加迪休",
+    "w2": "索马里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 126,
+    "unigram_w2": 47483,
+    "ppmi": 8.455109177883283
+  }
+]

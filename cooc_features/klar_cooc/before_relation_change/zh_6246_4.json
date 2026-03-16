@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "新南威尔士州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43,
+    "unigram_w1": 13592,
+    "unigram_w2": 32140,
+    "ppmi": 2.5212998765088654
+  },
+  {
+    "w1": "capital",
+    "w2": "悉尼",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 477,
+    "unigram_w1": 32140,
+    "unigram_w2": 120502,
+    "ppmi": 2.844653149157257
+  },
+  {
+    "w1": "新南威尔士州",
+    "w2": "悉尼",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7789,
+    "unigram_w1": 13592,
+    "unigram_w2": 120502,
+    "ppmi": 8.115642267254625
+  }
+]

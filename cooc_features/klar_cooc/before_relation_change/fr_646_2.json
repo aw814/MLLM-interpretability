@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "îles Féroé",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 61983,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "danois",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 1074057,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "îles Féroé",
+    "w2": "danois",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5201,
+    "unigram_w1": 61983,
+    "unigram_w2": 1074057,
+    "ppmi": 5.3392645307710005
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Giuseppe Tartini",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 2808,
+    "unigram_w2": 296558,
+    "ppmi": 5.168852406682122
+  },
+  {
+    "w1": "instrument",
+    "w2": "violín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6394,
+    "unigram_w1": 296558,
+    "unigram_w2": 1122960,
+    "ppmi": 3.997882545356061
+  },
+  {
+    "w1": "Giuseppe Tartini",
+    "w2": "violín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1558,
+    "unigram_w1": 2808,
+    "unigram_w2": 1122960,
+    "ppmi": 8.683486579474117
+  }
+]

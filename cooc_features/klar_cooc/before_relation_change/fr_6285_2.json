@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wisconsin",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13862,
+    "unigram_w1": 265551,
+    "unigram_w2": 7952962,
+    "ppmi": 1.7660728189986297
+  },
+  {
+    "w1": "capital",
+    "w2": "Madison",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13763,
+    "unigram_w1": 7952962,
+    "unigram_w2": 474571,
+    "ppmi": 0.9180973912688636
+  },
+  {
+    "w1": "Wisconsin",
+    "w2": "Madison",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38851,
+    "unigram_w1": 265551,
+    "unigram_w2": 474571,
+    "ppmi": 7.31968555782574
+  }
+]

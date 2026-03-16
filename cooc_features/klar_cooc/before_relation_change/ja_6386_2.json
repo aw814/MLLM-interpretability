@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "クロアチア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1752,
+    "unigram_w1": 211002,
+    "unigram_w2": 498928,
+    "ppmi": 1.5395220434021506
+  },
+  {
+    "w1": "capital",
+    "w2": "ザグレブ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 682,
+    "unigram_w1": 498928,
+    "unigram_w2": 30962,
+    "ppmi": 2.9470490155884086
+  },
+  {
+    "w1": "クロアチア",
+    "w2": "ザグレブ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19348,
+    "unigram_w1": 211002,
+    "unigram_w2": 30962,
+    "ppmi": 9.014892871436437
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "亨利三世",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 259,
+    "unigram_w2": 2023,
+    "ppmi": 7.798498675308608
+  },
+  {
+    "w1": "religion",
+    "w2": "天主教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 2023,
+    "unigram_w2": 55491,
+    "ppmi": 6.044025468273319
+  },
+  {
+    "w1": "亨利三世",
+    "w2": "天主教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 259,
+    "unigram_w2": 55491,
+    "ppmi": 7.065207217731336
+  }
+]

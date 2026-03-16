@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マルキ・ド・サド",
+    "w2": "生まれた",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 598,
+    "unigram_w1": 6084,
+    "unigram_w2": 4588356,
+    "ppmi": 1.9037555785647904
+  },
+  {
+    "w1": "生まれた",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4588356,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "マルキ・ド・サド",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 644,
+    "unigram_w1": 6084,
+    "unigram_w2": 2419066,
+    "ppmi": 2.934197982296463
+  }
+]

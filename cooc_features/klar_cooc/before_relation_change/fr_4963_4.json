@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ovide",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 70589,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "latin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 2492090,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ovide",
+    "w2": "latin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15445,
+    "unigram_w1": 70589,
+    "unigram_w2": 2492090,
+    "ppmi": 5.50768704653561
+  }
+]

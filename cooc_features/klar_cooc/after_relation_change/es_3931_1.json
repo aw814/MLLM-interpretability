@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pamplona",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1764654,
+    "unigram_w1": 5778884,
+    "unigram_w2": 42058182,
+    "ppmi": 2.594920664382462
+  },
+  {
+    "w1": "capital",
+    "w2": "Navarra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1756510,
+    "unigram_w1": 42058182,
+    "unigram_w2": 8095210,
+    "ppmi": 2.101969520404999
+  },
+  {
+    "w1": "Pamplona",
+    "w2": "Navarra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3074148,
+    "unigram_w1": 5778884,
+    "unigram_w2": 8095210,
+    "ppmi": 5.772968027115194
+  }
+]

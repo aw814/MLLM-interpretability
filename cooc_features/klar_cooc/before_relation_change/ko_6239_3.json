@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "일본",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3880,
+    "unigram_w1": 1153645,
+    "unigram_w2": 36855,
+    "ppmi": 0.5098154915230977
+  },
+  {
+    "w1": "capital",
+    "w2": "도쿄도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50,
+    "unigram_w1": 36855,
+    "unigram_w2": 9879,
+    "ppmi": 1.0994493619371453
+  },
+  {
+    "w1": "일본",
+    "w2": "도쿄도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6798,
+    "unigram_w1": 1153645,
+    "unigram_w2": 9879,
+    "ppmi": 3.2182926416444593
+  }
+]

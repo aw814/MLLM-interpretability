@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "코타키나발루",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1013,
+    "unigram_w1": 6910,
+    "unigram_w2": 1351571,
+    "ppmi": 0.7590578009086265
+  },
+  {
+    "w1": "수도",
+    "w2": "사바주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 271,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "코타키나발루",
+    "w2": "사바주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 145,
+    "unigram_w1": 6910,
+    "unigram_w2": 271,
+    "ppmi": 10.23860526083505
+  }
+]

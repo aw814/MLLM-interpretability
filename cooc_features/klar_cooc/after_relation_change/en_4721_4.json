@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charles V of France",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 316,
+    "unigram_w2": 2269436,
+    "ppmi": 4.195044794241577
+  },
+  {
+    "w1": "religion",
+    "w2": "Christianity",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 274874,
+    "unigram_w1": 2269436,
+    "unigram_w2": 778220,
+    "ppmi": 5.827492933918691
+  },
+  {
+    "w1": "Charles V of France",
+    "w2": "Christianity",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 316,
+    "unigram_w2": 778220,
+    "ppmi": 5.092765589803184
+  }
+]

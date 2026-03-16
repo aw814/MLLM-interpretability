@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nepal",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42697,
+    "unigram_w1": 475068,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8271942497209694
+  },
+  {
+    "w1": "language",
+    "w2": "Nepali",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15052,
+    "unigram_w1": 9241408,
+    "unigram_w2": 81187,
+    "ppmi": 2.871828129420275
+  },
+  {
+    "w1": "Nepal",
+    "w2": "Nepali",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 49792,
+    "unigram_w1": 475068,
+    "unigram_w2": 81187,
+    "ppmi": 8.879693637517283
+  }
+]

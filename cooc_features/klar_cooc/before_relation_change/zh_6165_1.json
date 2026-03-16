@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "德国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1563,
+    "unigram_w1": 1175469,
+    "unigram_w2": 32140,
+    "ppmi": 1.2708022605798377
+  },
+  {
+    "w1": "capital",
+    "w2": "柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 702,
+    "unigram_w1": 32140,
+    "unigram_w2": 207635,
+    "ppmi": 2.617142352731329
+  },
+  {
+    "w1": "德国",
+    "w2": "柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 52502,
+    "unigram_w1": 1175469,
+    "unigram_w2": 207635,
+    "ppmi": 3.6491771406708735
+  }
+]

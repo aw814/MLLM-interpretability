@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "保罗·欣德米特",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 19,
+    "unigram_w2": 3087,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "中提琴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 3087,
+    "unigram_w2": 3151,
+    "ppmi": 6.3913586829783835
+  },
+  {
+    "w1": "保罗·欣德米特",
+    "w2": "中提琴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 19,
+    "unigram_w2": 3151,
+    "ppmi": 10.92806601509232
+  }
+]

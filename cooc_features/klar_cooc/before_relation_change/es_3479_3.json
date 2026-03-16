@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Toulouse",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 610,
+    "unigram_w1": 787684,
+    "unigram_w2": 91062,
+    "ppmi": 2.8230558524826463
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Toulouse",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 163598,
+    "unigram_w1": 787684,
+    "unigram_w2": 39895658,
+    "ppmi": 2.115019125955077
+  }
+]

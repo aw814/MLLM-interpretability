@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "洛杉矶时报",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 214,
+    "unigram_w1": 4684,
+    "unigram_w2": 919361,
+    "ppmi": 1.5352572517959155
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "洛杉矶时报",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 210,
+    "unigram_w1": 4684,
+    "unigram_w2": 910574,
+    "ppmi": 1.5218909842108088
+  }
+]

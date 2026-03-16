@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アゼルバイジャン・ソビエト社会主義共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 166,
+    "unigram_w2": 498928,
+    "ppmi": 3.076592700593026
+  },
+  {
+    "w1": "capital",
+    "w2": "バクー",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 208,
+    "unigram_w1": 498928,
+    "unigram_w2": 16950,
+    "ppmi": 2.1030741971699745
+  },
+  {
+    "w1": "アゼルバイジャン・ソビエト社会主義共和国",
+    "w2": "バクー",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 166,
+    "unigram_w2": 16950,
+    "ppmi": 12.599923348021994
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume du Congrès",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29,
+    "unigram_w1": 809,
+    "unigram_w2": 7952962,
+    "ppmi": 1.2238395553017138
+  },
+  {
+    "w1": "capital",
+    "w2": "Varsovie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21133,
+    "unigram_w1": 7952962,
+    "unigram_w2": 501833,
+    "ppmi": 1.4562165977930481
+  },
+  {
+    "w1": "Royaume du Congrès",
+    "w2": "Varsovie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 563,
+    "unigram_w1": 809,
+    "unigram_w2": 501833,
+    "ppmi": 9.489062700806524
+  }
+]

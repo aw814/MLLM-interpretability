@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "시칠리아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31,
+    "unigram_w1": 4470,
+    "unigram_w2": 36855,
+    "ppmi": 1.5538796637951193
+  },
+  {
+    "w1": "capital",
+    "w2": "팔레르모",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 36855,
+    "unigram_w2": 2722,
+    "ppmi": 3.3152911179749296
+  },
+  {
+    "w1": "시칠리아",
+    "w2": "팔레르모",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 345,
+    "unigram_w1": 4470,
+    "unigram_w2": 2722,
+    "ppmi": 8.789257291540464
+  }
+]

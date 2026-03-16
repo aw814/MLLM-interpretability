@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Freeman Dyson",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 194,
+    "unigram_w1": 4820,
+    "unigram_w2": 8126762,
+    "ppmi": 2.0430555882562107
+  },
+  {
+    "w1": "habló",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Freeman Dyson",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1104,
+    "unigram_w1": 4820,
+    "unigram_w2": 30884572,
+    "ppmi": 2.6255334142479665
+  }
+]

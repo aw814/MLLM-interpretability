@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boethius",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 3982,
+    "unigram_w2": 1072211,
+    "ppmi": 2.5174571882024326
+  },
+  {
+    "w1": "occupation",
+    "w2": "philosopher",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7948,
+    "unigram_w1": 1072211,
+    "unigram_w2": 352533,
+    "ppmi": 2.9396228742758526
+  },
+  {
+    "w1": "Boethius",
+    "w2": "philosopher",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 927,
+    "unigram_w1": 3982,
+    "unigram_w2": 352533,
+    "ppmi": 7.912552150405016
+  }
+]

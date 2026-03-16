@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "랭커셔주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 74,
+    "unigram_w2": 36855,
+    "ppmi": 2.5162891038499744
+  },
+  {
+    "w1": "capital",
+    "w2": "프레스턴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 36855,
+    "unigram_w2": 1585,
+    "ppmi": 1.265400345894467
+  },
+  {
+    "w1": "랭커셔주",
+    "w2": "프레스턴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 74,
+    "unigram_w2": 1585,
+    "ppmi": 9.055594716793887
+  }
+]

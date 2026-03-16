@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヒュパティア",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 334,
+    "unigram_w1": 924,
+    "unigram_w2": 30190082,
+    "ppmi": 1.064488153956536
+  },
+  {
+    "w1": "仕事",
+    "w2": "数学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 1353590,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヒュパティア",
+    "w2": "数学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 360,
+    "unigram_w1": 924,
+    "unigram_w2": 1353590,
+    "ppmi": 5.651848912771619
+  }
+]

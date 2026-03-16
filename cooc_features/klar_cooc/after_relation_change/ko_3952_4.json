@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "잘츠부르크",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1390,
+    "unigram_w1": 8081,
+    "unigram_w2": 1351571,
+    "ppmi": 0.9896603870364346
+  },
+  {
+    "w1": "수도",
+    "w2": "잘츠부르크주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 71,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "잘츠부르크",
+    "w2": "잘츠부르크주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 8081,
+    "unigram_w2": 71,
+    "ppmi": 10.157567392766142
+  }
+]

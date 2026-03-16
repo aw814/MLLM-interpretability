@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "요하네스 브람스",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 274,
+    "unigram_w2": 10794,
+    "ppmi": 2.3993411525164423
+  },
+  {
+    "w1": "instrument",
+    "w2": "피아노",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 235,
+    "unigram_w1": 10794,
+    "unigram_w2": 67914,
+    "ppmi": 2.322468795789547
+  },
+  {
+    "w1": "요하네스 브람스",
+    "w2": "피아노",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 151,
+    "unigram_w1": 274,
+    "unigram_w2": 67914,
+    "ppmi": 6.984266477561738
+  }
+]

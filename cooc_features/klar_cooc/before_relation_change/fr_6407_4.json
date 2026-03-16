@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "République démocratique populaire du Yémen",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 828,
+    "unigram_w2": 7952962,
+    "ppmi": 2.0602879496679933
+  },
+  {
+    "w1": "capital",
+    "w2": "Aden",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4774,
+    "unigram_w1": 7952962,
+    "unigram_w2": 109199,
+    "ppmi": 1.5102371845448597
+  },
+  {
+    "w1": "République démocratique populaire du Yémen",
+    "w2": "Aden",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 311,
+    "unigram_w1": 828,
+    "unigram_w2": 109199,
+    "ppmi": 10.799598993028814
+  }
+]

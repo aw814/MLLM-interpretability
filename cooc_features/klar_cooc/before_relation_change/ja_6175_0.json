@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アイユーブ朝",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 1924,
+    "unigram_w2": 498928,
+    "ppmi": 1.5417390481699087
+  },
+  {
+    "w1": "capital",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1624,
+    "unigram_w1": 498928,
+    "unigram_w2": 321728,
+    "ppmi": 0.8214860754297599
+  },
+  {
+    "w1": "アイユーブ朝",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 702,
+    "unigram_w1": 1924,
+    "unigram_w2": 321728,
+    "ppmi": 7.630056405344415
+  }
+]

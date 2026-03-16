@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows Update",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 1640,
+    "unigram_w2": 7399,
+    "ppmi": 5.152896981971901
+  },
+  {
+    "w1": "developer",
+    "w2": "מיקרוסופט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 665,
+    "unigram_w1": 7399,
+    "unigram_w2": 55668,
+    "ppmi": 4.315743963349941
+  },
+  {
+    "w1": "Windows Update",
+    "w2": "מיקרוסופט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 544,
+    "unigram_w1": 1640,
+    "unigram_w2": 55668,
+    "ppmi": 6.1996307581465695
+  }
+]

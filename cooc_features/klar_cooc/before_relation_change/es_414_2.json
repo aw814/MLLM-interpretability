@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Delhi",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1020332,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2044820,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Delhi",
+    "w2": "hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 276646,
+    "unigram_w1": 1020332,
+    "unigram_w2": 2044820,
+    "ppmi": 6.785741279527816
+  }
+]

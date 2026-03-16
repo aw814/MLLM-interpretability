@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יאנגצה",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 226,
+    "unigram_w2": 2719,
+    "ppmi": 5.912131750253876
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "יאנגצה",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 77,
+    "unigram_w1": 226,
+    "unigram_w2": 100491,
+    "ppmi": 5.3861094527674584
+  }
+]

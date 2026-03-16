@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gamal Abdel Nasser",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2102,
+    "unigram_w1": 14066,
+    "unigram_w2": 8520304,
+    "ppmi": 3.8673583673803846
+  },
+  {
+    "w1": "murió",
+    "w2": "El Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 710664,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gamal Abdel Nasser",
+    "w2": "El Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4632,
+    "unigram_w1": 14066,
+    "unigram_w2": 710664,
+    "ppmi": 8.590896333507052
+  }
+]

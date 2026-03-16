@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "中波希米亚州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 17,
+    "unigram_w2": 596594,
+    "ppmi": 5.331089705492765
+  },
+  {
+    "w1": "首都",
+    "w2": "布拉格",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 48243,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "中波希米亚州",
+    "w2": "布拉格",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 17,
+    "unigram_w2": 48243,
+    "ppmi": 9.737055223185642
+  }
+]

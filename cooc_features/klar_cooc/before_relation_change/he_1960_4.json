@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מוחמד איקבאל",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17,
+    "unigram_w2": 1821,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "משורר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 1821,
+    "unigram_w2": 35443,
+    "ppmi": 2.4704613335516035
+  },
+  {
+    "w1": "מוחמד איקבאל",
+    "w2": "משורר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 17,
+    "unigram_w2": 35443,
+    "ppmi": 6.35553270415053
+  }
+]

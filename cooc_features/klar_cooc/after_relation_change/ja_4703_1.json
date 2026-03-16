@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ムハンマド・アリー・ジンナー",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 298,
+    "unigram_w2": 154360,
+    "ppmi": 2.9249962986144844
+  },
+  {
+    "w1": "religion",
+    "w2": "イスラム教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3482,
+    "unigram_w1": 154360,
+    "unigram_w2": 322468,
+    "ppmi": 3.6110688299934255
+  },
+  {
+    "w1": "ムハンマド・アリー・ジンナー",
+    "w2": "イスラム教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 138,
+    "unigram_w1": 298,
+    "unigram_w2": 322468,
+    "ppmi": 7.970663702086949
+  }
+]

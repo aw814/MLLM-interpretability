@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rwanda",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21361,
+    "unigram_w1": 204460,
+    "unigram_w2": 9241408,
+    "ppmi": 2.044354137110514
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Rwanda",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26123,
+    "unigram_w1": 204460,
+    "unigram_w2": 6382804,
+    "ppmi": 2.868617864407953
+  }
+]

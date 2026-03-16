@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Antilles néerlandaises",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3918,
+    "unigram_w1": 138873,
+    "unigram_w2": 12749290,
+    "ppmi": 0.197496802044234
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Antilles néerlandaises",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6238,
+    "unigram_w1": 138873,
+    "unigram_w2": 17089249,
+    "ppmi": 0.44579086560585257
+  }
+]

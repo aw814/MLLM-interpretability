@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Comores",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22951,
+    "unigram_w1": 413683,
+    "unigram_w2": 3399010,
+    "ppmi": 3.0803353714884265
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Comores",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 181727,
+    "unigram_w1": 413683,
+    "unigram_w2": 8624942,
+    "ppmi": 4.72207908598137
+  }
+]

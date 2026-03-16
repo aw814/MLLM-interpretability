@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "국제 올림픽 위원회",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 361,
+    "unigram_w2": 250699,
+    "ppmi": 1.7857915595197078
+  },
+  {
+    "w1": "언어",
+    "w2": "프랑스어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 65940,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "국제 올림픽 위원회",
+    "w2": "프랑스어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 361,
+    "unigram_w2": 65940,
+    "ppmi": 4.975556414725843
+  }
+]

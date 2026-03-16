@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2754,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "フランクフルト・アム・マイン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 6460,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヨハン・ヴォルフガング・フォン・ゲーテ",
+    "w2": "フランクフルト・アム・マイン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84,
+    "unigram_w1": 2754,
+    "unigram_w2": 6460,
+    "ppmi": 9.687790371567772
+  }
+]

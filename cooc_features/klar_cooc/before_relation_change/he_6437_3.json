@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'מייקה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19,
+    "unigram_w1": 5463,
+    "unigram_w2": 14610,
+    "ppmi": 1.5539898960273983
+  },
+  {
+    "w1": "capital",
+    "w2": "קינגסטון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 14610,
+    "unigram_w2": 2886,
+    "ppmi": 1.8116470065117654
+  },
+  {
+    "w1": "ג'מייקה",
+    "w2": "קינגסטון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 356,
+    "unigram_w1": 5463,
+    "unigram_w2": 2886,
+    "ppmi": 8.121608786749873
+  }
+]

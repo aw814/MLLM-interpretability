@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아네르스 포그 라스무센",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 45,
+    "unigram_w2": 4640,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "정치인",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 4640,
+    "unigram_w2": 51124,
+    "ppmi": 0.32162053252431144
+  },
+  {
+    "w1": "아네르스 포그 라스무센",
+    "w2": "정치인",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 45,
+    "unigram_w2": 51124,
+    "ppmi": 5.569103934823589
+  }
+]

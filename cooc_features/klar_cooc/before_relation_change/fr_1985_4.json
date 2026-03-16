@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arno Allan Penzias",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 222,
+    "unigram_w2": 1178529,
+    "ppmi": 3.3078716994071677
+  },
+  {
+    "w1": "occupation",
+    "w2": "astronome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1238,
+    "unigram_w1": 1178529,
+    "unigram_w2": 146212,
+    "ppmi": 1.8964528737548472
+  },
+  {
+    "w1": "Arno Allan Penzias",
+    "w2": "astronome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 55,
+    "unigram_w1": 222,
+    "unigram_w2": 146212,
+    "ppmi": 9.7781569503838
+  }
+]

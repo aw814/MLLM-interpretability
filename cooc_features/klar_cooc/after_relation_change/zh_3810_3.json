@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "维也纳",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3536,
+    "unigram_w1": 66653,
+    "unigram_w2": 596594,
+    "ppmi": 2.3747179931634315
+  },
+  {
+    "w1": "首都",
+    "w2": "奥地利",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 105271,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "维也纳",
+    "w2": "奥地利",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15909,
+    "unigram_w1": 66653,
+    "unigram_w2": 105271,
+    "ppmi": 7.047012377844172
+  }
+]

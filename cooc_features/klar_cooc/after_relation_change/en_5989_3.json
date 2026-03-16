@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prime Minister of Russia",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 1307,
+    "unigram_w2": 1074632,
+    "ppmi": 2.0553482149749813
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Russia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26336,
+    "unigram_w1": 1074632,
+    "unigram_w2": 2521305,
+    "ppmi": 1.8264010415921328
+  },
+  {
+    "w1": "Prime Minister of Russia",
+    "w2": "Russia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1307,
+    "unigram_w1": 1307,
+    "unigram_w2": 2521305,
+    "ppmi": 7.177063694339061
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mumbai",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7555,
+    "unigram_w1": 862849,
+    "unigram_w2": 965266,
+    "ppmi": 1.7267033345331264
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Mumbai",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 61476,
+    "unigram_w1": 862849,
+    "unigram_w2": 3865133,
+    "ppmi": 2.7497033814458156
+  }
+]

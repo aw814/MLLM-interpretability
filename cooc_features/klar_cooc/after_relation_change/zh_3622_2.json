@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "安哥拉",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 30132,
+    "unigram_w2": 1361,
+    "ppmi": 6.208567120197886
+  },
+  {
+    "w1": "continent",
+    "w2": "非洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 1361,
+    "unigram_w2": 440125,
+    "ppmi": 3.3944699216877
+  },
+  {
+    "w1": "安哥拉",
+    "w2": "非洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5626,
+    "unigram_w1": 30132,
+    "unigram_w2": 440125,
+    "ppmi": 4.62891879435027
+  }
+]

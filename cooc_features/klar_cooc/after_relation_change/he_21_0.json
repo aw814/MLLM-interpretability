@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מארק סטרונג",
+    "w2": "נולד",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 374,
+    "unigram_w2": 359211,
+    "ppmi": 1.7247671851605204
+  },
+  {
+    "w1": "נולד",
+    "w2": "לונדון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359211,
+    "unigram_w2": 119995,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מארק סטרונג",
+    "w2": "לונדון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 374,
+    "unigram_w2": 119995,
+    "ppmi": 3.265982438305137
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "重庆市",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6733,
+    "unigram_w1": 303241,
+    "unigram_w2": 596594,
+    "ppmi": 1.1181260720295672
+  },
+  {
+    "w1": "首都",
+    "w2": "中华民国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 26203,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "重庆市",
+    "w2": "中华民国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 291,
+    "unigram_w1": 303241,
+    "unigram_w2": 26203,
+    "ppmi": 1.0949132323710329
+  }
+]

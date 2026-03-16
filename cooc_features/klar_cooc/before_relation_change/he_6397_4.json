@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לטביה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47,
+    "unigram_w1": 12965,
+    "unigram_w2": 14610,
+    "ppmi": 1.6137943562187878
+  },
+  {
+    "w1": "capital",
+    "w2": "ריגה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 14610,
+    "unigram_w2": 5676,
+    "ppmi": 3.440705775101273
+  },
+  {
+    "w1": "לטביה",
+    "w2": "ריגה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2257,
+    "unigram_w1": 12965,
+    "unigram_w2": 5676,
+    "ppmi": 8.563405891363296
+  }
+]

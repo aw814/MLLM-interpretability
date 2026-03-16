@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "웨스트민스터",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7420,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "잉글랜드 왕국",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 141,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "웨스트민스터",
+    "w2": "잉글랜드 왕국",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 7420,
+    "unigram_w2": 141,
+    "ppmi": 7.805450979151167
+  }
+]

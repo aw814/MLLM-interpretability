@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴェネト州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 812,
+    "unigram_w1": 12394,
+    "unigram_w2": 2444276,
+    "ppmi": 2.227110138428846
+  },
+  {
+    "w1": "首都",
+    "w2": "ヴェネツィア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 147558,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヴェネト州",
+    "w2": "ヴェネツィア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3374,
+    "unigram_w1": 12394,
+    "unigram_w2": 147558,
+    "ppmi": 8.332071633384036
+  }
+]

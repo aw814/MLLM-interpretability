@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポルトガル",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4370,
+    "unigram_w1": 793608,
+    "unigram_w2": 498928,
+    "ppmi": 0.9469826529428308
+  },
+  {
+    "w1": "capital",
+    "w2": "リスボン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 896,
+    "unigram_w1": 498928,
+    "unigram_w2": 101536,
+    "ppmi": 1.6273552480799172
+  },
+  {
+    "w1": "ポルトガル",
+    "w2": "リスボン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 52324,
+    "unigram_w1": 793608,
+    "unigram_w2": 101536,
+    "ppmi": 6.825590607157928
+  }
+]

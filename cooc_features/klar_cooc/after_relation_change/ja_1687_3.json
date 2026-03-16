@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "戦場のピアニスト",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 658,
+    "unigram_w1": 8802,
+    "unigram_w2": 3715876,
+    "ppmi": 1.813161431204317
+  },
+  {
+    "w1": "言語",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "戦場のピアニスト",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2138,
+    "unigram_w1": 8802,
+    "unigram_w2": 8357100,
+    "ppmi": 2.34396375543631
+  }
+]

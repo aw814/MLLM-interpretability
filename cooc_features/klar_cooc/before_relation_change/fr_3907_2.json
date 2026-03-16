@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Noursoultan",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8890,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Kazakhstan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 574358,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Noursoultan",
+    "w2": "Kazakhstan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7721,
+    "unigram_w1": 8890,
+    "unigram_w2": 574358,
+    "ppmi": 9.613928863269424
+  }
+]

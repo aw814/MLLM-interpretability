@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לואי אראגון",
+    "w2": "מת",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 94,
+    "unigram_w2": 241785,
+    "ppmi": 2.9256094993158426
+  },
+  {
+    "w1": "מת",
+    "w2": "פריז",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 241785,
+    "unigram_w2": 77658,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "לואי אראגון",
+    "w2": "פריז",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 94,
+    "unigram_w2": 77658,
+    "ppmi": 4.663663459720593
+  }
+]

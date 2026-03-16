@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Westminster",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61520,
+    "unigram_w1": 343462,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8253031544023675
+  },
+  {
+    "w1": "capital",
+    "w2": "Reino de Inglaterra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1890,
+    "unigram_w1": 42058182,
+    "unigram_w2": 8176,
+    "ppmi": 2.193317274924217
+  },
+  {
+    "w1": "Westminster",
+    "w2": "Reino de Inglaterra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 744,
+    "unigram_w1": 343462,
+    "unigram_w2": 8176,
+    "ppmi": 7.784397755656022
+  }
+]

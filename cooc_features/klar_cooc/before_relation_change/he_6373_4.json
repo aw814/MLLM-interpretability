@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הרפובליקה הסובייטית הסוציאליסטית האוקראינית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 77,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "קייב",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 412,
+    "unigram_w1": 14610,
+    "unigram_w2": 16903,
+    "ppmi": 4.363048914424771
+  },
+  {
+    "w1": "הרפובליקה הסובייטית הסוציאליסטית האוקראינית",
+    "w2": "קייב",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 77,
+    "unigram_w2": 16903,
+    "ppmi": 7.7679923602945244
+  }
+]

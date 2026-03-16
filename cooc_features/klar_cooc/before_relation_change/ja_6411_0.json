@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エジプト古王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 668,
+    "unigram_w2": 498928,
+    "ppmi": 0.06792783946589849
+  },
+  {
+    "w1": "capital",
+    "w2": "メンフィス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 932,
+    "unigram_w1": 498928,
+    "unigram_w2": 72580,
+    "ppmi": 2.1685338402275347
+  },
+  {
+    "w1": "エジプト古王国",
+    "w2": "メンフィス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 204,
+    "unigram_w1": 668,
+    "unigram_w2": 72580,
+    "ppmi": 9.52154085563601
+  }
+]

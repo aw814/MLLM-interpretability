@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גיאנה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68,
+    "unigram_w1": 2169,
+    "unigram_w2": 90246,
+    "ppmi": 2.099281783580995
+  },
+  {
+    "w1": "בירה",
+    "w2": "ג'ורג'טאון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 1714,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גיאנה",
+    "w2": "ג'ורג'טאון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53,
+    "unigram_w1": 2169,
+    "unigram_w2": 1714,
+    "ppmi": 7.458163370751094
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "과테말라 시티",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33,
+    "unigram_w1": 165,
+    "unigram_w2": 1351571,
+    "ppmi": 1.207181242495747
+  },
+  {
+    "w1": "수도",
+    "w2": "과테말라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 14111,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "과테말라 시티",
+    "w2": "과테말라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 165,
+    "unigram_w1": 165,
+    "unigram_w2": 14111,
+    "ppmi": 10.110782597305862
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ray Charles",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 140,
+    "unigram_w1": 68534,
+    "unigram_w2": 296558,
+    "ppmi": 2.519005370311696
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25102,
+    "unigram_w1": 296558,
+    "unigram_w2": 4426392,
+    "ppmi": 3.992069529692425
+  },
+  {
+    "w1": "Ray Charles",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14856,
+    "unigram_w1": 68534,
+    "unigram_w2": 4426392,
+    "ppmi": 5.348735427665694
+  }
+]

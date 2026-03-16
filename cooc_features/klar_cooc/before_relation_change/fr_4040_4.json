@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tristan Tzara",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17013,
+    "unigram_w2": 21,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 21,
+    "unigram_w2": 46536486,
+    "ppmi": 3.4066670314103495
+  },
+  {
+    "w1": "Tristan Tzara",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5386,
+    "unigram_w1": 17013,
+    "unigram_w2": 46536486,
+    "ppmi": 1.8177049321179168
+  }
+]

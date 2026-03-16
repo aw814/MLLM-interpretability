@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סירי",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 10497,
+    "unigram_w2": 7399,
+    "ppmi": 1.0458443327124674
+  },
+  {
+    "w1": "developer",
+    "w2": "אפל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231,
+    "unigram_w1": 7399,
+    "unigram_w2": 110303,
+    "ppmi": 1.803730601903592
+  },
+  {
+    "w1": "סירי",
+    "w2": "אפל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2224,
+    "unigram_w1": 10497,
+    "unigram_w2": 110303,
+    "ppmi": 4.566347766690323
+  }
+]

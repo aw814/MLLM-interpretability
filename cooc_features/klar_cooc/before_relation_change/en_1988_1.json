@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kazuo Ishiguro",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 3904,
+    "unigram_w2": 1072211,
+    "ppmi": 2.0034701219592894
+  },
+  {
+    "w1": "occupation",
+    "w2": "novelist",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6148,
+    "unigram_w1": 1072211,
+    "unigram_w2": 290388,
+    "ppmi": 2.8489246421147754
+  },
+  {
+    "w1": "Kazuo Ishiguro",
+    "w2": "novelist",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 512,
+    "unigram_w1": 3904,
+    "unigram_w2": 290388,
+    "ppmi": 7.364443265334923
+  }
+]

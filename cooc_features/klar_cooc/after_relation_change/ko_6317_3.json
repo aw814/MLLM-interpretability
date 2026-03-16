@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "북아일랜드",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1419,
+    "unigram_w1": 5887,
+    "unigram_w2": 1351571,
+    "ppmi": 1.4764512991309124
+  },
+  {
+    "w1": "수도",
+    "w2": "벨파스트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 1783,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "북아일랜드",
+    "w2": "벨파스트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 472,
+    "unigram_w1": 5887,
+    "unigram_w2": 1783,
+    "ppmi": 9.454550356873705
+  }
+]

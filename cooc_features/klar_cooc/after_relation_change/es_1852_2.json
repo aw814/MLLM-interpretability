@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nikolái Lobachevski",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 144,
+    "unigram_w1": 328,
+    "unigram_w2": 128711420,
+    "ppmi": 1.5050175651676851
+  },
+  {
+    "w1": "trabajo",
+    "w2": "geometría",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 1434580,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nikolái Lobachevski",
+    "w2": "geometría",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 210,
+    "unigram_w1": 328,
+    "unigram_w2": 1434580,
+    "ppmi": 8.536705911520894
+  }
+]

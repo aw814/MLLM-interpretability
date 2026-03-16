@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "유고슬라비아 사회주의 연방공화국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 86,
+    "unigram_w2": 1351571,
+    "ppmi": 1.6878070834021675
+  },
+  {
+    "w1": "수도",
+    "w2": "베오그라드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3082,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "유고슬라비아 사회주의 연방공화국",
+    "w2": "베오그라드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 86,
+    "unigram_w2": 3082,
+    "ppmi": 9.786289901841243
+  }
+]

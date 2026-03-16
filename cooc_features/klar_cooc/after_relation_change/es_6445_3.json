@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nueva Escocia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11422,
+    "unigram_w1": 83698,
+    "unigram_w2": 42058182,
+    "ppmi": 1.4329483770963354
+  },
+  {
+    "w1": "capital",
+    "w2": "Halifax",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28938,
+    "unigram_w1": 42058182,
+    "unigram_w2": 144560,
+    "ppmi": 1.9856949464844933
+  },
+  {
+    "w1": "Nueva Escocia",
+    "w2": "Halifax",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19940,
+    "unigram_w1": 83698,
+    "unigram_w2": 144560,
+    "ppmi": 10.421372765306018
+  }
+]

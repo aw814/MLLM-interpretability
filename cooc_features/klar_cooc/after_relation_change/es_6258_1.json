@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bajo Rin",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1500,
+    "unigram_w1": 8782,
+    "unigram_w2": 42058182,
+    "ppmi": 1.7567392030101052
+  },
+  {
+    "w1": "capital",
+    "w2": "Estrasburgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82200,
+    "unigram_w1": 42058182,
+    "unigram_w2": 513438,
+    "ppmi": 1.6633464607736217
+  },
+  {
+    "w1": "Bajo Rin",
+    "w2": "Estrasburgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2282,
+    "unigram_w1": 8782,
+    "unigram_w2": 513438,
+    "ppmi": 8.718128098411789
+  }
+]

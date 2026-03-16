@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויילס",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 359,
+    "unigram_w1": 6074,
+    "unigram_w2": 236631,
+    "ppmi": 1.6233379269185613
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ויילס",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1103,
+    "unigram_w1": 6074,
+    "unigram_w2": 231817,
+    "ppmi": 3.2723676875602234
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Miguel Ángel",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1026,
+    "unigram_w1": 4600152,
+    "unigram_w2": 77008,
+    "ppmi": 1.2690535969595755
+  },
+  {
+    "w1": "occupation",
+    "w2": "poeta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1628,
+    "unigram_w1": 77008,
+    "unigram_w2": 5320434,
+    "ppmi": 1.7252611631941606
+  },
+  {
+    "w1": "Miguel Ángel",
+    "w2": "poeta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 138336,
+    "unigram_w1": 4600152,
+    "unigram_w2": 5320434,
+    "ppmi": 2.233663906420246
+  }
+]

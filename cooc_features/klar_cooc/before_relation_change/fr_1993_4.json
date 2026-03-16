@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Agostinho Neto",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 59,
+    "unigram_w1": 3789,
+    "unigram_w2": 1178529,
+    "ppmi": 2.775401095723044
+  },
+  {
+    "w1": "occupation",
+    "w2": "poète",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16993,
+    "unigram_w1": 1178529,
+    "unigram_w2": 1819354,
+    "ppmi": 2.0380175721685725
+  },
+  {
+    "w1": "Agostinho Neto",
+    "w2": "poète",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 209,
+    "unigram_w1": 3789,
+    "unigram_w2": 1819354,
+    "ppmi": 3.9736781557343535
+  }
+]

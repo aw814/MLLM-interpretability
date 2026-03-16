@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "グレゴール・ヨハン・メンデル",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 134,
+    "unigram_w1": 382,
+    "unigram_w2": 30190082,
+    "ppmi": 1.021193265320565
+  },
+  {
+    "w1": "仕事",
+    "w2": "遺伝学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 90680,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "グレゴール・ヨハン・メンデル",
+    "w2": "遺伝学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 198,
+    "unigram_w1": 382,
+    "unigram_w2": 90680,
+    "ppmi": 9.963535263920976
+  }
+]

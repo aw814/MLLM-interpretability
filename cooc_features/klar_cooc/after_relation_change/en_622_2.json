@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "United Kingdom",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 127501,
+    "unigram_w1": 1648678,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6103924814775328
+  },
+  {
+    "w1": "language",
+    "w2": "Welsh",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53919,
+    "unigram_w1": 9241408,
+    "unigram_w2": 479840,
+    "ppmi": 2.1494338883284296
+  },
+  {
+    "w1": "United Kingdom",
+    "w2": "Welsh",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17384,
+    "unigram_w1": 1648678,
+    "unigram_w2": 479840,
+    "ppmi": 3.0032032456327964
+  }
+]

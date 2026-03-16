@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האימפריה הרומית",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1109,
+    "unigram_w1": 12527,
+    "unigram_w2": 236631,
+    "ppmi": 2.206219401380029
+  },
+  {
+    "w1": "שפה",
+    "w2": "יוונית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 29423,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "האימפריה הרומית",
+    "w2": "יוונית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 999,
+    "unigram_w1": 12527,
+    "unigram_w2": 29423,
+    "ppmi": 5.0631394483760985
+  }
+]

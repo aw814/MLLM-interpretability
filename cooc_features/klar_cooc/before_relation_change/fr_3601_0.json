@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thiruvananthapuram",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 297,
+    "unigram_w1": 7617,
+    "unigram_w2": 3399010,
+    "ppmi": 2.571544064304081
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Thiruvananthapuram",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1082,
+    "unigram_w1": 7617,
+    "unigram_w2": 3597699,
+    "ppmi": 4.354749844518546
+  }
+]

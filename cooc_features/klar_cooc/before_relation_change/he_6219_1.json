@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פורטוגל",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 184,
+    "unigram_w1": 40431,
+    "unigram_w2": 14610,
+    "ppmi": 1.9419277798456227
+  },
+  {
+    "w1": "capital",
+    "w2": "ליסבון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 462,
+    "unigram_w1": 14610,
+    "unigram_w2": 15819,
+    "ppmi": 4.6239183495968765
+  },
+  {
+    "w1": "פורטוגל",
+    "w2": "ליסבון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6431,
+    "unigram_w1": 40431,
+    "unigram_w2": 15819,
+    "ppmi": 6.95449097351725
+  }
+]

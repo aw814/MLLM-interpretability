@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Âge des Vikings",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60,
+    "unigram_w1": 412,
+    "unigram_w2": 3399010,
+    "ppmi": 4.472622192297277
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Âge des Vikings",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 125,
+    "unigram_w1": 412,
+    "unigram_w2": 18211758,
+    "ppmi": 3.1098321989115756
+  }
+]

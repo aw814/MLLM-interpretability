@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Czechoslovakia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10771,
+    "unigram_w1": 74006,
+    "unigram_w2": 9241408,
+    "ppmi": 2.522631627838813
+  },
+  {
+    "w1": "language",
+    "w2": "Czech",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 77814,
+    "unigram_w1": 9241408,
+    "unigram_w2": 761426,
+    "ppmi": 2.012519484713364
+  },
+  {
+    "w1": "Czechoslovakia",
+    "w2": "Czech",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22938,
+    "unigram_w1": 74006,
+    "unigram_w2": 761426,
+    "ppmi": 7.214555970570192
+  }
+]

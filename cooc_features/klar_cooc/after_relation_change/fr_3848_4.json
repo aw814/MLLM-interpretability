@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nicosie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9121,
+    "unigram_w1": 60537,
+    "unigram_w2": 9137640,
+    "ppmi": 3.0949718541114892
+  },
+  {
+    "w1": "capitale",
+    "w2": "Chypre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 856301,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nicosie",
+    "w2": "Chypre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34639,
+    "unigram_w1": 60537,
+    "unigram_w2": 856301,
+    "ppmi": 8.435736913994308
+  }
+]

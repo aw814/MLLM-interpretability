@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dakota del Norte",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12640,
+    "unigram_w1": 90344,
+    "unigram_w2": 42058182,
+    "ppmi": 1.4688939094461628
+  },
+  {
+    "w1": "capital",
+    "w2": "Bismarck",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29694,
+    "unigram_w1": 42058182,
+    "unigram_w2": 134140,
+    "ppmi": 2.130830082739435
+  },
+  {
+    "w1": "Dakota del Norte",
+    "w2": "Bismarck",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3950,
+    "unigram_w1": 90344,
+    "unigram_w2": 134140,
+    "ppmi": 8.08332517666383
+  }
+]

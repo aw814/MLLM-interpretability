@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Revolucion Francesa",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 9,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 6382804,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Revolucion Francesa",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 9,
+    "unigram_w2": 6382804,
+    "ppmi": 2.6671189962670065
+  }
+]

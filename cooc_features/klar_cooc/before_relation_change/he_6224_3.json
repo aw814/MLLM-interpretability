@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סיינה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29,
+    "unigram_w1": 6936,
+    "unigram_w2": 14610,
+    "ppmi": 1.8196329021875444
+  },
+  {
+    "w1": "capital",
+    "w2": "סיינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 14610,
+    "unigram_w2": 6936,
+    "ppmi": 1.8196329021875444
+  },
+  {
+    "w1": "סיינה",
+    "w2": "סיינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6936,
+    "unigram_w1": 6936,
+    "unigram_w2": 6936,
+    "ppmi": 10.796320464750833
+  }
+]

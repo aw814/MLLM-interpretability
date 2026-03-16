@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hamad bin Khalifa Al Thani",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 2252,
+    "unigram_w2": 737500,
+    "ppmi": 3.7442656156229726
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Qatar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4381,
+    "unigram_w1": 737500,
+    "unigram_w2": 403981,
+    "ppmi": 2.4236359731641555
+  },
+  {
+    "w1": "Hamad bin Khalifa Al Thani",
+    "w2": "Qatar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2045,
+    "unigram_w1": 2252,
+    "unigram_w2": 403981,
+    "ppmi": 9.67976901338874
+  }
+]

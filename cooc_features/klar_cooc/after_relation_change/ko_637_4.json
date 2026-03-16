@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "과테말라",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 558,
+    "unigram_w1": 14111,
+    "unigram_w2": 250699,
+    "ppmi": 1.2993071932049591
+  },
+  {
+    "w1": "언어",
+    "w2": "스페인어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 57722,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "과테말라",
+    "w2": "스페인어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 502,
+    "unigram_w1": 14111,
+    "unigram_w2": 57722,
+    "ppmi": 3.2654924833109655
+  }
+]

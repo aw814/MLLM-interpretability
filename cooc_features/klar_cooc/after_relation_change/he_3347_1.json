@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ידו קרישנמורטי",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 121,
+    "unigram_w2": 49512,
+    "ppmi": 1.0418548040904325
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "הודו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 146501,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ג'ידו קרישנמורטי",
+    "w2": "הודו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 121,
+    "unigram_w2": 146501,
+    "ppmi": 3.7247219373432148
+  }
+]

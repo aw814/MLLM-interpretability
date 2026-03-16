@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows Media Player",
+    "w2": "所有する",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 582,
+    "unigram_w1": 39618,
+    "unigram_w2": 779898,
+    "ppmi": 1.7181852281252554
+  },
+  {
+    "w1": "所有する",
+    "w2": "マイクロソフト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 779898,
+    "unigram_w2": 865310,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Windows Media Player",
+    "w2": "マイクロソフト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6366,
+    "unigram_w1": 39618,
+    "unigram_w2": 865310,
+    "ppmi": 5.019549703029973
+  }
+]

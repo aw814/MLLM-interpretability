@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ernest Rutherford",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1195,
+    "unigram_w1": 3615,
+    "unigram_w2": 57128353,
+    "ppmi": 1.5842266684702269
+  },
+  {
+    "w1": "travail",
+    "w2": "physique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 12876803,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ernest Rutherford",
+    "w2": "physique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2304,
+    "unigram_w1": 3615,
+    "unigram_w2": 12876803,
+    "ppmi": 4.680789253447233
+  }
+]

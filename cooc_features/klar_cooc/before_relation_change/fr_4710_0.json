@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abou Bakr As-Siddiq",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 541,
+    "unigram_w1": 1054,
+    "unigram_w2": 4547729,
+    "ppmi": 5.870026076072882
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 409223,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1266878,
+    "ppmi": 5.201881981662004
+  },
+  {
+    "w1": "Abou Bakr As-Siddiq",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 480,
+    "unigram_w1": 1054,
+    "unigram_w2": 1266878,
+    "ppmi": 7.541300574150166
+  }
+]

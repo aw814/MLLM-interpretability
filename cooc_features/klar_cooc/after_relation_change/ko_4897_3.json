@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "존 돌턴",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 27,
+    "unigram_w2": 250699,
+    "ppmi": 1.204830989356048
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "존 돌턴",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 27,
+    "unigram_w2": 359114,
+    "ppmi": 2.686345333522432
+  }
+]

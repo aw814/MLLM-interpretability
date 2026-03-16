@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "French Wikipedia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 273,
+    "unigram_w1": 829,
+    "unigram_w2": 9241408,
+    "ppmi": 3.700650519901193
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "French Wikipedia",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 829,
+    "unigram_w1": 829,
+    "unigram_w2": 6382804,
+    "ppmi": 5.837043997709319
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아이유브 왕조",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 48,
+    "unigram_w2": 36855,
+    "ppmi": 3.140779968757768
+  },
+  {
+    "w1": "capital",
+    "w2": "카이로",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 400,
+    "unigram_w1": 36855,
+    "unigram_w2": 9065,
+    "ppmi": 4.223507354622129
+  },
+  {
+    "w1": "아이유브 왕조",
+    "w2": "카이로",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 48,
+    "unigram_w2": 9065,
+    "ppmi": 8.486189496984293
+  }
+]

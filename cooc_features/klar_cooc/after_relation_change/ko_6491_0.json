@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스티비 원더",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27,
+    "unigram_w1": 877,
+    "unigram_w2": 563145,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "위치",
+    "w2": "디트로이트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 16137,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "스티비 원더",
+    "w2": "디트로이트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 877,
+    "unigram_w2": 16137,
+    "ppmi": 4.998778395821759
+  }
+]

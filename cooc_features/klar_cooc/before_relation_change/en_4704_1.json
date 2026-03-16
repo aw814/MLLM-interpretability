@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Vietnam",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1535,
+    "unigram_w1": 27852,
+    "unigram_w2": 2269436,
+    "ppmi": 3.1474301731682703
+  },
+  {
+    "w1": "religion",
+    "w2": "Buddhism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82478,
+    "unigram_w1": 2269436,
+    "unigram_w2": 280621,
+    "ppmi": 5.562358819785027
+  },
+  {
+    "w1": "South Vietnam",
+    "w2": "Buddhism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 700,
+    "unigram_w1": 27852,
+    "unigram_w2": 280621,
+    "ppmi": 5.030257267588932
+  }
+]

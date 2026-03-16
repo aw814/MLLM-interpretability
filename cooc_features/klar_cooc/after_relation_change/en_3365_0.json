@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Floriano Peixoto",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 281,
+    "unigram_w2": 737500,
+    "ppmi": 2.8160930699193893
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Brazil",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15879,
+    "unigram_w1": 737500,
+    "unigram_w2": 1548930,
+    "ppmi": 2.3425113135493993
+  },
+  {
+    "w1": "Floriano Peixoto",
+    "w2": "Brazil",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 94,
+    "unigram_w1": 281,
+    "unigram_w2": 1548930,
+    "ppmi": 6.3001249294487325
+  }
+]

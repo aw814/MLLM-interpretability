@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kisho Kurokawa",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 62,
+    "unigram_w1": 839,
+    "unigram_w2": 5281801,
+    "ppmi": 2.3518737077939607
+  },
+  {
+    "w1": "died",
+    "w2": "Tokyo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39559,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1042843,
+    "ppmi": 1.3898321886923497
+  },
+  {
+    "w1": "Kisho Kurokawa",
+    "w2": "Tokyo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 295,
+    "unigram_w1": 839,
+    "unigram_w2": 1042843,
+    "ppmi": 6.942756511938102
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "condado de York",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 3730,
+    "unigram_w2": 91062,
+    "ppmi": 3.2926879502936544
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "condado de York",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 574,
+    "unigram_w1": 3730,
+    "unigram_w2": 39895658,
+    "ppmi": 1.6824279971420446
+  }
+]

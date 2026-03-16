@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ボーイング",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47500,
+    "unigram_w1": 161982,
+    "unigram_w2": 27600878,
+    "ppmi": 0.8920593313925499
+  },
+  {
+    "w1": "場所",
+    "w2": "シアトル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 252008,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ボーイング",
+    "w2": "シアトル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7982,
+    "unigram_w1": 161982,
+    "unigram_w2": 252008,
+    "ppmi": 5.09405481954739
+  }
+]

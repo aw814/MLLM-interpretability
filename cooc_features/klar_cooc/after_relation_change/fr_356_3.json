@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mariehamn",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 387,
+    "unigram_w1": 4604,
+    "unigram_w2": 12749290,
+    "ppmi": 1.7725193668041186
+  },
+  {
+    "w1": "langue",
+    "w2": "suédois",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 1659576,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Mariehamn",
+    "w2": "suédois",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 540,
+    "unigram_w1": 4604,
+    "unigram_w2": 1659576,
+    "ppmi": 5.194675510230504
+  }
+]

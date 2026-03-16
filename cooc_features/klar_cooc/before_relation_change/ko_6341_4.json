@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "그리스 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 107,
+    "unigram_w2": 36855,
+    "ppmi": 1.9842754830777773
+  },
+  {
+    "w1": "capital",
+    "w2": "아테네",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 36855,
+    "unigram_w2": 15452,
+    "ppmi": 1.4540926970217176
+  },
+  {
+    "w1": "그리스 왕국",
+    "w2": "아테네",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 107,
+    "unigram_w2": 15452,
+    "ppmi": 7.145232854425048
+  }
+]

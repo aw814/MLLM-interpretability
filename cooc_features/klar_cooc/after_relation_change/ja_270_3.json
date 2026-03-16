@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イスラエル",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 68264,
+    "unigram_w1": 687306,
+    "unigram_w2": 3715876,
+    "ppmi": 2.223077618338929
+  },
+  {
+    "w1": "言語",
+    "w2": "ヘブライ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 76338,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イスラエル",
+    "w2": "ヘブライ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27516,
+    "unigram_w1": 687306,
+    "unigram_w2": 76338,
+    "ppmi": 6.517380585565957
+  }
+]

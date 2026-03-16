@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "布鲁塞尔-首都大区",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 92,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "布鲁塞尔市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 32140,
+    "unigram_w2": 925,
+    "ppmi": 6.830176698714886
+  },
+  {
+    "w1": "布鲁塞尔-首都大区",
+    "w2": "布鲁塞尔市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 92,
+    "unigram_w2": 925,
+    "ppmi": 11.74264415098012
+  }
+]

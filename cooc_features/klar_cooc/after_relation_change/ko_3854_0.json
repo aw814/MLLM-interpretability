@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "팔레르모",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 545,
+    "unigram_w1": 2722,
+    "unigram_w2": 1351571,
+    "ppmi": 1.2087704055434032
+  },
+  {
+    "w1": "수도",
+    "w2": "시칠리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 4470,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "팔레르모",
+    "w2": "시칠리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 345,
+    "unigram_w1": 2722,
+    "unigram_w2": 4470,
+    "ppmi": 8.789257291540464
+  }
+]

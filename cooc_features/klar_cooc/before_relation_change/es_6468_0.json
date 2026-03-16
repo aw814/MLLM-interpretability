@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Otago",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3080,
+    "unigram_w1": 32550,
+    "unigram_w2": 42058182,
+    "ppmi": 0.904670949395307
+  },
+  {
+    "w1": "capital",
+    "w2": "Dunedin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4274,
+    "unigram_w1": 42058182,
+    "unigram_w2": 36670,
+    "ppmi": 1.2053847838141862
+  },
+  {
+    "w1": "Otago",
+    "w2": "Dunedin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6880,
+    "unigram_w1": 32550,
+    "unigram_w2": 36670,
+    "ppmi": 12.22771967173591
+  }
+]

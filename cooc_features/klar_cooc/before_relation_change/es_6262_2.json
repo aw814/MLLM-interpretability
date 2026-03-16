@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Teherán",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 127602,
+    "unigram_w1": 595740,
+    "unigram_w2": 42058182,
+    "ppmi": 2.083294348692146
+  },
+  {
+    "w1": "capital",
+    "w2": "Teherán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127602,
+    "unigram_w1": 42058182,
+    "unigram_w2": 595740,
+    "ppmi": 2.083294348692146
+  },
+  {
+    "w1": "Teherán",
+    "w2": "Teherán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 595740,
+    "unigram_w1": 595740,
+    "unigram_w2": 595740,
+    "ppmi": 10.447886086487266
+  }
+]

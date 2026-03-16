@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "正統カリフ時代",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 640,
+    "unigram_w2": 498928,
+    "ppmi": 2.451632131939951
+  },
+  {
+    "w1": "capital",
+    "w2": "マディーナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50,
+    "unigram_w1": 498928,
+    "unigram_w2": 5236,
+    "ppmi": 1.7412389397694346
+  },
+  {
+    "w1": "正統カリフ時代",
+    "w2": "マディーナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 640,
+    "unigram_w2": 5236,
+    "ppmi": 11.561907760800231
+  }
+]

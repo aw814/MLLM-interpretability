@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pablo Picasso",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 278674,
+    "unigram_w2": 14,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14,
+    "unigram_w2": 52196598,
+    "ppmi": 2.1874020246037356
+  },
+  {
+    "w1": "Pablo Picasso",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78214,
+    "unigram_w1": 278674,
+    "unigram_w2": 52196598,
+    "ppmi": 2.1616773124446165
+  }
+]

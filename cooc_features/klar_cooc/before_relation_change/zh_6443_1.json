@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "皮埃蒙特",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 1569,
+    "unigram_w2": 32140,
+    "ppmi": 3.0172305440804945
+  },
+  {
+    "w1": "capital",
+    "w2": "都灵",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54,
+    "unigram_w1": 32140,
+    "unigram_w2": 36991,
+    "ppmi": 1.4055060793712661
+  },
+  {
+    "w1": "皮埃蒙特",
+    "w2": "都灵",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 217,
+    "unigram_w1": 1569,
+    "unigram_w2": 36991,
+    "ppmi": 7.768622481246636
+  }
+]

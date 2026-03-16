@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Galileo Galilei",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4619,
+    "unigram_w1": 10908,
+    "unigram_w2": 74824954,
+    "ppmi": 1.0460526088605462
+  },
+  {
+    "w1": "work",
+    "w2": "mathematics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 580538,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1229912,
+    "ppmi": 1.2026940773589394
+  },
+  {
+    "w1": "Galileo Galilei",
+    "w2": "mathematics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1596,
+    "unigram_w1": 10908,
+    "unigram_w2": 1229912,
+    "ppmi": 5.439825201256038
+  }
+]

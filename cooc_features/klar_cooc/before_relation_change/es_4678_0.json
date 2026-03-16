@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Brahman",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1242,
+    "unigram_w1": 50346,
+    "unigram_w2": 979024,
+    "ppmi": 4.390084607759235
+  },
+  {
+    "w1": "religion",
+    "w2": "hinduismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11010,
+    "unigram_w1": 979024,
+    "unigram_w2": 196126,
+    "ppmi": 5.5763302602998985
+  },
+  {
+    "w1": "Brahman",
+    "w2": "hinduismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6278,
+    "unigram_w1": 50346,
+    "unigram_w2": 196126,
+    "ppmi": 9.047287886740358
+  }
+]

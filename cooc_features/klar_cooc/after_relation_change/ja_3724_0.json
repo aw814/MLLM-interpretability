@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Microsoft Windows 7",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 346,
+    "unigram_w1": 12272,
+    "unigram_w2": 270510,
+    "ppmi": 4.186327300753687
+  },
+  {
+    "w1": "developer",
+    "w2": "マイクロソフト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15308,
+    "unigram_w1": 270510,
+    "unigram_w2": 865310,
+    "ppmi": 3.513922476511051
+  },
+  {
+    "w1": "Microsoft Windows 7",
+    "w2": "マイクロソフト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5100,
+    "unigram_w1": 12272,
+    "unigram_w2": 865310,
+    "ppmi": 6.390445456971209
+  }
+]

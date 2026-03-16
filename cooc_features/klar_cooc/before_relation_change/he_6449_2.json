@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הראג' הבריטי",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 177,
+    "unigram_w2": 14610,
+    "ppmi": 3.25393454019881
+  },
+  {
+    "w1": "capital",
+    "w2": "קולקטה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 294,
+    "unigram_w1": 14610,
+    "unigram_w2": 804,
+    "ppmi": 8.270160743939243
+  },
+  {
+    "w1": "הראג' הבריטי",
+    "w2": "קולקטה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 177,
+    "unigram_w2": 804,
+    "ppmi": 10.607476408153055
+  }
+]

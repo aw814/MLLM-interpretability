@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נברסקה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17,
+    "unigram_w1": 2643,
+    "unigram_w2": 14610,
+    "ppmi": 2.441042221890577
+  },
+  {
+    "w1": "capital",
+    "w2": "לינקולן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 63,
+    "unigram_w1": 14610,
+    "unigram_w2": 13186,
+    "ppmi": 2.012100647759877
+  },
+  {
+    "w1": "נברסקה",
+    "w2": "לינקולן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 294,
+    "unigram_w1": 2643,
+    "unigram_w2": 13186,
+    "ppmi": 6.701200917145616
+  }
+]

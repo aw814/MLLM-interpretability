@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハワード・フィリップス・ラヴクラフト",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 1058,
+    "unigram_w2": 62696,
+    "ppmi": 3.3968945487115594
+  },
+  {
+    "w1": "occupation",
+    "w2": "ジャーナリスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1170,
+    "unigram_w1": 62696,
+    "unigram_w2": 776824,
+    "ppmi": 2.069083027308781
+  },
+  {
+    "w1": "ハワード・フィリップス・ラヴクラフト",
+    "w2": "ジャーナリスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 1058,
+    "unigram_w2": 776824,
+    "ppmi": 3.158069505182426
+  }
+]

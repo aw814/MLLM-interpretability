@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jaipur",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22128,
+    "unigram_w1": 185294,
+    "unigram_w2": 7450623,
+    "ppmi": 2.5480020803828656
+  },
+  {
+    "w1": "capital",
+    "w2": "Rajasthan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27289,
+    "unigram_w1": 7450623,
+    "unigram_w2": 227955,
+    "ppmi": 2.55151565949646
+  },
+  {
+    "w1": "Jaipur",
+    "w2": "Rajasthan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 55420,
+    "unigram_w1": 185294,
+    "unigram_w2": 227955,
+    "ppmi": 8.903075835337233
+  }
+]

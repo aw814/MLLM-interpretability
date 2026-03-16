@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boise",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13138,
+    "unigram_w1": 80664,
+    "unigram_w2": 42058182,
+    "ppmi": 1.68814695893452
+  },
+  {
+    "w1": "capital",
+    "w2": "Idaho",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54416,
+    "unigram_w1": 42058182,
+    "unigram_w2": 306368,
+    "ppmi": 1.8131634367414793
+  },
+  {
+    "w1": "Boise",
+    "w2": "Idaho",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29608,
+    "unigram_w1": 80664,
+    "unigram_w2": 306368,
+    "ppmi": 9.961365392237134
+  }
+]

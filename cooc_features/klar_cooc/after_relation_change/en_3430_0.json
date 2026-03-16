@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Decameron",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 517,
+    "unigram_w1": 1948,
+    "unigram_w2": 9241408,
+    "ppmi": 3.3893641787096835
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "The Decameron",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 709,
+    "unigram_w1": 1948,
+    "unigram_w2": 3499556,
+    "ppmi": 5.245926305494701
+  }
+]

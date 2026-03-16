@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Albania",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 127,
+    "unigram_w2": 1074632,
+    "ppmi": 3.4187069539982486
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Albania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2361,
+    "unigram_w1": 1074632,
+    "unigram_w2": 133441,
+    "ppmi": 2.586731487143986
+  },
+  {
+    "w1": "flag of Albania",
+    "w2": "Albania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 127,
+    "unigram_w2": 133441,
+    "ppmi": 11.416960434083897
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Quebec",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46667,
+    "unigram_w1": 511559,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8486956609084146
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Quebec",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 85678,
+    "unigram_w1": 511559,
+    "unigram_w2": 6382804,
+    "ppmi": 3.2591400652167053
+  }
+]

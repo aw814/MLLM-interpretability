@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ירושלים",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 771218,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "ישראל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2596927,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ירושלים",
+    "w2": "ישראל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 417154,
+    "unigram_w1": 771218,
+    "unigram_w2": 2596927,
+    "ppmi": 1.3612759735602624
+  }
+]

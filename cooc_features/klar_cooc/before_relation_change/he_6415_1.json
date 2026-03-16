@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הרפורדשייר",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 43,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "הרפורד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 14610,
+    "unigram_w2": 491,
+    "ppmi": 1.7819608759671142
+  },
+  {
+    "w1": "הרפורדשייר",
+    "w2": "הרפורד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 43,
+    "unigram_w2": 491,
+    "ppmi": 12.36028968039819
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שוואביה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 259,
+    "unigram_w2": 90246,
+    "ppmi": 3.6013869483733885
+  },
+  {
+    "w1": "בירה",
+    "w2": "אאוגסבורג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 762,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שוואביה",
+    "w2": "אאוגסבורג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 259,
+    "unigram_w2": 762,
+    "ppmi": 9.287681267680155
+  }
+]

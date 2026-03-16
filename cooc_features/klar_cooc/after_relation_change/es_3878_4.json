@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vientián",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2902,
+    "unigram_w1": 9140,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6511795908747158
+  },
+  {
+    "w1": "capital",
+    "w2": "Laos",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82408,
+    "unigram_w1": 42058182,
+    "unigram_w2": 514228,
+    "ppmi": 1.6647743720992556
+  },
+  {
+    "w1": "Vientián",
+    "w2": "Laos",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5812,
+    "unigram_w1": 9140,
+    "unigram_w2": 514228,
+    "ppmi": 10.00700128608041
+  }
+]

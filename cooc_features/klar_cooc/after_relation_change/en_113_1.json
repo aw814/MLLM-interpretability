@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edward Heath",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 639,
+    "unigram_w1": 3334,
+    "unigram_w2": 5281801,
+    "ppmi": 3.726838129807486
+  },
+  {
+    "w1": "died",
+    "w2": "Salisbury",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17701,
+    "unigram_w1": 5281801,
+    "unigram_w2": 182497,
+    "ppmi": 2.744234420897003
+  },
+  {
+    "w1": "Edward Heath",
+    "w2": "Salisbury",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 191,
+    "unigram_w1": 3334,
+    "unigram_w2": 182497,
+    "ppmi": 6.839680130288677
+  }
+]

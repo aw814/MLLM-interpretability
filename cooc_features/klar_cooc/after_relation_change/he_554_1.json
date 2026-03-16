@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שוודיה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1199,
+    "unigram_w1": 21800,
+    "unigram_w2": 236631,
+    "ppmi": 1.5195045151255422
+  },
+  {
+    "w1": "שפה",
+    "w2": "פינית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 6277,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שוודיה",
+    "w2": "פינית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 348,
+    "unigram_w1": 21800,
+    "unigram_w2": 6277,
+    "ppmi": 4.971252135686664
+  }
+]

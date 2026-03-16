@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John VIII Palaiologos",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41,
+    "unigram_w1": 71,
+    "unigram_w2": 5281801,
+    "ppmi": 5.31800928296031
+  },
+  {
+    "w1": "died",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17551,
+    "unigram_w1": 5281801,
+    "unigram_w2": 78199,
+    "ppmi": 3.9546074722514715
+  },
+  {
+    "w1": "John VIII Palaiologos",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 71,
+    "unigram_w2": 78199,
+    "ppmi": 11.710618598227354
+  }
+]

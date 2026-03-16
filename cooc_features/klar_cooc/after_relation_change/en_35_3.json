@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michelangelo",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6690,
+    "unigram_w1": 77082,
+    "unigram_w2": 5281801,
+    "ppmi": 2.583888508971985
+  },
+  {
+    "w1": "died",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 122770,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1168108,
+    "ppmi": 2.8600607027456006
+  },
+  {
+    "w1": "Michelangelo",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16441,
+    "unigram_w1": 77082,
+    "unigram_w2": 1168108,
+    "ppmi": 6.057964723349284
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Livres",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14972,
+    "unigram_w1": 18253672,
+    "unigram_w2": 364637,
+    "ppmi": 0.22110982065630522
+  },
+  {
+    "w1": "developer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26175,
+    "unigram_w1": 364637,
+    "unigram_w2": 4733635,
+    "ppmi": 2.974198744914837
+  },
+  {
+    "w1": "Livres",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 347878,
+    "unigram_w1": 18253672,
+    "unigram_w2": 4733635,
+    "ppmi": 1.0609368051212524
+  }
+]

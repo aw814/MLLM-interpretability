@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "热那亚省",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 44,
+    "unigram_w2": 596594,
+    "ppmi": 2.1517660060482027
+  },
+  {
+    "w1": "首都",
+    "w2": "热那亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 14178,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "热那亚省",
+    "w2": "热那亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 44,
+    "unigram_w2": 14178,
+    "ppmi": 12.00622115285844
+  }
+]

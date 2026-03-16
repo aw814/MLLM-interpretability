@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "캐나다",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1892,
+    "unigram_w1": 325933,
+    "unigram_w2": 36855,
+    "ppmi": 1.2972229392073997
+  },
+  {
+    "w1": "capital",
+    "w2": "오타와",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 118,
+    "unigram_w1": 36855,
+    "unigram_w2": 6411,
+    "ppmi": 2.962051825459798
+  },
+  {
+    "w1": "캐나다",
+    "w2": "오타와",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3319,
+    "unigram_w1": 325933,
+    "unigram_w2": 6411,
+    "ppmi": 4.63129852453602
+  }
+]

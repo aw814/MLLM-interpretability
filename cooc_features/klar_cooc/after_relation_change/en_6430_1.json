@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Egypt",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 301,
+    "unigram_w1": 1297,
+    "unigram_w2": 7450623,
+    "ppmi": 3.5065301924296204
+  },
+  {
+    "w1": "capital",
+    "w2": "Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39116,
+    "unigram_w1": 7450623,
+    "unigram_w2": 288395,
+    "ppmi": 2.731657880639904
+  },
+  {
+    "w1": "Kingdom of Egypt",
+    "w2": "Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 215,
+    "unigram_w1": 1297,
+    "unigram_w2": 288395,
+    "ppmi": 7.712346372527948
+  }
+]

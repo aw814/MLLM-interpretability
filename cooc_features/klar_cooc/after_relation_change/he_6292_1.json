@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יוון",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2192,
+    "unigram_w1": 79376,
+    "unigram_w2": 90246,
+    "ppmi": 1.9162501210707783
+  },
+  {
+    "w1": "בירה",
+    "w2": "אתונה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 22045,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "יוון",
+    "w2": "אתונה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9445,
+    "unigram_w1": 79376,
+    "unigram_w2": 22045,
+    "ppmi": 6.056964630852612
+  }
+]

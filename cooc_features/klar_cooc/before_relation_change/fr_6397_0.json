@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lettonie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19057,
+    "unigram_w1": 629590,
+    "unigram_w2": 7952962,
+    "ppmi": 0.9798347560298066
+  },
+  {
+    "w1": "capital",
+    "w2": "Riga",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6228,
+    "unigram_w1": 7952962,
+    "unigram_w2": 180556,
+    "ppmi": 1.1683208444152418
+  },
+  {
+    "w1": "Lettonie",
+    "w2": "Riga",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 60086,
+    "unigram_w1": 629590,
+    "unigram_w2": 180556,
+    "ppmi": 8.097516624249304
+  }
+]

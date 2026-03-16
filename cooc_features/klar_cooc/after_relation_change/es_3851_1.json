@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abuya",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6282,
+    "unigram_w1": 15408,
+    "unigram_w2": 42058182,
+    "ppmi": 3.011942476561909
+  },
+  {
+    "w1": "capital",
+    "w2": "Nigeria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 466008,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2117990,
+    "ppmi": 2.122057086106991
+  },
+  {
+    "w1": "Abuya",
+    "w2": "Nigeria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11252,
+    "unigram_w1": 15408,
+    "unigram_w2": 2117990,
+    "ppmi": 8.164446893110052
+  }
+]

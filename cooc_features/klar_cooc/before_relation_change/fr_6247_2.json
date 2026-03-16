@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "comté de Riverside",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 1929,
+    "unigram_w2": 7952962,
+    "ppmi": 1.178306215012788
+  },
+  {
+    "w1": "capital",
+    "w2": "Riverside",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5554,
+    "unigram_w1": 7952962,
+    "unigram_w2": 185806,
+    "ppmi": 0.9617283503727868
+  },
+  {
+    "w1": "comté de Riverside",
+    "w2": "Riverside",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1929,
+    "unigram_w1": 1929,
+    "unigram_w2": 185806,
+    "ppmi": 11.445477735488396
+  }
+]

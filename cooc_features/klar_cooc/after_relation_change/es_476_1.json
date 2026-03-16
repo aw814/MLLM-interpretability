@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Condado de Cork",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 442,
+    "unigram_w1": 6158,
+    "unigram_w2": 12196104,
+    "ppmi": 2.2919487759955355
+  },
+  {
+    "w1": "idioma",
+    "w2": "irlandés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 1192058,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Condado de Cork",
+    "w2": "irlandés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2208,
+    "unigram_w1": 6158,
+    "unigram_w2": 1192058,
+    "ppmi": 7.967464693754095
+  }
+]

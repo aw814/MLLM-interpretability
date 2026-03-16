@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Asturias",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 9793980,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 52196598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Asturias",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2024048,
+    "unigram_w1": 9793980,
+    "unigram_w2": 52196598,
+    "ppmi": 1.7201052004351545
+  }
+]

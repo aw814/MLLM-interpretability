@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ciudad de Kuwait",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1434,
+    "unigram_w1": 4902,
+    "unigram_w2": 42058182,
+    "ppmi": 2.5330007765884686
+  },
+  {
+    "w1": "capital",
+    "w2": "Kuwait",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 116084,
+    "unigram_w1": 42058182,
+    "unigram_w2": 618270,
+    "ppmi": 1.8932583700929513
+  },
+  {
+    "w1": "Ciudad de Kuwait",
+    "w2": "Kuwait",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4902,
+    "unigram_w1": 4902,
+    "unigram_w2": 618270,
+    "ppmi": 10.394331912108338
+  }
+]

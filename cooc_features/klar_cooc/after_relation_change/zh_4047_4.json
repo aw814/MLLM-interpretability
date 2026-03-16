@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "欧内斯特·沙克尔顿",
+    "w2": "说话",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 58,
+    "unigram_w2": 712969,
+    "ppmi": 2.0810892492760416
+  },
+  {
+    "w1": "说话",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 712969,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "欧内斯特·沙克尔顿",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 58,
+    "unigram_w2": 910574,
+    "ppmi": 1.143189831918329
+  }
+]

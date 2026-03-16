@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウェストバージニア州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 896,
+    "unigram_w1": 12634,
+    "unigram_w2": 2444276,
+    "ppmi": 2.341459539392477
+  },
+  {
+    "w1": "首都",
+    "w2": "チャールストン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 27960,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウェストバージニア州",
+    "w2": "チャールストン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2014,
+    "unigram_w1": 12634,
+    "unigram_w2": 27960,
+    "ppmi": 9.959851613368842
+  }
+]

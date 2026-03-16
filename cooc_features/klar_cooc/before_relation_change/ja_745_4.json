@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アルバニア",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 67774,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "アルバニア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 62,
+    "unigram_w2": 8252,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アルバニア",
+    "w2": "アルバニア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8252,
+    "unigram_w1": 67774,
+    "unigram_w2": 8252,
+    "ppmi": 11.331659941586803
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Îles Cook",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1635,
+    "unigram_w1": 188763,
+    "unigram_w2": 3399010,
+    "ppmi": 0.40109056437790047
+  },
+  {
+    "w1": "continent",
+    "w2": "Océanie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23980,
+    "unigram_w1": 3399010,
+    "unigram_w2": 413354,
+    "ppmi": 3.1447578400096585
+  },
+  {
+    "w1": "Îles Cook",
+    "w2": "Océanie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4998,
+    "unigram_w1": 188763,
+    "unigram_w2": 413354,
+    "ppmi": 5.052815683581852
+  }
+]

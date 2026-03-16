@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "로잔",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 154,
+    "unigram_w1": 3049,
+    "unigram_w2": 250699,
+    "ppmi": 1.6523845972046696
+  },
+  {
+    "w1": "언어",
+    "w2": "프랑스어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 65940,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "로잔",
+    "w2": "프랑스어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 3049,
+    "unigram_w2": 65940,
+    "ppmi": 3.3010131926542754
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tokugawa Shogunate",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 433,
+    "unigram_w1": 4843,
+    "unigram_w2": 2269436,
+    "ppmi": 3.8454384681014675
+  },
+  {
+    "w1": "religion",
+    "w2": "Buddhism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82478,
+    "unigram_w1": 2269436,
+    "unigram_w2": 280621,
+    "ppmi": 5.562358819785027
+  },
+  {
+    "w1": "Tokugawa Shogunate",
+    "w2": "Buddhism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 567,
+    "unigram_w1": 4843,
+    "unigram_w2": 280621,
+    "ppmi": 7.2500591011628455
+  }
+]

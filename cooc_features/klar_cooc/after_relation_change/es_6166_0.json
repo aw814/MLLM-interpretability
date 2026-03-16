@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indiana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 219466,
+    "unigram_w1": 1485804,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5471517793194052
+  },
+  {
+    "w1": "capital",
+    "w2": "Indianápolis",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21376,
+    "unigram_w1": 42058182,
+    "unigram_w2": 233796,
+    "ppmi": 0.8551398076821064
+  },
+  {
+    "w1": "Indiana",
+    "w2": "Indianápolis",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37862,
+    "unigram_w1": 1485804,
+    "unigram_w2": 233796,
+    "ppmi": 6.502969285342673
+  }
+]

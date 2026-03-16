@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "明",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 133804,
+    "unigram_w1": 68852526,
+    "unigram_w2": 498928,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "南京市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 508,
+    "unigram_w1": 498928,
+    "unigram_w2": 27814,
+    "ppmi": 2.6767932020225262
+  },
+  {
+    "w1": "明",
+    "w2": "南京市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22120,
+    "unigram_w1": 68852526,
+    "unigram_w2": 27814,
+    "ppmi": 1.0126381430874762
+  }
+]

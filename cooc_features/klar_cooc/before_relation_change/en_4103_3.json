@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kristin Scott Thomas",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3948,
+    "unigram_w2": 4,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 4,
+    "unigram_w2": 6382804,
+    "ppmi": 3.8370439977093187
+  },
+  {
+    "w1": "Kristin Scott Thomas",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 921,
+    "unigram_w1": 3948,
+    "unigram_w2": 6382804,
+    "ppmi": 3.737195069344257
+  }
+]

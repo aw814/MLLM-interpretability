@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "苏克雷",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 413,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "玻利维亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 22554,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "苏克雷",
+    "w2": "玻利维亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 171,
+    "unigram_w1": 413,
+    "unigram_w2": 22554,
+    "ppmi": 10.064346410255723
+  }
+]

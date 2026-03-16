@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "比吉斯",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 163,
+    "unigram_w2": 6418768,
+    "ppmi": 0.004919428288258429
+  },
+  {
+    "w1": "位置",
+    "w2": "曼彻斯特",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 36384,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "比吉斯",
+    "w2": "曼彻斯特",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 163,
+    "unigram_w2": 36384,
+    "ppmi": 3.2978428744301187
+  }
+]

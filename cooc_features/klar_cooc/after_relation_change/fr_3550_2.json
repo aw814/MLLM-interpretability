@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume-Uni de Grande-Bretagne et d'Irlande",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 775,
+    "unigram_w1": 14717,
+    "unigram_w2": 3399010,
+    "ppmi": 3.0050886305772373
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Royaume-Uni de Grande-Bretagne et d'Irlande",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2715,
+    "unigram_w1": 14717,
+    "unigram_w2": 18211758,
+    "ppmi": 2.3920889306680913
+  }
+]

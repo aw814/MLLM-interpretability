@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'יבוטי",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 1638,
+    "unigram_w2": 2719,
+    "ppmi": 4.054591071028056
+  },
+  {
+    "w1": "continent",
+    "w2": "אפריקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 332,
+    "unigram_w1": 2719,
+    "unigram_w2": 150565,
+    "ppmi": 3.322360725507376
+  },
+  {
+    "w1": "ג'יבוטי",
+    "w2": "אפריקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1202,
+    "unigram_w1": 1638,
+    "unigram_w2": 150565,
+    "ppmi": 5.909683269255388
+  }
+]

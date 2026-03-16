@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ステファン・バナフ",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 32,
+    "unigram_w2": 30190082,
+    "ppmi": 0.1174954036196976
+  },
+  {
+    "w1": "仕事",
+    "w2": "数学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 1353590,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ステファン・バナフ",
+    "w2": "数学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 32,
+    "unigram_w2": 1353590,
+    "ppmi": 6.819099779915606
+  }
+]

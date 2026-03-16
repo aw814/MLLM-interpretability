@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קרואטיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 21853,
+    "unigram_w2": 14610,
+    "ppmi": 1.236733700467434
+  },
+  {
+    "w1": "capital",
+    "w2": "זאגרב",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 305,
+    "unigram_w1": 14610,
+    "unigram_w2": 5656,
+    "ppmi": 5.508639117922657
+  },
+  {
+    "w1": "קרואטיה",
+    "w2": "זאגרב",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2021,
+    "unigram_w1": 21853,
+    "unigram_w2": 5656,
+    "ppmi": 7.655952122165745
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウェセックス",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 3994,
+    "unigram_w2": 498928,
+    "ppmi": 0.8099416093833405
+  },
+  {
+    "w1": "capital",
+    "w2": "ウィンチェスター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 498928,
+    "unigram_w2": 26372,
+    "ppmi": 0.408768955692829
+  },
+  {
+    "w1": "ウェセックス",
+    "w2": "ウィンチェスター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 410,
+    "unigram_w1": 3994,
+    "unigram_w2": 26372,
+    "ppmi": 9.40924635854489
+  }
+]

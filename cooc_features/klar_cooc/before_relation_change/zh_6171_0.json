@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "普利亚",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 1604,
+    "unigram_w2": 32140,
+    "ppmi": 4.0849374281445865
+  },
+  {
+    "w1": "capital",
+    "w2": "巴里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 146,
+    "unigram_w1": 32140,
+    "unigram_w2": 203950,
+    "ppmi": 0.37747383630375736
+  },
+  {
+    "w1": "普利亚",
+    "w2": "巴里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 228,
+    "unigram_w1": 1604,
+    "unigram_w2": 203950,
+    "ppmi": 5.345163173696018
+  }
+]

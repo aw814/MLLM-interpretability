@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Egipto",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 708,
+    "unigram_w1": 2660,
+    "unigram_w2": 42058182,
+    "ppmi": 2.396721256447849
+  },
+  {
+    "w1": "capital",
+    "w2": "El Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 169340,
+    "unigram_w1": 42058182,
+    "unigram_w2": 710664,
+    "ppmi": 2.237081412165681
+  },
+  {
+    "w1": "Reino de Egipto",
+    "w2": "El Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 526,
+    "unigram_w1": 2660,
+    "unigram_w2": 710664,
+    "ppmi": 7.8551097563894725
+  }
+]

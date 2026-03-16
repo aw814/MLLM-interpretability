@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "도나토 브라만테",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 18,
+    "unigram_w2": 37935,
+    "ppmi": 4.514148288735538
+  },
+  {
+    "w1": "죽었다",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 99776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "도나토 브라만테",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 18,
+    "unigram_w2": 99776,
+    "ppmi": 7.025875588918029
+  }
+]

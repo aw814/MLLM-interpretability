@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "尼泊尔",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 76335,
+    "unigram_w2": 1361,
+    "ppmi": 2.1670791444637327
+  },
+  {
+    "w1": "continent",
+    "w2": "亚洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1361,
+    "unigram_w2": 3645973,
+    "ppmi": 0.30350928675278604
+  },
+  {
+    "w1": "尼泊尔",
+    "w2": "亚洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11045,
+    "unigram_w1": 76335,
+    "unigram_w2": 3645973,
+    "ppmi": 1.2107638472475781
+  }
+]

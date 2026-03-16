@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "British Columbia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 45432,
+    "unigram_w1": 566463,
+    "unigram_w2": 7450623,
+    "ppmi": 1.973672276154772
+  },
+  {
+    "w1": "capital",
+    "w2": "Victoria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 120237,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1716697,
+    "ppmi": 1.778190679936083
+  },
+  {
+    "w1": "British Columbia",
+    "w2": "Victoria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 57180,
+    "unigram_w1": 566463,
+    "unigram_w2": 1716697,
+    "ppmi": 4.423199720310763
+  }
+]

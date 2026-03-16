@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אדוורד גריג",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 125,
+    "unigram_w2": 2401,
+    "ppmi": 5.3610046750801645
+  },
+  {
+    "w1": "instrument",
+    "w2": "פסנתר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 2401,
+    "unigram_w2": 37499,
+    "ppmi": 3.417626675827256
+  },
+  {
+    "w1": "אדוורד גריג",
+    "w2": "פסנתר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 125,
+    "unigram_w2": 37499,
+    "ppmi": 6.039716050308062
+  }
+]

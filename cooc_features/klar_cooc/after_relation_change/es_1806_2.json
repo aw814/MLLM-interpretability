@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "William Harvey",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3892,
+    "unigram_w1": 8716,
+    "unigram_w2": 128711420,
+    "ppmi": 1.5294900820086612
+  },
+  {
+    "w1": "trabajo",
+    "w2": "fisiología",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 979288,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "William Harvey",
+    "w2": "fisiología",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1876,
+    "unigram_w1": 8716,
+    "unigram_w2": 979288,
+    "ppmi": 7.514829341477443
+  }
+]

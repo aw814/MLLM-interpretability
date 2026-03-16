@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "텍사스주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 51,
+    "unigram_w1": 7370,
+    "unigram_w2": 36855,
+    "ppmi": 1.5507189074679877
+  },
+  {
+    "w1": "capital",
+    "w2": "오스틴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 120,
+    "unigram_w1": 36855,
+    "unigram_w2": 12092,
+    "ppmi": 2.0708678014597353
+  },
+  {
+    "w1": "텍사스주",
+    "w2": "오스틴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 495,
+    "unigram_w1": 7370,
+    "unigram_w2": 12092,
+    "ppmi": 6.43738575480644
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "איחוד האמירויות הערביות",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 6247,
+    "unigram_w2": 2719,
+    "ppmi": 2.3457553194399985
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "איחוד האמירויות הערביות",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 684,
+    "unigram_w1": 6247,
+    "unigram_w2": 100491,
+    "ppmi": 3.7484065748081288
+  }
+]

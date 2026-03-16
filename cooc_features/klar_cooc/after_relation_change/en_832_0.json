@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Belarus",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21366,
+    "unigram_w1": 181869,
+    "unigram_w2": 9241408,
+    "ppmi": 2.2136107639518556
+  },
+  {
+    "w1": "language",
+    "w2": "Belarusian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6066,
+    "unigram_w1": 9241408,
+    "unigram_w2": 44697,
+    "ppmi": 2.4217610705630612
+  },
+  {
+    "w1": "Belarus",
+    "w2": "Belarusian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26011,
+    "unigram_w1": 181869,
+    "unigram_w2": 44697,
+    "ppmi": 10.189206648492798
+  }
+]

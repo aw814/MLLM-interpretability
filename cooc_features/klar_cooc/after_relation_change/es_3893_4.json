@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kampala",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18836,
+    "unigram_w1": 52736,
+    "unigram_w2": 42058182,
+    "ppmi": 2.821030716869713
+  },
+  {
+    "w1": "capital",
+    "w2": "Uganda",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 104116,
+    "unigram_w1": 42058182,
+    "unigram_w2": 615012,
+    "ppmi": 1.743903467899365
+  },
+  {
+    "w1": "Kampala",
+    "w2": "Uganda",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35462,
+    "unigram_w1": 52736,
+    "unigram_w2": 615012,
+    "ppmi": 9.829440112511527
+  }
+]

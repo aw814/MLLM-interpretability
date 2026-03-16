@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oslo",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 40845,
+    "unigram_w1": 406576,
+    "unigram_w2": 9137640,
+    "ppmi": 2.5102314572635915
+  },
+  {
+    "w1": "capitale",
+    "w2": "Norvège",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1687140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Oslo",
+    "w2": "Norvège",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 112904,
+    "unigram_w1": 406576,
+    "unigram_w2": 1687140,
+    "ppmi": 6.414338579066088
+  }
+]

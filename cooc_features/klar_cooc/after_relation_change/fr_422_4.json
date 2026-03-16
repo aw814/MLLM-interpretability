@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oblast autonome juif",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 75,
+    "unigram_w1": 330,
+    "unigram_w2": 12749290,
+    "ppmi": 3.207498205042004
+  },
+  {
+    "w1": "langue",
+    "w2": "russe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5543562,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Oblast autonome juif",
+    "w2": "russe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 155,
+    "unigram_w1": 330,
+    "unigram_w2": 5543562,
+    "ppmi": 5.4563356474240186
+  }
+]

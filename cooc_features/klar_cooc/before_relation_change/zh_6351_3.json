@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "霍达兰",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 55,
+    "unigram_w2": 32140,
+    "ppmi": 5.044145545466328
+  },
+  {
+    "w1": "capital",
+    "w2": "卑尔根",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 32140,
+    "unigram_w2": 4678,
+    "ppmi": 1.8037541140808728
+  },
+  {
+    "w1": "霍达兰",
+    "w2": "卑尔根",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 55,
+    "unigram_w2": 4678,
+    "ppmi": 12.912014548926697
+  }
+]

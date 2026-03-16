@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威尔斯",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 311,
+    "unigram_w1": 8839,
+    "unigram_w2": 596594,
+    "ppmi": 1.7823009505652998
+  },
+  {
+    "w1": "首都",
+    "w2": "加迪夫",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 924,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "威尔斯",
+    "w2": "加迪夫",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 8839,
+    "unigram_w2": 924,
+    "ppmi": 4.836171081886584
+  }
+]

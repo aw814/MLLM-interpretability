@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anaxagore de Clazomènes",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 218,
+    "unigram_w1": 651,
+    "unigram_w2": 57128353,
+    "ppmi": 1.602882289051887
+  },
+  {
+    "w1": "travail",
+    "w2": "astronomie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 350007,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Anaxagore de Clazomènes",
+    "w2": "astronomie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 651,
+    "unigram_w2": 350007,
+    "ppmi": 5.992732238323844
+  }
+]

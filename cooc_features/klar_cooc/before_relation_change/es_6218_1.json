@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio Habsburgo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 796,
+    "unigram_w1": 1982,
+    "unigram_w2": 42058182,
+    "ppmi": 2.9902096101105644
+  },
+  {
+    "w1": "capital",
+    "w2": "Viena",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 404152,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1974546,
+    "ppmi": 2.01777515098572
+  },
+  {
+    "w1": "Imperio Habsburgo",
+    "w2": "Viena",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 746,
+    "unigram_w1": 1982,
+    "unigram_w2": 1974546,
+    "ppmi": 7.309410416503587
+  }
+]

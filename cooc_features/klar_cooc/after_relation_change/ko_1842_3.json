@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "파라셀수스",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 51,
+    "unigram_w2": 255115,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "작업",
+    "w2": "의학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 62905,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "파라셀수스",
+    "w2": "의학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 51,
+    "unigram_w2": 62905,
+    "ppmi": 5.866965292462337
+  }
+]

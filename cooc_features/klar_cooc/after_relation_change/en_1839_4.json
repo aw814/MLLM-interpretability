@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Enrico Fermi",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3012,
+    "unigram_w1": 5798,
+    "unigram_w2": 74824954,
+    "ppmi": 1.340953199537304
+  },
+  {
+    "w1": "work",
+    "w2": "physics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 697033,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1537230,
+    "ppmi": 1.1447525911407226
+  },
+  {
+    "w1": "Enrico Fermi",
+    "w2": "physics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2770,
+    "unigram_w1": 5798,
+    "unigram_w2": 1537230,
+    "ppmi": 6.825231950610411
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "British Empire",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6306,
+    "unigram_w1": 102827,
+    "unigram_w2": 965266,
+    "ppmi": 4.534885723904748
+  },
+  {
+    "w1": "continent",
+    "w2": "Americas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24362,
+    "unigram_w1": 965266,
+    "unigram_w2": 560833,
+    "ppmi": 4.037369116229283
+  },
+  {
+    "w1": "British Empire",
+    "w2": "Americas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2515,
+    "unigram_w1": 102827,
+    "unigram_w2": 560833,
+    "ppmi": 3.9920742754896548
+  }
+]

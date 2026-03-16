@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ruanda",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17074,
+    "unigram_w1": 358112,
+    "unigram_w2": 12196104,
+    "ppmi": 1.7017544953085997
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ruanda",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44688,
+    "unigram_w1": 358112,
+    "unigram_w2": 30884572,
+    "ppmi": 1.749374909593025
+  }
+]

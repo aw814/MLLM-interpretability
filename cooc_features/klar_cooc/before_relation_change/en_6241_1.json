@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kerman Province",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 258,
+    "unigram_w1": 1331,
+    "unigram_w2": 7450623,
+    "ppmi": 3.2468056794329803
+  },
+  {
+    "w1": "capital",
+    "w2": "Kerman",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1423,
+    "unigram_w1": 7450623,
+    "unigram_w2": 13014,
+    "ppmi": 2.42081638805467
+  },
+  {
+    "w1": "Kerman Province",
+    "w2": "Kerman",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1331,
+    "unigram_w1": 1331,
+    "unigram_w2": 13014,
+    "ppmi": 14.775026075545538
+  }
+]

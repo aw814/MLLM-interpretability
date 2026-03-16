@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ミンスク州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 188,
+    "unigram_w2": 498928,
+    "ppmi": 1.8970432802623134
+  },
+  {
+    "w1": "capital",
+    "w2": "ミンスク",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 692,
+    "unigram_w1": 498928,
+    "unigram_w2": 19078,
+    "ppmi": 3.6666380425055123
+  },
+  {
+    "w1": "ミンスク州",
+    "w2": "ミンスク",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 188,
+    "unigram_w1": 188,
+    "unigram_w2": 19078,
+    "ppmi": 13.1604819254341
+  }
+]

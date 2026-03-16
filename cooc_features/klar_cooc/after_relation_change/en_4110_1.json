@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jean Sibelius",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 151,
+    "unigram_w1": 4087,
+    "unigram_w2": 3469075,
+    "ppmi": 1.958261524473814
+  },
+  {
+    "w1": "spoke",
+    "w2": "Finnish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8490,
+    "unigram_w1": 3469075,
+    "unigram_w2": 386490,
+    "ppmi": 1.2081605906736956
+  },
+  {
+    "w1": "Jean Sibelius",
+    "w2": "Finnish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1882,
+    "unigram_w1": 4087,
+    "unigram_w2": 386490,
+    "ppmi": 8.763955737710749
+  }
+]

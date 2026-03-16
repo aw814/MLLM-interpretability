@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴伐利亚王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 76,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "慕尼黑",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 183,
+    "unigram_w1": 32140,
+    "unigram_w2": 86148,
+    "ppmi": 1.946675414294219
+  },
+  {
+    "w1": "巴伐利亚王国",
+    "w2": "慕尼黑",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31,
+    "unigram_w1": 76,
+    "unigram_w2": 86148,
+    "ppmi": 8.109326681515922
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gregory XVI",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 547,
+    "unigram_w1": 1436,
+    "unigram_w2": 5281801,
+    "ppmi": 4.717761386816414
+  },
+  {
+    "w1": "died",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 122770,
+    "unigram_w1": 5281801,
+    "unigram_w2": 1168108,
+    "ppmi": 2.8600607027456006
+  },
+  {
+    "w1": "Gregory XVI",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 804,
+    "unigram_w1": 1436,
+    "unigram_w2": 1168108,
+    "ppmi": 7.450272334035904
+  }
+]

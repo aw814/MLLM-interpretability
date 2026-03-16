@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Virginie Ledoyen",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33,
+    "unigram_w1": 413,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6575178184160992
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Virginie Ledoyen",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 225,
+    "unigram_w1": 413,
+    "unigram_w2": 6382804,
+    "ppmi": 4.96082721750691
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Central Macedonia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 486,
+    "unigram_w1": 1931,
+    "unigram_w2": 7450623,
+    "ppmi": 3.6235533345767483
+  },
+  {
+    "w1": "capital",
+    "w2": "Thessaloniki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7695,
+    "unigram_w1": 7450623,
+    "unigram_w2": 61540,
+    "ppmi": 2.6143420679162834
+  },
+  {
+    "w1": "Central Macedonia",
+    "w2": "Thessaloniki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 915,
+    "unigram_w1": 1931,
+    "unigram_w2": 61540,
+    "ppmi": 11.456061574938817
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קטלוניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 8340,
+    "unigram_w2": 14610,
+    "ppmi": 1.3395646117245061
+  },
+  {
+    "w1": "capital",
+    "w2": "ברצלונה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 644,
+    "unigram_w1": 14610,
+    "unigram_w2": 74291,
+    "ppmi": 2.871557143114416
+  },
+  {
+    "w1": "קטלוניה",
+    "w2": "ברצלונה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5019,
+    "unigram_w1": 8340,
+    "unigram_w2": 74291,
+    "ppmi": 6.642661385118142
+  }
+]

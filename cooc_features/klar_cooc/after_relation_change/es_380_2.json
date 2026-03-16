@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ereván",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2690,
+    "unigram_w1": 43788,
+    "unigram_w2": 12196104,
+    "ppmi": 2.0674348897872696
+  },
+  {
+    "w1": "idioma",
+    "w2": "armenio",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 318136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ereván",
+    "w2": "armenio",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19654,
+    "unigram_w1": 43788,
+    "unigram_w2": 318136,
+    "ppmi": 10.197212685207187
+  }
+]

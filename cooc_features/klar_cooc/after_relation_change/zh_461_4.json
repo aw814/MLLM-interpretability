@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "米凯利",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 1017,
+    "unigram_w2": 919361,
+    "ppmi": 0.1671366634807961
+  },
+  {
+    "w1": "语言",
+    "w2": "芬兰语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 4869,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "米凯利",
+    "w2": "芬兰语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 1017,
+    "unigram_w2": 4869,
+    "ppmi": 3.5580738184268164
+  }
+]

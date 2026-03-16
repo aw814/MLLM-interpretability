@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Philipp Lenard",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 142,
+    "unigram_w1": 196,
+    "unigram_w2": 74824954,
+    "ppmi": 1.8208240383162466
+  },
+  {
+    "w1": "work",
+    "w2": "physics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 697033,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1537230,
+    "ppmi": 1.1447525911407226
+  },
+  {
+    "w1": "Philipp Lenard",
+    "w2": "physics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 151,
+    "unigram_w1": 196,
+    "unigram_w2": 1537230,
+    "ppmi": 7.514596202945128
+  }
+]

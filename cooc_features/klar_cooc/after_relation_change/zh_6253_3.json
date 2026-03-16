@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "大不列颠王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 93,
+    "unigram_w2": 596594,
+    "ppmi": 2.657001314298625
+  },
+  {
+    "w1": "首都",
+    "w2": "伦敦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 370565,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "大不列颠王国",
+    "w2": "伦敦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 93,
+    "unigram_w2": 370565,
+    "ppmi": 4.846524498534237
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハンプシャー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66,
+    "unigram_w1": 11002,
+    "unigram_w2": 498928,
+    "ppmi": 1.0705480636530764
+  },
+  {
+    "w1": "capital",
+    "w2": "ウィンチェスター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 498928,
+    "unigram_w2": 26372,
+    "ppmi": 0.408768955692829
+  },
+  {
+    "w1": "ハンプシャー",
+    "w2": "ウィンチェスター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 444,
+    "unigram_w1": 11002,
+    "unigram_w2": 26372,
+    "ppmi": 8.062322555188194
+  }
+]

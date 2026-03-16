@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドバイ首長国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42,
+    "unigram_w1": 2268,
+    "unigram_w2": 498928,
+    "ppmi": 2.6967446297764823
+  },
+  {
+    "w1": "capital",
+    "w2": "ドバイ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3414,
+    "unigram_w1": 498928,
+    "unigram_w2": 335724,
+    "ppmi": 1.8319633254455496
+  },
+  {
+    "w1": "ドバイ首長国",
+    "w2": "ドバイ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2268,
+    "unigram_w1": 2268,
+    "unigram_w2": 335724,
+    "ppmi": 9.023188092983123
+  }
+]

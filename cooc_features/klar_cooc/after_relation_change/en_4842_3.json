@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Shard",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 343,
+    "unigram_w1": 24316,
+    "unigram_w2": 1657738,
+    "ppmi": 1.634464795663433
+  },
+  {
+    "w1": "owns",
+    "w2": "Qatar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6398,
+    "unigram_w1": 1657738,
+    "unigram_w2": 403981,
+    "ppmi": 1.8014956937538253
+  },
+  {
+    "w1": "The Shard",
+    "w2": "Qatar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 353,
+    "unigram_w1": 24316,
+    "unigram_w2": 403981,
+    "ppmi": 3.712781067464397
+  }
+]

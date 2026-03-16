@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Intel Core 2",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 311,
+    "unigram_w1": 47473,
+    "unigram_w2": 364637,
+    "ppmi": 3.2187650334379563
+  },
+  {
+    "w1": "developer",
+    "w2": "Intel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9840,
+    "unigram_w1": 364637,
+    "unigram_w2": 1345052,
+    "ppmi": 3.378025947050456
+  },
+  {
+    "w1": "Intel Core 2",
+    "w2": "Intel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47473,
+    "unigram_w1": 47473,
+    "unigram_w2": 1345052,
+    "ppmi": 8.589684781453348
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pechora",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 8120,
+    "unigram_w2": 91062,
+    "ppmi": 4.340308854806028
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Pechora",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1644,
+    "unigram_w1": 8120,
+    "unigram_w2": 39895658,
+    "ppmi": 2.078211557218101
+  }
+]

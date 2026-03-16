@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ピエール・ベール",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 450,
+    "unigram_w2": 3715876,
+    "ppmi": 3.6952484330334596
+  },
+  {
+    "w1": "言語",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 915136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ピエール・ベール",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54,
+    "unigram_w1": 450,
+    "unigram_w2": 915136,
+    "ppmi": 4.517583918191385
+  }
+]

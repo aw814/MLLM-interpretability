@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carlos Fuentes",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 112,
+    "unigram_w1": 2159,
+    "unigram_w2": 3469075,
+    "ppmi": 2.4478907072044924
+  },
+  {
+    "w1": "spoke",
+    "w2": "Spanish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 107000,
+    "unigram_w1": 3469075,
+    "unigram_w2": 3113420,
+    "ppmi": 1.8538658055779875
+  },
+  {
+    "w1": "Carlos Fuentes",
+    "w2": "Spanish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 720,
+    "unigram_w1": 2159,
+    "unigram_w2": 3113420,
+    "ppmi": 5.288439703591498
+  }
+]

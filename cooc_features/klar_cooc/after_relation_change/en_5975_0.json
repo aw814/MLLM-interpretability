@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Parliament of Sweden",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 110,
+    "unigram_w2": 1074632,
+    "ppmi": 3.6260319272457546
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Sweden",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11042,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1251811,
+    "ppmi": 1.5825201984386337
+  },
+  {
+    "w1": "Parliament of Sweden",
+    "w2": "Sweden",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 110,
+    "unigram_w1": 110,
+    "unigram_w2": 1251811,
+    "ppmi": 8.18721758581525
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Second French Empire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 158,
+    "unigram_w1": 687,
+    "unigram_w2": 7450623,
+    "ppmi": 3.4934877392806207
+  },
+  {
+    "w1": "capital",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 270142,
+    "unigram_w1": 7450623,
+    "unigram_w2": 3039340,
+    "ppmi": 2.121905070605225
+  },
+  {
+    "w1": "Second French Empire",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 359,
+    "unigram_w1": 687,
+    "unigram_w2": 3039340,
+    "ppmi": 5.971150016642811
+  }
+]

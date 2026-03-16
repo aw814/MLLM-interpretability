@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "royaume de Sicile",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 177,
+    "unigram_w1": 4539,
+    "unigram_w2": 7952962,
+    "ppmi": 1.3453012297492235
+  },
+  {
+    "w1": "capital",
+    "w2": "Palerme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4994,
+    "unigram_w1": 7952962,
+    "unigram_w2": 236789,
+    "ppmi": 0.45859202176909275
+  },
+  {
+    "w1": "royaume de Sicile",
+    "w2": "Palerme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1155,
+    "unigram_w1": 4539,
+    "unigram_w2": 236789,
+    "ppmi": 9.121191126140861
+  }
+]

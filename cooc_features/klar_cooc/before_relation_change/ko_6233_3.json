@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "캘리포니아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 189,
+    "unigram_w1": 19953,
+    "unigram_w2": 36855,
+    "ppmi": 2.0036668373903774
+  },
+  {
+    "w1": "capital",
+    "w2": "새크라멘토",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 36855,
+    "unigram_w2": 4782,
+    "ppmi": 2.568433245225069
+  },
+  {
+    "w1": "캘리포니아주",
+    "w2": "새크라멘토",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 307,
+    "unigram_w1": 19953,
+    "unigram_w2": 4782,
+    "ppmi": 5.649693581798539
+  }
+]

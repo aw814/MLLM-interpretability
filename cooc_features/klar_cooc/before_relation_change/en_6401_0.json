@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Democratic Republic of Afghanistan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 96,
+    "unigram_w1": 343,
+    "unigram_w2": 7450623,
+    "ppmi": 3.7767710144699618
+  },
+  {
+    "w1": "capital",
+    "w2": "Kabul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22304,
+    "unigram_w1": 7450623,
+    "unigram_w2": 100334,
+    "ppmi": 3.4444370791076944
+  },
+  {
+    "w1": "Democratic Republic of Afghanistan",
+    "w2": "Kabul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 163,
+    "unigram_w1": 343,
+    "unigram_w2": 100334,
+    "ppmi": 10.755015255314888
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Frankfurt School",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8606,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Frankfurt am Main",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 28825,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Frankfurt School",
+    "w2": "Frankfurt am Main",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 8606,
+    "unigram_w2": 28825,
+    "ppmi": 8.357542701484467
+  }
+]

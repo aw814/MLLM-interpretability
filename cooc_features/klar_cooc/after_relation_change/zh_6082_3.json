@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "晚邮报",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1519,
+    "unigram_w1": 2758,
+    "unigram_w2": 6418768,
+    "ppmi": 2.3232219940651264
+  },
+  {
+    "w1": "位置",
+    "w2": "意大利",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 685918,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "晚邮报",
+    "w2": "意大利",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2117,
+    "unigram_w1": 2758,
+    "unigram_w2": 685918,
+    "ppmi": 6.028309789947407
+  }
+]

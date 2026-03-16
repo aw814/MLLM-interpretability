@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gmail",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6186,
+    "unigram_w1": 279858,
+    "unigram_w2": 270510,
+    "ppmi": 3.8352374951760444
+  },
+  {
+    "w1": "developer",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72998,
+    "unigram_w1": 270510,
+    "unigram_w2": 4618040,
+    "ppmi": 3.351501919071128
+  },
+  {
+    "w1": "Gmail",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 124726,
+    "unigram_w1": 279858,
+    "unigram_w2": 4618040,
+    "ppmi": 4.07532225105879
+  }
+]

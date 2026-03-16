@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alexandra of Denmark",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 623,
+    "unigram_w2": 737500,
+    "ppmi": 2.2523935378374698
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Denmark",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9372,
+    "unigram_w1": 737500,
+    "unigram_w2": 859650,
+    "ppmi": 2.431270757591765
+  },
+  {
+    "w1": "Alexandra of Denmark",
+    "w2": "Denmark",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 623,
+    "unigram_w1": 623,
+    "unigram_w2": 859650,
+    "ppmi": 8.729413042527282
+  }
+]

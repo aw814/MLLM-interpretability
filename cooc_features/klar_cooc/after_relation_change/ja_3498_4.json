@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウォリス・フツナ",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 2722,
+    "unigram_w2": 48638,
+    "ppmi": 2.3998566052320953
+  },
+  {
+    "w1": "continent",
+    "w2": "オセアニア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 196,
+    "unigram_w1": 48638,
+    "unigram_w2": 177686,
+    "ppmi": 1.9860473114871071
+  },
+  {
+    "w1": "ウォリス・フツナ",
+    "w2": "オセアニア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 2722,
+    "unigram_w2": 177686,
+    "ppmi": 7.513675976331387
+  }
+]

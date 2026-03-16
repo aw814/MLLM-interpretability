@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of the Netherlands",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8985,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 1528017,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kingdom of the Netherlands",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4590,
+    "unigram_w1": 8985,
+    "unigram_w2": 1528017,
+    "ppmi": 6.930549400307785
+  }
+]

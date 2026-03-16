@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פיקאסה",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 473,
+    "unigram_w2": 7399,
+    "ppmi": 2.8173976911929857
+  },
+  {
+    "w1": "developer",
+    "w2": "חברת גוגל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 7399,
+    "unigram_w2": 4201,
+    "ppmi": 2.3670167121869556
+  },
+  {
+    "w1": "פיקאסה",
+    "w2": "חברת גוגל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 473,
+    "unigram_w2": 4201,
+    "ppmi": 6.721458045397095
+  }
+]

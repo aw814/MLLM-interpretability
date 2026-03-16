@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מוחמד עלי",
+    "w2": "דיבר",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 305,
+    "unigram_w1": 8043,
+    "unigram_w2": 141832,
+    "ppmi": 1.7215325325066146
+  },
+  {
+    "w1": "דיבר",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 141832,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מוחמד עלי",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 322,
+    "unigram_w1": 8043,
+    "unigram_w2": 231817,
+    "ppmi": 1.0909806785472
+  }
+]

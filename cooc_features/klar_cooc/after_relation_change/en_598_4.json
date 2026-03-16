@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Spain",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 227988,
+    "unigram_w1": 2413989,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8987323645894998
+  },
+  {
+    "w1": "language",
+    "w2": "Basque",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16500,
+    "unigram_w1": 9241408,
+    "unigram_w2": 100298,
+    "ppmi": 2.6993667619955692
+  },
+  {
+    "w1": "Spain",
+    "w2": "Basque",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37918,
+    "unigram_w1": 2413989,
+    "unigram_w2": 100298,
+    "ppmi": 5.836477180307013
+  }
+]

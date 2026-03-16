@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bombay",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13459,
+    "unigram_w1": 244514,
+    "unigram_w2": 3399010,
+    "ppmi": 3.068958179952346
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Bombay",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21658,
+    "unigram_w1": 244514,
+    "unigram_w2": 3597699,
+    "ppmi": 3.673327099012685
+  }
+]

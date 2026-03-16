@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "跳高",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 23545,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "苏格兰",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 59687,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "跳高",
+    "w2": "苏格兰",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 69,
+    "unigram_w1": 23545,
+    "unigram_w2": 59687,
+    "ppmi": 1.5178498000136287
+  }
+]

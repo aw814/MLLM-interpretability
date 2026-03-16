@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "occupation du Japon",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 215,
+    "unigram_w2": 7952962,
+    "ppmi": 2.4475866044569714
+  },
+  {
+    "w1": "capital",
+    "w2": "Tokyo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72316,
+    "unigram_w1": 7952962,
+    "unigram_w2": 2106140,
+    "ppmi": 1.161711804466732
+  },
+  {
+    "w1": "occupation du Japon",
+    "w2": "Tokyo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 215,
+    "unigram_w2": 2106140,
+    "ppmi": 6.8384087315704
+  }
+]

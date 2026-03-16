@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ティラナ県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 16,
+    "unigram_w2": 498928,
+    "ppmi": 6.4516321319399506
+  },
+  {
+    "w1": "capital",
+    "w2": "ティラナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 498928,
+    "unigram_w2": 6562,
+    "ppmi": 1.8161063727799844
+  },
+  {
+    "w1": "ティラナ県",
+    "w2": "ティラナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 16,
+    "unigram_w2": 6562,
+    "ppmi": 14.700184363986843
+  }
+]

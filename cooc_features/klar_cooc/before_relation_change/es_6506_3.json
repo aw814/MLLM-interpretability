@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Burger King",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 283872,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Miami",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 7065124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Burger King",
+    "w2": "Miami",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19826,
+    "unigram_w1": 283872,
+    "unigram_w2": 7065124,
+    "ppmi": 3.0401509261424406
+  }
+]

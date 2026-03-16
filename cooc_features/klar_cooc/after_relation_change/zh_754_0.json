@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西开普省",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 458,
+    "unigram_w2": 919361,
+    "ppmi": 0.8485515559401321
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西开普省",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 458,
+    "unigram_w2": 910574,
+    "ppmi": 1.4838951338363195
+  }
+]

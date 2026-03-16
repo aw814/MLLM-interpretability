@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Africa",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 115854,
+    "unigram_w1": 1876302,
+    "unigram_w2": 9241408,
+    "ppmi": 1.2856093760718244
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "South Africa",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 152756,
+    "unigram_w1": 1876302,
+    "unigram_w2": 9553181,
+    "ppmi": 1.636662043162585
+  }
+]

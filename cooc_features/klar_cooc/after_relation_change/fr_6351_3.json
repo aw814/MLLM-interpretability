@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hordaland",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 457,
+    "unigram_w1": 5568,
+    "unigram_w2": 9137640,
+    "ppmi": 2.2186319843084945
+  },
+  {
+    "w1": "capitale",
+    "w2": "Bergen",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 229941,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Hordaland",
+    "w2": "Bergen",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2947,
+    "unigram_w1": 5568,
+    "unigram_w2": 229941,
+    "ppmi": 10.220098943323547
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Umar ibn al-Jattab",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2150,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Medina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 6083324,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Umar ibn al-Jattab",
+    "w2": "Medina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 754,
+    "unigram_w1": 2150,
+    "unigram_w2": 6083324,
+    "ppmi": 5.5840807454462675
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "매사추세츠주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 2207,
+    "unigram_w2": 36855,
+    "ppmi": 1.9397996500866725
+  },
+  {
+    "w1": "capital",
+    "w2": "보스턴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 537,
+    "unigram_w1": 36855,
+    "unigram_w2": 38635,
+    "ppmi": 2.55689996996157
+  },
+  {
+    "w1": "매사추세츠주",
+    "w2": "보스턴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 677,
+    "unigram_w1": 2207,
+    "unigram_w2": 38635,
+    "ppmi": 6.952835539242224
+  }
+]

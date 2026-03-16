@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "约瑟夫·戈培尔",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 72,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 207635,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "约瑟夫·戈培尔",
+    "w2": "柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 72,
+    "unigram_w2": 207635,
+    "ppmi": 6.821953434674484
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "바이에른주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 613,
+    "unigram_w2": 36855,
+    "ppmi": 1.4659992057881428
+  },
+  {
+    "w1": "capital",
+    "w2": "뮌헨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 415,
+    "unigram_w1": 36855,
+    "unigram_w2": 23036,
+    "ppmi": 2.9311073890171007
+  },
+  {
+    "w1": "바이에른주",
+    "w2": "뮌헨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 613,
+    "unigram_w2": 23036,
+    "ppmi": 7.353422702691665
+  }
+]

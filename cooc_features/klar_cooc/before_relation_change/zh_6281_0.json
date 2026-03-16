@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伊利诺伊州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 9594,
+    "unigram_w2": 32140,
+    "ppmi": 2.404943456847104
+  },
+  {
+    "w1": "capital",
+    "w2": "斯普林菲尔德",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 32140,
+    "unigram_w2": 2113,
+    "ppmi": 5.065830425918295
+  },
+  {
+    "w1": "伊利诺伊州",
+    "w2": "斯普林菲尔德",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 132,
+    "unigram_w1": 9594,
+    "unigram_w2": 2113,
+    "ppmi": 8.56898791077547
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Estados Pontificios",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8020,
+    "unigram_w1": 25980,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6105989477604425
+  },
+  {
+    "w1": "capital",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1599228,
+    "unigram_w1": 42058182,
+    "unigram_w2": 9484296,
+    "ppmi": 1.7381611842278224
+  },
+  {
+    "w1": "Estados Pontificios",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15732,
+    "unigram_w1": 25980,
+    "unigram_w2": 9484296,
+    "ppmi": 5.731400792676591
+  }
+]

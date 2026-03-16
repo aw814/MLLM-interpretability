@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "亚利桑那州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1070,
+    "unigram_w1": 18075,
+    "unigram_w2": 596594,
+    "ppmi": 2.5328846792481667
+  },
+  {
+    "w1": "首都",
+    "w2": "凤凰城",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 52202,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "亚利桑那州",
+    "w2": "凤凰城",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1333,
+    "unigram_w1": 18075,
+    "unigram_w2": 52202,
+    "ppmi": 6.3645231449587945
+  }
+]

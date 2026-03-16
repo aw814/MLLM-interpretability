@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Whitney Houston",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 110,
+    "unigram_w1": 34479,
+    "unigram_w2": 1072211,
+    "ppmi": 0.11857490512363018
+  },
+  {
+    "w1": "occupation",
+    "w2": "composer",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6398,
+    "unigram_w1": 1072211,
+    "unigram_w2": 894109,
+    "ppmi": 1.283959586397918
+  },
+  {
+    "w1": "Whitney Houston",
+    "w2": "composer",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1267,
+    "unigram_w1": 34479,
+    "unigram_w2": 894109,
+    "ppmi": 3.9064822170306672
+  }
+]

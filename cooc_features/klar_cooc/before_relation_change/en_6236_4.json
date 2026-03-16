@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Province of Florence",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 146,
+    "unigram_w1": 786,
+    "unigram_w2": 7450623,
+    "ppmi": 3.1853123365430287
+  },
+  {
+    "w1": "capital",
+    "w2": "Florence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 37435,
+    "unigram_w1": 7450623,
+    "unigram_w2": 610600,
+    "ppmi": 1.586105349937687
+  },
+  {
+    "w1": "Province of Florence",
+    "w2": "Florence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 786,
+    "unigram_w1": 786,
+    "unigram_w2": 610600,
+    "ppmi": 9.222934849957463
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西班牙",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 576207,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "加泰罗尼亚语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1091,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西班牙",
+    "w2": "加泰罗尼亚语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 851,
+    "unigram_w1": 576207,
+    "unigram_w2": 1091,
+    "ppmi": 6.302939841421081
+  }
+]

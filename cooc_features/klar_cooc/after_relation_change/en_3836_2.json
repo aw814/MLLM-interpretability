@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gandhinagar",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2592,
+    "unigram_w1": 18662,
+    "unigram_w2": 7450623,
+    "ppmi": 2.7659072956596655
+  },
+  {
+    "w1": "capital",
+    "w2": "Gujarat",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23487,
+    "unigram_w1": 7450623,
+    "unigram_w2": 239256,
+    "ppmi": 2.265252529679828
+  },
+  {
+    "w1": "Gandhinagar",
+    "w2": "Gujarat",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9969,
+    "unigram_w1": 18662,
+    "unigram_w2": 239256,
+    "ppmi": 9.670024426071235
+  }
+]

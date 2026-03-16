@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Social Italiana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1150,
+    "unigram_w1": 3670,
+    "unigram_w2": 42058182,
+    "ppmi": 2.632180034854566
+  },
+  {
+    "w1": "capital",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1599228,
+    "unigram_w1": 42058182,
+    "unigram_w2": 9484296,
+    "ppmi": 1.7381611842278224
+  },
+  {
+    "w1": "República Social Italiana",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1738,
+    "unigram_w1": 3670,
+    "unigram_w2": 9484296,
+    "ppmi": 5.376748151152748
+  }
+]

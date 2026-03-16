@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "헤리퍼드셔주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "헤리퍼드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 36855,
+    "unigram_w2": 117,
+    "ppmi": 1.8553777498955197
+  },
+  {
+    "w1": "헤리퍼드셔주",
+    "w2": "헤리퍼드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 117,
+    "ppmi": 0.0
+  }
+]

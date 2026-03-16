@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בנדטו קרוצ'ה",
+    "w2": "דיבר",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 55,
+    "unigram_w2": 141832,
+    "ppmi": 2.24598789195658
+  },
+  {
+    "w1": "דיבר",
+    "w2": "איטלקית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 141832,
+    "unigram_w2": 48433,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בנדטו קרוצ'ה",
+    "w2": "איטלקית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 55,
+    "unigram_w2": 48433,
+    "ppmi": 5.670577805511115
+  }
+]

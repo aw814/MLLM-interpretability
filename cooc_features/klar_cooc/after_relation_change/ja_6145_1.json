@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジュネーヴ大学",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 252,
+    "unigram_w1": 818,
+    "unigram_w2": 27600878,
+    "ppmi": 0.9632163081492221
+  },
+  {
+    "w1": "場所",
+    "w2": "ジュネーヴ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 47604,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジュネーヴ大学",
+    "w2": "ジュネーヴ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 818,
+    "unigram_w1": 818,
+    "unigram_w2": 47604,
+    "ppmi": 11.841309059638826
+  }
+]

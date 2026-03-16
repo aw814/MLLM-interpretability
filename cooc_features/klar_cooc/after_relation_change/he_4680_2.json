@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הכנסייה הקתולית",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 122,
+    "unigram_w1": 6992,
+    "unigram_w2": 5024,
+    "ppmi": 5.420835767143329
+  },
+  {
+    "w1": "religion",
+    "w2": "נצרות קתולית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 5024,
+    "unigram_w2": 572,
+    "ppmi": 4.101716562302651
+  },
+  {
+    "w1": "הכנסייה הקתולית",
+    "w2": "נצרות קתולית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 6992,
+    "unigram_w2": 572,
+    "ppmi": 8.268704031468404
+  }
+]

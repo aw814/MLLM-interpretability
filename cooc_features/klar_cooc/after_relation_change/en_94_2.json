@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Irenaeus",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2580,
+    "unigram_w1": 10151,
+    "unigram_w2": 5281801,
+    "ppmi": 4.134025510756556
+  },
+  {
+    "w1": "died",
+    "w2": "Lyon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15899,
+    "unigram_w1": 5281801,
+    "unigram_w2": 260613,
+    "ppmi": 2.0753032792970454
+  },
+  {
+    "w1": "Irenaeus",
+    "w2": "Lyon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 508,
+    "unigram_w1": 10151,
+    "unigram_w2": 260613,
+    "ppmi": 6.130603838091824
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Provincia de Cantón",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1958,
+    "unigram_w1": 7466,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3753714930540286
+  },
+  {
+    "w1": "capital",
+    "w2": "Cantón",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 213082,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1319614,
+    "ppmi": 1.675690880277053
+  },
+  {
+    "w1": "Provincia de Cantón",
+    "w2": "Cantón",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7466,
+    "unigram_w1": 7466,
+    "unigram_w2": 1319614,
+    "ppmi": 9.300524832478168
+  }
+]

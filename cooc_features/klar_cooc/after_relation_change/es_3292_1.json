@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Honda Accord",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1164,
+    "unigram_w1": 139678,
+    "unigram_w2": 513142,
+    "ppmi": 3.756340864874031
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Honda",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20036,
+    "unigram_w1": 513142,
+    "unigram_w2": 3685982,
+    "ppmi": 3.139900104345304
+  },
+  {
+    "w1": "Honda Accord",
+    "w2": "Honda",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 139678,
+    "unigram_w1": 139678,
+    "unigram_w2": 3685982,
+    "ppmi": 7.818591795584069
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Islas Caimán",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5844,
+    "unigram_w1": 218662,
+    "unigram_w2": 12196104,
+    "ppmi": 0.8666898324453867
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Islas Caimán",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18054,
+    "unigram_w1": 218662,
+    "unigram_w2": 30884572,
+    "ppmi": 1.1535142816345816
+  }
+]

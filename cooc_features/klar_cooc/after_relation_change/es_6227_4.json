@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Connecticut",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70888,
+    "unigram_w1": 592074,
+    "unigram_w2": 42058182,
+    "ppmi": 1.2441620675036478
+  },
+  {
+    "w1": "capital",
+    "w2": "Hartford",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16884,
+    "unigram_w1": 42058182,
+    "unigram_w2": 154712,
+    "ppmi": 1.1104697747098873
+  },
+  {
+    "w1": "Connecticut",
+    "w2": "Hartford",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48208,
+    "unigram_w1": 592074,
+    "unigram_w2": 154712,
+    "ppmi": 8.774550796378064
+  }
+]

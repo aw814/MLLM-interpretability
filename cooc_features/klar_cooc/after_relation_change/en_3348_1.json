@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Elizabeth I of England",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 2507,
+    "unigram_w2": 737500,
+    "ppmi": 2.4661280313639806
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Kingdom of England",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 737500,
+    "unigram_w2": 2864,
+    "ppmi": 3.6565281717560763
+  },
+  {
+    "w1": "Elizabeth I of England",
+    "w2": "Kingdom of England",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 2507,
+    "unigram_w2": 2864,
+    "ppmi": 10.915168369284359
+  }
+]

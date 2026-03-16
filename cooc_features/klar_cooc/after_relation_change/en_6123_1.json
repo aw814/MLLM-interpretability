@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "FIDE",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17233,
+    "unigram_w1": 175641,
+    "unigram_w2": 14590058,
+    "ppmi": 1.2949367573499966
+  },
+  {
+    "w1": "location",
+    "w2": "Athens",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42976,
+    "unigram_w1": 14590058,
+    "unigram_w2": 528190,
+    "ppmi": 1.0248667584684485
+  },
+  {
+    "w1": "FIDE",
+    "w2": "Athens",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 846,
+    "unigram_w1": 175641,
+    "unigram_w2": 528190,
+    "ppmi": 1.7343491768767159
+  }
+]

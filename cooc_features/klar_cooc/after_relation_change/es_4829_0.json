@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Daihatsu",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3348,
+    "unigram_w1": 86770,
+    "unigram_w2": 14358872,
+    "ppmi": 1.160945411507845
+  },
+  {
+    "w1": "posee",
+    "w2": "Toyota",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 2630774,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Daihatsu",
+    "w2": "Toyota",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44668,
+    "unigram_w1": 86770,
+    "unigram_w2": 2630774,
+    "ppmi": 7.347198834661335
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Xbox 360",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 3945,
+    "unigram_w2": 7399,
+    "ppmi": 3.2808464356885727
+  },
+  {
+    "w1": "developer",
+    "w2": "מיקרוסופט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 665,
+    "unigram_w1": 7399,
+    "unigram_w2": 55668,
+    "ppmi": 4.315743963349941
+  },
+  {
+    "w1": "Xbox 360",
+    "w2": "מיקרוסופט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1018,
+    "unigram_w1": 3945,
+    "unigram_w2": 55668,
+    "ppmi": 5.8373602775765505
+  }
+]

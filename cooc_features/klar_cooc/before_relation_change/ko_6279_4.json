@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "방글라데시",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 158,
+    "unigram_w1": 20828,
+    "unigram_w2": 36855,
+    "ppmi": 1.6832865262657777
+  },
+  {
+    "w1": "capital",
+    "w2": "다카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 36855,
+    "unigram_w2": 2660,
+    "ppmi": 2.0489716572314642
+  },
+  {
+    "w1": "방글라데시",
+    "w2": "다카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 999,
+    "unigram_w1": 20828,
+    "unigram_w2": 2660,
+    "ppmi": 8.136208853463224
+  }
+]

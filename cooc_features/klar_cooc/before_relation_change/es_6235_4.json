@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prefectura de Kioto",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 522,
+    "unigram_w1": 2922,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8214917705197897
+  },
+  {
+    "w1": "capital",
+    "w2": "Kioto",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51098,
+    "unigram_w1": 42058182,
+    "unigram_w2": 293204,
+    "ppmi": 1.7857601809665233
+  },
+  {
+    "w1": "Prefectura de Kioto",
+    "w2": "Kioto",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2922,
+    "unigram_w1": 2922,
+    "unigram_w2": 293204,
+    "ppmi": 11.470664130850972
+  }
+]

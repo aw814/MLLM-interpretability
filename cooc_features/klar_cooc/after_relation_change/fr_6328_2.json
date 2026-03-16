@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "canton de Vaud",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9332,
+    "unigram_w1": 217225,
+    "unigram_w2": 9137640,
+    "ppmi": 1.2846650930011316
+  },
+  {
+    "w1": "capitale",
+    "w2": "Lausanne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1736677,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "canton de Vaud",
+    "w2": "Lausanne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84130,
+    "unigram_w1": 217225,
+    "unigram_w2": 1736677,
+    "ppmi": 6.852519374030399
+  }
+]

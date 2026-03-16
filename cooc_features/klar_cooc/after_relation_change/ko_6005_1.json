@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이라크의 대통령",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 2644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "관할권",
+    "w2": "이라크",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 45381,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "이라크의 대통령",
+    "w2": "이라크",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 3,
+    "unigram_w2": 45381,
+    "ppmi": 7.840551927090184
+  }
+]

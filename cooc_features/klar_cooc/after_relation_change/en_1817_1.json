@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gerolamo Cardano",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 143,
+    "unigram_w1": 241,
+    "unigram_w2": 74824954,
+    "ppmi": 1.5327687634752005
+  },
+  {
+    "w1": "work",
+    "w2": "mathematics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 580538,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1229912,
+    "ppmi": 1.2026940773589394
+  },
+  {
+    "w1": "Gerolamo Cardano",
+    "w2": "mathematics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 241,
+    "unigram_w2": 1229912,
+    "ppmi": 7.132679927883736
+  }
+]

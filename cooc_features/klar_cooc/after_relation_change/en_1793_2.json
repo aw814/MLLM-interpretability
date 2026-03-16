@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anaxagoras",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1167,
+    "unigram_w1": 2172,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3895672208297594
+  },
+  {
+    "w1": "work",
+    "w2": "philosophy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1371257,
+    "unigram_w1": 74824954,
+    "unigram_w2": 2867959,
+    "ppmi": 1.2212613486604222
+  },
+  {
+    "w1": "Anaxagoras",
+    "w2": "philosophy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1106,
+    "unigram_w1": 2172,
+    "unigram_w2": 2867959,
+    "ppmi": 6.017537227454234
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "穆罕默德六世",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 254,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "伊斯坦堡",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 5492,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "穆罕默德六世",
+    "w2": "伊斯坦堡",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 254,
+    "unigram_w2": 5492,
+    "ppmi": 6.385786970634178
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "David Beckham",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4550,
+    "unigram_w1": 235862,
+    "unigram_w2": 12196104,
+    "ppmi": 0.3963597211552839
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "David Beckham",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 52290,
+    "unigram_w1": 235862,
+    "unigram_w2": 30884572,
+    "ppmi": 2.578490360854267
+  }
+]

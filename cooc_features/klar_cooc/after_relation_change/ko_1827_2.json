@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "일리야 프리고진",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 33,
+    "unigram_w2": 255115,
+    "ppmi": 0.8901328860608616
+  },
+  {
+    "w1": "작업",
+    "w2": "물리학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 23798,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "일리야 프리고진",
+    "w2": "물리학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 33,
+    "unigram_w2": 23798,
+    "ppmi": 6.634296469867421
+  }
+]

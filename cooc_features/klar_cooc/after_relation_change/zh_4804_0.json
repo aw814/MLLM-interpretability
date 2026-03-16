@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "蓝宝坚尼",
+    "w2": "拥有",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 336,
+    "unigram_w2": 2407316,
+    "ppmi": 0.7298379997034397
+  },
+  {
+    "w1": "拥有",
+    "w2": "奥迪",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2407316,
+    "unigram_w2": 233029,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "蓝宝坚尼",
+    "w2": "奥迪",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 336,
+    "unigram_w2": 233029,
+    "ppmi": 3.9674375865085802
+  }
+]

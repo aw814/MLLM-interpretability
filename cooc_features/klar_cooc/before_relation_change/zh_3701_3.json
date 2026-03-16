@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Adobe Flash",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19,
+    "unigram_w1": 7324,
+    "unigram_w2": 7846,
+    "ppmi": 4.269357385122597
+  },
+  {
+    "w1": "developer",
+    "w2": "Adobe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 134,
+    "unigram_w1": 7846,
+    "unigram_w2": 47693,
+    "ppmi": 4.38444522394352
+  },
+  {
+    "w1": "Adobe Flash",
+    "w2": "Adobe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7324,
+    "unigram_w1": 7324,
+    "unigram_w2": 47693,
+    "ppmi": 10.256097653562843
+  }
+]

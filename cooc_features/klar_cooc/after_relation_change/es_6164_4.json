@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alberta",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43458,
+    "unigram_w1": 381566,
+    "unigram_w2": 42058182,
+    "ppmi": 1.1720872993954239
+  },
+  {
+    "w1": "capital",
+    "w2": "Edmonton",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66374,
+    "unigram_w1": 42058182,
+    "unigram_w2": 301098,
+    "ppmi": 2.1247832368997233
+  },
+  {
+    "w1": "Alberta",
+    "w2": "Edmonton",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37012,
+    "unigram_w1": 381566,
+    "unigram_w2": 301098,
+    "ppmi": 8.066468168531623
+  }
+]

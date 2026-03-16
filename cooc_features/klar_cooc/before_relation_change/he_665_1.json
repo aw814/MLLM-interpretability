@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הממלכה המאוחדת",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 14449,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הממלכה המאוחדת",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2194,
+    "unigram_w1": 14449,
+    "unigram_w2": 231817,
+    "ppmi": 3.0142475872061962
+  }
+]

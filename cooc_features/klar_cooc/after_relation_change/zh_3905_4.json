@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴顿鲁治",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 18,
+    "unigram_w2": 596594,
+    "ppmi": 2.441272623243188
+  },
+  {
+    "w1": "首都",
+    "w2": "路易斯安那州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 4952,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴顿鲁治",
+    "w2": "路易斯安那州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 18,
+    "unigram_w2": 4952,
+    "ppmi": 12.813298585534165
+  }
+]

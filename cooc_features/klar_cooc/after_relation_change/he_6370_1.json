@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סירקוזה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43,
+    "unigram_w1": 1449,
+    "unigram_w2": 90246,
+    "ppmi": 2.020056155148098
+  },
+  {
+    "w1": "בירה",
+    "w2": "סירקוזה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 1449,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סירקוזה",
+    "w2": "סירקוזה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1449,
+    "unigram_w1": 1449,
+    "unigram_w2": 1449,
+    "ppmi": 13.05536676841574
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ralph Vaughan Williams",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 763,
+    "unigram_w1": 5254,
+    "unigram_w2": 5281801,
+    "ppmi": 3.3265431595478074
+  },
+  {
+    "w1": "died",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 433686,
+    "unigram_w1": 5281801,
+    "unigram_w2": 8112147,
+    "ppmi": 1.884843379050838
+  },
+  {
+    "w1": "Ralph Vaughan Williams",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1574,
+    "unigram_w1": 5254,
+    "unigram_w2": 8112147,
+    "ppmi": 3.7521698893720647
+  }
+]

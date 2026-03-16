@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Popular de Mongolia",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1310,
+    "unigram_w2": 979024,
+    "ppmi": 2.697801687919807
+  },
+  {
+    "w1": "religion",
+    "w2": "budismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22730,
+    "unigram_w1": 979024,
+    "unigram_w2": 570592,
+    "ppmi": 5.081434759007629
+  },
+  {
+    "w1": "República Popular de Mongolia",
+    "w2": "budismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 212,
+    "unigram_w1": 1310,
+    "unigram_w2": 570592,
+    "ppmi": 7.882678754669385
+  }
+]

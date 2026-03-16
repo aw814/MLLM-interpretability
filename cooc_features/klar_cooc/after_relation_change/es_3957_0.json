@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tiflis",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14862,
+    "unigram_w1": 53426,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4604125044204257
+  },
+  {
+    "w1": "capital",
+    "w2": "Georgia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 245342,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2031684,
+    "ppmi": 1.2565163427527744
+  },
+  {
+    "w1": "Tiflis",
+    "w2": "Georgia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32262,
+    "unigram_w1": 53426,
+    "unigram_w2": 2031684,
+    "ppmi": 7.950258663513097
+  }
+]

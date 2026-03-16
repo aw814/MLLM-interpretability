@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hebrón",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18064,
+    "unigram_w1": 110052,
+    "unigram_w2": 42058182,
+    "ppmi": 1.699330169197122
+  },
+  {
+    "w1": "capital",
+    "w2": "Judá",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29918,
+    "unigram_w1": 42058182,
+    "unigram_w2": 252586,
+    "ppmi": 1.2286371994695415
+  },
+  {
+    "w1": "Hebrón",
+    "w2": "Judá",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8934,
+    "unigram_w1": 110052,
+    "unigram_w2": 252586,
+    "ppmi": 8.063058939658534
+  }
+]

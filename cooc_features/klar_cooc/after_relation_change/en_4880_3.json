@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pierre Bayle",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 196,
+    "unigram_w1": 769,
+    "unigram_w2": 9241408,
+    "ppmi": 3.3309917266304727
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Pierre Bayle",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 385,
+    "unigram_w1": 769,
+    "unigram_w2": 6382804,
+    "ppmi": 4.838918845329756
+  }
+]

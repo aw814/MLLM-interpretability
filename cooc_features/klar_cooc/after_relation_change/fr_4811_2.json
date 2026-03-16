@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "aéroport international O'Hare de Chicago",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33,
+    "unigram_w1": 537,
+    "unigram_w2": 13047836,
+    "ppmi": 1.2872239228510738
+  },
+  {
+    "w1": "possède",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 1811565,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "aéroport international O'Hare de Chicago",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 537,
+    "unigram_w1": 537,
+    "unigram_w2": 1811565,
+    "ppmi": 8.160110158761988
+  }
+]

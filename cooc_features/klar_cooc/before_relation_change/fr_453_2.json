@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Corée du Nord",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 521043,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "coréen",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 1513959,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Corée du Nord",
+    "w2": "coréen",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 134337,
+    "unigram_w1": 521043,
+    "unigram_w2": 1513959,
+    "ppmi": 6.463474872317226
+  }
+]

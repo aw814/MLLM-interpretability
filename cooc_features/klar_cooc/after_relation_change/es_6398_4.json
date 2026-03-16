@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio del Japón",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1666,
+    "unigram_w1": 6306,
+    "unigram_w2": 42058182,
+    "ppmi": 2.385989467435617
+  },
+  {
+    "w1": "capital",
+    "w2": "Tokio",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 663128,
+    "unigram_w1": 42058182,
+    "unigram_w2": 3168268,
+    "ppmi": 2.0499911382531004
+  },
+  {
+    "w1": "Imperio del Japón",
+    "w2": "Tokio",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1070,
+    "unigram_w1": 6306,
+    "unigram_w2": 3168268,
+    "ppmi": 5.477832071539943
+  }
+]

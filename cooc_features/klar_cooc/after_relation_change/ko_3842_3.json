@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "방콕",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10167,
+    "unigram_w1": 173797,
+    "unigram_w2": 1351571,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "수도",
+    "w2": "태국",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 133711,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "방콕",
+    "w2": "태국",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19043,
+    "unigram_w1": 173797,
+    "unigram_w2": 133711,
+    "ppmi": 3.6764860785229994
+  }
+]

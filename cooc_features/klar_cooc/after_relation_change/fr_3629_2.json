@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mali",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 180216,
+    "unigram_w1": 2397787,
+    "unigram_w2": 3399010,
+    "ppmi": 3.5183276245910577
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Mali",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 773838,
+    "unigram_w1": 2397787,
+    "unigram_w2": 8624942,
+    "ppmi": 4.277231948433241
+  }
+]

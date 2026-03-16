@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האימפריה האוסטרו-הונגרית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 152,
+    "unigram_w1": 2700,
+    "unigram_w2": 90246,
+    "ppmi": 2.943817101508322
+  },
+  {
+    "w1": "בירה",
+    "w2": "וינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 27071,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "האימפריה האוסטרו-הונגרית",
+    "w2": "וינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 640,
+    "unigram_w1": 2700,
+    "unigram_w2": 27071,
+    "ppmi": 6.75493248982638
+  }
+]

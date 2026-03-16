@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טורינו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 203,
+    "unigram_w1": 8824,
+    "unigram_w2": 90246,
+    "ppmi": 1.6527521215967234
+  },
+  {
+    "w1": "בירה",
+    "w2": "טורינו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 8824,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "טורינו",
+    "w2": "טורינו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8824,
+    "unigram_w1": 8824,
+    "unigram_w2": 8824,
+    "ppmi": 10.448991572381285
+  }
+]

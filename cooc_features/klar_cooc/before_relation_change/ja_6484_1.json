@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マヨルカ島",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 62,
+    "unigram_w1": 9788,
+    "unigram_w2": 498928,
+    "ppmi": 1.1490300562474363
+  },
+  {
+    "w1": "capital",
+    "w2": "パルマ・デ・マリョルカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 498928,
+    "unigram_w2": 7168,
+    "ppmi": 0.2292397106035027
+  },
+  {
+    "w1": "マヨルカ島",
+    "w2": "パルマ・デ・マリョルカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 336,
+    "unigram_w1": 9788,
+    "unigram_w2": 7168,
+    "ppmi": 9.708268357147029
+  }
+]

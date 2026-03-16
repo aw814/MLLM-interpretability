@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "불가리아 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 74,
+    "unigram_w2": 36855,
+    "ppmi": 2.5162891038499744
+  },
+  {
+    "w1": "capital",
+    "w2": "소피아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 80,
+    "unigram_w1": 36855,
+    "unigram_w2": 13161,
+    "ppmi": 1.3636890726259
+  },
+  {
+    "w1": "불가리아 왕국",
+    "w2": "소피아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 74,
+    "unigram_w2": 13161,
+    "ppmi": 7.1718053515225835
+  }
+]

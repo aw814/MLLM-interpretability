@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "레너드 코언",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 29,
+    "unigram_w2": 10794,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "기타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1031,
+    "unigram_w1": 10794,
+    "unigram_w2": 782771,
+    "ppmi": 0.9289710702350457
+  },
+  {
+    "w1": "레너드 코언",
+    "w2": "기타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 29,
+    "unigram_w2": 782771,
+    "ppmi": 2.4591034297120036
+  }
+]

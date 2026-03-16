@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prime Minister of Pakistan",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 102,
+    "unigram_w1": 6232,
+    "unigram_w2": 1074632,
+    "ppmi": 2.4743374646802407
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Pakistan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11782,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1164026,
+    "ppmi": 1.7809966260756043
+  },
+  {
+    "w1": "Prime Minister of Pakistan",
+    "w2": "Pakistan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6232,
+    "unigram_w1": 6232,
+    "unigram_w2": 1164026,
+    "ppmi": 8.292111061581533
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cantón de Basilea-Ciudad",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 96,
+    "unigram_w1": 686,
+    "unigram_w2": 42058182,
+    "ppmi": 1.4692239713017474
+  },
+  {
+    "w1": "capital",
+    "w2": "Basilea",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 114390,
+    "unigram_w1": 42058182,
+    "unigram_w2": 487216,
+    "ppmi": 2.2157256620374617
+  },
+  {
+    "w1": "Cantón de Basilea-Ciudad",
+    "w2": "Basilea",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 686,
+    "unigram_w1": 686,
+    "unigram_w2": 487216,
+    "ppmi": 10.738007404635262
+  }
+]

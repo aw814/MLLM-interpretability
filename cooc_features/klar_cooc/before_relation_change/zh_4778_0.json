@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "老约翰·施特劳斯",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 192,
+    "unigram_w2": 3087,
+    "ppmi": 9.427990221274767
+  },
+  {
+    "w1": "instrument",
+    "w2": "小提琴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 77,
+    "unigram_w1": 3087,
+    "unigram_w2": 48172,
+    "ppmi": 4.916477138255346
+  },
+  {
+    "w1": "老约翰·施特劳斯",
+    "w2": "小提琴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 192,
+    "unigram_w2": 48172,
+    "ppmi": 8.464072786512018
+  }
+]

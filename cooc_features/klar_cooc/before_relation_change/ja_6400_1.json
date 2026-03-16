@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "デリー・スルタン朝",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 332,
+    "unigram_w2": 498928,
+    "ppmi": 2.076592700593026
+  },
+  {
+    "w1": "capital",
+    "w2": "デリー",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1070,
+    "unigram_w1": 498928,
+    "unigram_w2": 89648,
+    "ppmi": 2.06304343599827
+  },
+  {
+    "w1": "デリー・スルタン朝",
+    "w2": "デリー",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 332,
+    "unigram_w1": 332,
+    "unigram_w2": 89648,
+    "ppmi": 10.928120465275072
+  }
+]

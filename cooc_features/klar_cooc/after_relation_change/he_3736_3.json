@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google Hangouts",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 278,
+    "unigram_w2": 7399,
+    "ppmi": 3.5841529918088733
+  },
+  {
+    "w1": "developer",
+    "w2": "חברת גוגל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 7399,
+    "unigram_w2": 4201,
+    "ppmi": 2.3670167121869556
+  },
+  {
+    "w1": "Google Hangouts",
+    "w2": "חברת גוגל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 278,
+    "unigram_w2": 4201,
+    "ppmi": 6.722678599650005
+  }
+]

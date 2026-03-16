@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルワンダ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 66804,
+    "unigram_w2": 62,
+    "ppmi": 7.398261063531398
+  },
+  {
+    "w1": "official_language",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 62,
+    "unigram_w2": 8357100,
+    "ppmi": 3.2386918857810945
+  },
+  {
+    "w1": "ルワンダ",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15150,
+    "unigram_w1": 66804,
+    "unigram_w2": 8357100,
+    "ppmi": 2.2449165787710514
+  }
+]

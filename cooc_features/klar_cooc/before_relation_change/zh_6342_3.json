@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "大韩民国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 5745,
+    "unigram_w2": 32140,
+    "ppmi": 1.5073390828998248
+  },
+  {
+    "w1": "capital",
+    "w2": "首尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 422,
+    "unigram_w1": 32140,
+    "unigram_w2": 142464,
+    "ppmi": 2.4263665703562136
+  },
+  {
+    "w1": "大韩民国",
+    "w2": "首尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 644,
+    "unigram_w1": 5745,
+    "unigram_w2": 142464,
+    "ppmi": 5.520175390792626
+  }
+]

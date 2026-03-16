@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מיסיסיפי",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 3475,
+    "unigram_w2": 14610,
+    "ppmi": 1.4181744464208723
+  },
+  {
+    "w1": "capital",
+    "w2": "ג'קסון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 14610,
+    "unigram_w2": 31452,
+    "ppmi": 1.066078170094482
+  },
+  {
+    "w1": "מיסיסיפי",
+    "w2": "ג'קסון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 358,
+    "unigram_w1": 3475,
+    "unigram_w2": 31452,
+    "ppmi": 5.336363023689119
+  }
+]

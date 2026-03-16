@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califato ortodoxo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 354,
+    "unigram_w1": 608,
+    "unigram_w2": 42058182,
+    "ppmi": 3.5260042733928154
+  },
+  {
+    "w1": "capital",
+    "w2": "Medina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 933626,
+    "unigram_w1": 42058182,
+    "unigram_w2": 6083324,
+    "ppmi": 1.6023830355270732
+  },
+  {
+    "w1": "califato ortodoxo",
+    "w2": "Medina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 302,
+    "unigram_w1": 608,
+    "unigram_w2": 6083324,
+    "ppmi": 6.0862582025359195
+  }
+]

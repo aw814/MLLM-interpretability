@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ワシントン・ポスト",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4308,
+    "unigram_w1": 43748,
+    "unigram_w2": 3715876,
+    "ppmi": 2.2107064051942262
+  },
+  {
+    "w1": "言語",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ワシントン・ポスト",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10992,
+    "unigram_w1": 43748,
+    "unigram_w2": 8357100,
+    "ppmi": 2.3927701197148625
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "京都府",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1980878,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "日本語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 62,
+    "unigram_w2": 7380344,
+    "ppmi": 2.610651300502059
+  },
+  {
+    "w1": "京都府",
+    "w2": "日本語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 103592,
+    "unigram_w1": 1980878,
+    "unigram_w2": 7380344,
+    "ppmi": 0.3076920806684282
+  }
+]

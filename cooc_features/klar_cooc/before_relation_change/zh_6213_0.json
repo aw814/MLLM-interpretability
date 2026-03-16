@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "安达卢西亚",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 2259,
+    "unigram_w2": 32140,
+    "ppmi": 1.6840367035979036
+  },
+  {
+    "w1": "capital",
+    "w2": "塞维利亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 75,
+    "unigram_w1": 32140,
+    "unigram_w2": 39786,
+    "ppmi": 1.774350709112475
+  },
+  {
+    "w1": "安达卢西亚",
+    "w2": "塞维利亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 703,
+    "unigram_w1": 2259,
+    "unigram_w2": 39786,
+    "ppmi": 8.8335266508585
+  }
+]

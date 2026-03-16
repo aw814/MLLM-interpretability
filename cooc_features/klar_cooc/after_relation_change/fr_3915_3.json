@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thiruvananthapuram",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1019,
+    "unigram_w1": 7617,
+    "unigram_w2": 9137640,
+    "ppmi": 2.9234562808963047
+  },
+  {
+    "w1": "capitale",
+    "w2": "Kerala",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 142718,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Thiruvananthapuram",
+    "w2": "Kerala",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3553,
+    "unigram_w1": 7617,
+    "unigram_w2": 142718,
+    "ppmi": 10.72592231497415
+  }
+]

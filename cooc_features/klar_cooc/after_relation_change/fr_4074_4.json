@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ABBA",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3397,
+    "unigram_w1": 139780,
+    "unigram_w2": 1893780,
+    "ppmi": 2.733325063869235
+  },
+  {
+    "w1": "parlait",
+    "w2": "suédois",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 1659576,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ABBA",
+    "w2": "suédois",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8771,
+    "unigram_w1": 139780,
+    "unigram_w2": 1659576,
+    "ppmi": 4.292259226446473
+  }
+]

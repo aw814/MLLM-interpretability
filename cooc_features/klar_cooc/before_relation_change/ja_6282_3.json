@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リンカンシャー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 2828,
+    "unigram_w2": 498928,
+    "ppmi": 1.1559907285728643
+  },
+  {
+    "w1": "capital",
+    "w2": "リンカン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 498928,
+    "unigram_w2": 7494,
+    "ppmi": 0.9724292923895974
+  },
+  {
+    "w1": "リンカンシャー",
+    "w2": "リンカン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88,
+    "unigram_w1": 2828,
+    "unigram_w2": 7494,
+    "ppmi": 9.502449194004047
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bavière",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10338,
+    "unigram_w1": 364065,
+    "unigram_w2": 7952962,
+    "ppmi": 0.887687413574411
+  },
+  {
+    "w1": "capital",
+    "w2": "Munich",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42856,
+    "unigram_w1": 7952962,
+    "unigram_w2": 1281696,
+    "ppmi": 1.1234413481433152
+  },
+  {
+    "w1": "Bavière",
+    "w2": "Munich",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88670,
+    "unigram_w1": 364065,
+    "unigram_w2": 1281696,
+    "ppmi": 6.62161454346065
+  }
+]

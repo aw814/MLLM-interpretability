@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aleppo Governorate",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 175,
+    "unigram_w1": 889,
+    "unigram_w2": 7450623,
+    "ppmi": 3.2690447829241767
+  },
+  {
+    "w1": "capital",
+    "w2": "Aleppo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11211,
+    "unigram_w1": 7450623,
+    "unigram_w2": 73474,
+    "ppmi": 2.901554430913672
+  },
+  {
+    "w1": "Aleppo Governorate",
+    "w2": "Aleppo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 889,
+    "unigram_w1": 889,
+    "unigram_w2": 73474,
+    "ppmi": 12.277856715829122
+  }
+]

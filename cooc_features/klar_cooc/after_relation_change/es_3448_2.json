@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wikipedia en finlandés",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 28,
+    "unigram_w2": 12196104,
+    "ppmi": 4.60686554147868
+  },
+  {
+    "w1": "idioma",
+    "w2": "finés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 214922,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wikipedia en finlandés",
+    "w2": "finés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 28,
+    "unigram_w2": 214922,
+    "ppmi": 9.111400825681732
+  }
+]

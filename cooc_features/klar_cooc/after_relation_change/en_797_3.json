@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Andhra Pradesh",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10141,
+    "unigram_w1": 145338,
+    "unigram_w2": 9241408,
+    "ppmi": 1.461981539925796
+  },
+  {
+    "w1": "language",
+    "w2": "Telugu",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32082,
+    "unigram_w1": 9241408,
+    "unigram_w2": 148108,
+    "ppmi": 3.096308088778297
+  },
+  {
+    "w1": "Andhra Pradesh",
+    "w2": "Telugu",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15454,
+    "unigram_w1": 145338,
+    "unigram_w2": 148108,
+    "ppmi": 8.033153119691562
+  }
+]

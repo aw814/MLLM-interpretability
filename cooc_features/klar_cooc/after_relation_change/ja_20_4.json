@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "デニス・ファリーナ",
+    "w2": "生まれた",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 530,
+    "unigram_w2": 4588356,
+    "ppmi": 1.7856722933617766
+  },
+  {
+    "w1": "生まれた",
+    "w2": "シカゴ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4588356,
+    "unigram_w2": 606498,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "デニス・ファリーナ",
+    "w2": "シカゴ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 82,
+    "unigram_w1": 530,
+    "unigram_w2": 606498,
+    "ppmi": 5.477664335342519
+  }
+]

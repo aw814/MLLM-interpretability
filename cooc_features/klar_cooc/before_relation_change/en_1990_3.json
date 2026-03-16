@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Klemens von Metternich",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 236,
+    "unigram_w2": 1072211,
+    "ppmi": 5.335357376160926
+  },
+  {
+    "w1": "occupation",
+    "w2": "diplomat",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7908,
+    "unigram_w1": 1072211,
+    "unigram_w2": 204936,
+    "ppmi": 3.714928747702412
+  },
+  {
+    "w1": "Klemens von Metternich",
+    "w2": "diplomat",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 236,
+    "unigram_w2": 204936,
+    "ppmi": 7.959740072443622
+  }
+]

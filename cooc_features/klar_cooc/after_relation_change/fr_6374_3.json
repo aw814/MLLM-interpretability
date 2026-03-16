@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Empire byzantin",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2894,
+    "unigram_w1": 9204,
+    "unigram_w2": 9137640,
+    "ppmi": 4.156329063406788
+  },
+  {
+    "w1": "capitale",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 271541,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Empire byzantin",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4025,
+    "unigram_w1": 9204,
+    "unigram_w2": 271541,
+    "ppmi": 9.704832577636521
+  }
+]

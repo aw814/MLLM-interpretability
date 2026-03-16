@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "파리 코뮌",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 220,
+    "unigram_w2": 36855,
+    "ppmi": 1.9443827559542646
+  },
+  {
+    "w1": "capital",
+    "w2": "파리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1038,
+    "unigram_w1": 36855,
+    "unigram_w2": 135231,
+    "ppmi": 1.7002668142375768
+  },
+  {
+    "w1": "파리 코뮌",
+    "w2": "파리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 220,
+    "unigram_w1": 220,
+    "unigram_w2": 135231,
+    "ppmi": 6.85024882385038
+  }
+]

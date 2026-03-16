@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume de Bulgarie",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1103,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "bulgare",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 398120,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Royaume de Bulgarie",
+    "w2": "bulgare",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 450,
+    "unigram_w1": 1103,
+    "unigram_w2": 398120,
+    "ppmi": 9.052635592091292
+  }
+]

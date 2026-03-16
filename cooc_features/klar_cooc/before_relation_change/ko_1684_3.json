@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "언터처블: 1%의 우정",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 250,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "프랑스어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 65940,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "언터처블: 1%의 우정",
+    "w2": "프랑스어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 250,
+    "unigram_w2": 65940,
+    "ppmi": 0.9206646562297709
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아메리카 남부 연합",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 7,
+    "unigram_w2": 1351571,
+    "ppmi": 1.721754415325505
+  },
+  {
+    "w1": "수도",
+    "w2": "리치먼드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 2686,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아메리카 남부 연합",
+    "w2": "리치먼드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 7,
+    "unigram_w2": 2686,
+    "ppmi": 10.696716695964561
+  }
+]

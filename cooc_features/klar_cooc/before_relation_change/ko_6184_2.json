@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "뉴햄프셔주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 672,
+    "unigram_w2": 36855,
+    "ppmi": 1.3334250467001638
+  },
+  {
+    "w1": "capital",
+    "w2": "콩코드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 36855,
+    "unigram_w2": 4400,
+    "ppmi": 1.5293452566754209
+  },
+  {
+    "w1": "뉴햄프셔주",
+    "w2": "콩코드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 672,
+    "unigram_w2": 4400,
+    "ppmi": 5.859141594896123
+  }
+]

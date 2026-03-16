@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "世嘉公司",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 49,
+    "unigram_w1": 247,
+    "unigram_w2": 6418768,
+    "ppmi": 0.8500651936075541
+  },
+  {
+    "w1": "位置",
+    "w2": "东京都",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 20741,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "世嘉公司",
+    "w2": "东京都",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 247,
+    "unigram_w2": 20741,
+    "ppmi": 4.50902250294988
+  }
+]

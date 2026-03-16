@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Neil Young",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2771,
+    "unigram_w1": 68963,
+    "unigram_w2": 2654934,
+    "ppmi": 2.971326813851123
+  },
+  {
+    "w1": "instrument",
+    "w2": "harmonica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17485,
+    "unigram_w1": 2654934,
+    "unigram_w2": 100490,
+    "ppmi": 5.085808491868054
+  },
+  {
+    "w1": "Neil Young",
+    "w2": "harmonica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2143,
+    "unigram_w1": 68963,
+    "unigram_w2": 100490,
+    "ppmi": 7.324104102395249
+  }
+]

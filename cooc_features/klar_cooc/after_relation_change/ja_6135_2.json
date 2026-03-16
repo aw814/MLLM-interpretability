@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "トヨタ自動車",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66746,
+    "unigram_w1": 297298,
+    "unigram_w2": 27600878,
+    "ppmi": 0.5067369453798599
+  },
+  {
+    "w1": "場所",
+    "w2": "豊田市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 521734,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "トヨタ自動車",
+    "w2": "豊田市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14788,
+    "unigram_w1": 297298,
+    "unigram_w2": 521734,
+    "ppmi": 4.057738410940223
+  }
+]

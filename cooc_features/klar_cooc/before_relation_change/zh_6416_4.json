@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "吉伦特省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 199,
+    "unigram_w2": 32140,
+    "ppmi": 3.188880638447339
+  },
+  {
+    "w1": "capital",
+    "w2": "波尔多",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 43,
+    "unigram_w1": 32140,
+    "unigram_w2": 24955,
+    "ppmi": 1.6447287303042313
+  },
+  {
+    "w1": "吉伦特省",
+    "w2": "波尔多",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 199,
+    "unigram_w2": 24955,
+    "ppmi": 10.28184211818414
+  }
+]

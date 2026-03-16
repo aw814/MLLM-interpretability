@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "그레이트브리튼 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 59,
+    "unigram_w2": 36855,
+    "ppmi": 3.843099420117083
+  },
+  {
+    "w1": "capital",
+    "w2": "런던",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1328,
+    "unigram_w1": 36855,
+    "unigram_w2": 128055,
+    "ppmi": 2.1343778412836056
+  },
+  {
+    "w1": "그레이트브리튼 왕국",
+    "w2": "런던",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 59,
+    "unigram_w2": 128055,
+    "ppmi": 5.046268098545523
+  }
+]

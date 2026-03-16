@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lake Baikal",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 677,
+    "unigram_w1": 10792,
+    "unigram_w2": 965266,
+    "ppmi": 4.56757326702304
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Lake Baikal",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2266,
+    "unigram_w1": 10792,
+    "unigram_w2": 3865133,
+    "ppmi": 4.308973799057719
+  }
+]

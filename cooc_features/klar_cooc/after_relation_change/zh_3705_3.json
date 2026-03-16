@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Adobe Photoshop",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 3454,
+    "unigram_w2": 7846,
+    "ppmi": 5.498111002726184
+  },
+  {
+    "w1": "developer",
+    "w2": "Adobe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 134,
+    "unigram_w1": 7846,
+    "unigram_w2": 47693,
+    "ppmi": 4.38444522394352
+  },
+  {
+    "w1": "Adobe Photoshop",
+    "w2": "Adobe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3454,
+    "unigram_w1": 3454,
+    "unigram_w2": 47693,
+    "ppmi": 10.256097653562843
+  }
+]

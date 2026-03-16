@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "France métropolitaine",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29141,
+    "unigram_w1": 1557422,
+    "unigram_w2": 9137640,
+    "ppmi": 0.08555941007091038
+  },
+  {
+    "w1": "capitale",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 53474489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "France métropolitaine",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 409661,
+    "unigram_w1": 1557422,
+    "unigram_w2": 53474489,
+    "ppmi": 1.3499103922424804
+  }
+]

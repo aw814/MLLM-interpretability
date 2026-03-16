@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "パリ大学",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3408,
+    "unigram_w1": 11108,
+    "unigram_w2": 27600878,
+    "ppmi": 0.9572915759980467
+  },
+  {
+    "w1": "場所",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "パリ大学",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11108,
+    "unigram_w1": 11108,
+    "unigram_w2": 2419066,
+    "ppmi": 6.174085541906343
+  }
+]

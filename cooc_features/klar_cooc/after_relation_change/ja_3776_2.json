@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エルサレム",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28206,
+    "unigram_w1": 160640,
+    "unigram_w2": 2444276,
+    "ppmi": 3.6493712912920375
+  },
+  {
+    "w1": "首都",
+    "w2": "ユダ王国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 5806,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "エルサレム",
+    "w2": "ユダ王国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3810,
+    "unigram_w1": 160640,
+    "unigram_w2": 5806,
+    "ppmi": 9.47887901942115
+  }
+]

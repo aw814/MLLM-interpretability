@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ptolemy",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10028,
+    "unigram_w1": 22999,
+    "unigram_w2": 74824954,
+    "ppmi": 1.0882495302766004
+  },
+  {
+    "w1": "work",
+    "w2": "mathematician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 76436,
+    "unigram_w1": 74824954,
+    "unigram_w2": 143901,
+    "ppmi": 1.3730343324122514
+  },
+  {
+    "w1": "Ptolemy",
+    "w2": "mathematician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1627,
+    "unigram_w1": 22999,
+    "unigram_w2": 143901,
+    "ppmi": 7.48680084396936
+  }
+]

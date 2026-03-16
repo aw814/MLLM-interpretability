@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에드거 앨런 포",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 835,
+    "unigram_w2": 4640,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "극작가",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 4640,
+    "unigram_w2": 8950,
+    "ppmi": 0.5877341503956919
+  },
+  {
+    "w1": "에드거 앨런 포",
+    "w2": "극작가",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 835,
+    "unigram_w2": 8950,
+    "ppmi": 5.646973353770368
+  }
+]

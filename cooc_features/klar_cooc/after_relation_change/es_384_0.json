@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio ruso",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9262,
+    "unigram_w1": 86334,
+    "unigram_w2": 12196104,
+    "ppmi": 2.871759198265897
+  },
+  {
+    "w1": "idioma",
+    "w2": "finés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 214922,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Imperio ruso",
+    "w2": "finés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1004,
+    "unigram_w1": 86334,
+    "unigram_w2": 214922,
+    "ppmi": 5.492658089603391
+  }
+]

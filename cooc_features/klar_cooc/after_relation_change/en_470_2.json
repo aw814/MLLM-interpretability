@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Campione d'Italia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 98,
+    "unigram_w1": 777,
+    "unigram_w2": 9241408,
+    "ppmi": 2.3160607261845896
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "Campione d'Italia",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 587,
+    "unigram_w1": 777,
+    "unigram_w2": 3499556,
+    "ppmi": 6.29950835503987
+  }
+]

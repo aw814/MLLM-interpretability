@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנאפוליס",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 45,
+    "unigram_w1": 1733,
+    "unigram_w2": 90246,
+    "ppmi": 1.8274304371724348
+  },
+  {
+    "w1": "בירה",
+    "w2": "מרילנד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 7211,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אנאפוליס",
+    "w2": "מרילנד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1733,
+    "unigram_w2": 7211,
+    "ppmi": 6.695414599825895
+  }
+]

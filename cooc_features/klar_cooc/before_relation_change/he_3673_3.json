@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סומליה",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 5146,
+    "unigram_w2": 2719,
+    "ppmi": 2.818112470214108
+  },
+  {
+    "w1": "continent",
+    "w2": "אפריקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 332,
+    "unigram_w1": 2719,
+    "unigram_w2": 150565,
+    "ppmi": 3.322360725507376
+  },
+  {
+    "w1": "סומליה",
+    "w2": "אפריקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2399,
+    "unigram_w1": 5146,
+    "unigram_w2": 150565,
+    "ppmi": 5.255163430744846
+  }
+]

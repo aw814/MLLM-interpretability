@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jalal Talabani",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 131,
+    "unigram_w1": 5144,
+    "unigram_w2": 1325492,
+    "ppmi": 3.3155668415707917
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Kurdistan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 191370,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jalal Talabani",
+    "w2": "Kurdistan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3022,
+    "unigram_w1": 5144,
+    "unigram_w2": 191370,
+    "ppmi": 10.635523158587523
+  }
+]

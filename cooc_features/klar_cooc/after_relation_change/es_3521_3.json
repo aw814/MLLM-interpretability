@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mayotte",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 92,
+    "unigram_w1": 108746,
+    "unigram_w2": 91062,
+    "ppmi": 2.9506070117161975
+  },
+  {
+    "w1": "continent",
+    "w2": "África",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8138,
+    "unigram_w1": 91062,
+    "unigram_w2": 7280838,
+    "ppmi": 3.352433351851529
+  },
+  {
+    "w1": "Mayotte",
+    "w2": "África",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8776,
+    "unigram_w1": 108746,
+    "unigram_w2": 7280838,
+    "ppmi": 3.2052813126535242
+  }
+]

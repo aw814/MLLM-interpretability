@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オーストラリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14144,
+    "unigram_w1": 2108642,
+    "unigram_w2": 498928,
+    "ppmi": 1.2316519432653206
+  },
+  {
+    "w1": "capital",
+    "w2": "キャンベラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 846,
+    "unigram_w1": 498928,
+    "unigram_w2": 26378,
+    "ppmi": 3.4890984230083797
+  },
+  {
+    "w1": "オーストラリア",
+    "w2": "キャンベラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18740,
+    "unigram_w1": 2108642,
+    "unigram_w2": 26378,
+    "ppmi": 5.879007264934229
+  }
+]

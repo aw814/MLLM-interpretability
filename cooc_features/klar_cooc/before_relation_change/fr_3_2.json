@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kenny Rogers",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6311,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Houston",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 698420,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kenny Rogers",
+    "w2": "Houston",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 602,
+    "unigram_w1": 6311,
+    "unigram_w2": 698420,
+    "ppmi": 6.145146721141755
+  }
+]

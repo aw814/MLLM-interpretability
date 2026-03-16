@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "金边",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2529,
+    "unigram_w1": 22626,
+    "unigram_w2": 596594,
+    "ppmi": 3.4498550104859182
+  },
+  {
+    "w1": "首都",
+    "w2": "柬埔寨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 122091,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "金边",
+    "w2": "柬埔寨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9199,
+    "unigram_w1": 22626,
+    "unigram_w2": 122091,
+    "ppmi": 7.601557624635927
+  }
+]

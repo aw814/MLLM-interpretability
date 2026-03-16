@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lacio",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38364,
+    "unigram_w1": 341124,
+    "unigram_w2": 42058182,
+    "ppmi": 1.1538550315519942
+  },
+  {
+    "w1": "capital",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1599228,
+    "unigram_w1": 42058182,
+    "unigram_w2": 9484296,
+    "ppmi": 1.7381611842278224
+  },
+  {
+    "w1": "Lacio",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 77496,
+    "unigram_w1": 341124,
+    "unigram_w2": 9484296,
+    "ppmi": 4.316997623700974
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dutch Republic",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 422,
+    "unigram_w1": 5009,
+    "unigram_w2": 965266,
+    "ppmi": 4.993028168845593
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Dutch Republic",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2169,
+    "unigram_w1": 5009,
+    "unigram_w2": 7715842,
+    "ppmi": 4.3559181849115
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "索马里",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1761,
+    "unigram_w1": 47483,
+    "unigram_w2": 919361,
+    "ppmi": 1.2343713521146358
+  },
+  {
+    "w1": "语言",
+    "w2": "索马里语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 366,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "索马里",
+    "w2": "索马里语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 366,
+    "unigram_w1": 47483,
+    "unigram_w2": 366,
+    "ppmi": 10.262464099940887
+  }
+]

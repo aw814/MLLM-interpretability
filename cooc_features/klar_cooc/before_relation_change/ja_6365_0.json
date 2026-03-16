@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ランカシャー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 7108,
+    "unigram_w2": 498928,
+    "ppmi": 1.5143851610388448
+  },
+  {
+    "w1": "capital",
+    "w2": "プレストン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 648,
+    "unigram_w1": 498928,
+    "unigram_w2": 28574,
+    "ppmi": 2.989066745734252
+  },
+  {
+    "w1": "ランカシャー",
+    "w2": "プレストン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 620,
+    "unigram_w1": 7108,
+    "unigram_w2": 28574,
+    "ppmi": 9.0585852926605
+  }
+]

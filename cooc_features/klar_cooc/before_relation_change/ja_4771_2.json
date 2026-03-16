@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴォルフガング・アマデウス・モーツァルト",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 8670,
+    "unigram_w2": 139628,
+    "ppmi": 1.2070592116597845
+  },
+  {
+    "w1": "instrument",
+    "w2": "ヴィオラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 506,
+    "unigram_w1": 139628,
+    "unigram_w2": 125948,
+    "ppmi": 2.3294003771483793
+  },
+  {
+    "w1": "ヴォルフガング・アマデウス・モーツァルト",
+    "w2": "ヴィオラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 538,
+    "unigram_w1": 8670,
+    "unigram_w2": 125948,
+    "ppmi": 6.427281639637777
+  }
+]

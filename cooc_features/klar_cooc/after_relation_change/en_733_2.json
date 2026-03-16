@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thiruvananthapuram",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1786,
+    "unigram_w1": 33103,
+    "unigram_w2": 9241408,
+    "ppmi": 1.0909636870829054
+  },
+  {
+    "w1": "language",
+    "w2": "Malayalam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21616,
+    "unigram_w1": 9241408,
+    "unigram_w2": 84298,
+    "ppmi": 3.33972284713235
+  },
+  {
+    "w1": "Thiruvananthapuram",
+    "w2": "Malayalam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2418,
+    "unigram_w1": 33103,
+    "unigram_w2": 84298,
+    "ppmi": 8.304516312002258
+  }
+]

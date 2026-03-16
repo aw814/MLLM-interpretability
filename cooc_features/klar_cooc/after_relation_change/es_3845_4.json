@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Belgrado",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 75900,
+    "unigram_w1": 334482,
+    "unigram_w2": 42058182,
+    "ppmi": 2.166569452542783
+  },
+  {
+    "w1": "capital",
+    "w2": "Serbia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 179920,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1275200,
+    "ppmi": 1.4810301736533862
+  },
+  {
+    "w1": "Belgrado",
+    "w2": "Serbia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 128314,
+    "unigram_w1": 334482,
+    "unigram_w2": 1275200,
+    "ppmi": 7.96766729959914
+  }
+]

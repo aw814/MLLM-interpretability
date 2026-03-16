@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Santiago de Compostela",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2302802,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Galicia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 9175082,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Santiago de Compostela",
+    "w2": "Galicia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 663126,
+    "unigram_w1": 2302802,
+    "unigram_w2": 9175082,
+    "ppmi": 4.706884326002444
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nouvelle-Galles du Sud",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1816,
+    "unigram_w1": 106581,
+    "unigram_w2": 7952962,
+    "ppmi": 0.150812191046917
+  },
+  {
+    "w1": "capital",
+    "w2": "Sydney",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35176,
+    "unigram_w1": 7952962,
+    "unigram_w2": 946043,
+    "ppmi": 1.2766120362583135
+  },
+  {
+    "w1": "Nouvelle-Galles du Sud",
+    "w2": "Sydney",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37305,
+    "unigram_w1": 106581,
+    "unigram_w2": 946043,
+    "ppmi": 7.5828597049574284
+  }
+]

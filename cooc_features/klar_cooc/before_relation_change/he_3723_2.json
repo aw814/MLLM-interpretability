@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google AdSense",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 1198,
+    "unigram_w2": 7399,
+    "ppmi": 2.0616443724647513
+  },
+  {
+    "w1": "developer",
+    "w2": "חברת גוגל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 7399,
+    "unigram_w2": 4201,
+    "ppmi": 2.3670167121869556
+  },
+  {
+    "w1": "Google AdSense",
+    "w2": "חברת גוגל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 1198,
+    "unigram_w2": 4201,
+    "ppmi": 6.380742225947705
+  }
+]

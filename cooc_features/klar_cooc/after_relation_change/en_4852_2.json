@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Box Office Mojo",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 287,
+    "unigram_w1": 7617,
+    "unigram_w2": 1657738,
+    "ppmi": 3.051918079244288
+  },
+  {
+    "w1": "owns",
+    "w2": "Amazon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53943,
+    "unigram_w1": 1657738,
+    "unigram_w2": 3853717,
+    "ppmi": 1.623347271028497
+  },
+  {
+    "w1": "Box Office Mojo",
+    "w2": "Amazon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 713,
+    "unigram_w1": 7617,
+    "unigram_w2": 3853717,
+    "ppmi": 3.1477348003349146
+  }
+]

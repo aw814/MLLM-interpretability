@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מיורקה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 4639,
+    "unigram_w2": 14610,
+    "ppmi": 0.8638700543193336
+  },
+  {
+    "w1": "capital",
+    "w2": "פלמה דה מיורקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 2273,
+    "ppmi": 0.5711581214639594
+  },
+  {
+    "w1": "מיורקה",
+    "w2": "פלמה דה מיורקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2273,
+    "unigram_w1": 4639,
+    "unigram_w2": 2273,
+    "ppmi": 11.376610517122831
+  }
+]

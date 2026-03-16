@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "맥 OS",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83,
+    "unigram_w1": 4396,
+    "unigram_w2": 17565,
+    "ppmi": 4.067963011737567
+  },
+  {
+    "w1": "developer",
+    "w2": "애플",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 837,
+    "unigram_w1": 17565,
+    "unigram_w2": 141895,
+    "ppmi": 2.3895188358709722
+  },
+  {
+    "w1": "맥 OS",
+    "w2": "애플",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1421,
+    "unigram_w1": 4396,
+    "unigram_w2": 141895,
+    "ppmi": 5.151566147723911
+  }
+]

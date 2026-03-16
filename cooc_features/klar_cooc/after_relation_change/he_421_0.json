@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פלנדריה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 96,
+    "unigram_w1": 1153,
+    "unigram_w2": 236631,
+    "ppmi": 2.117714789332354
+  },
+  {
+    "w1": "שפה",
+    "w2": "הולנדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 14548,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פלנדריה",
+    "w2": "הולנדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 137,
+    "unigram_w1": 1153,
+    "unigram_w2": 14548,
+    "ppmi": 6.654530722825806
+  }
+]

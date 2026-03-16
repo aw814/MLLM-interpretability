@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פאול הינדמית",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 122,
+    "unigram_w2": 2401,
+    "ppmi": 5.396051622179365
+  },
+  {
+    "w1": "instrument",
+    "w2": "ויולה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 2401,
+    "unigram_w2": 6235,
+    "ppmi": 3.5279700370828233
+  },
+  {
+    "w1": "פאול הינדמית",
+    "w2": "ויולה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 122,
+    "unigram_w2": 6235,
+    "ppmi": 8.341225560580112
+  }
+]

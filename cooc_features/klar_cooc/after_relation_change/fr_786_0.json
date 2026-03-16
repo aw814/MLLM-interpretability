@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bulgarie",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 69348,
+    "unigram_w1": 1043486,
+    "unigram_w2": 12749290,
+    "ppmi": 1.4335885701518392
+  },
+  {
+    "w1": "langue",
+    "w2": "bulgare",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 398120,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bulgarie",
+    "w2": "bulgare",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 96240,
+    "unigram_w1": 1043486,
+    "unigram_w2": 398120,
+    "ppmi": 6.907440684592218
+  }
+]

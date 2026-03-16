@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "תומאזו אלבינוני",
+    "w2": "מת",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 31,
+    "unigram_w2": 241785,
+    "ppmi": 3.526002040606605
+  },
+  {
+    "w1": "מת",
+    "w2": "ונציה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 241785,
+    "unigram_w2": 26965,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "תומאזו אלבינוני",
+    "w2": "ונציה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 31,
+    "unigram_w2": 26965,
+    "ppmi": 7.053136925630183
+  }
+]

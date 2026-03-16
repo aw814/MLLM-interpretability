@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "무스카트",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 283,
+    "unigram_w1": 1928,
+    "unigram_w2": 1351571,
+    "ppmi": 0.76087824398503
+  },
+  {
+    "w1": "수도",
+    "w2": "오만",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 18935,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "무스카트",
+    "w2": "오만",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1316,
+    "unigram_w1": 1928,
+    "unigram_w2": 18935,
+    "ppmi": 9.135601844183105
+  }
+]

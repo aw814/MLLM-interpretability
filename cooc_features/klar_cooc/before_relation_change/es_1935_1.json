@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Adam Smith",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 178494,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "economía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 30293698,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Adam Smith",
+    "w2": "economía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 109148,
+    "unigram_w1": 178494,
+    "unigram_w2": 30293698,
+    "ppmi": 4.070105141015903
+  }
+]

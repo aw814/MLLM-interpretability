@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Federación de Fútbol de los Estados Unidos",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1592,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 4885556,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Federación de Fútbol de los Estados Unidos",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 212,
+    "unigram_w1": 1592,
+    "unigram_w2": 4885556,
+    "ppmi": 4.503413898142031
+  }
+]

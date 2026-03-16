@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Commune de Paris",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15031,
+    "unigram_w1": 117043,
+    "unigram_w2": 9137640,
+    "ppmi": 2.8644993703139416
+  },
+  {
+    "w1": "capitale",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 53474489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Commune de Paris",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 117043,
+    "unigram_w1": 117043,
+    "unigram_w2": 53474489,
+    "ppmi": 3.2765678442048487
+  }
+]

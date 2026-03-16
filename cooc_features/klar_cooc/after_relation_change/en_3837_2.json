@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Podgorica",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2791,
+    "unigram_w1": 11151,
+    "unigram_w2": 7450623,
+    "ppmi": 3.6155542154047713
+  },
+  {
+    "w1": "capital",
+    "w2": "Montenegro",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15147,
+    "unigram_w1": 7450623,
+    "unigram_w2": 117932,
+    "ppmi": 2.653022031896109
+  },
+  {
+    "w1": "Podgorica",
+    "w2": "Montenegro",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8145,
+    "unigram_w1": 11151,
+    "unigram_w2": 117932,
+    "ppmi": 11.142020712971163
+  }
+]

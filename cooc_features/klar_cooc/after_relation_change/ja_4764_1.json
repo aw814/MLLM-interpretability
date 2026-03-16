@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "セルジュ・ゲンスブール",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 2196,
+    "unigram_w2": 139628,
+    "ppmi": 1.188213150763783
+  },
+  {
+    "w1": "instrument",
+    "w2": "ギター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8514,
+    "unigram_w1": 139628,
+    "unigram_w2": 1964750,
+    "ppmi": 2.4385825434071586
+  },
+  {
+    "w1": "セルジュ・ゲンスブール",
+    "w2": "ギター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 486,
+    "unigram_w1": 2196,
+    "unigram_w2": 1964750,
+    "ppmi": 4.298340085962314
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "안드라프라데시주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 231,
+    "unigram_w2": 1351571,
+    "ppmi": 0.764823137217391
+  },
+  {
+    "w1": "수도",
+    "w2": "하이데라바드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 1714,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "안드라프라데시주",
+    "w2": "하이데라바드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 231,
+    "unigram_w2": 1714,
+    "ppmi": 7.30041477192105
+  }
+]

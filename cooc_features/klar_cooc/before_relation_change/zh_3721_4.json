@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iTunes",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 94,
+    "unigram_w1": 21993,
+    "unigram_w2": 7846,
+    "ppmi": 4.989678008230273
+  },
+  {
+    "w1": "developer",
+    "w2": "苹果公司",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 7846,
+    "unigram_w2": 63256,
+    "ppmi": 2.7182861602217936
+  },
+  {
+    "w1": "iTunes",
+    "w2": "苹果公司",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1104,
+    "unigram_w1": 21993,
+    "unigram_w2": 63256,
+    "ppmi": 5.53244052409574
+  }
+]

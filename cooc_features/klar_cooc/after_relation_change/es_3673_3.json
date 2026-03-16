@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Somalia",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 846,
+    "unigram_w1": 560294,
+    "unigram_w2": 91062,
+    "ppmi": 3.7863372008045344
+  },
+  {
+    "w1": "continent",
+    "w2": "África",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8138,
+    "unigram_w1": 91062,
+    "unigram_w2": 7280838,
+    "ppmi": 3.352433351851529
+  },
+  {
+    "w1": "Somalia",
+    "w2": "África",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 141146,
+    "unigram_w1": 560294,
+    "unigram_w2": 7280838,
+    "ppmi": 4.847540512895592
+  }
+]

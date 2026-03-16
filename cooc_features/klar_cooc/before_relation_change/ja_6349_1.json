@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ノーザンテリトリー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 120,
+    "unigram_w1": 5710,
+    "unigram_w2": 498928,
+    "ppmi": 2.879247697298264
+  },
+  {
+    "w1": "capital",
+    "w2": "ダーウィン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 580,
+    "unigram_w1": 498928,
+    "unigram_w2": 107156,
+    "ppmi": 0.9221881142287854
+  },
+  {
+    "w1": "ノーザンテリトリー",
+    "w2": "ダーウィン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2800,
+    "unigram_w1": 5710,
+    "unigram_w2": 107156,
+    "ppmi": 9.642687216361287
+  }
+]

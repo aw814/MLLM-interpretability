@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Belarus",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17,
+    "unigram_w1": 1350,
+    "unigram_w2": 1074632,
+    "ppmi": 2.0961107900825606
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Belarus",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2674,
+    "unigram_w1": 1074632,
+    "unigram_w2": 181869,
+    "ppmi": 2.3196352632543125
+  },
+  {
+    "w1": "President of Belarus",
+    "w2": "Belarus",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1350,
+    "unigram_w1": 1350,
+    "unigram_w2": 181869,
+    "ppmi": 10.970262786329513
+  }
+]

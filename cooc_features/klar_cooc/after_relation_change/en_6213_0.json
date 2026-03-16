@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Andalusia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6793,
+    "unigram_w1": 44359,
+    "unigram_w2": 7450623,
+    "ppmi": 2.9067671965185276
+  },
+  {
+    "w1": "capital",
+    "w2": "Seville",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12294,
+    "unigram_w1": 7450623,
+    "unigram_w2": 107890,
+    "ppmi": 2.4803384232641577
+  },
+  {
+    "w1": "Andalusia",
+    "w2": "Seville",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8062,
+    "unigram_w1": 44359,
+    "unigram_w2": 107890,
+    "ppmi": 9.263584133148731
+  }
+]

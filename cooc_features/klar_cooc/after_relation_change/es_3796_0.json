@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Estocolmo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 240572,
+    "unigram_w1": 1132110,
+    "unigram_w2": 42058182,
+    "ppmi": 2.0718527373520677
+  },
+  {
+    "w1": "capital",
+    "w2": "Suecia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1018014,
+    "unigram_w1": 42058182,
+    "unigram_w2": 4872800,
+    "ppmi": 2.0473326290961347
+  },
+  {
+    "w1": "Estocolmo",
+    "w2": "Suecia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 471272,
+    "unigram_w1": 1132110,
+    "unigram_w2": 4872800,
+    "ppmi": 6.151507542456677
+  }
+]

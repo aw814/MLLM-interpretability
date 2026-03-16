@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יוזף שומפטר",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 111,
+    "unigram_w2": 1639120,
+    "ppmi": 1.5767343529061422
+  },
+  {
+    "w1": "עבודה",
+    "w2": "כלכלה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 143258,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "יוזף שומפטר",
+    "w2": "כלכלה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46,
+    "unigram_w1": 111,
+    "unigram_w2": 143258,
+    "ppmi": 5.157098557153695
+  }
+]

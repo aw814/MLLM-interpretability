@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "真福加尔各答的德肋撒",
+    "w2": "说话",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 712969,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "说话",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 712969,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "真福加尔各答的德肋撒",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  }
+]

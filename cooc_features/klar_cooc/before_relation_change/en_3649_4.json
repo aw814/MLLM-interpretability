@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Western Asia",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1285,
+    "unigram_w1": 19222,
+    "unigram_w2": 965266,
+    "ppmi": 4.6593176882728455
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Western Asia",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19222,
+    "unigram_w1": 19222,
+    "unigram_w2": 3865133,
+    "ppmi": 6.560716286185471
+  }
+]

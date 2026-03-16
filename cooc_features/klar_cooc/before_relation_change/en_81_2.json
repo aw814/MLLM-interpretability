@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ibn Khaldun",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2897,
+    "unigram_w2": 3,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 288395,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ibn Khaldun",
+    "w2": "Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 408,
+    "unigram_w1": 2897,
+    "unigram_w2": 288395,
+    "ppmi": 7.47719765989128
+  }
+]

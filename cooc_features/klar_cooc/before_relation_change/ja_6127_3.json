@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "国際テニス連盟",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5258,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1900368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "国際テニス連盟",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 782,
+    "unigram_w1": 5258,
+    "unigram_w2": 1900368,
+    "ppmi": 3.7729832251209765
+  }
+]

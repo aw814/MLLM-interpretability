@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Zheng He",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 279,
+    "unigram_w1": 2492,
+    "unigram_w2": 2269436,
+    "ppmi": 4.169933499781553
+  },
+  {
+    "w1": "religion",
+    "w2": "Islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231828,
+    "unigram_w1": 2269436,
+    "unigram_w2": 713808,
+    "ppmi": 5.706419294919044
+  },
+  {
+    "w1": "Zheng He",
+    "w2": "Islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 273,
+    "unigram_w1": 2492,
+    "unigram_w2": 713808,
+    "ppmi": 5.80729515692218
+  }
+]

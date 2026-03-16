@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ucrania",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1283248,
+    "unigram_w1": 4342322,
+    "unigram_w2": 42058182,
+    "ppmi": 2.5476595374516267
+  },
+  {
+    "w1": "capital",
+    "w2": "Kiev",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 705490,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1749200,
+    "ppmi": 2.9963285217554674
+  },
+  {
+    "w1": "Ucrania",
+    "w2": "Kiev",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1091956,
+    "unigram_w1": 4342322,
+    "unigram_w2": 1749200,
+    "ppmi": 6.902393581000505
+  }
+]

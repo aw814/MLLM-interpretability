@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guadalquivir",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 194,
+    "unigram_w1": 5536,
+    "unigram_w2": 965266,
+    "ppmi": 3.7275204909467132
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Guadalquivir",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1759,
+    "unigram_w1": 5536,
+    "unigram_w2": 7715842,
+    "ppmi": 3.909322283332365
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ופל",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 2565,
+    "unigram_w2": 286432,
+    "ppmi": 0.16972157492504256
+  },
+  {
+    "w1": "מיקום",
+    "w2": "בלגיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 40730,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ופל",
+    "w2": "בלגיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 60,
+    "unigram_w1": 2565,
+    "unigram_w2": 40730,
+    "ppmi": 2.824551939195993
+  }
+]

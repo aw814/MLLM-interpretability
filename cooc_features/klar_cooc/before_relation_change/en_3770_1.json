@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Berlin",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1337381,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Germany",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 4308131,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Berlin",
+    "w2": "Germany",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 410235,
+    "unigram_w1": 1337381,
+    "unigram_w2": 4308131,
+    "ppmi": 4.699284187278191
+  }
+]

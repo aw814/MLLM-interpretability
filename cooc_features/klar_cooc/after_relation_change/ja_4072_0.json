@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モハメド・アリ",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1210,
+    "unigram_w1": 13840,
+    "unigram_w2": 4020810,
+    "ppmi": 1.9252845184126257
+  },
+  {
+    "w1": "話した",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "モハメド・アリ",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2718,
+    "unigram_w1": 13840,
+    "unigram_w2": 8357100,
+    "ppmi": 2.03730669235367
+  }
+]

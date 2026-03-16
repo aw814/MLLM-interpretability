@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sri Pandit Jawaharlal Nehru",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 460,
+    "unigram_w2": 979024,
+    "ppmi": 3.885734638512882
+  },
+  {
+    "w1": "religion",
+    "w2": "hinduismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11010,
+    "unigram_w1": 979024,
+    "unigram_w2": 196126,
+    "ppmi": 5.5763302602998985
+  },
+  {
+    "w1": "Sri Pandit Jawaharlal Nehru",
+    "w2": "hinduismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 460,
+    "unigram_w2": 196126,
+    "ppmi": 7.664729680769669
+  }
+]

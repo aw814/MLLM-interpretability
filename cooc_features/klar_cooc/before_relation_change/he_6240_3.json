@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מחוז מיאמי-דייד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 73,
+    "unigram_w2": 14610,
+    "ppmi": 3.5317155314017903
+  },
+  {
+    "w1": "capital",
+    "w2": "מיאמי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 14610,
+    "unigram_w2": 25358,
+    "ppmi": 1.8193072015163825
+  },
+  {
+    "w1": "מחוז מיאמי-דייד",
+    "w2": "מיאמי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 73,
+    "unigram_w2": 25358,
+    "ppmi": 8.926055304644043
+  }
+]

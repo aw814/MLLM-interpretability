@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "디종",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 372,
+    "unigram_w1": 2146,
+    "unigram_w2": 1351571,
+    "ppmi": 1.0008337877346187
+  },
+  {
+    "w1": "수도",
+    "w2": "부르고뉴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3455,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "디종",
+    "w2": "부르고뉴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 2146,
+    "unigram_w2": 3455,
+    "ppmi": 8.282864217046415
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Saint Paul",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 78166,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Minnesota",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1471195,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Saint Paul",
+    "w2": "Minnesota",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24621,
+    "unigram_w1": 78166,
+    "unigram_w2": 1471195,
+    "ppmi": 6.287594009596169
+  }
+]

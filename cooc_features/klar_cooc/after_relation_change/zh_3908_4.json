@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威斯巴登",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 47,
+    "unigram_w1": 1024,
+    "unigram_w2": 596594,
+    "ppmi": 2.1657864763631376
+  },
+  {
+    "w1": "首都",
+    "w2": "黑森",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 11460,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "威斯巴登",
+    "w2": "黑森",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 166,
+    "unigram_w1": 1024,
+    "unigram_w2": 11460,
+    "ppmi": 9.688307575256102
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pays de la Loire",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 260,
+    "unigram_w1": 4889,
+    "unigram_w2": 9241408,
+    "ppmi": 1.0701657934974083
+  },
+  {
+    "w1": "language",
+    "w2": "Breton",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9426,
+    "unigram_w1": 9241408,
+    "unigram_w2": 87715,
+    "ppmi": 2.0850156802346644
+  },
+  {
+    "w1": "Pays de la Loire",
+    "w2": "Breton",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 203,
+    "unigram_w1": 4889,
+    "unigram_w2": 87715,
+    "ppmi": 7.432279184858229
+  }
+]

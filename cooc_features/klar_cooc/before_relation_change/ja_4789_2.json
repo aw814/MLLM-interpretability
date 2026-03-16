@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジョルジェ・エネスク",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 472,
+    "unigram_w2": 139628,
+    "ppmi": 2.4062324404071407
+  },
+  {
+    "w1": "instrument",
+    "w2": "ヴァイオリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1438,
+    "unigram_w1": 139628,
+    "unigram_w2": 337070,
+    "ppmi": 2.4160347458899167
+  },
+  {
+    "w1": "ジョルジェ・エネスク",
+    "w2": "ヴァイオリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 302,
+    "unigram_w1": 472,
+    "unigram_w2": 337070,
+    "ppmi": 8.373177228150137
+  }
+]

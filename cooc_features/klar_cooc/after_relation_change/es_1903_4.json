@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Urbain Le Verrier",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 524,
+    "unigram_w1": 1604,
+    "unigram_w2": 128711420,
+    "ppmi": 1.0786091434259866
+  },
+  {
+    "w1": "trabajo",
+    "w2": "astronomía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 1205432,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Urbain Le Verrier",
+    "w2": "astronomía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 664,
+    "unigram_w1": 1604,
+    "unigram_w2": 1205432,
+    "ppmi": 8.158671557337115
+  }
+]

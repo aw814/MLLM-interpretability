@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Polina Gagarina",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 330,
+    "unigram_w2": 1072211,
+    "ppmi": 1.0443232892193473
+  },
+  {
+    "w1": "occupation",
+    "w2": "actor",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17645,
+    "unigram_w1": 1072211,
+    "unigram_w2": 2003956,
+    "ppmi": 1.5831979115617205
+  },
+  {
+    "w1": "Polina Gagarina",
+    "w2": "actor",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 330,
+    "unigram_w2": 2003956,
+    "ppmi": 4.1420612981226235
+  }
+]

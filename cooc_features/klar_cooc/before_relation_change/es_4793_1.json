@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arthur Rubinstein",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 12190,
+    "unigram_w2": 296558,
+    "ppmi": 2.6881990420943995
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25102,
+    "unigram_w1": 296558,
+    "unigram_w2": 4426392,
+    "ppmi": 3.992069529692425
+  },
+  {
+    "w1": "Arthur Rubinstein",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4738,
+    "unigram_w1": 12190,
+    "unigram_w2": 4426392,
+    "ppmi": 6.191161577640571
+  }
+]

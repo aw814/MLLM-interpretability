@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maputo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13196,
+    "unigram_w1": 46530,
+    "unigram_w2": 42058182,
+    "ppmi": 2.488265732673725
+  },
+  {
+    "w1": "capital",
+    "w2": "Mozambique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82626,
+    "unigram_w1": 42058182,
+    "unigram_w2": 518890,
+    "ppmi": 1.6555652364782107
+  },
+  {
+    "w1": "Maputo",
+    "w2": "Mozambique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30914,
+    "unigram_w1": 46530,
+    "unigram_w2": 518890,
+    "ppmi": 10.057239334831742
+  }
+]

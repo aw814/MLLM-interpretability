@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Checa",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 63162,
+    "unigram_w1": 1378930,
+    "unigram_w2": 12196104,
+    "ppmi": 1.643943811426914
+  },
+  {
+    "w1": "idioma",
+    "w2": "checo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 1687410,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "República Checa",
+    "w2": "checo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 150366,
+    "unigram_w1": 1378930,
+    "unigram_w2": 1687410,
+    "ppmi": 5.748831337335416
+  }
+]

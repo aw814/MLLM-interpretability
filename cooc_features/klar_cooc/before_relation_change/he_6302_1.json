@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קנדה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 738,
+    "unigram_w1": 82546,
+    "unigram_w2": 14610,
+    "ppmi": 2.9161064098308533
+  },
+  {
+    "w1": "capital",
+    "w2": "אוטווה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 14610,
+    "unigram_w2": 1919,
+    "ppmi": 7.072788936779079
+  },
+  {
+    "w1": "קנדה",
+    "w2": "אוטווה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1283,
+    "unigram_w1": 82546,
+    "unigram_w2": 1919,
+    "ppmi": 6.64246442035562
+  }
+]

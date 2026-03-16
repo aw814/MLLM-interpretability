@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "헨드릭 로런츠",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "네덜란드어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 26101,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "헨드릭 로런츠",
+    "w2": "네덜란드어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 10,
+    "unigram_w2": 26101,
+    "ppmi": 6.901569651604465
+  }
+]

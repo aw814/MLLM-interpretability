@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "mont Damavand",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 40,
+    "unigram_w1": 785,
+    "unigram_w2": 3399010,
+    "ppmi": 2.95761137498035
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "mont Damavand",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 128,
+    "unigram_w1": 785,
+    "unigram_w2": 3597699,
+    "ppmi": 4.553723397281403
+  }
+]

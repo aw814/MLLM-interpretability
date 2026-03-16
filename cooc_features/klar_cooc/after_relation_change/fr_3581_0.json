@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kazakhstan",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19637,
+    "unigram_w1": 574358,
+    "unigram_w2": 3399010,
+    "ppmi": 2.381928315107614
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Kazakhstan",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100975,
+    "unigram_w1": 574358,
+    "unigram_w2": 18211758,
+    "ppmi": 2.322596331709514
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mashhad",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1422,
+    "unigram_w1": 13376,
+    "unigram_w2": 12196104,
+    "ppmi": 2.858638986187454
+  },
+  {
+    "w1": "idioma",
+    "w2": "persa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 938118,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Mashhad",
+    "w2": "persa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3554,
+    "unigram_w1": 13376,
+    "unigram_w2": 938118,
+    "ppmi": 7.880668348449999
+  }
+]

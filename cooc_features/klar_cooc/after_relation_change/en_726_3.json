@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chennai",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22090,
+    "unigram_w1": 407538,
+    "unigram_w2": 9241408,
+    "ppmi": 1.0976524076862548
+  },
+  {
+    "w1": "language",
+    "w2": "Tamil",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 64691,
+    "unigram_w1": 9241408,
+    "unigram_w2": 436250,
+    "ppmi": 2.5496034585172187
+  },
+  {
+    "w1": "Chennai",
+    "w2": "Tamil",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 76987,
+    "unigram_w1": 407538,
+    "unigram_w2": 436250,
+    "ppmi": 7.303759480049783
+  }
+]

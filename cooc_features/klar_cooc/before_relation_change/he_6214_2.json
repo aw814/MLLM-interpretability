@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מהאראשטרה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 153,
+    "unigram_w2": 14610,
+    "ppmi": 2.4641522475891557
+  },
+  {
+    "w1": "capital",
+    "w2": "מומבאי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 314,
+    "unigram_w1": 14610,
+    "unigram_w2": 4039,
+    "ppmi": 6.036378408470348
+  },
+  {
+    "w1": "מהאראשטרה",
+    "w2": "מומבאי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47,
+    "unigram_w1": 153,
+    "unigram_w2": 4039,
+    "ppmi": 9.873627226254566
+  }
+]

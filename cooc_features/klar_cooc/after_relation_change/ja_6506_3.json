@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バーガーキング",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15452,
+    "unigram_w1": 38052,
+    "unigram_w2": 27600878,
+    "ppmi": 1.3617147169979902
+  },
+  {
+    "w1": "場所",
+    "w2": "マイアミ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 255490,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "バーガーキング",
+    "w2": "マイアミ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 544,
+    "unigram_w1": 38052,
+    "unigram_w2": 255490,
+    "ppmi": 3.2889751219952585
+  }
+]

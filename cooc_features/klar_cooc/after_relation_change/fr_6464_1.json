@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Virginie-Occidentale",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5823,
+    "unigram_w1": 47480,
+    "unigram_w2": 9137640,
+    "ppmi": 2.7980397140047035
+  },
+  {
+    "w1": "capitale",
+    "w2": "Charleston",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 207101,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Virginie-Occidentale",
+    "w2": "Charleston",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3253,
+    "unigram_w1": 47480,
+    "unigram_w2": 207101,
+    "ppmi": 7.42146309789606
+  }
+]

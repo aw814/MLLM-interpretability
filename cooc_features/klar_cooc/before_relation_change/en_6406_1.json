@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Akershus",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 987,
+    "unigram_w1": 6428,
+    "unigram_w2": 7450623,
+    "ppmi": 2.910625340702922
+  },
+  {
+    "w1": "capital",
+    "w2": "Oslo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27961,
+    "unigram_w1": 7450623,
+    "unigram_w2": 240362,
+    "ppmi": 2.510152311973521
+  },
+  {
+    "w1": "Akershus",
+    "w2": "Oslo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3718,
+    "unigram_w1": 6428,
+    "unigram_w2": 240362,
+    "ppmi": 9.778110449360078
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "노르웨이",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 287,
+    "unigram_w1": 44489,
+    "unigram_w2": 36855,
+    "ppmi": 1.4494883458562378
+  },
+  {
+    "w1": "capital",
+    "w2": "오슬로",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 52,
+    "unigram_w1": 36855,
+    "unigram_w2": 6771,
+    "ppmi": 1.701028983707024
+  },
+  {
+    "w1": "노르웨이",
+    "w2": "오슬로",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2762,
+    "unigram_w1": 44489,
+    "unigram_w2": 6771,
+    "ppmi": 7.160498557496292
+  }
+]

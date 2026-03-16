@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "捷克",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 236,
+    "unigram_w1": 122281,
+    "unigram_w2": 32140,
+    "ppmi": 1.808307578335597
+  },
+  {
+    "w1": "capital",
+    "w2": "布拉格",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 268,
+    "unigram_w1": 32140,
+    "unigram_w2": 48243,
+    "ppmi": 3.3335624456101423
+  },
+  {
+    "w1": "捷克",
+    "w2": "布拉格",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13486,
+    "unigram_w1": 122281,
+    "unigram_w2": 48243,
+    "ppmi": 7.058889716025672
+  }
+]

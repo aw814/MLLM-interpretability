@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "악틱 몽키즈",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 45,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "셰필드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2992,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "악틱 몽키즈",
+    "w2": "셰필드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 45,
+    "unigram_w2": 2992,
+    "ppmi": 8.856567651232297
+  }
+]

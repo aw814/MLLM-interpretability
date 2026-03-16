@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קרנאטקה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 168,
+    "unigram_w2": 14610,
+    "ppmi": 2.329222667503047
+  },
+  {
+    "w1": "capital",
+    "w2": "בנגלור",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 14610,
+    "unigram_w2": 1835,
+    "ppmi": 3.7868663381597507
+  },
+  {
+    "w1": "קרנאטקה",
+    "w2": "בנגלור",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 168,
+    "unigram_w2": 1835,
+    "ppmi": 10.93703672157854
+  }
+]

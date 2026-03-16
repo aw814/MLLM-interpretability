@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יפן בתקופת הכיבוש האמריקאי",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 17,
+    "unigram_w2": 90246,
+    "ppmi": 4.00717043875259
+  },
+  {
+    "w1": "בירה",
+    "w2": "טוקיו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 25491,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "יפן בתקופת הכיבוש האמריקאי",
+    "w2": "טוקיו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 17,
+    "unigram_w2": 25491,
+    "ppmi": 7.831045456451353
+  }
+]

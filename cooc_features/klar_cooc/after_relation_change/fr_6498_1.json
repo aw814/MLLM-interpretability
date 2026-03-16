@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Xiaomi",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8549,
+    "unigram_w1": 680580,
+    "unigram_w2": 5673888,
+    "ppmi": 0.1981437856862372
+  },
+  {
+    "w1": "localisation",
+    "w2": "Pékin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 1279291,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Xiaomi",
+    "w2": "Pékin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4051,
+    "unigram_w1": 680580,
+    "unigram_w2": 1279291,
+    "ppmi": 1.2696593985585767
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Super Nintendo",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 165,
+    "unigram_w1": 91092,
+    "unigram_w2": 366427,
+    "ppmi": 1.3570344907935736
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Nintendo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3155,
+    "unigram_w1": 366427,
+    "unigram_w2": 1399282,
+    "ppmi": 1.6729179930768838
+  },
+  {
+    "w1": "Super Nintendo",
+    "w2": "Nintendo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 91092,
+    "unigram_w1": 91092,
+    "unigram_w2": 1399282,
+    "ppmi": 8.532659989296329
+  }
+]

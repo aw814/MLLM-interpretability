@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "古希腊",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 23314,
+    "unigram_w2": 1361,
+    "ppmi": 2.8782272865554535
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "古希腊",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3894,
+    "unigram_w1": 23314,
+    "unigram_w2": 1834429,
+    "ppmi": 2.4088161700618826
+  }
+]

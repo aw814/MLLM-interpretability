@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Max Weber",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7021,
+    "unigram_w1": 11046,
+    "unigram_w2": 74824954,
+    "ppmi": 1.6320111635254948
+  },
+  {
+    "w1": "work",
+    "w2": "sociology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 257650,
+    "unigram_w1": 74824954,
+    "unigram_w2": 469730,
+    "ppmi": 1.419367619030659
+  },
+  {
+    "w1": "Max Weber",
+    "w2": "sociology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3503,
+    "unigram_w1": 11046,
+    "unigram_w2": 469730,
+    "ppmi": 7.944469563846101
+  }
+]

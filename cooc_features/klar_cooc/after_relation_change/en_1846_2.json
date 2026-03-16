@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abraham Maslow",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4209,
+    "unigram_w1": 6363,
+    "unigram_w2": 74824954,
+    "ppmi": 1.689557151016117
+  },
+  {
+    "w1": "work",
+    "w2": "psychology",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 908012,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1718400,
+    "ppmi": 1.3655041334479339
+  },
+  {
+    "w1": "Abraham Maslow",
+    "w2": "psychology",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2349,
+    "unigram_w1": 6363,
+    "unigram_w2": 1718400,
+    "ppmi": 6.292508037939317
+  }
+]

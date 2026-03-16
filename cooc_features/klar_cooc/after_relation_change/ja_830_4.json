@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ラハティ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 346,
+    "unigram_w1": 4052,
+    "unigram_w2": 3715876,
+    "ppmi": 2.005043082699208
+  },
+  {
+    "w1": "言語",
+    "w2": "フィンランド語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 55856,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ラハティ",
+    "w2": "フィンランド語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 436,
+    "unigram_w1": 4052,
+    "unigram_w2": 55856,
+    "ppmi": 8.394445466928298
+  }
+]

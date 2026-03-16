@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sébastopol",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8205,
+    "unigram_w1": 136269,
+    "unigram_w2": 12749290,
+    "ppmi": 1.2911914737311185
+  },
+  {
+    "w1": "langue",
+    "w2": "ukrainien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 422759,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sébastopol",
+    "w2": "ukrainien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8157,
+    "unigram_w1": 136269,
+    "unigram_w2": 422759,
+    "ppmi": 6.197164420285929
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "남극조약",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 136,
+    "unigram_w2": 2712,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "continent",
+    "w2": "남극",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 2712,
+    "unigram_w2": 11106,
+    "ppmi": 4.1804050806665
+  },
+  {
+    "w1": "남극조약",
+    "w2": "남극",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 95,
+    "unigram_w1": 136,
+    "unigram_w2": 11106,
+    "ppmi": 9.938656293938486
+  }
+]

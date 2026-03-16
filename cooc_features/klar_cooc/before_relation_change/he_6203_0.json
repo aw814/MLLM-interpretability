@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לסטרשייר",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 61,
+    "unigram_w2": 14610,
+    "ppmi": 3.790802752718921
+  },
+  {
+    "w1": "capital",
+    "w2": "לסטר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 14610,
+    "unigram_w2": 11766,
+    "ppmi": 0.722765725425515
+  },
+  {
+    "w1": "לסטרשייר",
+    "w2": "לסטר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 61,
+    "unigram_w2": 11766,
+    "ppmi": 8.010025585104994
+  }
+]

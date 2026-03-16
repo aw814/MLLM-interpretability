@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Euphrates",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1143,
+    "unigram_w1": 40507,
+    "unigram_w2": 965266,
+    "ppmi": 3.41496194391234
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Euphrates",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5448,
+    "unigram_w1": 40507,
+    "unigram_w2": 3865133,
+    "ppmi": 3.6663436534990934
+  }
+]

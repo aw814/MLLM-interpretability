@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Baibars",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 146,
+    "unigram_w1": 451,
+    "unigram_w2": 5281801,
+    "ppmi": 4.483045333471545
+  },
+  {
+    "w1": "died",
+    "w2": "Damascus",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23619,
+    "unigram_w1": 5281801,
+    "unigram_w2": 183784,
+    "ppmi": 3.1502130141093354
+  },
+  {
+    "w1": "Baibars",
+    "w2": "Damascus",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 134,
+    "unigram_w1": 451,
+    "unigram_w2": 183784,
+    "ppmi": 9.204256833795874
+  }
+]

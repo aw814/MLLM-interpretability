@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Japón",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1614662,
+    "unigram_w1": 11877342,
+    "unigram_w2": 42058182,
+    "ppmi": 1.427418321308027
+  },
+  {
+    "w1": "capital",
+    "w2": "Tokio",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 663128,
+    "unigram_w1": 42058182,
+    "unigram_w2": 3168268,
+    "ppmi": 2.0499911382531004
+  },
+  {
+    "w1": "Japón",
+    "w2": "Tokio",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1149606,
+    "unigram_w1": 11877342,
+    "unigram_w2": 3168268,
+    "ppmi": 4.667945831435011
+  }
+]

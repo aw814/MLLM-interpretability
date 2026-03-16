@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נואוק",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 54,
+    "unigram_w2": 90246,
+    "ppmi": 3.9247082785606175
+  },
+  {
+    "w1": "בירה",
+    "w2": "גרינלנד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 2983,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "נואוק",
+    "w2": "גרינלנד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 54,
+    "unigram_w2": 2983,
+    "ppmi": 11.843735384195144
+  }
+]

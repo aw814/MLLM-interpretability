@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "百慕大",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 84,
+    "unigram_w1": 11656,
+    "unigram_w2": 32140,
+    "ppmi": 3.7090375197052357
+  },
+  {
+    "w1": "capital",
+    "w2": "哈密尔顿",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 32140,
+    "unigram_w2": 1178,
+    "ppmi": 2.9453095300478895
+  },
+  {
+    "w1": "百慕大",
+    "w2": "哈密尔顿",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78,
+    "unigram_w1": 11656,
+    "unigram_w2": 1178,
+    "ppmi": 8.372080800520719
+  }
+]

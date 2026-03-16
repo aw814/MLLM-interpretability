@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת הבסבורג",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 199,
+    "unigram_w2": 90246,
+    "ppmi": 2.458008659459281
+  },
+  {
+    "w1": "בירה",
+    "w2": "וינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 27071,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ממלכת הבסבורג",
+    "w2": "וינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 199,
+    "unigram_w2": 27071,
+    "ppmi": 6.654555084970859
+  }
+]

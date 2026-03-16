@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sergey Lavrov",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 412,
+    "unigram_w1": 11640,
+    "unigram_w2": 9106140,
+    "ppmi": 0.5040917941320664
+  },
+  {
+    "w1": "born",
+    "w2": "Moscow",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96202,
+    "unigram_w1": 9106140,
+    "unigram_w2": 853175,
+    "ppmi": 2.1756918052028635
+  },
+  {
+    "w1": "Sergey Lavrov",
+    "w2": "Moscow",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6743,
+    "unigram_w1": 11640,
+    "unigram_w2": 853175,
+    "ppmi": 7.95269219203689
+  }
+]

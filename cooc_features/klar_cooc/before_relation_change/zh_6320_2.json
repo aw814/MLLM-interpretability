@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "鞑靼斯坦共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 2467,
+    "unigram_w2": 32140,
+    "ppmi": 1.1419257594120211
+  },
+  {
+    "w1": "capital",
+    "w2": "喀山",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 32140,
+    "unigram_w2": 11119,
+    "ppmi": 0.1921207580343193
+  },
+  {
+    "w1": "鞑靼斯坦共和国",
+    "w2": "喀山",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2083,
+    "unigram_w1": 2467,
+    "unigram_w2": 11119,
+    "ppmi": 12.112753268279695
+  }
+]

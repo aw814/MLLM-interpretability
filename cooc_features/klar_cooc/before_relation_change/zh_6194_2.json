@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "伍斯特郡",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 200,
+    "unigram_w2": 32140,
+    "ppmi": 3.1816490692162636
+  },
+  {
+    "w1": "capital",
+    "w2": "伍斯特",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 32140,
+    "unigram_w2": 2037,
+    "ppmi": 2.640629916082704
+  },
+  {
+    "w1": "伍斯特郡",
+    "w2": "伍斯特",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 200,
+    "unigram_w1": 200,
+    "unigram_w2": 2037,
+    "ppmi": 14.805357302587556
+  }
+]

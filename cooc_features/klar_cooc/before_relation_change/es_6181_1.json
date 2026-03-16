@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Condado de Limerick",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 398,
+    "unigram_w1": 1738,
+    "unigram_w2": 42058182,
+    "ppmi": 2.1797384904826522
+  },
+  {
+    "w1": "capital",
+    "w2": "Limerick",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10960,
+    "unigram_w1": 42058182,
+    "unigram_w2": 61496,
+    "ppmi": 1.8180814614754022
+  },
+  {
+    "w1": "Condado de Limerick",
+    "w2": "Limerick",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1738,
+    "unigram_w1": 1738,
+    "unigram_w2": 61496,
+    "ppmi": 13.724004437559946
+  }
+]

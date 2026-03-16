@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "エジプト王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 1476,
+    "unigram_w2": 498928,
+    "ppmi": 1.509117626600711
+  },
+  {
+    "w1": "capital",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1624,
+    "unigram_w1": 498928,
+    "unigram_w2": 321728,
+    "ppmi": 0.8214860754297599
+  },
+  {
+    "w1": "エジプト王国",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 376,
+    "unigram_w1": 1476,
+    "unigram_w2": 321728,
+    "ppmi": 7.111734114427137
+  }
+]

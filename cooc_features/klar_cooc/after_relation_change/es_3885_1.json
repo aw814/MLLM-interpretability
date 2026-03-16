@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Doha",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80306,
+    "unigram_w1": 386016,
+    "unigram_w2": 42058182,
+    "ppmi": 2.0412452763828024
+  },
+  {
+    "w1": "capital",
+    "w2": "Catar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 70702,
+    "unigram_w1": 42058182,
+    "unigram_w2": 583484,
+    "ppmi": 1.2614560724353312
+  },
+  {
+    "w1": "Doha",
+    "w2": "Catar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 50258,
+    "unigram_w1": 386016,
+    "unigram_w2": 583484,
+    "ppmi": 7.536640339450792
+  }
+]

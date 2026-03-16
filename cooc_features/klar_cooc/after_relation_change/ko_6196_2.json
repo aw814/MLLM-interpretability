@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "펜실베이니아주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 421,
+    "unigram_w1": 2259,
+    "unigram_w2": 1351571,
+    "ppmi": 1.1053172050564208
+  },
+  {
+    "w1": "수도",
+    "w2": "해리스버그",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 742,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "펜실베이니아주",
+    "w2": "해리스버그",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39,
+    "unigram_w1": 2259,
+    "unigram_w2": 742,
+    "ppmi": 8.503973494297968
+  }
+]

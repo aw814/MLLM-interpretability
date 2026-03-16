@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Khanat bulgare de la Volga",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 196,
+    "unigram_w2": 3399010,
+    "ppmi": 3.6375222797567686
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Khanat bulgare de la Volga",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 196,
+    "unigram_w2": 18211758,
+    "ppmi": 2.608156020096259
+  }
+]

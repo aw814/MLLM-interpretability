@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קרואטיה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 844,
+    "unigram_w1": 21853,
+    "unigram_w2": 236631,
+    "ppmi": 1.009484547592895
+  },
+  {
+    "w1": "שפה",
+    "w2": "קרואטית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 4129,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קרואטיה",
+    "w2": "קרואטית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 839,
+    "unigram_w1": 21853,
+    "unigram_w2": 4129,
+    "ppmi": 6.841615217859054
+  }
+]

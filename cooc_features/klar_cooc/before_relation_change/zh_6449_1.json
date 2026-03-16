@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "英属印度",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 1829,
+    "unigram_w2": 32140,
+    "ppmi": 3.1585909006845836
+  },
+  {
+    "w1": "capital",
+    "w2": "加尔各答",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 32140,
+    "unigram_w2": 5686,
+    "ppmi": 2.352306875313461
+  },
+  {
+    "w1": "英属印度",
+    "w2": "加尔各答",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 1829,
+    "unigram_w2": 5686,
+    "ppmi": 8.370192873489042
+  }
+]

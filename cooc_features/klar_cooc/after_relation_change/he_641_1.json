@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מאוריציוס",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 233,
+    "unigram_w1": 4997,
+    "unigram_w2": 236631,
+    "ppmi": 1.2812687281813622
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מאוריציוס",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 642,
+    "unigram_w1": 4997,
+    "unigram_w2": 231817,
+    "ppmi": 2.7731647895227156
+  }
+]

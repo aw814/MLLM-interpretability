@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Czech Republic",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41333,
+    "unigram_w1": 483686,
+    "unigram_w2": 7450623,
+    "ppmi": 2.065168484679363
+  },
+  {
+    "w1": "capital",
+    "w2": "Prague",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 36951,
+    "unigram_w1": 7450623,
+    "unigram_w2": 337123,
+    "ppmi": 2.424283535776324
+  },
+  {
+    "w1": "Czech Republic",
+    "w2": "Prague",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88735,
+    "unigram_w1": 483686,
+    "unigram_w2": 337123,
+    "ppmi": 7.633391769659094
+  }
+]

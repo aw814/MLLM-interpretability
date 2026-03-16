@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "한국어 위키백과",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 159,
+    "unigram_w1": 726,
+    "unigram_w2": 250699,
+    "ppmi": 3.7687757088081213
+  },
+  {
+    "w1": "언어",
+    "w2": "한국어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 198754,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "한국어 위키백과",
+    "w2": "한국어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 726,
+    "unigram_w1": 726,
+    "unigram_w2": 198754,
+    "ppmi": 6.294690837536087
+  }
+]

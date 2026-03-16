@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Baton Rouge",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10992,
+    "unigram_w1": 157888,
+    "unigram_w2": 7450623,
+    "ppmi": 1.769497568439595
+  },
+  {
+    "w1": "capital",
+    "w2": "Louisiana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51455,
+    "unigram_w1": 7450623,
+    "unigram_w2": 891198,
+    "ppmi": 1.499510463912675
+  },
+  {
+    "w1": "Baton Rouge",
+    "w2": "Louisiana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 78402,
+    "unigram_w1": 157888,
+    "unigram_w2": 891198,
+    "ppmi": 7.6674772810391145
+  }
+]

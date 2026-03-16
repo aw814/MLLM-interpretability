@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Emirato de Sicilia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 132,
+    "unigram_w1": 234,
+    "unigram_w2": 42058182,
+    "ppmi": 3.4803556365284525
+  },
+  {
+    "w1": "capital",
+    "w2": "Palermo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 686246,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2361448,
+    "ppmi": 2.523452209673527
+  },
+  {
+    "w1": "Emirato de Sicilia",
+    "w2": "Palermo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104,
+    "unigram_w1": 234,
+    "unigram_w2": 2361448,
+    "ppmi": 7.2910440527849305
+  }
+]

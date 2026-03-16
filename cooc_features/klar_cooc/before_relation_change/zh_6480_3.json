@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "普鲁士王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 232,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 702,
+    "unigram_w1": 32140,
+    "unigram_w2": 207635,
+    "ppmi": 2.617142352731329
+  },
+  {
+    "w1": "普鲁士王国",
+    "w2": "柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 232,
+    "unigram_w2": 207635,
+    "ppmi": 6.275916445861652
+  }
+]

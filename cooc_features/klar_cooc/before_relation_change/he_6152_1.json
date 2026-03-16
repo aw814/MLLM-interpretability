@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אזרבייג'ן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 5745,
+    "unigram_w2": 14610,
+    "ppmi": 2.2334489127483317
+  },
+  {
+    "w1": "capital",
+    "w2": "באקו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 14610,
+    "unigram_w2": 6346,
+    "ppmi": 2.447460288982253
+  },
+  {
+    "w1": "אזרבייג'ן",
+    "w2": "באקו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1000,
+    "unigram_w1": 5745,
+    "unigram_w2": 6346,
+    "ppmi": 8.402269949183642
+  }
+]

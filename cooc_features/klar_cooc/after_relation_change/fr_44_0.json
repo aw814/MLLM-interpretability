@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vaslav Nijinski",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1001,
+    "unigram_w1": 3614,
+    "unigram_w2": 19663145,
+    "ppmi": 2.86777001290023
+  },
+  {
+    "w1": "mort",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 6755180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vaslav Nijinski",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 565,
+    "unigram_w1": 3614,
+    "unigram_w2": 6755180,
+    "ppmi": 3.5840787842224096
+  }
+]

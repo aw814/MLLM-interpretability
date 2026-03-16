@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Toronto",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 120480,
+    "unigram_w1": 1906425,
+    "unigram_w2": 7450623,
+    "ppmi": 1.6298690845379775
+  },
+  {
+    "w1": "capital",
+    "w2": "Ontario",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 89379,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1467719,
+    "ppmi": 1.5763772081061656
+  },
+  {
+    "w1": "Toronto",
+    "w2": "Ontario",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 380981,
+    "unigram_w1": 1906425,
+    "unigram_w2": 1467719,
+    "ppmi": 5.634579739067371
+  }
+]

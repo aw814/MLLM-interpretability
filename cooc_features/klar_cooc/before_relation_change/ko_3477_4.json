@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트레일리아",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 26952,
+    "unigram_w2": 2712,
+    "ppmi": 2.3570315319126625
+  },
+  {
+    "w1": "continent",
+    "w2": "오세아니아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 2712,
+    "unigram_w2": 21175,
+    "ppmi": 2.763955584981065
+  },
+  {
+    "w1": "오스트레일리아",
+    "w2": "오세아니아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1266,
+    "unigram_w1": 26952,
+    "unigram_w2": 21175,
+    "ppmi": 5.113197834649268
+  }
+]

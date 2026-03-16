@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dakota du Sud",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6260,
+    "unigram_w1": 47774,
+    "unigram_w2": 9137640,
+    "ppmi": 2.893534012181394
+  },
+  {
+    "w1": "capitale",
+    "w2": "Pierre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 30045923,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Dakota du Sud",
+    "w2": "Pierre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7738,
+    "unigram_w1": 47774,
+    "unigram_w2": 30045923,
+    "ppmi": 1.4820563524047288
+  }
+]

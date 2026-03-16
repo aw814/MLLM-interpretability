@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ナッシュビル",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2348,
+    "unigram_w1": 45380,
+    "unigram_w2": 2444276,
+    "ppmi": 1.8865761787656319
+  },
+  {
+    "w1": "首都",
+    "w2": "テネシー州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 61270,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ナッシュビル",
+    "w2": "テネシー州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14070,
+    "unigram_w1": 45380,
+    "unigram_w2": 61270,
+    "ppmi": 9.787776731204767
+  }
+]

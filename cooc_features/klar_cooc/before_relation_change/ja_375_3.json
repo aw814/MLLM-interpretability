@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マルタ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 226146,
+    "unigram_w2": 62,
+    "ppmi": 5.639012979427038
+  },
+  {
+    "w1": "official_language",
+    "w2": "マルタ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 5112,
+    "ppmi": 10.106235811171393
+  },
+  {
+    "w1": "マルタ",
+    "w2": "マルタ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5112,
+    "unigram_w1": 226146,
+    "unigram_w2": 5112,
+    "ppmi": 9.593209289813913
+  }
+]

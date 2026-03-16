@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Flandre-Orientale",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1143,
+    "unigram_w1": 56646,
+    "unigram_w2": 7952962,
+    "ppmi": 0.39477767607786146
+  },
+  {
+    "w1": "capital",
+    "w2": "Gand",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13302,
+    "unigram_w1": 7952962,
+    "unigram_w2": 420829,
+    "ppmi": 1.0423354072753048
+  },
+  {
+    "w1": "Flandre-Orientale",
+    "w2": "Gand",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14322,
+    "unigram_w1": 56646,
+    "unigram_w2": 420829,
+    "ppmi": 8.282299585683493
+  }
+]

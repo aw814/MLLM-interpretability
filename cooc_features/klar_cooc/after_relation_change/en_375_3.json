@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Malta",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29088,
+    "unigram_w1": 370914,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6305329574207217
+  },
+  {
+    "w1": "language",
+    "w2": "Maltese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9228,
+    "unigram_w1": 9241408,
+    "unigram_w2": 101523,
+    "ppmi": 1.8434768782293334
+  },
+  {
+    "w1": "Malta",
+    "w2": "Maltese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40811,
+    "unigram_w1": 370914,
+    "unigram_w2": 101523,
+    "ppmi": 8.627301076978084
+  }
+]

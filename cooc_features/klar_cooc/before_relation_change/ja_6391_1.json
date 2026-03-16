@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アルジェリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 972,
+    "unigram_w1": 102782,
+    "unigram_w2": 498928,
+    "ppmi": 1.727216530667685
+  },
+  {
+    "w1": "capital",
+    "w2": "アルジェ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 170,
+    "unigram_w1": 498928,
+    "unigram_w2": 17274,
+    "ppmi": 1.7847084937930617
+  },
+  {
+    "w1": "アルジェリア",
+    "w2": "アルジェ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6074,
+    "unigram_w1": 102782,
+    "unigram_w2": 17274,
+    "ppmi": 9.222992756510084
+  }
+]

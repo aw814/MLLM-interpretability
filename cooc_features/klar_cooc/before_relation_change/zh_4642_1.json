@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "耶稣",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 46716,
+    "unigram_w2": 2023,
+    "ppmi": 5.432960849871688
+  },
+  {
+    "w1": "religion",
+    "w2": "犹太教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 2023,
+    "unigram_w2": 6940,
+    "ppmi": 6.961477611138057
+  },
+  {
+    "w1": "耶稣",
+    "w2": "犹太教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 786,
+    "unigram_w1": 46716,
+    "unigram_w2": 6940,
+    "ppmi": 7.143623992277988
+  }
+]

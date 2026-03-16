@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "광둥성",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 4444,
+    "unigram_w2": 36855,
+    "ppmi": 1.6080993680898323
+  },
+  {
+    "w1": "capital",
+    "w2": "광저우시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 36855,
+    "unigram_w2": 497,
+    "ppmi": 0.768640427916638
+  },
+  {
+    "w1": "광둥성",
+    "w2": "광저우시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 130,
+    "unigram_w1": 4444,
+    "unigram_w2": 497,
+    "ppmi": 9.842937877526683
+  }
+]

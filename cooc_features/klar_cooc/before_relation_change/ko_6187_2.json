@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스만 제국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 1694,
+    "unigram_w2": 36855,
+    "ppmi": 1.458955928784023
+  },
+  {
+    "w1": "capital",
+    "w2": "이스탄불",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 220,
+    "unigram_w1": 36855,
+    "unigram_w2": 17334,
+    "ppmi": 2.425785193717812
+  },
+  {
+    "w1": "오스만 제국",
+    "w2": "이스탄불",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 329,
+    "unigram_w1": 1694,
+    "unigram_w2": 17334,
+    "ppmi": 7.449723832566879
+  }
+]

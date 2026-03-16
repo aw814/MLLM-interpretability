@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "חליסקו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 245,
+    "unigram_w2": 90246,
+    "ppmi": 3.5503127637791194
+  },
+  {
+    "w1": "בירה",
+    "w2": "גוודלחרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 751,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "חליסקו",
+    "w2": "גוודלחרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 245,
+    "unigram_w2": 751,
+    "ppmi": 11.196184628400792
+  }
+]

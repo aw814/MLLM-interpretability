@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Saskatchewan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25741,
+    "unigram_w1": 278568,
+    "unigram_w2": 7952962,
+    "ppmi": 2.589964918496322
+  },
+  {
+    "w1": "capital",
+    "w2": "Regina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10404,
+    "unigram_w1": 7952962,
+    "unigram_w2": 346854,
+    "ppmi": 0.9667361399417621
+  },
+  {
+    "w1": "Saskatchewan",
+    "w2": "Regina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35888,
+    "unigram_w1": 278568,
+    "unigram_w2": 346854,
+    "ppmi": 7.5884901931339686
+  }
+]

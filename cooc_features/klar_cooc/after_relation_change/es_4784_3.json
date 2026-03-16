@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carl Czerny",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 1402,
+    "unigram_w2": 296558,
+    "ppmi": 4.808338913591351
+  },
+  {
+    "w1": "instrument",
+    "w2": "piano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25102,
+    "unigram_w1": 296558,
+    "unigram_w2": 4426392,
+    "ppmi": 3.992069529692425
+  },
+  {
+    "w1": "Carl Czerny",
+    "w2": "piano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1128,
+    "unigram_w1": 1402,
+    "unigram_w2": 4426392,
+    "ppmi": 7.240790318296084
+  }
+]

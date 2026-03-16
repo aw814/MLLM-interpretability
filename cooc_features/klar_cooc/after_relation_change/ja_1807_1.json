@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハワード・カーター",
+    "w2": "仕事",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 388,
+    "unigram_w1": 1236,
+    "unigram_w2": 30190082,
+    "ppmi": 0.8609827171812945
+  },
+  {
+    "w1": "仕事",
+    "w2": "考古学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 30190082,
+    "unigram_w2": 357800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハワード・カーター",
+    "w2": "考古学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 802,
+    "unigram_w1": 1236,
+    "unigram_w2": 357800,
+    "ppmi": 8.307305779229175
+  }
+]

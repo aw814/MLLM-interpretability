@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kurt Waldheim",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 232,
+    "unigram_w1": 4786,
+    "unigram_w2": 9533866,
+    "ppmi": 2.0809557867084574
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Austria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 3570462,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kurt Waldheim",
+    "w2": "Austria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1662,
+    "unigram_w1": 4786,
+    "unigram_w2": 3570462,
+    "ppmi": 6.338630042707617
+  }
+]

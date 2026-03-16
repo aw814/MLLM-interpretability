@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קפריסין",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1174,
+    "unigram_w1": 27115,
+    "unigram_w2": 236631,
+    "ppmi": 1.1743422294704509
+  },
+  {
+    "w1": "שפה",
+    "w2": "טורקית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 14152,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קפריסין",
+    "w2": "טורקית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 764,
+    "unigram_w1": 27115,
+    "unigram_w2": 14152,
+    "ppmi": 4.6181155934153875
+  }
+]

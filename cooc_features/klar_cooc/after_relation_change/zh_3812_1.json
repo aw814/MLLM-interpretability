@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "耶路撒冷",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4702,
+    "unigram_w1": 31777,
+    "unigram_w2": 596594,
+    "ppmi": 3.8545611394902726
+  },
+  {
+    "w1": "首都",
+    "w2": "以色列",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 220614,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "耶路撒冷",
+    "w2": "以色列",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16351,
+    "unigram_w1": 31777,
+    "unigram_w2": 220614,
+    "ppmi": 7.087818688885397
+  }
+]

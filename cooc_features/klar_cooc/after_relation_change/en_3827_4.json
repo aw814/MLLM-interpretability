@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mexico City",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29295,
+    "unigram_w1": 237732,
+    "unigram_w2": 7450623,
+    "ppmi": 2.5932635241521984
+  },
+  {
+    "w1": "capital",
+    "w2": "Mexico",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 212569,
+    "unigram_w1": 7450623,
+    "unigram_w2": 3105381,
+    "ppmi": 1.745106117879162
+  },
+  {
+    "w1": "Mexico City",
+    "w2": "Mexico",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 237732,
+    "unigram_w1": 237732,
+    "unigram_w2": 3105381,
+    "ppmi": 6.876464060681174
+  }
+]

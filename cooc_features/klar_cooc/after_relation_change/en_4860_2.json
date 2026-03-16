@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Paul II",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9671,
+    "unigram_w1": 83869,
+    "unigram_w2": 9241408,
+    "ppmi": 2.1867209960476006
+  },
+  {
+    "w1": "language",
+    "w2": "Polish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127705,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1470656,
+    "ppmi": 1.7775487608123028
+  },
+  {
+    "w1": "John Paul II",
+    "w2": "Polish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7905,
+    "unigram_w1": 83869,
+    "unigram_w2": 1470656,
+    "ppmi": 4.547474231531525
+  }
+]

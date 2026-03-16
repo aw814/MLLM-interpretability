@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arco de Triunfo de París",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 232,
+    "unigram_w1": 4626,
+    "unigram_w2": 14358872,
+    "ppmi": 1.5392017521616324
+  },
+  {
+    "w1": "posee",
+    "w2": "Francia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 21970124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Arco de Triunfo de París",
+    "w2": "Francia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2450,
+    "unigram_w1": 4626,
+    "unigram_w2": 21970124,
+    "ppmi": 4.326186197332342
+  }
+]

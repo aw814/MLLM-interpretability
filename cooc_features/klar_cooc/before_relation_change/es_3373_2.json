@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lise Meitner",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7084,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "Suecia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 4872800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lise Meitner",
+    "w2": "Suecia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 736,
+    "unigram_w1": 7084,
+    "unigram_w2": 4872800,
+    "ppmi": 4.149103271132535
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "County Limerick",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 270,
+    "unigram_w1": 4236,
+    "unigram_w2": 7450623,
+    "ppmi": 1.6422020029801123
+  },
+  {
+    "w1": "capital",
+    "w2": "Limerick",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6176,
+    "unigram_w1": 7450623,
+    "unigram_w2": 116227,
+    "ppmi": 1.3797445912108628
+  },
+  {
+    "w1": "County Limerick",
+    "w2": "Limerick",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4236,
+    "unigram_w1": 4236,
+    "unigram_w2": 116227,
+    "ppmi": 11.616217187960133
+  }
+]

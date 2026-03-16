@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aix-en-Provence",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 82568,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Provenza",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 485318,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Aix-en-Provence",
+    "w2": "Provenza",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18776,
+    "unigram_w1": 82568,
+    "unigram_w2": 485318,
+    "ppmi": 8.606945533871336
+  }
+]

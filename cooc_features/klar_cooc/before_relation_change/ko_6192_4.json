@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "러시아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1563,
+    "unigram_w1": 251058,
+    "unigram_w2": 36855,
+    "ppmi": 1.3981833606144167
+  },
+  {
+    "w1": "capital",
+    "w2": "모스크바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 587,
+    "unigram_w1": 36855,
+    "unigram_w2": 31781,
+    "ppmi": 2.967082262747582
+  },
+  {
+    "w1": "러시아",
+    "w2": "모스크바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17568,
+    "unigram_w1": 251058,
+    "unigram_w2": 31781,
+    "ppmi": 5.102439474749239
+  }
+]

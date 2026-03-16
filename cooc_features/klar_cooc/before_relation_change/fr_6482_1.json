@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chili",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 57720,
+    "unigram_w1": 1723943,
+    "unigram_w2": 7952962,
+    "ppmi": 1.1253574883340418
+  },
+  {
+    "w1": "capital",
+    "w2": "Santiago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25437,
+    "unigram_w1": 7952962,
+    "unigram_w2": 732298,
+    "ppmi": 1.1784240335149185
+  },
+  {
+    "w1": "Chili",
+    "w2": "Santiago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 190827,
+    "unigram_w1": 1723943,
+    "unigram_w2": 732298,
+    "ppmi": 6.291469112088474
+  }
+]

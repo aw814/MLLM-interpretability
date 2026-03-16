@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Clovis I",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 171,
+    "unigram_w1": 865,
+    "unigram_w2": 2269436,
+    "ppmi": 4.990196733338178
+  },
+  {
+    "w1": "religion",
+    "w2": "Christianity",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 274874,
+    "unigram_w1": 2269436,
+    "unigram_w2": 778220,
+    "ppmi": 5.827492933918691
+  },
+  {
+    "w1": "Clovis I",
+    "w2": "Christianity",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 240,
+    "unigram_w1": 865,
+    "unigram_w2": 778220,
+    "ppmi": 7.023318655007706
+  }
+]

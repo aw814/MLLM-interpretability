@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Enrique III de Francia",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 1818,
+    "unigram_w2": 979024,
+    "ppmi": 4.6035279234042426
+  },
+  {
+    "w1": "religion",
+    "w2": "catolicismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 37812,
+    "unigram_w1": 979024,
+    "unigram_w2": 688134,
+    "ppmi": 5.545451227169571
+  },
+  {
+    "w1": "Enrique III de Francia",
+    "w2": "catolicismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 326,
+    "unigram_w1": 1818,
+    "unigram_w2": 688134,
+    "ppmi": 7.760471058696426
+  }
+]

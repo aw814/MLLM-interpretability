@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Comunidad Valenciana",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 102876,
+    "unigram_w1": 2596740,
+    "unigram_w2": 12196104,
+    "ppmi": 1.4345691574829162
+  },
+  {
+    "w1": "idioma",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 52196598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Comunidad Valenciana",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 428546,
+    "unigram_w1": 2596740,
+    "unigram_w2": 52196598,
+    "ppmi": 1.3955773522550785
+  }
+]

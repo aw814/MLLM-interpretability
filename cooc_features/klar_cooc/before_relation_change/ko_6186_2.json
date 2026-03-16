@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트레일리아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 251,
+    "unigram_w1": 26952,
+    "unigram_w2": 36855,
+    "ppmi": 1.979181310307939
+  },
+  {
+    "w1": "capital",
+    "w2": "캔버라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 209,
+    "unigram_w1": 36855,
+    "unigram_w2": 3070,
+    "ppmi": 4.849078661302265
+  },
+  {
+    "w1": "오스트레일리아",
+    "w2": "캔버라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 453,
+    "unigram_w1": 26952,
+    "unigram_w2": 3070,
+    "ppmi": 6.416554794116544
+  }
+]

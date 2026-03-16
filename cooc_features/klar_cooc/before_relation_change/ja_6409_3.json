@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ノース・ウェスト・イングランド",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 408,
+    "unigram_w2": 498928,
+    "ppmi": 0.779206789968455
+  },
+  {
+    "w1": "capital",
+    "w2": "マンチェスター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1956,
+    "unigram_w1": 498928,
+    "unigram_w2": 273794,
+    "ppmi": 1.322591481144774
+  },
+  {
+    "w1": "ノース・ウェスト・イングランド",
+    "w2": "マンチェスター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 408,
+    "unigram_w2": 273794,
+    "ppmi": 7.948728342963459
+  }
+]

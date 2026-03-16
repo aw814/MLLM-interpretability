@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Zhang Ziyi",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 315,
+    "unigram_w1": 2506,
+    "unigram_w2": 9106140,
+    "ppmi": 2.3324320238099125
+  },
+  {
+    "w1": "born",
+    "w2": "Beijing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 62111,
+    "unigram_w1": 9106140,
+    "unigram_w2": 847643,
+    "ppmi": 1.5538586296144619
+  },
+  {
+    "w1": "Zhang Ziyi",
+    "w2": "Beijing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 424,
+    "unigram_w1": 2506,
+    "unigram_w2": 847643,
+    "ppmi": 6.186455418839424
+  }
+]

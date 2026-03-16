@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wikipedia en griego",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 136,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "griego",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 5156646,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wikipedia en griego",
+    "w2": "griego",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 136,
+    "unigram_w1": 136,
+    "unigram_w2": 5156646,
+    "ppmi": 7.3342078123911705
+  }
+]

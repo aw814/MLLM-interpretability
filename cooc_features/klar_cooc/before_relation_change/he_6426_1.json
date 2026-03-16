@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אקיטן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 297,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "בורדו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 14610,
+    "unigram_w2": 21800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אקיטן",
+    "w2": "בורדו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 107,
+    "unigram_w1": 297,
+    "unigram_w2": 21800,
+    "ppmi": 7.671315999021398
+  }
+]

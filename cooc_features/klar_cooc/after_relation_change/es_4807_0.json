@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 680540,
+    "unigram_w1": 23267268,
+    "unigram_w2": 14358872,
+    "ppmi": 0.7612922571142844
+  },
+  {
+    "w1": "posee",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 23267268,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Google",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23267268,
+    "unigram_w1": 23267268,
+    "unigram_w2": 23267268,
+    "ppmi": 5.160410904396324
+  }
+]

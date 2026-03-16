@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טאמיל נאדו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 539,
+    "unigram_w2": 14610,
+    "ppmi": 2.232361128250458
+  },
+  {
+    "w1": "capital",
+    "w2": "צ'נאי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 14610,
+    "unigram_w2": 961,
+    "ppmi": 2.620502391565661
+  },
+  {
+    "w1": "טאמיל נאדו",
+    "w2": "צ'נאי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115,
+    "unigram_w1": 539,
+    "unigram_w2": 961,
+    "ppmi": 11.419164615390788
+  }
+]

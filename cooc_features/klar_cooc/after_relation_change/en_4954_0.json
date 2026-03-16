@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jan Peter Balkenende",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 594,
+    "unigram_w2": 9241408,
+    "ppmi": 2.218085566621292
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Jan Peter Balkenende",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 482,
+    "unigram_w1": 594,
+    "unigram_w2": 1528017,
+    "ppmi": 7.598143965833114
+  }
+]

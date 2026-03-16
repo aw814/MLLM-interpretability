@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pitcairn Islands",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 370,
+    "unigram_w1": 10256,
+    "unigram_w2": 965266,
+    "ppmi": 3.7694367902938812
+  },
+  {
+    "w1": "continent",
+    "w2": "Oceania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6254,
+    "unigram_w1": 965266,
+    "unigram_w2": 108914,
+    "ppmi": 4.439969493313735
+  },
+  {
+    "w1": "Pitcairn Islands",
+    "w2": "Oceania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 143,
+    "unigram_w1": 10256,
+    "unigram_w2": 108914,
+    "ppmi": 5.545663817091001
+  }
+]

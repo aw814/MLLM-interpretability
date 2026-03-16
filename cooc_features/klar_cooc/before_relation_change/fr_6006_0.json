@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "drapeau de la Turquie",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1045,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Turquie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3127358,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "drapeau de la Turquie",
+    "w2": "Turquie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1045,
+    "unigram_w1": 1045,
+    "unigram_w2": 3127358,
+    "ppmi": 7.372402350970133
+  }
+]

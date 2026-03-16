@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "雅典",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3331,
+    "unigram_w1": 59557,
+    "unigram_w2": 596594,
+    "ppmi": 2.450953799368693
+  },
+  {
+    "w1": "首都",
+    "w2": "希腊",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 181450,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "雅典",
+    "w2": "希腊",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16234,
+    "unigram_w1": 59557,
+    "unigram_w2": 181450,
+    "ppmi": 6.453122470483874
+  }
+]

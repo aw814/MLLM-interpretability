@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מניטובה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 713,
+    "unigram_w2": 14610,
+    "ppmi": 2.243781823837919
+  },
+  {
+    "w1": "capital",
+    "w2": "ויניפג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 294,
+    "unigram_w1": 14610,
+    "unigram_w2": 733,
+    "ppmi": 8.40354304698436
+  },
+  {
+    "w1": "מניטובה",
+    "w2": "ויניפג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106,
+    "unigram_w1": 713,
+    "unigram_w2": 733,
+    "ppmi": 11.288701447958168
+  }
+]

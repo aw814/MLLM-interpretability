@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "コロンビア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 57116,
+    "unigram_w1": 1199350,
+    "unigram_w2": 3715876,
+    "ppmi": 1.16261933655567
+  },
+  {
+    "w1": "言語",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 570272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "コロンビア",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25672,
+    "unigram_w1": 1199350,
+    "unigram_w2": 570272,
+    "ppmi": 2.7129003397092877
+  }
+]

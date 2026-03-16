@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트리아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 412,
+    "unigram_w1": 60508,
+    "unigram_w2": 36855,
+    "ppmi": 1.5274047177450312
+  },
+  {
+    "w1": "capital",
+    "w2": "빈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 703,
+    "unigram_w1": 36855,
+    "unigram_w2": 209976,
+    "ppmi": 0.503258435078894
+  },
+  {
+    "w1": "오스트리아",
+    "w2": "빈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8317,
+    "unigram_w1": 60508,
+    "unigram_w2": 209976,
+    "ppmi": 3.352459531740537
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴勒斯坦託管地",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 10,
+    "unigram_w2": 596594,
+    "ppmi": 3.289269529798138
+  },
+  {
+    "w1": "首都",
+    "w2": "耶路撒冷",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 31777,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴勒斯坦託管地",
+    "w2": "耶路撒冷",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 10,
+    "unigram_w2": 31777,
+    "ppmi": 9.10492666453899
+  }
+]

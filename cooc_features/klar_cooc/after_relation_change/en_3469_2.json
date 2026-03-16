@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yorkshire",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4812,
+    "unigram_w1": 609025,
+    "unigram_w2": 965266,
+    "ppmi": 1.5785148782851768
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Yorkshire",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36258,
+    "unigram_w1": 609025,
+    "unigram_w2": 7715842,
+    "ppmi": 1.4932805456307463
+  }
+]

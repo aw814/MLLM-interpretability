@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "蒙娜丽莎",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 15897,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "法国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 950541,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "蒙娜丽莎",
+    "w2": "法国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1417,
+    "unigram_w1": 15897,
+    "unigram_w2": 950541,
+    "ppmi": 2.4513553668108723
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gao Xingjian",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 671,
+    "unigram_w2": 3469075,
+    "ppmi": 2.4139771982195497
+  },
+  {
+    "w1": "spoke",
+    "w2": "Chinese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 121643,
+    "unigram_w1": 3469075,
+    "unigram_w2": 4441676,
+    "ppmi": 1.5263043617238157
+  },
+  {
+    "w1": "Gao Xingjian",
+    "w2": "Chinese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 423,
+    "unigram_w1": 671,
+    "unigram_w2": 4441676,
+    "ppmi": 5.694475082832781
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "宾夕法尼亚州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 10063,
+    "unigram_w2": 32140,
+    "ppmi": 3.2566528658483542
+  },
+  {
+    "w1": "capital",
+    "w2": "哈里斯堡",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 32140,
+    "unigram_w2": 1526,
+    "ppmi": 3.41989101359877
+  },
+  {
+    "w1": "宾夕法尼亚州",
+    "w2": "哈里斯堡",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 221,
+    "unigram_w1": 10063,
+    "unigram_w2": 1526,
+    "ppmi": 9.713178032404512
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Îles Baléares",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1125,
+    "unigram_w1": 57332,
+    "unigram_w2": 7952962,
+    "ppmi": 0.3545107515030869
+  },
+  {
+    "w1": "capital",
+    "w2": "Palma de Majorque",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1905,
+    "unigram_w1": 7952962,
+    "unigram_w2": 98219,
+    "ppmi": 0.3377152213809052
+  },
+  {
+    "w1": "Îles Baléares",
+    "w2": "Palma de Majorque",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8068,
+    "unigram_w1": 57332,
+    "unigram_w2": 98219,
+    "ppmi": 9.536143167342205
+  }
+]

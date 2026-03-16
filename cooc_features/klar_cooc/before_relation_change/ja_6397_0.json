@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ラトビア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 796,
+    "unigram_w1": 83854,
+    "unigram_w2": 498928,
+    "ppmi": 1.732664768124581
+  },
+  {
+    "w1": "capital",
+    "w2": "リガ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 804,
+    "unigram_w1": 498928,
+    "unigram_w2": 36350,
+    "ppmi": 2.95301607942456
+  },
+  {
+    "w1": "ラトビア",
+    "w2": "リガ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11360,
+    "unigram_w1": 83854,
+    "unigram_w2": 36350,
+    "ppmi": 9.346519728843969
+  }
+]

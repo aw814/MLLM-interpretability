@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100139,
+    "unigram_w1": 1078519,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8741459369505398
+  },
+  {
+    "w1": "language",
+    "w2": "Danish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 59113,
+    "unigram_w1": 9241408,
+    "unigram_w2": 598354,
+    "ppmi": 1.9636697465787218
+  },
+  {
+    "w1": "European Union",
+    "w2": "Danish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14029,
+    "unigram_w1": 1078519,
+    "unigram_w2": 598354,
+    "ppmi": 2.9876675647992386
+  }
+]

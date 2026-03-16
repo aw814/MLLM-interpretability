@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Erna Solberg",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 165,
+    "unigram_w1": 2838,
+    "unigram_w2": 3469075,
+    "ppmi": 2.612346653354658
+  },
+  {
+    "w1": "spoke",
+    "w2": "Norwegian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15058,
+    "unigram_w1": 3469075,
+    "unigram_w2": 566305,
+    "ppmi": 1.4837061149282913
+  },
+  {
+    "w1": "Erna Solberg",
+    "w2": "Norwegian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1952,
+    "unigram_w1": 2838,
+    "unigram_w2": 566305,
+    "ppmi": 8.79166163533093
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴァイマル共和政",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 1662,
+    "unigram_w2": 498928,
+    "ppmi": 2.752927465169606
+  },
+  {
+    "w1": "capital",
+    "w2": "ベルリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4390,
+    "unigram_w1": 498928,
+    "unigram_w2": 676730,
+    "ppmi": 1.1834165360976427
+  },
+  {
+    "w1": "ヴァイマル共和政",
+    "w2": "ベルリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 756,
+    "unigram_w1": 1662,
+    "unigram_w2": 676730,
+    "ppmi": 6.875421179690962
+  }
+]

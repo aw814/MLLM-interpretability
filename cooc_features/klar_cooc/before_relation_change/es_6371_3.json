@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Socialista Federativa Soviética de Rusia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1130,
+    "unigram_w1": 3250,
+    "unigram_w2": 42058182,
+    "ppmi": 2.7822092912527743
+  },
+  {
+    "w1": "capital",
+    "w2": "Moscú",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 554546,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2987312,
+    "ppmi": 1.8768573567676357
+  },
+  {
+    "w1": "República Socialista Federativa Soviética de Rusia",
+    "w2": "Moscú",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1550,
+    "unigram_w1": 3250,
+    "unigram_w2": 2987312,
+    "ppmi": 7.053621395652485
+  }
+]

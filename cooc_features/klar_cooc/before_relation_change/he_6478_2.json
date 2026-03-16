@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גואנגדונג",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 4050,
+    "unigram_w2": 14610,
+    "ppmi": 0.32279639834361407
+  },
+  {
+    "w1": "capital",
+    "w2": "גואנגג'ואו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 14610,
+    "unigram_w2": 1535,
+    "ppmi": 3.6610791060812784
+  },
+  {
+    "w1": "גואנגדונג",
+    "w2": "גואנגג'ואו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 116,
+    "unigram_w1": 4050,
+    "unigram_w2": 1535,
+    "ppmi": 7.846460510183349
+  }
+]

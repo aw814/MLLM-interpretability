@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Napier",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 432,
+    "unigram_w1": 1700,
+    "unigram_w2": 57128353,
+    "ppmi": 1.2047801685790007
+  },
+  {
+    "w1": "travail",
+    "w2": "mathématiques",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 2504352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "John Napier",
+    "w2": "mathématiques",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 533,
+    "unigram_w1": 1700,
+    "unigram_w2": 2504352,
+    "ppmi": 6.019582066960844
+  }
+]

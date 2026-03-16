@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Georgy Lvov",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 79,
+    "unigram_w2": 1072211,
+    "ppmi": 4.914219677345664
+  },
+  {
+    "w1": "occupation",
+    "w2": "politician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14407,
+    "unigram_w1": 1072211,
+    "unigram_w2": 553588,
+    "ppmi": 3.1466746895882665
+  },
+  {
+    "w1": "Georgy Lvov",
+    "w2": "politician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 79,
+    "unigram_w2": 553588,
+    "ppmi": 6.382497115868066
+  }
+]

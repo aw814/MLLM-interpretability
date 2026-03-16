@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הרפובליקה הדרום-אפריקאית",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 89,
+    "unigram_w2": 236631,
+    "ppmi": 2.5501237501839342
+  },
+  {
+    "w1": "שפה",
+    "w2": "הולנדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 14548,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הרפובליקה הדרום-אפריקאית",
+    "w2": "הולנדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 89,
+    "unigram_w2": 14548,
+    "ppmi": 7.71137362518795
+  }
+]

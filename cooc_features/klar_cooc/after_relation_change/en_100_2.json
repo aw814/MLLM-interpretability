@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Otis Redding",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1594,
+    "unigram_w1": 13171,
+    "unigram_w2": 5281801,
+    "ppmi": 3.0635630468095525
+  },
+  {
+    "w1": "died",
+    "w2": "Madison",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 52159,
+    "unigram_w1": 5281801,
+    "unigram_w2": 973046,
+    "ppmi": 1.8886845043175788
+  },
+  {
+    "w1": "Otis Redding",
+    "w2": "Madison",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 403,
+    "unigram_w1": 13171,
+    "unigram_w2": 973046,
+    "ppmi": 3.52021319408717
+  }
+]

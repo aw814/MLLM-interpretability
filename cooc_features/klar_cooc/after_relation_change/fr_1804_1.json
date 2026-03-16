@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Fred Hoyle",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 863,
+    "unigram_w1": 2890,
+    "unigram_w2": 57128353,
+    "ppmi": 1.4375746692315101
+  },
+  {
+    "w1": "travail",
+    "w2": "astronomie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 350007,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Fred Hoyle",
+    "w2": "astronomie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 492,
+    "unigram_w1": 2890,
+    "unigram_w2": 350007,
+    "ppmi": 7.977551777383074
+  }
+]

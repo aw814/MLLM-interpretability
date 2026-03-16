@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "惠灵顿",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 11236,
+    "unigram_w2": 1361,
+    "ppmi": 2.931295306923051
+  },
+  {
+    "w1": "continent",
+    "w2": "大洋洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 1361,
+    "unigram_w2": 26564,
+    "ppmi": 4.011879527712296
+  },
+  {
+    "w1": "惠灵顿",
+    "w2": "大洋洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 180,
+    "unigram_w1": 11236,
+    "unigram_w2": 26564,
+    "ppmi": 5.136414971532204
+  }
+]

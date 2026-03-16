@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dutch Wikipedia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 111,
+    "unigram_w1": 342,
+    "unigram_w2": 9241408,
+    "ppmi": 3.679685021941299
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Dutch Wikipedia",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 342,
+    "unigram_w1": 342,
+    "unigram_w2": 1528017,
+    "ppmi": 7.899573750403919
+  }
+]

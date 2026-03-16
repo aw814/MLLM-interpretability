@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yugoslavia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 125994,
+    "unigram_w1": 507486,
+    "unigram_w2": 42058182,
+    "ppmi": 2.2963132458140105
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrado",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 75900,
+    "unigram_w1": 42058182,
+    "unigram_w2": 334482,
+    "ppmi": 2.166569452542783
+  },
+  {
+    "w1": "Yugoslavia",
+    "w2": "Belgrado",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47302,
+    "unigram_w1": 507486,
+    "unigram_w2": 334482,
+    "ppmi": 7.8572454073121945
+  }
+]

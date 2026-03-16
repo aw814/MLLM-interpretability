@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "牛津",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 73861,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "牛津郡",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 561,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "牛津",
+    "w2": "牛津郡",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 561,
+    "unigram_w1": 73861,
+    "unigram_w2": 561,
+    "ppmi": 9.625062392759757
+  }
+]

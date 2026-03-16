@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google街景",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 566,
+    "unigram_w2": 7846,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "developer",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 872,
+    "unigram_w1": 7846,
+    "unigram_w2": 235245,
+    "ppmi": 4.7842257382074465
+  },
+  {
+    "w1": "Google街景",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 566,
+    "unigram_w1": 566,
+    "unigram_w2": 235245,
+    "ppmi": 7.953783033507616
+  }
+]

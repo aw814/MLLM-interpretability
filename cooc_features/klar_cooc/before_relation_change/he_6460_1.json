@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קווינסלנד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 2302,
+    "unigram_w2": 14610,
+    "ppmi": 2.552867972149577
+  },
+  {
+    "w1": "capital",
+    "w2": "בריזבן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 14610,
+    "unigram_w2": 119,
+    "ppmi": 3.8267223269738637
+  },
+  {
+    "w1": "קווינסלנד",
+    "w2": "בריזבן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 2302,
+    "unigram_w2": 119,
+    "ppmi": 10.399609362141012
+  }
+]

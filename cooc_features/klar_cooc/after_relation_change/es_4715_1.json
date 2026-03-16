@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pentecostés",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4446,
+    "unigram_w1": 318624,
+    "unigram_w2": 979024,
+    "ppmi": 3.5680215076847914
+  },
+  {
+    "w1": "religion",
+    "w2": "cristianismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91096,
+    "unigram_w1": 979024,
+    "unigram_w2": 1891270,
+    "ppmi": 5.355400867877766
+  },
+  {
+    "w1": "Pentecostés",
+    "w2": "cristianismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41124,
+    "unigram_w1": 318624,
+    "unigram_w2": 1891270,
+    "ppmi": 5.827483044917298
+  }
+]

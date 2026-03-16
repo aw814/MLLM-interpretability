@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Salt Lake City",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16127,
+    "unigram_w1": 283357,
+    "unigram_w2": 7450623,
+    "ppmi": 1.478802430429252
+  },
+  {
+    "w1": "capital",
+    "w2": "Utah",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45490,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1007133,
+    "ppmi": 1.1453123093857487
+  },
+  {
+    "w1": "Salt Lake City",
+    "w2": "Utah",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 143216,
+    "unigram_w1": 283357,
+    "unigram_w2": 1007133,
+    "ppmi": 7.516551964833627
+  }
+]

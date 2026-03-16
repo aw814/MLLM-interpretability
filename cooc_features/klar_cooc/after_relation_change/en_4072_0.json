@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Muhammad Ali",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2933,
+    "unigram_w1": 50575,
+    "unigram_w2": 3469075,
+    "ppmi": 2.608707874593342
+  },
+  {
+    "w1": "spoke",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 350494,
+    "unigram_w1": 3469075,
+    "unigram_w2": 9553181,
+    "ppmi": 1.948163766682552
+  },
+  {
+    "w1": "Muhammad Ali",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4787,
+    "unigram_w1": 50575,
+    "unigram_w2": 9553181,
+    "ppmi": 1.854022442011642
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ווהרלל נהרו",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 184,
+    "unigram_w2": 5024,
+    "ppmi": 4.738025943024028
+  },
+  {
+    "w1": "religion",
+    "w2": "הינדואיזם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 5024,
+    "unigram_w2": 1842,
+    "ppmi": 6.029240397104913
+  },
+  {
+    "w1": "ג'ווהרלל נהרו",
+    "w2": "הינדואיזם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 184,
+    "unigram_w2": 1842,
+    "ppmi": 8.770551846545477
+  }
+]

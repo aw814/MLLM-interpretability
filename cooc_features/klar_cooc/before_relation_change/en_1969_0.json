@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Fred Astaire",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 161,
+    "unigram_w1": 18380,
+    "unigram_w2": 1072211,
+    "ppmi": 1.5757132354033832
+  },
+  {
+    "w1": "occupation",
+    "w2": "screenwriter",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1573,
+    "unigram_w1": 1072211,
+    "unigram_w2": 157264,
+    "ppmi": 1.7671195296191442
+  },
+  {
+    "w1": "Fred Astaire",
+    "w2": "screenwriter",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 262,
+    "unigram_w1": 18380,
+    "unigram_w2": 157264,
+    "ppmi": 5.047547840038317
+  }
+]

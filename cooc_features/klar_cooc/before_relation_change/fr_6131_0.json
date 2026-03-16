@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "RB Leipzig",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 33177,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Leipzig",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 348426,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "RB Leipzig",
+    "w2": "Leipzig",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33177,
+    "unigram_w1": 33177,
+    "unigram_w2": 348426,
+    "ppmi": 10.53842254137307
+  }
+]

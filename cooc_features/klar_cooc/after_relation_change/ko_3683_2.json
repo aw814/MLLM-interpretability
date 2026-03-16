@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "엑스박스 360",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 465,
+    "unigram_w2": 17565,
+    "ppmi": 3.5187748460656363
+  },
+  {
+    "w1": "developer",
+    "w2": "마이크로소프트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 579,
+    "unigram_w1": 17565,
+    "unigram_w2": 49118,
+    "ppmi": 3.388354591922241
+  },
+  {
+    "w1": "엑스박스 360",
+    "w2": "마이크로소프트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 119,
+    "unigram_w1": 465,
+    "unigram_w2": 49118,
+    "ppmi": 6.3450818673552885
+  }
+]

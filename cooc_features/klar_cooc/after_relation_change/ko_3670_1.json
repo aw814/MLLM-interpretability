@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "남아프리카 공화국",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 7536,
+    "unigram_w2": 2712,
+    "ppmi": 3.0700221133377776
+  },
+  {
+    "w1": "continent",
+    "w2": "아프리카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 2712,
+    "unigram_w2": 151855,
+    "ppmi": 3.0787387581208394
+  },
+  {
+    "w1": "남아프리카 공화국",
+    "w2": "아프리카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2109,
+    "unigram_w1": 7536,
+    "unigram_w2": 151855,
+    "ppmi": 4.845740451517787
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arthur Harden",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 82,
+    "unigram_w2": 9106140,
+    "ppmi": 3.6672824182675026
+  },
+  {
+    "w1": "born",
+    "w2": "Manchester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 110636,
+    "unigram_w1": 9106140,
+    "unigram_w2": 1454898,
+    "ppmi": 1.6073695001391253
+  },
+  {
+    "w1": "Arthur Harden",
+    "w2": "Manchester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 82,
+    "unigram_w2": 1454898,
+    "ppmi": 6.197726828513805
+  }
+]

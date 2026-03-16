@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "葛摩",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 530,
+    "unigram_w2": 1361,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "continent",
+    "w2": "非洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 1361,
+    "unigram_w2": 440125,
+    "ppmi": 3.3944699216877
+  },
+  {
+    "w1": "葛摩",
+    "w2": "非洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54,
+    "unigram_w1": 530,
+    "unigram_w2": 440125,
+    "ppmi": 3.755072723741133
+  }
+]

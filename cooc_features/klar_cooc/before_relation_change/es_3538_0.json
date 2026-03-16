@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Moscú",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1428,
+    "unigram_w1": 2987312,
+    "unigram_w2": 91062,
+    "ppmi": 2.127011637073581
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Moscú",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 763548,
+    "unigram_w1": 2987312,
+    "unigram_w2": 39895658,
+    "ppmi": 2.4144238217098573
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Daca",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74820,
+    "unigram_w1": 364956,
+    "unigram_w2": 42058182,
+    "ppmi": 2.0200995681681886
+  },
+  {
+    "w1": "capital",
+    "w2": "Bangladés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11478,
+    "unigram_w1": 42058182,
+    "unigram_w2": 72144,
+    "ppmi": 1.6543181011831511
+  },
+  {
+    "w1": "Daca",
+    "w2": "Bangladés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5202,
+    "unigram_w1": 364956,
+    "unigram_w2": 72144,
+    "ppmi": 7.361105265967904
+  }
+]

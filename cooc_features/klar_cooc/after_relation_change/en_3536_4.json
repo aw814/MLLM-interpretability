@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Turkmenistan",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1978,
+    "unigram_w1": 54466,
+    "unigram_w2": 965266,
+    "ppmi": 3.7789942885102716
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Turkmenistan",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18721,
+    "unigram_w1": 54466,
+    "unigram_w2": 3865133,
+    "ppmi": 5.02001786699553
+  }
+]

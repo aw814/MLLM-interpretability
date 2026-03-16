@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウッタル・プラデーシュ州",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1140,
+    "unigram_w1": 3092,
+    "unigram_w2": 3715876,
+    "ppmi": 4.115326818990878
+  },
+  {
+    "w1": "言語",
+    "w2": "ウルドゥー語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 13396,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウッタル・プラデーシュ州",
+    "w2": "ウルドゥー語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 258,
+    "unigram_w1": 3092,
+    "unigram_w2": 13396,
+    "ppmi": 10.087492233296954
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Phnom Penh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17088,
+    "unigram_w1": 68090,
+    "unigram_w2": 7450623,
+    "ppmi": 3.619413898870248
+  },
+  {
+    "w1": "capital",
+    "w2": "Cambodia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 45047,
+    "unigram_w1": 7450623,
+    "unigram_w2": 357113,
+    "ppmi": 2.626995561582397
+  },
+  {
+    "w1": "Phnom Penh",
+    "w2": "Cambodia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 49705,
+    "unigram_w1": 68090,
+    "unigram_w2": 357113,
+    "ppmi": 9.542729837776125
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "コネチカット州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2406,
+    "unigram_w1": 41032,
+    "unigram_w2": 2444276,
+    "ppmi": 2.0670875454140383
+  },
+  {
+    "w1": "首都",
+    "w2": "ハートフォード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 18920,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "コネチカット州",
+    "w2": "ハートフォード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4510,
+    "unigram_w1": 41032,
+    "unigram_w2": 18920,
+    "ppmi": 9.98692963644393
+  }
+]

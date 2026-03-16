@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דגל ספרד",
+    "w2": "סמכות שיפוטית",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 166,
+    "unigram_w2": 1111,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סמכות שיפוטית",
+    "w2": "ספרד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1111,
+    "unigram_w2": 137851,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דגל ספרד",
+    "w2": "ספרד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 166,
+    "unigram_w1": 166,
+    "unigram_w2": 137851,
+    "ppmi": 6.483458440538075
+  }
+]

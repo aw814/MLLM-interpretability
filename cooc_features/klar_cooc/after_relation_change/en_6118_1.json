@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "People's Democratic Party of Afghanistan",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 157,
+    "unigram_w2": 14590058,
+    "ppmi": 1.8732618384659347
+  },
+  {
+    "w1": "location",
+    "w2": "Kabul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5763,
+    "unigram_w1": 14590058,
+    "unigram_w2": 100334,
+    "ppmi": 0.5224738890048855
+  },
+  {
+    "w1": "People's Democratic Party of Afghanistan",
+    "w2": "Kabul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 157,
+    "unigram_w2": 100334,
+    "ppmi": 11.366621132529737
+  }
+]

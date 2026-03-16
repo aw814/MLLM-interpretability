@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chongqing",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16012,
+    "unigram_w1": 158150,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0022581068488237
+  },
+  {
+    "w1": "capital",
+    "w2": "República de China",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13574,
+    "unigram_w1": 42058182,
+    "unigram_w2": 68534,
+    "ppmi": 1.9703522623624783
+  },
+  {
+    "w1": "Chongqing",
+    "w2": "República de China",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1086,
+    "unigram_w1": 158150,
+    "unigram_w2": 68534,
+    "ppmi": 6.38155147602044
+  }
+]

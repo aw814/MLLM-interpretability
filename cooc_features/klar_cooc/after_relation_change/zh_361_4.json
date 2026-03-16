@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "捷克斯洛伐克",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 390,
+    "unigram_w1": 4812,
+    "unigram_w2": 919361,
+    "ppmi": 2.3622250124695183
+  },
+  {
+    "w1": "语言",
+    "w2": "捷克语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 3649,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "捷克斯洛伐克",
+    "w2": "捷克语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 149,
+    "unigram_w1": 4812,
+    "unigram_w2": 3649,
+    "ppmi": 8.951049725255048
+  }
+]

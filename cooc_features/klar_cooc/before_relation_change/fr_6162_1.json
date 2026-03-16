@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Canterbury",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4677,
+    "unigram_w1": 126865,
+    "unigram_w2": 7952962,
+    "ppmi": 1.2642875837238121
+  },
+  {
+    "w1": "capital",
+    "w2": "Christchurch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2418,
+    "unigram_w1": 7952962,
+    "unigram_w2": 98233,
+    "ppmi": 0.6815328431540884
+  },
+  {
+    "w1": "Canterbury",
+    "w2": "Christchurch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7626,
+    "unigram_w1": 126865,
+    "unigram_w2": 98233,
+    "ppmi": 8.308771394266286
+  }
+]

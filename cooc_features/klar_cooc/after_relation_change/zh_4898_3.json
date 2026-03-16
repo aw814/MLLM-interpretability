@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西奥多·罗斯福",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 71,
+    "unigram_w1": 1683,
+    "unigram_w2": 919361,
+    "ppmi": 1.4202432840707166
+  },
+  {
+    "w1": "语言",
+    "w2": "英语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 910574,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西奥多·罗斯福",
+    "w2": "英语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1683,
+    "unigram_w2": 910574,
+    "ppmi": 1.9985968833820746
+  }
+]

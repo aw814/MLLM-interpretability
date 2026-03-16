@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Switzerland",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 169,
+    "unigram_w2": 1074632,
+    "ppmi": 2.5914747052093863
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Switzerland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20693,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1349669,
+    "ppmi": 2.3800726318698406
+  },
+  {
+    "w1": "flag of Switzerland",
+    "w2": "Switzerland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 169,
+    "unigram_w1": 169,
+    "unigram_w2": 1349669,
+    "ppmi": 8.07862870816091
+  }
+]

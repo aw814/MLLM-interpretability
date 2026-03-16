@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イヴァン・ブーニン",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 70,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イヴァン・ブーニン",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 70,
+    "unigram_w2": 310196,
+    "ppmi": 8.095463509537444
+  }
+]

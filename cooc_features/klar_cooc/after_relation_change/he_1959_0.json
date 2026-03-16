@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האלי ברי",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1304,
+    "unigram_w2": 1821,
+    "ppmi": 2.376965286764752
+  },
+  {
+    "w1": "occupation",
+    "w2": "דוגמן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 1821,
+    "unigram_w2": 5950,
+    "ppmi": 1.1870194879131615
+  },
+  {
+    "w1": "האלי ברי",
+    "w2": "דוגמן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 1304,
+    "unigram_w2": 5950,
+    "ppmi": 3.8387315421012347
+  }
+]

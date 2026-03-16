@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Costa Rica",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34382,
+    "unigram_w1": 412470,
+    "unigram_w2": 9241408,
+    "ppmi": 1.7185578521105638
+  },
+  {
+    "w1": "language",
+    "w2": "Spanish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 649985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3113420,
+    "ppmi": 3.0430997910537174
+  },
+  {
+    "w1": "Costa Rica",
+    "w2": "Spanish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41731,
+    "unigram_w1": 412470,
+    "unigram_w2": 3113420,
+    "ppmi": 3.5676363404482108
+  }
+]

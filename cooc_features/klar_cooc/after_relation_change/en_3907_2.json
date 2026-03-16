@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nur-Sultan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 363,
+    "unigram_w1": 880,
+    "unigram_w2": 7450623,
+    "ppmi": 4.336339304392709
+  },
+  {
+    "w1": "capital",
+    "w2": "Kazakhstan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 33430,
+    "unigram_w1": 7450623,
+    "unigram_w2": 225955,
+    "ppmi": 2.8570530582389297
+  },
+  {
+    "w1": "Nur-Sultan",
+    "w2": "Kazakhstan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 693,
+    "unigram_w1": 880,
+    "unigram_w2": 225955,
+    "ppmi": 10.31247878636407
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "La ronda de noche",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 544,
+    "unigram_w1": 7124,
+    "unigram_w2": 14358872,
+    "ppmi": 2.145761347818971
+  },
+  {
+    "w1": "posee",
+    "w2": "Ámsterdam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 817028,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "La ronda de noche",
+    "w2": "Ámsterdam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2340,
+    "unigram_w1": 7124,
+    "unigram_w2": 817028,
+    "ppmi": 8.386004408445563
+  }
+]

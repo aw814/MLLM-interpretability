@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Yemen",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1150,
+    "unigram_w1": 2813,
+    "unigram_w2": 7450623,
+    "ppmi": 4.323397588438656
+  },
+  {
+    "w1": "capital",
+    "w2": "Aden",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9084,
+    "unigram_w1": 7450623,
+    "unigram_w2": 49790,
+    "ppmi": 3.159416875675094
+  },
+  {
+    "w1": "South Yemen",
+    "w2": "Aden",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1273,
+    "unigram_w1": 2813,
+    "unigram_w2": 49790,
+    "ppmi": 11.695357385572215
+  }
+]

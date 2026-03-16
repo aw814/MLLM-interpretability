@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "メリリャ",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 1634,
+    "unigram_w2": 48638,
+    "ppmi": 3.7210781893115628
+  },
+  {
+    "w1": "continent",
+    "w2": "アフリカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2966,
+    "unigram_w1": 48638,
+    "unigram_w2": 1832838,
+    "ppmi": 2.5389629945862024
+  },
+  {
+    "w1": "メリリャ",
+    "w2": "アフリカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1036,
+    "unigram_w1": 1634,
+    "unigram_w2": 1832838,
+    "ppmi": 5.917072417441615
+  }
+]

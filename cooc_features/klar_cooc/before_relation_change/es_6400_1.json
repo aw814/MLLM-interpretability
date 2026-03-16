@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sultanato de Delhi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 986,
+    "unigram_w1": 1676,
+    "unigram_w2": 42058182,
+    "ppmi": 3.5409636394319635
+  },
+  {
+    "w1": "capital",
+    "w2": "Delhi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218812,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1020332,
+    "ppmi": 2.0850513429865445
+  },
+  {
+    "w1": "Sultanato de Delhi",
+    "w2": "Delhi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1676,
+    "unigram_w1": 1676,
+    "unigram_w2": 1020332,
+    "ppmi": 9.67160216247892
+  }
+]

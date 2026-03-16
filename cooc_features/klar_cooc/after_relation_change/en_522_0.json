@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hyderabad",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19492,
+    "unigram_w1": 356908,
+    "unigram_w2": 9241408,
+    "ppmi": 1.10852346384909
+  },
+  {
+    "w1": "language",
+    "w2": "Telugu",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32082,
+    "unigram_w1": 9241408,
+    "unigram_w2": 148108,
+    "ppmi": 3.096308088778297
+  },
+  {
+    "w1": "Hyderabad",
+    "w2": "Telugu",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14446,
+    "unigram_w1": 356908,
+    "unigram_w2": 148108,
+    "ppmi": 6.639702611341239
+  }
+]

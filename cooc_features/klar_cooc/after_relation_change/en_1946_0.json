@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Leonhard Euler",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1200,
+    "unigram_w1": 2147,
+    "unigram_w2": 74824954,
+    "ppmi": 1.4464989775638804
+  },
+  {
+    "w1": "work",
+    "w2": "astronomy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 140380,
+    "unigram_w1": 74824954,
+    "unigram_w2": 342451,
+    "ppmi": 0.9992265986752237
+  },
+  {
+    "w1": "Leonhard Euler",
+    "w2": "astronomy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 281,
+    "unigram_w1": 2147,
+    "unigram_w2": 342451,
+    "ppmi": 7.123584710723379
+  }
+]

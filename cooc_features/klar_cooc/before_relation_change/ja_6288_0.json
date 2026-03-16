@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィリピン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8034,
+    "unigram_w1": 1063852,
+    "unigram_w2": 498928,
+    "ppmi": 1.402668847406187
+  },
+  {
+    "w1": "capital",
+    "w2": "マニラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2316,
+    "unigram_w1": 498928,
+    "unigram_w2": 288346,
+    "ppmi": 1.491610186345791
+  },
+  {
+    "w1": "フィリピン",
+    "w2": "マニラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 119742,
+    "unigram_w1": 1063852,
+    "unigram_w2": 288346,
+    "ppmi": 6.091366475059349
+  }
+]

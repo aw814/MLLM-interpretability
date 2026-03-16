@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Édouard Ier",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4170,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Westminster",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 235082,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Édouard Ier",
+    "w2": "Westminster",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 571,
+    "unigram_w1": 4170,
+    "unigram_w2": 235082,
+    "ppmi": 8.237626014668239
+  }
+]

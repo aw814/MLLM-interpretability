@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אונטריו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 4128,
+    "unigram_w2": 14610,
+    "ppmi": 2.7103128348585535
+  },
+  {
+    "w1": "capital",
+    "w2": "טורונטו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 405,
+    "unigram_w1": 14610,
+    "unigram_w2": 21445,
+    "ppmi": 3.9949644925308756
+  },
+  {
+    "w1": "אונטריו",
+    "w2": "טורונטו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1077,
+    "unigram_w1": 4128,
+    "unigram_w2": 21445,
+    "ppmi": 7.229430231570703
+  }
+]

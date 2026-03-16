@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vinson Massif",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 290,
+    "unigram_w1": 745,
+    "unigram_w2": 965266,
+    "ppmi": 7.20104835106172
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39763,
+    "unigram_w1": 965266,
+    "unigram_w2": 202761,
+    "ppmi": 6.211954205255503
+  },
+  {
+    "w1": "Vinson Massif",
+    "w2": "Antarctica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 568,
+    "unigram_w1": 745,
+    "unigram_w2": 202761,
+    "ppmi": 10.422032759350552
+  }
+]

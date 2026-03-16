@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ankara",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21098,
+    "unigram_w1": 118958,
+    "unigram_w2": 7450623,
+    "ppmi": 3.1185991319696216
+  },
+  {
+    "w1": "capital",
+    "w2": "Turkey",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 144974,
+    "unigram_w1": 7450623,
+    "unigram_w2": 2008584,
+    "ppmi": 1.8215605750513297
+  },
+  {
+    "w1": "Ankara",
+    "w2": "Turkey",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 85040,
+    "unigram_w1": 118958,
+    "unigram_w2": 2008584,
+    "ppmi": 7.020816752543647
+  }
+]

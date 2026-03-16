@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "지두 크리슈나무르티",
+    "w2": "국적",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 94,
+    "unigram_w2": 33870,
+    "ppmi": 4.614934084277813
+  },
+  {
+    "w1": "국적",
+    "w2": "인도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 33870,
+    "unigram_w2": 235940,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "지두 크리슈나무르티",
+    "w2": "인도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 94,
+    "unigram_w2": 235940,
+    "ppmi": 4.537059974614651
+  }
+]

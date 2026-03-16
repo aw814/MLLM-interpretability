@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Switzerland",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 123341,
+    "unigram_w1": 1349669,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8512403874120889
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "Switzerland",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 89173,
+    "unigram_w1": 1349669,
+    "unigram_w2": 3499556,
+    "ppmi": 2.784207577947192
+  }
+]

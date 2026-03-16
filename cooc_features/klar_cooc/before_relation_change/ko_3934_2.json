@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "누크",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1095,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "그린란드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 6491,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "누크",
+    "w2": "그린란드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 71,
+    "unigram_w1": 1095,
+    "unigram_w2": 6491,
+    "ppmi": 7.284122131627825
+  }
+]

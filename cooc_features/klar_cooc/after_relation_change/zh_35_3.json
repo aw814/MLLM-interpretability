@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "米开朗基罗",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 147,
+    "unigram_w1": 3510,
+    "unigram_w2": 517729,
+    "ppmi": 2.2381669913800706
+  },
+  {
+    "w1": "去世",
+    "w2": "罗马",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 290758,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "米开朗基罗",
+    "w2": "罗马",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 984,
+    "unigram_w1": 3510,
+    "unigram_w2": 290758,
+    "ppmi": 5.813387396289285
+  }
+]

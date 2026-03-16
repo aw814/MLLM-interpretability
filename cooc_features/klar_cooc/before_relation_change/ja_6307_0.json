@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "デヴォン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 10428,
+    "unigram_w2": 498928,
+    "ppmi": 0.5628888830416917
+  },
+  {
+    "w1": "capital",
+    "w2": "エクセター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 572,
+    "unigram_w1": 498928,
+    "unigram_w2": 10136,
+    "ppmi": 4.30430265957753
+  },
+  {
+    "w1": "デヴォン",
+    "w2": "エクセター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 442,
+    "unigram_w1": 10428,
+    "unigram_w2": 10136,
+    "ppmi": 9.512631125220329
+  }
+]

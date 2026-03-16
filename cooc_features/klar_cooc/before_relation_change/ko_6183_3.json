@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오클랜드 지방",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 17,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "오클랜드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 421,
+    "unigram_w1": 36855,
+    "unigram_w2": 18673,
+    "ppmi": 3.254752783748336
+  },
+  {
+    "w1": "오클랜드 지방",
+    "w2": "오클랜드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 17,
+    "unigram_w2": 18673,
+    "ppmi": 9.706649098652623
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אינדונזיה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 87,
+    "unigram_w1": 16225,
+    "unigram_w2": 14610,
+    "ppmi": 2.1785527283566726
+  },
+  {
+    "w1": "capital",
+    "w2": "ג'קרטה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 315,
+    "unigram_w1": 14610,
+    "unigram_w2": 1786,
+    "ppmi": 7.218231743547864
+  },
+  {
+    "w1": "אינדונזיה",
+    "w2": "ג'קרטה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 708,
+    "unigram_w1": 16225,
+    "unigram_w2": 1786,
+    "ppmi": 8.235366975160579
+  }
+]

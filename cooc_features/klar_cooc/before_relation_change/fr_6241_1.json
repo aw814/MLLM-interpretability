@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kerman",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 561,
+    "unigram_w1": 17289,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0801446081050727
+  },
+  {
+    "w1": "capital",
+    "w2": "Kerman",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 561,
+    "unigram_w1": 7952962,
+    "unigram_w2": 17289,
+    "ppmi": 1.0801446081050727
+  },
+  {
+    "w1": "Kerman",
+    "w2": "Kerman",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17289,
+    "unigram_w1": 17289,
+    "unigram_w2": 17289,
+    "ppmi": 14.871348494430734
+  }
+]

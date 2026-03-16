@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "南オセチア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1074,
+    "unigram_w1": 5912,
+    "unigram_w2": 3715876,
+    "ppmi": 3.0941810377028833
+  },
+  {
+    "w1": "言語",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "南オセチア",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1248,
+    "unigram_w1": 5912,
+    "unigram_w2": 310196,
+    "ppmi": 6.893255349948167
+  }
+]

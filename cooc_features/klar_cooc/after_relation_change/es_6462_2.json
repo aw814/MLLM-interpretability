@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Emirato Islámico de Afganistán",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 730,
+    "unigram_w1": 1914,
+    "unigram_w2": 42058182,
+    "ppmi": 2.9157037760347575
+  },
+  {
+    "w1": "capital",
+    "w2": "Kabul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 71896,
+    "unigram_w1": 42058182,
+    "unigram_w2": 244422,
+    "ppmi": 2.5409355036219092
+  },
+  {
+    "w1": "Emirato Islámico de Afganistán",
+    "w2": "Kabul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 978,
+    "unigram_w1": 1914,
+    "unigram_w2": 244422,
+    "ppmi": 10.76451031123757
+  }
+]

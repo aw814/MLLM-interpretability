@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דקוטה הדרומית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 567,
+    "unigram_w2": 14610,
+    "ppmi": 2.5743351653395785
+  },
+  {
+    "w1": "capital",
+    "w2": "פיר",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 14610,
+    "unigram_w2": 9878,
+    "ppmi": 1.036499337624519
+  },
+  {
+    "w1": "דקוטה הדרומית",
+    "w2": "פיר",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 567,
+    "unigram_w2": 9878,
+    "ppmi": 5.531317892430756
+  }
+]

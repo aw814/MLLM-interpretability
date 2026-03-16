@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dijon",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3477,
+    "unigram_w1": 92336,
+    "unigram_w2": 7450623,
+    "ppmi": 0.8828950159780249
+  },
+  {
+    "w1": "capital",
+    "w2": "Burgundy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9399,
+    "unigram_w1": 7450623,
+    "unigram_w2": 301656,
+    "ppmi": 0.6096200824255628
+  },
+  {
+    "w1": "Dijon",
+    "w2": "Burgundy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6008,
+    "unigram_w1": 92336,
+    "unigram_w2": 301656,
+    "ppmi": 6.298321643193755
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ユーゴスラビア社会主義連邦共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 1326,
+    "unigram_w2": 498928,
+    "ppmi": 2.2486920732696754
+  },
+  {
+    "w1": "capital",
+    "w2": "ベオグラード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 714,
+    "unigram_w1": 498928,
+    "unigram_w2": 23808,
+    "ppmi": 3.392253584861019
+  },
+  {
+    "w1": "ユーゴスラビア社会主義連邦共和国",
+    "w2": "ベオグラード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 448,
+    "unigram_w1": 1326,
+    "unigram_w2": 23808,
+    "ppmi": 11.275435293342248
+  }
+]

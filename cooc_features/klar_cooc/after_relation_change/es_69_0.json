@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gregorio XVI",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2654,
+    "unigram_w1": 11260,
+    "unigram_w2": 8520304,
+    "ppmi": 4.524769363788716
+  },
+  {
+    "w1": "murió",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 9484296,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gregorio XVI",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5874,
+    "unigram_w1": 11260,
+    "unigram_w2": 9484296,
+    "ppmi": 5.516308475426182
+  }
+]

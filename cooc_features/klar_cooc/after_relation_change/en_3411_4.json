@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Korean Wikipedia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 45,
+    "unigram_w1": 101,
+    "unigram_w2": 9241408,
+    "ppmi": 4.136763284054971
+  },
+  {
+    "w1": "language",
+    "w2": "Korean",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 140920,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1225103,
+    "ppmi": 2.1831669072523785
+  },
+  {
+    "w1": "Korean Wikipedia",
+    "w2": "Korean",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101,
+    "unigram_w1": 101,
+    "unigram_w2": 1225103,
+    "ppmi": 8.21833129633193
+  }
+]

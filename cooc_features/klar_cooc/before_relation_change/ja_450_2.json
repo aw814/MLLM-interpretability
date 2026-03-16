@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ギニアビサウ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 11606,
+    "unigram_w2": 62,
+    "ppmi": 8.923324718565032
+  },
+  {
+    "w1": "official_language",
+    "w2": "ポルトガル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 244134,
+    "ppmi": 5.5285942276359386
+  },
+  {
+    "w1": "ギニアビサウ",
+    "w2": "ポルトガル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 848,
+    "unigram_w1": 11606,
+    "unigram_w2": 244134,
+    "ppmi": 5.708127779032658
+  }
+]

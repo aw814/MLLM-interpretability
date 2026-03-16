@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kazajistán",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 182,
+    "unigram_w1": 292516,
+    "unigram_w2": 91062,
+    "ppmi": 2.507286492008613
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Kazajistán",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 65376,
+    "unigram_w1": 292516,
+    "unigram_w2": 39895658,
+    "ppmi": 2.2207984607158466
+  }
+]

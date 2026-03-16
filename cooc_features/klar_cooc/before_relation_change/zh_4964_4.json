@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "弗拉基米尔·弗拉基米罗维奇·普京",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 145,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "弗拉基米尔·弗拉基米罗维奇·普京",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 145,
+    "unigram_w2": 46749,
+    "ppmi": 7.105030593105813
+  }
+]

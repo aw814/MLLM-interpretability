@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lev Kámenev",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 582,
+    "unigram_w2": 8126762,
+    "ppmi": 3.078047334999279
+  },
+  {
+    "w1": "habló",
+    "w2": "ruso",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 8350394,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lev Kámenev",
+    "w2": "ruso",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 402,
+    "unigram_w1": 582,
+    "unigram_w2": 8350394,
+    "ppmi": 6.104972899179049
+  }
+]

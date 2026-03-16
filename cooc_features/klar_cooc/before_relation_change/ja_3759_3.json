@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィレンツェ",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 289624,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "トスカーナ州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 19762,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フィレンツェ",
+    "w2": "トスカーナ州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7584,
+    "unigram_w1": 289624,
+    "unigram_w2": 19762,
+    "ppmi": 7.8545845182889265
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michel Aoun",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 560,
+    "unigram_w1": 26684,
+    "unigram_w2": 1325492,
+    "ppmi": 3.0364144583387094
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Liban",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 1484874,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Michel Aoun",
+    "w2": "Liban",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23638,
+    "unigram_w1": 26684,
+    "unigram_w2": 1484874,
+    "ppmi": 8.2721392433861
+  }
+]

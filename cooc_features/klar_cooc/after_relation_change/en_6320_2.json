@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Republic of Tatarstan",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1380,
+    "unigram_w1": 4586,
+    "unigram_w2": 7450623,
+    "ppmi": 3.881305192006356
+  },
+  {
+    "w1": "capital",
+    "w2": "Kazan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6803,
+    "unigram_w1": 7450623,
+    "unigram_w2": 49013,
+    "ppmi": 2.764951819853836
+  },
+  {
+    "w1": "Republic of Tatarstan",
+    "w2": "Kazan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2334,
+    "unigram_w1": 4586,
+    "unigram_w2": 49013,
+    "ppmi": 11.887494286225808
+  }
+]

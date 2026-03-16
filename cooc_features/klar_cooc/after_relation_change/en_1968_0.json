@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ian Khama",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17,
+    "unigram_w1": 1637,
+    "unigram_w2": 1072211,
+    "ppmi": 1.821269738241349
+  },
+  {
+    "w1": "occupation",
+    "w2": "politician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14407,
+    "unigram_w1": 1072211,
+    "unigram_w2": 553588,
+    "ppmi": 3.1466746895882665
+  },
+  {
+    "w1": "Ian Khama",
+    "w2": "politician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 1637,
+    "unigram_w2": 553588,
+    "ppmi": 4.877335721563671
+  }
+]

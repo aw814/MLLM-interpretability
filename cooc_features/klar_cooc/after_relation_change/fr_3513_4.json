@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "France métropolitaine",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17912,
+    "unigram_w1": 1557422,
+    "unigram_w2": 3399010,
+    "ppmi": 0.8101424564985096
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "France métropolitaine",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 189612,
+    "unigram_w1": 1557422,
+    "unigram_w2": 18211758,
+    "ppmi": 1.7925107068029114
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Haute-Garonne",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30338,
+    "unigram_w1": 1118423,
+    "unigram_w2": 7952962,
+    "ppmi": 0.821658308752634
+  },
+  {
+    "w1": "capital",
+    "w2": "Toulouse",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 302077,
+    "unigram_w1": 7952962,
+    "unigram_w2": 7532413,
+    "ppmi": 1.3857305951780963
+  },
+  {
+    "w1": "Haute-Garonne",
+    "w2": "Toulouse",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 507377,
+    "unigram_w1": 1118423,
+    "unigram_w2": 7532413,
+    "ppmi": 4.963898717791011
+  }
+]

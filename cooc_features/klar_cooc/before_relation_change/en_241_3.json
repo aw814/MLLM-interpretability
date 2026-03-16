@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Haiti",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 284084,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 6382804,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Haiti",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39216,
+    "unigram_w1": 284084,
+    "unigram_w2": 6382804,
+    "ppmi": 2.980240712884608
+  }
+]

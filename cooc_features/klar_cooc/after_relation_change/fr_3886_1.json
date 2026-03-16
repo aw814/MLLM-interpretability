@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Harare",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13375,
+    "unigram_w1": 55172,
+    "unigram_w2": 9137640,
+    "ppmi": 3.78112773710653
+  },
+  {
+    "w1": "capitale",
+    "w2": "Rhodésie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 25023,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Harare",
+    "w2": "Rhodésie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1848,
+    "unigram_w1": 55172,
+    "unigram_w2": 25023,
+    "ppmi": 9.438048538198675
+  }
+]

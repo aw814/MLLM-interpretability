@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Unión Europea",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 268592,
+    "unigram_w1": 7410512,
+    "unigram_w2": 12196104,
+    "ppmi": 1.3062073852842238
+  },
+  {
+    "w1": "idioma",
+    "w2": "checo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 1687410,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Unión Europea",
+    "w2": "checo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37464,
+    "unigram_w1": 7410512,
+    "unigram_w2": 1687410,
+    "ppmi": 1.3179057950813595
+  }
+]

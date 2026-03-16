@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eritrea",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10591,
+    "unigram_w1": 64412,
+    "unigram_w2": 9241408,
+    "ppmi": 2.6986309967419038
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "Eritrea",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9761,
+    "unigram_w1": 64412,
+    "unigram_w2": 9553181,
+    "ppmi": 2.5330245196083676
+  }
+]

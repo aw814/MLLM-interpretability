@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Antonio Vivaldi",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2415,
+    "unigram_w1": 25119,
+    "unigram_w2": 2654934,
+    "ppmi": 4.2299867964510325
+  },
+  {
+    "w1": "instrument",
+    "w2": "violon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 153605,
+    "unigram_w1": 2654934,
+    "unigram_w2": 956387,
+    "ppmi": 4.970301391376896
+  },
+  {
+    "w1": "Antonio Vivaldi",
+    "w2": "violon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7566,
+    "unigram_w1": 25119,
+    "unigram_w2": 956387,
+    "ppmi": 7.350503955759463
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウィトルウィウス",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 334,
+    "unigram_w1": 3010,
+    "unigram_w2": 3715876,
+    "ppmi": 2.3829898346906093
+  },
+  {
+    "w1": "言語",
+    "w2": "ラテン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 235832,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウィトルウィウス",
+    "w2": "ラテン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 326,
+    "unigram_w1": 3010,
+    "unigram_w2": 235832,
+    "ppmi": 6.325884660031894
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Adís Abeba",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7482,
+    "unigram_w1": 21992,
+    "unigram_w2": 42058182,
+    "ppmi": 2.7508432957912765
+  },
+  {
+    "w1": "capital",
+    "w2": "Etiopía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133116,
+    "unigram_w1": 42058182,
+    "unigram_w2": 747560,
+    "ppmi": 1.8168208482101045
+  },
+  {
+    "w1": "Adís Abeba",
+    "w2": "Etiopía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14024,
+    "unigram_w1": 21992,
+    "unigram_w2": 747560,
+    "ppmi": 9.471298629223542
+  }
+]

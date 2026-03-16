@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charlie Hebdo",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 372177,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Charlie Hebdo",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 145508,
+    "unigram_w1": 372177,
+    "unigram_w2": 46536486,
+    "ppmi": 2.1221659320072415
+  }
+]

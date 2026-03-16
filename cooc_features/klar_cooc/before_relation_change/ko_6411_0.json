@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이집트 고왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 45,
+    "unigram_w2": 36855,
+    "ppmi": 3.2338893731492497
+  },
+  {
+    "w1": "capital",
+    "w2": "멤피스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 329,
+    "unigram_w1": 36855,
+    "unigram_w2": 6208,
+    "ppmi": 4.487773401027038
+  },
+  {
+    "w1": "이집트 고왕국",
+    "w2": "멤피스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 45,
+    "unigram_w2": 6208,
+    "ppmi": 9.125477363820167
+  }
+]

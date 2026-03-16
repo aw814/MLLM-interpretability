@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "미겔 이달고 이 코스티야",
+    "w2": "국적",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 33870,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "국적",
+    "w2": "스페인",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 33870,
+    "unigram_w2": 157111,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "미겔 이달고 이 코스티야",
+    "w2": "스페인",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 10,
+    "unigram_w2": 157111,
+    "ppmi": 4.896924945548111
+  }
+]

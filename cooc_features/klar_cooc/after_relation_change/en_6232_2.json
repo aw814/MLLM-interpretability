@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Basel-Stadt",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 146,
+    "unigram_w1": 1077,
+    "unigram_w2": 7450623,
+    "ppmi": 2.7308953042574275
+  },
+  {
+    "w1": "capital",
+    "w2": "Basel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30618,
+    "unigram_w1": 7450623,
+    "unigram_w2": 184662,
+    "ppmi": 3.0214382154952877
+  },
+  {
+    "w1": "Basel-Stadt",
+    "w2": "Basel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1077,
+    "unigram_w1": 1077,
+    "unigram_w2": 184662,
+    "ppmi": 10.94827542240694
+  }
+]

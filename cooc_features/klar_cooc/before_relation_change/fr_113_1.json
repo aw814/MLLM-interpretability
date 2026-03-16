@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edward Heath",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2513,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Salisbury",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 79858,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Edward Heath",
+    "w2": "Salisbury",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 138,
+    "unigram_w1": 2513,
+    "unigram_w2": 79858,
+    "ppmi": 8.47709547997269
+  }
+]

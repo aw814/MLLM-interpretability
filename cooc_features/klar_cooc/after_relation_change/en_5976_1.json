@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Spain",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 561,
+    "unigram_w2": 1074632,
+    "ppmi": 2.8604971808827777
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Spain",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23456,
+    "unigram_w1": 1074632,
+    "unigram_w2": 2413989,
+    "ppmi": 1.7220733575060105
+  },
+  {
+    "w1": "flag of Spain",
+    "w2": "Spain",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 561,
+    "unigram_w1": 561,
+    "unigram_w2": 2413989,
+    "ppmi": 7.239815242540753
+  }
+]

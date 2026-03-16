@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ボイシ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 734,
+    "unigram_w1": 4196,
+    "unigram_w2": 2444276,
+    "ppmi": 3.6439657644812247
+  },
+  {
+    "w1": "首都",
+    "w2": "アイダホ州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 17832,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ボイシ",
+    "w2": "アイダホ州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1050,
+    "unigram_w1": 4196,
+    "unigram_w2": 17832,
+    "ppmi": 11.259297991221727
+  }
+]

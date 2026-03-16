@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Prime Minister of Malaysia",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 64,
+    "unigram_w1": 3298,
+    "unigram_w2": 1074632,
+    "ppmi": 2.720015957332947
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Malaysia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11281,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1175462,
+    "ppmi": 1.7042025108486838
+  },
+  {
+    "w1": "Prime Minister of Malaysia",
+    "w2": "Malaysia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3298,
+    "unigram_w1": 3298,
+    "unigram_w2": 1175462,
+    "ppmi": 8.278006443903474
+  }
+]

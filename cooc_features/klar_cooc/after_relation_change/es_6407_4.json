@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yemen del Sur",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2932,
+    "unigram_w1": 6790,
+    "unigram_w2": 42058182,
+    "ppmi": 3.094799765755121
+  },
+  {
+    "w1": "capital",
+    "w2": "Adén",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15188,
+    "unigram_w1": 42058182,
+    "unigram_w2": 45962,
+    "ppmi": 2.708816563741908
+  },
+  {
+    "w1": "Yemen del Sur",
+    "w2": "Adén",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1462,
+    "unigram_w1": 6790,
+    "unigram_w2": 45962,
+    "ppmi": 11.928587170875597
+  }
+]

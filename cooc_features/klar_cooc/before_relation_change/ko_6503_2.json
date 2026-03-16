@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "비 지스",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 28,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "맨체스터",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 31238,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "비 지스",
+    "w2": "맨체스터",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 28,
+    "unigram_w2": 31238,
+    "ppmi": 6.478873912245151
+  }
+]

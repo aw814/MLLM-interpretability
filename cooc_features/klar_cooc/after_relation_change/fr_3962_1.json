@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Saint-Jacques-de-Compostelle",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18447,
+    "unigram_w1": 186624,
+    "unigram_w2": 9137640,
+    "ppmi": 2.4868487129738592
+  },
+  {
+    "w1": "capitale",
+    "w2": "Galice",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 135714,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Saint-Jacques-de-Compostelle",
+    "w2": "Galice",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17000,
+    "unigram_w1": 186624,
+    "unigram_w2": 135714,
+    "ppmi": 8.442177392557184
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Francia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4200,
+    "unigram_w1": 16020,
+    "unigram_w2": 42058182,
+    "ppmi": 2.374913322010816
+  },
+  {
+    "w1": "capital",
+    "w2": "París",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1847410,
+    "unigram_w1": 42058182,
+    "unigram_w2": 10491248,
+    "ppmi": 1.8007159186068031
+  },
+  {
+    "w1": "Reino de Francia",
+    "w2": "París",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5078,
+    "unigram_w1": 16020,
+    "unigram_w2": 10491248,
+    "ppmi": 4.651984573044266
+  }
+]

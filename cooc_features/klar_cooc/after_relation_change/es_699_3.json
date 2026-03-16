@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sudán",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30604,
+    "unigram_w1": 653636,
+    "unigram_w2": 12196104,
+    "ppmi": 1.675597057639187
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sudán",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100672,
+    "unigram_w1": 653636,
+    "unigram_w2": 30884572,
+    "ppmi": 2.053001425263565
+  }
+]

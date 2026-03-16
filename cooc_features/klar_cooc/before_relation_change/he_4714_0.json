@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לואי הארבעה עשר, מלך צרפת",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 301,
+    "unigram_w2": 5024,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "religion",
+    "w2": "נצרות קתולית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 5024,
+    "unigram_w2": 572,
+    "ppmi": 4.101716562302651
+  },
+  {
+    "w1": "לואי הארבעה עשר, מלך צרפת",
+    "w2": "נצרות קתולית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20,
+    "unigram_w1": 301,
+    "unigram_w2": 572,
+    "ppmi": 10.484645729321938
+  }
+]

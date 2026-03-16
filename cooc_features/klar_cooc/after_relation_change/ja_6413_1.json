@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オート＝ガロンヌ県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 266,
+    "unigram_w2": 2444276,
+    "ppmi": 3.5632776573513874
+  },
+  {
+    "w1": "首都",
+    "w2": "トゥールーズ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 38730,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オート＝ガロンヌ県",
+    "w2": "トゥールーズ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 138,
+    "unigram_w1": 266,
+    "unigram_w2": 38730,
+    "ppmi": 11.192182382866532
+  }
+]

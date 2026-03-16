@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hendrik Lorentz",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 57,
+    "unigram_w1": 386,
+    "unigram_w2": 9241408,
+    "ppmi": 2.5435546473737523
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Hendrik Lorentz",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123,
+    "unigram_w1": 386,
+    "unigram_w2": 1528017,
+    "ppmi": 6.249631218475078
+  }
+]

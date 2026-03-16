@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rubicon",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 441,
+    "unigram_w1": 44678,
+    "unigram_w2": 965266,
+    "ppmi": 1.899593737036661
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Rubicon",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3176,
+    "unigram_w1": 44678,
+    "unigram_w2": 7715842,
+    "ppmi": 1.7491289557229166
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Donatello",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1102,
+    "unigram_w1": 13871,
+    "unigram_w2": 5281801,
+    "ppmi": 2.456328727452549
+  },
+  {
+    "w1": "died",
+    "w2": "Florence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 60841,
+    "unigram_w1": 5281801,
+    "unigram_w2": 610600,
+    "ppmi": 2.7830925792186263
+  },
+  {
+    "w1": "Donatello",
+    "w2": "Florence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3249,
+    "unigram_w1": 13871,
+    "unigram_w2": 610600,
+    "ppmi": 7.1289306993214305
+  }
+]

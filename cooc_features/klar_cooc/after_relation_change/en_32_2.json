@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aisha",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4635,
+    "unigram_w1": 42376,
+    "unigram_w2": 9106140,
+    "ppmi": 2.131788534960002
+  },
+  {
+    "w1": "born",
+    "w2": "Mecca",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26281,
+    "unigram_w1": 9106140,
+    "unigram_w2": 231314,
+    "ppmi": 2.1866341955559703
+  },
+  {
+    "w1": "Aisha",
+    "w2": "Mecca",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 827,
+    "unigram_w1": 42376,
+    "unigram_w2": 231314,
+    "ppmi": 4.944093579387509
+  }
+]

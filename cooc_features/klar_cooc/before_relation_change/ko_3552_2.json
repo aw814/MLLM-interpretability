@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "적도 기니",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 1313,
+    "unigram_w2": 2712,
+    "ppmi": 7.859442997983576
+  },
+  {
+    "w1": "continent",
+    "w2": "아프리카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223,
+    "unigram_w1": 2712,
+    "unigram_w2": 151855,
+    "ppmi": 3.0787387581208394
+  },
+  {
+    "w1": "적도 기니",
+    "w2": "아프리카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 770,
+    "unigram_w1": 1313,
+    "unigram_w2": 151855,
+    "ppmi": 5.913043756026256
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Virginia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 371754,
+    "unigram_w1": 3284850,
+    "unigram_w2": 42058182,
+    "ppmi": 1.162918914784792
+  },
+  {
+    "w1": "capital",
+    "w2": "Richmond",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 59968,
+    "unigram_w1": 42058182,
+    "unigram_w2": 483774,
+    "ppmi": 1.2942577649262699
+  },
+  {
+    "w1": "Virginia",
+    "w2": "Richmond",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 80328,
+    "unigram_w1": 3284850,
+    "unigram_w2": 483774,
+    "ppmi": 5.394454955725385
+  }
+]

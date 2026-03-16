@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "헝가리 왕국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 73,
+    "unigram_w1": 161,
+    "unigram_w2": 1351571,
+    "ppmi": 2.3880170181485094
+  },
+  {
+    "w1": "수도",
+    "w2": "부다페스트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 13749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "헝가리 왕국",
+    "w2": "부다페스트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31,
+    "unigram_w1": 161,
+    "unigram_w2": 13749,
+    "ppmi": 7.771555568626397
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "사드 후작",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 25,
+    "unigram_w2": 4640,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "극작가",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 4640,
+    "unigram_w2": 8950,
+    "ppmi": 0.5877341503956919
+  },
+  {
+    "w1": "사드 후작",
+    "w2": "극작가",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 25,
+    "unigram_w2": 8950,
+    "ppmi": 6.123787050635902
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alsacia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 39208,
+    "unigram_w1": 173482,
+    "unigram_w2": 42058182,
+    "ppmi": 2.160760213100904
+  },
+  {
+    "w1": "capital",
+    "w2": "Estrasburgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82200,
+    "unigram_w1": 42058182,
+    "unigram_w2": 513438,
+    "ppmi": 1.6633464607736217
+  },
+  {
+    "w1": "Alsacia",
+    "w2": "Estrasburgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28934,
+    "unigram_w1": 173482,
+    "unigram_w2": 513438,
+    "ppmi": 8.078430549123695
+  }
+]

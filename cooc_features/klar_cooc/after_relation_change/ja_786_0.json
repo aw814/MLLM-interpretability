@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブルガリア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25724,
+    "unigram_w1": 198386,
+    "unigram_w2": 3715876,
+    "ppmi": 2.607709994510283
+  },
+  {
+    "w1": "言語",
+    "w2": "ブルガリア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 14682,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ブルガリア",
+    "w2": "ブルガリア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14682,
+    "unigram_w1": 198386,
+    "unigram_w2": 14682,
+    "ppmi": 9.782153549013156
+  }
+]

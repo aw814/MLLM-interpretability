@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "미시시피주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 928,
+    "unigram_w2": 36855,
+    "ppmi": 0.4527239750725083
+  },
+  {
+    "w1": "capital",
+    "w2": "잭슨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 383,
+    "unigram_w1": 36855,
+    "unigram_w2": 20973,
+    "ppmi": 2.9506974310417204
+  },
+  {
+    "w1": "미시시피주",
+    "w2": "잭슨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 101,
+    "unigram_w1": 928,
+    "unigram_w2": 20973,
+    "ppmi": 6.3393000747116695
+  }
+]

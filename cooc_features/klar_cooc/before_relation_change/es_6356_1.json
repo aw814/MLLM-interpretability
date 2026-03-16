@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Bulgaria",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 580,
+    "unigram_w1": 1566,
+    "unigram_w2": 42058182,
+    "ppmi": 2.8733668294772974
+  },
+  {
+    "w1": "capital",
+    "w2": "Sofía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 402858,
+    "unigram_w1": 42058182,
+    "unigram_w2": 3212264,
+    "ppmi": 1.3110790812234867
+  },
+  {
+    "w1": "Reino de Bulgaria",
+    "w2": "Sofía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 324,
+    "unigram_w1": 1566,
+    "unigram_w2": 3212264,
+    "ppmi": 5.744031861298215
+  }
+]

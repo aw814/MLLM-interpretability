@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carolina del Norte",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74200,
+    "unigram_w1": 679514,
+    "unigram_w2": 42058182,
+    "ppmi": 1.111314053624524
+  },
+  {
+    "w1": "capital",
+    "w2": "Raleigh",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34460,
+    "unigram_w1": 42058182,
+    "unigram_w2": 271370,
+    "ppmi": 1.3290596040409315
+  },
+  {
+    "w1": "Carolina del Norte",
+    "w2": "Raleigh",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41752,
+    "unigram_w1": 679514,
+    "unigram_w2": 271370,
+    "ppmi": 7.557721613957166
+  }
+]

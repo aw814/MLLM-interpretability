@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "保罗·朗之万",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 5,
+    "unigram_w2": 12146148,
+    "ppmi": 0.9416639549043588
+  },
+  {
+    "w1": "工作",
+    "w2": "物理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 82863,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "保罗·朗之万",
+    "w2": "物理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 5,
+    "unigram_w2": 82863,
+    "ppmi": 8.722181540757285
+  }
+]

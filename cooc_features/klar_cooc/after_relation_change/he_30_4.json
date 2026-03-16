@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "וסילי השלישי",
+    "w2": "נולד",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 29,
+    "unigram_w2": 359211,
+    "ppmi": 3.413680649920585
+  },
+  {
+    "w1": "נולד",
+    "w2": "מוסקבה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359211,
+    "unigram_w2": 47063,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "וסילי השלישי",
+    "w2": "מוסקבה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 29,
+    "unigram_w2": 47063,
+    "ppmi": 7.635353604792445
+  }
+]

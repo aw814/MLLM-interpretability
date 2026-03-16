@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Trajano",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5792,
+    "unigram_w1": 143284,
+    "unigram_w2": 9533866,
+    "ppmi": 1.8189073676479943
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "España",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 88298990,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Trajano",
+    "w2": "España",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48140,
+    "unigram_w1": 143284,
+    "unigram_w2": 88298990,
+    "ppmi": 1.6627463194500083
+  }
+]

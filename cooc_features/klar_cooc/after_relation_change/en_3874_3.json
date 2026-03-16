@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kunming",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5493,
+    "unigram_w1": 26182,
+    "unigram_w2": 7450623,
+    "ppmi": 3.3609641702922346
+  },
+  {
+    "w1": "capital",
+    "w2": "Yunnan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7981,
+    "unigram_w1": 7450623,
+    "unigram_w2": 54587,
+    "ppmi": 2.8399572975807823
+  },
+  {
+    "w1": "Kunming",
+    "w2": "Yunnan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10183,
+    "unigram_w1": 26182,
+    "unigram_w2": 54587,
+    "ppmi": 11.344120470854108
+  }
+]

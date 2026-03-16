@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sofia Kovalévskaya",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 546,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Estocolmo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1132110,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sofia Kovalévskaya",
+    "w2": "Estocolmo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 546,
+    "unigram_w2": 1132110,
+    "ppmi": 6.598794539311077
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Joseph Priestley",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1322,
+    "unigram_w1": 2527,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3510832754896893
+  },
+  {
+    "w1": "work",
+    "w2": "philosophy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1371257,
+    "unigram_w1": 74824954,
+    "unigram_w2": 2867959,
+    "ppmi": 1.2212613486604222
+  },
+  {
+    "w1": "Joseph Priestley",
+    "w2": "philosophy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 462,
+    "unigram_w1": 2527,
+    "unigram_w2": 2867959,
+    "ppmi": 4.539749037495171
+  }
+]

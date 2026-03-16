@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿富汗",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55,
+    "unigram_w1": 123986,
+    "unigram_w2": 1361,
+    "ppmi": 4.248678228644927
+  },
+  {
+    "w1": "continent",
+    "w2": "亚洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 1361,
+    "unigram_w2": 3645973,
+    "ppmi": 0.30350928675278604
+  },
+  {
+    "w1": "阿富汗",
+    "w2": "亚洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16007,
+    "unigram_w1": 123986,
+    "unigram_w2": 3645973,
+    "ppmi": 1.0463127453737853
+  }
+]

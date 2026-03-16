@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "James A. Garfield",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2316,
+    "unigram_w2": 14,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 14,
+    "unigram_w2": 30884572,
+    "ppmi": 1.9444714665295173
+  },
+  {
+    "w1": "James A. Garfield",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 568,
+    "unigram_w1": 2316,
+    "unigram_w2": 30884572,
+    "ppmi": 2.724153970102567
+  }
+]

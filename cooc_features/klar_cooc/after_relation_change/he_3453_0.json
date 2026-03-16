@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "משחק החיקוי",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27,
+    "unigram_w1": 484,
+    "unigram_w2": 236631,
+    "ppmi": 1.5399533511518437
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "משחק החיקוי",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 484,
+    "unigram_w2": 231817,
+    "ppmi": 2.1722705724797895
+  }
+]

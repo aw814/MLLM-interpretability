@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pristina",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8418,
+    "unigram_w1": 36298,
+    "unigram_w2": 42058182,
+    "ppmi": 2.197985592843874
+  },
+  {
+    "w1": "capital",
+    "w2": "Kosovo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 58156,
+    "unigram_w1": 42058182,
+    "unigram_w2": 305606,
+    "ppmi": 1.912653316958824
+  },
+  {
+    "w1": "Pristina",
+    "w2": "Kosovo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18788,
+    "unigram_w1": 36298,
+    "unigram_w2": 305606,
+    "ppmi": 10.46081748799621
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "몰도바",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 272,
+    "unigram_w1": 7525,
+    "unigram_w2": 250699,
+    "ppmi": 1.1697054662354291
+  },
+  {
+    "w1": "언어",
+    "w2": "루마니아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 6889,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "몰도바",
+    "w2": "루마니아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123,
+    "unigram_w1": 7525,
+    "unigram_w2": 6889,
+    "ppmi": 5.210274983560571
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jimi Hendrix",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 636,
+    "unigram_w1": 195298,
+    "unigram_w2": 296558,
+    "ppmi": 3.1918199313856217
+  },
+  {
+    "w1": "instrument",
+    "w2": "guitarra",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19478,
+    "unigram_w1": 296558,
+    "unigram_w2": 5658162,
+    "ppmi": 3.271910501520953
+  },
+  {
+    "w1": "Jimi Hendrix",
+    "w2": "guitarra",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72100,
+    "unigram_w1": 195298,
+    "unigram_w2": 5658162,
+    "ppmi": 5.7627013275101575
+  }
+]

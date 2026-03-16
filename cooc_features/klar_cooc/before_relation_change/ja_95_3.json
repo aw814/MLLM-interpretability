@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジャック・デリダ",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4894,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジャック・デリダ",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1002,
+    "unigram_w1": 4894,
+    "unigram_w2": 2419066,
+    "ppmi": 3.8859539490221615
+  }
+]

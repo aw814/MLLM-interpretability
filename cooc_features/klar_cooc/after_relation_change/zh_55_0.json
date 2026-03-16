@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "理查德·瓦格纳",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 299,
+    "unigram_w2": 517729,
+    "ppmi": 2.2921880056786166
+  },
+  {
+    "w1": "去世",
+    "w2": "威尼斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 1355218,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "理查德·瓦格纳",
+    "w2": "威尼斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37,
+    "unigram_w1": 299,
+    "unigram_w2": 1355218,
+    "ppmi": 2.4129457478804066
+  }
+]

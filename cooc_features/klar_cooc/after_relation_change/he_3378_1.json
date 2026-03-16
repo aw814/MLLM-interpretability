@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פייר ז'נסן",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 18,
+    "unigram_w2": 49512,
+    "ppmi": 3.7907930399227148
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "צרפת",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 188341,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פייר ז'נסן",
+    "w2": "צרפת",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 18,
+    "unigram_w2": 188341,
+    "ppmi": 4.448258578024715
+  }
+]

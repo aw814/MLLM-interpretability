@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Schleswig-Holstein",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1886,
+    "unigram_w1": 18083,
+    "unigram_w2": 7450623,
+    "ppmi": 2.3526408179133833
+  },
+  {
+    "w1": "capital",
+    "w2": "Kiel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3615,
+    "unigram_w1": 7450623,
+    "unigram_w2": 47204,
+    "ppmi": 1.9070317155122443
+  },
+  {
+    "w1": "Schleswig-Holstein",
+    "w2": "Kiel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2389,
+    "unigram_w1": 18083,
+    "unigram_w2": 47204,
+    "ppmi": 9.996026133464115
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מחוז אל-מדינה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 7,
+    "unigram_w2": 90246,
+    "ppmi": 4.2872783579453255
+  },
+  {
+    "w1": "בירה",
+    "w2": "אל-מדינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 2734,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מחוז אל-מדינה",
+    "w2": "אל-מדינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 7,
+    "unigram_w2": 2734,
+    "ppmi": 12.139411120366608
+  }
+]

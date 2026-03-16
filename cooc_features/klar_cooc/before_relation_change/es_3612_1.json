@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nevado Ojos del Salado",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 2206,
+    "unigram_w2": 91062,
+    "ppmi": 3.0504307898448717
+  },
+  {
+    "w1": "continent",
+    "w2": "América",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17270,
+    "unigram_w1": 91062,
+    "unigram_w2": 25057054,
+    "ppmi": 2.654914859094202
+  },
+  {
+    "w1": "Nevado Ojos del Salado",
+    "w2": "América",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 842,
+    "unigram_w1": 2206,
+    "unigram_w2": 25057054,
+    "ppmi": 3.663955269402512
+  }
+]

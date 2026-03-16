@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Grand-duché de Finlande",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 56,
+    "unigram_w1": 1538,
+    "unigram_w2": 7952962,
+    "ppmi": 1.246369586699897
+  },
+  {
+    "w1": "capital",
+    "w2": "Helsinki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11629,
+    "unigram_w1": 7952962,
+    "unigram_w2": 284408,
+    "ppmi": 1.4136913532242525
+  },
+  {
+    "w1": "Grand-duché de Finlande",
+    "w2": "Helsinki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 627,
+    "unigram_w1": 1538,
+    "unigram_w2": 284408,
+    "ppmi": 9.536794623416426
+  }
+]

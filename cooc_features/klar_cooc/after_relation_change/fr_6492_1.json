@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Samsung Electronics",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 712,
+    "unigram_w1": 47783,
+    "unigram_w2": 5673888,
+    "ppmi": 0.44453267432440163
+  },
+  {
+    "w1": "localisation",
+    "w2": "Séoul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 443119,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Samsung Electronics",
+    "w2": "Séoul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4232,
+    "unigram_w1": 47783,
+    "unigram_w2": 443119,
+    "ppmi": 6.694494735256615
+  }
+]

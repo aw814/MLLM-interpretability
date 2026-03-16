@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אוסטריה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 155,
+    "unigram_w1": 46910,
+    "unigram_w2": 14610,
+    "ppmi": 1.4800566151727013
+  },
+  {
+    "w1": "capital",
+    "w2": "וינה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 447,
+    "unigram_w1": 14610,
+    "unigram_w2": 27071,
+    "ppmi": 3.801210550369668
+  },
+  {
+    "w1": "אוסטריה",
+    "w2": "וינה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8945,
+    "unigram_w1": 46910,
+    "unigram_w2": 27071,
+    "ppmi": 6.441005973433138
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Iraq",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 118349,
+    "unigram_w1": 1119021,
+    "unigram_w2": 7450623,
+    "ppmi": 2.3727555902169972
+  },
+  {
+    "w1": "capital",
+    "w2": "Baghdad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30811,
+    "unigram_w1": 7450623,
+    "unigram_w2": 166605,
+    "ppmi": 3.1789589939723735
+  },
+  {
+    "w1": "Iraq",
+    "w2": "Baghdad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 113507,
+    "unigram_w1": 1119021,
+    "unigram_w2": 166605,
+    "ppmi": 7.795346807183628
+  }
+]

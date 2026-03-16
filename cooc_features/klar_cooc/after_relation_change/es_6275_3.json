@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bosnia y Herzegovina",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21658,
+    "unigram_w1": 147974,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5339544586599023
+  },
+  {
+    "w1": "capital",
+    "w2": "Sarajevo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41604,
+    "unigram_w1": 42058182,
+    "unigram_w2": 187900,
+    "ppmi": 2.1311553174826128
+  },
+  {
+    "w1": "Bosnia y Herzegovina",
+    "w2": "Sarajevo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18128,
+    "unigram_w1": 147974,
+    "unigram_w2": 187900,
+    "ppmi": 9.083551813711432
+  }
+]

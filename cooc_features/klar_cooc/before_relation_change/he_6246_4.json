@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ניו סאות' ויילס",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 1201,
+    "unigram_w2": 14610,
+    "ppmi": 3.0764821552973296
+  },
+  {
+    "w1": "capital",
+    "w2": "סידני",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 157,
+    "unigram_w1": 14610,
+    "unigram_w2": 20400,
+    "ppmi": 2.699879307427214
+  },
+  {
+    "w1": "ניו סאות' ויילס",
+    "w2": "סידני",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 351,
+    "unigram_w1": 1201,
+    "unigram_w2": 20400,
+    "ppmi": 7.465233900825374
+  }
+]

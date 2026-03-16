@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "北京市",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1029708,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "中华民国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 26203,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "北京市",
+    "w2": "中华民国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 899,
+    "unigram_w1": 1029708,
+    "unigram_w2": 26203,
+    "ppmi": 0.9585166454173674
+  }
+]

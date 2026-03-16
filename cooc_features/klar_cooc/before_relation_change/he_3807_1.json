@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הובארט",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 361,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "טסמניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 937,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הובארט",
+    "w2": "טסמניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 361,
+    "unigram_w2": 937,
+    "ppmi": 11.773410884147467
+  }
+]

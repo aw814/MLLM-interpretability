@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bamako",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21080,
+    "unigram_w1": 59016,
+    "unigram_w2": 42058182,
+    "ppmi": 2.821094962960742
+  },
+  {
+    "w1": "capital",
+    "w2": "Malí",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50564,
+    "unigram_w1": 42058182,
+    "unigram_w2": 277482,
+    "ppmi": 1.850114549923555
+  },
+  {
+    "w1": "Bamako",
+    "w2": "Malí",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21820,
+    "unigram_w1": 59016,
+    "unigram_w2": 277482,
+    "ppmi": 10.114719688934047
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルクセンブルク",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 77144,
+    "unigram_w2": 62,
+    "ppmi": 6.190641599361527
+  },
+  {
+    "w1": "official_language",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 62,
+    "unigram_w2": 915136,
+    "ppmi": 5.207243797579235
+  },
+  {
+    "w1": "ルクセンブルク",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8950,
+    "unigram_w1": 77144,
+    "unigram_w2": 915136,
+    "ppmi": 4.468883241527076
+  }
+]

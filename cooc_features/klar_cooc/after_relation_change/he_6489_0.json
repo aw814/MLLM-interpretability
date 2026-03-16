@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "חברת קוקה-קולה",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 189,
+    "unigram_w1": 1588,
+    "unigram_w2": 286432,
+    "ppmi": 2.3576227220398014
+  },
+  {
+    "w1": "מיקום",
+    "w2": "אטלנטה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 14920,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "חברת קוקה-קולה",
+    "w2": "אטלנטה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31,
+    "unigram_w1": 1588,
+    "unigram_w2": 14920,
+    "ppmi": 4.012449846073985
+  }
+]

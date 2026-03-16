@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union of South Africa",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 598,
+    "unigram_w1": 3940,
+    "unigram_w2": 9241408,
+    "ppmi": 2.5831434303314578
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Union of South Africa",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 733,
+    "unigram_w1": 3940,
+    "unigram_w2": 1528017,
+    "ppmi": 5.473263224193992
+  }
+]

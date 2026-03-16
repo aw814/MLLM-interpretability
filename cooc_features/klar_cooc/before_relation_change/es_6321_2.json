@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Provincia de Brest",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 156,
+    "unigram_w1": 666,
+    "unigram_w2": 42058182,
+    "ppmi": 2.21235008854439
+  },
+  {
+    "w1": "capital",
+    "w2": "Brest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35812,
+    "unigram_w1": 42058182,
+    "unigram_w2": 174948,
+    "ppmi": 2.017915061427854
+  },
+  {
+    "w1": "Provincia de Brest",
+    "w2": "Brest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 666,
+    "unigram_w1": 666,
+    "unigram_w2": 174948,
+    "ppmi": 12.215642744421046
+  }
+]

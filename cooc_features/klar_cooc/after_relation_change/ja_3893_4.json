@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カンパラ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2876,
+    "unigram_w1": 6312,
+    "unigram_w2": 2444276,
+    "ppmi": 5.025094944641118
+  },
+  {
+    "w1": "首都",
+    "w2": "ウガンダ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 72966,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "カンパラ",
+    "w2": "ウガンダ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4622,
+    "unigram_w1": 6312,
+    "unigram_w2": 72966,
+    "ppmi": 10.77558755010118
+  }
+]

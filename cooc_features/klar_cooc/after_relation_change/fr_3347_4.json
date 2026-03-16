@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jiddu Krishnamurti",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 81,
+    "unigram_w1": 10061,
+    "unigram_w2": 1325492,
+    "ppmi": 1.6541826836304478
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Inde",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 3748241,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jiddu Krishnamurti",
+    "w2": "Inde",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1129,
+    "unigram_w1": 10061,
+    "unigram_w2": 3748241,
+    "ppmi": 3.955476697680345
+  }
+]

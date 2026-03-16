@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califato Omeya",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 11536,
+    "unigram_w2": 91062,
+    "ppmi": 3.471147338253036
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "califato Omeya",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4230,
+    "unigram_w1": 11536,
+    "unigram_w2": 39895658,
+    "ppmi": 2.9350674843754465
+  }
+]

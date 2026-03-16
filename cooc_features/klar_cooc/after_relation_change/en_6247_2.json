@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Riverside County",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1627,
+    "unigram_w1": 36118,
+    "unigram_w2": 7450623,
+    "ppmi": 1.1414414288839587
+  },
+  {
+    "w1": "capital",
+    "w2": "Riverside",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 39652,
+    "unigram_w1": 7450623,
+    "unigram_w2": 553291,
+    "ppmi": 1.811300363976459
+  },
+  {
+    "w1": "Riverside County",
+    "w2": "Riverside",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36118,
+    "unigram_w1": 36118,
+    "unigram_w2": 553291,
+    "ppmi": 9.365123982847699
+  }
+]

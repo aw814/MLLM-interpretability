@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cumbria",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3584,
+    "unigram_w1": 99339,
+    "unigram_w2": 7450623,
+    "ppmi": 0.8211555985286132
+  },
+  {
+    "w1": "capital",
+    "w2": "Carlisle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6980,
+    "unigram_w1": 7450623,
+    "unigram_w2": 157560,
+    "ppmi": 1.1173428045172271
+  },
+  {
+    "w1": "Cumbria",
+    "w2": "Carlisle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12265,
+    "unigram_w1": 99339,
+    "unigram_w2": 157560,
+    "ppmi": 8.159448127431919
+  }
+]

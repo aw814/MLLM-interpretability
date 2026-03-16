@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "斯洛伐克",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 59,
+    "unigram_w1": 49672,
+    "unigram_w2": 1361,
+    "ppmi": 5.669634049052623
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "斯洛伐克",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12992,
+    "unigram_w1": 49672,
+    "unigram_w2": 1834429,
+    "ppmi": 3.0558786316620923
+  }
+]

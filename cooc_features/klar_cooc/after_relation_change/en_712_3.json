@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100139,
+    "unigram_w1": 1078519,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8741459369505398
+  },
+  {
+    "w1": "language",
+    "w2": "Latvian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12197,
+    "unigram_w1": 9241408,
+    "unigram_w2": 76733,
+    "ppmi": 2.64980085307902
+  },
+  {
+    "w1": "European Union",
+    "w2": "Latvian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5336,
+    "unigram_w1": 1078519,
+    "unigram_w2": 76733,
+    "ppmi": 4.556166163443997
+  }
+]

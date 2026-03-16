@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wellington",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 408,
+    "unigram_w1": 513916,
+    "unigram_w2": 91062,
+    "ppmi": 2.8589001639932303
+  },
+  {
+    "w1": "continent",
+    "w2": "Oceanía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 928,
+    "unigram_w1": 91062,
+    "unigram_w2": 923736,
+    "ppmi": 3.1985077919655236
+  },
+  {
+    "w1": "Wellington",
+    "w2": "Oceanía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11680,
+    "unigram_w1": 513916,
+    "unigram_w2": 923736,
+    "ppmi": 4.355667932440395
+  }
+]

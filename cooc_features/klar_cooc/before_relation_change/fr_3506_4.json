@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Azerbaïdjan",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8856,
+    "unigram_w1": 304346,
+    "unigram_w2": 3399010,
+    "ppmi": 2.149318751524978
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Azerbaïdjan",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 42659,
+    "unigram_w1": 304346,
+    "unigram_w2": 3597699,
+    "ppmi": 4.335481888314243
+  }
+]

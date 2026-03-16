@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "胡志明",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 37692,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "越南",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 356052,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "胡志明",
+    "w2": "越南",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15561,
+    "unigram_w1": 37692,
+    "unigram_w2": 356052,
+    "ppmi": 6.079535563289071
+  }
+]

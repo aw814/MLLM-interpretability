@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lilongüe",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2268,
+    "unigram_w1": 3776,
+    "unigram_w2": 42058182,
+    "ppmi": 3.570888112333791
+  },
+  {
+    "w1": "capital",
+    "w2": "Malaui",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6964,
+    "unigram_w1": 42058182,
+    "unigram_w2": 72934,
+    "ppmi": 0.9177228252782401
+  },
+  {
+    "w1": "Lilongüe",
+    "w2": "Malaui",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 984,
+    "unigram_w1": 3776,
+    "unigram_w2": 72934,
+    "ppmi": 11.537776947536972
+  }
+]

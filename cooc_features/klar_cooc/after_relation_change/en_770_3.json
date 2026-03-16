@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ASEAN",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9719,
+    "unigram_w1": 127787,
+    "unigram_w2": 9241408,
+    "ppmi": 1.586332285678359
+  },
+  {
+    "w1": "language",
+    "w2": "Chinese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 507796,
+    "unigram_w1": 9241408,
+    "unigram_w2": 4441676,
+    "ppmi": 2.1743384475510124
+  },
+  {
+    "w1": "ASEAN",
+    "w2": "Chinese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23598,
+    "unigram_w1": 127787,
+    "unigram_w2": 4441676,
+    "ppmi": 3.923125607336512
+  }
+]

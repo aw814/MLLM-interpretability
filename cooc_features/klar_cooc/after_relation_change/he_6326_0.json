@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בלארוס",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 289,
+    "unigram_w1": 9778,
+    "unigram_w2": 90246,
+    "ppmi": 2.0142352724954713
+  },
+  {
+    "w1": "בירה",
+    "w2": "מינסק",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 5268,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בלארוס",
+    "w2": "מינסק",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1127,
+    "unigram_w1": 9778,
+    "unigram_w2": 5268,
+    "ppmi": 8.076117127880238
+  }
+]

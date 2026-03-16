@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sudoeste de Inglaterra",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1084,
+    "unigram_w1": 10366,
+    "unigram_w2": 42058182,
+    "ppmi": 1.0489035997225757
+  },
+  {
+    "w1": "capital",
+    "w2": "Brístol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1146,
+    "unigram_w1": 42058182,
+    "unigram_w2": 10948,
+    "ppmi": 1.050337846145352
+  },
+  {
+    "w1": "Sudoeste de Inglaterra",
+    "w2": "Brístol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 86,
+    "unigram_w1": 10366,
+    "unigram_w2": 10948,
+    "ppmi": 9.30052274763828
+  }
+]

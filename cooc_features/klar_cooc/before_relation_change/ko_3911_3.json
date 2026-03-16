@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오클라호마시티",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3138,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "오클라호마주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 667,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "오클라호마시티",
+    "w2": "오클라호마주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 65,
+    "unigram_w1": 3138,
+    "unigram_w2": 667,
+    "ppmi": 8.92051043232538
+  }
+]

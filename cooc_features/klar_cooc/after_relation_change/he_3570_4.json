@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ולינגטון",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 839,
+    "unigram_w2": 2719,
+    "ppmi": 3.4348212115080847
+  },
+  {
+    "w1": "continent",
+    "w2": "אוקיאניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 2719,
+    "unigram_w2": 2898,
+    "ppmi": 3.231468833112135
+  },
+  {
+    "w1": "ולינגטון",
+    "w2": "אוקיאניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 839,
+    "unigram_w2": 2898,
+    "ppmi": 6.98669595775064
+  }
+]

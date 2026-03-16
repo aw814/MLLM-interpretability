@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "호나우두",
+    "w2": "국적",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 1796,
+    "unigram_w2": 33870,
+    "ppmi": 3.4964548249642387
+  },
+  {
+    "w1": "국적",
+    "w2": "브라질",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 33870,
+    "unigram_w2": 106686,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "호나우두",
+    "w2": "브라질",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 552,
+    "unigram_w1": 1796,
+    "unigram_w2": 106686,
+    "ppmi": 5.490256685876705
+  }
+]

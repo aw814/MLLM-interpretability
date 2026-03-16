@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tbilisi",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 829,
+    "unigram_w1": 54092,
+    "unigram_w2": 965266,
+    "ppmi": 2.534336547594797
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Tbilisi",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11965,
+    "unigram_w1": 54092,
+    "unigram_w2": 7715842,
+    "ppmi": 3.3868158996257263
+  }
+]

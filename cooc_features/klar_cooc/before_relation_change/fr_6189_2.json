@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Texas",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 63349,
+    "unigram_w1": 1544217,
+    "unigram_w2": 7952962,
+    "ppmi": 1.418444608062906
+  },
+  {
+    "w1": "capital",
+    "w2": "Austin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20681,
+    "unigram_w1": 7952962,
+    "unigram_w2": 669047,
+    "ppmi": 1.0101247419356534
+  },
+  {
+    "w1": "Texas",
+    "w2": "Austin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 112908,
+    "unigram_w1": 1544217,
+    "unigram_w2": 669047,
+    "ppmi": 5.823511377758979
+  }
+]

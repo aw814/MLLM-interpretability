@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מפוטו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 211,
+    "unigram_w2": 90246,
+    "ppmi": 3.832965709933042
+  },
+  {
+    "w1": "בירה",
+    "w2": "מוזמביק",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 3583,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מפוטו",
+    "w2": "מוזמביק",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 94,
+    "unigram_w1": 211,
+    "unigram_w2": 3583,
+    "ppmi": 10.582745982732384
+  }
+]

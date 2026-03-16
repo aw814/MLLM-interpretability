@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Comté de Galway",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 75,
+    "unigram_w1": 8392,
+    "unigram_w2": 7952962,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "Galway",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2209,
+    "unigram_w1": 7952962,
+    "unigram_w2": 86275,
+    "ppmi": 0.7383772077491538
+  },
+  {
+    "w1": "Comté de Galway",
+    "w2": "Galway",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8392,
+    "unigram_w1": 8392,
+    "unigram_w2": 86275,
+    "ppmi": 12.552260351328334
+  }
+]

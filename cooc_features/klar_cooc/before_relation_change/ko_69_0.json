@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "교황 그레고리오 16세",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 18,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 99776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "교황 그레고리오 16세",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 18,
+    "unigram_w2": 99776,
+    "ppmi": 6.578416611946808
+  }
+]

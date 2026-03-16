@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Norbert Wiener",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1320,
+    "unigram_w1": 2001,
+    "unigram_w2": 74824954,
+    "ppmi": 1.6856035252668473
+  },
+  {
+    "w1": "work",
+    "w2": "mathematics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 580538,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1229912,
+    "ppmi": 1.2026940773589394
+  },
+  {
+    "w1": "Norbert Wiener",
+    "w2": "mathematics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 621,
+    "unigram_w1": 2001,
+    "unigram_w2": 1229912,
+    "ppmi": 6.524623256263696
+  }
+]

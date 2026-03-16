@@ -1,0 +1,32 @@
+[
+  {
+    "w1": ".NET",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2046,
+    "unigram_w1": 27795,
+    "unigram_w2": 7399,
+    "ppmi": 6.939146732641925
+  },
+  {
+    "w1": "developer",
+    "w2": "מיקרוסופט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 665,
+    "unigram_w1": 7399,
+    "unigram_w2": 55668,
+    "ppmi": 4.315743963349941
+  },
+  {
+    "w1": ".NET",
+    "w2": "מיקרוסופט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2093,
+    "unigram_w1": 27795,
+    "unigram_w2": 55668,
+    "ppmi": 4.060466851021601
+  }
+]

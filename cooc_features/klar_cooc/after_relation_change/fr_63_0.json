@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mohammad Zaher Shah",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 289,
+    "unigram_w2": 19663145,
+    "ppmi": 2.8669269573155196
+  },
+  {
+    "w1": "mort",
+    "w2": "Kaboul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 198213,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Mohammad Zaher Shah",
+    "w2": "Kaboul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 190,
+    "unigram_w1": 289,
+    "unigram_w2": 198213,
+    "ppmi": 10.747153164691767
+  }
+]

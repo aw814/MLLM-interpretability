@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pendjab",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3352,
+    "unigram_w1": 33970,
+    "unigram_w2": 12749290,
+    "ppmi": 2.003834564724727
+  },
+  {
+    "w1": "langue",
+    "w2": "pendjabi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 8191,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pendjab",
+    "w2": "pendjabi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 786,
+    "unigram_w1": 33970,
+    "unigram_w2": 8191,
+    "ppmi": 10.51550332501489
+  }
+]

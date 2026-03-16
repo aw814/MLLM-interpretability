@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Siracusa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26604,
+    "unigram_w1": 154954,
+    "unigram_w2": 42058182,
+    "ppmi": 1.7642013206080376
+  },
+  {
+    "w1": "capital",
+    "w2": "Siracusa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26604,
+    "unigram_w1": 42058182,
+    "unigram_w2": 154954,
+    "ppmi": 1.7642013206080376
+  },
+  {
+    "w1": "Siracusa",
+    "w2": "Siracusa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 154954,
+    "unigram_w1": 154954,
+    "unigram_w2": 154954,
+    "ppmi": 12.390728918952009
+  }
+]

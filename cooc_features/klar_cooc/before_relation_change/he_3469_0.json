@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "יורקשייר",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 2611,
+    "unigram_w2": 2719,
+    "ppmi": 2.3819239703562225
+  },
+  {
+    "w1": "continent",
+    "w2": "אירופה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 896,
+    "unigram_w1": 2719,
+    "unigram_w2": 344826,
+    "ppmi": 3.5591941013339996
+  },
+  {
+    "w1": "יורקשייר",
+    "w2": "אירופה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 285,
+    "unigram_w1": 2611,
+    "unigram_w2": 344826,
+    "ppmi": 1.9651309820404177
+  }
+]

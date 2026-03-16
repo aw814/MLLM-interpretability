@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lusaka",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5640,
+    "unigram_w1": 31975,
+    "unigram_w2": 7450623,
+    "ppmi": 3.110695988551412
+  },
+  {
+    "w1": "capital",
+    "w2": "Zambia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23455,
+    "unigram_w1": 7450623,
+    "unigram_w2": 206827,
+    "ppmi": 2.47341615290645
+  },
+  {
+    "w1": "Lusaka",
+    "w2": "Zambia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23624,
+    "unigram_w1": 31975,
+    "unigram_w2": 206827,
+    "ppmi": 10.348046809018049
+  }
+]

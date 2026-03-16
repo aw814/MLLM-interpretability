@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이드 울피트르",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 12,
+    "unigram_w2": 15811,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "religion",
+    "w2": "이슬람교",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 185,
+    "unigram_w1": 15811,
+    "unigram_w2": 7842,
+    "ppmi": 4.541049745031125
+  },
+  {
+    "w1": "이드 울피트르",
+    "w2": "이슬람교",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 12,
+    "unigram_w2": 7842,
+    "ppmi": 9.695274875099225
+  }
+]

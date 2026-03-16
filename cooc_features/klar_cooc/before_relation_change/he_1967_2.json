@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אוגוסטן ז'אן פרנל",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 20,
+    "unigram_w2": 1821,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "פיזיקאי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 1821,
+    "unigram_w2": 6019,
+    "ppmi": 2.170385339594501
+  },
+  {
+    "w1": "אוגוסטן ז'אן פרנל",
+    "w2": "פיזיקאי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 20,
+    "unigram_w2": 6019,
+    "ppmi": 9.486327373741581
+  }
+]

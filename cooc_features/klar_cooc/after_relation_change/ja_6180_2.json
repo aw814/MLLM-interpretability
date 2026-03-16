@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "タスマニア州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2062,
+    "unigram_w1": 11012,
+    "unigram_w2": 2444276,
+    "ppmi": 3.742168196987827
+  },
+  {
+    "w1": "首都",
+    "w2": "ホバート",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 15776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "タスマニア州",
+    "w2": "ホバート",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3168,
+    "unigram_w1": 11012,
+    "unigram_w2": 15776,
+    "ppmi": 11.6372281316114
+  }
+]

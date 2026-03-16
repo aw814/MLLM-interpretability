@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Second Empire",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28442,
+    "unigram_w1": 193453,
+    "unigram_w2": 9137640,
+    "ppmi": 3.0596368451955986
+  },
+  {
+    "w1": "capitale",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 53474489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Second Empire",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115625,
+    "unigram_w1": 193453,
+    "unigram_w2": 53474489,
+    "ppmi": 2.5340381080799976
+  }
+]

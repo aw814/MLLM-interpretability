@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "두카티",
+    "w2": "소유",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 872,
+    "unigram_w2": 66918,
+    "ppmi": 0.9043790974554915
+  },
+  {
+    "w1": "소유",
+    "w2": "아우디",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 66918,
+    "unigram_w2": 24499,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "두카티",
+    "w2": "아우디",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67,
+    "unigram_w1": 872,
+    "unigram_w2": 24499,
+    "ppmi": 5.61278483106681
+  }
+]

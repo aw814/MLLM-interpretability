@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bosnia and Herzegovina",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7566,
+    "unigram_w1": 64449,
+    "unigram_w2": 9241408,
+    "ppmi": 2.212566378281222
+  },
+  {
+    "w1": "language",
+    "w2": "Croatian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22130,
+    "unigram_w1": 9241408,
+    "unigram_w2": 158001,
+    "ppmi": 2.467263337373899
+  },
+  {
+    "w1": "Bosnia and Herzegovina",
+    "w2": "Croatian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6461,
+    "unigram_w1": 64449,
+    "unigram_w2": 158001,
+    "ppmi": 7.854900156605536
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oliver Twist",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1717,
+    "unigram_w1": 14796,
+    "unigram_w2": 9241408,
+    "ppmi": 2.1958764093552303
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "Oliver Twist",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3501,
+    "unigram_w1": 14796,
+    "unigram_w2": 9553181,
+    "ppmi": 3.1758849069293924
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "努尔-苏丹",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1877,
+    "unigram_w1": 3729,
+    "unigram_w2": 596594,
+    "ppmi": 5.620837477742733
+  },
+  {
+    "w1": "首都",
+    "w2": "哈萨克斯坦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 75929,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "努尔-苏丹",
+    "w2": "哈萨克斯坦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3097,
+    "unigram_w1": 3729,
+    "unigram_w2": 75929,
+    "ppmi": 9.317306766190171
+  }
+]

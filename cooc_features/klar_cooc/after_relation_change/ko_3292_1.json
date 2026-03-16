@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "혼다 어코드",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 1605,
+    "unigram_w2": 23994,
+    "ppmi": 3.156003177545954
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "혼다 기연 공업",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 23994,
+    "unigram_w2": 9,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "혼다 어코드",
+    "w2": "혼다 기연 공업",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 1605,
+    "unigram_w2": 9,
+    "ppmi": 10.07703262399763
+  }
+]

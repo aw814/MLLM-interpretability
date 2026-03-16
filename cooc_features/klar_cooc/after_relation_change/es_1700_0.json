@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iCarly",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 106664,
+    "unigram_w1": 543726,
+    "unigram_w2": 12196104,
+    "ppmi": 3.7424858883443606
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "iCarly",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 146054,
+    "unigram_w1": 543726,
+    "unigram_w2": 30884572,
+    "ppmi": 2.855448441703874
+  }
+]

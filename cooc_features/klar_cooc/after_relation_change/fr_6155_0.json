@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alexandrie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28832,
+    "unigram_w1": 206644,
+    "unigram_w2": 9137640,
+    "ppmi": 2.984120471444346
+  },
+  {
+    "w1": "capitale",
+    "w2": "Alexandrie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 206644,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alexandrie",
+    "w2": "Alexandrie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 206644,
+    "unigram_w1": 206644,
+    "unigram_w2": 206644,
+    "ppmi": 11.292127350070228
+  }
+]

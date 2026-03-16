@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bruselas",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 658974,
+    "unigram_w1": 3554534,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8749592516123355
+  },
+  {
+    "w1": "capital",
+    "w2": "Flandes",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 75510,
+    "unigram_w1": 42058182,
+    "unigram_w2": 408136,
+    "ppmi": 1.872015888674274
+  },
+  {
+    "w1": "Bruselas",
+    "w2": "Flandes",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 57060,
+    "unigram_w1": 3554534,
+    "unigram_w2": 408136,
+    "ppmi": 5.03248206830091
+  }
+]

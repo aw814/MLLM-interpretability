@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "欧洲足球协会联盟",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 190,
+    "unigram_w2": 919361,
+    "ppmi": 0.41746001756503587
+  },
+  {
+    "w1": "语言",
+    "w2": "法语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 75685,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "欧洲足球协会联盟",
+    "w2": "法语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 190,
+    "unigram_w2": 75685,
+    "ppmi": 2.0200121786684893
+  }
+]

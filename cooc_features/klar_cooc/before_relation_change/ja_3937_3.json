@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハートフォード",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 18920,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "コネチカット州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 41032,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハートフォード",
+    "w2": "コネチカット州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4510,
+    "unigram_w1": 18920,
+    "unigram_w2": 41032,
+    "ppmi": 9.98692963644393
+  }
+]

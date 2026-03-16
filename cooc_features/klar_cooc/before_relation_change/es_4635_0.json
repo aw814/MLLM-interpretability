@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Beda",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 682,
+    "unigram_w1": 58296,
+    "unigram_w2": 979024,
+    "ppmi": 3.3137433431244085
+  },
+  {
+    "w1": "religion",
+    "w2": "cristianismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91096,
+    "unigram_w1": 979024,
+    "unigram_w2": 1891270,
+    "ppmi": 5.355400867877766
+  },
+  {
+    "w1": "Beda",
+    "w2": "cristianismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4328,
+    "unigram_w1": 58296,
+    "unigram_w2": 1891270,
+    "ppmi": 5.029660990946218
+  }
+]

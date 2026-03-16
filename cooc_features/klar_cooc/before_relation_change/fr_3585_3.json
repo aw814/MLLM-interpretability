@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suisse",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 228842,
+    "unigram_w1": 12492366,
+    "unigram_w2": 3399010,
+    "ppmi": 1.4816810492779435
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Suisse",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1727179,
+    "unigram_w1": 12492366,
+    "unigram_w2": 18211758,
+    "ppmi": 1.975991211023777
+  }
+]

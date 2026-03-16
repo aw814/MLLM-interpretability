@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ilya Prigogine",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8090,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "física",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 19893814,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ilya Prigogine",
+    "w2": "física",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3924,
+    "unigram_w1": 8090,
+    "unigram_w2": 19893814,
+    "ppmi": 4.3425781722415335
+  }
+]

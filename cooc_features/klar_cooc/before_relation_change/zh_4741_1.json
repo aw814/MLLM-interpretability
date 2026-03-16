@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "蒙古人民共和国",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 561,
+    "unigram_w2": 2023,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "religion",
+    "w2": "佛教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 215,
+    "unigram_w1": 2023,
+    "unigram_w2": 275238,
+    "ppmi": 4.493179672515776
+  },
+  {
+    "w1": "蒙古人民共和国",
+    "w2": "佛教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 561,
+    "unigram_w2": 275238,
+    "ppmi": 3.6828733081261453
+  }
+]

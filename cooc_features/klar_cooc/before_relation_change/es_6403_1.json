@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dinastía Kayar",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 316,
+    "unigram_w1": 650,
+    "unigram_w2": 42058182,
+    "ppmi": 3.2658110770146895
+  },
+  {
+    "w1": "capital",
+    "w2": "Teherán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 127602,
+    "unigram_w1": 42058182,
+    "unigram_w2": 595740,
+    "ppmi": 2.083294348692146
+  },
+  {
+    "w1": "Dinastía Kayar",
+    "w2": "Teherán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 356,
+    "unigram_w1": 650,
+    "unigram_w2": 595740,
+    "ppmi": 9.579323609537846
+  }
+]

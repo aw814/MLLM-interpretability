@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "New Hampshire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5964,
+    "unigram_w1": 129815,
+    "unigram_w2": 7952962,
+    "ppmi": 1.5818214254395855
+  },
+  {
+    "w1": "capital",
+    "w2": "Concord",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3258,
+    "unigram_w1": 7952962,
+    "unigram_w2": 123362,
+    "ppmi": 0.7830868065194257
+  },
+  {
+    "w1": "New Hampshire",
+    "w2": "Concord",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3878,
+    "unigram_w1": 129815,
+    "unigram_w2": 123362,
+    "ppmi": 6.971376283587179
+  }
+]

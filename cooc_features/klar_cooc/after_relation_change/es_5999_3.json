@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "bandera de la Argentina",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 1414,
+    "unigram_w2": 3205324,
+    "ppmi": 3.255043940230635
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Argentina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 42122122,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "bandera de la Argentina",
+    "w2": "Argentina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1414,
+    "unigram_w1": 1414,
+    "unigram_w2": 42122122,
+    "ppmi": 4.304134609157136
+  }
+]

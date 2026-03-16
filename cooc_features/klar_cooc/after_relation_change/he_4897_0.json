@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'ון דלטון",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 118,
+    "unigram_w2": 236631,
+    "ppmi": 0.40624853762228474
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ג'ון דלטון",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 118,
+    "unigram_w2": 231817,
+    "ppmi": 2.020863757216772
+  }
+]

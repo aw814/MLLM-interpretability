@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Corée du Sud",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 79285,
+    "unigram_w1": 1225404,
+    "unigram_w2": 9137640,
+    "ppmi": 1.8754594165823513
+  },
+  {
+    "w1": "capitale",
+    "w2": "Séoul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 443119,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Corée du Sud",
+    "w2": "Séoul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 162136,
+    "unigram_w1": 1225404,
+    "unigram_w2": 443119,
+    "ppmi": 7.2735995330488805
+  }
+]

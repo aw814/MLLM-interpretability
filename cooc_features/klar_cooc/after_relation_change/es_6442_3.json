@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Comuna de París",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20578,
+    "unigram_w1": 45996,
+    "unigram_w2": 42058182,
+    "ppmi": 3.145920604600307
+  },
+  {
+    "w1": "capital",
+    "w2": "París",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1847410,
+    "unigram_w1": 42058182,
+    "unigram_w2": 10491248,
+    "ppmi": 1.8007159186068031
+  },
+  {
+    "w1": "Comuna de París",
+    "w2": "París",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45996,
+    "unigram_w1": 45996,
+    "unigram_w2": 10491248,
+    "ppmi": 6.3095264206928325
+  }
+]

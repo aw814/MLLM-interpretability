@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Constantine the Great",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1545,
+    "unigram_w1": 6154,
+    "unigram_w2": 2269436,
+    "ppmi": 5.334982935434559
+  },
+  {
+    "w1": "religion",
+    "w2": "Christianity",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 274874,
+    "unigram_w1": 2269436,
+    "unigram_w2": 778220,
+    "ppmi": 5.827492933918691
+  },
+  {
+    "w1": "Constantine the Great",
+    "w2": "Christianity",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2234,
+    "unigram_w1": 6154,
+    "unigram_w2": 778220,
+    "ppmi": 7.411089124073044
+  }
+]

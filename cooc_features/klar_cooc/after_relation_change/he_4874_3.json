@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רוברט אופנהיימר",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 318,
+    "unigram_w2": 236631,
+    "ppmi": 1.7833635537573747
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "רוברט אופנהיימר",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 318,
+    "unigram_w2": 231817,
+    "ppmi": 2.778250854470029
+  }
+]

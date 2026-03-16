@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "윈도 2000",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 121,
+    "unigram_w2": 17565,
+    "ppmi": 3.8760360140652796
+  },
+  {
+    "w1": "developer",
+    "w2": "마이크로소프트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 579,
+    "unigram_w1": 17565,
+    "unigram_w2": 49118,
+    "ppmi": 3.388354591922241
+  },
+  {
+    "w1": "윈도 2000",
+    "w2": "마이크로소프트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46,
+    "unigram_w1": 121,
+    "unigram_w2": 49118,
+    "ppmi": 6.916049728825157
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ロンドン証券取引所",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4066,
+    "unigram_w1": 10868,
+    "unigram_w2": 27600878,
+    "ppmi": 1.243489067213812
+  },
+  {
+    "w1": "場所",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 1900368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ロンドン証券取引所",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10868,
+    "unigram_w1": 10868,
+    "unigram_w2": 1900368,
+    "ppmi": 6.52225685443167
+  }
+]

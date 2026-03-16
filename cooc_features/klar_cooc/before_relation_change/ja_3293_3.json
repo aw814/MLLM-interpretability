@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iPhone",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15268,
+    "unigram_w1": 5573878,
+    "unigram_w2": 212080,
+    "ppmi": 1.1738286692941673
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "アップル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1236,
+    "unigram_w1": 212080,
+    "unigram_w2": 1680756,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "iPhone",
+    "w2": "アップル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 996856,
+    "unigram_w1": 5573878,
+    "unigram_w2": 1680756,
+    "ppmi": 4.216200969571001
+  }
+]

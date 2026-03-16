@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "南奥塞梯",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 699,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "格鲁吉亚语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 703,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "南奥塞梯",
+    "w2": "格鲁吉亚语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 699,
+    "unigram_w2": 703,
+    "ppmi": 9.891058043105472
+  }
+]

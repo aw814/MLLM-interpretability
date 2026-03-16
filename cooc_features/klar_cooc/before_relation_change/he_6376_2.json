@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "תאילנד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 171,
+    "unigram_w1": 39754,
+    "unigram_w2": 14610,
+    "ppmi": 1.8605801956658083
+  },
+  {
+    "w1": "capital",
+    "w2": "בנגקוק",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 508,
+    "unigram_w1": 14610,
+    "unigram_w2": 14223,
+    "ppmi": 4.914286598606422
+  },
+  {
+    "w1": "תאילנד",
+    "w2": "בנגקוק",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7560,
+    "unigram_w1": 39754,
+    "unigram_w2": 14223,
+    "ppmi": 7.365628579131655
+  }
+]

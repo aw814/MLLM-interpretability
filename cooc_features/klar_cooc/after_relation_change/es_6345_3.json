@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Baja Sajonia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8730,
+    "unigram_w1": 66648,
+    "unigram_w2": 42058182,
+    "ppmi": 1.3738182127302037
+  },
+  {
+    "w1": "capital",
+    "w2": "Hannover",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 38990,
+    "unigram_w1": 42058182,
+    "unigram_w2": 316102,
+    "ppmi": 1.2871121332954212
+  },
+  {
+    "w1": "Baja Sajonia",
+    "w2": "Hannover",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11874,
+    "unigram_w1": 66648,
+    "unigram_w2": 316102,
+    "ppmi": 8.873423188171524
+  }
+]

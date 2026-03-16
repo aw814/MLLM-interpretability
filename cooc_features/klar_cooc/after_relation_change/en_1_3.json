@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "David Coulthard",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 276,
+    "unigram_w1": 3856,
+    "unigram_w2": 9106140,
+    "ppmi": 1.5200298252927018
+  },
+  {
+    "w1": "born",
+    "w2": "Scotland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 175637,
+    "unigram_w1": 9106140,
+    "unigram_w2": 1669449,
+    "ppmi": 2.0756913862461164
+  },
+  {
+    "w1": "David Coulthard",
+    "w2": "Scotland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 3856,
+    "unigram_w2": 1669449,
+    "ppmi": 3.06842635283254
+  }
+]

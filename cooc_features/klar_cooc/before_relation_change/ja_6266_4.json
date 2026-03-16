@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アケメネス朝",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74,
+    "unigram_w1": 6660,
+    "unigram_w2": 498928,
+    "ppmi": 1.959779035610276
+  },
+  {
+    "w1": "capital",
+    "w2": "バビロン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 302,
+    "unigram_w1": 498928,
+    "unigram_w2": 95444,
+    "ppmi": 0.14766998494357794
+  },
+  {
+    "w1": "アケメネス朝",
+    "w2": "バビロン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1476,
+    "unigram_w1": 6660,
+    "unigram_w2": 95444,
+    "ppmi": 8.663907900285583
+  }
+]

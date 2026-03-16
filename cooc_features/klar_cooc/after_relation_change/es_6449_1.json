@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Raj británico",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1968,
+    "unigram_w1": 6712,
+    "unigram_w2": 42058182,
+    "ppmi": 2.5363137416528203
+  },
+  {
+    "w1": "capital",
+    "w2": "Calcuta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 55710,
+    "unigram_w1": 42058182,
+    "unigram_w2": 391238,
+    "ppmi": 1.4942879552874513
+  },
+  {
+    "w1": "Raj británico",
+    "w2": "Calcuta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 788,
+    "unigram_w1": 6712,
+    "unigram_w2": 391238,
+    "ppmi": 7.964047232692499
+  }
+]

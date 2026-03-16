@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michael Jackson",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43325,
+    "unigram_w1": 143536,
+    "unigram_w2": 74824954,
+    "ppmi": 0.5576457954520244
+  },
+  {
+    "w1": "work",
+    "w2": "musician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 491509,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1212749,
+    "ppmi": 0.9827955120475669
+  },
+  {
+    "w1": "Michael Jackson",
+    "w2": "musician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8907,
+    "unigram_w1": 143536,
+    "unigram_w2": 1212749,
+    "ppmi": 4.222624136987023
+  }
+]

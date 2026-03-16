@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "安达卢西亚",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 193,
+    "unigram_w1": 2259,
+    "unigram_w2": 596594,
+    "ppmi": 3.062186106560496
+  },
+  {
+    "w1": "首都",
+    "w2": "塞维利亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 39786,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "安达卢西亚",
+    "w2": "塞维利亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 703,
+    "unigram_w1": 2259,
+    "unigram_w2": 39786,
+    "ppmi": 8.8335266508585
+  }
+]

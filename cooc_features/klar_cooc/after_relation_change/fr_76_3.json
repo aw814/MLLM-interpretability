@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jacques-Yves Cousteau",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2701,
+    "unigram_w1": 17260,
+    "unigram_w2": 19663145,
+    "ppmi": 2.0440576253714853
+  },
+  {
+    "w1": "mort",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 53474489,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jacques-Yves Cousteau",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4676,
+    "unigram_w1": 17260,
+    "unigram_w2": 53474489,
+    "ppmi": 1.3924822146701874
+  }
+]

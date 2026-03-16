@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Corea del Sur",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1020,
+    "unigram_w1": 2385834,
+    "unigram_w2": 91062,
+    "ppmi": 1.965939065339324
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Corea del Sur",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 376284,
+    "unigram_w1": 2385834,
+    "unigram_w2": 9286646,
+    "ppmi": 3.820883363099525
+  }
+]

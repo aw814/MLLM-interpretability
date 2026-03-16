@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קלאודיוס גלנוס",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 68,
+    "unigram_w2": 1639120,
+    "ppmi": 1.4681119491433363
+  },
+  {
+    "w1": "עבודה",
+    "w2": "רפואה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 246348,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קלאודיוס גלנוס",
+    "w2": "רפואה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 68,
+    "unigram_w2": 246348,
+    "ppmi": 4.143370073967879
+  }
+]

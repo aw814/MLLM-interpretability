@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "pays de Galles",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31993,
+    "unigram_w1": 405704,
+    "unigram_w2": 12749290,
+    "ppmi": 1.6804023882255363
+  },
+  {
+    "w1": "langue",
+    "w2": "gallois",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 339627,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "pays de Galles",
+    "w2": "gallois",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59827,
+    "unigram_w1": 405704,
+    "unigram_w2": 339627,
+    "ppmi": 7.813764768716132
+  }
+]

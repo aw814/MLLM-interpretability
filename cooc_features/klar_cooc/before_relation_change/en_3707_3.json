@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wii U",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7338,
+    "unigram_w1": 82822,
+    "unigram_w2": 2684467,
+    "ppmi": 3.590043442696284
+  },
+  {
+    "w1": "developer",
+    "w2": "Nintendo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34679,
+    "unigram_w1": 2684467,
+    "unigram_w2": 472670,
+    "ppmi": 3.317899576583131
+  },
+  {
+    "w1": "Wii U",
+    "w2": "Nintendo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51559,
+    "unigram_w1": 82822,
+    "unigram_w2": 472670,
+    "ppmi": 8.908539379593602
+  }
+]

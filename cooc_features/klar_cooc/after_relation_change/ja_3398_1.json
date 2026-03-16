@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "チェコ語版ウィキペディア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 10,
+    "unigram_w2": 3715876,
+    "ppmi": 5.232905218976259
+  },
+  {
+    "w1": "言語",
+    "w2": "チェコ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 49838,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "チェコ語版ウィキペディア",
+    "w2": "チェコ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 10,
+    "unigram_w2": 49838,
+    "ppmi": 11.775145688814932
+  }
+]

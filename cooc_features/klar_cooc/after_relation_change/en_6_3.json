@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alfred Adler",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 494,
+    "unigram_w1": 2232,
+    "unigram_w2": 9106140,
+    "ppmi": 3.1486406244999845
+  },
+  {
+    "w1": "born",
+    "w2": "Vienna",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 85502,
+    "unigram_w1": 9106140,
+    "unigram_w2": 591318,
+    "ppmi": 2.5344905826220194
+  },
+  {
+    "w1": "Alfred Adler",
+    "w2": "Vienna",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 247,
+    "unigram_w1": 2232,
+    "unigram_w2": 591318,
+    "ppmi": 6.093474165166279
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "라오스",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 71,
+    "unigram_w1": 24891,
+    "unigram_w2": 2712,
+    "ppmi": 4.036584292275773
+  },
+  {
+    "w1": "continent",
+    "w2": "아시아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 2712,
+    "unigram_w2": 363737,
+    "ppmi": 1.4933710139784397
+  },
+  {
+    "w1": "라오스",
+    "w2": "아시아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4812,
+    "unigram_w1": 24891,
+    "unigram_w2": 363737,
+    "ppmi": 3.0518634017822897
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "지미 헨드릭스",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 550,
+    "unigram_w2": 10794,
+    "ppmi": 3.3940854270649474
+  },
+  {
+    "w1": "instrument",
+    "w2": "기타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1031,
+    "unigram_w1": 10794,
+    "unigram_w2": 782771,
+    "ppmi": 0.9289710702350457
+  },
+  {
+    "w1": "지미 헨드릭스",
+    "w2": "기타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 263,
+    "unigram_w1": 550,
+    "unigram_w2": 782771,
+    "ppmi": 3.252715605719856
+  }
+]

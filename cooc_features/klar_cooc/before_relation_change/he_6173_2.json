@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דנמרק",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 130,
+    "unigram_w1": 30952,
+    "unigram_w2": 14610,
+    "ppmi": 1.8261628898670454
+  },
+  {
+    "w1": "capital",
+    "w2": "קופנהגן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 377,
+    "unigram_w1": 14610,
+    "unigram_w2": 8972,
+    "ppmi": 5.148746898464199
+  },
+  {
+    "w1": "דנמרק",
+    "w2": "קופנהגן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3130,
+    "unigram_w1": 30952,
+    "unigram_w2": 8972,
+    "ppmi": 7.11919667126316
+  }
+]

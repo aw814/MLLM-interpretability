@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vassili III",
+    "w2": "né",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 168,
+    "unigram_w1": 740,
+    "unigram_w2": 9980164,
+    "ppmi": 3.559219169495204
+  },
+  {
+    "w1": "né",
+    "w2": "Moscou",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9980164,
+    "unigram_w2": 1982449,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vassili III",
+    "w2": "Moscou",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 651,
+    "unigram_w1": 740,
+    "unigram_w2": 1982449,
+    "ppmi": 7.845195250878224
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Steve Biko",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1268,
+    "unigram_w1": 3154,
+    "unigram_w2": 74824954,
+    "ppmi": 0.9711588482756698
+  },
+  {
+    "w1": "work",
+    "w2": "apartheid",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 67920,
+    "unigram_w1": 74824954,
+    "unigram_w2": 165347,
+    "ppmi": 1.0021982569343615
+  },
+  {
+    "w1": "Steve Biko",
+    "w2": "apartheid",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1364,
+    "unigram_w1": 3154,
+    "unigram_w2": 165347,
+    "ppmi": 9.89832655373982
+  }
+]

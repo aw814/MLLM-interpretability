@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルアンダ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2102,
+    "unigram_w1": 4920,
+    "unigram_w2": 2444276,
+    "ppmi": 4.932232827950855
+  },
+  {
+    "w1": "首都",
+    "w2": "アンゴラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 114860,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ルアンダ",
+    "w2": "アンゴラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2196,
+    "unigram_w1": 4920,
+    "unigram_w2": 114860,
+    "ppmi": 9.406807040010467
+  }
+]

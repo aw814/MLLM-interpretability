@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mallorca",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2175144,
+    "unigram_w1": 8479536,
+    "unigram_w2": 42058182,
+    "ppmi": 2.343451828202929
+  },
+  {
+    "w1": "capital",
+    "w2": "Palma de Mallorca",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 386268,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1804100,
+    "ppmi": 2.082720997321002
+  },
+  {
+    "w1": "Mallorca",
+    "w2": "Palma de Mallorca",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1804100,
+    "unigram_w1": 8479536,
+    "unigram_w2": 1804100,
+    "ppmi": 6.616655498650276
+  }
+]

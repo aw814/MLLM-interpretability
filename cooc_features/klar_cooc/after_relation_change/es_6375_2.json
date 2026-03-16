@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califato Omeya",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5486,
+    "unigram_w1": 11536,
+    "unigram_w2": 42058182,
+    "ppmi": 3.2340096943608585
+  },
+  {
+    "w1": "capital",
+    "w2": "Damasco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 157002,
+    "unigram_w1": 42058182,
+    "unigram_w2": 725006,
+    "ppmi": 2.09911623941069
+  },
+  {
+    "w1": "califato Omeya",
+    "w2": "Damasco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2960,
+    "unigram_w1": 11536,
+    "unigram_w2": 725006,
+    "ppmi": 8.202101992901182
+  }
+]

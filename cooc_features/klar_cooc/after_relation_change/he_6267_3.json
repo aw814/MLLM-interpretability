@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פרו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1672,
+    "unigram_w1": 84885,
+    "unigram_w2": 90246,
+    "ppmi": 1.4287703943925265
+  },
+  {
+    "w1": "בירה",
+    "w2": "לימה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 6959,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פרו",
+    "w2": "לימה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1908,
+    "unigram_w1": 84885,
+    "unigram_w2": 6959,
+    "ppmi": 5.3161677942135475
+  }
+]

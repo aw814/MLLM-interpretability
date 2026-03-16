@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "인도네시아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 791,
+    "unigram_w1": 104969,
+    "unigram_w2": 36855,
+    "ppmi": 1.6736725530484073
+  },
+  {
+    "w1": "capital",
+    "w2": "자카르타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 455,
+    "unigram_w1": 36855,
+    "unigram_w2": 21351,
+    "ppmi": 3.173449183214022
+  },
+  {
+    "w1": "인도네시아",
+    "w2": "자카르타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9321,
+    "unigram_w1": 104969,
+    "unigram_w2": 21351,
+    "ppmi": 6.019964412038335
+  }
+]

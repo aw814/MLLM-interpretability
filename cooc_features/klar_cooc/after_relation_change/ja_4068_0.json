@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フランシス・プーランク",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 1618,
+    "unigram_w2": 4020810,
+    "ppmi": 0.6390346114723503
+  },
+  {
+    "w1": "話した",
+    "w2": "フランス語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 915136,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フランシス・プーランク",
+    "w2": "フランス語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 262,
+    "unigram_w1": 1618,
+    "unigram_w2": 915136,
+    "ppmi": 4.949904716352427
+  }
+]

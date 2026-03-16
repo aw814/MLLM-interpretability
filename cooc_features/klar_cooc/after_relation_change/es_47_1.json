@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chiang Ching-kuo",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 114,
+    "unigram_w1": 824,
+    "unigram_w2": 8520304,
+    "ppmi": 3.756125402367637
+  },
+  {
+    "w1": "murió",
+    "w2": "Taipéi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 87670,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Chiang Ching-kuo",
+    "w2": "Taipéi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 186,
+    "unigram_w1": 824,
+    "unigram_w2": 87670,
+    "ppmi": 11.06507204709552
+  }
+]

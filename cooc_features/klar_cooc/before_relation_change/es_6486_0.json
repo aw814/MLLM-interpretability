@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Voivodato de Mazovia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 298,
+    "unigram_w1": 2672,
+    "unigram_w2": 42058182,
+    "ppmi": 1.141790464741513
+  },
+  {
+    "w1": "capital",
+    "w2": "Varsovia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 139660,
+    "unigram_w1": 42058182,
+    "unigram_w2": 667028,
+    "ppmi": 2.0504977915392217
+  },
+  {
+    "w1": "Voivodato de Mazovia",
+    "w2": "Varsovia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1128,
+    "unigram_w1": 2672,
+    "unigram_w2": 667028,
+    "ppmi": 9.040668653124795
+  }
+]

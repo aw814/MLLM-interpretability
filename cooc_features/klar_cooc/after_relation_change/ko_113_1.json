@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에드워드 히스",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 48,
+    "unigram_w2": 37935,
+    "ppmi": 4.68407329017785
+  },
+  {
+    "w1": "죽었다",
+    "w2": "솔즈베리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 1500,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에드워드 히스",
+    "w2": "솔즈베리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 48,
+    "unigram_w2": 1500,
+    "ppmi": 9.344568422066365
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アフガニスタン民主共和国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 118,
+    "unigram_w1": 196,
+    "unigram_w2": 2444276,
+    "ppmi": 5.427061679461913
+  },
+  {
+    "w1": "首都",
+    "w2": "カーブル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 2672,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アフガニスタン民主共和国",
+    "w2": "カーブル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74,
+    "unigram_w1": 196,
+    "unigram_w2": 2672,
+    "ppmi": 14.591143471544951
+  }
+]

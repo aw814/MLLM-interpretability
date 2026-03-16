@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 305,
+    "unigram_w1": 67969,
+    "unigram_w2": 14610,
+    "ppmi": 1.9216162459917567
+  },
+  {
+    "w1": "capital",
+    "w2": "ניירובי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 14610,
+    "unigram_w2": 1634,
+    "ppmi": 2.9542384177446426
+  },
+  {
+    "w1": "קניה",
+    "w2": "ניירובי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 909,
+    "unigram_w1": 67969,
+    "unigram_w2": 1634,
+    "ppmi": 6.657563587280793
+  }
+]

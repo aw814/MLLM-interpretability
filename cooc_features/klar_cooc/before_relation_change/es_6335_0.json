@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lublin",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14790,
+    "unigram_w1": 83268,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8131861166613308
+  },
+  {
+    "w1": "capital",
+    "w2": "Lublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14790,
+    "unigram_w1": 42058182,
+    "unigram_w2": 83268,
+    "ppmi": 1.8131861166613308
+  },
+  {
+    "w1": "Lublin",
+    "w2": "Lublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 83268,
+    "unigram_w1": 83268,
+    "unigram_w2": 83268,
+    "ppmi": 13.286734838607336
+  }
+]

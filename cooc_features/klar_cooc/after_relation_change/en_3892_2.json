@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tirana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5725,
+    "unigram_w1": 24084,
+    "unigram_w2": 7450623,
+    "ppmi": 3.5411458557095132
+  },
+  {
+    "w1": "capital",
+    "w2": "Albania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18232,
+    "unigram_w1": 7450623,
+    "unigram_w2": 133441,
+    "ppmi": 2.742216009331844
+  },
+  {
+    "w1": "Tirana",
+    "w2": "Albania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15748,
+    "unigram_w1": 24084,
+    "unigram_w2": 133441,
+    "ppmi": 10.804054029159165
+  }
+]

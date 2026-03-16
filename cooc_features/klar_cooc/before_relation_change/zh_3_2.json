@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "肯尼·罗杰斯",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5061,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "休斯敦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 33939,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "肯尼·罗杰斯",
+    "w2": "休斯敦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 5061,
+    "unigram_w2": 33939,
+    "ppmi": 1.026686872681902
+  }
+]

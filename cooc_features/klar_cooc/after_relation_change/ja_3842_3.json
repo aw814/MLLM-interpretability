@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バンコク",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 57506,
+    "unigram_w1": 711308,
+    "unigram_w2": 2444276,
+    "ppmi": 2.5304384801633226
+  },
+  {
+    "w1": "首都",
+    "w2": "タイ王国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 41856,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "バンコク",
+    "w2": "タイ王国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14546,
+    "unigram_w1": 711308,
+    "unigram_w2": 41856,
+    "ppmi": 6.415177414073177
+  }
+]

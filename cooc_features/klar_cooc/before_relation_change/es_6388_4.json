@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Venecia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 434268,
+    "unigram_w1": 2369480,
+    "unigram_w2": 42058182,
+    "ppmi": 1.8584133066846635
+  },
+  {
+    "w1": "capital",
+    "w2": "Venecia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 434268,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2369480,
+    "ppmi": 1.8584133066846635
+  },
+  {
+    "w1": "Venecia",
+    "w2": "Venecia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2369480,
+    "unigram_w1": 2369480,
+    "unigram_w2": 2369480,
+    "ppmi": 8.45607033765327
+  }
+]

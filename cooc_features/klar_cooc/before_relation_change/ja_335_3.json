@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モルドバ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 37688,
+    "unigram_w2": 62,
+    "ppmi": 7.224090315450466
+  },
+  {
+    "w1": "official_language",
+    "w2": "ルーマニア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 23028,
+    "ppmi": 7.934806435201851
+  },
+  {
+    "w1": "モルドバ",
+    "w2": "ルーマニア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1642,
+    "unigram_w1": 37688,
+    "unigram_w2": 23028,
+    "ppmi": 8.36842354069861
+  }
+]

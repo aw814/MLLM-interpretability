@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת צרפת",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 400,
+    "unigram_w2": 14610,
+    "ppmi": 2.0776839005070826
+  },
+  {
+    "w1": "capital",
+    "w2": "פריז",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 318,
+    "unigram_w1": 14610,
+    "unigram_w2": 77658,
+    "ppmi": 1.7895761133832064
+  },
+  {
+    "w1": "ממלכת צרפת",
+    "w2": "פריז",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 145,
+    "unigram_w1": 400,
+    "unigram_w2": 77658,
+    "ppmi": 5.847414616029922
+  }
+]

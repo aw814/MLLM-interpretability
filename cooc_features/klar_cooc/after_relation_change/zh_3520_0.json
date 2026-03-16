@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "卢瓦尔河",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 1645,
+    "unigram_w2": 1361,
+    "ppmi": 6.2882268481480015
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "卢瓦尔河",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 584,
+    "unigram_w1": 1645,
+    "unigram_w2": 1834429,
+    "ppmi": 3.4966406210929977
+  }
+]

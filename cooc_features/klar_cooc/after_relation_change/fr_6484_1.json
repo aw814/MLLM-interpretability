@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Majorque",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30791,
+    "unigram_w1": 325905,
+    "unigram_w2": 9137640,
+    "ppmi": 2.4216542668738805
+  },
+  {
+    "w1": "capitale",
+    "w2": "Palma de Majorque",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 98219,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Majorque",
+    "w2": "Palma de Majorque",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 98219,
+    "unigram_w1": 325905,
+    "unigram_w2": 98219,
+    "ppmi": 10.634823339180945
+  }
+]

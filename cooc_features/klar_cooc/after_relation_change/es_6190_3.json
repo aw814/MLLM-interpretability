@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio latino",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2140,
+    "unigram_w1": 4556,
+    "unigram_w2": 42058182,
+    "ppmi": 3.216169286333801
+  },
+  {
+    "w1": "capital",
+    "w2": "Constantinopla",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 79196,
+    "unigram_w1": 42058182,
+    "unigram_w2": 282644,
+    "ppmi": 2.470839635326215
+  },
+  {
+    "w1": "Imperio latino",
+    "w2": "Constantinopla",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3002,
+    "unigram_w1": 4556,
+    "unigram_w2": 282644,
+    "ppmi": 10.921739074542842
+  }
+]

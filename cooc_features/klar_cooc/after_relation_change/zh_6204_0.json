@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "金县",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1056,
+    "unigram_w1": 80717,
+    "unigram_w2": 596594,
+    "ppmi": 0.35500680954419345
+  },
+  {
+    "w1": "首都",
+    "w2": "西雅图",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 40919,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "金县",
+    "w2": "西雅图",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 99,
+    "unigram_w1": 80717,
+    "unigram_w2": 40919,
+    "ppmi": 0.8058759854084574
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lombardía",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36146,
+    "unigram_w1": 227108,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6548556192645085
+  },
+  {
+    "w1": "capital",
+    "w2": "Milán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 418132,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2637848,
+    "ppmi": 1.6489951652006698
+  },
+  {
+    "w1": "Lombardía",
+    "w2": "Milán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67684,
+    "unigram_w1": 227108,
+    "unigram_w2": 2637848,
+    "ppmi": 6.554787596478106
+  }
+]

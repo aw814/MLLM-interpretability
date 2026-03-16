@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Érythrée",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5255,
+    "unigram_w1": 138323,
+    "unigram_w2": 3399010,
+    "ppmi": 2.534025634152922
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Érythrée",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 102784,
+    "unigram_w1": 138323,
+    "unigram_w2": 8624942,
+    "ppmi": 5.480406614019004
+  }
+]

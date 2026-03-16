@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "마푸투",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 97,
+    "unigram_w2": 1351571,
+    "ppmi": 2.1386498608249314
+  },
+  {
+    "w1": "수도",
+    "w2": "모잠비크",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 9012,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "마푸투",
+    "w2": "모잠비크",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 97,
+    "unigram_w2": 9012,
+    "ppmi": 10.202164886385505
+  }
+]

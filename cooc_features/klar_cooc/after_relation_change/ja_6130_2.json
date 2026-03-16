@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "世界貿易機関",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8230,
+    "unigram_w1": 31324,
+    "unigram_w2": 27600878,
+    "ppmi": 0.73358930024621
+  },
+  {
+    "w1": "場所",
+    "w2": "ジュネーヴ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 47604,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "世界貿易機関",
+    "w2": "ジュネーヴ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 270,
+    "unigram_w1": 31324,
+    "unigram_w2": 47604,
+    "ppmi": 4.983143824035825
+  }
+]

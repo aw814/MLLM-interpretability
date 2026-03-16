@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウィレム＝アレクサンダー",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 184,
+    "unigram_w1": 1218,
+    "unigram_w2": 4020810,
+    "ppmi": 2.714313046925436
+  },
+  {
+    "w1": "話した",
+    "w2": "オランダ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 150826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウィレム＝アレクサンダー",
+    "w2": "オランダ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 174,
+    "unigram_w1": 1218,
+    "unigram_w2": 150826,
+    "ppmi": 7.370223698320662
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מאסימו ד'אלמה",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 40,
+    "unigram_w2": 49512,
+    "ppmi": 3.6387899464776647
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "איטליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 153684,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מאסימו ד'אלמה",
+    "w2": "איטליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 40,
+    "unigram_w2": 153684,
+    "ppmi": 6.092135945645694
+  }
+]

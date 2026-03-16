@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "キルギス",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 55352,
+    "unigram_w2": 62,
+    "ppmi": 7.669560106601801
+  },
+  {
+    "w1": "official_language",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 310196,
+    "ppmi": 5.183087374845195
+  },
+  {
+    "w1": "キルギス",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7444,
+    "unigram_w1": 55352,
+    "unigram_w2": 310196,
+    "ppmi": 6.242798199774636
+  }
+]

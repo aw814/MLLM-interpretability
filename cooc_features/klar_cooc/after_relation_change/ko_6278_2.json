@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "할리스코주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 50,
+    "unigram_w2": 1351571,
+    "ppmi": 2.0551781490506973
+  },
+  {
+    "w1": "수도",
+    "w2": "과달라하라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 2587,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "할리스코주",
+    "w2": "과달라하라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 50,
+    "unigram_w2": 2587,
+    "ppmi": 10.499357179711298
+  }
+]

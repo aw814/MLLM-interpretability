@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "토요타 코롤라",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 270,
+    "unigram_w2": 23994,
+    "ppmi": 3.268113543867491
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "토요타 자동차",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 23994,
+    "unigram_w2": 403,
+    "ppmi": 1.6902931123903546
+  },
+  {
+    "w1": "토요타 코롤라",
+    "w2": "토요타 자동차",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 270,
+    "unigram_w2": 403,
+    "ppmi": 9.163863581870809
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wii U",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 1384,
+    "unigram_w2": 23994,
+    "ppmi": 3.3697325319188947
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "닌텐도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 23994,
+    "unigram_w2": 24099,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wii U",
+    "w2": "닌텐도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 797,
+    "unigram_w1": 1384,
+    "unigram_w2": 24099,
+    "ppmi": 8.542437231905438
+  }
+]

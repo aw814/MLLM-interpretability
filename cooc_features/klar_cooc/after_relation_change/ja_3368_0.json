@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フレゼリク9世",
+    "w2": "市民権",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 114,
+    "unigram_w2": 199376,
+    "ppmi": 3.9420819989563696
+  },
+  {
+    "w1": "市民権",
+    "w2": "デンマーク",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 199376,
+    "unigram_w2": 682736,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フレゼリク9世",
+    "w2": "デンマーク",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 114,
+    "unigram_w2": 682736,
+    "ppmi": 7.999135942289395
+  }
+]

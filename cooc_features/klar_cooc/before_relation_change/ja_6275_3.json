@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ボスニア・ヘルツェゴビナ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 352,
+    "unigram_w1": 44026,
+    "unigram_w2": 498928,
+    "ppmi": 1.4849955974390905
+  },
+  {
+    "w1": "capital",
+    "w2": "サラエヴォ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 498928,
+    "unigram_w2": 5020,
+    "ppmi": 1.6175921017391137
+  },
+  {
+    "w1": "ボスニア・ヘルツェゴビナ",
+    "w2": "サラエヴォ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1704,
+    "unigram_w1": 44026,
+    "unigram_w2": 5020,
+    "ppmi": 10.395274060754808
+  }
+]

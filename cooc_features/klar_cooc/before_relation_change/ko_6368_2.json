@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "그레이트브리튼 아일랜드 연합왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 31,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "런던",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1328,
+    "unigram_w1": 36855,
+    "unigram_w2": 128055,
+    "ppmi": 2.1343778412836056
+  },
+  {
+    "w1": "그레이트브리튼 아일랜드 연합왕국",
+    "w2": "런던",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 31,
+    "unigram_w2": 128055,
+    "ppmi": 5.434146456157786
+  }
+]

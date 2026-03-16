@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "東ローマ帝国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 15864,
+    "unigram_w2": 498928,
+    "ppmi": 1.4981631697111029
+  },
+  {
+    "w1": "capital",
+    "w2": "コンスタンティノープル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 162,
+    "unigram_w1": 498928,
+    "unigram_w2": 14304,
+    "ppmi": 1.9873511136412576
+  },
+  {
+    "w1": "東ローマ帝国",
+    "w2": "コンスタンティノープル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3470,
+    "unigram_w1": 15864,
+    "unigram_w2": 14304,
+    "ppmi": 11.38322420655872
+  }
+]

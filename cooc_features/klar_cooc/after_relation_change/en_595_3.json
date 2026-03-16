@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lucknow",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5981,
+    "unigram_w1": 110069,
+    "unigram_w2": 9241408,
+    "ppmi": 1.1012439950155208
+  },
+  {
+    "w1": "language",
+    "w2": "Hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 124985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 532562,
+    "ppmi": 3.211927140250318
+  },
+  {
+    "w1": "Lucknow",
+    "w2": "Hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5826,
+    "unigram_w1": 110069,
+    "unigram_w2": 532562,
+    "ppmi": 5.180454256592591
+  }
+]

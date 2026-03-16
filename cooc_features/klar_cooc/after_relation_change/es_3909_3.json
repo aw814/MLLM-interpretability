@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dijon",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20108,
+    "unigram_w1": 171274,
+    "unigram_w2": 42058182,
+    "ppmi": 1.215861574187244
+  },
+  {
+    "w1": "capital",
+    "w2": "Borgoña",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53598,
+    "unigram_w1": 42058182,
+    "unigram_w2": 621370,
+    "ppmi": 0.77112472041095
+  },
+  {
+    "w1": "Dijon",
+    "w2": "Borgoña",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11576,
+    "unigram_w1": 171274,
+    "unigram_w2": 621370,
+    "ppmi": 6.500018897289948
+  }
+]

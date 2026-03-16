@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ニール・ヤング",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 17102,
+    "unigram_w2": 139628,
+    "ppmi": 1.474925572156701
+  },
+  {
+    "w1": "instrument",
+    "w2": "ハーモニカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 788,
+    "unigram_w1": 139628,
+    "unigram_w2": 149568,
+    "ppmi": 2.7204852904425327
+  },
+  {
+    "w1": "ニール・ヤング",
+    "w2": "ハーモニカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1050,
+    "unigram_w1": 17102,
+    "unigram_w2": 149568,
+    "ppmi": 6.163958405220056
+  }
+]

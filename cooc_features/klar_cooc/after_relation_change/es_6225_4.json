@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Condado de Honolulu",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 742,
+    "unigram_w2": 42058182,
+    "ppmi": 1.7252471705194754
+  },
+  {
+    "w1": "capital",
+    "w2": "Honolulu",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26892,
+    "unigram_w1": 42058182,
+    "unigram_w2": 190312,
+    "ppmi": 1.4832086638659492
+  },
+  {
+    "w1": "Condado de Honolulu",
+    "w2": "Honolulu",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 742,
+    "unigram_w1": 742,
+    "unigram_w2": 190312,
+    "ppmi": 12.094202383566834
+  }
+]

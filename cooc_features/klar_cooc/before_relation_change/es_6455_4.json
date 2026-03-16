@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Estados Confederados de América",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1986,
+    "unigram_w1": 6048,
+    "unigram_w2": 42058182,
+    "ppmi": 2.699733720060705
+  },
+  {
+    "w1": "capital",
+    "w2": "Richmond",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 59968,
+    "unigram_w1": 42058182,
+    "unigram_w2": 483774,
+    "ppmi": 1.2942577649262699
+  },
+  {
+    "w1": "Estados Confederados de América",
+    "w2": "Richmond",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 808,
+    "unigram_w1": 6048,
+    "unigram_w2": 483774,
+    "ppmi": 7.844204739730239
+  }
+]

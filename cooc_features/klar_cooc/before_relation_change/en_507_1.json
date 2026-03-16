@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Russian Empire",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 30573,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "Polish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 1470656,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Russian Empire",
+    "w2": "Polish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4689,
+    "unigram_w1": 30573,
+    "unigram_w2": 1470656,
+    "ppmi": 5.249868577633871
+  }
+]

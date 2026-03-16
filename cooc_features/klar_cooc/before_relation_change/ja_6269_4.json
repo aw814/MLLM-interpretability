@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イラク王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 538,
+    "unigram_w2": 498928,
+    "ppmi": 1.9651322701044827
+  },
+  {
+    "w1": "capital",
+    "w2": "バグダード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 498928,
+    "unigram_w2": 7682,
+    "ppmi": 2.1293283841300417
+  },
+  {
+    "w1": "イラク王国",
+    "w2": "バグダード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 138,
+    "unigram_w1": 538,
+    "unigram_w2": 7682,
+    "ppmi": 12.509900088195742
+  }
+]

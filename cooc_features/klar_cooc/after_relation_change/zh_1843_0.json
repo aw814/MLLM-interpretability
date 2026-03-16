@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "约翰·柯川",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 17,
+    "unigram_w2": 12146148,
+    "ppmi": 0.17612920854138198
+  },
+  {
+    "w1": "工作",
+    "w2": "爵士乐",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 8502,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "约翰·柯川",
+    "w2": "爵士乐",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 17,
+    "unigram_w2": 8502,
+    "ppmi": 12.241500683385086
+  }
+]

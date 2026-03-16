@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "조지 거슈윈",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 98,
+    "unigram_w2": 10794,
+    "ppmi": 3.8826633913617608
+  },
+  {
+    "w1": "instrument",
+    "w2": "피아노",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 235,
+    "unigram_w1": 10794,
+    "unigram_w2": 67914,
+    "ppmi": 2.322468795789547
+  },
+  {
+    "w1": "조지 거슈윈",
+    "w2": "피아노",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45,
+    "unigram_w1": 98,
+    "unigram_w2": 67914,
+    "ppmi": 6.721037073411652
+  }
+]

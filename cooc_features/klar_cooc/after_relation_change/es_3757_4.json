@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Buenos Aires",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3951404,
+    "unigram_w1": 18980864,
+    "unigram_w2": 42058182,
+    "ppmi": 2.042217835297423
+  },
+  {
+    "w1": "capital",
+    "w2": "Argentina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6128954,
+    "unigram_w1": 42058182,
+    "unigram_w2": 42122122,
+    "ppmi": 1.5254609014376117
+  },
+  {
+    "w1": "Buenos Aires",
+    "w2": "Argentina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9969846,
+    "unigram_w1": 18980864,
+    "unigram_w2": 42122122,
+    "ppmi": 3.375232069711152
+  }
+]

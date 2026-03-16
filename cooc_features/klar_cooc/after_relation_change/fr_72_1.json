@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Abdülhamid Ier",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 178,
+    "unigram_w1": 447,
+    "unigram_w2": 19663145,
+    "ppmi": 3.391526954711916
+  },
+  {
+    "w1": "mort",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 271541,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Abdülhamid Ier",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 92,
+    "unigram_w1": 447,
+    "unigram_w2": 271541,
+    "ppmi": 8.617535712844965
+  }
+]

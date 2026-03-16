@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "כריסטיאן הויגנס",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 156,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "מתמטיקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 57558,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "כריסטיאן הויגנס",
+    "w2": "מתמטיקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 156,
+    "unigram_w2": 57558,
+    "ppmi": 5.458077586742859
+  }
+]

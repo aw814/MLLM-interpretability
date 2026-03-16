@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "West Bengal",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14234,
+    "unigram_w1": 133424,
+    "unigram_w2": 7450623,
+    "ppmi": 2.3852681276079233
+  },
+  {
+    "w1": "capital",
+    "w2": "Kolkata",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24495,
+    "unigram_w1": 7450623,
+    "unigram_w2": 278121,
+    "ppmi": 2.108719794710327
+  },
+  {
+    "w1": "West Bengal",
+    "w2": "Kolkata",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41747,
+    "unigram_w1": 133424,
+    "unigram_w2": 278121,
+    "ppmi": 8.681175991315849
+  }
+]

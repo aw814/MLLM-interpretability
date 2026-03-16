@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Republika Srpska",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1052,
+    "unigram_w1": 5285,
+    "unigram_w2": 7450623,
+    "ppmi": 3.285104512943875
+  },
+  {
+    "w1": "capital",
+    "w2": "Sarajevo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8492,
+    "unigram_w1": 7450623,
+    "unigram_w2": 53142,
+    "ppmi": 2.9681970315769917
+  },
+  {
+    "w1": "Republika Srpska",
+    "w2": "Sarajevo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1768,
+    "unigram_w1": 5285,
+    "unigram_w2": 53142,
+    "ppmi": 11.16545281281035
+  }
+]

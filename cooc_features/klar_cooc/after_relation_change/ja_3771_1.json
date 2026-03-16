@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ポルトノボ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 228,
+    "unigram_w1": 476,
+    "unigram_w2": 2444276,
+    "ppmi": 5.097200725072078
+  },
+  {
+    "w1": "首都",
+    "w2": "ベナン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 22258,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ポルトノボ",
+    "w2": "ベナン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 320,
+    "unigram_w1": 476,
+    "unigram_w2": 22258,
+    "ppmi": 12.365178229874754
+  }
+]

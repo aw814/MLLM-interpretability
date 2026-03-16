@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "크림 자치 공화국",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 32,
+    "unigram_w2": 250699,
+    "ppmi": 3.281646586406879
+  },
+  {
+    "w1": "언어",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "크림 자치 공화국",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 32,
+    "unigram_w2": 42645,
+    "ppmi": 7.215665946304654
+  }
+]

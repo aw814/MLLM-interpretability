@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ニコシア",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1144,
+    "unigram_w1": 4810,
+    "unigram_w2": 2444276,
+    "ppmi": 4.087178632336265
+  },
+  {
+    "w1": "首都",
+    "w2": "キプロス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 82718,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ニコシア",
+    "w2": "キプロス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3180,
+    "unigram_w1": 4810,
+    "unigram_w2": 82718,
+    "ppmi": 10.447180430647112
+  }
+]

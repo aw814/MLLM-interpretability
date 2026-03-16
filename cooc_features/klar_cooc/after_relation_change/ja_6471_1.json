@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オレゴン州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5414,
+    "unigram_w1": 103798,
+    "unigram_w2": 2444276,
+    "ppmi": 1.8981885261577505
+  },
+  {
+    "w1": "首都",
+    "w2": "セイラム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 5994,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オレゴン州",
+    "w2": "セイラム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1416,
+    "unigram_w1": 103798,
+    "unigram_w2": 5994,
+    "ppmi": 8.634987303802193
+  }
+]

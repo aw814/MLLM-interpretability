@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bandera de Mónaco",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 348,
+    "unigram_w2": 3205324,
+    "ppmi": 1.5772271310502133
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Mónaco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 1174848,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bandera de Mónaco",
+    "w2": "Mónaco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 348,
+    "unigram_w1": 348,
+    "unigram_w2": 1174848,
+    "ppmi": 9.468166706129924
+  }
+]

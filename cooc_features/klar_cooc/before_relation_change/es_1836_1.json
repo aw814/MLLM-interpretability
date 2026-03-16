@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vilfredo Pareto",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8394,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "sociología",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1788152,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vilfredo Pareto",
+    "w2": "sociología",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1808,
+    "unigram_w1": 8394,
+    "unigram_w2": 1788152,
+    "ppmi": 6.6472076593665195
+  }
+]

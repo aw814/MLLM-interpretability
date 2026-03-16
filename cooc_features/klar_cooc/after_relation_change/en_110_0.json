@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yakov Sverdlov",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 196,
+    "unigram_w2": 5281801,
+    "ppmi": 4.353475548859272
+  },
+  {
+    "w1": "died",
+    "w2": "Moscow",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61743,
+    "unigram_w1": 5281801,
+    "unigram_w2": 853175,
+    "ppmi": 2.3217101940116347
+  },
+  {
+    "w1": "Yakov Sverdlov",
+    "w2": "Moscow",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104,
+    "unigram_w1": 196,
+    "unigram_w2": 853175,
+    "ppmi": 7.826050621530341
+  }
+]

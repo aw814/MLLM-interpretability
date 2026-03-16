@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "苏联",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 172496,
+    "unigram_w2": 32140,
+    "ppmi": 0.38349818723617063
+  },
+  {
+    "w1": "capital",
+    "w2": "莫斯科",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 334,
+    "unigram_w1": 32140,
+    "unigram_w2": 199732,
+    "ppmi": 1.601503584792883
+  },
+  {
+    "w1": "苏联",
+    "w2": "莫斯科",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16777,
+    "unigram_w1": 172496,
+    "unigram_w2": 199732,
+    "ppmi": 4.827875359831646
+  }
+]

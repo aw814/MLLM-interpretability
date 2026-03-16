@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Cuba",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 121,
+    "unigram_w2": 1074632,
+    "ppmi": 1.48852840349582
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Cuba",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8865,
+    "unigram_w1": 1074632,
+    "unigram_w2": 492994,
+    "ppmi": 2.610085993777968
+  },
+  {
+    "w1": "flag of Cuba",
+    "w2": "Cuba",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 121,
+    "unigram_w1": 121,
+    "unigram_w2": 492994,
+    "ppmi": 9.531592351160471
+  }
+]

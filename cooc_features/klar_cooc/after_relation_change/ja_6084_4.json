@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カマンベールチーズ",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12238,
+    "unigram_w1": 37462,
+    "unigram_w2": 27600878,
+    "ppmi": 1.0478332984550778
+  },
+  {
+    "w1": "場所",
+    "w2": "フランス",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 6159866,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "カマンベールチーズ",
+    "w2": "フランス",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9270,
+    "unigram_w1": 37462,
+    "unigram_w2": 6159866,
+    "ppmi": 2.810850026445634
+  }
+]

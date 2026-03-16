@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Peter Abelard",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 922,
+    "unigram_w2": 1072211,
+    "ppmi": 2.262462281176917
+  },
+  {
+    "w1": "occupation",
+    "w2": "philosopher",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7948,
+    "unigram_w1": 1072211,
+    "unigram_w2": 352533,
+    "ppmi": 2.9396228742758526
+  },
+  {
+    "w1": "Peter Abelard",
+    "w2": "philosopher",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 271,
+    "unigram_w1": 922,
+    "unigram_w2": 352533,
+    "ppmi": 8.248930228424522
+  }
+]

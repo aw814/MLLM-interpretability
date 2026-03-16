@@ -1,0 +1,32 @@
+[
+  {
+    "w1": ".de",
+    "w2": "司法管辖权",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 423982,
+    "unigram_w2": 989,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "司法管辖权",
+    "w2": "德国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 989,
+    "unigram_w2": 1175469,
+    "ppmi": 0.0
+  },
+  {
+    "w1": ".de",
+    "w2": "德国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12041,
+    "unigram_w1": 423982,
+    "unigram_w2": 1175469,
+    "ppmi": 0.4948066065457288
+  }
+]

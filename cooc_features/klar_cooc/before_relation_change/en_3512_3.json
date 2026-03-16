@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "England",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80656,
+    "unigram_w1": 5092965,
+    "unigram_w2": 965266,
+    "ppmi": 2.5816557433365177
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "England",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 558886,
+    "unigram_w1": 5092965,
+    "unigram_w2": 7715842,
+    "ppmi": 2.375530882050774
+  }
+]

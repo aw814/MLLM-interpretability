@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio Antiguo de Egipto",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 670,
+    "unigram_w1": 2142,
+    "unigram_w2": 42058182,
+    "ppmi": 2.6296007573482827
+  },
+  {
+    "w1": "capital",
+    "w2": "Menfis",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13096,
+    "unigram_w1": 42058182,
+    "unigram_w2": 43520,
+    "ppmi": 2.5737739070898553
+  },
+  {
+    "w1": "Imperio Antiguo de Egipto",
+    "w2": "Menfis",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 508,
+    "unigram_w1": 2142,
+    "unigram_w2": 43520,
+    "ppmi": 12.146760376570047
+  }
+]

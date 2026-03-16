@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "iPhone 3GS",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 374,
+    "unigram_w1": 114900,
+    "unigram_w2": 513142,
+    "ppmi": 2.4000859906559695
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13672,
+    "unigram_w1": 513142,
+    "unigram_w2": 8141772,
+    "ppmi": 1.445236094342625
+  },
+  {
+    "w1": "iPhone 3GS",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64896,
+    "unigram_w1": 114900,
+    "unigram_w2": 8141772,
+    "ppmi": 5.851120664745655
+  }
+]

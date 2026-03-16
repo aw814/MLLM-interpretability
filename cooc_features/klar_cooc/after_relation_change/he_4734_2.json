@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ז'אן-ז'אק רוסו",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 1104,
+    "unigram_w2": 5024,
+    "ppmi": 5.676625398359885
+  },
+  {
+    "w1": "religion",
+    "w2": "נצרות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 240,
+    "unigram_w1": 5024,
+    "unigram_w2": 10566,
+    "ppmi": 5.801336800137195
+  },
+  {
+    "w1": "ז'אן-ז'אק רוסו",
+    "w2": "נצרות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 1104,
+    "unigram_w2": 10566,
+    "ppmi": 4.780982214783227
+  }
+]

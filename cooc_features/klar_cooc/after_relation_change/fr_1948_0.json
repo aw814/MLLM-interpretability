@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gregor Mendel",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1623,
+    "unigram_w1": 4518,
+    "unigram_w2": 57128353,
+    "ppmi": 1.7041904265954833
+  },
+  {
+    "w1": "travail",
+    "w2": "génétique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 1686772,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gregor Mendel",
+    "w2": "génétique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2638,
+    "unigram_w1": 4518,
+    "unigram_w2": 1686772,
+    "ppmi": 7.486842045526968
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "克罗地亚国旗",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 25,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "克罗地亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 67769,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "克罗地亚国旗",
+    "w2": "克罗地亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 25,
+    "unigram_w2": 67769,
+    "ppmi": 9.74924970481634
+  }
+]

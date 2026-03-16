@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "LinkedIn",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1873302,
+    "unigram_w2": 18,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "Microsoft",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 18,
+    "unigram_w2": 4779618,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "LinkedIn",
+    "w2": "Microsoft",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 283821,
+    "unigram_w1": 1873302,
+    "unigram_w2": 4779618,
+    "ppmi": 4.037921156348938
+  }
+]

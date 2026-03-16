@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Somaliland",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1402,
+    "unigram_w1": 16108,
+    "unigram_w2": 9241408,
+    "ppmi": 1.7809025475419602
+  },
+  {
+    "w1": "language",
+    "w2": "Somali",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12677,
+    "unigram_w1": 9241408,
+    "unigram_w2": 88850,
+    "ppmi": 2.4939632676814605
+  },
+  {
+    "w1": "Somaliland",
+    "w2": "Somali",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5170,
+    "unigram_w1": 16108,
+    "unigram_w2": 88850,
+    "ppmi": 10.364177566392108
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아르메니아",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55,
+    "unigram_w1": 11333,
+    "unigram_w2": 2712,
+    "ppmi": 4.803291265477753
+  },
+  {
+    "w1": "continent",
+    "w2": "유럽",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 184,
+    "unigram_w1": 2712,
+    "unigram_w2": 559048,
+    "ppmi": 0.9211230673927385
+  },
+  {
+    "w1": "아르메니아",
+    "w2": "유럽",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2584,
+    "unigram_w1": 11333,
+    "unigram_w2": 559048,
+    "ppmi": 2.669850736805824
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אדמונד הוסרל",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 310,
+    "unigram_w2": 49512,
+    "ppmi": 3.591484231699308
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "גרמניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 200352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אדמונד הוסרל",
+    "w2": "גרמניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 70,
+    "unigram_w1": 310,
+    "unigram_w2": 200352,
+    "ppmi": 3.797189873762406
+  }
+]

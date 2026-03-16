@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Sicilia",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 466,
+    "unigram_w1": 5396,
+    "unigram_w2": 12196104,
+    "ppmi": 2.558803880354934
+  },
+  {
+    "w1": "idioma",
+    "w2": "siciliano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 150286,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Reino de Sicilia",
+    "w2": "siciliano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 670,
+    "unigram_w1": 5396,
+    "unigram_w2": 150286,
+    "ppmi": 9.425200948422289
+  }
+]

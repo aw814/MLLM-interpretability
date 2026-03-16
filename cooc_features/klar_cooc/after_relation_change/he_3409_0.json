@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויקיפדיה הווייטנאמית",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 7,
+    "unigram_w2": 236631,
+    "ppmi": 3.8965741642053655
+  },
+  {
+    "w1": "שפה",
+    "w2": "וייטנאמית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 2282,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ויקיפדיה הווייטנאמית",
+    "w2": "וייטנאמית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 2282,
+    "ppmi": 0.0
+  }
+]

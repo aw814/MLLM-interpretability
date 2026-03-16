@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויילס",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 6074,
+    "unigram_w2": 14610,
+    "ppmi": 1.8535486152554397
+  },
+  {
+    "w1": "capital",
+    "w2": "קארדיף",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 296,
+    "unigram_w1": 14610,
+    "unigram_w2": 1373,
+    "ppmi": 7.507877545763656
+  },
+  {
+    "w1": "ויילס",
+    "w2": "קארדיף",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 184,
+    "unigram_w1": 6074,
+    "unigram_w2": 1373,
+    "ppmi": 8.08822350071512
+  }
+]

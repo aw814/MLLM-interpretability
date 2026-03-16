@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "南極条約",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 3676,
+    "unigram_w2": 48638,
+    "ppmi": 5.053849746697395
+  },
+  {
+    "w1": "continent",
+    "w2": "南極大陸",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 48638,
+    "unigram_w2": 33952,
+    "ppmi": 5.016486858513977
+  },
+  {
+    "w1": "南極条約",
+    "w2": "南極大陸",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 832,
+    "unigram_w1": 3676,
+    "unigram_w2": 33952,
+    "ppmi": 10.185413968442555
+  }
+]

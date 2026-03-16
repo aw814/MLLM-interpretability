@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ferdinand de Saussure",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 1445,
+    "unigram_w2": 737500,
+    "ppmi": 2.913097231389572
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Switzerland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16232,
+    "unigram_w1": 737500,
+    "unigram_w2": 1349669,
+    "ppmi": 2.572898334118915
+  },
+  {
+    "w1": "Ferdinand de Saussure",
+    "w2": "Switzerland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 65,
+    "unigram_w1": 1445,
+    "unigram_w2": 1349669,
+    "ppmi": 3.6041427438013227
+  }
+]

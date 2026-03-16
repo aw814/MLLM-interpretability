@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "丰田卡罗拉",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 7223,
+    "unigram_w2": 6195,
+    "ppmi": 0.38231654548432487
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "丰田汽车",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 6195,
+    "unigram_w2": 14840,
+    "ppmi": 1.9284580297384708
+  },
+  {
+    "w1": "丰田卡罗拉",
+    "w2": "丰田汽车",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 199,
+    "unigram_w1": 7223,
+    "unigram_w2": 14840,
+    "ppmi": 6.758626261547772
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Yamena",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3860,
+    "unigram_w1": 7216,
+    "unigram_w2": 42058182,
+    "ppmi": 3.4037277456534656
+  },
+  {
+    "w1": "capital",
+    "w2": "Chad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 68166,
+    "unigram_w1": 42058182,
+    "unigram_w2": 570944,
+    "ppmi": 1.240101221225565
+  },
+  {
+    "w1": "Yamena",
+    "w2": "Chad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5906,
+    "unigram_w1": 7216,
+    "unigram_w2": 570944,
+    "ppmi": 10.22020168570984
+  }
+]

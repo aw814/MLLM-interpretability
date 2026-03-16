@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "索菲亚",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 819,
+    "unigram_w1": 30748,
+    "unigram_w2": 596594,
+    "ppmi": 1.3807123132006183
+  },
+  {
+    "w1": "首都",
+    "w2": "保加利亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 38630,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "索菲亚",
+    "w2": "保加利亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 882,
+    "unigram_w1": 30748,
+    "unigram_w2": 38630,
+    "ppmi": 5.4365834028657805
+  }
+]

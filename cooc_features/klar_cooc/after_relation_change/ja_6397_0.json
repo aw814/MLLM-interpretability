@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ラトビア",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10672,
+    "unigram_w1": 83854,
+    "unigram_w2": 2444276,
+    "ppmi": 3.1850794410408456
+  },
+  {
+    "w1": "首都",
+    "w2": "リガ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 36350,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ラトビア",
+    "w2": "リガ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11360,
+    "unigram_w1": 83854,
+    "unigram_w2": 36350,
+    "ppmi": 9.346519728843969
+  }
+]

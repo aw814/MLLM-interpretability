@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "알바이울리아",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 8,
+    "unigram_w2": 1351571,
+    "ppmi": 0.5291093373831093
+  },
+  {
+    "w1": "수도",
+    "w2": "알바주",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "알바이울리아",
+    "w2": "알바주",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  }
+]

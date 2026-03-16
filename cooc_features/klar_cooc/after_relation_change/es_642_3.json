@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "dinastía timúrida",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 98,
+    "unigram_w1": 502,
+    "unigram_w2": 12196104,
+    "ppmi": 3.735458658813357
+  },
+  {
+    "w1": "idioma",
+    "w2": "persa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 938118,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "dinastía timúrida",
+    "w2": "persa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 254,
+    "unigram_w1": 502,
+    "unigram_w2": 938118,
+    "ppmi": 8.809940647323597
+  }
+]

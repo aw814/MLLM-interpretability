@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nueva Delhi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 91808,
+    "unigram_w1": 363706,
+    "unigram_w2": 42058182,
+    "ppmi": 2.320245289184921
+  },
+  {
+    "w1": "capital",
+    "w2": "India",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1777016,
+    "unigram_w1": 42058182,
+    "unigram_w2": 12229280,
+    "ppmi": 1.5235153455520458
+  },
+  {
+    "w1": "Nueva Delhi",
+    "w2": "India",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 268374,
+    "unigram_w1": 363706,
+    "unigram_w2": 12229280,
+    "ppmi": 5.6498454434189
+  }
+]

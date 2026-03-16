@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カルナータカ州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 86,
+    "unigram_w1": 5392,
+    "unigram_w2": 498928,
+    "ppmi": 2.48129210546019
+  },
+  {
+    "w1": "capital",
+    "w2": "バンガロール",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 974,
+    "unigram_w1": 498928,
+    "unigram_w2": 48016,
+    "ppmi": 2.8281824904240045
+  },
+  {
+    "w1": "カルナータカ州",
+    "w2": "バンガロール",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2596,
+    "unigram_w1": 5392,
+    "unigram_w2": 48016,
+    "ppmi": 10.774346525724255
+  }
+]

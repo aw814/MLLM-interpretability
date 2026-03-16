@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "马克斯·韦伯",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1267,
+    "unigram_w1": 2939,
+    "unigram_w2": 12146148,
+    "ppmi": 1.0496832152811981
+  },
+  {
+    "w1": "工作",
+    "w2": "社会学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 60512,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "马克斯·韦伯",
+    "w2": "社会学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 524,
+    "unigram_w1": 2939,
+    "unigram_w2": 60512,
+    "ppmi": 7.424967277489801
+  }
+]

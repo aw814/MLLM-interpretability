@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Califato fatimí",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1130,
+    "unigram_w1": 2106,
+    "unigram_w2": 42058182,
+    "ppmi": 3.4081435730302365
+  },
+  {
+    "w1": "capital",
+    "w2": "El Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 169340,
+    "unigram_w1": 42058182,
+    "unigram_w2": 710664,
+    "ppmi": 2.237081412165681
+  },
+  {
+    "w1": "Califato fatimí",
+    "w2": "El Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 780,
+    "unigram_w1": 2106,
+    "unigram_w2": 710664,
+    "ppmi": 8.760441890209616
+  }
+]

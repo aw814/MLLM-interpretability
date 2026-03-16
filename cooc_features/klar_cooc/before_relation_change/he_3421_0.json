@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ליברה אופיס",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 197,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "פינית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 6277,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ליברה אופיס",
+    "w2": "פינית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 197,
+    "unigram_w2": 6277,
+    "ppmi": 3.318297334933211
+  }
+]

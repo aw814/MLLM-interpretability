@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carlos Marchena",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 396,
+    "unigram_w1": 13254,
+    "unigram_w2": 8126762,
+    "ppmi": 1.6131765931895858
+  },
+  {
+    "w1": "habló",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 52196598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Carlos Marchena",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3770,
+    "unigram_w1": 13254,
+    "unigram_w2": 52196598,
+    "ppmi": 2.180965550740935
+  }
+]

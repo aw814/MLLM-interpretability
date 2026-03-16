@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נאפולי",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 404,
+    "unigram_w1": 18613,
+    "unigram_w2": 90246,
+    "ppmi": 1.5688217788394527
+  },
+  {
+    "w1": "בירה",
+    "w2": "נאפולי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 18613,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "נאפולי",
+    "w2": "נאפולי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18613,
+    "unigram_w1": 18613,
+    "unigram_w2": 18613,
+    "ppmi": 9.372185664057396
+  }
+]

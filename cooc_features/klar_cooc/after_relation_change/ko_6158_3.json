@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "텔랑가나주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 50,
+    "unigram_w2": 1351571,
+    "ppmi": 0.20718124249574704
+  },
+  {
+    "w1": "수도",
+    "w2": "하이데라바드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 1714,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "텔랑가나주",
+    "w2": "하이데라바드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17,
+    "unigram_w1": 50,
+    "unigram_w2": 1714,
+    "ppmi": 11.595770464812722
+  }
+]

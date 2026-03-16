@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "罗马共和国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 63,
+    "unigram_w1": 680,
+    "unigram_w2": 596594,
+    "ppmi": 3.179086612047715
+  },
+  {
+    "w1": "首都",
+    "w2": "罗马",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 290758,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "罗马共和国",
+    "w2": "罗马",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 680,
+    "unigram_w1": 680,
+    "unigram_w2": 290758,
+    "ppmi": 7.648128206141967
+  }
+]

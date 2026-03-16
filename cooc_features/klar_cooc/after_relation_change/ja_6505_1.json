@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ローディ",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6750,
+    "unigram_w1": 17286,
+    "unigram_w2": 27600878,
+    "ppmi": 1.3052487585355836
+  },
+  {
+    "w1": "場所",
+    "w2": "ヘルシンキ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 116518,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ローディ",
+    "w2": "ヘルシンキ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 86,
+    "unigram_w1": 17286,
+    "unigram_w2": 116518,
+    "ppmi": 2.89885923355682
+  }
+]

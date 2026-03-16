@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Turquía",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1800,
+    "unigram_w1": 3787920,
+    "unigram_w2": 91062,
+    "ppmi": 2.1184546255888277
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10022,
+    "unigram_w1": 91062,
+    "unigram_w2": 9286646,
+    "ppmi": 3.3018044770318373
+  },
+  {
+    "w1": "Turquía",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 406152,
+    "unigram_w1": 3787920,
+    "unigram_w2": 9286646,
+    "ppmi": 3.2641689718345543
+  }
+]

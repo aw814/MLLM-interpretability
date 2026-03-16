@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gobernación de Homs",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 198,
+    "unigram_w1": 724,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4358369697498077
+  },
+  {
+    "w1": "capital",
+    "w2": "Damasco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 157002,
+    "unigram_w1": 42058182,
+    "unigram_w2": 725006,
+    "ppmi": 2.09911623941069
+  },
+  {
+    "w1": "Gobernación de Homs",
+    "w2": "Damasco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 384,
+    "unigram_w1": 724,
+    "unigram_w2": 725006,
+    "ppmi": 9.249692595263644
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "神圣罗马帝国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1396,
+    "unigram_w2": 32140,
+    "ppmi": 3.700350127668698
+  },
+  {
+    "w1": "capital",
+    "w2": "维也纳",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 461,
+    "unigram_w1": 32140,
+    "unigram_w2": 66653,
+    "ppmi": 3.649746008506826
+  },
+  {
+    "w1": "神圣罗马帝国",
+    "w2": "维也纳",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 210,
+    "unigram_w1": 1396,
+    "unigram_w2": 66653,
+    "ppmi": 7.0403676680964145
+  }
+]

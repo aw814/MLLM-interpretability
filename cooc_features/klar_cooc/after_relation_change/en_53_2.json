@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michael II",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 263,
+    "unigram_w1": 789,
+    "unigram_w2": 5281801,
+    "ppmi": 4.525241897125753
+  },
+  {
+    "w1": "died",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17551,
+    "unigram_w1": 5281801,
+    "unigram_w2": 78199,
+    "ppmi": 3.9546074722514715
+  },
+  {
+    "w1": "Michael II",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 142,
+    "unigram_w1": 789,
+    "unigram_w2": 78199,
+    "ppmi": 9.713806005251765
+  }
+]

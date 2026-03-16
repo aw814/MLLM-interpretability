@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "莫尔多瓦共和国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 44,
+    "unigram_w2": 919361,
+    "ppmi": 1.5278840072586866
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "莫尔多瓦共和国",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 44,
+    "unigram_w2": 46749,
+    "ppmi": 7.82550806448345
+  }
+]

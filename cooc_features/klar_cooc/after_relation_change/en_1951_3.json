@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Giordano Bruno",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2013,
+    "unigram_w1": 3901,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3312899368235505
+  },
+  {
+    "w1": "work",
+    "w2": "philosophy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1371257,
+    "unigram_w1": 74824954,
+    "unigram_w2": 2867959,
+    "ppmi": 1.2212613486604222
+  },
+  {
+    "w1": "Giordano Bruno",
+    "w2": "philosophy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1128,
+    "unigram_w1": 3901,
+    "unigram_w2": 2867959,
+    "ppmi": 5.20113301439812
+  }
+]

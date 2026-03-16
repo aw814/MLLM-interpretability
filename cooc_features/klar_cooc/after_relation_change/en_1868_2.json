@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Max Weber",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7021,
+    "unigram_w1": 11046,
+    "unigram_w2": 74824954,
+    "ppmi": 1.6320111635254948
+  },
+  {
+    "w1": "work",
+    "w2": "history",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6849113,
+    "unigram_w1": 74824954,
+    "unigram_w2": 19135177,
+    "ppmi": 0.8035485848364731
+  },
+  {
+    "w1": "Max Weber",
+    "w2": "history",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5522,
+    "unigram_w1": 11046,
+    "unigram_w2": 19135177,
+    "ppmi": 3.252817764276378
+  }
+]

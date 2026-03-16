@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ブラチスラヴァ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1674,
+    "unigram_w1": 9334,
+    "unigram_w2": 2444276,
+    "ppmi": 3.6799325348014795
+  },
+  {
+    "w1": "首都",
+    "w2": "スロバキア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 114324,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ブラチスラヴァ",
+    "w2": "スロバキア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2922,
+    "unigram_w1": 9334,
+    "unigram_w2": 114324,
+    "ppmi": 8.901796179061863
+  }
+]

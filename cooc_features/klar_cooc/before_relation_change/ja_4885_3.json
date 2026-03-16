@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アンナ・クルニコワ",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 580,
+    "unigram_w2": 4,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "アンナ・クルニコワ",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 580,
+    "unigram_w2": 310196,
+    "ppmi": 4.8642651908256545
+  }
+]

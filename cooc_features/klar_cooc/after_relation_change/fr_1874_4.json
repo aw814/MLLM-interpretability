@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anders Celsius",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 238,
+    "unigram_w1": 1127,
+    "unigram_w2": 57128353,
+    "ppmi": 0.9377576605763186
+  },
+  {
+    "w1": "travail",
+    "w2": "astronomie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 350007,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Anders Celsius",
+    "w2": "astronomie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 76,
+    "unigram_w1": 1127,
+    "unigram_w2": 350007,
+    "ppmi": 6.64154676270324
+  }
+]

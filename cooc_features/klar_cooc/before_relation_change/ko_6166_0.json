@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "인디애나주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1431,
+    "unigram_w2": 36855,
+    "ppmi": 1.5648626076396188
+  },
+  {
+    "w1": "capital",
+    "w2": "인디애나폴리스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 36855,
+    "unigram_w2": 2898,
+    "ppmi": 2.032255511979599
+  },
+  {
+    "w1": "인디애나주",
+    "w2": "인디애나폴리스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 118,
+    "unigram_w1": 1431,
+    "unigram_w2": 2898,
+    "ppmi": 8.794308420527852
+  }
+]

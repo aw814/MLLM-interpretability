@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alpes Marítimos",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2752,
+    "unigram_w1": 18976,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5207026969094979
+  },
+  {
+    "w1": "capital",
+    "w2": "Niza",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 107664,
+    "unigram_w1": 42058182,
+    "unigram_w2": 890148,
+    "ppmi": 1.2588169431519902
+  },
+  {
+    "w1": "Alpes Marítimos",
+    "w2": "Niza",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6298,
+    "unigram_w1": 18976,
+    "unigram_w2": 890148,
+    "ppmi": 8.277313438866402
+  }
+]

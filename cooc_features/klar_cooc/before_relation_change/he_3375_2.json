@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מאהאווירה",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "הודו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 146501,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מאהאווירה",
+    "w2": "הודו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 8,
+    "unigram_w2": 146501,
+    "ppmi": 5.395657661174224
+  }
+]

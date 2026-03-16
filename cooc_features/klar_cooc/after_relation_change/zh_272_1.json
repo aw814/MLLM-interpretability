@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "鞑靼斯坦共和国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 45,
+    "unigram_w1": 2467,
+    "unigram_w2": 919361,
+    "ppmi": 0.21062672192553544
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "鞑靼斯坦共和国",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 2467,
+    "unigram_w2": 46749,
+    "ppmi": 3.716837400961716
+  }
+]

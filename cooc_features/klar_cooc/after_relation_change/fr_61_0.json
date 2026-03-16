@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nicolas V",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3347,
+    "unigram_w1": 10404,
+    "unigram_w2": 19663145,
+    "ppmi": 3.0837266966723744
+  },
+  {
+    "w1": "mort",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 4097661,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nicolas V",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3475,
+    "unigram_w1": 10404,
+    "unigram_w2": 4097661,
+    "ppmi": 5.4004926738223515
+  }
+]

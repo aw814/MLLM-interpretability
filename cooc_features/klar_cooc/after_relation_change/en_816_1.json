@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Haryana",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6049,
+    "unigram_w1": 112067,
+    "unigram_w2": 9241408,
+    "ppmi": 1.0916006263620859
+  },
+  {
+    "w1": "language",
+    "w2": "Hindi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 124985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 532562,
+    "ppmi": 3.211927140250318
+  },
+  {
+    "w1": "Haryana",
+    "w2": "Hindi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6453,
+    "unigram_w1": 112067,
+    "unigram_w2": 532562,
+    "ppmi": 5.30196526886106
+  }
+]

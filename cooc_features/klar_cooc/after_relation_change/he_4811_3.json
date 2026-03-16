@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נמל התעופה שיקגו או'הייר",
+    "w2": "בעלות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1964,
+    "unigram_w2": 359554,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בעלות",
+    "w2": "שיקגו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359554,
+    "unigram_w2": 30177,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "נמל התעופה שיקגו או'הייר",
+    "w2": "שיקגו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1964,
+    "unigram_w1": 1964,
+    "unigram_w2": 30177,
+    "ppmi": 8.675046878736572
+  }
+]

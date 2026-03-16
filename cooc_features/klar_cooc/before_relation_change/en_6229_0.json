@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ankara Province",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 57,
+    "unigram_w1": 190,
+    "unigram_w2": 7450623,
+    "ppmi": 3.8769076857554117
+  },
+  {
+    "w1": "capital",
+    "w2": "Ankara",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21098,
+    "unigram_w1": 7450623,
+    "unigram_w2": 118958,
+    "ppmi": 3.1185991319696216
+  },
+  {
+    "w1": "Ankara Province",
+    "w2": "Ankara",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 190,
+    "unigram_w1": 190,
+    "unigram_w2": 118958,
+    "ppmi": 11.582710142331544
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בולגריה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 962,
+    "unigram_w1": 25763,
+    "unigram_w2": 90246,
+    "ppmi": 2.3515133848269456
+  },
+  {
+    "w1": "בירה",
+    "w2": "סופיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 26923,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בולגריה",
+    "w2": "סופיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4378,
+    "unigram_w1": 25763,
+    "unigram_w2": 26923,
+    "ppmi": 6.282700351845984
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "大韓民国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 646,
+    "unigram_w1": 168300,
+    "unigram_w2": 498928,
+    "ppmi": 0.426346835529202
+  },
+  {
+    "w1": "capital",
+    "w2": "ソウル特別市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 498928,
+    "unigram_w2": 25776,
+    "ppmi": 0.4417475430081067
+  },
+  {
+    "w1": "大韓民国",
+    "w2": "ソウル特別市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11294,
+    "unigram_w1": 168300,
+    "unigram_w2": 25776,
+    "ppmi": 8.82895672867531
+  }
+]

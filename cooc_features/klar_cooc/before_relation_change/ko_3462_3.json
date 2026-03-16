@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "터키",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 74816,
+    "unigram_w2": 2712,
+    "ppmi": 1.547042043225193
+  },
+  {
+    "w1": "continent",
+    "w2": "아시아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 2712,
+    "unigram_w2": 363737,
+    "ppmi": 1.4933710139784397
+  },
+  {
+    "w1": "터키",
+    "w2": "아시아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9727,
+    "unigram_w1": 74816,
+    "unigram_w2": 363737,
+    "ppmi": 2.4794990340819383
+  }
+]

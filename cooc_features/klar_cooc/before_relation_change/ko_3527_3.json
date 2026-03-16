@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "바누아투",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53,
+    "unigram_w1": 5589,
+    "unigram_w2": 2712,
+    "ppmi": 5.769719739213669
+  },
+  {
+    "w1": "continent",
+    "w2": "오세아니아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 2712,
+    "unigram_w2": 21175,
+    "ppmi": 2.763955584981065
+  },
+  {
+    "w1": "바누아투",
+    "w2": "오세아니아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 175,
+    "unigram_w1": 5589,
+    "unigram_w2": 21175,
+    "ppmi": 4.528077510512219
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "挪威国旗",
+    "w2": "司法管辖权",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 83,
+    "unigram_w2": 989,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "司法管辖权",
+    "w2": "挪威",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 989,
+    "unigram_w2": 117454,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "挪威国旗",
+    "w2": "挪威",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 83,
+    "unigram_w1": 83,
+    "unigram_w2": 117454,
+    "ppmi": 8.955851246672458
+  }
+]

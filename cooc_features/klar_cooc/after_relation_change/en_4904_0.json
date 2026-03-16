@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Al Gore",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5192,
+    "unigram_w1": 68037,
+    "unigram_w2": 9241408,
+    "ppmi": 1.5911644302203356
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "Al Gore",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4103,
+    "unigram_w1": 68037,
+    "unigram_w2": 9553181,
+    "ppmi": 1.203684676261524
+  }
+]

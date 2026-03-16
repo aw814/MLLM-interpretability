@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edimburgo",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 663194,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Escocia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 2006472,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Edimburgo",
+    "w2": "Escocia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 206272,
+    "unigram_w1": 663194,
+    "unigram_w2": 2006472,
+    "ppmi": 7.011096841659359
+  }
+]

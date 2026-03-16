@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "格奥尔基·珀尔瓦诺夫",
+    "w2": "公民身份",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10,
+    "unigram_w2": 17472,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "公民身份",
+    "w2": "保加利亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 17472,
+    "unigram_w2": 38630,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "格奥尔基·珀尔瓦诺夫",
+    "w2": "保加利亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 10,
+    "unigram_w2": 38630,
+    "ppmi": 10.238225415546788
+  }
+]

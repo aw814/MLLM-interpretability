@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "안달루시아 지방",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 161,
+    "unigram_w2": 36855,
+    "ppmi": 2.9797880920854634
+  },
+  {
+    "w1": "capital",
+    "w2": "세비야",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 301,
+    "unigram_w1": 36855,
+    "unigram_w2": 7333,
+    "ppmi": 4.119174322198144
+  },
+  {
+    "w1": "안달루시아 지방",
+    "w2": "세비야",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47,
+    "unigram_w1": 161,
+    "unigram_w2": 7333,
+    "ppmi": 9.278799356972145
+  }
+]

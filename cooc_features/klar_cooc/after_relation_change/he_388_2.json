@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קירגיזסטן",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 148,
+    "unigram_w1": 2231,
+    "unigram_w2": 236631,
+    "ppmi": 1.789907653647779
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קירגיזסטן",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 266,
+    "unigram_w1": 2231,
+    "unigram_w2": 106961,
+    "ppmi": 3.781290952138523
+  }
+]

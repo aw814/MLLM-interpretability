@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트플란데런주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 5,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "헨트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 36855,
+    "unigram_w2": 455,
+    "ppmi": 2.2179478292802277
+  },
+  {
+    "w1": "오스트플란데런주",
+    "w2": "헨트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 5,
+    "unigram_w2": 455,
+    "ppmi": 13.743664377476186
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "俄罗斯",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 39242,
+    "unigram_w1": 1218525,
+    "unigram_w2": 919361,
+    "ppmi": 1.0307221570881144
+  },
+  {
+    "w1": "语言",
+    "w2": "阿塞拜疆语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 693,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "俄罗斯",
+    "w2": "阿塞拜疆语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 352,
+    "unigram_w1": 1218525,
+    "unigram_w2": 693,
+    "ppmi": 4.6036032241555604
+  }
+]

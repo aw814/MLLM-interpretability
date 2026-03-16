@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "玛格丽特·爱特伍",
+    "w2": "公民身份",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 17472,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "公民身份",
+    "w2": "加拿大",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 17472,
+    "unigram_w2": 705557,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "玛格丽特·爱特伍",
+    "w2": "加拿大",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 705557,
+    "ppmi": 0.0
+  }
+]

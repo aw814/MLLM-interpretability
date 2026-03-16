@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "카르나타카주",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 71,
+    "unigram_w2": 1351571,
+    "ppmi": 1.3793622178784273
+  },
+  {
+    "w1": "수도",
+    "w2": "벵갈루루",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 2478,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "카르나타카주",
+    "w2": "벵갈루루",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 71,
+    "unigram_w2": 2478,
+    "ppmi": 9.93003923444162
+  }
+]

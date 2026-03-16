@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Iraq",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 1544,
+    "unigram_w2": 1074632,
+    "ppmi": 2.9442176204473003
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Iraq",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13849,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1119021,
+    "ppmi": 2.071080147036435
+  },
+  {
+    "w1": "President of Iraq",
+    "w2": "Iraq",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1544,
+    "unigram_w1": 1544,
+    "unigram_w2": 1119021,
+    "ppmi": 8.348997233848676
+  }
+]

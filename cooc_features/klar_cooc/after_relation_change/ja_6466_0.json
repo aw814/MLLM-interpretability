@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西ドイツ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14844,
+    "unigram_w1": 108982,
+    "unigram_w2": 2444276,
+    "ppmi": 3.282990413365178
+  },
+  {
+    "w1": "首都",
+    "w2": "ボン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 245360,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "西ドイツ",
+    "w2": "ボン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4394,
+    "unigram_w1": 108982,
+    "unigram_w2": 245360,
+    "ppmi": 4.84315250422653
+  }
+]

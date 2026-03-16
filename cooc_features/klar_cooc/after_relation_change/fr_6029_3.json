@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "drapeau de l'Italie",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 1362,
+    "unigram_w2": 1227582,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Italie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 7455944,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "drapeau de l'Italie",
+    "w2": "Italie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 653,
+    "unigram_w1": 1362,
+    "unigram_w2": 7455944,
+    "ppmi": 5.058383899489626
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Coltrane",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9285,
+    "unigram_w1": 21137,
+    "unigram_w2": 74824954,
+    "ppmi": 1.0989899504035088
+  },
+  {
+    "w1": "work",
+    "w2": "jazz",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 529997,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1648980,
+    "ppmi": 0.6482689606418778
+  },
+  {
+    "w1": "John Coltrane",
+    "w2": "jazz",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16214,
+    "unigram_w1": 21137,
+    "unigram_w2": 1648980,
+    "ppmi": 7.407129864149201
+  }
+]

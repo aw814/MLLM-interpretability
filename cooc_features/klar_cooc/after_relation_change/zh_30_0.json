@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "瓦西里三世",
+    "w2": "出生",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 14,
+    "unigram_w2": 759956,
+    "ppmi": 2.4546762793704473
+  },
+  {
+    "w1": "出生",
+    "w2": "莫斯科",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 759956,
+    "unigram_w2": 199732,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "瓦西里三世",
+    "w2": "莫斯科",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 14,
+    "unigram_w2": 199732,
+    "ppmi": 7.967489179544839
+  }
+]

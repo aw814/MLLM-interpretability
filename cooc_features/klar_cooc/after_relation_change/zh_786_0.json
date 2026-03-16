@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "保加利亚",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2770,
+    "unigram_w1": 38630,
+    "unigram_w2": 919361,
+    "ppmi": 2.185551829713241
+  },
+  {
+    "w1": "语言",
+    "w2": "保加利亚语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 1909,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "保加利亚",
+    "w2": "保加利亚语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1909,
+    "unigram_w1": 38630,
+    "unigram_w2": 1909,
+    "ppmi": 10.560153510434152
+  }
+]

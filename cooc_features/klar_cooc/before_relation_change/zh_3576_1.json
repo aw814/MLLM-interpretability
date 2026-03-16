@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "勃朗峰",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 1747,
+    "unigram_w2": 1361,
+    "ppmi": 6.201434823853846
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "勃朗峰",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 531,
+    "unigram_w1": 1747,
+    "unigram_w2": 1834429,
+    "ppmi": 3.2725920887229782
+  }
+]

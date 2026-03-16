@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Karen Gillan",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90,
+    "unigram_w1": 10989,
+    "unigram_w2": 1178529,
+    "ppmi": 1.8484400807698704
+  },
+  {
+    "w1": "occupation",
+    "w2": "acteur",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27783,
+    "unigram_w1": 1178529,
+    "unigram_w2": 4849464,
+    "ppmi": 1.3328803722260925
+  },
+  {
+    "w1": "Karen Gillan",
+    "w2": "acteur",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1282,
+    "unigram_w1": 10989,
+    "unigram_w2": 4849464,
+    "ppmi": 3.639929492026343
+  }
+]

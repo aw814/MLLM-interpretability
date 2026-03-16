@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פורטו נובו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 58,
+    "unigram_w2": 90246,
+    "ppmi": 4.8216147855965135
+  },
+  {
+    "w1": "בירה",
+    "w2": "בנין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 76836,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פורטו נובו",
+    "w2": "בנין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 58,
+    "unigram_w2": 76836,
+    "ppmi": 6.6386578589408085
+  }
+]

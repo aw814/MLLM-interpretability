@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Andorra",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 200214,
+    "unigram_w1": 2701664,
+    "unigram_w2": 12196104,
+    "ppmi": 2.3380588711572003
+  },
+  {
+    "w1": "idioma",
+    "w2": "catalán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 5495456,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Andorra",
+    "w2": "catalán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104090,
+    "unigram_w1": 2701664,
+    "unigram_w2": 5495456,
+    "ppmi": 2.544456742439712
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이탈리아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1159,
+    "unigram_w1": 239990,
+    "unigram_w2": 36855,
+    "ppmi": 1.031792553760535
+  },
+  {
+    "w1": "capital",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 36855,
+    "unigram_w2": 99776,
+    "ppmi": 1.1472432533510242
+  },
+  {
+    "w1": "이탈리아",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24953,
+    "unigram_w1": 239990,
+    "unigram_w2": 99776,
+    "ppmi": 4.023220883056302
+  }
+]

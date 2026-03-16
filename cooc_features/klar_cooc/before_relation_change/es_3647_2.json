@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Época vikinga",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 6632,
+    "unigram_w2": 91062,
+    "ppmi": 3.462419573940504
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Época vikinga",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2378,
+    "unigram_w1": 6632,
+    "unigram_w2": 39895658,
+    "ppmi": 2.902785693858862
+  }
+]

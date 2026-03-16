@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דאגסטן",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 351,
+    "unigram_w2": 236631,
+    "ppmi": 2.949041584099501
+  },
+  {
+    "w1": "שפה",
+    "w2": "אזרית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 529,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דאגסטן",
+    "w2": "אזרית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 351,
+    "unigram_w2": 529,
+    "ppmi": 9.513189134191379
+  }
+]

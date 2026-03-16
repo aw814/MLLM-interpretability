@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "迈阿密-戴德县",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 114,
+    "unigram_w2": 596594,
+    "ppmi": 2.3632701112419148
+  },
+  {
+    "w1": "首都",
+    "w2": "迈阿密",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 44778,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "迈阿密-戴德县",
+    "w2": "迈阿密",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 114,
+    "unigram_w1": 114,
+    "unigram_w2": 44778,
+    "ppmi": 10.347085096046591
+  }
+]

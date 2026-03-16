@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "北领地",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 365,
+    "unigram_w1": 3095,
+    "unigram_w2": 596594,
+    "ppmi": 3.5272265843512525
+  },
+  {
+    "w1": "首都",
+    "w2": "达尔文",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 15086,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "北领地",
+    "w2": "达尔文",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1355,
+    "unigram_w1": 3095,
+    "unigram_w2": 15086,
+    "ppmi": 10.725018299106507
+  }
+]

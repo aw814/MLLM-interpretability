@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sri Lanka",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 73734,
+    "unigram_w1": 1005550,
+    "unigram_w2": 12196104,
+    "ppmi": 2.3227813827723334
+  },
+  {
+    "w1": "idioma",
+    "w2": "tamil",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 1652998,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sri Lanka",
+    "w2": "tamil",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 172698,
+    "unigram_w1": 1005550,
+    "unigram_w2": 1652998,
+    "ppmi": 6.433894302594107
+  }
+]

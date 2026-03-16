@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マルティン・ブーバー",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 1006,
+    "unigram_w2": 620194,
+    "ppmi": 2.485257704329897
+  },
+  {
+    "w1": "死亡した",
+    "w2": "エルサレム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 160640,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "マルティン・ブーバー",
+    "w2": "エルサレム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 86,
+    "unigram_w1": 1006,
+    "unigram_w2": 160640,
+    "ppmi": 6.538482758563699
+  }
+]

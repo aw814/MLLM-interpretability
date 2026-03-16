@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jorge Luis Borges",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 506,
+    "unigram_w1": 25980,
+    "unigram_w2": 1178529,
+    "ppmi": 3.098239235228978
+  },
+  {
+    "w1": "occupation",
+    "w2": "bibliothécaire",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2814,
+    "unigram_w1": 1178529,
+    "unigram_w2": 291826,
+    "ppmi": 2.084017184946903
+  },
+  {
+    "w1": "Jorge Luis Borges",
+    "w2": "bibliothécaire",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 549,
+    "unigram_w1": 25980,
+    "unigram_w2": 291826,
+    "ppmi": 5.2297149290489875
+  }
+]

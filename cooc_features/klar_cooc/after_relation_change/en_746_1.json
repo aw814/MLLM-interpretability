@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cyprus",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31172,
+    "unigram_w1": 395868,
+    "unigram_w2": 9241408,
+    "ppmi": 1.6364248452533647
+  },
+  {
+    "w1": "language",
+    "w2": "Turkish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 95244,
+    "unigram_w1": 9241408,
+    "unigram_w2": 795206,
+    "ppmi": 2.2414931445203883
+  },
+  {
+    "w1": "Cyprus",
+    "w2": "Turkish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31891,
+    "unigram_w1": 395868,
+    "unigram_w2": 795206,
+    "ppmi": 5.2080355870518025
+  }
+]

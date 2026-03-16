@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Duchy of Normandy",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 235,
+    "unigram_w1": 808,
+    "unigram_w2": 9241408,
+    "ppmi": 3.521427134290296
+  },
+  {
+    "w1": "language",
+    "w2": "Norman",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50093,
+    "unigram_w1": 9241408,
+    "unigram_w2": 639063,
+    "ppmi": 1.6298444290692007
+  },
+  {
+    "w1": "Duchy of Normandy",
+    "w2": "Norman",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 370,
+    "unigram_w1": 808,
+    "unigram_w2": 639063,
+    "ppmi": 8.03037425556641
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "叙利亚",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 198,
+    "unigram_w1": 247949,
+    "unigram_w2": 32140,
+    "ppmi": 0.5351779977859323
+  },
+  {
+    "w1": "capital",
+    "w2": "大马士革",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 32140,
+    "unigram_w2": 17590,
+    "ppmi": 0.3079998973528208
+  },
+  {
+    "w1": "叙利亚",
+    "w2": "大马士革",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12873,
+    "unigram_w1": 247949,
+    "unigram_w2": 17590,
+    "ppmi": 7.427496510378997
+  }
+]

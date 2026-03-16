@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スイス",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8266,
+    "unigram_w1": 2018254,
+    "unigram_w2": 498928,
+    "ppmi": 0.5199294599946851
+  },
+  {
+    "w1": "capital",
+    "w2": "ベルン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 232,
+    "unigram_w1": 498928,
+    "unigram_w2": 39744,
+    "ppmi": 1.0311636688470416
+  },
+  {
+    "w1": "スイス",
+    "w2": "ベルン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24218,
+    "unigram_w1": 2018254,
+    "unigram_w2": 39744,
+    "ppmi": 5.720770571089157
+  }
+]

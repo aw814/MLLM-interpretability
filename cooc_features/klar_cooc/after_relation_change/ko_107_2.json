@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "프란시스코 프랑코",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 217,
+    "unigram_w2": 37935,
+    "ppmi": 4.244450152620733
+  },
+  {
+    "w1": "죽었다",
+    "w2": "마드리드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 27521,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "프란시스코 프랑코",
+    "w2": "마드리드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46,
+    "unigram_w1": 217,
+    "unigram_w2": 27521,
+    "ppmi": 6.909080658913459
+  }
+]

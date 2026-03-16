@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ויינטיאן",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 49,
+    "unigram_w1": 280,
+    "unigram_w2": 90246,
+    "ppmi": 4.580060107173171
+  },
+  {
+    "w1": "בירה",
+    "w2": "לאוס",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 5533,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ויינטיאן",
+    "w2": "לאוס",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 229,
+    "unigram_w1": 280,
+    "unigram_w2": 5533,
+    "ppmi": 10.83228321068182
+  }
+]

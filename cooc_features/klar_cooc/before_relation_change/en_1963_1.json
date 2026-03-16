@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michelangelo",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 879,
+    "unigram_w1": 77082,
+    "unigram_w2": 1072211,
+    "ppmi": 1.9562584742048204
+  },
+  {
+    "w1": "occupation",
+    "w2": "poet",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15619,
+    "unigram_w1": 1072211,
+    "unigram_w2": 897090,
+    "ppmi": 2.5667667671685592
+  },
+  {
+    "w1": "Michelangelo",
+    "w2": "poet",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3202,
+    "unigram_w1": 77082,
+    "unigram_w2": 897090,
+    "ppmi": 4.07856091772066
+  }
+]

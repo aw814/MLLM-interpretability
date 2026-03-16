@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Intel 80386",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 590,
+    "unigram_w2": 270510,
+    "ppmi": 4.715173197091849
+  },
+  {
+    "w1": "developer",
+    "w2": "インテル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4030,
+    "unigram_w1": 270510,
+    "unigram_w2": 444178,
+    "ppmi": 2.5505675511865173
+  },
+  {
+    "w1": "Intel 80386",
+    "w2": "インテル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 82,
+    "unigram_w1": 590,
+    "unigram_w2": 444178,
+    "ppmi": 5.7723066900254345
+  }
+]

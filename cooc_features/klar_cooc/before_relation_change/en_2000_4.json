@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Francis Poulenc",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 33,
+    "unigram_w1": 2160,
+    "unigram_w2": 1072211,
+    "ppmi": 2.3782240257727856
+  },
+  {
+    "w1": "occupation",
+    "w2": "pianist",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2857,
+    "unigram_w1": 1072211,
+    "unigram_w2": 388659,
+    "ppmi": 1.3227854255047142
+  },
+  {
+    "w1": "Francis Poulenc",
+    "w2": "pianist",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 662,
+    "unigram_w1": 2160,
+    "unigram_w2": 388659,
+    "ppmi": 8.168529324798534
+  }
+]

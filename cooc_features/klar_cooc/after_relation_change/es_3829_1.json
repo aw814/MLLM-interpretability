@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boston",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 518794,
+    "unigram_w1": 3334252,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6221967902347887
+  },
+  {
+    "w1": "capital",
+    "w2": "Massachusetts",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 155078,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1268918,
+    "ppmi": 1.2737933337570133
+  },
+  {
+    "w1": "Boston",
+    "w2": "Massachusetts",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 280700,
+    "unigram_w1": 3334252,
+    "unigram_w2": 1268918,
+    "ppmi": 5.786779801811507
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Enrique Granados",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 3544,
+    "unigram_w2": 1178529,
+    "ppmi": 0.8960871779234115
+  },
+  {
+    "w1": "occupation",
+    "w2": "compositeur",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7767,
+    "unigram_w1": 1178529,
+    "unigram_w2": 1891656,
+    "ppmi": 0.8522828955280388
+  },
+  {
+    "w1": "Enrique Granados",
+    "w2": "compositeur",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1354,
+    "unigram_w1": 3544,
+    "unigram_w2": 1891656,
+    "ppmi": 6.709546108595412
+  }
+]

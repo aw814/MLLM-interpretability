@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gerardo Mercator",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 224,
+    "unigram_w1": 618,
+    "unigram_w2": 128711420,
+    "ppmi": 1.2285364624966861
+  },
+  {
+    "w1": "trabajo",
+    "w2": "geografía",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 4036604,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gerardo Mercator",
+    "w2": "geografía",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 218,
+    "unigram_w1": 618,
+    "unigram_w2": 4036604,
+    "ppmi": 6.184220056126851
+  }
+]

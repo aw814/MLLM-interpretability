@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Fast and the Furious",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 850,
+    "unigram_w1": 18130,
+    "unigram_w2": 12196104,
+    "ppmi": 1.677520095042465
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "The Fast and the Furious",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1844,
+    "unigram_w1": 18130,
+    "unigram_w2": 30884572,
+    "ppmi": 1.4543580243849392
+  }
+]

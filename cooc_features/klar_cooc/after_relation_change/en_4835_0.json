@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Qatar Airways",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 594,
+    "unigram_w1": 30998,
+    "unigram_w2": 1657738,
+    "ppmi": 2.076449938791094
+  },
+  {
+    "w1": "owns",
+    "w2": "Qatar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6398,
+    "unigram_w1": 1657738,
+    "unigram_w2": 403981,
+    "ppmi": 1.8014956937538253
+  },
+  {
+    "w1": "Qatar Airways",
+    "w2": "Qatar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30998,
+    "unigram_w1": 30998,
+    "unigram_w2": 403981,
+    "ppmi": 9.818874997639858
+  }
+]

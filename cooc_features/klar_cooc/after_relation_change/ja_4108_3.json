@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "高行健",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54,
+    "unigram_w1": 532,
+    "unigram_w2": 4020810,
+    "ppmi": 2.140654575437035
+  },
+  {
+    "w1": "話した",
+    "w2": "中国語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 997618,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "高行健",
+    "w2": "中国語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 532,
+    "unigram_w2": 997618,
+    "ppmi": 5.872427267615815
+  }
+]

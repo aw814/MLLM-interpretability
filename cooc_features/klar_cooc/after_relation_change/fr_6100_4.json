@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "bretzel",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 529,
+    "unigram_w1": 62227,
+    "unigram_w2": 5673888,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "localisation",
+    "w2": "Allemagne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 7867182,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "bretzel",
+    "w2": "Allemagne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4838,
+    "unigram_w1": 62227,
+    "unigram_w2": 7867182,
+    "ppmi": 2.3564417505039494
+  }
+]

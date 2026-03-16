@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "drapeau de la Russie",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1401,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Russie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 5708891,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "drapeau de la Russie",
+    "w2": "Russie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1401,
+    "unigram_w1": 1401,
+    "unigram_w2": 5708891,
+    "ppmi": 6.50413621303119
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jésus-Christ",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 198945,
+    "unigram_w1": 1019384,
+    "unigram_w2": 4547729,
+    "ppmi": 4.474944375494972
+  },
+  {
+    "w1": "religion",
+    "w2": "judaïsme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163334,
+    "unigram_w1": 4547729,
+    "unigram_w2": 422601,
+    "ppmi": 5.460729399805521
+  },
+  {
+    "w1": "Jésus-Christ",
+    "w2": "judaïsme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36851,
+    "unigram_w1": 1019384,
+    "unigram_w2": 422601,
+    "ppmi": 5.470128609120689
+  }
+]

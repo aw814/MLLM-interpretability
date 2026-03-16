@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Safari",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6330,
+    "unigram_w1": 1322662,
+    "unigram_w2": 364637,
+    "ppmi": 2.765790645059831
+  },
+  {
+    "w1": "developer",
+    "w2": "Apple",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26175,
+    "unigram_w1": 364637,
+    "unigram_w2": 4733635,
+    "ppmi": 2.974198744914837
+  },
+  {
+    "w1": "Safari",
+    "w2": "Apple",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 135216,
+    "unigram_w1": 1322662,
+    "unigram_w2": 4733635,
+    "ppmi": 3.4842916077699324
+  }
+]

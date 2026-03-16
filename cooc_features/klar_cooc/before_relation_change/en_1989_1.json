@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lou Reed",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 17854,
+    "unigram_w2": 1072211,
+    "ppmi": 0.4159688098178389
+  },
+  {
+    "w1": "occupation",
+    "w2": "photographer",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13116,
+    "unigram_w1": 1072211,
+    "unigram_w2": 2012181,
+    "ppmi": 1.1493570360379528
+  },
+  {
+    "w1": "Lou Reed",
+    "w2": "photographer",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 726,
+    "unigram_w1": 17854,
+    "unigram_w2": 2012181,
+    "ppmi": 2.8823402875221578
+  }
+]

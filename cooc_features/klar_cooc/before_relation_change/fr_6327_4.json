@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gloucestershire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 538,
+    "unigram_w1": 22417,
+    "unigram_w2": 7952962,
+    "ppmi": 0.645011216108324
+  },
+  {
+    "w1": "capital",
+    "w2": "Gloucester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2868,
+    "unigram_w1": 7952962,
+    "unigram_w2": 79298,
+    "ppmi": 1.2366869020375117
+  },
+  {
+    "w1": "Gloucestershire",
+    "w2": "Gloucester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2969,
+    "unigram_w1": 22417,
+    "unigram_w2": 79298,
+    "ppmi": 9.757374219204298
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "华盛顿大学",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 11767,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "西雅图",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 40919,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "华盛顿大学",
+    "w2": "西雅图",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2190,
+    "unigram_w1": 11767,
+    "unigram_w2": 40919,
+    "ppmi": 8.051360523023373
+  }
+]

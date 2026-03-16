@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "贝尔纳多·奥赛",
+    "w2": "公民身份",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 17472,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "公民身份",
+    "w2": "阿根廷",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 17472,
+    "unigram_w2": 223250,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "贝尔纳多·奥赛",
+    "w2": "阿根廷",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 2,
+    "unigram_w2": 223250,
+    "ppmi": 8.029286917770134
+  }
+]

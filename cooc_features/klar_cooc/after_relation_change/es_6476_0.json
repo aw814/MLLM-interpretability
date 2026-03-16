@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio austrohúngaro",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14122,
+    "unigram_w1": 50532,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4670733772903457
+  },
+  {
+    "w1": "capital",
+    "w2": "Budapest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 223004,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1020554,
+    "ppmi": 2.1121152088156596
+  },
+  {
+    "w1": "Imperio austrohúngaro",
+    "w2": "Budapest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5190,
+    "unigram_w1": 50532,
+    "unigram_w2": 1020554,
+    "ppmi": 6.387897462814828
+  }
+]

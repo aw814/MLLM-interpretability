@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vénétie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10579,
+    "unigram_w1": 133124,
+    "unigram_w2": 9137640,
+    "ppmi": 2.172029602477259
+  },
+  {
+    "w1": "capitale",
+    "w2": "Venise",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1679071,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vénétie",
+    "w2": "Venise",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48975,
+    "unigram_w1": 133124,
+    "unigram_w2": 1679071,
+    "ppmi": 6.827030203328586
+  }
+]

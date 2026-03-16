@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "乌克兰",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7486,
+    "unigram_w1": 212152,
+    "unigram_w2": 919361,
+    "ppmi": 1.1625562050871607
+  },
+  {
+    "w1": "语言",
+    "w2": "乌克兰语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 2695,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "乌克兰",
+    "w2": "乌克兰语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2695,
+    "unigram_w1": 212152,
+    "unigram_w2": 2695,
+    "ppmi": 8.102848813844659
+  }
+]

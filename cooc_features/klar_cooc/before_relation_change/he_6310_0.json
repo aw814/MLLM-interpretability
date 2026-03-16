@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גיאנה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 2169,
+    "unigram_w2": 14610,
+    "ppmi": 2.0981573712468307
+  },
+  {
+    "w1": "capital",
+    "w2": "ג'ורג'טאון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25,
+    "unigram_w1": 14610,
+    "unigram_w2": 1714,
+    "ppmi": 3.622244885944032
+  },
+  {
+    "w1": "גיאנה",
+    "w2": "ג'ורג'טאון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53,
+    "unigram_w1": 2169,
+    "unigram_w2": 1714,
+    "ppmi": 7.458163370751094
+  }
+]

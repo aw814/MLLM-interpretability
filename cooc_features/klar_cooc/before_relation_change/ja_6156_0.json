@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イタリア王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 62,
+    "unigram_w1": 6896,
+    "unigram_w2": 498928,
+    "ppmi": 1.6542843832377279
+  },
+  {
+    "w1": "capital",
+    "w2": "フィレンツェ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1932,
+    "unigram_w1": 498928,
+    "unigram_w2": 289624,
+    "ppmi": 1.2236898785091743
+  },
+  {
+    "w1": "イタリア王国",
+    "w2": "フィレンツェ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1070,
+    "unigram_w1": 6896,
+    "unigram_w2": 289624,
+    "ppmi": 6.548133632438124
+  }
+]

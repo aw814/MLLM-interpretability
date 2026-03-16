@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שושלת צ'ינג",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 793,
+    "unigram_w2": 90246,
+    "ppmi": 3.3941935618618375
+  },
+  {
+    "w1": "בירה",
+    "w2": "בייג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 12923,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שושלת צ'ינג",
+    "w2": "בייג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 231,
+    "unigram_w1": 793,
+    "unigram_w2": 12923,
+    "ppmi": 8.11912723188103
+  }
+]

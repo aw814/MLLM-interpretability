@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bruce Springsteen",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60138,
+    "unigram_w1": 184474,
+    "unigram_w2": 128711420,
+    "ppmi": 1.0755758673429576
+  },
+  {
+    "w1": "trabajo",
+    "w2": "músico",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 3884554,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bruce Springsteen",
+    "w2": "músico",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28554,
+    "unigram_w1": 184474,
+    "unigram_w2": 3884554,
+    "ppmi": 5.05123912447342
+  }
+]

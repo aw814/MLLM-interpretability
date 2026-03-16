@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Polish People's Republic",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 308,
+    "unigram_w2": 7450623,
+    "ppmi": 3.413175929684489
+  },
+  {
+    "w1": "capital",
+    "w2": "Warsaw",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30876,
+    "unigram_w1": 7450623,
+    "unigram_w2": 244308,
+    "ppmi": 2.629729941717492
+  },
+  {
+    "w1": "Polish People's Republic",
+    "w2": "Warsaw",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 149,
+    "unigram_w1": 308,
+    "unigram_w2": 244308,
+    "ppmi": 9.496843313047147
+  }
+]

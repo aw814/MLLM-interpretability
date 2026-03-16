@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バージニア州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 994,
+    "unigram_w1": 68068,
+    "unigram_w2": 498928,
+    "ppmi": 2.3540450734159037
+  },
+  {
+    "w1": "capital",
+    "w2": "リッチモンド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1228,
+    "unigram_w1": 498928,
+    "unigram_w2": 62038,
+    "ppmi": 2.792862420680541
+  },
+  {
+    "w1": "バージニア州",
+    "w2": "リッチモンド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6518,
+    "unigram_w1": 68068,
+    "unigram_w2": 62038,
+    "ppmi": 8.074764222527905
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "A330",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 652,
+    "unigram_w1": 102652,
+    "unigram_w2": 513142,
+    "ppmi": 3.364536746798752
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Airbus",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2806,
+    "unigram_w1": 513142,
+    "unigram_w2": 699026,
+    "ppmi": 2.702523505293051
+  },
+  {
+    "w1": "A330",
+    "w2": "Airbus",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74180,
+    "unigram_w1": 102652,
+    "unigram_w2": 699026,
+    "ppmi": 9.748563235938695
+  }
+]

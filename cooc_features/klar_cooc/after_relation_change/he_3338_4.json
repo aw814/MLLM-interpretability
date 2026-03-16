@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הנרי החמישי, מלך אנגליה",
+    "w2": "אזרחות",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 66,
+    "unigram_w2": 49512,
+    "ppmi": 1.9163239220065738
+  },
+  {
+    "w1": "אזרחות",
+    "w2": "ממלכת אנגליה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 49512,
+    "unigram_w2": 768,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הנרי החמישי, מלך אנגליה",
+    "w2": "ממלכת אנגליה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 66,
+    "unigram_w2": 768,
+    "ppmi": 11.734206949950662
+  }
+]

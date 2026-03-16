@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Berna",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 85450,
+    "unigram_w1": 441550,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9369018195229053
+  },
+  {
+    "w1": "capital",
+    "w2": "Suiza",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1077640,
+    "unigram_w1": 42058182,
+    "unigram_w2": 6266180,
+    "ppmi": 1.7666153311913395
+  },
+  {
+    "w1": "Berna",
+    "w2": "Suiza",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 152268,
+    "unigram_w1": 441550,
+    "unigram_w2": 6266180,
+    "ppmi": 5.517090577462325
+  }
+]

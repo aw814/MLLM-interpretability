@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴黎公社",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 1138,
+    "unigram_w2": 32140,
+    "ppmi": 0.673220416684406
+  },
+  {
+    "w1": "capital",
+    "w2": "巴黎",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1310,
+    "unigram_w1": 32140,
+    "unigram_w2": 677900,
+    "ppmi": 1.8101434101903477
+  },
+  {
+    "w1": "巴黎公社",
+    "w2": "巴黎",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1138,
+    "unigram_w1": 1138,
+    "unigram_w2": 677900,
+    "ppmi": 6.426874622327992
+  }
+]

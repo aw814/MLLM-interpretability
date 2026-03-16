@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Óblast de Odesa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 136,
+    "unigram_w1": 1136,
+    "unigram_w2": 42058182,
+    "ppmi": 1.2440419584990607
+  },
+  {
+    "w1": "capital",
+    "w2": "Odesa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8758,
+    "unigram_w1": 42058182,
+    "unigram_w2": 43044,
+    "ppmi": 2.009187440527374
+  },
+  {
+    "w1": "Óblast de Odesa",
+    "w2": "Odesa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1136,
+    "unigram_w1": 1136,
+    "unigram_w2": 43044,
+    "ppmi": 14.238684860007156
+  }
+]

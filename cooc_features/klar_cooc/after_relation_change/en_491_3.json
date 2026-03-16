@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "East Timor",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4555,
+    "unigram_w1": 32581,
+    "unigram_w2": 9241408,
+    "ppmi": 2.4646137448174508
+  },
+  {
+    "w1": "language",
+    "w2": "Portuguese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 135406,
+    "unigram_w1": 9241408,
+    "unigram_w2": 660428,
+    "ppmi": 3.017012051202856
+  },
+  {
+    "w1": "East Timor",
+    "w2": "Portuguese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4275,
+    "unigram_w1": 32581,
+    "unigram_w2": 660428,
+    "ppmi": 6.179726592686699
+  }
+]

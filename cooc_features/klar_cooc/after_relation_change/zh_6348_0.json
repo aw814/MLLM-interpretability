@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "北卡罗来纳州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 186,
+    "unigram_w1": 6787,
+    "unigram_w2": 596594,
+    "ppmi": 1.4217981380068163
+  },
+  {
+    "w1": "首都",
+    "w2": "罗利",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 10626,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "北卡罗来纳州",
+    "w2": "罗利",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 255,
+    "unigram_w1": 6787,
+    "unigram_w2": 10626,
+    "ppmi": 7.688071709152516
+  }
+]

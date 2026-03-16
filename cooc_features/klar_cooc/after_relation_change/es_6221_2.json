@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bolonia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 222600,
+    "unigram_w1": 890868,
+    "unigram_w2": 42058182,
+    "ppmi": 2.305568146118337
+  },
+  {
+    "w1": "capital",
+    "w2": "Bolonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 222600,
+    "unigram_w1": 42058182,
+    "unigram_w2": 890868,
+    "ppmi": 2.305568146118337
+  },
+  {
+    "w1": "Bolonia",
+    "w2": "Bolonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 890868,
+    "unigram_w1": 890868,
+    "unigram_w2": 890868,
+    "ppmi": 9.867357232934086
+  }
+]

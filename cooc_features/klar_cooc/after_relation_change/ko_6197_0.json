@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "교황령",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 115,
+    "unigram_w1": 418,
+    "unigram_w2": 1351571,
+    "ppmi": 1.6672402562466018
+  },
+  {
+    "w1": "수도",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 99776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "교황령",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 277,
+    "unigram_w1": 418,
+    "unigram_w2": 99776,
+    "ppmi": 6.695293028720128
+  }
+]

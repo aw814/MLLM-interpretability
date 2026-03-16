@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "לבנון",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 204,
+    "unigram_w1": 101496,
+    "unigram_w2": 14610,
+    "ppmi": 0.762902086503345
+  },
+  {
+    "w1": "capital",
+    "w2": "ביירות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 14610,
+    "unigram_w2": 9656,
+    "ppmi": 3.2392176316902543
+  },
+  {
+    "w1": "לבנון",
+    "w2": "ביירות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4637,
+    "unigram_w1": 101496,
+    "unigram_w2": 9656,
+    "ppmi": 5.866911352842214
+  }
+]

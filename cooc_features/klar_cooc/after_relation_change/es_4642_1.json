@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jesús de Nazaret",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6412,
+    "unigram_w1": 261684,
+    "unigram_w2": 979024,
+    "ppmi": 4.38031720799699
+  },
+  {
+    "w1": "religion",
+    "w2": "judaísmo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19830,
+    "unigram_w1": 979024,
+    "unigram_w2": 455362,
+    "ppmi": 5.209967368670372
+  },
+  {
+    "w1": "Jesús de Nazaret",
+    "w2": "judaísmo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16590,
+    "unigram_w1": 261684,
+    "unigram_w2": 455362,
+    "ppmi": 6.856115087011153
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "檀香山",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8357,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "夏威夷州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2337,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "檀香山",
+    "w2": "夏威夷州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 623,
+    "unigram_w1": 8357,
+    "unigram_w2": 2337,
+    "ppmi": 10.861464481271208
+  }
+]

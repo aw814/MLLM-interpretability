@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האימפריה העות'מאנית",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29,
+    "unigram_w1": 7183,
+    "unigram_w2": 14610,
+    "ppmi": 1.7691502852256513
+  },
+  {
+    "w1": "capital",
+    "w2": "איסטנבול",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 342,
+    "unigram_w1": 14610,
+    "unigram_w2": 15588,
+    "ppmi": 4.211244388998668
+  },
+  {
+    "w1": "האימפריה העות'מאנית",
+    "w2": "איסטנבול",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 687,
+    "unigram_w1": 7183,
+    "unigram_w2": 15588,
+    "ppmi": 6.241855920438003
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tirana District",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 75,
+    "unigram_w2": 7450623,
+    "ppmi": 2.5549795908680495
+  },
+  {
+    "w1": "capital",
+    "w2": "Tirana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5725,
+    "unigram_w1": 7450623,
+    "unigram_w2": 24084,
+    "ppmi": 3.5411458557095132
+  },
+  {
+    "w1": "Tirana District",
+    "w2": "Tirana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 75,
+    "unigram_w1": 75,
+    "unigram_w2": 24084,
+    "ppmi": 13.887015511855195
+  }
+]

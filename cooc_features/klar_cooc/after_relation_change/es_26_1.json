@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Marqués de Sade",
+    "w2": "nacido",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3864,
+    "unigram_w1": 48906,
+    "unigram_w2": 9584124,
+    "ppmi": 2.7781497746063892
+  },
+  {
+    "w1": "nacido",
+    "w2": "París",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9584124,
+    "unigram_w2": 10491248,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Marqués de Sade",
+    "w2": "París",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8010,
+    "unigram_w1": 48906,
+    "unigram_w2": 10491248,
+    "ppmi": 3.6993890963246177
+  }
+]

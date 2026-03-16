@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Justin I",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 7212,
+    "unigram_w2": 1072211,
+    "ppmi": 1.2949015401739135
+  },
+  {
+    "w1": "occupation",
+    "w2": "politician",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14407,
+    "unigram_w1": 1072211,
+    "unigram_w2": 553588,
+    "ppmi": 3.1466746895882665
+  },
+  {
+    "w1": "Justin I",
+    "w2": "politician",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43,
+    "unigram_w1": 7212,
+    "unigram_w2": 553588,
+    "ppmi": 1.9744308424275632
+  }
+]

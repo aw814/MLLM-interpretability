@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dresde",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30782,
+    "unigram_w1": 159312,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9346301724919202
+  },
+  {
+    "w1": "capital",
+    "w2": "Sajonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41086,
+    "unigram_w1": 42058182,
+    "unigram_w2": 236398,
+    "ppmi": 1.7818271931659106
+  },
+  {
+    "w1": "Dresde",
+    "w2": "Sajonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17660,
+    "unigram_w1": 159312,
+    "unigram_w2": 236398,
+    "ppmi": 8.608053394063385
+  }
+]

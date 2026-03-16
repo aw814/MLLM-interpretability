@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "synagogue",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30275,
+    "unigram_w1": 208217,
+    "unigram_w2": 2269436,
+    "ppmi": 4.547011542873414
+  },
+  {
+    "w1": "religion",
+    "w2": "Judaism",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 85450,
+    "unigram_w1": 2269436,
+    "unigram_w2": 238957,
+    "ppmi": 5.845301907516872
+  },
+  {
+    "w1": "synagogue",
+    "w2": "Judaism",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31382,
+    "unigram_w1": 208217,
+    "unigram_w2": 238957,
+    "ppmi": 7.846332750352716
+  }
+]

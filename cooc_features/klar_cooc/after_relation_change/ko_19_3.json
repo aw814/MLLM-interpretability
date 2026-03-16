@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "메흐메트 6세",
+    "w2": "태어난",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 21,
+    "unigram_w2": 157437,
+    "ppmi": 3.8235451758053833
+  },
+  {
+    "w1": "태어난",
+    "w2": "이스탄불",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 157437,
+    "unigram_w2": 17334,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "메흐메트 6세",
+    "w2": "이스탄불",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 21,
+    "unigram_w2": 17334,
+    "ppmi": 9.006643296106231
+  }
+]

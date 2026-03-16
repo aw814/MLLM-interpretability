@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "El relato de Genji",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 316,
+    "unigram_w2": 21073362,
+    "ppmi": 0.5844739819585177
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Japón",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 11877342,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "El relato de Genji",
+    "w2": "Japón",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 230,
+    "unigram_w1": 316,
+    "unigram_w2": 11877342,
+    "ppmi": 5.672210014017346
+  }
+]

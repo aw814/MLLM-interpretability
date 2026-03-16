@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "葡萄牙",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 342,
+    "unigram_w1": 181117,
+    "unigram_w2": 32140,
+    "ppmi": 1.776795332585244
+  },
+  {
+    "w1": "capital",
+    "w2": "里斯本",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 145,
+    "unigram_w1": 32140,
+    "unigram_w2": 36344,
+    "ppmi": 2.85598475894918
+  },
+  {
+    "w1": "葡萄牙",
+    "w2": "里斯本",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12141,
+    "unigram_w1": 181117,
+    "unigram_w2": 36344,
+    "ppmi": 6.749195170595639
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ホルダラン県",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 82,
+    "unigram_w1": 262,
+    "unigram_w2": 2444276,
+    "ppmi": 4.483257477295913
+  },
+  {
+    "w1": "首都",
+    "w2": "ベルゲン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 21004,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ホルダラン県",
+    "w2": "ベルゲン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 146,
+    "unigram_w1": 262,
+    "unigram_w2": 21004,
+    "ppmi": 12.17812931951959
+  }
+]

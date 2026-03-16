@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "웨일스",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1109,
+    "unigram_w1": 4435,
+    "unigram_w2": 1351571,
+    "ppmi": 1.5294345983563928
+  },
+  {
+    "w1": "수도",
+    "w2": "카디프",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 3010,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "웨일스",
+    "w2": "카디프",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 274,
+    "unigram_w1": 4435,
+    "unigram_w2": 3010,
+    "ppmi": 8.323081129574645
+  }
+]

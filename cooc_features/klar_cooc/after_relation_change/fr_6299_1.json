@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "République populaire socialiste d'Albanie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55,
+    "unigram_w1": 256,
+    "unigram_w2": 9137640,
+    "ppmi": 3.6068848386238126
+  },
+  {
+    "w1": "capitale",
+    "w2": "Tirana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 60533,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "République populaire socialiste d'Albanie",
+    "w2": "Tirana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73,
+    "unigram_w1": 256,
+    "unigram_w2": 60533,
+    "ppmi": 11.253305626451933
+  }
+]

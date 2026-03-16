@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ליובליאנה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 51,
+    "unigram_w1": 1013,
+    "unigram_w2": 90246,
+    "ppmi": 2.782640163173287
+  },
+  {
+    "w1": "בירה",
+    "w2": "סלובניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 15027,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ליובליאנה",
+    "w2": "סלובניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 516,
+    "unigram_w1": 1013,
+    "unigram_w2": 15027,
+    "ppmi": 8.707748047615727
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "克罗地亚",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3994,
+    "unigram_w1": 67769,
+    "unigram_w2": 596594,
+    "ppmi": 2.526478379392368
+  },
+  {
+    "w1": "首都",
+    "w2": "萨格勒布",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 6449,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "克罗地亚",
+    "w2": "萨格勒布",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3318,
+    "unigram_w1": 67769,
+    "unigram_w2": 6449,
+    "ppmi": 8.79048812156481
+  }
+]

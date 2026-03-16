@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "LinkedIn",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66166,
+    "unigram_w1": 2347036,
+    "unigram_w2": 14358872,
+    "ppmi": 0.708164212585053
+  },
+  {
+    "w1": "posee",
+    "w2": "Microsoft",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 7210696,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "LinkedIn",
+    "w2": "Microsoft",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 132636,
+    "unigram_w1": 2347036,
+    "unigram_w2": 7210696,
+    "ppmi": 2.705206640036266
+  }
+]

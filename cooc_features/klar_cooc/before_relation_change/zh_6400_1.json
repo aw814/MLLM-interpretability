@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "德里苏丹国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 71,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "德里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 612,
+    "unigram_w1": 32140,
+    "unigram_w2": 294472,
+    "ppmi": 1.9151221659639075
+  },
+  {
+    "w1": "德里苏丹国",
+    "w2": "德里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 71,
+    "unigram_w1": 71,
+    "unigram_w2": 294472,
+    "ppmi": 7.6298166318337115
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנקרה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 130,
+    "unigram_w1": 7520,
+    "unigram_w2": 90246,
+    "ppmi": 1.2404841464663845
+  },
+  {
+    "w1": "בירה",
+    "w2": "טורקיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 73139,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אנקרה",
+    "w2": "טורקיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4253,
+    "unigram_w1": 7520,
+    "unigram_w2": 73139,
+    "ppmi": 6.575603560056322
+  }
+]

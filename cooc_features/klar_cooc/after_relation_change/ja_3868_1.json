@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ランシング",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 454,
+    "unigram_w1": 6138,
+    "unigram_w2": 2444276,
+    "ppmi": 2.4021240310397096
+  },
+  {
+    "w1": "首都",
+    "w2": "ミシガン州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 92526,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ランシング",
+    "w2": "ミシガン州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2058,
+    "unigram_w1": 6138,
+    "unigram_w2": 92526,
+    "ppmi": 9.306007376453103
+  }
+]

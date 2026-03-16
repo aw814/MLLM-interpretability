@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Argelia francesa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1682,
+    "unigram_w1": 5396,
+    "unigram_w2": 42058182,
+    "ppmi": 2.62461359406028
+  },
+  {
+    "w1": "capital",
+    "w2": "Argel",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 63306,
+    "unigram_w1": 42058182,
+    "unigram_w2": 248660,
+    "ppmi": 2.3325659322945675
+  },
+  {
+    "w1": "Argelia francesa",
+    "w2": "Argel",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1426,
+    "unigram_w1": 5396,
+    "unigram_w2": 248660,
+    "ppmi": 9.788478098655004
+  }
+]

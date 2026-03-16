@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "West Virginia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24845,
+    "unigram_w1": 451818,
+    "unigram_w2": 7450623,
+    "ppmi": 1.4291589794461534
+  },
+  {
+    "w1": "capital",
+    "w2": "Charleston",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21326,
+    "unigram_w1": 7450623,
+    "unigram_w2": 422053,
+    "ppmi": 1.3071343986360011
+  },
+  {
+    "w1": "West Virginia",
+    "w2": "Charleston",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34558,
+    "unigram_w1": 451818,
+    "unigram_w2": 422053,
+    "ppmi": 6.0470881438152935
+  }
+]

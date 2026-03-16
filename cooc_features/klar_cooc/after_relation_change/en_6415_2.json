@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Herefordshire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1331,
+    "unigram_w1": 41284,
+    "unigram_w2": 7450623,
+    "ppmi": 0.6588729962644254
+  },
+  {
+    "w1": "capital",
+    "w2": "Hereford",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2482,
+    "unigram_w1": 7450623,
+    "unigram_w2": 69570,
+    "ppmi": 0.8049829797974525
+  },
+  {
+    "w1": "Herefordshire",
+    "w2": "Hereford",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8904,
+    "unigram_w1": 41284,
+    "unigram_w2": 69570,
+    "ppmi": 10.143567951457321
+  }
+]

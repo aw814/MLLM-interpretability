@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Stuart Mill",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6144,
+    "unigram_w1": 10914,
+    "unigram_w2": 74824954,
+    "ppmi": 1.4568569352752865
+  },
+  {
+    "w1": "work",
+    "w2": "philosophy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1371257,
+    "unigram_w1": 74824954,
+    "unigram_w2": 2867959,
+    "ppmi": 1.2212613486604222
+  },
+  {
+    "w1": "John Stuart Mill",
+    "w2": "philosophy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4014,
+    "unigram_w1": 10914,
+    "unigram_w2": 2867959,
+    "ppmi": 5.548142518013863
+  }
+]

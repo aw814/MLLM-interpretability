@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "グアテマラシティ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 992,
+    "unigram_w1": 3536,
+    "unigram_w2": 2444276,
+    "ppmi": 4.325422225210723
+  },
+  {
+    "w1": "首都",
+    "w2": "グアテマラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 81630,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "グアテマラシティ",
+    "w2": "グアテマラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2676,
+    "unigram_w1": 3536,
+    "unigram_w2": 81630,
+    "ppmi": 10.661252246897094
+  }
+]

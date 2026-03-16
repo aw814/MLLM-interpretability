@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mario Monti",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 49270,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "Italia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 18529044,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Mario Monti",
+    "w2": "Italia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36788,
+    "unigram_w1": 49270,
+    "unigram_w2": 18529044,
+    "ppmi": 5.067450052448069
+  }
+]

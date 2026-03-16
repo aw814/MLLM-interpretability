@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מרכז מקדוניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 74,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "סלוניקי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 322,
+    "unigram_w1": 14610,
+    "unigram_w2": 11116,
+    "ppmi": 4.612106849195862
+  },
+  {
+    "w1": "מרכז מקדוניה",
+    "w2": "סלוניקי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 74,
+    "unigram_w2": 11116,
+    "ppmi": 9.578830505114652
+  }
+]

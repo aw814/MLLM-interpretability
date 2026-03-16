@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨハネス・ブラームス",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 4796,
+    "unigram_w2": 139628,
+    "ppmi": 2.2311845477970706
+  },
+  {
+    "w1": "instrument",
+    "w2": "ピアノ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6744,
+    "unigram_w1": 139628,
+    "unigram_w2": 2499778,
+    "ppmi": 1.7548957635076379
+  },
+  {
+    "w1": "ヨハネス・ブラームス",
+    "w2": "ピアノ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3016,
+    "unigram_w1": 4796,
+    "unigram_w2": 2499778,
+    "ppmi": 5.457540465156277
+  }
+]

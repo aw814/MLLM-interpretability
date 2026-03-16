@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "에어버스 A350",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 276,
+    "unigram_w2": 23994,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "에어버스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 23994,
+    "unigram_w2": 5353,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "에어버스 A350",
+    "w2": "에어버스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 276,
+    "unigram_w1": 276,
+    "unigram_w2": 5353,
+    "ppmi": 11.509183270134614
+  }
+]

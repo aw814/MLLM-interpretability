@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arizona",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 222638,
+    "unigram_w1": 1944284,
+    "unigram_w2": 42058182,
+    "ppmi": 1.179859028059006
+  },
+  {
+    "w1": "capital",
+    "w2": "Phoenix",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 186282,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1728740,
+    "ppmi": 1.092165512542002
+  },
+  {
+    "w1": "Arizona",
+    "w2": "Phoenix",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 265518,
+    "unigram_w1": 1944284,
+    "unigram_w2": 1728740,
+    "ppmi": 6.038562520337271
+  }
+]

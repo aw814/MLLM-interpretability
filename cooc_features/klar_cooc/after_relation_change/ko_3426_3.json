@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "1984년",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1082,
+    "unigram_w1": 38053,
+    "unigram_w2": 250699,
+    "ppmi": 0.8234806992425513
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "1984년",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2874,
+    "unigram_w1": 38053,
+    "unigram_w2": 359114,
+    "ppmi": 1.7143546060394566
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ארנה סולברג",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 125,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "נורווגית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3084,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ארנה סולברג",
+    "w2": "נורווגית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 125,
+    "unigram_w2": 3084,
+    "ppmi": 8.16976231483786
+  }
+]

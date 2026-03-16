@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Howard Carter",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 19730,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "arqueología",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1360104,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Howard Carter",
+    "w2": "arqueología",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4160,
+    "unigram_w1": 19730,
+    "unigram_w2": 1360104,
+    "ppmi": 7.011188327783207
+  }
+]

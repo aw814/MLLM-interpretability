@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Riga",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 376564,
+    "unigram_w1": 844168,
+    "unigram_w2": 42058182,
+    "ppmi": 3.14169117792701
+  },
+  {
+    "w1": "capital",
+    "w2": "Letonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 558370,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1592626,
+    "ppmi": 2.794212057377696
+  },
+  {
+    "w1": "Riga",
+    "w2": "Letonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 388296,
+    "unigram_w1": 844168,
+    "unigram_w2": 1592626,
+    "ppmi": 7.908860009731762
+  }
+]

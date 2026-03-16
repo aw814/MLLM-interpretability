@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジョヴァンニ・ボッカッチョ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 292,
+    "unigram_w2": 3715876,
+    "ppmi": 2.5349337564259167
+  },
+  {
+    "w1": "言語",
+    "w2": "イタリア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 450190,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジョヴァンニ・ボッカッチョ",
+    "w2": "イタリア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 64,
+    "unigram_w1": 292,
+    "unigram_w2": 450190,
+    "ppmi": 6.410105198399562
+  }
+]

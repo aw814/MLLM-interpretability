@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Libya",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 61,
+    "unigram_w1": 197,
+    "unigram_w2": 7450623,
+    "ppmi": 3.922558798028128
+  },
+  {
+    "w1": "capital",
+    "w2": "Tripoli",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15430,
+    "unigram_w1": 7450623,
+    "unigram_w2": 59967,
+    "ppmi": 3.655442541669266
+  },
+  {
+    "w1": "Kingdom of Libya",
+    "w2": "Tripoli",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 99,
+    "unigram_w1": 197,
+    "unigram_w2": 59967,
+    "ppmi": 11.578226534851753
+  }
+]

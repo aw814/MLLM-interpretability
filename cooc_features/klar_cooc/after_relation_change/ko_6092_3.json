@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "탁구",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 722,
+    "unigram_w1": 16166,
+    "unigram_w2": 563145,
+    "ppmi": 0.30734818866972935
+  },
+  {
+    "w1": "위치",
+    "w2": "잉글랜드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 44567,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "탁구",
+    "w2": "잉글랜드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 337,
+    "unigram_w1": 16166,
+    "unigram_w2": 44567,
+    "ppmi": 2.867556626663705
+  }
+]

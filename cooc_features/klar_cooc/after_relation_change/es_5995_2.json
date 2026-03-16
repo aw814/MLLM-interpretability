@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Presidente de Rumania",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 2632,
+    "unigram_w2": 3205324,
+    "ppmi": 2.181788809220713
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Rumania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 1317156,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Presidente de Rumania",
+    "w2": "Rumania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2632,
+    "unigram_w1": 2632,
+    "unigram_w2": 1317156,
+    "ppmi": 9.30321459718097
+  }
+]

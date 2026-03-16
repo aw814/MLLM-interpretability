@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "惠特妮·休斯顿",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 411,
+    "unigram_w2": 1325,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "作曲家",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 1325,
+    "unigram_w2": 44036,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "惠特妮·休斯顿",
+    "w2": "作曲家",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 411,
+    "unigram_w2": 44036,
+    "ppmi": 4.495552098400644
+  }
+]

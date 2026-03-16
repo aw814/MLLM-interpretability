@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אליקנטה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 78,
+    "unigram_w1": 1134,
+    "unigram_w2": 236631,
+    "ppmi": 1.8421263801829892
+  },
+  {
+    "w1": "שפה",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אליקנטה",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 199,
+    "unigram_w1": 1134,
+    "unigram_w2": 47368,
+    "ppmi": 5.5140032051514645
+  }
+]

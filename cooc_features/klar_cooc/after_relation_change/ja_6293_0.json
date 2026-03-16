@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "クロアチア独立国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 264,
+    "unigram_w1": 686,
+    "unigram_w2": 2444276,
+    "ppmi": 4.781457827400921
+  },
+  {
+    "w1": "首都",
+    "w2": "ザグレブ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 30962,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "クロアチア独立国",
+    "w2": "ザグレブ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 174,
+    "unigram_w1": 686,
+    "unigram_w2": 30962,
+    "ppmi": 10.482771926805464
+  }
+]

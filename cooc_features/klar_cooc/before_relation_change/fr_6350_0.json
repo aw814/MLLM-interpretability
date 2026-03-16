@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "royaume de Hanovre",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42,
+    "unigram_w1": 1288,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0872549972682626
+  },
+  {
+    "w1": "capital",
+    "w2": "Hanovre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6745,
+    "unigram_w1": 7952962,
+    "unigram_w2": 188178,
+    "ppmi": 1.2237187343985325
+  },
+  {
+    "w1": "royaume de Hanovre",
+    "w2": "Hanovre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1288,
+    "unigram_w1": 1288,
+    "unigram_w2": 188178,
+    "ppmi": 11.427176853497357
+  }
+]

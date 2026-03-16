@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "拉齐奥",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 535,
+    "unigram_w1": 18603,
+    "unigram_w2": 596594,
+    "ppmi": 1.4913450311062495
+  },
+  {
+    "w1": "首都",
+    "w2": "罗马",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 290758,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "拉齐奥",
+    "w2": "罗马",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5223,
+    "unigram_w1": 18603,
+    "unigram_w2": 290758,
+    "ppmi": 5.815543519646465
+  }
+]

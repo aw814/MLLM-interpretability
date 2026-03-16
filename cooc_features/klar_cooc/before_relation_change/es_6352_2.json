@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dakota del Sur",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11872,
+    "unigram_w1": 88690,
+    "unigram_w2": 42058182,
+    "ppmi": 1.405117787288431
+  },
+  {
+    "w1": "capital",
+    "w2": "Pierre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 347698,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2727044,
+    "ppmi": 1.3348949325298631
+  },
+  {
+    "w1": "Dakota del Sur",
+    "w2": "Pierre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2348,
+    "unigram_w1": 88690,
+    "unigram_w2": 2727044,
+    "ppmi": 3.014035710512781
+  }
+]

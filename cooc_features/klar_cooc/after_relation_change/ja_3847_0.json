@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カラカス",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4996,
+    "unigram_w1": 13836,
+    "unigram_w2": 2444276,
+    "ppmi": 4.6895469374503085
+  },
+  {
+    "w1": "首都",
+    "w2": "ベネズエラ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 243132,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "カラカス",
+    "w2": "ベネズエラ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9598,
+    "unigram_w1": 13836,
+    "unigram_w2": 243132,
+    "ppmi": 8.9611027801616
+  }
+]

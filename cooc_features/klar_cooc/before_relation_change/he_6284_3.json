@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נור-פה דה קאלה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 95,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "ליל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 93,
+    "unigram_w1": 14610,
+    "unigram_w2": 108551,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "נור-פה דה קאלה",
+    "w2": "ליל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 95,
+    "unigram_w2": 108551,
+    "ppmi": 4.958779266850376
+  }
+]

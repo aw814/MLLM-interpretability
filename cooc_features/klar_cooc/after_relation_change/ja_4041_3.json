@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リチャード・アークライト",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 236,
+    "unigram_w2": 4020810,
+    "ppmi": 0.8803345543002771
+  },
+  {
+    "w1": "話した",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "リチャード・アークライト",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 90,
+    "unigram_w1": 236,
+    "unigram_w2": 8357100,
+    "ppmi": 2.994743321078199
+  }
+]

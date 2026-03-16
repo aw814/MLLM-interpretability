@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gobernación de la campiña de Damasco",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 76,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3803268181971804
+  },
+  {
+    "w1": "capital",
+    "w2": "Damasco",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 157002,
+    "unigram_w1": 42058182,
+    "unigram_w2": 725006,
+    "ppmi": 2.09911623941069
+  },
+  {
+    "w1": "Gobernación de la campiña de Damasco",
+    "w2": "Damasco",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 76,
+    "unigram_w1": 76,
+    "unigram_w2": 725006,
+    "ppmi": 10.164575981625692
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lou Reed",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 47256,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Brooklyn",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 627224,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lou Reed",
+    "w2": "Brooklyn",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1717,
+    "unigram_w1": 47256,
+    "unigram_w2": 627224,
+    "ppmi": 4.907758488916879
+  }
+]

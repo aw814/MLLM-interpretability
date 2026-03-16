@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아프가니스탄 인민민주당",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 563145,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "위치",
+    "w2": "카불",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 1125,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아프가니스탄 인민민주당",
+    "w2": "카불",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 3,
+    "unigram_w2": 1125,
+    "ppmi": 13.759605921345209
+  }
+]

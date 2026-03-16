@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "FC Dinamo de Kiev",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 672,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Kiev",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1749200,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "FC Dinamo de Kiev",
+    "w2": "Kiev",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 672,
+    "unigram_w1": 672,
+    "unigram_w2": 1749200,
+    "ppmi": 8.893945567829906
+  }
+]

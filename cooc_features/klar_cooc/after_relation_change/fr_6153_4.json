@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nebraska",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10698,
+    "unigram_w1": 145703,
+    "unigram_w2": 9137640,
+    "ppmi": 2.0579075564546248
+  },
+  {
+    "w1": "capitale",
+    "w2": "Lincoln",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 542893,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nebraska",
+    "w2": "Lincoln",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18873,
+    "unigram_w1": 145703,
+    "unigram_w2": 542893,
+    "ppmi": 6.949972033607055
+  }
+]

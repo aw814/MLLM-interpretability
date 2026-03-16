@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הארגון לביטחון ולשיתוף פעולה באירופה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16,
+    "unigram_w1": 314,
+    "unigram_w2": 236631,
+    "ppmi": 1.4093083373713426
+  },
+  {
+    "w1": "שפה",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הארגון לביטחון ולשיתוף פעולה באירופה",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 314,
+    "unigram_w2": 47368,
+    "ppmi": 1.7299627606584171
+  }
+]

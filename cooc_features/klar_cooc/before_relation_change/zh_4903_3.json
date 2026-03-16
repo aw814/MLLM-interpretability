@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "列夫·托尔斯泰",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2029,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "列夫·托尔斯泰",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 57,
+    "unigram_w1": 2029,
+    "unigram_w2": 46749,
+    "ppmi": 5.13127654752883
+  }
+]

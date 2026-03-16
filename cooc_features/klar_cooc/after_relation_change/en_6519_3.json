@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "London Stock Exchange",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2841,
+    "unigram_w1": 49241,
+    "unigram_w2": 14590058,
+    "ppmi": 0.5289313071663723
+  },
+  {
+    "w1": "location",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 563269,
+    "unigram_w1": 14590058,
+    "unigram_w2": 8112147,
+    "ppmi": 0.7961328145808008
+  },
+  {
+    "w1": "London Stock Exchange",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 49241,
+    "unigram_w1": 49241,
+    "unigram_w2": 8112147,
+    "ppmi": 5.49115054899821
+  }
+]

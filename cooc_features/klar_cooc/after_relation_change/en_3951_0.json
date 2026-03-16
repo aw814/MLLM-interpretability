@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Arlon",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 234,
+    "unigram_w1": 2899,
+    "unigram_w2": 7450623,
+    "ppmi": 1.9828983814436254
+  },
+  {
+    "w1": "capital",
+    "w2": "Luxembourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 36575,
+    "unigram_w1": 7450623,
+    "unigram_w2": 294043,
+    "ppmi": 2.60677590334807
+  },
+  {
+    "w1": "Arlon",
+    "w2": "Luxembourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 498,
+    "unigram_w1": 2899,
+    "unigram_w2": 294043,
+    "ppmi": 7.735797607458894
+  }
+]

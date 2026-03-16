@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "University of Washington",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12503,
+    "unigram_w1": 180954,
+    "unigram_w2": 14590058,
+    "ppmi": 0.7890438376362638
+  },
+  {
+    "w1": "location",
+    "w2": "Seattle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 129481,
+    "unigram_w1": 14590058,
+    "unigram_w2": 1557440,
+    "ppmi": 1.0559563644112457
+  },
+  {
+    "w1": "University of Washington",
+    "w2": "Seattle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74745,
+    "unigram_w1": 180954,
+    "unigram_w2": 1557440,
+    "ppmi": 6.596483740697216
+  }
+]

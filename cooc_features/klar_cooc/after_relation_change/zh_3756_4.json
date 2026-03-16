@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴塞罗那",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3827,
+    "unigram_w1": 129025,
+    "unigram_w2": 596594,
+    "ppmi": 1.5359047052952213
+  },
+  {
+    "w1": "首都",
+    "w2": "加泰罗尼亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 16299,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴塞罗那",
+    "w2": "加泰罗尼亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4847,
+    "unigram_w1": 129025,
+    "unigram_w2": 16299,
+    "ppmi": 7.070676997268589
+  }
+]

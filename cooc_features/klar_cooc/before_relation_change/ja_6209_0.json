@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "中華民国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 474,
+    "unigram_w1": 90282,
+    "unigram_w2": 498928,
+    "ppmi": 0.8782246226557571
+  },
+  {
+    "w1": "capital",
+    "w2": "台北市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1870,
+    "unigram_w1": 498928,
+    "unigram_w2": 155338,
+    "ppmi": 2.0754034160013286
+  },
+  {
+    "w1": "中華民国",
+    "w2": "台北市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8130,
+    "unigram_w1": 90282,
+    "unigram_w2": 155338,
+    "ppmi": 6.661941850571578
+  }
+]

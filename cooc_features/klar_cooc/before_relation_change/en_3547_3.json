@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cameroon",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12712,
+    "unigram_w1": 149532,
+    "unigram_w2": 965266,
+    "ppmi": 5.006044555639522
+  },
+  {
+    "w1": "continent",
+    "w2": "Africa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 292464,
+    "unigram_w1": 965266,
+    "unigram_w2": 4630900,
+    "ppmi": 4.57727422909695
+  },
+  {
+    "w1": "Cameroon",
+    "w2": "Africa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 67261,
+    "unigram_w1": 149532,
+    "unigram_w2": 4630900,
+    "ppmi": 5.147329618575173
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "일본",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 162310,
+    "unigram_w1": 1153645,
+    "unigram_w2": 1351571,
+    "ppmi": 0.699733784574281
+  },
+  {
+    "w1": "수도",
+    "w2": "도쿄도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 9879,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "일본",
+    "w2": "도쿄도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6798,
+    "unigram_w1": 1153645,
+    "unigram_w2": 9879,
+    "ppmi": 3.2182926416444593
+  }
+]

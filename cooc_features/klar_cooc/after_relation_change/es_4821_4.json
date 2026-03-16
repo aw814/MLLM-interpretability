@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Estadio Giuseppe Meazza",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 356,
+    "unigram_w1": 10376,
+    "unigram_w2": 14358872,
+    "ppmi": 0.991540974384949
+  },
+  {
+    "w1": "posee",
+    "w2": "Milán",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 2637848,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Estadio Giuseppe Meazza",
+    "w2": "Milán",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7960,
+    "unigram_w1": 10376,
+    "unigram_w2": 2637848,
+    "ppmi": 7.918869337581588
+  }
+]

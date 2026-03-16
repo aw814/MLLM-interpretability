@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows 10",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7991,
+    "unigram_w1": 1215741,
+    "unigram_w2": 364637,
+    "ppmi": 3.22356972318548
+  },
+  {
+    "w1": "developer",
+    "w2": "Microsoft",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61722,
+    "unigram_w1": 364637,
+    "unigram_w2": 4779618,
+    "ppmi": 4.197847167239697
+  },
+  {
+    "w1": "Windows 10",
+    "w2": "Microsoft",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 461094,
+    "unigram_w1": 1215741,
+    "unigram_w2": 4779618,
+    "ppmi": 5.3617482978620625
+  }
+]

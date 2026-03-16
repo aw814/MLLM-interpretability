@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "알랭 로베르",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 42,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "프랑스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 373066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "알랭 로베르",
+    "w2": "프랑스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 42,
+    "unigram_w2": 373066,
+    "ppmi": 4.517488382594474
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "瓦隆",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 9180,
+    "unigram_w2": 1361,
+    "ppmi": 4.222857777748279
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "瓦隆",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 806,
+    "unigram_w1": 9180,
+    "unigram_w2": 1834429,
+    "ppmi": 1.4810455210623812
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ガマール・アブドゥル＝ナーセル",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 44,
+    "unigram_w1": 288,
+    "unigram_w2": 620194,
+    "ppmi": 5.427250816443046
+  },
+  {
+    "w1": "死亡した",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 321728,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ガマール・アブドゥル＝ナーセル",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 288,
+    "unigram_w2": 321728,
+    "ppmi": 7.558553457142308
+  }
+]

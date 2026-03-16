@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alan Turing",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10003,
+    "unigram_w1": 17906,
+    "unigram_w2": 74824954,
+    "ppmi": 1.4457764151409522
+  },
+  {
+    "w1": "work",
+    "w2": "logic",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 868312,
+    "unigram_w1": 74824954,
+    "unigram_w2": 1832614,
+    "ppmi": 1.2081692441790666
+  },
+  {
+    "w1": "Alan Turing",
+    "w2": "logic",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1863,
+    "unigram_w1": 17906,
+    "unigram_w2": 1832614,
+    "ppmi": 4.372587886853404
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Antisthenes",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 172,
+    "unigram_w1": 691,
+    "unigram_w2": 5281801,
+    "ppmi": 4.103927252160748
+  },
+  {
+    "w1": "died",
+    "w2": "Athens",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32459,
+    "unigram_w1": 5281801,
+    "unigram_w2": 528190,
+    "ppmi": 2.0858378690194956
+  },
+  {
+    "w1": "Antisthenes",
+    "w2": "Athens",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 327,
+    "unigram_w1": 691,
+    "unigram_w2": 528190,
+    "ppmi": 8.35271037678925
+  }
+]

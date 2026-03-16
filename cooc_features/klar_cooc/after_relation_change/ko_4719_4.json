@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "앙리 3세",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 71,
+    "unigram_w2": 15811,
+    "ppmi": 4.796927091526721
+  },
+  {
+    "w1": "religion",
+    "w2": "가톨릭주의",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 15811,
+    "unigram_w2": 72,
+    "ppmi": 7.77674920958909
+  },
+  {
+    "w1": "앙리 3세",
+    "w2": "가톨릭주의",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 71,
+    "unigram_w2": 72,
+    "ppmi": 0.0
+  }
+]

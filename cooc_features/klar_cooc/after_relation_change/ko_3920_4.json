@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "바마코",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 234,
+    "unigram_w2": 1351571,
+    "ppmi": 1.9806727126870671
+  },
+  {
+    "w1": "수도",
+    "w2": "말리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 10873,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "바마코",
+    "w2": "말리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 131,
+    "unigram_w1": 234,
+    "unigram_w2": 10873,
+    "ppmi": 9.649911056519278
+  }
+]

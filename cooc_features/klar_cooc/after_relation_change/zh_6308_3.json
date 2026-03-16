@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "中马其顿",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17,
+    "unigram_w1": 121,
+    "unigram_w2": 596594,
+    "ppmi": 3.779797228661245
+  },
+  {
+    "w1": "首都",
+    "w2": "塞萨洛尼基",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 2594,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "中马其顿",
+    "w2": "塞萨洛尼基",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 121,
+    "unigram_w2": 2594,
+    "ppmi": 10.53776156602715
+  }
+]

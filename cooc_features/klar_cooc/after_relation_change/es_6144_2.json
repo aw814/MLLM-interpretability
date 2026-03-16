@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Universidad Brown",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 336,
+    "unigram_w1": 9724,
+    "unigram_w2": 21073362,
+    "ppmi": 0.4482754741644959
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Providence",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 202122,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Universidad Brown",
+    "w2": "Providence",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1780,
+    "unigram_w1": 9724,
+    "unigram_w2": 202122,
+    "ppmi": 9.557669903447438
+  }
+]

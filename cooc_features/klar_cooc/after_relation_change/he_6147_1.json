@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "WWE",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90,
+    "unigram_w1": 3169,
+    "unigram_w2": 286432,
+    "ppmi": 0.2904166469091276
+  },
+  {
+    "w1": "מיקום",
+    "w2": "סטמפורד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 1409,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "WWE",
+    "w2": "סטמפורד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 3169,
+    "unigram_w2": 1409,
+    "ppmi": 4.050903308001954
+  }
+]

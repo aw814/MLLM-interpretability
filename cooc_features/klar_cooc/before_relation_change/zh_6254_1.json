@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "利比亚",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 139,
+    "unigram_w1": 58599,
+    "unigram_w2": 32140,
+    "ppmi": 2.105857907096887
+  },
+  {
+    "w1": "capital",
+    "w2": "的黎波里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 32140,
+    "unigram_w2": 3620,
+    "ppmi": 2.1736562784627327
+  },
+  {
+    "w1": "利比亚",
+    "w2": "的黎波里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2125,
+    "unigram_w1": 58599,
+    "unigram_w2": 3620,
+    "ppmi": 9.190472286877695
+  }
+]

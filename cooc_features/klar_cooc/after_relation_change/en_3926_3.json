@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Harrisburg",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11452,
+    "unigram_w1": 133301,
+    "unigram_w2": 7450623,
+    "ppmi": 2.0728571571793326
+  },
+  {
+    "w1": "capital",
+    "w2": "Pennsylvania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 110230,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1797266,
+    "ppmi": 1.5866581564553075
+  },
+  {
+    "w1": "Harrisburg",
+    "w2": "Pennsylvania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 57032,
+    "unigram_w1": 133301,
+    "unigram_w2": 1797266,
+    "ppmi": 6.440586325258576
+  }
+]

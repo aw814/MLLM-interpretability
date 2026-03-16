@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "我が黄金のベンガルよ",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 54,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "ベンガル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 15426,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "我が黄金のベンガルよ",
+    "w2": "ベンガル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 54,
+    "unigram_w2": 15426,
+    "ppmi": 12.799603186037322
+  }
+]

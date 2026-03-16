@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pakistan",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 82805,
+    "unigram_w1": 1281861,
+    "unigram_w2": 12749290,
+    "ppmi": 1.392623593154528
+  },
+  {
+    "w1": "langue",
+    "w2": "ourdou",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 28395,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pakistan",
+    "w2": "ourdou",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7200,
+    "unigram_w1": 1281861,
+    "unigram_w2": 28395,
+    "ppmi": 6.679538799896479
+  }
+]

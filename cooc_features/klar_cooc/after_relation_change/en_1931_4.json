@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Archimedes",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11470,
+    "unigram_w1": 24622,
+    "unigram_w2": 74824954,
+    "ppmi": 1.1837042002204827
+  },
+  {
+    "w1": "work",
+    "w2": "geometry",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 285345,
+    "unigram_w1": 74824954,
+    "unigram_w2": 682452,
+    "ppmi": 1.0277664681274763
+  },
+  {
+    "w1": "Archimedes",
+    "w2": "geometry",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2277,
+    "unigram_w1": 24622,
+    "unigram_w2": 682452,
+    "ppmi": 5.627693103831565
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "上加龙省",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 62,
+    "unigram_w2": 596594,
+    "ppmi": 0.6570013142986248
+  },
+  {
+    "w1": "首都",
+    "w2": "图卢兹",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 9132,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "上加龙省",
+    "w2": "图卢兹",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 62,
+    "unigram_w2": 9132,
+    "ppmi": 11.441563615105336
+  }
+]

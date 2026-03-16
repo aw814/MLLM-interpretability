@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guinée équatoriale",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22727,
+    "unigram_w1": 238017,
+    "unigram_w2": 3399010,
+    "ppmi": 3.863646668178849
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Guinée équatoriale",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 157214,
+    "unigram_w1": 238017,
+    "unigram_w2": 8624942,
+    "ppmi": 5.31049705173818
+  }
+]

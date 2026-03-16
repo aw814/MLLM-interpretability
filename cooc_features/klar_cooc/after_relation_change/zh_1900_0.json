@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "皮埃尔·居里",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 77,
+    "unigram_w2": 12146148,
+    "ppmi": 0.9036961047053383
+  },
+  {
+    "w1": "工作",
+    "w2": "物理学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 82863,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "皮埃尔·居里",
+    "w2": "物理学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 77,
+    "unigram_w2": 82863,
+    "ppmi": 7.715922550285602
+  }
+]

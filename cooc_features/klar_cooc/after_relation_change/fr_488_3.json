@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vatican",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100754,
+    "unigram_w1": 1172689,
+    "unigram_w2": 12749290,
+    "ppmi": 1.8040902919088273
+  },
+  {
+    "w1": "langue",
+    "w2": "italien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5551452,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Vatican",
+    "w2": "italien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 98522,
+    "unigram_w1": 1172689,
+    "unigram_w2": 5551452,
+    "ppmi": 2.971250835191728
+  }
+]

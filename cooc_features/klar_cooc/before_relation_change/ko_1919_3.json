@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "엘리너 오스트롬",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 103,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "경제학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 39717,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "엘리너 오스트롬",
+    "w2": "경제학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31,
+    "unigram_w1": 103,
+    "unigram_w2": 39717,
+    "ppmi": 6.885541957234966
+  }
+]

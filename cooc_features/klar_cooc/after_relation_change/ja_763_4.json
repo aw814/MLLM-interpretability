@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "グアム",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17936,
+    "unigram_w1": 527028,
+    "unigram_w2": 3715876,
+    "ppmi": 0.6778837906770357
+  },
+  {
+    "w1": "言語",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "グアム",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 75566,
+    "unigram_w1": 527028,
+    "unigram_w2": 8357100,
+    "ppmi": 1.5834628250661715
+  }
+]

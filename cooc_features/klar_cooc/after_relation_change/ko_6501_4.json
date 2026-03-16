@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "프랑크푸르트 학파",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 147,
+    "unigram_w2": 563145,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "위치",
+    "w2": "프랑크푸르트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 23043,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "프랑크푸르트 학파",
+    "w2": "프랑크푸르트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 147,
+    "unigram_w1": 147,
+    "unigram_w2": 23043,
+    "ppmi": 9.403274272431966
+  }
+]

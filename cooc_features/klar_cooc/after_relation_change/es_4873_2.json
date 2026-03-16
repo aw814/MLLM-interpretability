@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Audrey Tautou",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 918,
+    "unigram_w1": 22350,
+    "unigram_w2": 12196104,
+    "ppmi": 1.4866555011046865
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Audrey Tautou",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5556,
+    "unigram_w1": 22350,
+    "unigram_w2": 16087876,
+    "ppmi": 3.684582532512665
+  }
+]

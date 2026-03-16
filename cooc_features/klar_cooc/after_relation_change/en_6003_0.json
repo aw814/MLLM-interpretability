@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Lithuania",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 89,
+    "unigram_w2": 1074632,
+    "ppmi": 2.931658209804017
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Lithuania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3983,
+    "unigram_w1": 1074632,
+    "unigram_w2": 289599,
+    "ppmi": 2.223334309967042
+  },
+  {
+    "w1": "flag of Lithuania",
+    "w2": "Lithuania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 89,
+    "unigram_w1": 89,
+    "unigram_w2": 289599,
+    "ppmi": 10.29910581877141
+  }
+]

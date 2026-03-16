@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rococó",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41360,
+    "unigram_w1": 158180,
+    "unigram_w2": 128711420,
+    "ppmi": 0.7573854595817961
+  },
+  {
+    "w1": "trabajo",
+    "w2": "arquitectura",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 11447178,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Rococó",
+    "w2": "arquitectura",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32218,
+    "unigram_w1": 158180,
+    "unigram_w2": 11447178,
+    "ppmi": 3.8880923868401913
+  }
+]

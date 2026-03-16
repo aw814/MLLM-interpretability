@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "俄罗斯总统",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 58374,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "俄罗斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1218525,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "俄罗斯总统",
+    "w2": "俄罗斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58374,
+    "unigram_w1": 58374,
+    "unigram_w2": 1218525,
+    "ppmi": 5.580883147655477
+  }
+]

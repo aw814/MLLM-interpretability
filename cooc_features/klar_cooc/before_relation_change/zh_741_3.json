@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "敖德萨州",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 308,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "乌克兰语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 2695,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "敖德萨州",
+    "w2": "乌克兰语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 308,
+    "unigram_w2": 2695,
+    "ppmi": 11.17912558857713
+  }
+]

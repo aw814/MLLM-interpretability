@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "艾伯塔省",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66,
+    "unigram_w1": 1015,
+    "unigram_w2": 596594,
+    "ppmi": 2.668327731971415
+  },
+  {
+    "w1": "首都",
+    "w2": "埃德蒙顿",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 4181,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "艾伯塔省",
+    "w2": "埃德蒙顿",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 1015,
+    "unigram_w2": 4181,
+    "ppmi": 10.769375914208934
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "モスクワ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 53662,
+    "unigram_w1": 349708,
+    "unigram_w2": 2444276,
+    "ppmi": 3.4549504048025264
+  },
+  {
+    "w1": "首都",
+    "w2": "ロシア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 2667966,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "モスクワ",
+    "w2": "ロシア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 219888,
+    "unigram_w1": 349708,
+    "unigram_w2": 2667966,
+    "ppmi": 5.363413465913214
+  }
+]

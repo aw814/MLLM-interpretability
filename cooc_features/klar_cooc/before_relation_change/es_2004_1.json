@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Howard Phillips Lovecraft",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 14760,
+    "unigram_w2": 77008,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "periodista",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3620,
+    "unigram_w1": 77008,
+    "unigram_w2": 11956906,
+    "ppmi": 1.7099218781618546
+  },
+  {
+    "w1": "Howard Phillips Lovecraft",
+    "w2": "periodista",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1046,
+    "unigram_w1": 14760,
+    "unigram_w2": 11956906,
+    "ppmi": 2.3021306394553425
+  }
+]

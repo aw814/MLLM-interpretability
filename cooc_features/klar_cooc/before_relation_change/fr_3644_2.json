@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maurice",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 107399,
+    "unigram_w1": 4610772,
+    "unigram_w2": 3399010,
+    "ppmi": 1.8282762622496778
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Maurice",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 450357,
+    "unigram_w1": 4610772,
+    "unigram_w2": 8624942,
+    "ppmi": 2.552964638849875
+  }
+]

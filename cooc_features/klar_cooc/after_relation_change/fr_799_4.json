@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Îles Canaries",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9184,
+    "unigram_w1": 133498,
+    "unigram_w2": 12749290,
+    "ppmi": 1.4834500526887375
+  },
+  {
+    "w1": "langue",
+    "w2": "espagnol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5009550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Îles Canaries",
+    "w2": "espagnol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17747,
+    "unigram_w1": 133498,
+    "unigram_w2": 5009550,
+    "ppmi": 3.7814946609989426
+  }
+]

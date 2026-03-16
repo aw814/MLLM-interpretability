@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República romana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12572,
+    "unigram_w1": 49570,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3270731551944657
+  },
+  {
+    "w1": "capital",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1599228,
+    "unigram_w1": 42058182,
+    "unigram_w2": 9484296,
+    "ppmi": 1.7381611842278224
+  },
+  {
+    "w1": "República romana",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31012,
+    "unigram_w1": 49570,
+    "unigram_w2": 9484296,
+    "ppmi": 5.778459443295021
+  }
+]

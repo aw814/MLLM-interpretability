@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "卡洛斯·富恩特斯",
+    "w2": "说话",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 148,
+    "unigram_w2": 712969,
+    "ppmi": 0.14465437805350767
+  },
+  {
+    "w1": "说话",
+    "w2": "西班牙语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 712969,
+    "unigram_w2": 39081,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "卡洛斯·富恩特斯",
+    "w2": "西班牙语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 148,
+    "unigram_w2": 39081,
+    "ppmi": 10.08884194125005
+  }
+]

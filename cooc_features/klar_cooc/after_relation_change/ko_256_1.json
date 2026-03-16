@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "라자스탄주",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 89,
+    "unigram_w2": 250699,
+    "ppmi": 1.068947561274275
+  },
+  {
+    "w1": "언어",
+    "w2": "힌디어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 4546,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "라자스탄주",
+    "w2": "힌디어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 89,
+    "unigram_w2": 4546,
+    "ppmi": 6.269199807665363
+  }
+]

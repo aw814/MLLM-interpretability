@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジャマイカ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1002,
+    "unigram_w1": 143584,
+    "unigram_w2": 498928,
+    "ppmi": 1.288763456458814
+  },
+  {
+    "w1": "capital",
+    "w2": "キングストン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 934,
+    "unigram_w1": 498928,
+    "unigram_w2": 63640,
+    "ppmi": 2.3612646564312025
+  },
+  {
+    "w1": "ジャマイカ",
+    "w2": "キングストン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6584,
+    "unigram_w1": 143584,
+    "unigram_w2": 63640,
+    "ppmi": 6.975671179032133
+  }
+]

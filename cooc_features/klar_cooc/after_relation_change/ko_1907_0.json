@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "레드 제플린",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31,
+    "unigram_w1": 609,
+    "unigram_w2": 255115,
+    "ppmi": 1.638424897899858
+  },
+  {
+    "w1": "작업",
+    "w2": "음악가",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 14375,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "레드 제플린",
+    "w2": "음악가",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 609,
+    "unigram_w2": 14375,
+    "ppmi": 5.641097375994417
+  }
+]

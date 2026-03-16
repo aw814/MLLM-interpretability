@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tennessee",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18335,
+    "unigram_w1": 293726,
+    "unigram_w2": 9137640,
+    "ppmi": 1.823726320653565
+  },
+  {
+    "w1": "capitale",
+    "w2": "Nashville",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 220796,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Tennessee",
+    "w2": "Nashville",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38419,
+    "unigram_w1": 293726,
+    "unigram_w2": 220796,
+    "ppmi": 8.261981686395986
+  }
+]

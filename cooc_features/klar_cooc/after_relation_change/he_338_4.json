@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ליטא",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1299,
+    "unigram_w1": 22276,
+    "unigram_w2": 236631,
+    "ppmi": 1.603912224413839
+  },
+  {
+    "w1": "שפה",
+    "w2": "ליטאית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 6279,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ליטא",
+    "w2": "ליטאית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 939,
+    "unigram_w1": 22276,
+    "unigram_w2": 6279,
+    "ppmi": 6.371668321352566
+  }
+]

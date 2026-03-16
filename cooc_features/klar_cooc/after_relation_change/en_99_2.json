@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ulrika Eleonora, Queen of Sweden",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 7,
+    "unigram_w2": 5281801,
+    "ppmi": 3.3028494757893045
+  },
+  {
+    "w1": "died",
+    "w2": "Stockholm",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17281,
+    "unigram_w1": 5281801,
+    "unigram_w2": 395389,
+    "ppmi": 1.5941902725066397
+  },
+  {
+    "w1": "Ulrika Eleonora, Queen of Sweden",
+    "w2": "Stockholm",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 7,
+    "unigram_w2": 395389,
+    "ppmi": 8.042534782609602
+  }
+]

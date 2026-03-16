@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドミニカ共和国",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5838,
+    "unigram_w1": 62316,
+    "unigram_w2": 3715876,
+    "ppmi": 2.1387767985569384
+  },
+  {
+    "w1": "言語",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 570272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドミニカ共和国",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6194,
+    "unigram_w1": 62316,
+    "unigram_w2": 570272,
+    "ppmi": 4.92815422591552
+  }
+]

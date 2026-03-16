@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vilnius",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10679,
+    "unigram_w1": 58304,
+    "unigram_w2": 7450623,
+    "ppmi": 3.1650549725646138
+  },
+  {
+    "w1": "capital",
+    "w2": "Lithuania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27272,
+    "unigram_w1": 7450623,
+    "unigram_w2": 289599,
+    "ppmi": 2.2053090688940062
+  },
+  {
+    "w1": "Vilnius",
+    "w2": "Lithuania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 34128,
+    "unigram_w1": 58304,
+    "unigram_w2": 289599,
+    "ppmi": 9.526466825309932
+  }
+]

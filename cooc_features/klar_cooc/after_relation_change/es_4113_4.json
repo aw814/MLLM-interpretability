@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Albert Camus",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5750,
+    "unigram_w1": 146950,
+    "unigram_w2": 8126762,
+    "ppmi": 2.0023405844794495
+  },
+  {
+    "w1": "habló",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Albert Camus",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32434,
+    "unigram_w1": 146950,
+    "unigram_w2": 16087876,
+    "ppmi": 3.512992364167492
+  }
+]

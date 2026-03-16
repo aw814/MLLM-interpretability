@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Henri de Saint-Simon",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 106,
+    "unigram_w1": 2806,
+    "unigram_w2": 8126762,
+    "ppmi": 1.9515813381297071
+  },
+  {
+    "w1": "habló",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Henri de Saint-Simon",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 988,
+    "unigram_w1": 2806,
+    "unigram_w2": 16087876,
+    "ppmi": 4.186806797454094
+  }
+]

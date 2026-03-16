@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chancellor of Germany",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 104,
+    "unigram_w1": 6664,
+    "unigram_w2": 1074632,
+    "ppmi": 2.405658673545959
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Germany",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40955,
+    "unigram_w1": 1074632,
+    "unigram_w2": 4308131,
+    "ppmi": 1.6905129258811096
+  },
+  {
+    "w1": "Chancellor of Germany",
+    "w2": "Germany",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6664,
+    "unigram_w1": 6664,
+    "unigram_w2": 4308131,
+    "ppmi": 6.404172225146575
+  }
+]

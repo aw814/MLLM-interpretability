@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "玛格丽特二世",
+    "w2": "说话",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 320,
+    "unigram_w2": 712969,
+    "ppmi": 1.4916112674323925
+  },
+  {
+    "w1": "说话",
+    "w2": "瑞典语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 712969,
+    "unigram_w2": 8058,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "玛格丽特二世",
+    "w2": "瑞典语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 320,
+    "unigram_w2": 8058,
+    "ppmi": 4.499453382517483
+  }
+]

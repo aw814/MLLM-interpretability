@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google Traduction",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 341,
+    "unigram_w1": 131184,
+    "unigram_w2": 364637,
+    "ppmi": 1.8852095486888891
+  },
+  {
+    "w1": "developer",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 63723,
+    "unigram_w1": 364637,
+    "unigram_w2": 13685522,
+    "ppmi": 2.7261933052611136
+  },
+  {
+    "w1": "Google Traduction",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 131184,
+    "unigram_w1": 131184,
+    "unigram_w2": 13685522,
+    "ppmi": 5.242768171581504
+  }
+]

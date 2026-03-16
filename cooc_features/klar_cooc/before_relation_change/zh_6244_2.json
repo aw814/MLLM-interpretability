@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西澳大利亚州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 1465,
+    "unigram_w2": 32140,
+    "ppmi": 4.47874531112369
+  },
+  {
+    "w1": "capital",
+    "w2": "珀斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 70,
+    "unigram_w1": 32140,
+    "unigram_w2": 15603,
+    "ppmi": 3.0252524526185978
+  },
+  {
+    "w1": "西澳大利亚州",
+    "w2": "珀斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 449,
+    "unigram_w1": 1465,
+    "unigram_w2": 15603,
+    "ppmi": 10.161938429667625
+  }
+]

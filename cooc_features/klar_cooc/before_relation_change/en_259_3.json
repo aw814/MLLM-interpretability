@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Majorca",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 32163,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "Catalan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 137019,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Majorca",
+    "w2": "Catalan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1332,
+    "unigram_w1": 32163,
+    "unigram_w2": 137019,
+    "ppmi": 6.78505048591571
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アテネ公国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 120,
+    "unigram_w2": 498928,
+    "ppmi": 3.5447415363314323
+  },
+  {
+    "w1": "capital",
+    "w2": "アテネ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1746,
+    "unigram_w1": 498928,
+    "unigram_w2": 187888,
+    "ppmi": 1.701956573242784
+  },
+  {
+    "w1": "アテネ公国",
+    "w2": "アテネ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 120,
+    "unigram_w1": 120,
+    "unigram_w2": 187888,
+    "ppmi": 9.860590840178656
+  }
+]

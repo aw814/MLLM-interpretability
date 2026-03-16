@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Christina Rossetti",
+    "w2": "né",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 175,
+    "unigram_w1": 1124,
+    "unigram_w2": 9980164,
+    "ppmi": 3.015067998844158
+  },
+  {
+    "w1": "né",
+    "w2": "Londres",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9980164,
+    "unigram_w2": 6755180,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Christina Rossetti",
+    "w2": "Londres",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 212,
+    "unigram_w1": 1124,
+    "unigram_w2": 6755180,
+    "ppmi": 3.854846652126732
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Carlos VI de Francia",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 40,
+    "unigram_w1": 2302,
+    "unigram_w2": 9533866,
+    "ppmi": 0.600835449874516
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Francia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 21970124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Carlos VI de Francia",
+    "w2": "Francia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2302,
+    "unigram_w1": 2302,
+    "unigram_w2": 21970124,
+    "ppmi": 5.2431697140786
+  }
+]

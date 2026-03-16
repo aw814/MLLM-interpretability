@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "fascisme italien",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 8336,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Italie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 7455944,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "fascisme italien",
+    "w2": "Italie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3047,
+    "unigram_w1": 8336,
+    "unigram_w2": 7455944,
+    "ppmi": 4.666989928363243
+  }
+]

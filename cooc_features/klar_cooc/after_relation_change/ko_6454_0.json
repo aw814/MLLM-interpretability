@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "바이마르 공화국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 231,
+    "unigram_w1": 707,
+    "unigram_w2": 1351571,
+    "ppmi": 1.915291973989768
+  },
+  {
+    "w1": "수도",
+    "w2": "베를린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 52811,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "바이마르 공화국",
+    "w2": "베를린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 191,
+    "unigram_w1": 707,
+    "unigram_w2": 52811,
+    "ppmi": 6.3186267913800656
+  }
+]

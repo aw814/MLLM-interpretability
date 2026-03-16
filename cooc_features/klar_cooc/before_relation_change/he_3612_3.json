@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אוחוס דל סלאדו",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 13,
+    "unigram_w2": 2719,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "continent",
+    "w2": "אמריקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 487,
+    "unigram_w1": 2719,
+    "unigram_w2": 224139,
+    "ppmi": 3.3010920011633837
+  },
+  {
+    "w1": "אוחוס דל סלאדו",
+    "w2": "אמריקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 13,
+    "unigram_w2": 224139,
+    "ppmi": 4.666697257685866
+  }
+]

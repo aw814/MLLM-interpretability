@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Harare",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13976,
+    "unigram_w1": 47604,
+    "unigram_w2": 42058182,
+    "ppmi": 2.5381949468037264
+  },
+  {
+    "w1": "capital",
+    "w2": "Zimbabue",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 37158,
+    "unigram_w1": 42058182,
+    "unigram_w2": 270834,
+    "ppmi": 1.440662130203016
+  },
+  {
+    "w1": "Harare",
+    "w2": "Zimbabue",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20084,
+    "unigram_w1": 47604,
+    "unigram_w2": 270834,
+    "ppmi": 10.340123879498194
+  }
+]

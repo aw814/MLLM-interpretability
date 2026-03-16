@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Collective Security Treaty Organisation",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 394,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "Russian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 2632627,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Collective Security Treaty Organisation",
+    "w2": "Russian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 291,
+    "unigram_w1": 394,
+    "unigram_w2": 2632627,
+    "ppmi": 6.677554738391882
+  }
+]

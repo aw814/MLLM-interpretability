@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴利阿里群岛",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 837,
+    "unigram_w2": 32140,
+    "ppmi": 2.1164214464406443
+  },
+  {
+    "w1": "capital",
+    "w2": "帕尔马",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 34,
+    "unigram_w1": 32140,
+    "unigram_w2": 14795,
+    "ppmi": 2.0601460241600438
+  },
+  {
+    "w1": "巴利阿里群岛",
+    "w2": "帕尔马",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 89,
+    "unigram_w1": 837,
+    "unigram_w2": 14795,
+    "ppmi": 8.711415109888215
+  }
+]

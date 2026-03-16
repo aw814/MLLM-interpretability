@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ガーナ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10286,
+    "unigram_w1": 121004,
+    "unigram_w2": 3715876,
+    "ppmi": 1.998532538669638
+  },
+  {
+    "w1": "言語",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ガーナ",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22864,
+    "unigram_w1": 121004,
+    "unigram_w2": 8357100,
+    "ppmi": 1.9816282616597414
+  }
+]

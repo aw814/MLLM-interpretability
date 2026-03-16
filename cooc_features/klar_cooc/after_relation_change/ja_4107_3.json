@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨハン・クライフ",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 536,
+    "unigram_w1": 6010,
+    "unigram_w2": 4020810,
+    "ppmi": 1.9539894236339805
+  },
+  {
+    "w1": "話した",
+    "w2": "オランダ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 150826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヨハン・クライフ",
+    "w2": "オランダ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 220,
+    "unigram_w1": 6010,
+    "unigram_w2": 150826,
+    "ppmi": 5.405789058304379
+  }
+]

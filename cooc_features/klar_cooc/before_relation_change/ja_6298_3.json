@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イギリス",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18066,
+    "unigram_w1": 3964028,
+    "unigram_w2": 498928,
+    "ppmi": 0.6740859029926892
+  },
+  {
+    "w1": "capital",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15586,
+    "unigram_w1": 498928,
+    "unigram_w2": 1900368,
+    "ppmi": 1.5217478448698258
+  },
+  {
+    "w1": "イギリス",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 627092,
+    "unigram_w1": 3964028,
+    "unigram_w2": 1900368,
+    "ppmi": 3.8620387212843563
+  }
+]

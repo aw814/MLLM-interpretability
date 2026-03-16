@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "莱纳·玛利亚·里尔克",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 13,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "德语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 47357,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "莱纳·玛利亚·里尔克",
+    "w2": "德语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 13,
+    "unigram_w2": 47357,
+    "ppmi": 6.5658577787230845
+  }
+]

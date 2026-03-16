@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hannah Arendt",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12630,
+    "unigram_w1": 71409,
+    "unigram_w2": 4547729,
+    "ppmi": 4.332949167898611
+  },
+  {
+    "w1": "religion",
+    "w2": "judaïsme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163334,
+    "unigram_w1": 4547729,
+    "unigram_w2": 422601,
+    "ppmi": 5.460729399805521
+  },
+  {
+    "w1": "Hannah Arendt",
+    "w2": "judaïsme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4338,
+    "unigram_w1": 71409,
+    "unigram_w2": 422601,
+    "ppmi": 6.218974686990831
+  }
+]

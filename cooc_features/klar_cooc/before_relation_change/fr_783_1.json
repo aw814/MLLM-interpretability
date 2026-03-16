@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "États fédérés de Micronésie",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 28045,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 7,
+    "unigram_w2": 17089249,
+    "ppmi": 4.4369028100767505
+  },
+  {
+    "w1": "États fédérés de Micronésie",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1313,
+    "unigram_w1": 28045,
+    "unigram_w2": 17089249,
+    "ppmi": 0.5055248755707318
+  }
+]

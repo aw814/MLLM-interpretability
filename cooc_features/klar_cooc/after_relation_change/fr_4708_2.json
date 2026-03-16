@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hâroun ar-Rachîd",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 118,
+    "unigram_w1": 393,
+    "unigram_w2": 4547729,
+    "ppmi": 5.096457990986517
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 409223,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1266878,
+    "ppmi": 5.201881981662004
+  },
+  {
+    "w1": "Hâroun ar-Rachîd",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 83,
+    "unigram_w1": 393,
+    "unigram_w2": 1266878,
+    "ppmi": 6.432723059267181
+  }
+]

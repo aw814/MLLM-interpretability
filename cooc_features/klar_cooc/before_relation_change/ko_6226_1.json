@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "로마 제국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 4222,
+    "unigram_w2": 36855,
+    "ppmi": 1.0743490289105286
+  },
+  {
+    "w1": "capital",
+    "w2": "콘스탄티노폴리스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 36855,
+    "unigram_w2": 700,
+    "ppmi": 1.8594938583677516
+  },
+  {
+    "w1": "로마 제국",
+    "w2": "콘스탄티노폴리스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 4222,
+    "unigram_w2": 700,
+    "ppmi": 9.389077919042288
+  }
+]

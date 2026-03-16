@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Royaume de Bulgarie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 358,
+    "unigram_w1": 1103,
+    "unigram_w2": 9137640,
+    "ppmi": 4.202123826772026
+  },
+  {
+    "w1": "capitale",
+    "w2": "Sofia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 709881,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Royaume de Bulgarie",
+    "w2": "Sofia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 275,
+    "unigram_w1": 1103,
+    "unigram_w2": 709881,
+    "ppmi": 7.507768357387899
+  }
+]

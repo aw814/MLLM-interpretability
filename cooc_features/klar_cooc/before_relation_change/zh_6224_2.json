@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "钖耶纳省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "锡耶纳",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 32140,
+    "unigram_w2": 4151,
+    "ppmi": 2.80626204238738
+  },
+  {
+    "w1": "钖耶纳省",
+    "w2": "锡耶纳",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 4151,
+    "ppmi": 0.0
+  }
+]

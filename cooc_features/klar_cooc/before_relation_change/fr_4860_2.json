@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jean-Paul II",
+    "w2": "native_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 381349,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "native_language",
+    "w2": "polonais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 1473069,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Jean-Paul II",
+    "w2": "polonais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27607,
+    "unigram_w1": 381349,
+    "unigram_w2": 1473069,
+    "ppmi": 4.670515831016631
+  }
+]

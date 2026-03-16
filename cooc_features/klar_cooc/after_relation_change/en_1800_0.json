@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Euclid",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16904,
+    "unigram_w1": 48084,
+    "unigram_w2": 74824954,
+    "ppmi": 0.7775945197097592
+  },
+  {
+    "w1": "work",
+    "w2": "geometry",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 285345,
+    "unigram_w1": 74824954,
+    "unigram_w2": 682452,
+    "ppmi": 1.0277664681274763
+  },
+  {
+    "w1": "Euclid",
+    "w2": "geometry",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4931,
+    "unigram_w1": 48084,
+    "unigram_w2": 682452,
+    "ppmi": 5.776830103653585
+  }
+]

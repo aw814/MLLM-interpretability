@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "province de Tolède",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 1943,
+    "unigram_w2": 7952962,
+    "ppmi": 0.008674862627293365
+  },
+  {
+    "w1": "capital",
+    "w2": "Tolède",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2061,
+    "unigram_w1": 7952962,
+    "unigram_w2": 80983,
+    "ppmi": 0.7296517742232315
+  },
+  {
+    "w1": "province de Tolède",
+    "w2": "Tolède",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1943,
+    "unigram_w1": 1943,
+    "unigram_w2": 80983,
+    "ppmi": 12.64358383161843
+  }
+]

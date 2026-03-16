@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Zarato de Polonia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 238,
+    "unigram_w1": 808,
+    "unigram_w2": 42058182,
+    "ppmi": 2.542932517309552
+  },
+  {
+    "w1": "capital",
+    "w2": "Varsovia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 139660,
+    "unigram_w1": 42058182,
+    "unigram_w2": 667028,
+    "ppmi": 2.0504977915392217
+  },
+  {
+    "w1": "Zarato de Polonia",
+    "w2": "Varsovia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 580,
+    "unigram_w1": 808,
+    "unigram_w2": 667028,
+    "ppmi": 9.806519200463192
+  }
+]

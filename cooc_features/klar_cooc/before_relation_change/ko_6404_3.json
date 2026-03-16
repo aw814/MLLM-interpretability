@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아바스 왕조",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 139,
+    "unigram_w2": 36855,
+    "ppmi": 2.606801396755417
+  },
+  {
+    "w1": "capital",
+    "w2": "바그다드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 36855,
+    "unigram_w2": 3496,
+    "ppmi": 2.6266783419498214
+  },
+  {
+    "w1": "아바스 왕조",
+    "w2": "바그다드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 139,
+    "unigram_w2": 3496,
+    "ppmi": 9.75977216738897
+  }
+]

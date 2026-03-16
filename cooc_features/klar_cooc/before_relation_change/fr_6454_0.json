@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "République de Weimar",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3080,
+    "unigram_w1": 32354,
+    "unigram_w2": 7952962,
+    "ppmi": 2.632912621661148
+  },
+  {
+    "w1": "capital",
+    "w2": "Berlin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 130274,
+    "unigram_w1": 7952962,
+    "unigram_w2": 3397336,
+    "ppmi": 1.3210716289295035
+  },
+  {
+    "w1": "République de Weimar",
+    "w2": "Berlin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13544,
+    "unigram_w1": 32354,
+    "unigram_w2": 3397336,
+    "ppmi": 5.9966526122985035
+  }
+]

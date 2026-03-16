@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Johann Wolfgang von Goethe",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 124,
+    "unigram_w1": 17152,
+    "unigram_w2": 1178529,
+    "ppmi": 1.668466590799014
+  },
+  {
+    "w1": "occupation",
+    "w2": "personnalité politique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 759,
+    "unigram_w1": 1178529,
+    "unigram_w2": 66574,
+    "ppmi": 2.3256443136849594
+  },
+  {
+    "w1": "Johann Wolfgang von Goethe",
+    "w2": "personnalité politique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19,
+    "unigram_w1": 17152,
+    "unigram_w2": 66574,
+    "ppmi": 3.1080823899239687
+  }
+]

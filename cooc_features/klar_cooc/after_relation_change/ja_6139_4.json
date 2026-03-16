@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イスラム革命防衛隊",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 474,
+    "unigram_w1": 1360,
+    "unigram_w2": 27600878,
+    "ppmi": 1.1412457303516117
+  },
+  {
+    "w1": "場所",
+    "w2": "テヘラン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 40786,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イスラム革命防衛隊",
+    "w2": "テヘラン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 452,
+    "unigram_w1": 1360,
+    "unigram_w2": 40786,
+    "ppmi": 10.475105864405702
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mona Lisa",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6562,
+    "unigram_w1": 143248,
+    "unigram_w2": 14358872,
+    "ppmi": 1.4085347152494294
+  },
+  {
+    "w1": "posee",
+    "w2": "Francia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 21970124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Mona Lisa",
+    "w2": "Francia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24286,
+    "unigram_w1": 143248,
+    "unigram_w2": 21970124,
+    "ppmi": 2.6828515146645375
+  }
+]

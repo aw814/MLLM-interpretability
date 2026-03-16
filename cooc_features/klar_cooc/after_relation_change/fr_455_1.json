@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Singapour",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 189352,
+    "unigram_w1": 1513770,
+    "unigram_w2": 12749290,
+    "ppmi": 2.3459982724415314
+  },
+  {
+    "w1": "langue",
+    "w2": "tamoul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 66204,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Singapour",
+    "w2": "tamoul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3719,
+    "unigram_w1": 1513770,
+    "unigram_w2": 66204,
+    "ppmi": 4.2652689759722975
+  }
+]

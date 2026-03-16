@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פליניוס הזקן",
+    "w2": "נולד",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 125,
+    "unigram_w1": 719,
+    "unigram_w2": 359211,
+    "ppmi": 2.577672967828634
+  },
+  {
+    "w1": "נולד",
+    "w2": "קומו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 359211,
+    "unigram_w2": 9672,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פליניוס הזקן",
+    "w2": "קומו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 719,
+    "unigram_w2": 9672,
+    "ppmi": 3.996687159726559
+  }
+]

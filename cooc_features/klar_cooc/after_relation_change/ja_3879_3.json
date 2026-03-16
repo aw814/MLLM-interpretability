@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "成都市",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2792,
+    "unigram_w1": 22714,
+    "unigram_w2": 2444276,
+    "ppmi": 3.1349175297576597
+  },
+  {
+    "w1": "首都",
+    "w2": "四川省",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 97132,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "成都市",
+    "w2": "四川省",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9976,
+    "unigram_w1": 22714,
+    "unigram_w2": 97132,
+    "ppmi": 9.625396774323674
+  }
+]

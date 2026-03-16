@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Brest Region",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 92,
+    "unigram_w1": 625,
+    "unigram_w2": 7450623,
+    "ppmi": 2.849722856429181
+  },
+  {
+    "w1": "capital",
+    "w2": "Brest",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3401,
+    "unigram_w1": 7450623,
+    "unigram_w2": 32866,
+    "ppmi": 2.3413083090858677
+  },
+  {
+    "w1": "Brest Region",
+    "w2": "Brest",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 625,
+    "unigram_w1": 625,
+    "unigram_w2": 32866,
+    "ppmi": 13.438494652395377
+  }
+]

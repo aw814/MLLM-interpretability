@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Augusto Pinochet",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 456,
+    "unigram_w1": 6576,
+    "unigram_w2": 3469075,
+    "ppmi": 2.8665787436524526
+  },
+  {
+    "w1": "spoke",
+    "w2": "Spanish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 107000,
+    "unigram_w1": 3469075,
+    "unigram_w2": 3113420,
+    "ppmi": 1.8538658055779875
+  },
+  {
+    "w1": "Augusto Pinochet",
+    "w2": "Spanish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1562,
+    "unigram_w1": 6576,
+    "unigram_w2": 3113420,
+    "ppmi": 4.798918289744625
+  }
+]

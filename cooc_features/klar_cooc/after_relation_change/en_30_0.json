@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vasili III of Russia",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 12,
+    "unigram_w2": 9106140,
+    "ppmi": 3.739432204023338
+  },
+  {
+    "w1": "born",
+    "w2": "Moscow",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96202,
+    "unigram_w1": 9106140,
+    "unigram_w2": 853175,
+    "ppmi": 2.1756918052028635
+  },
+  {
+    "w1": "Vasili III of Russia",
+    "w2": "Moscow",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 12,
+    "unigram_w2": 853175,
+    "ppmi": 8.325283248225613
+  }
+]

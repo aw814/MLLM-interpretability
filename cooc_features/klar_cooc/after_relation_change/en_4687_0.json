@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alī ibn Abī Ṭālib",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 49,
+    "unigram_w2": 2269436,
+    "ppmi": 6.358046886635884
+  },
+  {
+    "w1": "religion",
+    "w2": "Islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 231828,
+    "unigram_w1": 2269436,
+    "unigram_w2": 713808,
+    "ppmi": 5.706419294919044
+  },
+  {
+    "w1": "Alī ibn Abī Ṭālib",
+    "w2": "Islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 49,
+    "unigram_w2": 713808,
+    "ppmi": 8.630844038354708
+  }
+]

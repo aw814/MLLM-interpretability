@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "República Popular de Albania",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 308,
+    "unigram_w1": 808,
+    "unigram_w2": 42058182,
+    "ppmi": 2.9149012946965103
+  },
+  {
+    "w1": "capital",
+    "w2": "Tirana",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27754,
+    "unigram_w1": 42058182,
+    "unigram_w2": 144800,
+    "ppmi": 1.9230322519632137
+  },
+  {
+    "w1": "República Popular de Albania",
+    "w2": "Tirana",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 274,
+    "unigram_w1": 808,
+    "unigram_w2": 144800,
+    "ppmi": 10.92832791403664
+  }
+]

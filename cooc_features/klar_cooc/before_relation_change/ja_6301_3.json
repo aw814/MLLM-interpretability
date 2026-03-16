@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "リビア王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 156,
+    "unigram_w2": 498928,
+    "ppmi": 2.1662299130777023
+  },
+  {
+    "w1": "capital",
+    "w2": "トリポリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 258,
+    "unigram_w1": 498928,
+    "unigram_w2": 10576,
+    "ppmi": 3.0943529258555134
+  },
+  {
+    "w1": "リビア王国",
+    "w2": "トリポリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88,
+    "unigram_w1": 156,
+    "unigram_w2": 10576,
+    "ppmi": 13.18562718077262
+  }
+]

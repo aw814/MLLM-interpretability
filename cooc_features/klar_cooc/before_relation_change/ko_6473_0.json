@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "슐레스비히홀슈타인주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 27,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "킬",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 36855,
+    "unigram_w2": 13717,
+    "ppmi": 0.37438252379071724
+  },
+  {
+    "w1": "슐레스비히홀슈타인주",
+    "w2": "킬",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 27,
+    "unigram_w2": 13717,
+    "ppmi": 8.204105258876776
+  }
+]

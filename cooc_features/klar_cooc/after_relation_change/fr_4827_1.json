@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Googleplex",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 328,
+    "unigram_w1": 4240,
+    "unigram_w2": 13047836,
+    "ppmi": 1.619311536645555
+  },
+  {
+    "w1": "possède",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 13685522,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Googleplex",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3685,
+    "unigram_w1": 4240,
+    "unigram_w2": 13685522,
+    "ppmi": 5.040368526113374
+  }
+]

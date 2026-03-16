@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Norte-Paso de Calais",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1172,
+    "unigram_w1": 15786,
+    "unigram_w2": 42058182,
+    "ppmi": 0.554725057288606
+  },
+  {
+    "w1": "capital",
+    "w2": "Lille",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54918,
+    "unigram_w1": 42058182,
+    "unigram_w2": 343018,
+    "ppmi": 1.663392943982125
+  },
+  {
+    "w1": "Norte-Paso de Calais",
+    "w2": "Lille",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3228,
+    "unigram_w1": 15786,
+    "unigram_w2": 343018,
+    "ppmi": 8.954351461284325
+  }
+]

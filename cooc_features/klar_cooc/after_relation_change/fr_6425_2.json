@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ligurie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8241,
+    "unigram_w1": 95515,
+    "unigram_w2": 9137640,
+    "ppmi": 2.290689124677058
+  },
+  {
+    "w1": "capitale",
+    "w2": "Gênes",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 446214,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ligurie",
+    "w2": "Gênes",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21371,
+    "unigram_w1": 95515,
+    "unigram_w2": 446214,
+    "ppmi": 8.021466146182386
+  }
+]

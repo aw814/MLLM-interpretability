@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Minecraft",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3940,
+    "unigram_w1": 145952,
+    "unigram_w2": 270510,
+    "ppmi": 4.1236273001058805
+  },
+  {
+    "w1": "developer",
+    "w2": "マイクロソフト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15308,
+    "unigram_w1": 270510,
+    "unigram_w2": 865310,
+    "ppmi": 3.513922476511051
+  },
+  {
+    "w1": "Minecraft",
+    "w2": "マイクロソフト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9612,
+    "unigram_w1": 145952,
+    "unigram_w2": 865310,
+    "ppmi": 3.7327331710000338
+  }
+]

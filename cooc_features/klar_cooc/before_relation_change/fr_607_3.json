@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Organisation mondiale de la santé",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 91452,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 7,
+    "unigram_w2": 46536486,
+    "ppmi": 3.477056359301747
+  },
+  {
+    "w1": "Organisation mondiale de la santé",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22748,
+    "unigram_w1": 91452,
+    "unigram_w2": 46536486,
+    "ppmi": 1.4697813475164245
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Timurid Empire",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 132,
+    "unigram_w1": 392,
+    "unigram_w2": 9241408,
+    "ppmi": 3.732805945720336
+  },
+  {
+    "w1": "language",
+    "w2": "Persian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 66055,
+    "unigram_w1": 9241408,
+    "unigram_w2": 398439,
+    "ppmi": 2.710502477099432
+  },
+  {
+    "w1": "Timurid Empire",
+    "w2": "Persian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 181,
+    "unigram_w1": 392,
+    "unigram_w2": 398439,
+    "ppmi": 8.723939614299013
+  }
+]

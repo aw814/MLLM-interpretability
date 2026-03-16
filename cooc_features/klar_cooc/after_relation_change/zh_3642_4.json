@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "莱茵河",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 7237,
+    "unigram_w2": 1361,
+    "ppmi": 2.565960159779596
+  },
+  {
+    "w1": "continent",
+    "w2": "欧洲",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 133,
+    "unigram_w1": 1361,
+    "unigram_w2": 1834429,
+    "ppmi": 1.635519014832779
+  },
+  {
+    "w1": "莱茵河",
+    "w2": "欧洲",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2167,
+    "unigram_w1": 7237,
+    "unigram_w2": 1834429,
+    "ppmi": 3.250995312659404
+  }
+]

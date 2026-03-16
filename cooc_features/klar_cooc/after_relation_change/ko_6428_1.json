@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "로마도",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 211,
+    "unigram_w1": 539,
+    "unigram_w2": 1351571,
+    "ppmi": 2.176067063337789
+  },
+  {
+    "w1": "수도",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 99776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "로마도",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 267,
+    "unigram_w1": 539,
+    "unigram_w2": 99776,
+    "ppmi": 6.2754644636868715
+  }
+]

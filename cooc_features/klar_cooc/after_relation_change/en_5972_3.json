@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Pakistan",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 170,
+    "unigram_w1": 5111,
+    "unigram_w2": 1074632,
+    "ppmi": 3.497392700907907
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Pakistan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11782,
+    "unigram_w1": 1074632,
+    "unigram_w2": 1164026,
+    "ppmi": 1.7809966260756043
+  },
+  {
+    "w1": "President of Pakistan",
+    "w2": "Pakistan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5111,
+    "unigram_w1": 5111,
+    "unigram_w2": 1164026,
+    "ppmi": 8.292111061581533
+  }
+]

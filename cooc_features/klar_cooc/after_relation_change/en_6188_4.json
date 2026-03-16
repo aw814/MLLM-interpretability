@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South West England",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 871,
+    "unigram_w1": 14304,
+    "unigram_w2": 7450623,
+    "ppmi": 1.5762711673371648
+  },
+  {
+    "w1": "capital",
+    "w2": "Bristol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35181,
+    "unigram_w1": 7450623,
+    "unigram_w2": 703548,
+    "ppmi": 1.2920928206300546
+  },
+  {
+    "w1": "South West England",
+    "w2": "Bristol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2495,
+    "unigram_w1": 14304,
+    "unigram_w2": 703548,
+    "ppmi": 6.499206662957107
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "County Waterford",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 195,
+    "unigram_w1": 3029,
+    "unigram_w2": 7450623,
+    "ppmi": 1.6565777308758562
+  },
+  {
+    "w1": "capital",
+    "w2": "Waterford",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5484,
+    "unigram_w1": 7450623,
+    "unigram_w2": 114305,
+    "ppmi": 1.232357149072673
+  },
+  {
+    "w1": "County Waterford",
+    "w2": "Waterford",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3029,
+    "unigram_w1": 3029,
+    "unigram_w2": 114305,
+    "ppmi": 11.640273927310798
+  }
+]

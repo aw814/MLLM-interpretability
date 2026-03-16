@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קונטיקט",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41,
+    "unigram_w1": 5008,
+    "unigram_w2": 14610,
+    "ppmi": 2.7890732479672726
+  },
+  {
+    "w1": "capital",
+    "w2": "הרטפורד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 14610,
+    "unigram_w2": 593,
+    "ppmi": 3.969083414373101
+  },
+  {
+    "w1": "קונטיקט",
+    "w2": "הרטפורד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 205,
+    "unigram_w1": 5008,
+    "unigram_w2": 593,
+    "ppmi": 9.733781605999493
+  }
+]

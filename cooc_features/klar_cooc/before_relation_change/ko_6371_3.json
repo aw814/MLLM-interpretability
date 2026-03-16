@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "러시아 소비에트 연방 사회주의 공화국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 67,
+    "unigram_w2": 36855,
+    "ppmi": 4.981581373908514
+  },
+  {
+    "w1": "capital",
+    "w2": "모스크바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 587,
+    "unigram_w1": 36855,
+    "unigram_w2": 31781,
+    "ppmi": 2.967082262747582
+  },
+  {
+    "w1": "러시아 소비에트 연방 사회주의 공화국",
+    "w2": "모스크바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 67,
+    "unigram_w2": 31781,
+    "ppmi": 8.043274118592754
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bonifacio III",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 702,
+    "unigram_w2": 12,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 12,
+    "unigram_w2": 9484296,
+    "ppmi": 3.870137631347767
+  },
+  {
+    "w1": "Bonifacio III",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 460,
+    "unigram_w1": 702,
+    "unigram_w2": 9484296,
+    "ppmi": 5.845262962708738
+  }
+]

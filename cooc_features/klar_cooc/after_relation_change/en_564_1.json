@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Serbia and Montenegro",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1293,
+    "unigram_w1": 10399,
+    "unigram_w2": 9241408,
+    "ppmi": 2.295471049718228
+  },
+  {
+    "w1": "language",
+    "w2": "Serbian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 21966,
+    "unigram_w1": 9241408,
+    "unigram_w2": 141242,
+    "ppmi": 2.618296600013767
+  },
+  {
+    "w1": "Serbia and Montenegro",
+    "w2": "Serbian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2521,
+    "unigram_w1": 10399,
+    "unigram_w2": 141242,
+    "ppmi": 9.290616506739365
+  }
+]

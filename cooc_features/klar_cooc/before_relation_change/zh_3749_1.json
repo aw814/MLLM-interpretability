@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Microsoft Security Essentials",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 216,
+    "unigram_w2": 7846,
+    "ppmi": 5.10495844531288
+  },
+  {
+    "w1": "developer",
+    "w2": "微软",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 7846,
+    "unigram_w2": 226038,
+    "ppmi": 3.3310279864408114
+  },
+  {
+    "w1": "Microsoft Security Essentials",
+    "w2": "微软",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 216,
+    "unigram_w2": 226038,
+    "ppmi": 6.114475256789359
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Congrès des députés",
+    "w2": "juridiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 306,
+    "unigram_w1": 10182,
+    "unigram_w2": 1227582,
+    "ppmi": 3.6651818257675153
+  },
+  {
+    "w1": "juridiction",
+    "w2": "Espagne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1227582,
+    "unigram_w2": 6663990,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Congrès des députés",
+    "w2": "Espagne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5323,
+    "unigram_w1": 10182,
+    "unigram_w2": 6663990,
+    "ppmi": 5.345250995082755
+  }
+]

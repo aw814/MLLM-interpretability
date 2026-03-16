@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Illinois",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13583,
+    "unigram_w1": 270288,
+    "unigram_w2": 7952962,
+    "ppmi": 1.7112310505092487
+  },
+  {
+    "w1": "capital",
+    "w2": "Springfield",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8875,
+    "unigram_w1": 7952962,
+    "unigram_w2": 176034,
+    "ppmi": 1.7158912779370799
+  },
+  {
+    "w1": "Illinois",
+    "w2": "Springfield",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8948,
+    "unigram_w1": 270288,
+    "unigram_w2": 176034,
+    "ppmi": 6.606632325490698
+  }
+]

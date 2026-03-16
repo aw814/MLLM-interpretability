@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bonn",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9680,
+    "unigram_w1": 92375,
+    "unigram_w2": 7450623,
+    "ppmi": 2.359449773275337
+  },
+  {
+    "w1": "capital",
+    "w2": "Germany",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 341338,
+    "unigram_w1": 7450623,
+    "unigram_w2": 4308131,
+    "ppmi": 1.9560840992815844
+  },
+  {
+    "w1": "Bonn",
+    "w2": "Germany",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45499,
+    "unigram_w1": 92375,
+    "unigram_w2": 4308131,
+    "ppmi": 5.382504603267364
+  }
+]

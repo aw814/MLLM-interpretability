@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שארלוט קורדה",
+    "w2": "מת",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 9,
+    "unigram_w2": 241785,
+    "ppmi": 4.0878809282147195
+  },
+  {
+    "w1": "מת",
+    "w2": "פריז",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 241785,
+    "unigram_w2": 77658,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שארלוט קורדה",
+    "w2": "פריז",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 9,
+    "unigram_w2": 77658,
+    "ppmi": 5.1414367143474
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mohammed Zahir Shah",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 170,
+    "unigram_w2": 5281801,
+    "ppmi": 3.788276302959546
+  },
+  {
+    "w1": "died",
+    "w2": "Kabul",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11382,
+    "unigram_w1": 5281801,
+    "unigram_w2": 100334,
+    "ppmi": 2.970219815297194
+  },
+  {
+    "w1": "Mohammed Zahir Shah",
+    "w2": "Kabul",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104,
+    "unigram_w1": 170,
+    "unigram_w2": 100334,
+    "ppmi": 11.119400649260012
+  }
+]

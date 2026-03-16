@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "第戎",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6352,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "勃艮第",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 5302,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "第戎",
+    "w2": "勃艮第",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 315,
+    "unigram_w1": 6352,
+    "unigram_w2": 5302,
+    "ppmi": 9.091479433930507
+  }
+]

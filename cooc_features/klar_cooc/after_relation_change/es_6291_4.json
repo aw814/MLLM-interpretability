@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Colorado",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 462714,
+    "unigram_w1": 3132026,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5474227030263255
+  },
+  {
+    "w1": "capital",
+    "w2": "Denver",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 141768,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1147474,
+    "ppmi": 1.289468600019433
+  },
+  {
+    "w1": "Colorado",
+    "w2": "Denver",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 247342,
+    "unigram_w1": 3132026,
+    "unigram_w2": 1147474,
+    "ppmi": 5.83966231064145
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "comté de Waterford",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 1308,
+    "unigram_w2": 7952962,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "Waterford",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2255,
+    "unigram_w1": 7952962,
+    "unigram_w2": 44793,
+    "ppmi": 1.7137804976275308
+  },
+  {
+    "w1": "comté de Waterford",
+    "w2": "Waterford",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1308,
+    "unigram_w1": 1308,
+    "unigram_w2": 44793,
+    "ppmi": 13.497929626419243
+  }
+]

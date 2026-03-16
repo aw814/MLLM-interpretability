@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "チリ",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 551304,
+    "unigram_w2": 62,
+    "ppmi": 3.353419388704522
+  },
+  {
+    "w1": "official_language",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 62,
+    "unigram_w2": 570272,
+    "ppmi": 5.304617258662933
+  },
+  {
+    "w1": "チリ",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24556,
+    "unigram_w1": 551304,
+    "unigram_w2": 570272,
+    "ppmi": 3.7701129801382804
+  }
+]

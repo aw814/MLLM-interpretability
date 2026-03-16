@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "볼프강 아마데우스 모차르트",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 448,
+    "unigram_w2": 10794,
+    "ppmi": 1.690018313419365
+  },
+  {
+    "w1": "instrument",
+    "w2": "비올라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 37,
+    "unigram_w1": 10794,
+    "unigram_w2": 5563,
+    "ppmi": 3.265179210852306
+  },
+  {
+    "w1": "볼프강 아마데우스 모차르트",
+    "w2": "비올라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 448,
+    "unigram_w2": 5563,
+    "ppmi": 6.55320349074691
+  }
+]

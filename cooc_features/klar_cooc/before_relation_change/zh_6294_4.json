@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "荷兰",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 558,
+    "unigram_w1": 294363,
+    "unigram_w2": 32140,
+    "ppmi": 1.7823897533551432
+  },
+  {
+    "w1": "capital",
+    "w2": "阿姆斯特丹",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 702,
+    "unigram_w1": 32140,
+    "unigram_w2": 45318,
+    "ppmi": 4.813035907028771
+  },
+  {
+    "w1": "荷兰",
+    "w2": "阿姆斯特丹",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13560,
+    "unigram_w1": 294363,
+    "unigram_w2": 45318,
+    "ppmi": 5.8896237358453405
+  }
+]

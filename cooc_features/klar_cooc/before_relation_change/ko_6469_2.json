@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "장쑤성",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 3645,
+    "unigram_w2": 36855,
+    "ppmi": 0.4790018709857809
+  },
+  {
+    "w1": "capital",
+    "w2": "난징시",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 36855,
+    "unigram_w2": 291,
+    "ppmi": 2.1258296272917963
+  },
+  {
+    "w1": "장쑤성",
+    "w2": "난징시",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 111,
+    "unigram_w1": 3645,
+    "unigram_w2": 291,
+    "ppmi": 10.67315263167713
+  }
+]

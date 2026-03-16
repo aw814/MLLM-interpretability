@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בזל",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 986,
+    "unigram_w1": 10203,
+    "unigram_w2": 236631,
+    "ppmi": 2.3326671312118834
+  },
+  {
+    "w1": "שפה",
+    "w2": "גרמנית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 55170,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בזל",
+    "w2": "גרמנית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 260,
+    "unigram_w1": 10203,
+    "unigram_w2": 55170,
+    "ppmi": 2.510274309551668
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dominican Republic",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20668,
+    "unigram_w1": 226293,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8504004065571107
+  },
+  {
+    "w1": "language",
+    "w2": "Spanish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 649985,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3113420,
+    "ppmi": 3.0430997910537174
+  },
+  {
+    "w1": "Dominican Republic",
+    "w2": "Spanish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26274,
+    "unigram_w1": 226293,
+    "unigram_w2": 3113420,
+    "ppmi": 3.766249938113295
+  }
+]

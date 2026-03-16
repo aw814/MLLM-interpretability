@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lexus",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 168136,
+    "unigram_w2": 8,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "Toyota",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8,
+    "unigram_w2": 783321,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lexus",
+    "w2": "Toyota",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 54717,
+    "unigram_w1": 168136,
+    "unigram_w2": 783321,
+    "ppmi": 7.243991185018139
+  }
+]

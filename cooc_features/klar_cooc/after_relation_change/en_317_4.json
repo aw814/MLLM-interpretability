@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Punjab",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19546,
+    "unigram_w1": 278499,
+    "unigram_w2": 9241408,
+    "ppmi": 1.4703948250272432
+  },
+  {
+    "w1": "language",
+    "w2": "Punjabi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25900,
+    "unigram_w1": 9241408,
+    "unigram_w2": 132664,
+    "ppmi": 2.9463687426405345
+  },
+  {
+    "w1": "Punjab",
+    "w2": "Punjabi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24713,
+    "unigram_w1": 278499,
+    "unigram_w2": 132664,
+    "ppmi": 7.931055421671499
+  }
+]

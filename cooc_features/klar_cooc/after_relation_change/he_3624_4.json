@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "האימפריה הבריטית",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 5547,
+    "unigram_w2": 2719,
+    "ppmi": 3.6167467974310745
+  },
+  {
+    "w1": "continent",
+    "w2": "אמריקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 487,
+    "unigram_w1": 2719,
+    "unigram_w2": 224139,
+    "ppmi": 3.3010920011633837
+  },
+  {
+    "w1": "האימפריה הבריטית",
+    "w2": "אמריקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 980,
+    "unigram_w1": 5547,
+    "unigram_w2": 224139,
+    "ppmi": 3.28132040398302
+  }
+]

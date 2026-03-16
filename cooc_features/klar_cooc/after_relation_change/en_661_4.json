@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 100139,
+    "unigram_w1": 1078519,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8741459369505398
+  },
+  {
+    "w1": "language",
+    "w2": "Slovak",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18053,
+    "unigram_w1": 9241408,
+    "unigram_w2": 102446,
+    "ppmi": 2.7985685204088218
+  },
+  {
+    "w1": "European Union",
+    "w2": "Slovak",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7387,
+    "unigram_w1": 1078519,
+    "unigram_w2": 102446,
+    "ppmi": 4.608451484692384
+  }
+]

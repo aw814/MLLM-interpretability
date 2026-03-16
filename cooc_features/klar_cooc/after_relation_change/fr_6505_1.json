@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lordi",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 484,
+    "unigram_w1": 18904,
+    "unigram_w2": 5673888,
+    "ppmi": 1.2254683807737508
+  },
+  {
+    "w1": "localisation",
+    "w2": "Helsinki",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 284408,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lordi",
+    "w2": "Helsinki",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 344,
+    "unigram_w1": 18904,
+    "unigram_w2": 284408,
+    "ppmi": 5.051173619304466
+  }
+]

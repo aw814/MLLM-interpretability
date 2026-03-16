@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Uttar Pradesh",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1284,
+    "unigram_w1": 163105,
+    "unigram_w2": 965266,
+    "ppmi": 1.573223880394123
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Uttar Pradesh",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9304,
+    "unigram_w1": 163105,
+    "unigram_w2": 3865133,
+    "ppmi": 2.4289101845341987
+  }
+]

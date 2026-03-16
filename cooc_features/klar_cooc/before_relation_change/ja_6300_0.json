@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "セルビア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1112,
+    "unigram_w1": 143854,
+    "unigram_w2": 498928,
+    "ppmi": 1.4363273930567684
+  },
+  {
+    "w1": "capital",
+    "w2": "ベオグラード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 714,
+    "unigram_w1": 498928,
+    "unigram_w2": 23808,
+    "ppmi": 3.392253584861019
+  },
+  {
+    "w1": "セルビア",
+    "w2": "ベオグラード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13484,
+    "unigram_w1": 143854,
+    "unigram_w2": 23808,
+    "ppmi": 9.425660531774751
+  }
+]

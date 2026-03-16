@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "프리슈티나",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1018,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "코소보",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 7035,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "프리슈티나",
+    "w2": "코소보",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 979,
+    "unigram_w1": 1018,
+    "unigram_w2": 7035,
+    "ppmi": 11.058623702853712
+  }
+]

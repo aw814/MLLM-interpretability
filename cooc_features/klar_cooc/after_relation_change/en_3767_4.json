@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edinburgh",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60827,
+    "unigram_w1": 763471,
+    "unigram_w2": 7450623,
+    "ppmi": 1.964083678851803
+  },
+  {
+    "w1": "capital",
+    "w2": "Scotland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 104792,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1669449,
+    "ppmi": 1.620101747132316
+  },
+  {
+    "w1": "Edinburgh",
+    "w2": "Scotland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 238838,
+    "unigram_w1": 763471,
+    "unigram_w2": 1669449,
+    "ppmi": 6.095321358225562
+  }
+]

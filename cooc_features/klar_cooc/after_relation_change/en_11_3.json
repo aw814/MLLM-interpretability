@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Leo V the Armenian",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 85,
+    "unigram_w2": 9106140,
+    "ppmi": 4.124457134235742
+  },
+  {
+    "w1": "born",
+    "w2": "Armenia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17024,
+    "unigram_w1": 9106140,
+    "unigram_w2": 166285,
+    "ppmi": 2.0363786318898733
+  },
+  {
+    "w1": "Leo V the Armenian",
+    "w2": "Armenia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 85,
+    "unigram_w2": 166285,
+    "ppmi": 6.690113469445457
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stadio delle Alpi",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 288,
+    "unigram_w2": 1657738,
+    "ppmi": 0.6120933314949498
+  },
+  {
+    "w1": "owns",
+    "w2": "Turin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1372,
+    "unigram_w1": 1657738,
+    "unigram_w2": 118542,
+    "ppmi": 1.349044321193442
+  },
+  {
+    "w1": "Stadio delle Alpi",
+    "w2": "Turin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 189,
+    "unigram_w1": 288,
+    "unigram_w2": 118542,
+    "ppmi": 10.980081558801096
+  }
+]

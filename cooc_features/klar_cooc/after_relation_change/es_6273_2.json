@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Serbia y Montenegro",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7390,
+    "unigram_w1": 44122,
+    "unigram_w2": 42058182,
+    "ppmi": 1.7284743181031614
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrado",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 75900,
+    "unigram_w1": 42058182,
+    "unigram_w2": 334482,
+    "ppmi": 2.166569452542783
+  },
+  {
+    "w1": "Serbia y Montenegro",
+    "w2": "Belgrado",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5620,
+    "unigram_w1": 44122,
+    "unigram_w2": 334482,
+    "ppmi": 8.30778418870956
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שושלת צ'ינג",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 793,
+    "unigram_w2": 14610,
+    "ppmi": 2.8977179566354327
+  },
+  {
+    "w1": "capital",
+    "w2": "בייג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 332,
+    "unigram_w1": 14610,
+    "unigram_w2": 12923,
+    "ppmi": 4.438926119825016
+  },
+  {
+    "w1": "שושלת צ'ינג",
+    "w2": "בייג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 231,
+    "unigram_w1": 793,
+    "unigram_w2": 12923,
+    "ppmi": 8.11912723188103
+  }
+]

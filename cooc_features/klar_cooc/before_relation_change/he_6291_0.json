@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קולורדו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46,
+    "unigram_w1": 9437,
+    "unigram_w2": 14610,
+    "ppmi": 2.0409894585508237
+  },
+  {
+    "w1": "capital",
+    "w2": "דנוור",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 14610,
+    "unigram_w2": 2766,
+    "ppmi": 2.287954649131313
+  },
+  {
+    "w1": "קולורדו",
+    "w2": "דנוור",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 520,
+    "unigram_w1": 9437,
+    "unigram_w2": 2766,
+    "ppmi": 7.9408784320626316
+  }
+]

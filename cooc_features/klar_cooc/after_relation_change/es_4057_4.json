@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sam Mendes",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1572,
+    "unigram_w1": 59626,
+    "unigram_w2": 8126762,
+    "ppmi": 1.4326917428370718
+  },
+  {
+    "w1": "habló",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sam Mendes",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8180,
+    "unigram_w1": 59626,
+    "unigram_w2": 30884572,
+    "ppmi": 1.8860575798082908
+  }
+]

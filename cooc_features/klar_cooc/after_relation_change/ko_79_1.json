@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "산드로 보티첼리",
+    "w2": "죽었다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 172,
+    "unigram_w2": 37935,
+    "ppmi": 3.2578085354757524
+  },
+  {
+    "w1": "죽었다",
+    "w2": "피렌체",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 37935,
+    "unigram_w2": 16310,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "산드로 보티첼리",
+    "w2": "피렌체",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 59,
+    "unigram_w1": 172,
+    "unigram_w2": 16310,
+    "ppmi": 8.358224340510104
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アッバース朝",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 5884,
+    "unigram_w2": 48638,
+    "ppmi": 2.872688926202416
+  },
+  {
+    "w1": "continent",
+    "w2": "アフリカ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2966,
+    "unigram_w1": 48638,
+    "unigram_w2": 1832838,
+    "ppmi": 2.5389629945862024
+  },
+  {
+    "w1": "アッバース朝",
+    "w2": "アフリカ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2224,
+    "unigram_w1": 5884,
+    "unigram_w2": 1832838,
+    "ppmi": 5.1708159393694215
+  }
+]

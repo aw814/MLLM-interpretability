@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Hendrik Antoon Lorentz",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 552,
+    "unigram_w2": 12749290,
+    "ppmi": 1.2364772720137696
+  },
+  {
+    "w1": "langue",
+    "w2": "néerlandais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 2080250,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Hendrik Antoon Lorentz",
+    "w2": "néerlandais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 552,
+    "unigram_w2": 2080250,
+    "ppmi": 6.155846102820594
+  }
+]

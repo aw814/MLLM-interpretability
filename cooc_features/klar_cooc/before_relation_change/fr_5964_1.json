@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "chancelier d'Allemagne",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1372,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Allemagne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 7867182,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "chancelier d'Allemagne",
+    "w2": "Allemagne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 576,
+    "unigram_w1": 1372,
+    "unigram_w2": 7867182,
+    "ppmi": 4.789360006074596
+  }
+]

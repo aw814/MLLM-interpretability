@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Reino de Escocia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 752,
+    "unigram_w1": 2760,
+    "unigram_w2": 42058182,
+    "ppmi": 2.4304625367655097
+  },
+  {
+    "w1": "capital",
+    "w2": "Edimburgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 117788,
+    "unigram_w1": 42058182,
+    "unigram_w2": 663194,
+    "ppmi": 1.8130878499464707
+  },
+  {
+    "w1": "Reino de Escocia",
+    "w2": "Edimburgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 880,
+    "unigram_w1": 2760,
+    "unigram_w2": 663194,
+    "ppmi": 8.644045123459959
+  }
+]

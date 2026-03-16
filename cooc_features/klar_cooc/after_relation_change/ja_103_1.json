@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルイ・アラゴン",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 1326,
+    "unigram_w2": 620194,
+    "ppmi": 3.0128066525790596
+  },
+  {
+    "w1": "死亡した",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ルイ・アラゴン",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 742,
+    "unigram_w1": 1326,
+    "unigram_w2": 2419066,
+    "ppmi": 5.336495858414558
+  }
+]

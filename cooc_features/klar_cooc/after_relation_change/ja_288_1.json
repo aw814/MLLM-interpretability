@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "コーヤンブットゥール",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 352,
+    "unigram_w2": 3715876,
+    "ppmi": 2.6803641959474804
+  },
+  {
+    "w1": "言語",
+    "w2": "タミル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 19236,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "コーヤンブットゥール",
+    "w2": "タミル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 352,
+    "unigram_w2": 19236,
+    "ppmi": 10.274113913713418
+  }
+]

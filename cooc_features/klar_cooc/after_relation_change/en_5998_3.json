@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Jamaica",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 102,
+    "unigram_w2": 1074632,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Jamaica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3514,
+    "unigram_w1": 1074632,
+    "unigram_w2": 416352,
+    "ppmi": 1.5188458881945313
+  },
+  {
+    "w1": "flag of Jamaica",
+    "w2": "Jamaica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 102,
+    "unigram_w1": 102,
+    "unigram_w2": 416352,
+    "ppmi": 9.775358685354709
+  }
+]

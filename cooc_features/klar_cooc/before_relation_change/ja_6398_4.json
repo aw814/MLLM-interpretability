@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "大日本帝国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 466,
+    "unigram_w1": 150618,
+    "unigram_w2": 498928,
+    "ppmi": 0.11528360878133219
+  },
+  {
+    "w1": "capital",
+    "w2": "東京都",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 20146,
+    "unigram_w1": 498928,
+    "unigram_w2": 10227578,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "大日本帝国",
+    "w2": "東京都",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28718,
+    "unigram_w1": 150618,
+    "unigram_w2": 10227578,
+    "ppmi": 1.7032760295707994
+  }
+]

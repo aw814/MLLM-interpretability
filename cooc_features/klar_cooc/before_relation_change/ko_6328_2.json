@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "보주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 1336,
+    "unigram_w2": 36855,
+    "ppmi": 0.9270006777260281
+  },
+  {
+    "w1": "capital",
+    "w2": "로잔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 36855,
+    "unigram_w2": 3049,
+    "ppmi": 1.9065095366326443
+  },
+  {
+    "w1": "보주",
+    "w2": "로잔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 1336,
+    "unigram_w2": 3049,
+    "ppmi": 4.259418574853169
+  }
+]

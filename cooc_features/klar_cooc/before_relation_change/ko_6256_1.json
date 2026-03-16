@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트레일리아 수도 준주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 36,
+    "unigram_w2": 36855,
+    "ppmi": 6.140779968757768
+  },
+  {
+    "w1": "capital",
+    "w2": "캔버라",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 209,
+    "unigram_w1": 36855,
+    "unigram_w2": 3070,
+    "ppmi": 4.849078661302265
+  },
+  {
+    "w1": "오스트레일리아 수도 준주",
+    "w2": "캔버라",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 36,
+    "unigram_w2": 3070,
+    "ppmi": 10.841806983890846
+  }
+]

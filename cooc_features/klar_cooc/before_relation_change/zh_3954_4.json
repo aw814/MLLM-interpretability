@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "圣保罗",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 35546,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "明尼苏达州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 10629,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "圣保罗",
+    "w2": "明尼苏达州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 706,
+    "unigram_w1": 35546,
+    "unigram_w2": 10629,
+    "ppmi": 6.767994088280045
+  }
+]

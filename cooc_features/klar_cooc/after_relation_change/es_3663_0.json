@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Helsinki",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 538,
+    "unigram_w1": 560312,
+    "unigram_w2": 91062,
+    "ppmi": 3.133239362977785
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Helsinki",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 156332,
+    "unigram_w1": 560312,
+    "unigram_w2": 39895658,
+    "ppmi": 2.5408637125623823
+  }
+]

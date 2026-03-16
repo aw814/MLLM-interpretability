@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Space Agency",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4198,
+    "unigram_w1": 40079,
+    "unigram_w2": 14590058,
+    "ppmi": 1.3892481903444356
+  },
+  {
+    "w1": "location",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 214317,
+    "unigram_w1": 14590058,
+    "unigram_w2": 3039340,
+    "ppmi": 0.8183807550883888
+  },
+  {
+    "w1": "European Space Agency",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2386,
+    "unigram_w1": 40079,
+    "unigram_w2": 3039340,
+    "ppmi": 2.8372957070848206
+  }
+]

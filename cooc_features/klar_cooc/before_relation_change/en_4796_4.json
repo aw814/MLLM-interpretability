@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eric Clapton",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3830,
+    "unigram_w1": 40208,
+    "unigram_w2": 2136875,
+    "ppmi": 4.023665547887789
+  },
+  {
+    "w1": "instrument",
+    "w2": "guitar",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 235829,
+    "unigram_w1": 2136875,
+    "unigram_w2": 2085241,
+    "ppmi": 4.271330738575015
+  },
+  {
+    "w1": "Eric Clapton",
+    "w2": "guitar",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19523,
+    "unigram_w1": 40208,
+    "unigram_w2": 2085241,
+    "ppmi": 6.4087123982306355
+  }
+]

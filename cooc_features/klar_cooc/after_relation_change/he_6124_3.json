@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "רולקס",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 84,
+    "unigram_w1": 2452,
+    "unigram_w2": 286432,
+    "ppmi": 0.5609496540496653
+  },
+  {
+    "w1": "מיקום",
+    "w2": "ז'נבה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 13536,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "רולקס",
+    "w2": "ז'נבה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 2452,
+    "unigram_w2": 13536,
+    "ppmi": 3.7012345481069033
+  }
+]

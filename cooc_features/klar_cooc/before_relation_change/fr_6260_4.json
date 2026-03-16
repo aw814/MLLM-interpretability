@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "région de Bruxelles-Capitale",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6059,
+    "unigram_w1": 115653,
+    "unigram_w2": 7952962,
+    "ppmi": 1.7712752789096606
+  },
+  {
+    "w1": "capital",
+    "w2": "Bruxelles",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 282024,
+    "unigram_w1": 7952962,
+    "unigram_w2": 6467862,
+    "ppmi": 1.506455400252828
+  },
+  {
+    "w1": "région de Bruxelles-Capitale",
+    "w2": "Bruxelles",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115653,
+    "unigram_w1": 115653,
+    "unigram_w2": 6467862,
+    "ppmi": 6.324057832794224
+  }
+]

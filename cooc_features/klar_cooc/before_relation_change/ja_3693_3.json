@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Microsoft Word",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1910,
+    "unigram_w1": 48830,
+    "unigram_w2": 270510,
+    "ppmi": 4.658658606018181
+  },
+  {
+    "w1": "developer",
+    "w2": "マイクロソフト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15308,
+    "unigram_w1": 270510,
+    "unigram_w2": 865310,
+    "ppmi": 3.513922476511051
+  },
+  {
+    "w1": "Microsoft Word",
+    "w2": "マイクロソフト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9880,
+    "unigram_w1": 48830,
+    "unigram_w2": 865310,
+    "ppmi": 5.352061861675136
+  }
+]

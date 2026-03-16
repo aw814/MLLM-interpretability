@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ohio",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 176270,
+    "unigram_w1": 1407674,
+    "unigram_w2": 42058182,
+    "ppmi": 1.3088718379507562
+  },
+  {
+    "w1": "capital",
+    "w2": "Columbus",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 56934,
+    "unigram_w1": 42058182,
+    "unigram_w2": 500744,
+    "ppmi": 1.1696153747527531
+  },
+  {
+    "w1": "Ohio",
+    "w2": "Columbus",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 115580,
+    "unigram_w1": 1407674,
+    "unigram_w2": 500744,
+    "ppmi": 7.092146104649807
+  }
+]

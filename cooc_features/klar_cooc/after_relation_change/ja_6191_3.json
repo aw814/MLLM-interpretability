@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハンガリー",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41844,
+    "unigram_w1": 415520,
+    "unigram_w2": 2444276,
+    "ppmi": 2.84730323014737
+  },
+  {
+    "w1": "首都",
+    "w2": "ブダペスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 98126,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ハンガリー",
+    "w2": "ブダペスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46198,
+    "unigram_w1": 415520,
+    "unigram_w2": 98126,
+    "ppmi": 7.628740793456856
+  }
+]

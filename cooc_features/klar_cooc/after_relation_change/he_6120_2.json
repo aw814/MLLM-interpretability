@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בייג'ינג גואואן",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 16,
+    "unigram_w2": 286432,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מיקום",
+    "w2": "בייג'ינג",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 12923,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "בייג'ינג גואואן",
+    "w2": "בייג'ינג",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 16,
+    "unigram_w2": 12923,
+    "ppmi": 9.898555246168952
+  }
+]

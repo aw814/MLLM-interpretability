@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שארל השישי, מלך צרפת",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 62,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "צרפת",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 188341,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שארל השישי, מלך צרפת",
+    "w2": "צרפת",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 62,
+    "unigram_w1": 62,
+    "unigram_w2": 188341,
+    "ppmi": 6.033221078745871
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": ".de",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3204594,
+    "unigram_w1": 814416646,
+    "unigram_w2": 3205324,
+    "ppmi": 0.030688976811592293
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "Alemania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 17786194,
+    "ppmi": 0.0
+  },
+  {
+    "w1": ".de",
+    "w2": "Alemania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 17730404,
+    "unigram_w1": 814416646,
+    "unigram_w2": 17786194,
+    "ppmi": 0.026485165031161644
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "丹佛",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 26303,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "科罗拉多州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 7989,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "丹佛",
+    "w2": "科罗拉多州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2397,
+    "unigram_w1": 26303,
+    "unigram_w2": 7989,
+    "ppmi": 9.377862811614712
+  }
+]

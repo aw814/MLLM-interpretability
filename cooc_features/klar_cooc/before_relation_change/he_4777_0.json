@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אלביס פרסלי",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 3087,
+    "unigram_w2": 2401,
+    "ppmi": 2.319761692848283
+  },
+  {
+    "w1": "instrument",
+    "w2": "גיטרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163,
+    "unigram_w1": 2401,
+    "unigram_w2": 45498,
+    "ppmi": 4.202001605672959
+  },
+  {
+    "w1": "אלביס פרסלי",
+    "w2": "גיטרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 397,
+    "unigram_w1": 3087,
+    "unigram_w2": 45498,
+    "ppmi": 5.123698569200131
+  }
+]

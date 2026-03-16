@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "サンティアゴ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11372,
+    "unigram_w1": 76424,
+    "unigram_w2": 2444276,
+    "ppmi": 3.410588708620443
+  },
+  {
+    "w1": "首都",
+    "w2": "チリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 551304,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "サンティアゴ",
+    "w2": "チリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18732,
+    "unigram_w1": 76424,
+    "unigram_w2": 551304,
+    "ppmi": 6.279094872518098
+  }
+]

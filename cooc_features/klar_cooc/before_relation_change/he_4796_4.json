@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אריק קלפטון",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 2064,
+    "unigram_w2": 2401,
+    "ppmi": 3.3155617043189975
+  },
+  {
+    "w1": "instrument",
+    "w2": "גיטרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 163,
+    "unigram_w1": 2401,
+    "unigram_w2": 45498,
+    "ppmi": 4.202001605672959
+  },
+  {
+    "w1": "אריק קלפטון",
+    "w2": "גיטרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 942,
+    "unigram_w1": 2064,
+    "unigram_w2": 45498,
+    "ppmi": 6.951049133861827
+  }
+]

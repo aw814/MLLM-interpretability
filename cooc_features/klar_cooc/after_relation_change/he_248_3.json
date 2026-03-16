@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אורוגוואי",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 392,
+    "unigram_w1": 10122,
+    "unigram_w2": 236631,
+    "ppmi": 1.013432171369456
+  },
+  {
+    "w1": "שפה",
+    "w2": "ספרדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 47368,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אורוגוואי",
+    "w2": "ספרדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 588,
+    "unigram_w1": 10122,
+    "unigram_w2": 47368,
+    "ppmi": 3.9190490953776864
+  }
+]

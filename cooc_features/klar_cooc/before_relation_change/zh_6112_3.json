@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "任天堂",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 69289,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "京都市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 17927,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "任天堂",
+    "w2": "京都市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 69289,
+    "unigram_w2": 17927,
+    "ppmi": 0.5874023933757369
+  }
+]

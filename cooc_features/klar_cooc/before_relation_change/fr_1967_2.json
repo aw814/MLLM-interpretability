@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Augustin Fresnel",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 56,
+    "unigram_w1": 10304,
+    "unigram_w2": 1178529,
+    "ppmi": 1.2567975148128983
+  },
+  {
+    "w1": "occupation",
+    "w2": "physicien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3181,
+    "unigram_w1": 1178529,
+    "unigram_w2": 341696,
+    "ppmi": 2.0332702937449127
+  },
+  {
+    "w1": "Augustin Fresnel",
+    "w2": "physicien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 734,
+    "unigram_w1": 10304,
+    "unigram_w2": 341696,
+    "ppmi": 6.755280840602658
+  }
+]

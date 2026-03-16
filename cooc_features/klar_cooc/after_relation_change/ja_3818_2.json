@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カトマンズ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10186,
+    "unigram_w1": 44136,
+    "unigram_w2": 2444276,
+    "ppmi": 4.043760210979719
+  },
+  {
+    "w1": "首都",
+    "w2": "ネパール",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 312160,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "カトマンズ",
+    "w2": "ネパール",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31092,
+    "unigram_w1": 44136,
+    "unigram_w2": 312160,
+    "ppmi": 8.622765620777031
+  }
+]

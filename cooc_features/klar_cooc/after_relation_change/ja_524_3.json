@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ジャージー",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4496,
+    "unigram_w1": 218368,
+    "unigram_w2": 3715876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "言語",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ジャージー",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12406,
+    "unigram_w1": 218368,
+    "unigram_w2": 8357100,
+    "ppmi": 0.2478817523638294
+  }
+]

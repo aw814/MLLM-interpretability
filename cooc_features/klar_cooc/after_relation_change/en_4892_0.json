@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Joseph Bonaparte",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 137,
+    "unigram_w1": 1311,
+    "unigram_w2": 9241408,
+    "ppmi": 2.044701783215863
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Joseph Bonaparte",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 759,
+    "unigram_w1": 1311,
+    "unigram_w2": 6382804,
+    "ppmi": 5.04854810290303
+  }
+]

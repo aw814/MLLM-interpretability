@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mandatory Palestine",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 421,
+    "unigram_w1": 2146,
+    "unigram_w2": 7450623,
+    "ppmi": 3.264115342231492
+  },
+  {
+    "w1": "capital",
+    "w2": "Jerusalem",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 89958,
+    "unigram_w1": 7450623,
+    "unigram_w2": 776243,
+    "ppmi": 2.5046884181843625
+  },
+  {
+    "w1": "Mandatory Palestine",
+    "w2": "Jerusalem",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1247,
+    "unigram_w1": 2146,
+    "unigram_w2": 776243,
+    "ppmi": 8.093465475111199
+  }
+]

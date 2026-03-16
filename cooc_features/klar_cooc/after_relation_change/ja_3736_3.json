@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google+ ハングアウト",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 74,
+    "unigram_w1": 5792,
+    "unigram_w2": 270510,
+    "ppmi": 3.0443893191656404
+  },
+  {
+    "w1": "developer",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72998,
+    "unigram_w1": 270510,
+    "unigram_w2": 4618040,
+    "ppmi": 3.351501919071128
+  },
+  {
+    "w1": "Google+ ハングアウト",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5792,
+    "unigram_w1": 5792,
+    "unigram_w2": 4618040,
+    "ppmi": 5.241255003847382
+  }
+]

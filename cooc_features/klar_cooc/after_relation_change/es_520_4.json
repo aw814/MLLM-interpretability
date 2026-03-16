@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ecuador",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 649128,
+    "unigram_w1": 13832294,
+    "unigram_w2": 12196104,
+    "ppmi": 1.6788987284022725
+  },
+  {
+    "w1": "idioma",
+    "w2": "español",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 52196598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ecuador",
+    "w2": "español",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2337936,
+    "unigram_w1": 13832294,
+    "unigram_w2": 52196598,
+    "ppmi": 1.4300238506855374
+  }
+]

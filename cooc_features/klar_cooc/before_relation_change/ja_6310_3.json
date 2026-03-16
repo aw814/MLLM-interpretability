@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ガイアナ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 262,
+    "unigram_w1": 19450,
+    "unigram_w2": 498928,
+    "ppmi": 2.2375725987164845
+  },
+  {
+    "w1": "capital",
+    "w2": "ジョージタウン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1024,
+    "unigram_w1": 498928,
+    "unigram_w2": 31666,
+    "ppmi": 3.500985112514964
+  },
+  {
+    "w1": "ガイアナ",
+    "w2": "ジョージタウン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 930,
+    "unigram_w1": 19450,
+    "unigram_w2": 31666,
+    "ppmi": 8.043061594314754
+  }
+]

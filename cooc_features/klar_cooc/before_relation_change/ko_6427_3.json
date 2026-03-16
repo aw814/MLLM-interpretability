@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오스트리아-헝가리 제국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 560,
+    "unigram_w2": 36855,
+    "ppmi": 1.596459452533958
+  },
+  {
+    "w1": "capital",
+    "w2": "빈",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 703,
+    "unigram_w1": 36855,
+    "unigram_w2": 209976,
+    "ppmi": 0.503258435078894
+  },
+  {
+    "w1": "오스트리아-헝가리 제국",
+    "w2": "빈",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 126,
+    "unigram_w1": 560,
+    "unigram_w2": 209976,
+    "ppmi": 4.063447200531992
+  }
+]

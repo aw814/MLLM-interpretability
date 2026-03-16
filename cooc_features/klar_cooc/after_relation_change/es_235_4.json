@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Polinesia Francesa",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6206,
+    "unigram_w1": 190394,
+    "unigram_w2": 12196104,
+    "ppmi": 1.1531118608903368
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Polinesia Francesa",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14630,
+    "unigram_w1": 190394,
+    "unigram_w2": 16087876,
+    "ppmi": 1.9907525192278606
+  }
+]

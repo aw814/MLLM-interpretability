@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ボストーク湖",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 536,
+    "unigram_w2": 48638,
+    "ppmi": 5.329181266999473
+  },
+  {
+    "w1": "continent",
+    "w2": "南極大陸",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 48638,
+    "unigram_w2": 33952,
+    "ppmi": 5.016486858513977
+  },
+  {
+    "w1": "ボストーク湖",
+    "w2": "南極大陸",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 536,
+    "unigram_w2": 33952,
+    "ppmi": 10.738539542099122
+  }
+]

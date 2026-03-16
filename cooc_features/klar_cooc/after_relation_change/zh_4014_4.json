@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "朴赞郁",
+    "w2": "说话",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 416,
+    "unigram_w2": 712969,
+    "ppmi": 0.9755961204287276
+  },
+  {
+    "w1": "说话",
+    "w2": "朝鲜语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 712969,
+    "unigram_w2": 4597,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "朴赞郁",
+    "w2": "朝鲜语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 416,
+    "unigram_w2": 4597,
+    "ppmi": 4.930670898595548
+  }
+]

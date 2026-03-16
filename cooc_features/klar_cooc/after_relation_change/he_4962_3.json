@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מיכאיל חודורקובסקי",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 208,
+    "unigram_w2": 236631,
+    "ppmi": 0.003489368121877606
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מיכאיל חודורקובסקי",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45,
+    "unigram_w1": 208,
+    "unigram_w2": 106961,
+    "ppmi": 4.640896693070056
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אאידה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 72,
+    "unigram_w1": 1305,
+    "unigram_w2": 236631,
+    "ppmi": 1.5240199962480352
+  },
+  {
+    "w1": "שפה",
+    "w2": "איטלקית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 48433,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אאידה",
+    "w2": "איטלקית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 1305,
+    "unigram_w2": 48433,
+    "ppmi": 3.4500267309988346
+  }
+]

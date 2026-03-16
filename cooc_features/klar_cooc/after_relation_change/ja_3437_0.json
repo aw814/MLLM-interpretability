@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィガロの結婚",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2048,
+    "unigram_w1": 27212,
+    "unigram_w2": 3715876,
+    "ppmi": 1.8228779400916875
+  },
+  {
+    "w1": "言語",
+    "w2": "イタリア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 450190,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "フィガロの結婚",
+    "w2": "イタリア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3198,
+    "unigram_w1": 27212,
+    "unigram_w2": 450190,
+    "ppmi": 5.510928606987978
+  }
+]

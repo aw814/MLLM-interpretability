@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ריף דמשק",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 105,
+    "unigram_w2": 14610,
+    "ppmi": 4.007294572615685
+  },
+  {
+    "w1": "capital",
+    "w2": "דמשק",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 14610,
+    "unigram_w2": 20134,
+    "ppmi": 0.3310844869436077
+  },
+  {
+    "w1": "ריף דמשק",
+    "w2": "דמשק",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 105,
+    "unigram_w1": 105,
+    "unigram_w2": 20134,
+    "ppmi": 9.25886244902595
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Luanda",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28474,
+    "unigram_w1": 79450,
+    "unigram_w2": 42058182,
+    "ppmi": 2.825924192901437
+  },
+  {
+    "w1": "capital",
+    "w2": "Angola",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 181158,
+    "unigram_w1": 42058182,
+    "unigram_w2": 830926,
+    "ppmi": 2.108854753627252
+  },
+  {
+    "w1": "Luanda",
+    "w2": "Angola",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 55388,
+    "unigram_w1": 79450,
+    "unigram_w2": 830926,
+    "ppmi": 9.447375141742972
+  }
+]

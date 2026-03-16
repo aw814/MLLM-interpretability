@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מונרוביה",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 275,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "ליבריה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3323,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "מונרוביה",
+    "w2": "ליבריה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 145,
+    "unigram_w1": 275,
+    "unigram_w2": 3323,
+    "ppmi": 10.934559351883548
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edward Gibbon",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1465,
+    "unigram_w1": 2803,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3497156832038892
+  },
+  {
+    "w1": "work",
+    "w2": "history",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6849113,
+    "unigram_w1": 74824954,
+    "unigram_w2": 19135177,
+    "ppmi": 0.8035485848364731
+  },
+  {
+    "w1": "Edward Gibbon",
+    "w2": "history",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1932,
+    "unigram_w1": 2803,
+    "unigram_w2": 19135177,
+    "ppmi": 3.7162023535626507
+  }
+]

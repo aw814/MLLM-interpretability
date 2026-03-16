@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "royaume d'Irlande",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 923,
+    "unigram_w2": 7952962,
+    "ppmi": 0.8195238047330698
+  },
+  {
+    "w1": "capital",
+    "w2": "Dublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 35188,
+    "unigram_w1": 7952962,
+    "unigram_w2": 737495,
+    "ppmi": 1.6363766065257723
+  },
+  {
+    "w1": "royaume d'Irlande",
+    "w2": "Dublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 212,
+    "unigram_w1": 923,
+    "unigram_w2": 737495,
+    "ppmi": 7.33437517367383
+  }
+]

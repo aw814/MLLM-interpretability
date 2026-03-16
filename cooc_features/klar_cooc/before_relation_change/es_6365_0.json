@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lancashire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9258,
+    "unigram_w1": 76852,
+    "unigram_w2": 42058182,
+    "ppmi": 1.2530158993288334
+  },
+  {
+    "w1": "capital",
+    "w2": "Preston",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44010,
+    "unigram_w1": 42058182,
+    "unigram_w2": 397962,
+    "ppmi": 1.1295988341583971
+  },
+  {
+    "w1": "Lancashire",
+    "w2": "Preston",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5972,
+    "unigram_w1": 76852,
+    "unigram_w2": 397962,
+    "ppmi": 7.344141502227003
+  }
+]

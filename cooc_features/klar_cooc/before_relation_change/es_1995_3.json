@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aleksandr Solzhenitsyn",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 6380,
+    "unigram_w2": 77008,
+    "ppmi": 3.34511047478989
+  },
+  {
+    "w1": "occupation",
+    "w2": "poeta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1628,
+    "unigram_w1": 77008,
+    "unigram_w2": 5320434,
+    "ppmi": 1.7252611631941606
+  },
+  {
+    "w1": "Aleksandr Solzhenitsyn",
+    "w2": "poeta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 850,
+    "unigram_w1": 6380,
+    "unigram_w2": 5320434,
+    "ppmi": 4.381075209265618
+  }
+]

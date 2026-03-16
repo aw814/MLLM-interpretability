@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "BP",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31356,
+    "unigram_w1": 373463,
+    "unigram_w2": 14590058,
+    "ppmi": 1.0701687485508107
+  },
+  {
+    "w1": "location",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 563269,
+    "unigram_w1": 14590058,
+    "unigram_w2": 8112147,
+    "ppmi": 0.7961328145808008
+  },
+  {
+    "w1": "BP",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30174,
+    "unigram_w1": 373463,
+    "unigram_w2": 8112147,
+    "ppmi": 1.8615630950072355
+  }
+]

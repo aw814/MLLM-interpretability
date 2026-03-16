@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "柏林奥林匹克体育场",
+    "w2": "拥有",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 108,
+    "unigram_w2": 2407316,
+    "ppmi": 1.303137582899016
+  },
+  {
+    "w1": "拥有",
+    "w2": "柏林",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2407316,
+    "unigram_w2": 207635,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "柏林奥林匹克体育场",
+    "w2": "柏林",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 108,
+    "unigram_w2": 207635,
+    "ppmi": 8.133897440989225
+  }
+]

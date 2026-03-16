@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スペイン帝国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 30,
+    "unigram_w1": 2812,
+    "unigram_w2": 498928,
+    "ppmi": 1.901141848475934
+  },
+  {
+    "w1": "capital",
+    "w2": "マドリード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1644,
+    "unigram_w1": 498928,
+    "unigram_w2": 237396,
+    "ppmi": 1.2776906146665887
+  },
+  {
+    "w1": "スペイン帝国",
+    "w2": "マドリード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 402,
+    "unigram_w1": 2812,
+    "unigram_w2": 237396,
+    "ppmi": 6.716838953656611
+  }
+]

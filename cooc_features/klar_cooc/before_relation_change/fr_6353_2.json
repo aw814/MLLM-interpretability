@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alsace",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 85000,
+    "unigram_w1": 2526973,
+    "unigram_w2": 7952962,
+    "ppmi": 1.1320508545078505
+  },
+  {
+    "w1": "capital",
+    "w2": "Strasbourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 184373,
+    "unigram_w1": 7952962,
+    "unigram_w2": 4669072,
+    "ppmi": 1.3634179214121402
+  },
+  {
+    "w1": "Alsace",
+    "w2": "Strasbourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 580185,
+    "unigram_w1": 2526973,
+    "unigram_w2": 4669072,
+    "ppmi": 4.671385546583474
+  }
+]

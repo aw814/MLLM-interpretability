@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "bandera de la India",
+    "w2": "jurisdicción",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 1912,
+    "unigram_w2": 3205324,
+    "ppmi": 0.9266587409757971
+  },
+  {
+    "w1": "jurisdicción",
+    "w2": "India",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3205324,
+    "unigram_w2": 12229280,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "bandera de la India",
+    "w2": "India",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1912,
+    "unigram_w1": 1912,
+    "unigram_w2": 12229280,
+    "ppmi": 6.0883732589137285
+  }
+]

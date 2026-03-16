@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "צ'ילה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 77,
+    "unigram_w1": 16944,
+    "unigram_w2": 14610,
+    "ppmi": 1.9398397569843722
+  },
+  {
+    "w1": "capital",
+    "w2": "סנטיאגו דה צ'ילה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 14610,
+    "unigram_w2": 494,
+    "ppmi": 4.680063454305648
+  },
+  {
+    "w1": "צ'ילה",
+    "w2": "סנטיאגו דה צ'ילה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 494,
+    "unigram_w1": 16944,
+    "unigram_w2": 494,
+    "ppmi": 9.507721773980332
+  }
+]

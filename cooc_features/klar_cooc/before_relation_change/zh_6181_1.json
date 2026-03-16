@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "利默里克郡",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 24,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "利默里克",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 32140,
+    "unigram_w2": 565,
+    "ppmi": 3.268360702409594
+  },
+  {
+    "w1": "利默里克郡",
+    "w2": "利默里克",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 24,
+    "unigram_w2": 565,
+    "ppmi": 16.655480510250893
+  }
+]

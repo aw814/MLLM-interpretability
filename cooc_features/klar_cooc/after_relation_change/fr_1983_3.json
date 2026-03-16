@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Marquis de Sade",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 764,
+    "unigram_w1": 54976,
+    "unigram_w2": 1178529,
+    "ppmi": 2.6112739777671963
+  },
+  {
+    "w1": "occupation",
+    "w2": "dramaturge",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2589,
+    "unigram_w1": 1178529,
+    "unigram_w2": 289870,
+    "ppmi": 1.9734922164551776
+  },
+  {
+    "w1": "Marquis de Sade",
+    "w2": "dramaturge",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 537,
+    "unigram_w1": 54976,
+    "unigram_w2": 289870,
+    "ppmi": 4.126132752070678
+  }
+]

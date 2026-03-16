@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פורטוגל",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1095,
+    "unigram_w1": 40431,
+    "unigram_w2": 90246,
+    "ppmi": 1.888174167998268
+  },
+  {
+    "w1": "בירה",
+    "w2": "ליסבון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 15819,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פורטוגל",
+    "w2": "ליסבון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6431,
+    "unigram_w1": 40431,
+    "unigram_w2": 15819,
+    "ppmi": 6.95449097351725
+  }
+]

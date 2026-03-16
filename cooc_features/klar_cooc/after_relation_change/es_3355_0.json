@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wolfgang Ernst Pauli",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 652,
+    "unigram_w2": 9533866,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Austria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 3570462,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wolfgang Ernst Pauli",
+    "w2": "Austria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58,
+    "unigram_w1": 652,
+    "unigram_w2": 3570462,
+    "ppmi": 4.373782898372267
+  }
+]

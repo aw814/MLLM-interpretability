@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sima Qian",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 487,
+    "unigram_w1": 934,
+    "unigram_w2": 74824954,
+    "ppmi": 1.346285985299453
+  },
+  {
+    "w1": "work",
+    "w2": "history",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6849113,
+    "unigram_w1": 74824954,
+    "unigram_w2": 19135177,
+    "ppmi": 0.8035485848364731
+  },
+  {
+    "w1": "Sima Qian",
+    "w2": "history",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 696,
+    "unigram_w1": 934,
+    "unigram_w2": 19135177,
+    "ppmi": 3.828743759898438
+  }
+]

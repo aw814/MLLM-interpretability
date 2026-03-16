@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "San Mateo",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7250,
+    "unigram_w1": 886164,
+    "unigram_w2": 979024,
+    "ppmi": 2.7977757756102775
+  },
+  {
+    "w1": "religion",
+    "w2": "cristianismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 91096,
+    "unigram_w1": 979024,
+    "unigram_w2": 1891270,
+    "ppmi": 5.355400867877766
+  },
+  {
+    "w1": "San Mateo",
+    "w2": "cristianismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26458,
+    "unigram_w1": 886164,
+    "unigram_w2": 1891270,
+    "ppmi": 3.715487678640196
+  }
+]

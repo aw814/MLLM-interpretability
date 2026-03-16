@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Little Rock",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8089,
+    "unigram_w1": 140237,
+    "unigram_w2": 7450623,
+    "ppmi": 1.4981114122268646
+  },
+  {
+    "w1": "capital",
+    "w2": "Arkansas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 31767,
+    "unigram_w1": 7450623,
+    "unigram_w2": 658408,
+    "ppmi": 1.240492171464902
+  },
+  {
+    "w1": "Little Rock",
+    "w2": "Arkansas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 77061,
+    "unigram_w1": 140237,
+    "unigram_w2": 658408,
+    "ppmi": 8.250386347947233
+  }
+]

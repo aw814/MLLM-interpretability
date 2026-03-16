@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sénat",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2042193,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "France",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 94869599,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sénat",
+    "w2": "France",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 995970,
+    "unigram_w1": 2042193,
+    "unigram_w2": 94869599,
+    "ppmi": 1.413527761937138
+  }
+]

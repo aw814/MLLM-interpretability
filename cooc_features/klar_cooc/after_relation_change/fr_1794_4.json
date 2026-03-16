@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Robert Wilhelm Bunsen",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 77,
+    "unigram_w1": 376,
+    "unigram_w2": 57128353,
+    "ppmi": 0.8934093864578602
+  },
+  {
+    "w1": "travail",
+    "w2": "chimie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 2290493,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Robert Wilhelm Bunsen",
+    "w2": "chimie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 171,
+    "unigram_w1": 376,
+    "unigram_w2": 2290493,
+    "ppmi": 6.684952239595649
+  }
+]

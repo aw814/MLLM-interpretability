@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Petchora",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 174,
+    "unigram_w1": 1497,
+    "unigram_w2": 3399010,
+    "ppmi": 4.147317113662289
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 768230,
+    "unigram_w1": 3399010,
+    "unigram_w2": 18211758,
+    "ppmi": 2.6850440435748153
+  },
+  {
+    "w1": "Petchora",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 315,
+    "unigram_w1": 1497,
+    "unigram_w2": 18211758,
+    "ppmi": 2.5818979537615694
+  }
+]

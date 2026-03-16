@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anatole France",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10602,
+    "unigram_w1": 185498,
+    "unigram_w2": 12749290,
+    "ppmi": 1.2160064475291883
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Anatole France",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31894,
+    "unigram_w1": 185498,
+    "unigram_w2": 46536486,
+    "ppmi": 0.9370096774842718
+  }
+]

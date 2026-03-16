@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Gloria Estefan",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1278,
+    "unigram_w1": 83414,
+    "unigram_w2": 21073362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Miami",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 7065124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Gloria Estefan",
+    "w2": "Miami",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23396,
+    "unigram_w1": 83414,
+    "unigram_w2": 7065124,
+    "ppmi": 5.04589829165993
+  }
+]

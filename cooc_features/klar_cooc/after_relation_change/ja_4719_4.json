@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アンリ3世",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36,
+    "unigram_w1": 902,
+    "unigram_w2": 154360,
+    "ppmi": 5.497106197263577
+  },
+  {
+    "w1": "religion",
+    "w2": "カトリシズム",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 168,
+    "unigram_w1": 154360,
+    "unigram_w2": 3134,
+    "ppmi": 5.922692777382826
+  },
+  {
+    "w1": "アンリ3世",
+    "w2": "カトリシズム",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 902,
+    "unigram_w2": 3134,
+    "ppmi": 7.949331154777301
+  }
+]

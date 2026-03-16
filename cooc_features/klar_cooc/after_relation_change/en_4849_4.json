@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dubai International Airport",
+    "w2": "owns",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 141,
+    "unigram_w1": 12913,
+    "unigram_w2": 1657738,
+    "ppmi": 1.2650330934974536
+  },
+  {
+    "w1": "owns",
+    "w2": "Emirates of Dubai",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 1657738,
+    "unigram_w2": 369,
+    "ppmi": 2.7139729455141635
+  },
+  {
+    "w1": "Dubai International Airport",
+    "w2": "Emirates of Dubai",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 12913,
+    "unigram_w2": 369,
+    "ppmi": 9.843751816761127
+  }
+]

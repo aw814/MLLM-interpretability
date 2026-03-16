@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ibrahim Pasha of Egypt",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25,
+    "unigram_w1": 74,
+    "unigram_w2": 5281801,
+    "ppmi": 4.544607221992684
+  },
+  {
+    "w1": "died",
+    "w2": "Cairo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25153,
+    "unigram_w1": 5281801,
+    "unigram_w2": 288395,
+    "ppmi": 2.590960631275075
+  },
+  {
+    "w1": "Ibrahim Pasha of Egypt",
+    "w2": "Cairo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 74,
+    "unigram_w2": 288395,
+    "ppmi": 7.903017843618842
+  }
+]

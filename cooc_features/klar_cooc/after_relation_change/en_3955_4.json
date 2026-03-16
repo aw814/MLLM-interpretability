@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Muscat",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9342,
+    "unigram_w1": 74934,
+    "unigram_w2": 7450623,
+    "ppmi": 2.6100561651392806
+  },
+  {
+    "w1": "capital",
+    "w2": "Oman",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24253,
+    "unigram_w1": 7450623,
+    "unigram_w2": 224830,
+    "ppmi": 2.4012738458419043
+  },
+  {
+    "w1": "Muscat",
+    "w2": "Oman",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29721,
+    "unigram_w1": 74934,
+    "unigram_w2": 224830,
+    "ppmi": 9.330190079240527
+  }
+]

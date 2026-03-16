@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bernardo Houssay",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 120,
+    "unigram_w2": 737500,
+    "ppmi": 3.0436287945317972
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Argentina",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7841,
+    "unigram_w1": 737500,
+    "unigram_w2": 724709,
+    "ppmi": 2.4202990492529124
+  },
+  {
+    "w1": "Bernardo Houssay",
+    "w2": "Argentina",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 120,
+    "unigram_w2": 724709,
+    "ppmi": 8.113264152309121
+  }
+]

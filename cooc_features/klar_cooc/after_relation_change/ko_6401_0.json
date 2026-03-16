@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아프가니스탄 민주공화국",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 3,
+    "unigram_w2": 1351571,
+    "ppmi": 1.9441468366619532
+  },
+  {
+    "w1": "수도",
+    "w2": "카불",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 1125,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아프가니스탄 민주공화국",
+    "w2": "카불",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 3,
+    "unigram_w2": 1125,
+    "ppmi": 12.174643420624053
+  }
+]

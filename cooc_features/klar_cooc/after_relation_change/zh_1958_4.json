@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "洛可可",
+    "w2": "工作",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1058,
+    "unigram_w1": 4318,
+    "unigram_w2": 12146148,
+    "ppmi": 0.2345684338832417
+  },
+  {
+    "w1": "工作",
+    "w2": "建筑",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12146148,
+    "unigram_w2": 2148865,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "洛可可",
+    "w2": "建筑",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 998,
+    "unigram_w1": 4318,
+    "unigram_w2": 2148865,
+    "ppmi": 2.649192625606761
+  }
+]

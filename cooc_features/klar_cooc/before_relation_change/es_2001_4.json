@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "James Fenimore Cooper",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 4240,
+    "unigram_w2": 77008,
+    "ppmi": 3.93460263399156
+  },
+  {
+    "w1": "occupation",
+    "w2": "novelista",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 436,
+    "unigram_w1": 77008,
+    "unigram_w2": 950086,
+    "ppmi": 2.309974423661731
+  },
+  {
+    "w1": "James Fenimore Cooper",
+    "w2": "novelista",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 4240,
+    "unigram_w2": 950086,
+    "ppmi": 6.752568253969
+  }
+]

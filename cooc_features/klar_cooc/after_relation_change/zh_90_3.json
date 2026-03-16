@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "彼得一世",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 55,
+    "unigram_w1": 549,
+    "unigram_w2": 517729,
+    "ppmi": 3.4964473362550903
+  },
+  {
+    "w1": "去世",
+    "w2": "贝尔格莱德",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 11437,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "彼得一世",
+    "w2": "贝尔格莱德",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 549,
+    "unigram_w2": 11437,
+    "ppmi": 6.022859097673977
+  }
+]

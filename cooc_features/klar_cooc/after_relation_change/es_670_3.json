@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "San Martín",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 369448,
+    "unigram_w1": 6298684,
+    "unigram_w2": 12196104,
+    "ppmi": 2.0006851581690897
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "San Martín",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 868952,
+    "unigram_w1": 6298684,
+    "unigram_w2": 30884572,
+    "ppmi": 1.894124345806309
+  }
+]

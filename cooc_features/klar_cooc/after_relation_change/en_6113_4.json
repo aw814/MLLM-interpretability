@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "University of Cambridge",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6088,
+    "unigram_w1": 106062,
+    "unigram_w2": 14590058,
+    "ppmi": 0.5215249417705469
+  },
+  {
+    "w1": "location",
+    "w2": "Cambridge",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 108477,
+    "unigram_w1": 14590058,
+    "unigram_w2": 1335939,
+    "ppmi": 1.021927587155438
+  },
+  {
+    "w1": "University of Cambridge",
+    "w2": "Cambridge",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 106062,
+    "unigram_w1": 106062,
+    "unigram_w2": 1335939,
+    "ppmi": 8.09338020986169
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イブン・ハルドゥーン",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 42,
+    "unigram_w1": 1016,
+    "unigram_w2": 620194,
+    "ppmi": 3.5413769352546565
+  },
+  {
+    "w1": "死亡した",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 321728,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "イブン・ハルドゥーン",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 212,
+    "unigram_w1": 1016,
+    "unigram_w2": 321728,
+    "ppmi": 6.823858036600929
+  }
+]

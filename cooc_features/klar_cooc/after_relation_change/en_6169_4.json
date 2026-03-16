@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kingdom of Sicily",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 372,
+    "unigram_w1": 1069,
+    "unigram_w2": 7450623,
+    "ppmi": 4.090985953309159
+  },
+  {
+    "w1": "capital",
+    "w2": "Naples",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18006,
+    "unigram_w1": 7450623,
+    "unigram_w2": 279382,
+    "ppmi": 1.658183835897485
+  },
+  {
+    "w1": "Kingdom of Sicily",
+    "w2": "Naples",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 454,
+    "unigram_w1": 1069,
+    "unigram_w2": 279382,
+    "ppmi": 9.115425715165816
+  }
+]

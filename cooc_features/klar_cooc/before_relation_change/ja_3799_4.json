@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "インディアナポリス",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 44270,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "インディアナ州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 42664,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "インディアナポリス",
+    "w2": "インディアナ州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8030,
+    "unigram_w1": 44270,
+    "unigram_w2": 42664,
+    "ppmi": 9.536515149241717
+  }
+]

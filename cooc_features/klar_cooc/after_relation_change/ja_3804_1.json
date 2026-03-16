@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドレスデン",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7348,
+    "unigram_w1": 98030,
+    "unigram_w2": 2444276,
+    "ppmi": 2.421328682794658
+  },
+  {
+    "w1": "首都",
+    "w2": "ザクセン州",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 7704,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドレスデン",
+    "w2": "ザクセン州",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2972,
+    "unigram_w1": 98030,
+    "unigram_w2": 7704,
+    "ppmi": 9.424994952668428
+  }
+]

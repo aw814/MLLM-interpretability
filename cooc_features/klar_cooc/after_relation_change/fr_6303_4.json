@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kanagawa",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3134,
+    "unigram_w1": 37361,
+    "unigram_w2": 9137640,
+    "ppmi": 2.2500691394572243
+  },
+  {
+    "w1": "capitale",
+    "w2": "Yokohama",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 141930,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Kanagawa",
+    "w2": "Yokohama",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9964,
+    "unigram_w1": 37361,
+    "unigram_w2": 141930,
+    "ppmi": 9.927359114544716
+  }
+]

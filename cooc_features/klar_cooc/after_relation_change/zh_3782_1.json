@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "哈瓦那",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2190,
+    "unigram_w1": 10531,
+    "unigram_w2": 596594,
+    "ppmi": 4.345557961690093
+  },
+  {
+    "w1": "首都",
+    "w2": "古巴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 93066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "哈瓦那",
+    "w2": "古巴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4803,
+    "unigram_w1": 10531,
+    "unigram_w2": 93066,
+    "ppmi": 8.158986262572405
+  }
+]

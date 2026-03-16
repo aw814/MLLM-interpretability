@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bihar",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1218,
+    "unigram_w1": 117736,
+    "unigram_w2": 965266,
+    "ppmi": 1.9673383008463028
+  },
+  {
+    "w1": "continent",
+    "w2": "Asia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113701,
+    "unigram_w1": 965266,
+    "unigram_w2": 3865133,
+    "ppmi": 3.475034665864724
+  },
+  {
+    "w1": "Bihar",
+    "w2": "Asia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8156,
+    "unigram_w1": 117736,
+    "unigram_w2": 3865133,
+    "ppmi": 2.7091663527457275
+  }
+]

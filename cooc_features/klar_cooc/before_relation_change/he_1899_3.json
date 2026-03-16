@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנרי מואסאן",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 21,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "כימיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 45879,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אנרי מואסאן",
+    "w2": "כימיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 21,
+    "unigram_w2": 45879,
+    "ppmi": 6.000272994486792
+  }
+]

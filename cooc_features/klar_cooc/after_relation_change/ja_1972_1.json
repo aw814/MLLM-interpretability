@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヴェルナー・ハイゼンベルク",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 582,
+    "unigram_w2": 62696,
+    "ppmi": 4.844105618638458
+  },
+  {
+    "w1": "occupation",
+    "w2": "物理学者",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 140,
+    "unigram_w1": 62696,
+    "unigram_w2": 140446,
+    "ppmi": 1.4736454672449408
+  },
+  {
+    "w1": "ヴェルナー・ハイゼンベルク",
+    "w2": "物理学者",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 396,
+    "unigram_w1": 582,
+    "unigram_w2": 140446,
+    "ppmi": 9.724929509150977
+  }
+]

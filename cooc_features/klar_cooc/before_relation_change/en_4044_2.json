@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Willem Einthoven",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 205,
+    "unigram_w2": 4,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 4,
+    "unigram_w2": 1528017,
+    "ppmi": 5.899573750403919
+  },
+  {
+    "w1": "Willem Einthoven",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 90,
+    "unigram_w1": 205,
+    "unigram_w2": 1528017,
+    "ppmi": 6.711946747228147
+  }
+]

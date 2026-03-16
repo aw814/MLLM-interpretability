@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Afrique du Sud",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 167191,
+    "unigram_w1": 2052749,
+    "unigram_w2": 3399010,
+    "ppmi": 3.6342439846706
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Afrique du Sud",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2052749,
+    "unigram_w1": 2052749,
+    "unigram_w2": 8624942,
+    "ppmi": 5.908831975070285
+  }
+]

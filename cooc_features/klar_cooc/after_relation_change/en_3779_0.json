@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Melbourne",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83721,
+    "unigram_w1": 1378727,
+    "unigram_w2": 7450623,
+    "ppmi": 1.5722698151208292
+  },
+  {
+    "w1": "capital",
+    "w2": "Victoria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 120237,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1716697,
+    "ppmi": 1.778190679936083
+  },
+  {
+    "w1": "Melbourne",
+    "w2": "Victoria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 191549,
+    "unigram_w1": 1378727,
+    "unigram_w2": 1716697,
+    "ppmi": 4.884047501250706
+  }
+]

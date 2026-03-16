@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "弗朗西斯科·佛朗哥",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 74,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "马德里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 109162,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "弗朗西斯科·佛朗哥",
+    "w2": "马德里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 74,
+    "unigram_w2": 109162,
+    "ppmi": 7.311454613974039
+  }
+]

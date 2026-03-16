@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Romania",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 1149,
+    "unigram_w2": 1074632,
+    "ppmi": 3.241228558124301
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Romania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5806,
+    "unigram_w1": 1074632,
+    "unigram_w2": 501862,
+    "ppmi": 1.9737893107481261
+  },
+  {
+    "w1": "President of Romania",
+    "w2": "Romania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1149,
+    "unigram_w1": 1149,
+    "unigram_w2": 501862,
+    "ppmi": 9.50587172729002
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ユーゴスラビア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 400,
+    "unigram_w1": 55624,
+    "unigram_w2": 498928,
+    "ppmi": 1.3320684475225872
+  },
+  {
+    "w1": "capital",
+    "w2": "ベオグラード",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 714,
+    "unigram_w1": 498928,
+    "unigram_w2": 23808,
+    "ppmi": 3.392253584861019
+  },
+  {
+    "w1": "ユーゴスラビア",
+    "w2": "ベオグラード",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4978,
+    "unigram_w1": 55624,
+    "unigram_w2": 23808,
+    "ppmi": 9.35887607218618
+  }
+]

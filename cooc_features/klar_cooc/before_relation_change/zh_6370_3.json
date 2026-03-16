@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "钖拉库萨省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "锡拉库萨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 32140,
+    "unigram_w2": 290,
+    "ppmi": 2.6455961689760534
+  },
+  {
+    "w1": "钖拉库萨省",
+    "w2": "锡拉库萨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 290,
+    "ppmi": 0.0
+  }
+]

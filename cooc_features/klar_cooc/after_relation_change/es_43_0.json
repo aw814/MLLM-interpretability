@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Johann Pachelbel",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 416,
+    "unigram_w1": 4316,
+    "unigram_w2": 8520304,
+    "ppmi": 3.234696484039189
+  },
+  {
+    "w1": "murió",
+    "w2": "Núremberg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 98268,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Johann Pachelbel",
+    "w2": "Núremberg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 126,
+    "unigram_w1": 4316,
+    "unigram_w2": 98268,
+    "ppmi": 7.949576091443897
+  }
+]

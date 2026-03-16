@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イラン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5116,
+    "unigram_w1": 574648,
+    "unigram_w2": 498928,
+    "ppmi": 1.6401137010366096
+  },
+  {
+    "w1": "capital",
+    "w2": "テヘラン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 486,
+    "unigram_w1": 498928,
+    "unigram_w2": 40786,
+    "ppmi": 2.0606582311686847
+  },
+  {
+    "w1": "イラン",
+    "w2": "テヘラン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30844,
+    "unigram_w1": 574648,
+    "unigram_w2": 40786,
+    "ppmi": 7.844701110991158
+  }
+]

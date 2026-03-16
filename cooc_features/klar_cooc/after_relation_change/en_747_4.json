@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Latvia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23865,
+    "unigram_w1": 260686,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8537768061793216
+  },
+  {
+    "w1": "language",
+    "w2": "Latvian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12197,
+    "unigram_w1": 9241408,
+    "unigram_w2": 76733,
+    "ppmi": 2.64980085307902
+  },
+  {
+    "w1": "Latvia",
+    "w2": "Latvian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31882,
+    "unigram_w1": 260686,
+    "unigram_w2": 76733,
+    "ppmi": 9.183744307550304
+  }
+]

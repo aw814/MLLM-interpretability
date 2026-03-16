@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "LibreOffice",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 174413,
+    "unigram_w1": 295111,
+    "unigram_w2": 12749290,
+    "ppmi": 4.586251608293819
+  },
+  {
+    "w1": "langue",
+    "w2": "finnois",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 263155,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "LibreOffice",
+    "w2": "finnois",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 141,
+    "unigram_w1": 295111,
+    "unigram_w2": 263155,
+    "ppmi": 0.0
+  }
+]

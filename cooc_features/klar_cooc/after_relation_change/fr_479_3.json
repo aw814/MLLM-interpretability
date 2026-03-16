@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Niue",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5172,
+    "unigram_w1": 120074,
+    "unigram_w2": 12749290,
+    "ppmi": 0.8079440205894173
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Niue",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4655,
+    "unigram_w1": 120074,
+    "unigram_w2": 17089249,
+    "ppmi": 0.2333308216803724
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "오하이오주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 3865,
+    "unigram_w2": 36855,
+    "ppmi": 1.8969526119170539
+  },
+  {
+    "w1": "capital",
+    "w2": "콜럼버스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 47,
+    "unigram_w1": 36855,
+    "unigram_w2": 6659,
+    "ppmi": 1.5792414963394041
+  },
+  {
+    "w1": "오하이오주",
+    "w2": "콜럼버스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 122,
+    "unigram_w1": 3865,
+    "unigram_w2": 6659,
+    "ppmi": 6.208710021383126
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת הונגריה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 477,
+    "unigram_w2": 14610,
+    "ppmi": 1.8236946342762956
+  },
+  {
+    "w1": "capital",
+    "w2": "בודפשט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 446,
+    "unigram_w1": 14610,
+    "unigram_w2": 17319,
+    "ppmi": 4.442371979473171
+  },
+  {
+    "w1": "ממלכת הונגריה",
+    "w2": "בודפשט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 108,
+    "unigram_w1": 477,
+    "unigram_w2": 17319,
+    "ppmi": 7.3331826834016836
+  }
+]

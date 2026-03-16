@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "키토",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1797,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "에콰도르",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 12911,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "키토",
+    "w2": "에콰도르",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 475,
+    "unigram_w1": 1797,
+    "unigram_w2": 12911,
+    "ppmi": 8.319411091094432
+  }
+]

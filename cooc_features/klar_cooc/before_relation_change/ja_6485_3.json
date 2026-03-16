@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ノーフォーク",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 862,
+    "unigram_w1": 34992,
+    "unigram_w2": 498928,
+    "ppmi": 3.1084386859809556
+  },
+  {
+    "w1": "capital",
+    "w2": "ノリッジ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 498928,
+    "unigram_w2": 8684,
+    "ppmi": 1.5374131227671188
+  },
+  {
+    "w1": "ノーフォーク",
+    "w2": "ノリッジ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 414,
+    "unigram_w1": 34992,
+    "unigram_w2": 8684,
+    "ppmi": 7.8947096843413505
+  }
+]

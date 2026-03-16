@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sicile",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13853,
+    "unigram_w1": 623446,
+    "unigram_w2": 7952962,
+    "ppmi": 0.533860191357043
+  },
+  {
+    "w1": "capital",
+    "w2": "Palerme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4994,
+    "unigram_w1": 7952962,
+    "unigram_w2": 236789,
+    "ppmi": 0.45859202176909275
+  },
+  {
+    "w1": "Sicile",
+    "w2": "Palerme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 73668,
+    "unigram_w1": 623446,
+    "unigram_w2": 236789,
+    "ppmi": 8.014518137646636
+  }
+]

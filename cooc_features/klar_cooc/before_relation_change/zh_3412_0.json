@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pinterest",
+    "w2": "language_of_work_or_name",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 11664,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "language_of_work_or_name",
+    "w2": "法语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 75685,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pinterest",
+    "w2": "法语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 295,
+    "unigram_w1": 11664,
+    "unigram_w2": 75685,
+    "ppmi": 4.284663926921703
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Serbie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23140,
+    "unigram_w1": 805641,
+    "unigram_w2": 7952962,
+    "ppmi": 0.9041781165340308
+  },
+  {
+    "w1": "capital",
+    "w2": "Belgrade",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8495,
+    "unigram_w1": 7952962,
+    "unigram_w2": 265451,
+    "ppmi": 1.0601666338843347
+  },
+  {
+    "w1": "Serbie",
+    "w2": "Belgrade",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104827,
+    "unigram_w1": 805641,
+    "unigram_w2": 265451,
+    "ppmi": 7.988702498822639
+  }
+]

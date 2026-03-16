@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "브레첼",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 108,
+    "unigram_w2": 563145,
+    "ppmi": 1.9441713875499764
+  },
+  {
+    "w1": "위치",
+    "w2": "독일",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 366157,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "브레첼",
+    "w2": "독일",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 108,
+    "unigram_w2": 366157,
+    "ppmi": 4.3307501960199195
+  }
+]

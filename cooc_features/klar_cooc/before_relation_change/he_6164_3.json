@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אלברטה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 2727,
+    "unigram_w2": 14610,
+    "ppmi": 2.215331700975063
+  },
+  {
+    "w1": "capital",
+    "w2": "אדמונטון",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 300,
+    "unigram_w1": 14610,
+    "unigram_w2": 1247,
+    "ppmi": 7.6661130309480185
+  },
+  {
+    "w1": "אלברטה",
+    "w2": "אדמונטון",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 246,
+    "unigram_w1": 2727,
+    "unigram_w2": 1247,
+    "ppmi": 9.801378418566975
+  }
+]

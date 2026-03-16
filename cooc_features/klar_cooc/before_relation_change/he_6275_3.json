@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "בוסניה והרצגובינה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 2898,
+    "unigram_w2": 14610,
+    "ppmi": 2.39062321216719
+  },
+  {
+    "w1": "capital",
+    "w2": "סרייבו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 1467,
+    "ppmi": 1.2028869346084174
+  },
+  {
+    "w1": "בוסניה והרצגובינה",
+    "w2": "סרייבו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 289,
+    "unigram_w1": 2898,
+    "unigram_w2": 1467,
+    "ppmi": 9.711639295243028
+  }
+]

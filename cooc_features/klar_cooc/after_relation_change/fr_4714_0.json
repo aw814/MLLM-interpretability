@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Louis XIV",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 75266,
+    "unigram_w1": 646816,
+    "unigram_w2": 4547729,
+    "ppmi": 3.7289152841360864
+  },
+  {
+    "w1": "religion",
+    "w2": "catholicisme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 170616,
+    "unigram_w1": 4547729,
+    "unigram_w2": 367305,
+    "ppmi": 5.725974854580905
+  },
+  {
+    "w1": "Louis XIV",
+    "w2": "catholicisme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14860,
+    "unigram_w1": 646816,
+    "unigram_w2": 367305,
+    "ppmi": 5.018446944403873
+  }
+]

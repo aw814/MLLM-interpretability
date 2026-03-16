@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anwar el-Sadat",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 5686,
+    "unigram_w2": 979024,
+    "ppmi": 3.5799544006670923
+  },
+  {
+    "w1": "religion",
+    "w2": "islam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 61902,
+    "unigram_w1": 979024,
+    "unigram_w2": 1779692,
+    "ppmi": 4.885726937382873
+  },
+  {
+    "w1": "Anwar el-Sadat",
+    "w2": "islam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1068,
+    "unigram_w1": 5686,
+    "unigram_w2": 1779692,
+    "ppmi": 6.456510784652377
+  }
+]

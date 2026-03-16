@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jacques Derrida",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 715,
+    "unigram_w1": 8963,
+    "unigram_w2": 5281801,
+    "ppmi": 2.4622378482020086
+  },
+  {
+    "w1": "died",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 207387,
+    "unigram_w1": 5281801,
+    "unigram_w2": 3039340,
+    "ppmi": 2.2368436920057535
+  },
+  {
+    "w1": "Jacques Derrida",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1345,
+    "unigram_w1": 8963,
+    "unigram_w2": 3039340,
+    "ppmi": 4.171100747771195
+  }
+]

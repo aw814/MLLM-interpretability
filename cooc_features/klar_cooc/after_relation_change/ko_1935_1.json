@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "애덤 스미스",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 1161,
+    "unigram_w2": 255115,
+    "ppmi": 0.9628281141826984
+  },
+  {
+    "w1": "작업",
+    "w2": "경제학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 39717,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "애덤 스미스",
+    "w2": "경제학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 372,
+    "unigram_w1": 1161,
+    "unigram_w2": 39717,
+    "ppmi": 6.9758527282737735
+  }
+]

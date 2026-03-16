@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vantaa",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 607,
+    "unigram_w1": 8152,
+    "unigram_w2": 9241408,
+    "ppmi": 1.5557360405669594
+  },
+  {
+    "w1": "language",
+    "w2": "Swedish",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 92822,
+    "unigram_w1": 9241408,
+    "unigram_w2": 963382,
+    "ppmi": 1.9275523900220122
+  },
+  {
+    "w1": "Vantaa",
+    "w2": "Swedish",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 695,
+    "unigram_w1": 8152,
+    "unigram_w2": 963382,
+    "ppmi": 5.0129853023402955
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "杰瑞德·莱托",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 535,
+    "unigram_w2": 3087,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "吉他",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 112,
+    "unigram_w1": 3087,
+    "unigram_w2": 92839,
+    "ppmi": 4.510509359432441
+  },
+  {
+    "w1": "杰瑞德·莱托",
+    "w2": "吉他",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 535,
+    "unigram_w2": 92839,
+    "ppmi": 1.8167116244226083
+  }
+]

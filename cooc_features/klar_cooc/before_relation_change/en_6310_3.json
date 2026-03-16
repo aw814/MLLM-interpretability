@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guyana",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9586,
+    "unigram_w1": 94670,
+    "unigram_w2": 7450623,
+    "ppmi": 2.3099668028681393
+  },
+  {
+    "w1": "capital",
+    "w2": "Georgetown",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 29971,
+    "unigram_w1": 7450623,
+    "unigram_w2": 323384,
+    "ppmi": 2.182264105387488
+  },
+  {
+    "w1": "Guyana",
+    "w2": "Georgetown",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10234,
+    "unigram_w1": 94670,
+    "unigram_w2": 323384,
+    "ppmi": 6.930376955171918
+  }
+]

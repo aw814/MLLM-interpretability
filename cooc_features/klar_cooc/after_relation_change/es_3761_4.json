@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Argel",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 63306,
+    "unigram_w1": 248660,
+    "unigram_w2": 42058182,
+    "ppmi": 2.3325659322945675
+  },
+  {
+    "w1": "capital",
+    "w2": "Argelia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 219908,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1170292,
+    "ppmi": 1.894429688489307
+  },
+  {
+    "w1": "Argel",
+    "w2": "Argelia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 79920,
+    "unigram_w1": 248660,
+    "unigram_w2": 1170292,
+    "ppmi": 7.836226316405173
+  }
+]

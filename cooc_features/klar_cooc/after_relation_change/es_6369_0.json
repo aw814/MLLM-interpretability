@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alemania nazi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58746,
+    "unigram_w1": 279752,
+    "unigram_w2": 42058182,
+    "ppmi": 2.054740318815863
+  },
+  {
+    "w1": "capital",
+    "w2": "Berlín",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 752952,
+    "unigram_w1": 42058182,
+    "unigram_w2": 4137660,
+    "ppmi": 1.8481409383469845
+  },
+  {
+    "w1": "Alemania nazi",
+    "w2": "Berlín",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45872,
+    "unigram_w1": 279752,
+    "unigram_w2": 4137660,
+    "ppmi": 5.043362989966043
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "シチリア王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 2884,
+    "unigram_w2": 498928,
+    "ppmi": 1.2797047775864907
+  },
+  {
+    "w1": "capital",
+    "w2": "ナポリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1192,
+    "unigram_w1": 498928,
+    "unigram_w2": 232534,
+    "ppmi": 0.8437185024105716
+  },
+  {
+    "w1": "シチリア王国",
+    "w2": "ナポリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1396,
+    "unigram_w1": 2884,
+    "unigram_w2": 232534,
+    "ppmi": 8.506249869482552
+  }
+]

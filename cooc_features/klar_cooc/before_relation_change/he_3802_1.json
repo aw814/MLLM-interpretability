@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ורשה",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 26058,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "פולין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 74335,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ורשה",
+    "w2": "פולין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9639,
+    "unigram_w1": 26058,
+    "unigram_w2": 74335,
+    "ppmi": 5.939683645069144
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "纳粹德国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 314,
+    "unigram_w1": 4982,
+    "unigram_w2": 919361,
+    "ppmi": 1.9994270685467743
+  },
+  {
+    "w1": "语言",
+    "w2": "德语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 47357,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "纳粹德国",
+    "w2": "德语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 166,
+    "unigram_w1": 4982,
+    "unigram_w2": 47357,
+    "ppmi": 5.358827621970265
+  }
+]

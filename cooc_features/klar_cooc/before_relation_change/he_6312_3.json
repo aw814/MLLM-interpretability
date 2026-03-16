@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סקסוניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 2508,
+    "unigram_w2": 14610,
+    "ppmi": 1.2365733795373726
+  },
+  {
+    "w1": "capital",
+    "w2": "דרזדן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 328,
+    "unigram_w1": 14610,
+    "unigram_w2": 4191,
+    "ppmi": 6.046013288769272
+  },
+  {
+    "w1": "סקסוניה",
+    "w2": "דרזדן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 392,
+    "unigram_w1": 2508,
+    "unigram_w2": 4191,
+    "ppmi": 8.845518053155217
+  }
+]

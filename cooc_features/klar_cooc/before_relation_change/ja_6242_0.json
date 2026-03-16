@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アルプ＝マリティーム県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 458,
+    "unigram_w2": 498928,
+    "ppmi": 0.6124283438430068
+  },
+  {
+    "w1": "capital",
+    "w2": "ニース",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 798,
+    "unigram_w1": 498928,
+    "unigram_w2": 138902,
+    "ppmi": 1.0081692214089957
+  },
+  {
+    "w1": "アルプ＝マリティーム県",
+    "w2": "ニース",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 284,
+    "unigram_w1": 458,
+    "unigram_w2": 138902,
+    "ppmi": 9.6069397271597
+  }
+]

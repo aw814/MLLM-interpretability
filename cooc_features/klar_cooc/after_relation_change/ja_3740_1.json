@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Microsoftストア",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 160,
+    "unigram_w1": 4914,
+    "unigram_w2": 270510,
+    "ppmi": 4.394027793145094
+  },
+  {
+    "w1": "developer",
+    "w2": "マイクロソフト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15308,
+    "unigram_w1": 270510,
+    "unigram_w2": 865310,
+    "ppmi": 3.513922476511051
+  },
+  {
+    "w1": "Microsoftストア",
+    "w2": "マイクロソフト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1396,
+    "unigram_w1": 4914,
+    "unigram_w2": 865310,
+    "ppmi": 5.841647776575409
+  }
+]

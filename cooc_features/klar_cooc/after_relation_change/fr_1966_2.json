@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eva Longoria",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 187,
+    "unigram_w1": 81963,
+    "unigram_w2": 1178529,
+    "ppmi": 0.004568760539835968
+  },
+  {
+    "w1": "occupation",
+    "w2": "acteur",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27783,
+    "unigram_w1": 1178529,
+    "unigram_w2": 4849464,
+    "ppmi": 1.3328803722260925
+  },
+  {
+    "w1": "Eva Longoria",
+    "w2": "acteur",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4999,
+    "unigram_w1": 81963,
+    "unigram_w2": 4849464,
+    "ppmi": 2.704260073303129
+  }
+]

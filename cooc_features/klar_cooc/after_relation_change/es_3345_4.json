@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Óscar I de Suecia",
+    "w2": "ciudadanía",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 140,
+    "unigram_w2": 9533866,
+    "ppmi": 1.9032589568955736
+  },
+  {
+    "w1": "ciudadanía",
+    "w2": "Suecia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9533866,
+    "unigram_w2": 4872800,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Óscar I de Suecia",
+    "w2": "Suecia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 140,
+    "unigram_w1": 140,
+    "unigram_w2": 4872800,
+    "ppmi": 7.415889811827437
+  }
+]

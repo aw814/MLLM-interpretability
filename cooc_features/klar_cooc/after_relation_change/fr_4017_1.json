@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Thor Heyerdahl",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 72,
+    "unigram_w1": 3636,
+    "unigram_w2": 1893780,
+    "ppmi": 2.437866504483136
+  },
+  {
+    "w1": "parlait",
+    "w2": "norvégien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 793300,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Thor Heyerdahl",
+    "w2": "norvégien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1377,
+    "unigram_w1": 3636,
+    "unigram_w2": 793300,
+    "ppmi": 7.950584636055398
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of India",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 977,
+    "unigram_w2": 1074632,
+    "ppmi": 2.1756166069431213
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "India",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 56556,
+    "unigram_w1": 1074632,
+    "unigram_w2": 6800584,
+    "ppmi": 1.4975568950952787
+  },
+  {
+    "w1": "flag of India",
+    "w2": "India",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 977,
+    "unigram_w1": 977,
+    "unigram_w2": 6800584,
+    "ppmi": 5.745575701527325
+  }
+]

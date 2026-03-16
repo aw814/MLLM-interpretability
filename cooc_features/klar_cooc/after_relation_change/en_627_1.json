@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "San Marino",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6022,
+    "unigram_w1": 49864,
+    "unigram_w2": 9241408,
+    "ppmi": 2.253437665790884
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "San Marino",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7123,
+    "unigram_w1": 49864,
+    "unigram_w2": 3499556,
+    "ppmi": 3.8966207278763343
+  }
+]

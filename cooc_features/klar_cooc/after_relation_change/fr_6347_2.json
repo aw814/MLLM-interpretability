@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Turin",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 66124,
+    "unigram_w1": 770763,
+    "unigram_w2": 9137640,
+    "ppmi": 2.2824837119643058
+  },
+  {
+    "w1": "capitale",
+    "w2": "Turin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 770763,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Turin",
+    "w2": "Turin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 770763,
+    "unigram_w1": 770763,
+    "unigram_w2": 770763,
+    "ppmi": 9.39298750748697
+  }
+]

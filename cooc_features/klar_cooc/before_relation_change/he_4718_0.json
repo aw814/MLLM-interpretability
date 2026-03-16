@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שוגונות טוקוגאווה",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 168,
+    "unigram_w2": 5024,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "religion",
+    "w2": "בודהיזם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 146,
+    "unigram_w1": 5024,
+    "unigram_w2": 12414,
+    "ppmi": 4.851732027379892
+  },
+  {
+    "w1": "שוגונות טוקוגאווה",
+    "w2": "בודהיזם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 168,
+    "unigram_w2": 12414,
+    "ppmi": 7.023642413250039
+  }
+]

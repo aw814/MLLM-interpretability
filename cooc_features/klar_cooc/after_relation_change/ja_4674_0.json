@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ボニファティウス8世",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 580,
+    "unigram_w2": 154360,
+    "ppmi": 4.286183823949074
+  },
+  {
+    "w1": "religion",
+    "w2": "キリスト教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8718,
+    "unigram_w1": 154360,
+    "unigram_w2": 922786,
+    "ppmi": 3.4183097165799863
+  },
+  {
+    "w1": "ボニファティウス8世",
+    "w2": "キリスト教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 282,
+    "unigram_w1": 580,
+    "unigram_w2": 922786,
+    "ppmi": 6.524109914038465
+  }
+]

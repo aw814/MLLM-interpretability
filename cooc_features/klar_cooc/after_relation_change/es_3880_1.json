@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Zaragoza",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3179994,
+    "unigram_w1": 13463018,
+    "unigram_w2": 42058182,
+    "ppmi": 2.224420330665327
+  },
+  {
+    "w1": "capital",
+    "w2": "Aragón",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 898380,
+    "unigram_w1": 42058182,
+    "unigram_w2": 5664906,
+    "ppmi": 1.6496719352188385
+  },
+  {
+    "w1": "Zaragoza",
+    "w2": "Aragón",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1907582,
+    "unigram_w1": 13463018,
+    "unigram_w2": 5664906,
+    "ppmi": 4.379403929387271
+  }
+]

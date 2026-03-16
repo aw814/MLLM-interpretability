@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Assyrian Church of the East",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 102,
+    "unigram_w1": 1274,
+    "unigram_w2": 14590058,
+    "ppmi": 1.0015964110157438
+  },
+  {
+    "w1": "location",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 283392,
+    "unigram_w1": 14590058,
+    "unigram_w2": 3652152,
+    "ppmi": 0.9564447582323935
+  },
+  {
+    "w1": "Assyrian Church of the East",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 183,
+    "unigram_w1": 1274,
+    "unigram_w2": 3652152,
+    "ppmi": 3.843037810117003
+  }
+]

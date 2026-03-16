@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stephen Colbert",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 26490,
+    "unigram_w2": 77008,
+    "ppmi": 3.7063284594639807
+  },
+  {
+    "w1": "occupation",
+    "w2": "periodista",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3620,
+    "unigram_w1": 77008,
+    "unigram_w2": 11956906,
+    "ppmi": 1.7099218781618546
+  },
+  {
+    "w1": "Stephen Colbert",
+    "w2": "periodista",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1582,
+    "unigram_w1": 26490,
+    "unigram_w2": 11956906,
+    "ppmi": 2.0552422653719664
+  }
+]

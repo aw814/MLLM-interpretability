@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "インドネシア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 115022,
+    "unigram_w1": 1093258,
+    "unigram_w2": 3715876,
+    "ppmi": 2.306181142093446
+  },
+  {
+    "w1": "言語",
+    "w2": "インドネシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 74256,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "インドネシア",
+    "w2": "インドネシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74256,
+    "unigram_w1": 1093258,
+    "unigram_w2": 74256,
+    "ppmi": 7.319901767690759
+  }
+]

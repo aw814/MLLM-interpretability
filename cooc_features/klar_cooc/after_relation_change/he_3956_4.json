@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טאלאהאסי",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 91,
+    "unigram_w2": 90246,
+    "ppmi": 3.1718011405253894
+  },
+  {
+    "w1": "בירה",
+    "w2": "פלורידה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 22246,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "טאלאהאסי",
+    "w2": "פלורידה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 68,
+    "unigram_w1": 91,
+    "unigram_w2": 22246,
+    "ppmi": 8.694618517618188
+  }
+]

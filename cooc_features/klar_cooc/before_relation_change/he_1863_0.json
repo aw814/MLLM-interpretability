@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "פיגוע התאבדות",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2610,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "טרור",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 138515,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "פיגוע התאבדות",
+    "w2": "טרור",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1382,
+    "unigram_w1": 2610,
+    "unigram_w2": 138515,
+    "ppmi": 5.559233766092522
+  }
+]

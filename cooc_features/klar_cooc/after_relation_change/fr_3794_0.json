@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dar es Salam",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5139,
+    "unigram_w1": 29053,
+    "unigram_w2": 9137640,
+    "ppmi": 3.3263975389778295
+  },
+  {
+    "w1": "capitale",
+    "w2": "Tanzanie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 656360,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Dar es Salam",
+    "w2": "Tanzanie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10888,
+    "unigram_w1": 29053,
+    "unigram_w2": 656360,
+    "ppmi": 8.208839333109216
+  }
+]

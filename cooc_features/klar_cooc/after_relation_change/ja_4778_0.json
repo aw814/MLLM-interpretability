@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヨハン・シュトラウス1世",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 1014,
+    "unigram_w2": 139628,
+    "ppmi": 2.8879960534867974
+  },
+  {
+    "w1": "instrument",
+    "w2": "ヴァイオリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1438,
+    "unigram_w1": 139628,
+    "unigram_w2": 337070,
+    "ppmi": 2.4160347458899167
+  },
+  {
+    "w1": "ヨハン・シュトラウス1世",
+    "w2": "ヴァイオリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 316,
+    "unigram_w1": 1014,
+    "unigram_w2": 337070,
+    "ppmi": 7.335354349360662
+  }
+]

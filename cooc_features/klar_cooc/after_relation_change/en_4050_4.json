@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Victor Emmanuel II of Savoy",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 28,
+    "unigram_w2": 3469075,
+    "ppmi": 2.9093283911117895
+  },
+  {
+    "w1": "spoke",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 86497,
+    "unigram_w1": 3469075,
+    "unigram_w2": 3499556,
+    "ppmi": 1.378305325332916
+  },
+  {
+    "w1": "Victor Emmanuel II of Savoy",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 28,
+    "unigram_w2": 3499556,
+    "ppmi": 6.066632529722236
+  }
+]

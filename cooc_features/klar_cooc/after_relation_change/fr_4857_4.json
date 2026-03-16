@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alain Delon",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4849,
+    "unigram_w1": 99265,
+    "unigram_w2": 12749290,
+    "ppmi": 0.9894757623053253
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alain Delon",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32391,
+    "unigram_w1": 99265,
+    "unigram_w2": 46536486,
+    "ppmi": 1.8613642427858437
+  }
+]

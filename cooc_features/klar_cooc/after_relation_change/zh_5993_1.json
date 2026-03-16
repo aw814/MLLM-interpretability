@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "俄罗斯联邦国旗",
+    "w2": "司法管辖权",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 23,
+    "unigram_w2": 989,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "司法管辖权",
+    "w2": "俄罗斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 989,
+    "unigram_w2": 1218525,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "俄罗斯联邦国旗",
+    "w2": "俄罗斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23,
+    "unigram_w1": 23,
+    "unigram_w2": 1218525,
+    "ppmi": 5.580883147655477
+  }
+]

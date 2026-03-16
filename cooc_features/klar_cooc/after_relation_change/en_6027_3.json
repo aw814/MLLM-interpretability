@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Finland",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27,
+    "unigram_w1": 1523,
+    "unigram_w2": 1074632,
+    "ppmi": 2.5895789164465906
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Finland",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6555,
+    "unigram_w1": 1074632,
+    "unigram_w2": 747654,
+    "ppmi": 1.5737604586160145
+  },
+  {
+    "w1": "President of Finland",
+    "w2": "Finland",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1523,
+    "unigram_w1": 1523,
+    "unigram_w2": 747654,
+    "ppmi": 8.930791666675452
+  }
+]

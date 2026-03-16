@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "マーガレット・アトウッド",
+    "w2": "市民権",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 1668,
+    "unigram_w2": 199376,
+    "ppmi": 2.0710684396764476
+  },
+  {
+    "w1": "市民権",
+    "w2": "カナダ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 199376,
+    "unigram_w2": 1911168,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "マーガレット・アトウッド",
+    "w2": "カナダ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 676,
+    "unigram_w1": 1668,
+    "unigram_w2": 1911168,
+    "ppmi": 5.211056932944608
+  }
+]

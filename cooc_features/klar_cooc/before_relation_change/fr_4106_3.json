@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maïmonide",
+    "w2": "languages_spoken",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 22945,
+    "unigram_w2": 21,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "languages_spoken",
+    "w2": "hébreu",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21,
+    "unigram_w2": 726162,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Maïmonide",
+    "w2": "hébreu",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5368,
+    "unigram_w1": 22945,
+    "unigram_w2": 726162,
+    "ppmi": 7.383260159006238
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "발레아레스 제도",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 214,
+    "unigram_w2": 36855,
+    "ppmi": 0.9842754830777773
+  },
+  {
+    "w1": "capital",
+    "w2": "팔마데마요르카",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 36855,
+    "unigram_w2": 1462,
+    "ppmi": 0.5339429684138493
+  },
+  {
+    "w1": "발레아레스 제도",
+    "w2": "팔마데마요르카",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 214,
+    "unigram_w2": 1462,
+    "ppmi": 8.22508312581718
+  }
+]

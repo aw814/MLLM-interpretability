@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Saxe",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26901,
+    "unigram_w1": 282263,
+    "unigram_w2": 9137640,
+    "ppmi": 2.4342168060045575
+  },
+  {
+    "w1": "capitale",
+    "w2": "Dresde",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 167658,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Saxe",
+    "w2": "Dresde",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23970,
+    "unigram_w1": 282263,
+    "unigram_w2": 167658,
+    "ppmi": 8.036015286746892
+  }
+]

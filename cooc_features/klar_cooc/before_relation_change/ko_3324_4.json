@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "게오르기 퍼르바노프",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "불가리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 17149,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "게오르기 퍼르바노프",
+    "w2": "불가리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 1,
+    "unigram_w2": 17149,
+    "ppmi": 9.829478376114526
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windhoek",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8763,
+    "unigram_w1": 36023,
+    "unigram_w2": 9137640,
+    "ppmi": 3.786103555026979
+  },
+  {
+    "w1": "capitale",
+    "w2": "Namibie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 418590,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Windhoek",
+    "w2": "Namibie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25133,
+    "unigram_w1": 36023,
+    "unigram_w2": 418590,
+    "ppmi": 9.754401533370643
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ケルマーン州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8,
+    "unigram_w1": 278,
+    "unigram_w2": 498928,
+    "ppmi": 3.3326910592164434
+  },
+  {
+    "w1": "capital",
+    "w2": "ケルマーン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 498928,
+    "unigram_w2": 828,
+    "ppmi": 2.5655000964982295
+  },
+  {
+    "w1": "ケルマーン州",
+    "w2": "ケルマーン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 278,
+    "unigram_w1": 278,
+    "unigram_w2": 828,
+    "ppmi": 17.686617285005937
+  }
+]

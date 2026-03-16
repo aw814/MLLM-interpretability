@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴基斯坦总理",
+    "w2": "司法管辖权",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 9518,
+    "unigram_w2": 989,
+    "ppmi": 3.631318117633841
+  },
+  {
+    "w1": "司法管辖权",
+    "w2": "巴基斯坦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 989,
+    "unigram_w2": 191831,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴基斯坦总理",
+    "w2": "巴基斯坦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9518,
+    "unigram_w1": 9518,
+    "unigram_w2": 191831,
+    "ppmi": 8.248111213571864
+  }
+]

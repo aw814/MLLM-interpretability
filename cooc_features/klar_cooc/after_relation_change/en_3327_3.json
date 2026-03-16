@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Trajan",
+    "w2": "citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 310,
+    "unigram_w1": 13332,
+    "unigram_w2": 737500,
+    "ppmi": 3.524038193304305
+  },
+  {
+    "w1": "citizenship",
+    "w2": "Spain",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23657,
+    "unigram_w1": 737500,
+    "unigram_w2": 2413989,
+    "ppmi": 2.277511232005666
+  },
+  {
+    "w1": "Trajan",
+    "w2": "Spain",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1385,
+    "unigram_w1": 13332,
+    "unigram_w2": 2413989,
+    "ppmi": 3.9728799013670555
+  }
+]

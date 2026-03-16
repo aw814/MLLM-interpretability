@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "King County",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3461,
+    "unigram_w1": 65465,
+    "unigram_w2": 7450623,
+    "ppmi": 1.3724103316751544
+  },
+  {
+    "w1": "capital",
+    "w2": "Seattle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 78327,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1557440,
+    "ppmi": 1.3003502081172191
+  },
+  {
+    "w1": "King County",
+    "w2": "Seattle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35474,
+    "unigram_w1": 65465,
+    "unigram_w2": 1557440,
+    "ppmi": 6.988095980686949
+  }
+]

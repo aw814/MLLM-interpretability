@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Stevie Wonder",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 282,
+    "unigram_w1": 107860,
+    "unigram_w2": 296558,
+    "ppmi": 2.875005564545241
+  },
+  {
+    "w1": "instrument",
+    "w2": "armónica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3476,
+    "unigram_w1": 296558,
+    "unigram_w2": 862254,
+    "ppmi": 3.499713601551831
+  },
+  {
+    "w1": "Stevie Wonder",
+    "w2": "armónica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3754,
+    "unigram_w1": 107860,
+    "unigram_w2": 862254,
+    "ppmi": 5.06986852131185
+  }
+]

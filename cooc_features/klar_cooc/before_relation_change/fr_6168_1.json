@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cambridgeshire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 332,
+    "unigram_w1": 13804,
+    "unigram_w2": 7952962,
+    "ppmi": 0.6480951255155285
+  },
+  {
+    "w1": "capital",
+    "w2": "Cambridge",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 57347,
+    "unigram_w1": 7952962,
+    "unigram_w2": 965627,
+    "ppmi": 1.9521783580579548
+  },
+  {
+    "w1": "Cambridgeshire",
+    "w2": "Cambridge",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4668,
+    "unigram_w1": 13804,
+    "unigram_w2": 965627,
+    "ppmi": 7.503598896366081
+  }
+]

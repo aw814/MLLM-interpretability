@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "林肯郡",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 460,
+    "unigram_w2": 32140,
+    "ppmi": 3.564977708767769
+  },
+  {
+    "w1": "capital",
+    "w2": "林肯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 115,
+    "unigram_w1": 32140,
+    "unigram_w2": 88201,
+    "ppmi": 1.2424879176092132
+  },
+  {
+    "w1": "林肯郡",
+    "w2": "林肯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 460,
+    "unigram_w1": 460,
+    "unigram_w2": 88201,
+    "ppmi": 9.369080175227294
+  }
+]

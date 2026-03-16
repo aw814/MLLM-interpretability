@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alexandre VIII",
+    "w2": "mort",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 632,
+    "unigram_w1": 1035,
+    "unigram_w2": 19663145,
+    "ppmi": 4.008290240719251
+  },
+  {
+    "w1": "mort",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 19663145,
+    "unigram_w2": 4097661,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alexandre VIII",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 646,
+    "unigram_w1": 1035,
+    "unigram_w2": 4097661,
+    "ppmi": 6.302521397574347
+  }
+]

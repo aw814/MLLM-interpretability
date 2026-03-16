@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Unión Europea",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1155860,
+    "unigram_w1": 7410512,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6257196798793092
+  },
+  {
+    "w1": "capital",
+    "w2": "Estrasburgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 82200,
+    "unigram_w1": 42058182,
+    "unigram_w2": 513438,
+    "ppmi": 1.6633464607736217
+  },
+  {
+    "w1": "Unión Europea",
+    "w2": "Estrasburgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 76730,
+    "unigram_w1": 7410512,
+    "unigram_w2": 513438,
+    "ppmi": 4.068740183096354
+  }
+]

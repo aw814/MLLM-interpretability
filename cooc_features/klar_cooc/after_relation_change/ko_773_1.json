@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "카탈루냐 지방",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 199,
+    "unigram_w2": 250699,
+    "ppmi": 2.49301887241818
+  },
+  {
+    "w1": "언어",
+    "w2": "카탈루냐어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 4419,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "카탈루냐 지방",
+    "w2": "카탈루냐어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 199,
+    "unigram_w2": 4419,
+    "ppmi": 8.541503793927713
+  }
+]

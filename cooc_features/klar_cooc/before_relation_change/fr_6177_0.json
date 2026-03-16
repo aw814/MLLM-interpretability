@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "shogunat Tokugawa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 119,
+    "unigram_w1": 3681,
+    "unigram_w2": 7952962,
+    "ppmi": 1.0747901815280017
+  },
+  {
+    "w1": "capital",
+    "w2": "Edo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2809,
+    "unigram_w1": 7952962,
+    "unigram_w2": 104853,
+    "ppmi": 0.8036867476216648
+  },
+  {
+    "w1": "shogunat Tokugawa",
+    "w2": "Edo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1519,
+    "unigram_w1": 3681,
+    "unigram_w2": 104853,
+    "ppmi": 10.993930805547743
+  }
+]

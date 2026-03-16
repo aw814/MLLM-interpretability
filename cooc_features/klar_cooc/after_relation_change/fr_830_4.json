@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lahti",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 843,
+    "unigram_w1": 18196,
+    "unigram_w2": 12749290,
+    "ppmi": 0.9130568304423667
+  },
+  {
+    "w1": "langue",
+    "w2": "finnois",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 263155,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lahti",
+    "w2": "finnois",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 631,
+    "unigram_w1": 18196,
+    "unigram_w2": 263155,
+    "ppmi": 6.093524494194251
+  }
+]

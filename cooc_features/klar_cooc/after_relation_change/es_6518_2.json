@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Duran Duran",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1222,
+    "unigram_w1": 56052,
+    "unigram_w2": 21073362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Birmingham",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 783364,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Duran Duran",
+    "w2": "Birmingham",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1162,
+    "unigram_w1": 56052,
+    "unigram_w2": 783364,
+    "ppmi": 4.460802209305192
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "폴란드 인민공화국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 22,
+    "unigram_w2": 36855,
+    "ppmi": 4.266310850841627
+  },
+  {
+    "w1": "capital",
+    "w2": "바르샤바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 53,
+    "unigram_w1": 36855,
+    "unigram_w2": 8715,
+    "ppmi": 1.364377975029076
+  },
+  {
+    "w1": "폴란드 인민공화국",
+    "w2": "바르샤바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 22,
+    "unigram_w2": 8715,
+    "ppmi": 10.047038357940355
+  }
+]

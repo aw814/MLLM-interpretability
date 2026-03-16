@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Galilée",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 87441,
+    "unigram_w1": 315679,
+    "unigram_w2": 57128353,
+    "ppmi": 1.3291352116775397
+  },
+  {
+    "w1": "travail",
+    "w2": "mathématiques",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 2504352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Galilée",
+    "w2": "mathématiques",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28008,
+    "unigram_w1": 315679,
+    "unigram_w2": 2504352,
+    "ppmi": 4.1983619561701575
+  }
+]

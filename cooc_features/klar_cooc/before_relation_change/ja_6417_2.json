@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ミラノ県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 458,
+    "unigram_w2": 498928,
+    "ppmi": 0.6124283438430068
+  },
+  {
+    "w1": "capital",
+    "w2": "ミラノ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3298,
+    "unigram_w1": 498928,
+    "unigram_w2": 783872,
+    "ppmi": 0.55874924787763
+  },
+  {
+    "w1": "ミラノ県",
+    "w2": "ミラノ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 458,
+    "unigram_w1": 458,
+    "unigram_w2": 783872,
+    "ppmi": 7.799845675005475
+  }
+]

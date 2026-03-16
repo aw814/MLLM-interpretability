@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "본",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1239547,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "독일",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 366157,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "본",
+    "w2": "독일",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 58652,
+    "unigram_w1": 1239547,
+    "unigram_w2": 366157,
+    "ppmi": 1.0117234953721772
+  }
+]

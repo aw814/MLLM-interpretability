@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아키텐",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 95,
+    "unigram_w1": 430,
+    "unigram_w2": 1351571,
+    "ppmi": 1.3507720961245968
+  },
+  {
+    "w1": "수도",
+    "w2": "보르도",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 8047,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아키텐",
+    "w2": "보르도",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 158,
+    "unigram_w1": 430,
+    "unigram_w2": 8047,
+    "ppmi": 9.476667788681894
+  }
+]

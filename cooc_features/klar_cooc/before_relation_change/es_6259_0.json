@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Provincia de Vilna",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 98,
+    "unigram_w1": 292,
+    "unigram_w2": 42058182,
+    "ppmi": 2.7312115219885946
+  },
+  {
+    "w1": "capital",
+    "w2": "Vilna",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16048,
+    "unigram_w1": 42058182,
+    "unigram_w2": 67878,
+    "ppmi": 2.225775690781608
+  },
+  {
+    "w1": "Provincia de Vilna",
+    "w2": "Vilna",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 292,
+    "unigram_w1": 292,
+    "unigram_w2": 67878,
+    "ppmi": 13.581552954101861
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aceh",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2213,
+    "unigram_w1": 18402,
+    "unigram_w2": 9241408,
+    "ppmi": 2.247334454289927
+  },
+  {
+    "w1": "language",
+    "w2": "Indonesian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 43734,
+    "unigram_w1": 9241408,
+    "unigram_w2": 354064,
+    "ppmi": 2.2859387188910776
+  },
+  {
+    "w1": "Aceh",
+    "w2": "Indonesian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7146,
+    "unigram_w1": 18402,
+    "unigram_w2": 354064,
+    "ppmi": 8.644497523143567
+  }
+]

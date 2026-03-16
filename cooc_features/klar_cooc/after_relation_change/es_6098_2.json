@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "U2",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21224,
+    "unigram_w1": 1342382,
+    "unigram_w2": 21073362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Irlanda",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 4167646,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "U2",
+    "w2": "Irlanda",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25640,
+    "unigram_w1": 1342382,
+    "unigram_w2": 4167646,
+    "ppmi": 1.9311528773688256
+  }
+]

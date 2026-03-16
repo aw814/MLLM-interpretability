@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bruce Springsteen",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 228,
+    "unigram_w1": 184474,
+    "unigram_w2": 296558,
+    "ppmi": 1.7940866699313305
+  },
+  {
+    "w1": "instrument",
+    "w2": "armónica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3476,
+    "unigram_w1": 296558,
+    "unigram_w2": 862254,
+    "ppmi": 3.499713601551831
+  },
+  {
+    "w1": "Bruce Springsteen",
+    "w2": "armónica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4542,
+    "unigram_w1": 184474,
+    "unigram_w2": 862254,
+    "ppmi": 4.570510020808005
+  }
+]

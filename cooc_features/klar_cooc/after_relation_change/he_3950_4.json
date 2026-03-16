@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נאשוויל",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 73,
+    "unigram_w1": 1698,
+    "unigram_w2": 90246,
+    "ppmi": 2.5548370953299084
+  },
+  {
+    "w1": "בירה",
+    "w2": "טנסי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 7236,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "נאשוויל",
+    "w2": "טנסי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 487,
+    "unigram_w1": 1698,
+    "unigram_w2": 7236,
+    "ppmi": 8.93338917388073
+  }
+]

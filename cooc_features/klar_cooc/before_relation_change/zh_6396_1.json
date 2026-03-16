@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "黎巴嫩",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 156,
+    "unigram_w1": 44464,
+    "unigram_w2": 32140,
+    "ppmi": 2.6705573586526743
+  },
+  {
+    "w1": "capital",
+    "w2": "贝鲁特",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 136,
+    "unigram_w1": 32140,
+    "unigram_w2": 11868,
+    "ppmi": 4.37817888876106
+  },
+  {
+    "w1": "黎巴嫩",
+    "w2": "贝鲁特",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5887,
+    "unigram_w1": 44464,
+    "unigram_w2": 11868,
+    "ppmi": 9.345765149185363
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "挪威",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 294,
+    "unigram_w1": 117454,
+    "unigram_w2": 32140,
+    "ppmi": 2.183441282946366
+  },
+  {
+    "w1": "capital",
+    "w2": "奥斯陆",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 32140,
+    "unigram_w2": 13423,
+    "ppmi": 2.3610132473209733
+  },
+  {
+    "w1": "挪威",
+    "w2": "奥斯陆",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7945,
+    "unigram_w1": 117454,
+    "unigram_w2": 13423,
+    "ppmi": 8.19926322579474
+  }
+]

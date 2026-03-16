@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "キリバス",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 16368,
+    "unigram_w2": 48638,
+    "ppmi": 2.5121572451318532
+  },
+  {
+    "w1": "continent",
+    "w2": "オセアニア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 196,
+    "unigram_w1": 48638,
+    "unigram_w2": 177686,
+    "ppmi": 1.9860473114871071
+  },
+  {
+    "w1": "キリバス",
+    "w2": "オセアニア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1896,
+    "unigram_w1": 16368,
+    "unigram_w2": 177686,
+    "ppmi": 6.831286572294002
+  }
+]

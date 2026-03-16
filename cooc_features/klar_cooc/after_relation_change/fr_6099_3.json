@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "golf",
+    "w2": "localisation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 227417,
+    "unigram_w1": 5053560,
+    "unigram_w2": 5673888,
+    "ppmi": 2.0391210078371276
+  },
+  {
+    "w1": "localisation",
+    "w2": "Écosse",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 5673888,
+    "unigram_w2": 603004,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "golf",
+    "w2": "Écosse",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 22778,
+    "unigram_w1": 5053560,
+    "unigram_w2": 603004,
+    "ppmi": 1.9535920831590494
+  }
+]

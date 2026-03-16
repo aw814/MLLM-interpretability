@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "République socialiste soviétique d'Ukraine",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 362,
+    "unigram_w1": 1431,
+    "unigram_w2": 12749290,
+    "ppmi": 3.3620396591484765
+  },
+  {
+    "w1": "langue",
+    "w2": "russe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5543562,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "République socialiste soviétique d'Ukraine",
+    "w2": "russe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 989,
+    "unigram_w1": 1431,
+    "unigram_w2": 5543562,
+    "ppmi": 6.01355221042804
+  }
+]

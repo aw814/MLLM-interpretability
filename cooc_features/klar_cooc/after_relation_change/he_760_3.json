@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "איווה",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 171,
+    "unigram_w1": 3931,
+    "unigram_w2": 236631,
+    "ppmi": 1.1811009527247736
+  },
+  {
+    "w1": "שפה",
+    "w2": "אנגלית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 231817,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "איווה",
+    "w2": "אנגלית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 524,
+    "unigram_w1": 3931,
+    "unigram_w2": 231817,
+    "ppmi": 2.826324158249657
+  }
+]

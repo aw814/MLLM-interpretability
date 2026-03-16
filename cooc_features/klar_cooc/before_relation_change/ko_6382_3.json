@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "슈바벤 현",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 4,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "아우크스부르크",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 36855,
+    "unigram_w2": 2919,
+    "ppmi": 0.2144839739766564
+  },
+  {
+    "w1": "슈바벤 현",
+    "w2": "아우크스부르크",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 4,
+    "unigram_w2": 2919,
+    "ppmi": 10.38405671194734
+  }
+]

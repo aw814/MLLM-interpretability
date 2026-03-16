@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Godfather",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5042,
+    "unigram_w1": 70537,
+    "unigram_w2": 9241408,
+    "ppmi": 1.4968094757929267
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "The Godfather",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6662,
+    "unigram_w1": 70537,
+    "unigram_w2": 9553181,
+    "ppmi": 1.8509001867565302
+  }
+]

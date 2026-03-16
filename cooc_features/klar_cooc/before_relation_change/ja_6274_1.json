@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウクライナ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2712,
+    "unigram_w1": 461120,
+    "unigram_w2": 498928,
+    "ppmi": 1.0419908800141846
+  },
+  {
+    "w1": "capital",
+    "w2": "キエフ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1060,
+    "unigram_w1": 498928,
+    "unigram_w2": 69058,
+    "ppmi": 2.4259597491711
+  },
+  {
+    "w1": "ウクライナ",
+    "w2": "キエフ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37170,
+    "unigram_w1": 461120,
+    "unigram_w2": 69058,
+    "ppmi": 7.67165166297286
+  }
+]

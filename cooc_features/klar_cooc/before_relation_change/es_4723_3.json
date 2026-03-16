@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ramakrishna",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 428,
+    "unigram_w1": 12346,
+    "unigram_w2": 979024,
+    "ppmi": 4.880935599835414
+  },
+  {
+    "w1": "religion",
+    "w2": "hinduismo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11010,
+    "unigram_w1": 979024,
+    "unigram_w2": 196126,
+    "ppmi": 5.5763302602998985
+  },
+  {
+    "w1": "Ramakrishna",
+    "w2": "hinduismo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1264,
+    "unigram_w1": 12346,
+    "unigram_w2": 196126,
+    "ppmi": 8.76281278523086
+  }
+]

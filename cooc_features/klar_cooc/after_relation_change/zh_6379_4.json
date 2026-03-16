@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "莱茵兰－普法尔茨",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83,
+    "unigram_w1": 1247,
+    "unigram_w2": 596594,
+    "ppmi": 2.7019913062027547
+  },
+  {
+    "w1": "首都",
+    "w2": "美因茨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 9143,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "莱茵兰－普法尔茨",
+    "w2": "美因茨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 51,
+    "unigram_w1": 1247,
+    "unigram_w2": 9143,
+    "ppmi": 8.027315255156882
+  }
+]

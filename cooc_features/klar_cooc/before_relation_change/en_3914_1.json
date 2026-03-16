@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Amman",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 73338,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Jordan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1469826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Amman",
+    "w2": "Jordan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 46365,
+    "unigram_w1": 73338,
+    "unigram_w2": 1469826,
+    "ppmi": 7.294064199701009
+  }
+]

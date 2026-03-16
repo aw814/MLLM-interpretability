@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Segunda República Polaca",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 692,
+    "unigram_w1": 1628,
+    "unigram_w2": 42058182,
+    "ppmi": 3.072069480123881
+  },
+  {
+    "w1": "capital",
+    "w2": "Varsovia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 139660,
+    "unigram_w1": 42058182,
+    "unigram_w2": 667028,
+    "ppmi": 2.0504977915392217
+  },
+  {
+    "w1": "Segunda República Polaca",
+    "w2": "Varsovia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 768,
+    "unigram_w1": 1628,
+    "unigram_w2": 667028,
+    "ppmi": 9.200899109654962
+  }
+]

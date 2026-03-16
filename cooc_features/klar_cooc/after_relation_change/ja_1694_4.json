@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オランダ語版ウィキペディア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 72,
+    "unigram_w2": 3715876,
+    "ppmi": 4.3849083124213095
+  },
+  {
+    "w1": "言語",
+    "w2": "オランダ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 150826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "オランダ語版ウィキペディア",
+    "w2": "オランダ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 72,
+    "unigram_w2": 150826,
+    "ppmi": 10.177578620378267
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bas-Rhin",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28579,
+    "unigram_w1": 955451,
+    "unigram_w2": 9137640,
+    "ppmi": 0.7623705796351413
+  },
+  {
+    "w1": "capitale",
+    "w2": "Strasbourg",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 4669072,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bas-Rhin",
+    "w2": "Strasbourg",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 348323,
+    "unigram_w1": 955451,
+    "unigram_w2": 4669072,
+    "ppmi": 5.338454745447208
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "알제리",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 145,
+    "unigram_w1": 13266,
+    "unigram_w2": 36855,
+    "ppmi": 2.2102057489564766
+  },
+  {
+    "w1": "capital",
+    "w2": "알제",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 278,
+    "unigram_w1": 36855,
+    "unigram_w2": 2346,
+    "ppmi": 5.648696244173923
+  },
+  {
+    "w1": "알제리",
+    "w2": "알제",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1223,
+    "unigram_w1": 13266,
+    "unigram_w2": 2346,
+    "ppmi": 9.260090787411103
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "トルクメニスタン",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4654,
+    "unigram_w1": 31758,
+    "unigram_w2": 3715876,
+    "ppmi": 2.7842563699129386
+  },
+  {
+    "w1": "言語",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 310196,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "トルクメニスタン",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2724,
+    "unigram_w1": 31758,
+    "unigram_w2": 310196,
+    "ppmi": 5.59396223388811
+  }
+]

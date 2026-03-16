@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tampere",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2656,
+    "unigram_w1": 60322,
+    "unigram_w2": 12196104,
+    "ppmi": 1.5869351579166078
+  },
+  {
+    "w1": "idioma",
+    "w2": "finés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 214922,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Tampere",
+    "w2": "finés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2098,
+    "unigram_w1": 60322,
+    "unigram_w2": 214922,
+    "ppmi": 7.073158068237366
+  }
+]

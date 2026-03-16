@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מרוקו",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35,
+    "unigram_w1": 39735,
+    "unigram_w2": 2719,
+    "ppmi": 1.9985085049147338
+  },
+  {
+    "w1": "continent",
+    "w2": "אפריקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 332,
+    "unigram_w1": 2719,
+    "unigram_w2": 150565,
+    "ppmi": 3.322360725507376
+  },
+  {
+    "w1": "מרוקו",
+    "w2": "אפריקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11201,
+    "unigram_w1": 39735,
+    "unigram_w2": 150565,
+    "ppmi": 4.529398924346426
+  }
+]

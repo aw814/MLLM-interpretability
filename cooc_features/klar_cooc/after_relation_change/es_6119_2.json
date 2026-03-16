@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Samsung",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 220006,
+    "unigram_w1": 5817026,
+    "unigram_w2": 21073362,
+    "ppmi": 0.5786252514641588
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Seúl",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 734150,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Samsung",
+    "w2": "Seúl",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 39578,
+    "unigram_w1": 5817026,
+    "unigram_w2": 734150,
+    "ppmi": 2.94705482267502
+  }
+]

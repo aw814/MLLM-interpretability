@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "리투아니아 대공국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 39,
+    "unigram_w2": 36855,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "빌뉴스",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 36855,
+    "unigram_w2": 1300,
+    "ppmi": 1.9664090622842636
+  },
+  {
+    "w1": "리투아니아 대공국",
+    "w2": "빌뉴스",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11,
+    "unigram_w1": 39,
+    "unigram_w2": 1300,
+    "ppmi": 11.72504869930884
+  }
+]

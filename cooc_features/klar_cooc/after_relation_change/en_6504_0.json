@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boeing",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27048,
+    "unigram_w1": 343811,
+    "unigram_w2": 14590058,
+    "ppmi": 0.9762987541523741
+  },
+  {
+    "w1": "location",
+    "w2": "Seattle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 129481,
+    "unigram_w1": 14590058,
+    "unigram_w2": 1557440,
+    "ppmi": 1.0559563644112457
+  },
+  {
+    "w1": "Boeing",
+    "w2": "Seattle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26585,
+    "unigram_w1": 343811,
+    "unigram_w2": 1557440,
+    "ppmi": 4.179126427701756
+  }
+]

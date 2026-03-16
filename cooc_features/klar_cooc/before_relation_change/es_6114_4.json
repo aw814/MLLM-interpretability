@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Germanwings",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 49734,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Colonia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 9202996,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Germanwings",
+    "w2": "Colonia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5168,
+    "unigram_w1": 49734,
+    "unigram_w2": 9202996,
+    "ppmi": 3.2319827263365983
+  }
+]

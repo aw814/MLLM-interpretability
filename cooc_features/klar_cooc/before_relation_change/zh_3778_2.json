@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "布加勒斯特",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 11618,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "罗马尼亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 44939,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "布加勒斯特",
+    "w2": "罗马尼亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3674,
+    "unigram_w1": 11618,
+    "unigram_w2": 44939,
+    "ppmi": 8.680968963127514
+  }
+]

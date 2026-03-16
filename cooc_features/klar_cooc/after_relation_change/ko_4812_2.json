@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "BBC One",
+    "w2": "소유",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 183,
+    "unigram_w2": 66918,
+    "ppmi": 2.3495086618907712
+  },
+  {
+    "w1": "소유",
+    "w2": "BBC",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 66918,
+    "unigram_w2": 32722,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "BBC One",
+    "w2": "BBC",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 183,
+    "unigram_w1": 183,
+    "unigram_w2": 32722,
+    "ppmi": 8.897341898022052
+  }
+]

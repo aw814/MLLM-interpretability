@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "provincia de Toledo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29266,
+    "unigram_w1": 231800,
+    "unigram_w2": 42058182,
+    "ppmi": 1.3207431509740553
+  },
+  {
+    "w1": "capital",
+    "w2": "Toledo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1937710,
+    "unigram_w1": 42058182,
+    "unigram_w2": 8198066,
+    "ppmi": 2.2253953034991807
+  },
+  {
+    "w1": "provincia de Toledo",
+    "w2": "Toledo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 231800,
+    "unigram_w1": 231800,
+    "unigram_w2": 8198066,
+    "ppmi": 6.66535721666716
+  }
+]

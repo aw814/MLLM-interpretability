@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "索马里国旗",
+    "w2": "司法管辖权",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 12,
+    "unigram_w2": 989,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "司法管辖权",
+    "w2": "索马里",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 989,
+    "unigram_w2": 47483,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "索马里国旗",
+    "w2": "索马里",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12,
+    "unigram_w1": 12,
+    "unigram_w2": 47483,
+    "ppmi": 10.262464099940887
+  }
+]

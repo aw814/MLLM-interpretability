@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "John Napier",
+    "w2": "trabajo",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2384,
+    "unigram_w1": 5170,
+    "unigram_w2": 128711420,
+    "ppmi": 1.575864523603321
+  },
+  {
+    "w1": "trabajo",
+    "w2": "matemáticas",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 128711420,
+    "unigram_w2": 4733140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "John Napier",
+    "w2": "matemáticas",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2354,
+    "unigram_w1": 5170,
+    "unigram_w2": 4733140,
+    "ppmi": 6.322793265485662
+  }
+]

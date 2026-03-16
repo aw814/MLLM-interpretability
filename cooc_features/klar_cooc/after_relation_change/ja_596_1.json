@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "バリ島",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12118,
+    "unigram_w1": 294620,
+    "unigram_w2": 3715876,
+    "ppmi": 0.9512014599675805
+  },
+  {
+    "w1": "言語",
+    "w2": "インドネシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 74256,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "バリ島",
+    "w2": "インドネシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9904,
+    "unigram_w1": 294620,
+    "unigram_w2": 74256,
+    "ppmi": 6.305184015426352
+  }
+]

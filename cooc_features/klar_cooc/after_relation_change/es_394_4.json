@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Oulu",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4326,
+    "unigram_w1": 34884,
+    "unigram_w2": 12196104,
+    "ppmi": 3.080832461753506
+  },
+  {
+    "w1": "idioma",
+    "w2": "finés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 214922,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Oulu",
+    "w2": "finés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1298,
+    "unigram_w1": 34884,
+    "unigram_w2": 214922,
+    "ppmi": 7.170552558881082
+  }
+]

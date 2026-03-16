@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Kanye West",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3246,
+    "unigram_w1": 114325,
+    "unigram_w2": 14590058,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 283392,
+    "unigram_w1": 14590058,
+    "unigram_w2": 3652152,
+    "ppmi": 0.9564447582323935
+  },
+  {
+    "w1": "Kanye West",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8955,
+    "unigram_w1": 114325,
+    "unigram_w2": 3652152,
+    "ppmi": 2.9681838573808963
+  }
+]

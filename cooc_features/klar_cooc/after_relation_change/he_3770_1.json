@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ברלין",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3170,
+    "unigram_w1": 72300,
+    "unigram_w2": 90246,
+    "ppmi": 2.583192378303857
+  },
+  {
+    "w1": "בירה",
+    "w2": "גרמניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 200352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ברלין",
+    "w2": "גרמניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23318,
+    "unigram_w1": 72300,
+    "unigram_w2": 200352,
+    "ppmi": 4.3114796678696825
+  }
+]

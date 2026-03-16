@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Beijing",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 125938,
+    "unigram_w1": 847643,
+    "unigram_w2": 7450623,
+    "ppmi": 2.863130165468283
+  },
+  {
+    "w1": "capital",
+    "w2": "Taiwan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 58685,
+    "unigram_w1": 7450623,
+    "unigram_w2": 756994,
+    "ppmi": 1.924655114503399
+  },
+  {
+    "w1": "Beijing",
+    "w2": "Taiwan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56547,
+    "unigram_w1": 847643,
+    "unigram_w2": 756994,
+    "ppmi": 5.006946190019199
+  }
+]

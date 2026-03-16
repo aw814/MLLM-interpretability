@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lagos",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34370,
+    "unigram_w1": 242939,
+    "unigram_w2": 9137640,
+    "ppmi": 3.0041527715689798
+  },
+  {
+    "w1": "capitale",
+    "w2": "Nigeria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1203411,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lagos",
+    "w2": "Nigeria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 76159,
+    "unigram_w1": 242939,
+    "unigram_w2": 1203411,
+    "ppmi": 7.076709611385374
+  }
+]

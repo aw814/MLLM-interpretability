@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルブリン県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 150,
+    "unigram_w2": 498928,
+    "ppmi": 2.2228134414440697
+  },
+  {
+    "w1": "capital",
+    "w2": "ルブリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 498928,
+    "unigram_w2": 3112,
+    "ppmi": 1.017930788396071
+  },
+  {
+    "w1": "ルブリン県",
+    "w2": "ルブリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 150,
+    "unigram_w1": 150,
+    "unigram_w2": 3112,
+    "ppmi": 15.77647789751907
+  }
+]

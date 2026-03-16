@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mexican coat of arms",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 225,
+    "unigram_w2": 1074632,
+    "ppmi": 2.1785729502745332
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Mexico",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 28678,
+    "unigram_w1": 1074632,
+    "unigram_w2": 3105381,
+    "ppmi": 1.6487095812450945
+  },
+  {
+    "w1": "Mexican coat of arms",
+    "w2": "Mexico",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 181,
+    "unigram_w1": 225,
+    "unigram_w2": 3105381,
+    "ppmi": 6.5625287565473425
+  }
+]

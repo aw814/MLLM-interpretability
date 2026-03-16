@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "发电厂乐团",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 6418768,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "位置",
+    "w2": "德国",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 1175469,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "发电厂乐团",
+    "w2": "德国",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 2,
+    "unigram_w2": 1175469,
+    "ppmi": 5.63278250614263
+  }
+]

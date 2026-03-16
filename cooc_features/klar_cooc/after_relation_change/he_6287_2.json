@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ממלכת אירלנד",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 64,
+    "unigram_w2": 90246,
+    "ppmi": 3.0946332800029297
+  },
+  {
+    "w1": "בירה",
+    "w2": "דבלין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 8809,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ממלכת אירלנד",
+    "w2": "דבלין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 14,
+    "unigram_w1": 64,
+    "unigram_w2": 8809,
+    "ppmi": 8.258801032048302
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Suabia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5246,
+    "unigram_w1": 26818,
+    "unigram_w2": 42058182,
+    "ppmi": 1.9524142997608784
+  },
+  {
+    "w1": "capital",
+    "w2": "Augsburgo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9798,
+    "unigram_w1": 42058182,
+    "unigram_w2": 74662,
+    "ppmi": 1.3765112782956566
+  },
+  {
+    "w1": "Suabia",
+    "w2": "Augsburgo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1238,
+    "unigram_w1": 26818,
+    "unigram_w2": 74662,
+    "ppmi": 9.007004425901995
+  }
+]

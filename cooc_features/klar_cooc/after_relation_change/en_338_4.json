@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lithuania",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27598,
+    "unigram_w1": 289599,
+    "unigram_w2": 9241408,
+    "ppmi": 1.9117006749555447
+  },
+  {
+    "w1": "language",
+    "w2": "Lithuanian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17079,
+    "unigram_w1": 9241408,
+    "unigram_w2": 99877,
+    "ppmi": 2.7551926882752533
+  },
+  {
+    "w1": "Lithuania",
+    "w2": "Lithuanian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41999,
+    "unigram_w1": 289599,
+    "unigram_w2": 99877,
+    "ppmi": 9.049308308607259
+  }
+]

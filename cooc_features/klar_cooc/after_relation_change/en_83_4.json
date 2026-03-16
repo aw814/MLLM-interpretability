@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tomaso Albinoni",
+    "w2": "died",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 50,
+    "unigram_w1": 350,
+    "unigram_w2": 5281801,
+    "ppmi": 3.3028494757893045
+  },
+  {
+    "w1": "died",
+    "w2": "Venice",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 32913,
+    "unigram_w1": 5281801,
+    "unigram_w2": 554443,
+    "ppmi": 2.035894685715242
+  },
+  {
+    "w1": "Tomaso Albinoni",
+    "w2": "Venice",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 74,
+    "unigram_w1": 350,
+    "unigram_w2": 554443,
+    "ppmi": 7.120365542820243
+  }
+]

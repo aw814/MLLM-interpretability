@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "The Three Musketeers",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1158,
+    "unigram_w1": 13044,
+    "unigram_w2": 9241408,
+    "ppmi": 1.8094424827178626
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "The Three Musketeers",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2622,
+    "unigram_w1": 13044,
+    "unigram_w2": 6382804,
+    "ppmi": 3.522397242182608
+  }
+]

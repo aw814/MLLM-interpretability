@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cambodge",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32988,
+    "unigram_w1": 889238,
+    "unigram_w2": 3399010,
+    "ppmi": 2.4996757409874935
+  },
+  {
+    "w1": "continent",
+    "w2": "Asie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 218810,
+    "unigram_w1": 3399010,
+    "unigram_w2": 3597699,
+    "ppmi": 3.212908213156394
+  },
+  {
+    "w1": "Cambodge",
+    "w2": "Asie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 150341,
+    "unigram_w1": 889238,
+    "unigram_w2": 3597699,
+    "ppmi": 4.605941145510318
+  }
+]

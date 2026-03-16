@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Rovaniemi",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2040,
+    "unigram_w1": 38504,
+    "unigram_w2": 12196104,
+    "ppmi": 1.8539250975429067
+  },
+  {
+    "w1": "idioma",
+    "w2": "finés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 214922,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Rovaniemi",
+    "w2": "finés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1592,
+    "unigram_w1": 38504,
+    "unigram_w2": 214922,
+    "ppmi": 7.322659660318113
+  }
+]

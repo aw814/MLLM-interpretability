@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "로마 공화정",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 428,
+    "unigram_w2": 36855,
+    "ppmi": 2.569237983798933
+  },
+  {
+    "w1": "capital",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 36855,
+    "unigram_w2": 99776,
+    "ppmi": 1.1472432533510242
+  },
+  {
+    "w1": "로마 공화정",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 428,
+    "unigram_w1": 428,
+    "unigram_w2": 99776,
+    "ppmi": 7.2889099947518226
+  }
+]

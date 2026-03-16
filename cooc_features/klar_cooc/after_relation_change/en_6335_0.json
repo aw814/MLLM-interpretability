@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lublin province",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 32,
+    "unigram_w1": 173,
+    "unigram_w2": 7450623,
+    "ppmi": 3.179245052284893
+  },
+  {
+    "w1": "capital",
+    "w2": "Lublin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2151,
+    "unigram_w1": 7450623,
+    "unigram_w2": 18663,
+    "ppmi": 2.4967717977082833
+  },
+  {
+    "w1": "Lublin province",
+    "w2": "Lublin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 173,
+    "unigram_w1": 173,
+    "unigram_w2": 18663,
+    "ppmi": 14.254909622302574
+  }
+]

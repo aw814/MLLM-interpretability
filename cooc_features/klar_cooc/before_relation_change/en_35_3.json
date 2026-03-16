@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Michelangelo",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 77082,
+    "unigram_w2": 3,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3,
+    "unigram_w2": 1168108,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Michelangelo",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16441,
+    "unigram_w1": 77082,
+    "unigram_w2": 1168108,
+    "ppmi": 6.057964723349284
+  }
+]

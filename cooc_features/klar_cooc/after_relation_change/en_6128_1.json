@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Deutsche Welle",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 706,
+    "unigram_w1": 12455,
+    "unigram_w2": 14590058,
+    "ppmi": 0.5034076034435301
+  },
+  {
+    "w1": "location",
+    "w2": "Bonn",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7743,
+    "unigram_w1": 14590058,
+    "unigram_w2": 92375,
+    "ppmi": 1.0677827193074367
+  },
+  {
+    "w1": "Deutsche Welle",
+    "w2": "Bonn",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 765,
+    "unigram_w1": 12455,
+    "unigram_w2": 92375,
+    "ppmi": 7.9224666115825455
+  }
+]

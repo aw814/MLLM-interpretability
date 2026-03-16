@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Port Louis",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5652,
+    "unigram_w1": 18146,
+    "unigram_w2": 42058182,
+    "ppmi": 2.62350804367806
+  },
+  {
+    "w1": "capital",
+    "w2": "Mauricio",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 927208,
+    "unigram_w1": 42058182,
+    "unigram_w2": 6770820,
+    "ppmi": 1.4379605897213672
+  },
+  {
+    "w1": "Port Louis",
+    "w2": "Mauricio",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11282,
+    "unigram_w1": 18146,
+    "unigram_w2": 6770820,
+    "ppmi": 6.255681533364846
+  }
+]

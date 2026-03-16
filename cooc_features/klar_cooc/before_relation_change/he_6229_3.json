@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אנקרה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 379,
+    "unigram_w1": 7520,
+    "unigram_w2": 14610,
+    "ppmi": 5.411077181887899
+  },
+  {
+    "w1": "capital",
+    "w2": "אנקרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 379,
+    "unigram_w1": 14610,
+    "unigram_w2": 7520,
+    "ppmi": 5.411077181887899
+  },
+  {
+    "w1": "אנקרה",
+    "w2": "אנקרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7520,
+    "unigram_w1": 7520,
+    "unigram_w2": 7520,
+    "ppmi": 10.679691701407668
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "프랑스 왕국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 183,
+    "unigram_w2": 36855,
+    "ppmi": 2.2100426311948818
+  },
+  {
+    "w1": "capital",
+    "w2": "파리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1038,
+    "unigram_w1": 36855,
+    "unigram_w2": 135231,
+    "ppmi": 1.7002668142375768
+  },
+  {
+    "w1": "프랑스 왕국",
+    "w2": "파리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 68,
+    "unigram_w1": 183,
+    "unigram_w2": 135231,
+    "ppmi": 5.422011826816676
+  }
+]

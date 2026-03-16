@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Islas Feroe",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5572,
+    "unigram_w1": 111162,
+    "unigram_w2": 12196104,
+    "ppmi": 1.7739677403061416
+  },
+  {
+    "w1": "idioma",
+    "w2": "danés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 1338114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Islas Feroe",
+    "w2": "danés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5446,
+    "unigram_w1": 111162,
+    "unigram_w2": 1338114,
+    "ppmi": 4.92911688651299
+  }
+]

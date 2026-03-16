@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "comté de Miami-Dade",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 183,
+    "unigram_w1": 4125,
+    "unigram_w2": 7952962,
+    "ppmi": 1.5313758868676213
+  },
+  {
+    "w1": "capital",
+    "w2": "Miami",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41161,
+    "unigram_w1": 7952962,
+    "unigram_w2": 1372633,
+    "ppmi": 0.9663303509357674
+  },
+  {
+    "w1": "comté de Miami-Dade",
+    "w2": "Miami",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4125,
+    "unigram_w1": 4125,
+    "unigram_w2": 1372633,
+    "ppmi": 8.560400785614748
+  }
+]

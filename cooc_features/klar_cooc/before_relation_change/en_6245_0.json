@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lviv Oblast",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 98,
+    "unigram_w1": 544,
+    "unigram_w2": 7450623,
+    "ppmi": 3.1411202827864866
+  },
+  {
+    "w1": "capital",
+    "w2": "Lviv",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4000,
+    "unigram_w1": 7450623,
+    "unigram_w2": 29602,
+    "ppmi": 2.72625053307845
+  },
+  {
+    "w1": "Lviv Oblast",
+    "w2": "Lviv",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 544,
+    "unigram_w1": 544,
+    "unigram_w2": 29602,
+    "ppmi": 13.589395882433713
+  }
+]

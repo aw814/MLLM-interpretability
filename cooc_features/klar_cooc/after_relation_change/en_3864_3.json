@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Addis Ababa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18757,
+    "unigram_w1": 72904,
+    "unigram_w2": 7450623,
+    "ppmi": 3.655304408561671
+  },
+  {
+    "w1": "capital",
+    "w2": "Ethiopia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 43744,
+    "unigram_w1": 7450623,
+    "unigram_w2": 332361,
+    "ppmi": 2.688279230187193
+  },
+  {
+    "w1": "Addis Ababa",
+    "w2": "Ethiopia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48304,
+    "unigram_w1": 72904,
+    "unigram_w2": 332361,
+    "ppmi": 9.506556025960393
+  }
+]

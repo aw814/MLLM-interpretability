@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "波斯尼亚和黑塞哥维那",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 272,
+    "unigram_w1": 2837,
+    "unigram_w2": 919361,
+    "ppmi": 2.6046280318719646
+  },
+  {
+    "w1": "语言",
+    "w2": "克罗地亚语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 1722,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "波斯尼亚和黑塞哥维那",
+    "w2": "克罗地亚语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47,
+    "unigram_w1": 2837,
+    "unigram_w2": 1722,
+    "ppmi": 9.13215655655988
+  }
+]

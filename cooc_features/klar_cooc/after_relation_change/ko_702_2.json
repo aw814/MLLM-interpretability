@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "아루바",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 511,
+    "unigram_w1": 3797,
+    "unigram_w2": 250699,
+    "ppmi": 3.066253688838049
+  },
+  {
+    "w1": "언어",
+    "w2": "네덜란드어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 26101,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "아루바",
+    "w2": "네덜란드어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 419,
+    "unigram_w1": 3797,
+    "unigram_w2": 26101,
+    "ppmi": 6.04365989657209
+  }
+]

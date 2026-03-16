@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alexandria Governorate",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 22,
+    "unigram_w1": 157,
+    "unigram_w2": 7450623,
+    "ppmi": 2.778684149667288
+  },
+  {
+    "w1": "capital",
+    "w2": "Alexandria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30496,
+    "unigram_w1": 7450623,
+    "unigram_w2": 360696,
+    "ppmi": 2.0497817851940265
+  },
+  {
+    "w1": "Alexandria Governorate",
+    "w2": "Alexandria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 157,
+    "unigram_w1": 157,
+    "unigram_w2": 360696,
+    "ppmi": 9.982379015301435
+  }
+]

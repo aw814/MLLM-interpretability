@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "이탈리아어 위키백과",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 6,
+    "unigram_w2": 250699,
+    "ppmi": 4.37475599079836
+  },
+  {
+    "w1": "언어",
+    "w2": "이탈리아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 44332,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "이탈리아어 위키백과",
+    "w2": "이탈리아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 6,
+    "unigram_w2": 44332,
+    "ppmi": 8.459254377984509
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Qazvin Province",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 37,
+    "unigram_w1": 292,
+    "unigram_w2": 9241408,
+    "ppmi": 2.3227504772260237
+  },
+  {
+    "w1": "language",
+    "w2": "Azerbaijani",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5431,
+    "unigram_w1": 9241408,
+    "unigram_w2": 35099,
+    "ppmi": 2.6109815113303396
+  },
+  {
+    "w1": "Qazvin Province",
+    "w2": "Azerbaijani",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 292,
+    "unigram_w2": 35099,
+    "ppmi": 9.060726643596517
+  }
+]

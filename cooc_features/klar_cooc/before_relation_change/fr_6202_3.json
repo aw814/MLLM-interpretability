@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aichi",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 584,
+    "unigram_w1": 21296,
+    "unigram_w2": 7952962,
+    "ppmi": 0.8373841555722448
+  },
+  {
+    "w1": "capital",
+    "w2": "Nagoya",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3529,
+    "unigram_w1": 7952962,
+    "unigram_w2": 98930,
+    "ppmi": 1.2167777108518436
+  },
+  {
+    "w1": "Aichi",
+    "w2": "Nagoya",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6390,
+    "unigram_w1": 21296,
+    "unigram_w2": 98930,
+    "ppmi": 10.618100202929039
+  }
+]

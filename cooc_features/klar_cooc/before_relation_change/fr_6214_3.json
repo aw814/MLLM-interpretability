@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maharashtra",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3098,
+    "unigram_w1": 70326,
+    "unigram_w2": 7952962,
+    "ppmi": 1.5212053397677026
+  },
+  {
+    "w1": "capital",
+    "w2": "Bombay",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8958,
+    "unigram_w1": 7952962,
+    "unigram_w2": 244514,
+    "ppmi": 1.25525785790547
+  },
+  {
+    "w1": "Maharashtra",
+    "w2": "Bombay",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10841,
+    "unigram_w1": 70326,
+    "unigram_w2": 244514,
+    "ppmi": 8.35179743240944
+  }
+]

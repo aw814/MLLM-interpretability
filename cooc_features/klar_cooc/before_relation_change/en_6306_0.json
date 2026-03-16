@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bulgaria",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 40423,
+    "unigram_w1": 395356,
+    "unigram_w2": 7450623,
+    "ppmi": 2.3239692611510674
+  },
+  {
+    "w1": "capital",
+    "w2": "Sofia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23601,
+    "unigram_w1": 7450623,
+    "unigram_w2": 232097,
+    "ppmi": 2.316065299411783
+  },
+  {
+    "w1": "Bulgaria",
+    "w2": "Sofia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 55334,
+    "unigram_w1": 395356,
+    "unigram_w2": 232097,
+    "ppmi": 7.78152036761779
+  }
+]

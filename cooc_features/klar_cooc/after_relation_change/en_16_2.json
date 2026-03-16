@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Boniface III",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 39,
+    "unigram_w1": 122,
+    "unigram_w2": 9106140,
+    "ppmi": 3.679059586043856
+  },
+  {
+    "w1": "born",
+    "w2": "Rome",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 176767,
+    "unigram_w1": 9106140,
+    "unigram_w2": 1168108,
+    "ppmi": 2.600141910203496
+  },
+  {
+    "w1": "Boniface III",
+    "w2": "Rome",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88,
+    "unigram_w1": 122,
+    "unigram_w2": 1168108,
+    "ppmi": 7.815754957754438
+  }
+]

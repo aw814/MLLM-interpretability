@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Grèce",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 147303,
+    "unigram_w1": 3143768,
+    "unigram_w2": 7952962,
+    "ppmi": 1.6102184153265815
+  },
+  {
+    "w1": "capital",
+    "w2": "Athènes",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27105,
+    "unigram_w1": 7952962,
+    "unigram_w2": 656438,
+    "ppmi": 1.427826608383653
+  },
+  {
+    "w1": "Grèce",
+    "w2": "Athènes",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 325243,
+    "unigram_w1": 3143768,
+    "unigram_w2": 656438,
+    "ppmi": 6.3517112257634025
+  }
+]

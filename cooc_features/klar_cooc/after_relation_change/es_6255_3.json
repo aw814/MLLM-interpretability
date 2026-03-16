@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Principado de Moscú",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 936,
+    "unigram_w1": 1700,
+    "unigram_w2": 42058182,
+    "ppmi": 3.445371925311744
+  },
+  {
+    "w1": "capital",
+    "w2": "Moscú",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 554546,
+    "unigram_w1": 42058182,
+    "unigram_w2": 2987312,
+    "ppmi": 1.8768573567676357
+  },
+  {
+    "w1": "Principado de Moscú",
+    "w2": "Moscú",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1700,
+    "unigram_w1": 1700,
+    "unigram_w2": 2987312,
+    "ppmi": 8.121792898294064
+  }
+]

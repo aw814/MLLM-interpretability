@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウォルター・クロンカイト",
+    "w2": "話した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90,
+    "unigram_w1": 704,
+    "unigram_w2": 4020810,
+    "ppmi": 2.4734709864671336
+  },
+  {
+    "w1": "話した",
+    "w2": "英語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 4020810,
+    "unigram_w2": 8357100,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウォルター・クロンカイト",
+    "w2": "英語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 214,
+    "unigram_w1": 704,
+    "unigram_w2": 8357100,
+    "ppmi": 2.6675686418742153
+  }
+]

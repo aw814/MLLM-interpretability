@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sapir-Whorf hypothesis",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 553,
+    "unigram_w1": 1078,
+    "unigram_w2": 74824954,
+    "ppmi": 1.3227809704089744
+  },
+  {
+    "w1": "work",
+    "w2": "linguistics",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 113749,
+    "unigram_w1": 74824954,
+    "unigram_w2": 229002,
+    "ppmi": 1.2762804269251433
+  },
+  {
+    "w1": "Sapir-Whorf hypothesis",
+    "w2": "linguistics",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 363,
+    "unigram_w1": 1078,
+    "unigram_w2": 229002,
+    "ppmi": 9.067486516521516
+  }
+]

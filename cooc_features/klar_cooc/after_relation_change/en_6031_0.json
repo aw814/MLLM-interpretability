@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Libya",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 135,
+    "unigram_w2": 1074632,
+    "ppmi": 1.3305760437195835
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Libya",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 6171,
+    "unigram_w1": 1074632,
+    "unigram_w2": 292070,
+    "ppmi": 2.8427255663716875
+  },
+  {
+    "w1": "flag of Libya",
+    "w2": "Libya",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 135,
+    "unigram_w1": 135,
+    "unigram_w2": 292070,
+    "ppmi": 10.286848260294152
+  }
+]

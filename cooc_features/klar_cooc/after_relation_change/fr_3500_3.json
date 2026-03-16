@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "chaîne Transantarctique",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 184,
+    "unigram_w1": 288,
+    "unigram_w2": 3399010,
+    "ppmi": 6.605869078486678
+  },
+  {
+    "w1": "continent",
+    "w2": "Antarctique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40422,
+    "unigram_w1": 3399010,
+    "unigram_w2": 258660,
+    "ppmi": 4.574387765793403
+  },
+  {
+    "w1": "chaîne Transantarctique",
+    "w2": "Antarctique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 243,
+    "unigram_w1": 288,
+    "unigram_w2": 258660,
+    "ppmi": 10.723105358915031
+  }
+]

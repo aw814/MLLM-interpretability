@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ז'אק אודיאר",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 243,
+    "unigram_w2": 1821,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "תסריטאי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3,
+    "unigram_w1": 1821,
+    "unigram_w2": 13227,
+    "ppmi": 0.6194576793800821
+  },
+  {
+    "w1": "ז'אק אודיאר",
+    "w2": "תסריטאי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 243,
+    "unigram_w2": 13227,
+    "ppmi": 5.8470884776385015
+  }
+]

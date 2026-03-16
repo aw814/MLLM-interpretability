@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "グレートブリテン王国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 1818,
+    "unigram_w2": 498928,
+    "ppmi": 0.9454237426332059
+  },
+  {
+    "w1": "capital",
+    "w2": "ロンドン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15586,
+    "unigram_w1": 498928,
+    "unigram_w2": 1900368,
+    "ppmi": 1.5217478448698258
+  },
+  {
+    "w1": "グレートブリテン王国",
+    "w2": "ロンドン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 750,
+    "unigram_w1": 1818,
+    "unigram_w2": 1900368,
+    "ppmi": 5.244867155620806
+  }
+]

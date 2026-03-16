@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ロシア・ソビエト連邦社会主義共和国",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1112,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "ロシア語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 62,
+    "unigram_w2": 310196,
+    "ppmi": 5.183087374845195
+  },
+  {
+    "w1": "ロシア・ソビエト連邦社会主義共和国",
+    "w2": "ロシア語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 572,
+    "unigram_w1": 1112,
+    "unigram_w2": 310196,
+    "ppmi": 8.178213949286953
+  }
+]

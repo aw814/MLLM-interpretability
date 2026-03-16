@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "גרגור מנדל",
+    "w2": "עבודה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 67,
+    "unigram_w1": 250,
+    "unigram_w2": 1639120,
+    "ppmi": 1.0120235064146366
+  },
+  {
+    "w1": "עבודה",
+    "w2": "גנטיקה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1639120,
+    "unigram_w2": 17766,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "גרגור מנדל",
+    "w2": "גנטיקה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 250,
+    "unigram_w2": 17766,
+    "ppmi": 7.517987206770324
+  }
+]

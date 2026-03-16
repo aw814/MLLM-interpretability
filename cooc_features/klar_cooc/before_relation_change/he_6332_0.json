@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סרייבו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 1467,
+    "unigram_w2": 14610,
+    "ppmi": 1.2028869346084174
+  },
+  {
+    "w1": "capital",
+    "w2": "סרייבו",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 1467,
+    "ppmi": 1.2028869346084174
+  },
+  {
+    "w1": "סרייבו",
+    "w2": "סרייבו",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1467,
+    "unigram_w1": 1467,
+    "unigram_w2": 1467,
+    "ppmi": 13.037555492299278
+  }
+]

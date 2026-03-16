@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "European Union",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43359,
+    "unigram_w1": 1078519,
+    "unigram_w2": 965266,
+    "ppmi": 3.925659578121936
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "European Union",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 366846,
+    "unigram_w1": 1078519,
+    "unigram_w2": 7715842,
+    "ppmi": 4.007605610737113
+  }
+]

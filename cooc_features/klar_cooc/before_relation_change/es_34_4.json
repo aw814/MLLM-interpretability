@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bing Crosby",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 29018,
+    "unigram_w2": 12,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Tacoma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12,
+    "unigram_w2": 167636,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Bing Crosby",
+    "w2": "Tacoma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 188,
+    "unigram_w1": 29018,
+    "unigram_w2": 167636,
+    "ppmi": 5.007165297514227
+  }
+]

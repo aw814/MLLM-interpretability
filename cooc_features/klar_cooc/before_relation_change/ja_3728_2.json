@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google Play",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10456,
+    "unigram_w1": 309982,
+    "unigram_w2": 270510,
+    "ppmi": 4.445000348300584
+  },
+  {
+    "w1": "developer",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72998,
+    "unigram_w1": 270510,
+    "unigram_w2": 4618040,
+    "ppmi": 3.351501919071128
+  },
+  {
+    "w1": "Google Play",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 309982,
+    "unigram_w1": 309982,
+    "unigram_w2": 4618040,
+    "ppmi": 5.241255003847382
+  }
+]

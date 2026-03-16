@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "무함마드",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 5859,
+    "unigram_w2": 15811,
+    "ppmi": 2.5176983176737937
+  },
+  {
+    "w1": "religion",
+    "w2": "이슬람교",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 185,
+    "unigram_w1": 15811,
+    "unigram_w2": 7842,
+    "ppmi": 4.541049745031125
+  },
+  {
+    "w1": "무함마드",
+    "w2": "이슬람교",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 406,
+    "unigram_w1": 5859,
+    "unigram_w2": 7842,
+    "ppmi": 7.107206463510247
+  }
+]

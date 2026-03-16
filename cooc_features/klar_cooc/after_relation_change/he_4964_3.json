@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ולדימיר פוטין",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 233,
+    "unigram_w1": 12831,
+    "unigram_w2": 236631,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "שפה",
+    "w2": "רוסית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 106961,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ולדימיר פוטין",
+    "w2": "רוסית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1887,
+    "unigram_w1": 12831,
+    "unigram_w2": 106961,
+    "ppmi": 4.084016029884429
+  }
+]

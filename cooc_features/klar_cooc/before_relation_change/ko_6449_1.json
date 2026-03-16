@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "영국령 인도 제국",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 55,
+    "unigram_w2": 36855,
+    "ppmi": 3.9443827559542646
+  },
+  {
+    "w1": "capital",
+    "w2": "콜카타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 298,
+    "unigram_w1": 36855,
+    "unigram_w2": 3914,
+    "ppmi": 5.010482949314282
+  },
+  {
+    "w1": "영국령 인도 제국",
+    "w2": "콜카타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 55,
+    "unigram_w2": 3914,
+    "ppmi": 8.501455548185506
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "パナマ市",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1162,
+    "unigram_w1": 2592,
+    "unigram_w2": 2444276,
+    "ppmi": 5.001672824735183
+  },
+  {
+    "w1": "首都",
+    "w2": "パナマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 162370,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "パナマ市",
+    "w2": "パナマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2592,
+    "unigram_w1": 2592,
+    "unigram_w2": 162370,
+    "ppmi": 10.071178667868852
+  }
+]

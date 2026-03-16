@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "University of Paris",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1096,
+    "unigram_w1": 19446,
+    "unigram_w2": 14590058,
+    "ppmi": 0.49516690822207876
+  },
+  {
+    "w1": "location",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 214317,
+    "unigram_w1": 14590058,
+    "unigram_w2": 3039340,
+    "ppmi": 0.8183807550883888
+  },
+  {
+    "w1": "University of Paris",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19446,
+    "unigram_w1": 19446,
+    "unigram_w2": 3039340,
+    "ppmi": 6.90747627163786
+  }
+]

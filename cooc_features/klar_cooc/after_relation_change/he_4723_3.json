@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ראמאקרישנה",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 61,
+    "unigram_w2": 5024,
+    "ppmi": 7.3308505615181545
+  },
+  {
+    "w1": "religion",
+    "w2": "הינדואיזם",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 5024,
+    "unigram_w2": 1842,
+    "ppmi": 6.029240397104913
+  },
+  {
+    "w1": "ראמאקרישנה",
+    "w2": "הינדואיזם",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 61,
+    "unigram_w2": 1842,
+    "ppmi": 10.778413964318446
+  }
+]

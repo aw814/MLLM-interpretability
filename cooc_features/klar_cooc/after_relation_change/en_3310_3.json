@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Game Boy Advance",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 372,
+    "unigram_w1": 16685,
+    "unigram_w2": 3911896,
+    "ppmi": 1.0562610737287155
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Nintendo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8416,
+    "unigram_w1": 3911896,
+    "unigram_w2": 472670,
+    "ppmi": 0.73181154268407
+  },
+  {
+    "w1": "Game Boy Advance",
+    "w2": "Nintendo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9556,
+    "unigram_w1": 16685,
+    "unigram_w2": 472670,
+    "ppmi": 8.78825621102702
+  }
+]

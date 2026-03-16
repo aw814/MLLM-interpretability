@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Azerbaijan",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18659,
+    "unigram_w1": 159687,
+    "unigram_w2": 9241408,
+    "ppmi": 2.205818376062434
+  },
+  {
+    "w1": "language",
+    "w2": "Azerbaijani",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5431,
+    "unigram_w1": 9241408,
+    "unigram_w2": 35099,
+    "ppmi": 2.6109815113303396
+  },
+  {
+    "w1": "Azerbaijan",
+    "w2": "Azerbaijani",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23172,
+    "unigram_w1": 159687,
+    "unigram_w2": 35099,
+    "ppmi": 10.55886821330457
+  }
+]

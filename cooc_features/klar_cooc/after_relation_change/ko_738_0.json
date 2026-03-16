@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "세인트키츠 네비스",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28,
+    "unigram_w1": 564,
+    "unigram_w2": 250699,
+    "ppmi": 1.627522061178327
+  },
+  {
+    "w1": "언어",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "세인트키츠 네비스",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 66,
+    "unigram_w1": 564,
+    "unigram_w2": 359114,
+    "ppmi": 2.346075602645561
+  }
+]

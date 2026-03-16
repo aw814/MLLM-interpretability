@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "BMW X3",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1018,
+    "unigram_w1": 13179,
+    "unigram_w2": 3911896,
+    "ppmi": 2.8489348899521434
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "BMW",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 46605,
+    "unigram_w1": 3911896,
+    "unigram_w2": 660095,
+    "ppmi": 2.719249305806837
+  },
+  {
+    "w1": "BMW X3",
+    "w2": "BMW",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13179,
+    "unigram_w1": 13179,
+    "unigram_w2": 660095,
+    "ppmi": 9.11048876932508
+  }
+]

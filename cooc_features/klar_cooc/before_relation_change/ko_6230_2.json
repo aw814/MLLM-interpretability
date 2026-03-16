@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "라치오주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 65,
+    "unigram_w2": 36855,
+    "ppmi": 4.288337157171626
+  },
+  {
+    "w1": "capital",
+    "w2": "로마",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 522,
+    "unigram_w1": 36855,
+    "unigram_w2": 99776,
+    "ppmi": 1.1472432533510242
+  },
+  {
+    "w1": "라치오주",
+    "w2": "로마",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 43,
+    "unigram_w1": 65,
+    "unigram_w2": 99776,
+    "ppmi": 6.692806936425466
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "הטריטוריה הצפונית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 39,
+    "unigram_w1": 361,
+    "unigram_w2": 90246,
+    "ppmi": 3.884180471978007
+  },
+  {
+    "w1": "בירה",
+    "w2": "דרווין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 7744,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "הטריטוריה הצפונית",
+    "w2": "דרווין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88,
+    "unigram_w1": 361,
+    "unigram_w2": 7744,
+    "ppmi": 8.6009220024482
+  }
+]

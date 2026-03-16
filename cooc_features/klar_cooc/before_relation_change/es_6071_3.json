@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Basic Instinct",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6008,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "Francia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 21970124,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Basic Instinct",
+    "w2": "Francia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 520,
+    "unigram_w1": 6008,
+    "unigram_w2": 21970124,
+    "ppmi": 1.7128684295927827
+  }
+]

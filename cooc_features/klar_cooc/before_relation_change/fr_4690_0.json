@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Richard Cœur de Lion",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2544,
+    "unigram_w1": 23516,
+    "unigram_w2": 4547729,
+    "ppmi": 3.623728336609378
+  },
+  {
+    "w1": "religion",
+    "w2": "christianisme",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 433008,
+    "unigram_w1": 4547729,
+    "unigram_w2": 1020411,
+    "ppmi": 5.595515672229268
+  },
+  {
+    "w1": "Richard Cœur de Lion",
+    "w2": "christianisme",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1105,
+    "unigram_w1": 23516,
+    "unigram_w2": 1020411,
+    "ppmi": 4.576671965588779
+  }
+]

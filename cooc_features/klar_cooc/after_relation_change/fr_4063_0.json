@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "James Garner",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52,
+    "unigram_w1": 5670,
+    "unigram_w2": 1893780,
+    "ppmi": 1.3273846855464313
+  },
+  {
+    "w1": "parlait",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "James Garner",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 950,
+    "unigram_w1": 5670,
+    "unigram_w2": 17089249,
+    "ppmi": 2.344980320635711
+  }
+]

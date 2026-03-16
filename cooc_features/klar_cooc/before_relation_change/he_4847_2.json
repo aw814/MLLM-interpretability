@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אצטדיון סאן פאולו",
+    "w2": "owned_by",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 30,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "owned_by",
+    "w2": "נאפולי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 18613,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "אצטדיון סאן פאולו",
+    "w2": "נאפולי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29,
+    "unigram_w1": 30,
+    "unigram_w2": 18613,
+    "ppmi": 9.32327606357645
+  }
+]

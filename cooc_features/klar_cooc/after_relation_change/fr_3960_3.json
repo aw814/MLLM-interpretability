@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lille",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 250989,
+    "unigram_w1": 5399934,
+    "unigram_w2": 9137640,
+    "ppmi": 1.3982793930943316
+  },
+  {
+    "w1": "capitale",
+    "w2": "Nord",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 24735428,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Lille",
+    "w2": "Nord",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1435297,
+    "unigram_w1": 5399934,
+    "unigram_w2": 24735428,
+    "ppmi": 2.4772472969024832
+  }
+]

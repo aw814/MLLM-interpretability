@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dennis Farina",
+    "w2": "place_of_birth",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1033,
+    "unigram_w2": 7,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_birth",
+    "w2": "Chicago",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 7,
+    "unigram_w2": 3652152,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Dennis Farina",
+    "w2": "Chicago",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 205,
+    "unigram_w1": 1033,
+    "unigram_w2": 3652152,
+    "ppmi": 4.309343094729647
+  }
+]

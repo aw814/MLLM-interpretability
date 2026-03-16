@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "巴黎圣日耳曼足球俱乐部",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 92,
+    "unigram_w1": 451,
+    "unigram_w2": 6418768,
+    "ppmi": 0.8903009138786555
+  },
+  {
+    "w1": "位置",
+    "w2": "巴黎",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 677900,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "巴黎圣日耳曼足球俱乐部",
+    "w2": "巴黎",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 451,
+    "unigram_w1": 451,
+    "unigram_w2": 677900,
+    "ppmi": 6.426874622327992
+  }
+]

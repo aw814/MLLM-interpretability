@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カンブリア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 246,
+    "unigram_w1": 57710,
+    "unigram_w2": 498928,
+    "ppmi": 0.5776129267206073
+  },
+  {
+    "w1": "capital",
+    "w2": "カーライル",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 432,
+    "unigram_w1": 498928,
+    "unigram_w2": 54842,
+    "ppmi": 1.463526069697437
+  },
+  {
+    "w1": "カンブリア",
+    "w2": "カーライル",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 742,
+    "unigram_w1": 57710,
+    "unigram_w2": 54842,
+    "ppmi": 5.355852344161501
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Primer ministro de Ucrania",
+    "w2": "applies_to_jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 7994,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "applies_to_jurisdiction",
+    "w2": "Ucrania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 4342322,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Primer ministro de Ucrania",
+    "w2": "Ucrania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7994,
+    "unigram_w1": 7994,
+    "unigram_w2": 4342322,
+    "ppmi": 7.582174110015071
+  }
+]

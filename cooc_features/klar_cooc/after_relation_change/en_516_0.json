@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vietnam",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 95738,
+    "unigram_w1": 1167682,
+    "unigram_w2": 9241408,
+    "ppmi": 1.694709716484669
+  },
+  {
+    "w1": "language",
+    "w2": "Vietnamese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 50093,
+    "unigram_w1": 9241408,
+    "unigram_w2": 404347,
+    "ppmi": 2.2902086831629376
+  },
+  {
+    "w1": "Vietnam",
+    "w2": "Vietnamese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 179404,
+    "unigram_w1": 1167682,
+    "unigram_w2": 404347,
+    "ppmi": 7.115205061829577
+  }
+]

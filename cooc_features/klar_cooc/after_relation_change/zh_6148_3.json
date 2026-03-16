@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "麦吉尔大学",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 446,
+    "unigram_w1": 3161,
+    "unigram_w2": 6418768,
+    "ppmi": 0.3584571610928299
+  },
+  {
+    "w1": "位置",
+    "w2": "蒙特利尔",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 23949,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "麦吉尔大学",
+    "w2": "蒙特利尔",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 886,
+    "unigram_w1": 3161,
+    "unigram_w2": 23949,
+    "ppmi": 9.414907339739433
+  }
+]

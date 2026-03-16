@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "South Carolina",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35851,
+    "unigram_w1": 784203,
+    "unigram_w2": 9241408,
+    "ppmi": 0.8519797755424036
+  },
+  {
+    "w1": "language",
+    "w2": "English",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2671476,
+    "unigram_w1": 9241408,
+    "unigram_w2": 9553181,
+    "ppmi": 3.4647775278256665
+  },
+  {
+    "w1": "South Carolina",
+    "w2": "English",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 42228,
+    "unigram_w1": 784203,
+    "unigram_w2": 9553181,
+    "ppmi": 1.0402978097061446
+  }
+]

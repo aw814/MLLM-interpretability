@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿尔弗雷德·马歇尔",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 28,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "经济学",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 377272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿尔弗雷德·马歇尔",
+    "w2": "经济学",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 28,
+    "unigram_w2": 377272,
+    "ppmi": 7.049949640172112
+  }
+]

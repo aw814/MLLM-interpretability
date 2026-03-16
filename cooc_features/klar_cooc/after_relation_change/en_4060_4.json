@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Anggun",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 1500,
+    "unigram_w2": 3469075,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "spoke",
+    "w2": "Indonesian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10107,
+    "unigram_w1": 3469075,
+    "unigram_w2": 354064,
+    "ppmi": 1.5860998896198115
+  },
+  {
+    "w1": "Anggun",
+    "w2": "Indonesian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 246,
+    "unigram_w1": 1500,
+    "unigram_w2": 354064,
+    "ppmi": 7.400919996502469
+  }
+]

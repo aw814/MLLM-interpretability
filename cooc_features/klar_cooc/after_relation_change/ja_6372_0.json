@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ワイオミング州",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1494,
+    "unigram_w1": 21788,
+    "unigram_w2": 2444276,
+    "ppmi": 2.292846755164073
+  },
+  {
+    "w1": "首都",
+    "w2": "シャイアン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 12496,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ワイオミング州",
+    "w2": "シャイアン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 21788,
+    "unigram_w2": 12496,
+    "ppmi": 9.34267292721715
+  }
+]

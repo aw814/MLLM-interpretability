@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "西德",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 110,
+    "unigram_w1": 47181,
+    "unigram_w2": 32140,
+    "ppmi": 2.0809465961829763
+  },
+  {
+    "w1": "capital",
+    "w2": "波恩",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 32140,
+    "unigram_w2": 9336,
+    "ppmi": 2.3918039154471087
+  },
+  {
+    "w1": "西德",
+    "w2": "波恩",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 305,
+    "unigram_w1": 47181,
+    "unigram_w2": 9336,
+    "ppmi": 5.335745777963673
+  }
+]

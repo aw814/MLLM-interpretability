@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pampelune",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7951,
+    "unigram_w1": 65881,
+    "unigram_w2": 9137640,
+    "ppmi": 2.7748708965408952
+  },
+  {
+    "w1": "capitale",
+    "w2": "Navarre",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 330428,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pampelune",
+    "w2": "Navarre",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16033,
+    "unigram_w1": 65881,
+    "unigram_w2": 330428,
+    "ppmi": 8.576120826805699
+  }
+]

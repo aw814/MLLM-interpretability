@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Christian Huygens",
+    "w2": "parlait",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 45,
+    "unigram_w1": 3266,
+    "unigram_w2": 1893780,
+    "ppmi": 1.9146220080029102
+  },
+  {
+    "w1": "parlait",
+    "w2": "latin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1893780,
+    "unigram_w2": 2492090,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Christian Huygens",
+    "w2": "latin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 699,
+    "unigram_w1": 3266,
+    "unigram_w2": 2492090,
+    "ppmi": 5.475830128853599
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "איראן",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 236,
+    "unigram_w1": 96057,
+    "unigram_w2": 14610,
+    "ppmi": 1.0525800082824393
+  },
+  {
+    "w1": "capital",
+    "w2": "טהראן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 308,
+    "unigram_w1": 14610,
+    "unigram_w2": 7825,
+    "ppmi": 5.0544515942693655
+  },
+  {
+    "w1": "איראן",
+    "w2": "טהראן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6356,
+    "unigram_w1": 96057,
+    "unigram_w2": 7825,
+    "ppmi": 6.7046338892526345
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "意大利王国",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 73,
+    "unigram_w1": 254,
+    "unigram_w2": 596594,
+    "ppmi": 4.812337496793352
+  },
+  {
+    "w1": "首都",
+    "w2": "佛罗伦萨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 45725,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "意大利王国",
+    "w2": "佛罗伦萨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 254,
+    "unigram_w2": 45725,
+    "ppmi": 7.576134844701422
+  }
+]

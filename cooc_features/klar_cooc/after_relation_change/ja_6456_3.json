@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ネウストリア",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 128,
+    "unigram_w1": 582,
+    "unigram_w2": 2444276,
+    "ppmi": 3.9742531313069955
+  },
+  {
+    "w1": "首都",
+    "w2": "パリ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 2419066,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ネウストリア",
+    "w2": "パリ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 178,
+    "unigram_w1": 582,
+    "unigram_w2": 2419066,
+    "ppmi": 4.4649436299644565
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Panjim",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1925,
+    "unigram_w1": 7567,
+    "unigram_w2": 7450623,
+    "ppmi": 3.6390102805989897
+  },
+  {
+    "w1": "capital",
+    "w2": "Goa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18993,
+    "unigram_w1": 7450623,
+    "unigram_w2": 184714,
+    "ppmi": 2.3321197700000504
+  },
+  {
+    "w1": "Panjim",
+    "w2": "Goa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6550,
+    "unigram_w1": 7567,
+    "unigram_w2": 184714,
+    "ppmi": 10.73964268459273
+  }
+]

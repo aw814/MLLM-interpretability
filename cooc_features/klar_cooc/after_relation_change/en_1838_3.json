@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "William Somerset Maugham",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 114,
+    "unigram_w1": 276,
+    "unigram_w2": 74824954,
+    "ppmi": 1.0101523203133453
+  },
+  {
+    "w1": "work",
+    "w2": "novelist",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 143032,
+    "unigram_w1": 74824954,
+    "unigram_w2": 290388,
+    "ppmi": 1.2641428780577362
+  },
+  {
+    "w1": "William Somerset Maugham",
+    "w2": "novelist",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 48,
+    "unigram_w1": 276,
+    "unigram_w2": 290388,
+    "ppmi": 7.771618646840797
+  }
+]

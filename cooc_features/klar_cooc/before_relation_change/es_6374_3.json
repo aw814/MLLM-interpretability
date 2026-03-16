@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imperio bizantino",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29162,
+    "unigram_w1": 77262,
+    "unigram_w2": 42058182,
+    "ppmi": 2.900656879722318
+  },
+  {
+    "w1": "capital",
+    "w2": "Constantinopla",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 79196,
+    "unigram_w1": 42058182,
+    "unigram_w2": 282644,
+    "ppmi": 2.470839635326215
+  },
+  {
+    "w1": "Imperio bizantino",
+    "w2": "Constantinopla",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 29640,
+    "unigram_w1": 77262,
+    "unigram_w2": 282644,
+    "ppmi": 10.141369268694124
+  }
+]

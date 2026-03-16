@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "南卡罗来纳州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18,
+    "unigram_w1": 3911,
+    "unigram_w2": 32140,
+    "ppmi": 3.062108439700355
+  },
+  {
+    "w1": "capital",
+    "w2": "哥伦比亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 432,
+    "unigram_w1": 32140,
+    "unigram_w2": 115214,
+    "ppmi": 2.766436253067808
+  },
+  {
+    "w1": "南卡罗来纳州",
+    "w2": "哥伦比亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 376,
+    "unigram_w1": 3911,
+    "unigram_w2": 115214,
+    "ppmi": 5.604898090411488
+  }
+]

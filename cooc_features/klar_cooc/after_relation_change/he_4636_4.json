@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קונסטנטינוס",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27,
+    "unigram_w1": 2858,
+    "unigram_w2": 5024,
+    "ppmi": 4.535685200148693
+  },
+  {
+    "w1": "religion",
+    "w2": "נצרות",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 240,
+    "unigram_w1": 5024,
+    "unigram_w2": 10566,
+    "ppmi": 5.801336800137195
+  },
+  {
+    "w1": "קונסטנטינוס",
+    "w2": "נצרות",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 220,
+    "unigram_w1": 2858,
+    "unigram_w2": 10566,
+    "ppmi": 6.489636465849147
+  }
+]

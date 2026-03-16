@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "威豹乐队",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 7,
+    "unigram_w2": 6418768,
+    "ppmi": 1.3763676590194194
+  },
+  {
+    "w1": "位置",
+    "w2": "谢菲尔德",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 7575,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "威豹乐队",
+    "w2": "谢菲尔德",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 7,
+    "unigram_w2": 7575,
+    "ppmi": 11.103202472248164
+  }
+]

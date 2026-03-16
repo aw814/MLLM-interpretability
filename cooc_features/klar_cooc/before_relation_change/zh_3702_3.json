@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "塞班",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 29388,
+    "unigram_w2": 7846,
+    "ppmi": 1.4763380068285115
+  },
+  {
+    "w1": "developer",
+    "w2": "诺基亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 38,
+    "unigram_w1": 7846,
+    "unigram_w2": 83896,
+    "ppmi": 1.7514590539918131
+  },
+  {
+    "w1": "塞班",
+    "w2": "诺基亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1128,
+    "unigram_w1": 29388,
+    "unigram_w2": 83896,
+    "ppmi": 4.737884953738982
+  }
+]

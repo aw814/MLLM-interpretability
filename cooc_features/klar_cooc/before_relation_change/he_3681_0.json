@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "DirectX",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 121,
+    "unigram_w1": 1355,
+    "unigram_w2": 7399,
+    "ppmi": 7.217880165565742
+  },
+  {
+    "w1": "developer",
+    "w2": "מיקרוסופט",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 665,
+    "unigram_w1": 7399,
+    "unigram_w2": 55668,
+    "ppmi": 4.315743963349941
+  },
+  {
+    "w1": "DirectX",
+    "w2": "מיקרוסופט",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 296,
+    "unigram_w1": 1355,
+    "unigram_w2": 55668,
+    "ppmi": 5.597024245789392
+  }
+]

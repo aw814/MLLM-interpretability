@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ducati Motor Holding",
+    "w2": "possède",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 102,
+    "unigram_w1": 800,
+    "unigram_w2": 13047836,
+    "ppmi": 2.3401772336748037
+  },
+  {
+    "w1": "possède",
+    "w2": "Audi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 13047836,
+    "unigram_w2": 1617651,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ducati Motor Holding",
+    "w2": "Audi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 297,
+    "unigram_w1": 800,
+    "unigram_w2": 1617651,
+    "ppmi": 6.8939092740406664
+  }
+]

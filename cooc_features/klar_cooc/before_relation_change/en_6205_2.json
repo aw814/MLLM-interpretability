@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Duchy of Athens",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43,
+    "unigram_w1": 100,
+    "unigram_w2": 7450623,
+    "ppmi": 4.396281844848991
+  },
+  {
+    "w1": "capital",
+    "w2": "Athens",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 54127,
+    "unigram_w1": 7450623,
+    "unigram_w2": 528190,
+    "ppmi": 2.3272366258134434
+  },
+  {
+    "w1": "Duchy of Athens",
+    "w2": "Athens",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 100,
+    "unigram_w1": 100,
+    "unigram_w2": 528190,
+    "ppmi": 9.432105451679426
+  }
+]

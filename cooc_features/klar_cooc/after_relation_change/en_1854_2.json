@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "web application",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 115417,
+    "unigram_w1": 283065,
+    "unigram_w2": 74824954,
+    "ppmi": 0.9915091239287559
+  },
+  {
+    "w1": "work",
+    "w2": "website",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7769278,
+    "unigram_w1": 74824954,
+    "unigram_w2": 24170334,
+    "ppmi": 0.6484017938102311
+  },
+  {
+    "w1": "web application",
+    "w2": "website",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 88037,
+    "unigram_w1": 283065,
+    "unigram_w2": 24170334,
+    "ppmi": 2.2311173534748194
+  }
+]

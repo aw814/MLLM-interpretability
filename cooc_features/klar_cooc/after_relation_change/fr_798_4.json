@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guernesey",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8059,
+    "unigram_w1": 274047,
+    "unigram_w2": 12749290,
+    "ppmi": 0.25732303069276613
+  },
+  {
+    "w1": "langue",
+    "w2": "français",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 46536486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Guernesey",
+    "w2": "français",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27035,
+    "unigram_w1": 274047,
+    "unigram_w2": 46536486,
+    "ppmi": 0.13553327928334397
+  }
+]

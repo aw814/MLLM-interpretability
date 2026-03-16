@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "President of Austria",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13,
+    "unigram_w1": 882,
+    "unigram_w2": 1074632,
+    "ppmi": 2.323196513353986
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Austria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10202,
+    "unigram_w1": 1074632,
+    "unigram_w2": 923026,
+    "ppmi": 1.9079442651349432
+  },
+  {
+    "w1": "President of Austria",
+    "w2": "Austria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 882,
+    "unigram_w1": 882,
+    "unigram_w2": 923026,
+    "ppmi": 8.626791152906554
+  }
+]

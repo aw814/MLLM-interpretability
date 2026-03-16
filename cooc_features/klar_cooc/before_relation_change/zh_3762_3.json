@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "的黎波里",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 3620,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "利比亚",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 58599,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "的黎波里",
+    "w2": "利比亚",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2125,
+    "unigram_w1": 3620,
+    "unigram_w2": 58599,
+    "ppmi": 9.190472286877695
+  }
+]

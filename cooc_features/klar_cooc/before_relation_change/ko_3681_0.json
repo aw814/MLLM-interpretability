@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "DirectX",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 91,
+    "unigram_w1": 3442,
+    "unigram_w2": 17565,
+    "ppmi": 4.553662509498366
+  },
+  {
+    "w1": "developer",
+    "w2": "마이크로소프트",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 579,
+    "unigram_w1": 17565,
+    "unigram_w2": 49118,
+    "ppmi": 3.388354591922241
+  },
+  {
+    "w1": "DirectX",
+    "w2": "마이크로소프트",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 403,
+    "unigram_w1": 3442,
+    "unigram_w2": 49118,
+    "ppmi": 5.216955656530502
+  }
+]

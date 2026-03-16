@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "앨라배마주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11,
+    "unigram_w1": 1462,
+    "unigram_w2": 36855,
+    "ppmi": 1.6714464921637842
+  },
+  {
+    "w1": "capital",
+    "w2": "몽고메리",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 42,
+    "unigram_w1": 36855,
+    "unigram_w2": 5224,
+    "ppmi": 1.7671207107112537
+  },
+  {
+    "w1": "앨라배마주",
+    "w2": "몽고메리",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 183,
+    "unigram_w1": 1462,
+    "unigram_w2": 5224,
+    "ppmi": 8.546348268234782
+  }
+]

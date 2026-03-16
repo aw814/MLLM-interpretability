@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "월터 크롱카이트",
+    "w2": "말했다",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 19,
+    "unigram_w1": 69,
+    "unigram_w2": 1429427,
+    "ppmi": 1.5877127505316473
+  },
+  {
+    "w1": "말했다",
+    "w2": "영어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1429427,
+    "unigram_w2": 359114,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "월터 크롱카이트",
+    "w2": "영어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 69,
+    "unigram_w2": 359114,
+    "ppmi": 2.3327083789077316
+  }
+]

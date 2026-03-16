@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Toyota Camry",
+    "w2": "manufacturer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 716,
+    "unigram_w1": 96012,
+    "unigram_w2": 513142,
+    "ppmi": 3.5960994694601887
+  },
+  {
+    "w1": "manufacturer",
+    "w2": "Toyota",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11346,
+    "unigram_w1": 513142,
+    "unigram_w2": 2630774,
+    "ppmi": 2.8060510652687793
+  },
+  {
+    "w1": "Toyota Camry",
+    "w2": "Toyota",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 96012,
+    "unigram_w1": 96012,
+    "unigram_w2": 2630774,
+    "ppmi": 8.305153504094529
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "칼 폰 린네",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 99,
+    "unigram_w2": 255115,
+    "ppmi": 2.1125253073973096
+  },
+  {
+    "w1": "작업",
+    "w2": "의학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 62905,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "칼 폰 린네",
+    "w2": "의학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 9,
+    "unigram_w1": 99,
+    "unigram_w2": 62905,
+    "ppmi": 4.494996515075378
+  }
+]

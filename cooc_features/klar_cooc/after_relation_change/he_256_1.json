@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ראג'סטאן",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 29,
+    "unigram_w1": 275,
+    "unigram_w2": 236631,
+    "ppmi": 2.45862227297852
+  },
+  {
+    "w1": "שפה",
+    "w2": "הינדי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 4131,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ראג'סטאן",
+    "w2": "הינדי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 41,
+    "unigram_w1": 275,
+    "unigram_w2": 4131,
+    "ppmi": 8.79819749932261
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Algérie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 195917,
+    "unigram_w1": 2993933,
+    "unigram_w2": 9137640,
+    "ppmi": 1.8917976816971382
+  },
+  {
+    "w1": "capitale",
+    "w2": "Alger",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1280376,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Algérie",
+    "w2": "Alger",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 557522,
+    "unigram_w1": 2993933,
+    "unigram_w2": 1280376,
+    "ppmi": 6.235837894762549
+  }
+]

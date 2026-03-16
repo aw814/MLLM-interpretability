@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "南イエメン",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 1190,
+    "unigram_w2": 498928,
+    "ppmi": 2.5568143686320073
+  },
+  {
+    "w1": "capital",
+    "w2": "アデン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 152,
+    "unigram_w1": 498928,
+    "unigram_w2": 18852,
+    "ppmi": 1.4971296793681836
+  },
+  {
+    "w1": "南イエメン",
+    "w2": "アデン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 362,
+    "unigram_w1": 1190,
+    "unigram_w2": 18852,
+    "ppmi": 11.460774305377809
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "克尔曼省",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 12,
+    "unigram_w1": 56,
+    "unigram_w2": 596594,
+    "ppmi": 4.388805203349052
+  },
+  {
+    "w1": "首都",
+    "w2": "克尔曼",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 1871,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "克尔曼省",
+    "w2": "克尔曼",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 56,
+    "unigram_w2": 1871,
+    "ppmi": 14.92799372431266
+  }
+]

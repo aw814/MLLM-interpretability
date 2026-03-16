@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sri Lanka",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21100,
+    "unigram_w1": 770812,
+    "unigram_w2": 7952962,
+    "ppmi": 0.8347903249666334
+  },
+  {
+    "w1": "capital",
+    "w2": "Colombo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 5999,
+    "unigram_w1": 7952962,
+    "unigram_w2": 239485,
+    "ppmi": 0.7067849978887609
+  },
+  {
+    "w1": "Sri Lanka",
+    "w2": "Colombo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56780,
+    "unigram_w1": 770812,
+    "unigram_w2": 239485,
+    "ppmi": 7.31641525114547
+  }
+]

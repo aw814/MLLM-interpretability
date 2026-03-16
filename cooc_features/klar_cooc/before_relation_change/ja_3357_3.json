@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ミシェル・アウン",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 262,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "レバノン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 131454,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ミシェル・アウン",
+    "w2": "レバノン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 254,
+    "unigram_w1": 262,
+    "unigram_w2": 131454,
+    "ppmi": 10.331167411062967
+  }
+]

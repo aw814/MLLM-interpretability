@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ヌーク",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 610,
+    "unigram_w1": 7228,
+    "unigram_w2": 2444276,
+    "ppmi": 2.5924131158009285
+  },
+  {
+    "w1": "首都",
+    "w2": "グリーンランド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 72570,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ヌーク",
+    "w2": "グリーンランド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 614,
+    "unigram_w1": 7228,
+    "unigram_w2": 72570,
+    "ppmi": 7.675732647422398
+  }
+]

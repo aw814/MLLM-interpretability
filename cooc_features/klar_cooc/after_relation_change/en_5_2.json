@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "William Thomson 1st Baron Kelvin",
+    "w2": "born",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 43,
+    "unigram_w1": 115,
+    "unigram_w2": 9106140,
+    "ppmi": 3.905169408502217
+  },
+  {
+    "w1": "born",
+    "w2": "Belfast",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30717,
+    "unigram_w1": 9106140,
+    "unigram_w2": 303135,
+    "ppmi": 2.0215434953835674
+  },
+  {
+    "w1": "William Thomson 1st Baron Kelvin",
+    "w2": "Belfast",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 28,
+    "unigram_w1": 115,
+    "unigram_w2": 303135,
+    "ppmi": 8.195066875150093
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "république de Venise",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 857,
+    "unigram_w1": 19858,
+    "unigram_w2": 7952962,
+    "ppmi": 1.491573138126565
+  },
+  {
+    "w1": "capital",
+    "w2": "Venise",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40908,
+    "unigram_w1": 7952962,
+    "unigram_w2": 1679071,
+    "ppmi": 0.6667180318016597
+  },
+  {
+    "w1": "république de Venise",
+    "w2": "Venise",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19858,
+    "unigram_w1": 19858,
+    "unigram_w2": 1679071,
+    "ppmi": 8.269683493875013
+  }
+]

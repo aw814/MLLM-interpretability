@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "アラブ連合共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 814,
+    "unigram_w2": 498928,
+    "ppmi": 0.7827471476737038
+  },
+  {
+    "w1": "capital",
+    "w2": "カイロ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1624,
+    "unigram_w1": 498928,
+    "unigram_w2": 321728,
+    "ppmi": 0.8214860754297599
+  },
+  {
+    "w1": "アラブ連合共和国",
+    "w2": "カイロ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 248,
+    "unigram_w1": 814,
+    "unigram_w2": 321728,
+    "ppmi": 7.369933594930524
+  }
+]

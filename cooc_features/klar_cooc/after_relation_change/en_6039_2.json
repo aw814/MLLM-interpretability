@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Japan",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 471,
+    "unigram_w2": 1074632,
+    "ppmi": 2.1127708918787875
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Japan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 26264,
+    "unigram_w1": 1074632,
+    "unigram_w2": 3807916,
+    "ppmi": 1.2276204518796852
+  },
+  {
+    "w1": "flag of Japan",
+    "w2": "Japan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 471,
+    "unigram_w1": 471,
+    "unigram_w2": 3807916,
+    "ppmi": 6.582232690475259
+  }
+]

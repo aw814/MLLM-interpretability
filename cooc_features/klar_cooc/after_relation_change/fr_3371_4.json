@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Miguel Hidalgo",
+    "w2": "citoyenneté",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 21,
+    "unigram_w1": 5242,
+    "unigram_w2": 1325492,
+    "ppmi": 0.6472345518116316
+  },
+  {
+    "w1": "citoyenneté",
+    "w2": "Espagne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1325492,
+    "unigram_w2": 6663990,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Miguel Hidalgo",
+    "w2": "Espagne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 551,
+    "unigram_w1": 5242,
+    "unigram_w2": 6663990,
+    "ppmi": 3.0309673646638284
+  }
+]

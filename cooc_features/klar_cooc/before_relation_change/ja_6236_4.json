@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "フィレンツェ県",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 2618,
+    "unigram_w2": 498928,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "フィレンツェ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1932,
+    "unigram_w1": 498928,
+    "unigram_w2": 289624,
+    "ppmi": 1.2236898785091743
+  },
+  {
+    "w1": "フィレンツェ県",
+    "w2": "フィレンツェ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2618,
+    "unigram_w1": 2618,
+    "unigram_w2": 289624,
+    "ppmi": 9.236282610238712
+  }
+]

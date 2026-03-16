@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dar es-Salaam",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7966,
+    "unigram_w1": 36318,
+    "unigram_w2": 42058182,
+    "ppmi": 2.117568864686236
+  },
+  {
+    "w1": "capital",
+    "w2": "Tanzania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96122,
+    "unigram_w1": 42058182,
+    "unigram_w2": 710002,
+    "ppmi": 1.4214417201036387
+  },
+  {
+    "w1": "Dar es-Salaam",
+    "w2": "Tanzania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23824,
+    "unigram_w1": 36318,
+    "unigram_w2": 710002,
+    "ppmi": 9.586476729858484
+  }
+]

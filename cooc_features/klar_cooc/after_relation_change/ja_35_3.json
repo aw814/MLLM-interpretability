@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ミケランジェロ・ブオナローティ",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 24,
+    "unigram_w1": 1526,
+    "unigram_w2": 620194,
+    "ppmi": 2.1471674531346876
+  },
+  {
+    "w1": "死亡した",
+    "w2": "ローマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 1666030,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ミケランジェロ・ブオナローティ",
+    "w2": "ローマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 670,
+    "unigram_w1": 1526,
+    "unigram_w2": 1666030,
+    "ppmi": 5.524599332319836
+  }
+]

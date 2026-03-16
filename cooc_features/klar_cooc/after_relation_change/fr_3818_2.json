@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Katmandou",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17077,
+    "unigram_w1": 99739,
+    "unigram_w2": 9137640,
+    "ppmi": 3.279421938660223
+  },
+  {
+    "w1": "capitale",
+    "w2": "Népal",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 612776,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Katmandou",
+    "w2": "Népal",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56690,
+    "unigram_w1": 99739,
+    "unigram_w2": 612776,
+    "ppmi": 8.908851562147195
+  }
+]

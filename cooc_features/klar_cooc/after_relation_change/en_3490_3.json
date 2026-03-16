@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Czechoslovakia",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3083,
+    "unigram_w1": 74006,
+    "unigram_w2": 965266,
+    "ppmi": 3.977000429680847
+  },
+  {
+    "w1": "continent",
+    "w2": "Europe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 250111,
+    "unigram_w1": 965266,
+    "unigram_w2": 7715842,
+    "ppmi": 3.615052689715312
+  },
+  {
+    "w1": "Czechoslovakia",
+    "w2": "Europe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26881,
+    "unigram_w1": 74006,
+    "unigram_w2": 7715842,
+    "ppmi": 4.10235531103279
+  }
+]

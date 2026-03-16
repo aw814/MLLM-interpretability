@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ג'קרטה",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54,
+    "unigram_w1": 1786,
+    "unigram_w2": 90246,
+    "ppmi": 2.0470044170451756
+  },
+  {
+    "w1": "בירה",
+    "w2": "אינדונזיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 16225,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ג'קרטה",
+    "w2": "אינדונזיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 708,
+    "unigram_w1": 1786,
+    "unigram_w2": 16225,
+    "ppmi": 8.235366975160579
+  }
+]

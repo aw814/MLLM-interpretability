@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ריו דה ז'ניירו",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 110,
+    "unigram_w1": 4998,
+    "unigram_w2": 90246,
+    "ppmi": 1.5888578074408857
+  },
+  {
+    "w1": "בירה",
+    "w2": "ברזיל",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 61972,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ריו דה ז'ניירו",
+    "w2": "ברזיל",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2146,
+    "unigram_w1": 4998,
+    "unigram_w2": 61972,
+    "ppmi": 6.417178914455586
+  }
+]

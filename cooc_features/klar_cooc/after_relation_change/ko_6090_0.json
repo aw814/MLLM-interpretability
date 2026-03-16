@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "겐지 이야기",
+    "w2": "위치",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 218,
+    "unigram_w2": 563145,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "위치",
+    "w2": "일본",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 563145,
+    "unigram_w2": 1153645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "겐지 이야기",
+    "w2": "일본",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 167,
+    "unigram_w1": 218,
+    "unigram_w2": 1153645,
+    "ppmi": 3.373067260116417
+  }
+]

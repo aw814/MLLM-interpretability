@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "スリランカ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2300,
+    "unigram_w1": 237102,
+    "unigram_w2": 498928,
+    "ppmi": 1.7639019710593995
+  },
+  {
+    "w1": "capital",
+    "w2": "コロンボ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 412,
+    "unigram_w1": 498928,
+    "unigram_w2": 66226,
+    "ppmi": 1.1230225563937164
+  },
+  {
+    "w1": "スリランカ",
+    "w2": "コロンボ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19278,
+    "unigram_w1": 237102,
+    "unigram_w2": 66226,
+    "ppmi": 7.74451359925609
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Beatrix of the Netherlands",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 90,
+    "unigram_w1": 1267,
+    "unigram_w2": 9241408,
+    "ppmi": 1.4877739576659563
+  },
+  {
+    "w1": "language",
+    "w2": "Dutch",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 159420,
+    "unigram_w1": 9241408,
+    "unigram_w2": 1528017,
+    "ppmi": 2.0423656150410667
+  },
+  {
+    "w1": "Beatrix of the Netherlands",
+    "w2": "Dutch",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 561,
+    "unigram_w1": 1267,
+    "unigram_w2": 1528017,
+    "ppmi": 6.724229901871902
+  }
+]

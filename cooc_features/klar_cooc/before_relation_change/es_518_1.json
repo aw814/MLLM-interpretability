@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Organización Mundial del Comercio",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 214084,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Organización Mundial del Comercio",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16996,
+    "unigram_w1": 214084,
+    "unigram_w2": 16087876,
+    "ppmi": 2.0378290363402396
+  }
+]

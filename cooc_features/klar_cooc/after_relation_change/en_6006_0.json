@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "flag of Turkey",
+    "w2": "jurisdiction",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 204,
+    "unigram_w2": 1074632,
+    "ppmi": 3.056894393686281
+  },
+  {
+    "w1": "jurisdiction",
+    "w2": "Turkey",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13018,
+    "unigram_w1": 1074632,
+    "unigram_w2": 2008584,
+    "ppmi": 1.137864473452945
+  },
+  {
+    "w1": "flag of Turkey",
+    "w2": "Turkey",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 204,
+    "unigram_w1": 204,
+    "unigram_w2": 2008584,
+    "ppmi": 7.505055547732604
+  }
+]

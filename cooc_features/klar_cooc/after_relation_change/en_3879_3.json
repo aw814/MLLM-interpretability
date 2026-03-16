@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Chengdu",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 11425,
+    "unigram_w1": 65489,
+    "unigram_w2": 7450623,
+    "ppmi": 3.0948148435650222
+  },
+  {
+    "w1": "capital",
+    "w2": "Sichuan",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 12653,
+    "unigram_w1": 7450623,
+    "unigram_w2": 85877,
+    "ppmi": 2.851080971969957
+  },
+  {
+    "w1": "Chengdu",
+    "w2": "Sichuan",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18653,
+    "unigram_w1": 65489,
+    "unigram_w2": 85877,
+    "ppmi": 10.240973820050431
+  }
+]

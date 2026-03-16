@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "스위스",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20345,
+    "unigram_w1": 109607,
+    "unigram_w2": 1351571,
+    "ppmi": 1.0995155846198823
+  },
+  {
+    "w1": "수도",
+    "w2": "베른",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 4347,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "스위스",
+    "w2": "베른",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1846,
+    "unigram_w1": 109607,
+    "unigram_w2": 4347,
+    "ppmi": 5.917717252092997
+  }
+]

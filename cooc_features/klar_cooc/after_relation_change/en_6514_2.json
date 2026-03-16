@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aston Martin Lagonda",
+    "w2": "location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 92,
+    "unigram_w1": 1789,
+    "unigram_w2": 14590058,
+    "ppmi": 0.36294491530565337
+  },
+  {
+    "w1": "location",
+    "w2": "London",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 563269,
+    "unigram_w1": 14590058,
+    "unigram_w2": 8112147,
+    "ppmi": 0.7961328145808008
+  },
+  {
+    "w1": "Aston Martin Lagonda",
+    "w2": "London",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 335,
+    "unigram_w1": 1789,
+    "unigram_w2": 8112147,
+    "ppmi": 3.0742301622914368
+  }
+]

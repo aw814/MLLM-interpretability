@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "デリー",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 89648,
+    "unigram_w2": 62,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "パンジャーブ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 930,
+    "ppmi": 12.564821026122994
+  },
+  {
+    "w1": "デリー",
+    "w2": "パンジャーブ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 130,
+    "unigram_w1": 89648,
+    "unigram_w2": 930,
+    "ppmi": 8.089401372308133
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Greenpeace",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14518,
+    "unigram_w1": 545198,
+    "unigram_w2": 21073362,
+    "ppmi": 0.07242658606664786
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Vancouver",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 1191234,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Greenpeace",
+    "w2": "Vancouver",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3472,
+    "unigram_w1": 545198,
+    "unigram_w2": 1191234,
+    "ppmi": 2.153314472808564
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Giovanni Boccaccio",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 488,
+    "unigram_w1": 1475,
+    "unigram_w2": 9241408,
+    "ppmi": 3.7073597689034115
+  },
+  {
+    "w1": "language",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 321803,
+    "unigram_w1": 9241408,
+    "unigram_w2": 3499556,
+    "ppmi": 1.8601994569230704
+  },
+  {
+    "w1": "Giovanni Boccaccio",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 761,
+    "unigram_w1": 1475,
+    "unigram_w2": 3499556,
+    "ppmi": 5.749315854704507
+  }
+]

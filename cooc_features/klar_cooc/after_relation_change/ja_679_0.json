@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ダンディー",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2826,
+    "unigram_w1": 70048,
+    "unigram_w2": 3715876,
+    "ppmi": 0.9233228250166148
+  },
+  {
+    "w1": "言語",
+    "w2": "スコットランド語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 1826,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ダンディー",
+    "w2": "スコットランド語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 70048,
+    "unigram_w2": 1826,
+    "ppmi": 5.909008571977392
+  }
+]

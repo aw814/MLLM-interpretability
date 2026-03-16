@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "シャルル5世",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 1114,
+    "unigram_w2": 154360,
+    "ppmi": 2.022631301736614
+  },
+  {
+    "w1": "religion",
+    "w2": "キリスト教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8718,
+    "unigram_w1": 154360,
+    "unigram_w2": 922786,
+    "ppmi": 3.4183097165799863
+  },
+  {
+    "w1": "シャルル5世",
+    "w2": "キリスト教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 222,
+    "unigram_w1": 1114,
+    "unigram_w2": 922786,
+    "ppmi": 5.237350000664679
+  }
+]

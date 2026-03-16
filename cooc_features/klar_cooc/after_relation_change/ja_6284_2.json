@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ノール＝パ・ド・カレー地域圏",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 60,
+    "unigram_w1": 272,
+    "unigram_w2": 2444276,
+    "ppmi": 3.9785562285734586
+  },
+  {
+    "w1": "首都",
+    "w2": "リール",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 709598,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ノール＝パ・ド・カレー地域圏",
+    "w2": "リール",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 86,
+    "unigram_w1": 272,
+    "unigram_w2": 709598,
+    "ppmi": 6.282263738107484
+  }
+]

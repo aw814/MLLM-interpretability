@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קוריאה הדרומית",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 161,
+    "unigram_w1": 7388,
+    "unigram_w2": 90246,
+    "ppmi": 1.5745820071351087
+  },
+  {
+    "w1": "בירה",
+    "w2": "סיאול",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 10362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קוריאה הדרומית",
+    "w2": "סיאול",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1982,
+    "unigram_w1": 7388,
+    "unigram_w2": 10362,
+    "ppmi": 8.318966875926638
+  }
+]

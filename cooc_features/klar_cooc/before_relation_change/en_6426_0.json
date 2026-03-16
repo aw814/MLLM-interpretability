@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aquitaine",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3048,
+    "unigram_w1": 21841,
+    "unigram_w2": 7450623,
+    "ppmi": 2.7727691756547417
+  },
+  {
+    "w1": "capital",
+    "w2": "Bordeaux",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13608,
+    "unigram_w1": 7450623,
+    "unigram_w2": 208446,
+    "ppmi": 1.6767265435091223
+  },
+  {
+    "w1": "Aquitaine",
+    "w2": "Bordeaux",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4872,
+    "unigram_w1": 21841,
+    "unigram_w2": 208446,
+    "ppmi": 8.609035878009221
+  }
+]

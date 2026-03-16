@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Paul Hindemith",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 70,
+    "unigram_w1": 7404,
+    "unigram_w2": 296558,
+    "ppmi": 4.7294484626187625
+  },
+  {
+    "w1": "instrument",
+    "w2": "viola",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3710,
+    "unigram_w1": 296558,
+    "unigram_w2": 2004434,
+    "ppmi": 2.3766946130784414
+  },
+  {
+    "w1": "Paul Hindemith",
+    "w2": "viola",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1434,
+    "unigram_w1": 7404,
+    "unigram_w2": 2004434,
+    "ppmi": 6.329186035543074
+  }
+]

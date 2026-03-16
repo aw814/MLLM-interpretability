@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "נפאל",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26,
+    "unigram_w1": 8872,
+    "unigram_w2": 2719,
+    "ppmi": 3.73274427992729
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "נפאל",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1777,
+    "unigram_w1": 8872,
+    "unigram_w2": 100491,
+    "ppmi": 4.619686190354713
+  }
+]

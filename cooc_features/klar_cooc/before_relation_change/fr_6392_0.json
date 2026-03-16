@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Colombie-Britannique",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27140,
+    "unigram_w1": 540573,
+    "unigram_w2": 7952962,
+    "ppmi": 1.7098576230916205
+  },
+  {
+    "w1": "capital",
+    "w2": "Victoria",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 72747,
+    "unigram_w1": 7952962,
+    "unigram_w2": 2153959,
+    "ppmi": 1.1378952281929737
+  },
+  {
+    "w1": "Colombie-Britannique",
+    "w2": "Victoria",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 57241,
+    "unigram_w1": 540573,
+    "unigram_w2": 2153959,
+    "ppmi": 4.67098726725378
+  }
+]

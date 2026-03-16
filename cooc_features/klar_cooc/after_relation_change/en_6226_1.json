@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Roman Empire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 31103,
+    "unigram_w1": 174196,
+    "unigram_w2": 7450623,
+    "ppmi": 3.1282874291719627
+  },
+  {
+    "w1": "capital",
+    "w2": "Constantinople",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17181,
+    "unigram_w1": 7450623,
+    "unigram_w2": 78199,
+    "ppmi": 3.4275371305894398
+  },
+  {
+    "w1": "Roman Empire",
+    "w2": "Constantinople",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11167,
+    "unigram_w1": 174196,
+    "unigram_w2": 78199,
+    "ppmi": 8.224542444372702
+  }
+]

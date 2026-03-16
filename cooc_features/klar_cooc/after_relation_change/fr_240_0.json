@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union européenne",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 59736,
+    "unigram_w1": 721626,
+    "unigram_w2": 12749290,
+    "ppmi": 1.750422950594685
+  },
+  {
+    "w1": "langue",
+    "w2": "slovène",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 248797,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Union européenne",
+    "w2": "slovène",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2513,
+    "unigram_w1": 721626,
+    "unigram_w2": 248797,
+    "ppmi": 2.858608897559861
+  }
+]

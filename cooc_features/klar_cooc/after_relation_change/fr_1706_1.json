@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Wikipédia en grec",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 34,
+    "unigram_w1": 123,
+    "unigram_w2": 12749290,
+    "ppmi": 3.4899500647030384
+  },
+  {
+    "w1": "langue",
+    "w2": "grec",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 2346675,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Wikipédia en grec",
+    "w2": "grec",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 123,
+    "unigram_w1": 123,
+    "unigram_w2": 2346675,
+    "ppmi": 7.786728678875258
+  }
+]

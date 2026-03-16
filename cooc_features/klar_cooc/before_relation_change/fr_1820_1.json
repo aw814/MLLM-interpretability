@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ornithologie",
+    "w2": "field_of_work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 41700,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "field_of_work",
+    "w2": "oiseau",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 1515788,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ornithologie",
+    "w2": "oiseau",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8718,
+    "unigram_w1": 41700,
+    "unigram_w2": 1515788,
+    "ppmi": 6.159300464858505
+  }
+]

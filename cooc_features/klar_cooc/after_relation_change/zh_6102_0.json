@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "佛罗伦萨大学",
+    "w2": "位置",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 54,
+    "unigram_w1": 408,
+    "unigram_w2": 6418768,
+    "ppmi": 0.2661847412689965
+  },
+  {
+    "w1": "位置",
+    "w2": "佛罗伦萨",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6418768,
+    "unigram_w2": 45725,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "佛罗伦萨大学",
+    "w2": "佛罗伦萨",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 408,
+    "unigram_w1": 408,
+    "unigram_w2": 45725,
+    "ppmi": 10.316892018030003
+  }
+]

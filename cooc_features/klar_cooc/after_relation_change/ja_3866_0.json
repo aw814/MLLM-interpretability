@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "プノンペン",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15176,
+    "unigram_w1": 52342,
+    "unigram_w2": 2444276,
+    "ppmi": 4.37295100692492
+  },
+  {
+    "w1": "首都",
+    "w2": "カンボジア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 359436,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "プノンペン",
+    "w2": "カンボジア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 40818,
+    "unigram_w1": 52342,
+    "unigram_w2": 359436,
+    "ppmi": 8.565965299894268
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Clemente de Roma",
+    "w2": "murió",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1028,
+    "unigram_w1": 4012,
+    "unigram_w2": 8520304,
+    "ppmi": 4.6452545739678115
+  },
+  {
+    "w1": "murió",
+    "w2": "Roma",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8520304,
+    "unigram_w2": 9484296,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Clemente de Roma",
+    "w2": "Roma",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4012,
+    "unigram_w1": 4012,
+    "unigram_w2": 9484296,
+    "ppmi": 6.455100132068924
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Guatemala City",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3767,
+    "unigram_w1": 19295,
+    "unigram_w2": 7450623,
+    "ppmi": 3.257134174440394
+  },
+  {
+    "w1": "capital",
+    "w2": "Guatemala",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 25835,
+    "unigram_w1": 7450623,
+    "unigram_w2": 298546,
+    "ppmi": 2.0833188295718252
+  },
+  {
+    "w1": "Guatemala City",
+    "w2": "Guatemala",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19295,
+    "unigram_w1": 19295,
+    "unigram_w2": 298546,
+    "ppmi": 10.255209200276953
+  }
+]

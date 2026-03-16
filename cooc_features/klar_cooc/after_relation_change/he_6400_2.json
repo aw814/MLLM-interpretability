@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סולטנות דלהי",
+    "w2": "בירה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 44,
+    "unigram_w2": 90246,
+    "ppmi": 4.957129756252995
+  },
+  {
+    "w1": "בירה",
+    "w2": "דלהי",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 90246,
+    "unigram_w2": 10103,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סולטנות דלהי",
+    "w2": "דלהי",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 44,
+    "unigram_w2": 10103,
+    "ppmi": 10.253712515796149
+  }
+]

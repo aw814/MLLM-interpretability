@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cardiff",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 334676,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Wales",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 1533534,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Cardiff",
+    "w2": "Wales",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 109872,
+    "unigram_w1": 334676,
+    "unigram_w2": 1533534,
+    "ppmi": 6.287432868070002
+  }
+]

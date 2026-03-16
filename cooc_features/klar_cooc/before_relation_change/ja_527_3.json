@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "オーストリア",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 593408,
+    "unigram_w2": 62,
+    "ppmi": 3.2472430811119155
+  },
+  {
+    "w1": "official_language",
+    "w2": "ドイツ語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2,
+    "unigram_w1": 62,
+    "unigram_w2": 677256,
+    "ppmi": 3.0565661879594885
+  },
+  {
+    "w1": "オーストリア",
+    "w2": "ドイツ語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 61372,
+    "unigram_w1": 593408,
+    "unigram_w2": 677256,
+    "ppmi": 4.737390625894609
+  }
+]

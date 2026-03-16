@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אסטוניה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 58,
+    "unigram_w1": 11063,
+    "unigram_w2": 14610,
+    "ppmi": 2.1460660455823244
+  },
+  {
+    "w1": "capital",
+    "w2": "טאלין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 323,
+    "unigram_w1": 14610,
+    "unigram_w2": 3628,
+    "ppmi": 6.23197170444721
+  },
+  {
+    "w1": "אסטוניה",
+    "w2": "טאלין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1591,
+    "unigram_w1": 11063,
+    "unigram_w2": 3628,
+    "ppmi": 8.933512987948138
+  }
+]

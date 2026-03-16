@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tamil Nadu",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 18384,
+    "unigram_w1": 113292,
+    "unigram_w2": 42058182,
+    "ppmi": 1.6828028546587808
+  },
+  {
+    "w1": "capital",
+    "w2": "Chennai",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 55056,
+    "unigram_w1": 42058182,
+    "unigram_w2": 324746,
+    "ppmi": 1.7459861834056782
+  },
+  {
+    "w1": "Tamil Nadu",
+    "w2": "Chennai",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 23452,
+    "unigram_w1": 113292,
+    "unigram_w2": 324746,
+    "ppmi": 9.050994037256867
+  }
+]

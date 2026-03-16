@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "PostScript",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2265,
+    "unigram_w1": 72662,
+    "unigram_w2": 2684467,
+    "ppmi": 2.082980553906453
+  },
+  {
+    "w1": "developer",
+    "w2": "Adobe",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 48494,
+    "unigram_w1": 2684467,
+    "unigram_w2": 949969,
+    "ppmi": 2.7945964029516155
+  },
+  {
+    "w1": "PostScript",
+    "w2": "Adobe",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10053,
+    "unigram_w1": 72662,
+    "unigram_w2": 949969,
+    "ppmi": 5.73170702056696
+  }
+]

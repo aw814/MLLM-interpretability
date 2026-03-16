@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Dakar",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 776122,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Senegal",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 1602746,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Dakar",
+    "w2": "Senegal",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 87492,
+    "unigram_w1": 776122,
+    "unigram_w2": 1602746,
+    "ppmi": 5.871034575635034
+  }
+]

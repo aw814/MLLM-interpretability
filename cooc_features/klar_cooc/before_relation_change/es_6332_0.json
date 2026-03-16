@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sarajevo",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 41604,
+    "unigram_w1": 187900,
+    "unigram_w2": 42058182,
+    "ppmi": 2.1311553174826128
+  },
+  {
+    "w1": "capital",
+    "w2": "Sarajevo",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 41604,
+    "unigram_w1": 42058182,
+    "unigram_w2": 187900,
+    "ppmi": 2.1311553174826128
+  },
+  {
+    "w1": "Sarajevo",
+    "w2": "Sarajevo",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 187900,
+    "unigram_w1": 187900,
+    "unigram_w2": 187900,
+    "ppmi": 12.112603849491057
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "דויטשה באן",
+    "w2": "מיקום",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 14,
+    "unigram_w1": 127,
+    "unigram_w2": 286432,
+    "ppmi": 2.2470457302471245
+  },
+  {
+    "w1": "מיקום",
+    "w2": "ברלין",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 286432,
+    "unigram_w2": 72300,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "דויטשה באן",
+    "w2": "ברלין",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32,
+    "unigram_w1": 127,
+    "unigram_w2": 72300,
+    "ppmi": 5.4258159344746595
+  }
+]

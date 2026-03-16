@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "제임스 클러크 맥스웰",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 121,
+    "unigram_w2": 255115,
+    "ppmi": 1.337591863032083
+  },
+  {
+    "w1": "작업",
+    "w2": "물리학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 23798,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "제임스 클러크 맥스웰",
+    "w2": "물리학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 33,
+    "unigram_w1": 121,
+    "unigram_w2": 23798,
+    "ppmi": 7.482293376422372
+  }
+]

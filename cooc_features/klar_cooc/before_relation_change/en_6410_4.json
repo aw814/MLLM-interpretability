@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "People's Republic of China",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8278,
+    "unigram_w1": 42899,
+    "unigram_w2": 7450623,
+    "ppmi": 3.240283415524626
+  },
+  {
+    "w1": "capital",
+    "w2": "Beijing",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 125938,
+    "unigram_w1": 7450623,
+    "unigram_w2": 847643,
+    "ppmi": 2.863130165468283
+  },
+  {
+    "w1": "People's Republic of China",
+    "w2": "Beijing",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10489,
+    "unigram_w1": 42899,
+    "unigram_w2": 847643,
+    "ppmi": 6.71763878637056
+  }
+]

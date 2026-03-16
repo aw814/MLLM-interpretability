@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Autriche",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 63040,
+    "unigram_w1": 1840645,
+    "unigram_w2": 7952962,
+    "ppmi": 1.1580543926226934
+  },
+  {
+    "w1": "capital",
+    "w2": "Vienne",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 137986,
+    "unigram_w1": 7952962,
+    "unigram_w2": 4145430,
+    "ppmi": 1.1169264985876317
+  },
+  {
+    "w1": "Autriche",
+    "w2": "Vienne",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 286039,
+    "unigram_w1": 1840645,
+    "unigram_w2": 4145430,
+    "ppmi": 4.27989733671786
+  }
+]

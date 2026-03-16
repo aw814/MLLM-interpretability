@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Sciences Po",
+    "w2": "headquarters_location",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 11927,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "headquarters_location",
+    "w2": "Paris",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 3039340,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Sciences Po",
+    "w2": "Paris",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8461,
+    "unigram_w1": 11927,
+    "unigram_w2": 3039340,
+    "ppmi": 6.412145153971321
+  }
+]

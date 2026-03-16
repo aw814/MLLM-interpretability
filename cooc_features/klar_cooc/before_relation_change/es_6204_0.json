@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Condado de King",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 618,
+    "unigram_w1": 6166,
+    "unigram_w2": 42058182,
+    "ppmi": 0.9876700905506028
+  },
+  {
+    "w1": "capital",
+    "w2": "Seattle",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 224666,
+    "unigram_w1": 42058182,
+    "unigram_w2": 1493912,
+    "ppmi": 1.5730847839482782
+  },
+  {
+    "w1": "Condado de King",
+    "w2": "Seattle",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 3286,
+    "unigram_w1": 6166,
+    "unigram_w2": 1493912,
+    "ppmi": 8.213543244601361
+  }
+]

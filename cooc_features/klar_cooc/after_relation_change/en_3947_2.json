@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nauplion",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 133,
+    "unigram_w1": 431,
+    "unigram_w2": 7450623,
+    "ppmi": 3.917611656333709
+  },
+  {
+    "w1": "capital",
+    "w2": "Greece",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 118900,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1166079,
+    "ppmi": 2.320028367971009
+  },
+  {
+    "w1": "Nauplion",
+    "w2": "Greece",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 308,
+    "unigram_w1": 431,
+    "unigram_w2": 1166079,
+    "ppmi": 7.804811294073782
+  }
+]

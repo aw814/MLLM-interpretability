@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jacques Audiard",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 127,
+    "unigram_w1": 38326,
+    "unigram_w2": 1178529,
+    "ppmi": 0.5430083429934578
+  },
+  {
+    "w1": "occupation",
+    "w2": "scénariste",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4291,
+    "unigram_w1": 1178529,
+    "unigram_w2": 1124763,
+    "ppmi": 0.7462680456253115
+  },
+  {
+    "w1": "Jacques Audiard",
+    "w2": "scénariste",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4237,
+    "unigram_w1": 38326,
+    "unigram_w2": 1124763,
+    "ppmi": 5.670517287260859
+  }
+]

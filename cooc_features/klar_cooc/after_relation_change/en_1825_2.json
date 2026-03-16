@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Edwin Hubble",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1685,
+    "unigram_w1": 3628,
+    "unigram_w2": 74824954,
+    "ppmi": 1.179360898467471
+  },
+  {
+    "w1": "work",
+    "w2": "astronomy",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 140380,
+    "unigram_w1": 74824954,
+    "unigram_w2": 342451,
+    "ppmi": 0.9992265986752237
+  },
+  {
+    "w1": "Edwin Hubble",
+    "w2": "astronomy",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1254,
+    "unigram_w1": 3628,
+    "unigram_w2": 342451,
+    "ppmi": 8.524627758634743
+  }
+]

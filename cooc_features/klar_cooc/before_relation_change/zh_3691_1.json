@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Microsoft Excel",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 718,
+    "unigram_w2": 7846,
+    "ppmi": 6.179360835710901
+  },
+  {
+    "w1": "developer",
+    "w2": "微软",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 7846,
+    "unigram_w2": 226038,
+    "ppmi": 3.3310279864408114
+  },
+  {
+    "w1": "Microsoft Excel",
+    "w2": "微软",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 110,
+    "unigram_w1": 718,
+    "unigram_w2": 226038,
+    "ppmi": 5.304901443526863
+  }
+]

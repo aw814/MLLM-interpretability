@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "슬로바키아",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 108,
+    "unigram_w1": 12309,
+    "unigram_w2": 36855,
+    "ppmi": 1.8932040320287016
+  },
+  {
+    "w1": "capital",
+    "w2": "브라티슬라바",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 36855,
+    "unigram_w2": 1417,
+    "ppmi": 2.164009022169424
+  },
+  {
+    "w1": "슬로바키아",
+    "w2": "브라티슬라바",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 580,
+    "unigram_w1": 12309,
+    "unigram_w2": 1417,
+    "ppmi": 9.019174314932833
+  }
+]

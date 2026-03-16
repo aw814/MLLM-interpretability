@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Niger",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10427,
+    "unigram_w1": 137688,
+    "unigram_w2": 965266,
+    "ppmi": 4.839229085723739
+  },
+  {
+    "w1": "continent",
+    "w2": "Africa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 292464,
+    "unigram_w1": 965266,
+    "unigram_w2": 4630900,
+    "ppmi": 4.57727422909695
+  },
+  {
+    "w1": "Niger",
+    "w2": "Africa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 53600,
+    "unigram_w1": 137688,
+    "unigram_w2": 4630900,
+    "ppmi": 4.938843817760516
+  }
+]

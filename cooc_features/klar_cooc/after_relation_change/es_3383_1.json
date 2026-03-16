@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Star Trek: en la oscuridad",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 522,
+    "unigram_w1": 18716,
+    "unigram_w2": 12196104,
+    "ppmi": 0.9282138518584949
+  },
+  {
+    "w1": "idioma",
+    "w2": "inglés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 30884572,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Star Trek: en la oscuridad",
+    "w2": "inglés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1470,
+    "unigram_w1": 18716,
+    "unigram_w2": 30884572,
+    "ppmi": 1.0814423149505372
+  }
+]

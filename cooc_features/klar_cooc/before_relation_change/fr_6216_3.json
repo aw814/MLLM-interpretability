@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Indonésie",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 36184,
+    "unigram_w1": 1183495,
+    "unigram_w2": 7952962,
+    "ppmi": 0.9942965528877871
+  },
+  {
+    "w1": "capital",
+    "w2": "Jakarta",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 17130,
+    "unigram_w1": 7952962,
+    "unigram_w2": 244906,
+    "ppmi": 2.1882233899357986
+  },
+  {
+    "w1": "Indonésie",
+    "w2": "Jakarta",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 83128,
+    "unigram_w1": 1183495,
+    "unigram_w2": 244906,
+    "ppmi": 7.215471406851697
+  }
+]

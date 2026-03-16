@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Maryland",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 113694,
+    "unigram_w1": 871758,
+    "unigram_w2": 42058182,
+    "ppmi": 1.367554658839028
+  },
+  {
+    "w1": "capital",
+    "w2": "Annapolis",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 10374,
+    "unigram_w1": 42058182,
+    "unigram_w2": 53574,
+    "ppmi": 1.9377654954290842
+  },
+  {
+    "w1": "Maryland",
+    "w2": "Annapolis",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19880,
+    "unigram_w1": 871758,
+    "unigram_w2": 53574,
+    "ppmi": 8.46842595853963
+  }
+]

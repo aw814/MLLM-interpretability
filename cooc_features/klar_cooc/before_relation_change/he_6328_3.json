@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "וו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 80,
+    "unigram_w1": 46399,
+    "unigram_w2": 14610,
+    "ppmi": 0.5416620931674633
+  },
+  {
+    "w1": "capital",
+    "w2": "לוזאן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 14610,
+    "unigram_w2": 1727,
+    "ppmi": 1.967487722752883
+  },
+  {
+    "w1": "וו",
+    "w2": "לוזאן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 56,
+    "unigram_w1": 46399,
+    "unigram_w2": 1727,
+    "ppmi": 3.1077051104996416
+  }
+]

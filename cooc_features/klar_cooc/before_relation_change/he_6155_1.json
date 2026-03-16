@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מחוז אלכסנדריה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 14610,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "אלכסנדריה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 14610,
+    "unigram_w2": 6432,
+    "ppmi": 1.6554508998240347
+  },
+  {
+    "w1": "מחוז אלכסנדריה",
+    "w2": "אלכסנדריה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6,
+    "unigram_w1": 6,
+    "unigram_w2": 6432,
+    "ppmi": 10.90515695679374
+  }
+]

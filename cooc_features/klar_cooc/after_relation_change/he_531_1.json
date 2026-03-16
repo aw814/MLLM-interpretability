@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סנט מארטן",
+    "w2": "שפה",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 15,
+    "unigram_w1": 372,
+    "unigram_w2": 236631,
+    "ppmi": 1.071660870763457
+  },
+  {
+    "w1": "שפה",
+    "w2": "הולנדית",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 236631,
+    "unigram_w2": 14548,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סנט מארטן",
+    "w2": "הולנדית",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 27,
+    "unigram_w1": 372,
+    "unigram_w2": 14548,
+    "ppmi": 5.943404128572488
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "안드레이 콜모고로프",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 10,
+    "unigram_w2": 255115,
+    "ppmi": 2.6125989105319527
+  },
+  {
+    "w1": "작업",
+    "w2": "위상수학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 544,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "안드레이 콜모고로프",
+    "w2": "위상수학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1,
+    "unigram_w1": 10,
+    "unigram_w2": 544,
+    "ppmi": 11.485924271311905
+  }
+]

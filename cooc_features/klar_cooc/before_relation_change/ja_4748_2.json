@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ハリーファ・ビン・ザーイド・アール・ナヒヤーン",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 144,
+    "unigram_w2": 154360,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "religion",
+    "w2": "イスラム教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3482,
+    "unigram_w1": 154360,
+    "unigram_w2": 322468,
+    "ppmi": 3.6110688299934255
+  },
+  {
+    "w1": "ハリーファ・ビン・ザーイド・アール・ナヒヤーン",
+    "w2": "イスラム教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 24,
+    "unigram_w1": 144,
+    "unigram_w2": 322468,
+    "ppmi": 6.496345265049785
+  }
+]

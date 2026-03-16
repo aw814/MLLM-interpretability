@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "엘비스 프레슬리",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 1358,
+    "unigram_w2": 10794,
+    "ppmi": 2.4120335661195997
+  },
+  {
+    "w1": "instrument",
+    "w2": "기타",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1031,
+    "unigram_w1": 10794,
+    "unigram_w2": 782771,
+    "ppmi": 0.9289710702350457
+  },
+  {
+    "w1": "엘비스 프레슬리",
+    "w2": "기타",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 254,
+    "unigram_w1": 1358,
+    "unigram_w2": 782771,
+    "ppmi": 1.8985013473670096
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "סיינט פול",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 384,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "מינסוטה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 11330,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סיינט פול",
+    "w2": "מינסוטה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 84,
+    "unigram_w1": 384,
+    "unigram_w2": 11330,
+    "ppmi": 7.895703329322394
+  }
+]

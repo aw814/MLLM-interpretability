@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "蒋经国",
+    "w2": "去世",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1425,
+    "unigram_w1": 15489,
+    "unigram_w2": 517729,
+    "ppmi": 3.3735397821925797
+  },
+  {
+    "w1": "去世",
+    "w2": "台北市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 517729,
+    "unigram_w2": 376486,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "蒋经国",
+    "w2": "台北市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 571,
+    "unigram_w1": 15489,
+    "unigram_w2": 376486,
+    "ppmi": 2.5137414271279206
+  }
+]

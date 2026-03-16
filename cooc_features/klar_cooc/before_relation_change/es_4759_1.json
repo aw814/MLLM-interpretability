@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Neil Young",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 268,
+    "unigram_w1": 121178,
+    "unigram_w2": 296558,
+    "ppmi": 2.633575541862362
+  },
+  {
+    "w1": "instrument",
+    "w2": "armónica",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 3476,
+    "unigram_w1": 296558,
+    "unigram_w2": 862254,
+    "ppmi": 3.499713601551831
+  },
+  {
+    "w1": "Neil Young",
+    "w2": "armónica",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5302,
+    "unigram_w1": 121178,
+    "unigram_w2": 862254,
+    "ppmi": 5.400008680606376
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Pays-Bas",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 198177,
+    "unigram_w1": 3317487,
+    "unigram_w2": 9137640,
+    "ppmi": 1.7602957541214825
+  },
+  {
+    "w1": "capitale",
+    "w2": "Amsterdam",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1501543,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Pays-Bas",
+    "w2": "Amsterdam",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 281343,
+    "unigram_w1": 3317487,
+    "unigram_w2": 1501543,
+    "ppmi": 4.871212101496203
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Giuseppe Tornatore",
+    "w2": "spoke",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 9,
+    "unigram_w1": 686,
+    "unigram_w2": 3469075,
+    "ppmi": 0.46454354843889384
+  },
+  {
+    "w1": "spoke",
+    "w2": "Italian",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 86497,
+    "unigram_w1": 3469075,
+    "unigram_w2": 3499556,
+    "ppmi": 1.378305325332916
+  },
+  {
+    "w1": "Giuseppe Tornatore",
+    "w2": "Italian",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 399,
+    "unigram_w1": 686,
+    "unigram_w2": 3499556,
+    "ppmi": 5.9222426203870615
+  }
+]

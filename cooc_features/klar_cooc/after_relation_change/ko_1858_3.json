@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "윌리엄 허셜",
+    "w2": "작업",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 77,
+    "unigram_w2": 255115,
+    "ppmi": 1.2527029654455697
+  },
+  {
+    "w1": "작업",
+    "w2": "천문학",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 255115,
+    "unigram_w2": 9724,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "윌리엄 허셜",
+    "w2": "천문학",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18,
+    "unigram_w1": 77,
+    "unigram_w2": 9724,
+    "ppmi": 8.55111949016829
+  }
+]

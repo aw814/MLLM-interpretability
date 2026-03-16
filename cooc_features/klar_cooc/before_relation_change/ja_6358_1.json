@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ルーマニア",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1716,
+    "unigram_w1": 243302,
+    "unigram_w2": 498928,
+    "ppmi": 1.3040773153830523
+  },
+  {
+    "w1": "capital",
+    "w2": "ブカレスト",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 582,
+    "unigram_w1": 498928,
+    "unigram_w2": 35856,
+    "ppmi": 2.5065805413378413
+  },
+  {
+    "w1": "ルーマニア",
+    "w2": "ブカレスト",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18236,
+    "unigram_w1": 243302,
+    "unigram_w2": 35856,
+    "ppmi": 8.512290348803191
+  }
+]

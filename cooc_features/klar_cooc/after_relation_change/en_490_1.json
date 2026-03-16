@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Mozambique",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 16070,
+    "unigram_w1": 164114,
+    "unigram_w2": 9241408,
+    "ppmi": 1.9508651891572735
+  },
+  {
+    "w1": "language",
+    "w2": "Portuguese",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 135406,
+    "unigram_w1": 9241408,
+    "unigram_w2": 660428,
+    "ppmi": 3.017012051202856
+  },
+  {
+    "w1": "Mozambique",
+    "w2": "Portuguese",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13697,
+    "unigram_w1": 164114,
+    "unigram_w2": 660428,
+    "ppmi": 5.526994682011336
+  }
+]

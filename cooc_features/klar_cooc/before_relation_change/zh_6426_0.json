@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿基坦",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 1338,
+    "unigram_w2": 32140,
+    "ppmi": 2.7615709532368893
+  },
+  {
+    "w1": "capital",
+    "w2": "波尔多",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 43,
+    "unigram_w1": 32140,
+    "unigram_w2": 24955,
+    "ppmi": 1.6447287303042313
+  },
+  {
+    "w1": "阿基坦",
+    "w2": "波尔多",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 194,
+    "unigram_w1": 1338,
+    "unigram_w2": 24955,
+    "ppmi": 8.404596725710256
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "벨로루시 소비에트 사회주의 공화국",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 32,
+    "unigram_w2": 250699,
+    "ppmi": 4.281646586406879
+  },
+  {
+    "w1": "언어",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "벨로루시 소비에트 사회주의 공화국",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 21,
+    "unigram_w1": 32,
+    "unigram_w2": 42645,
+    "ppmi": 7.907543650942322
+  }
+]

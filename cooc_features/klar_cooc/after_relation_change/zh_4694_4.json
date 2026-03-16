@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "圣雄甘地",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 860,
+    "unigram_w2": 2023,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "religion",
+    "w2": "印度教",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 2023,
+    "unigram_w2": 18788,
+    "ppmi": 6.077214703374671
+  },
+  {
+    "w1": "圣雄甘地",
+    "w2": "印度教",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 72,
+    "unigram_w1": 860,
+    "unigram_w2": 18788,
+    "ppmi": 8.021795841148508
+  }
+]

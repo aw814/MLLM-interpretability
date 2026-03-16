@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "奥斯曼帝国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7,
+    "unigram_w1": 3453,
+    "unigram_w2": 32140,
+    "ppmi": 1.8792255621952056
+  },
+  {
+    "w1": "capital",
+    "w2": "伊斯坦堡",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22,
+    "unigram_w1": 32140,
+    "unigram_w2": 5492,
+    "ppmi": 2.8618209674811848
+  },
+  {
+    "w1": "奥斯曼帝国",
+    "w2": "伊斯坦堡",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 44,
+    "unigram_w1": 3453,
+    "unigram_w2": 5492,
+    "ppmi": 7.0802686571902544
+  }
+]

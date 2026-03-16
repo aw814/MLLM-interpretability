@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "다게스탄 공화국",
+    "w2": "언어",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 53,
+    "unigram_w2": 250699,
+    "ppmi": 2.5537261318436797
+  },
+  {
+    "w1": "언어",
+    "w2": "러시아어",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 250699,
+    "unigram_w2": 42645,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "다게스탄 공화국",
+    "w2": "러시아어",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 53,
+    "unigram_w2": 42645,
+    "ppmi": 6.787305773600362
+  }
+]

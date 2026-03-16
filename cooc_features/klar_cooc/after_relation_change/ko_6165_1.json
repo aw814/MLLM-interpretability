@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "독일",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 71684,
+    "unigram_w1": 366157,
+    "unigram_w2": 1351571,
+    "ppmi": 1.176370008379904
+  },
+  {
+    "w1": "수도",
+    "w2": "베를린",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 52811,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "독일",
+    "w2": "베를린",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25501,
+    "unigram_w1": 366157,
+    "unigram_w2": 52811,
+    "ppmi": 4.362927718716387
+  }
+]

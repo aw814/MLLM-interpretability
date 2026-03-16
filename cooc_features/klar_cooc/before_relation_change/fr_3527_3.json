@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Vanuatu",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 7127,
+    "unigram_w1": 291380,
+    "unigram_w2": 3399010,
+    "ppmi": 1.8987690026507817
+  },
+  {
+    "w1": "continent",
+    "w2": "Océanie",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 23980,
+    "unigram_w1": 3399010,
+    "unigram_w2": 413354,
+    "ppmi": 3.1447578400096585
+  },
+  {
+    "w1": "Vanuatu",
+    "w2": "Océanie",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11843,
+    "unigram_w1": 291380,
+    "unigram_w2": 413354,
+    "ppmi": 5.671101609067611
+  }
+]

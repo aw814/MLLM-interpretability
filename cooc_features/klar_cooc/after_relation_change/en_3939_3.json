@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Conakry",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2608,
+    "unigram_w1": 9164,
+    "unigram_w2": 7450623,
+    "ppmi": 3.8008396908480204
+  },
+  {
+    "w1": "capital",
+    "w2": "Guinea",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 40653,
+    "unigram_w1": 7450623,
+    "unigram_w2": 441772,
+    "ppmi": 2.172005023387772
+  },
+  {
+    "w1": "Conakry",
+    "w2": "Guinea",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7237,
+    "unigram_w1": 9164,
+    "unigram_w2": 441772,
+    "ppmi": 9.349274770490473
+  }
+]

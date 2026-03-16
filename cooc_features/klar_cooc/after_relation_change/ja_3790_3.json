@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ロンドン",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 127394,
+    "unigram_w1": 1900368,
+    "unigram_w2": 2444276,
+    "ppmi": 2.2602188917513133
+  },
+  {
+    "w1": "首都",
+    "w2": "イングランド",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 520172,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ロンドン",
+    "w2": "イングランド",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 111746,
+    "unigram_w1": 1900368,
+    "unigram_w2": 520172,
+    "ppmi": 4.303491301346441
+  }
+]

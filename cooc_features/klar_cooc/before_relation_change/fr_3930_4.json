@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cheyenne",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 113347,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "Wyoming",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 144022,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Cheyenne",
+    "w2": "Wyoming",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6306,
+    "unigram_w1": 113347,
+    "unigram_w2": 144022,
+    "ppmi": 7.645108391571411
+  }
+]

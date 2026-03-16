@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Frankfurter Allgemeine Zeitung",
+    "w2": "ubicación",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 448,
+    "unigram_w1": 21940,
+    "unigram_w2": 21073362,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ubicación",
+    "w2": "Alemania",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 21073362,
+    "unigram_w2": 17786194,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Frankfurter Allgemeine Zeitung",
+    "w2": "Alemania",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 12700,
+    "unigram_w1": 21940,
+    "unigram_w2": 17786194,
+    "ppmi": 4.759219870923868
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "은자메나",
+    "w2": "수도",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 48,
+    "unigram_w1": 84,
+    "unigram_w2": 1351571,
+    "ppmi": 2.7217544153255053
+  },
+  {
+    "w1": "수도",
+    "w2": "차드",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1351571,
+    "unigram_w2": 5200,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "은자메나",
+    "w2": "차드",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 47,
+    "unigram_w1": 84,
+    "unigram_w2": 5200,
+    "ppmi": 10.713290728432668
+  }
+]

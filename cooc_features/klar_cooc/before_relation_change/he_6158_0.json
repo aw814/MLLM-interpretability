@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טלנגאנה",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 42,
+    "unigram_w2": 14610,
+    "ppmi": 4.329222667503047
+  },
+  {
+    "w1": "capital",
+    "w2": "היידראבאד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 4,
+    "unigram_w1": 14610,
+    "unigram_w2": 362,
+    "ppmi": 3.2216942031986022
+  },
+  {
+    "w1": "טלנגאנה",
+    "w2": "היידראבאד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 42,
+    "unigram_w2": 362,
+    "ppmi": 13.364485056251795
+  }
+]

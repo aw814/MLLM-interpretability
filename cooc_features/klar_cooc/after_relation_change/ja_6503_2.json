@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ビージーズ",
+    "w2": "場所",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2064,
+    "unigram_w1": 7474,
+    "unigram_w2": 27600878,
+    "ppmi": 0.805455824633564
+  },
+  {
+    "w1": "場所",
+    "w2": "マンチェスター",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 27600878,
+    "unigram_w2": 273794,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ビージーズ",
+    "w2": "マンチェスター",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 202,
+    "unigram_w1": 7474,
+    "unigram_w2": 273794,
+    "ppmi": 4.107919571128902
+  }
+]

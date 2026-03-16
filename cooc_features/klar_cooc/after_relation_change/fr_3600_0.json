@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Burundi",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 46061,
+    "unigram_w1": 597990,
+    "unigram_w2": 3399010,
+    "ppmi": 3.553728402969618
+  },
+  {
+    "w1": "continent",
+    "w2": "Afrique",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 907512,
+    "unigram_w1": 3399010,
+    "unigram_w2": 8624942,
+    "ppmi": 4.0037059937819794
+  },
+  {
+    "w1": "Burundi",
+    "w2": "Afrique",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 275352,
+    "unigram_w1": 597990,
+    "unigram_w2": 8624942,
+    "ppmi": 4.7899877036251635
+  }
+]

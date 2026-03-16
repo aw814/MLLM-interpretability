@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "イタリア社会共和国",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 10,
+    "unigram_w1": 848,
+    "unigram_w2": 498928,
+    "ppmi": 2.0456397722641135
+  },
+  {
+    "w1": "capital",
+    "w2": "ローマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 7294,
+    "unigram_w1": 498928,
+    "unigram_w2": 1666030,
+    "ppmi": 0.6161436675800324
+  },
+  {
+    "w1": "イタリア社会共和国",
+    "w2": "ローマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 480,
+    "unigram_w1": 848,
+    "unigram_w2": 1666030,
+    "ppmi": 5.891091434854551
+  }
+]

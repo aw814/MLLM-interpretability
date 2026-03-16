@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ウマル・イブン・ハッターブ",
+    "w2": "死亡した",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 38,
+    "unigram_w1": 150,
+    "unigram_w2": 620194,
+    "ppmi": 6.156853022195766
+  },
+  {
+    "w1": "死亡した",
+    "w2": "マディーナ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 620194,
+    "unigram_w2": 5236,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ウマル・イブン・ハッターブ",
+    "w2": "マディーナ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 150,
+    "unigram_w2": 5236,
+    "ppmi": 12.497475888205233
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "케니 로저스",
+    "w2": "태어난",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 160,
+    "unigram_w2": 157437,
+    "ppmi": 3.6309000978629875
+  },
+  {
+    "w1": "태어난",
+    "w2": "휴스턴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 157437,
+    "unigram_w2": 24141,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "케니 로저스",
+    "w2": "휴스턴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 15,
+    "unigram_w1": 160,
+    "unigram_w2": 24141,
+    "ppmi": 5.9210798900942505
+  }
+]

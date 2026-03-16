@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Amazon Kindle",
+    "w2": "posee",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3482,
+    "unigram_w1": 97432,
+    "unigram_w2": 14358872,
+    "ppmi": 1.0503627352590252
+  },
+  {
+    "w1": "posee",
+    "w2": "Amazon",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 14358872,
+    "unigram_w2": 8099696,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Amazon Kindle",
+    "w2": "Amazon",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 97432,
+    "unigram_w1": 97432,
+    "unigram_w2": 8099696,
+    "ppmi": 6.68277305997215
+  }
+]

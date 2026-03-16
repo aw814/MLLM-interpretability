@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "קנצלר גרמניה",
+    "w2": "סמכות שיפוטית",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 669,
+    "unigram_w2": 1111,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "סמכות שיפוטית",
+    "w2": "גרמניה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1111,
+    "unigram_w2": 200352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "קנצלר גרמניה",
+    "w2": "גרמניה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 669,
+    "unigram_w1": 669,
+    "unigram_w2": 200352,
+    "ppmi": 5.944031262091677
+  }
+]

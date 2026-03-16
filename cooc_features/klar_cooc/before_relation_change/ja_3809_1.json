@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "東京都",
+    "w2": "capital_of",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 10227578,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital_of",
+    "w2": "日本",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 59929948,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "東京都",
+    "w2": "日本",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5416432,
+    "unigram_w1": 10227578,
+    "unigram_w2": 59929948,
+    "ppmi": 0.6262806303661543
+  }
+]

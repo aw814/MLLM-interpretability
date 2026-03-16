@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "califat abbasside",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 233,
+    "unigram_w1": 4104,
+    "unigram_w2": 7952962,
+    "ppmi": 1.8872255816513455
+  },
+  {
+    "w1": "capital",
+    "w2": "Bagdad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11724,
+    "unigram_w1": 7952962,
+    "unigram_w2": 360447,
+    "ppmi": 1.0836040891672447
+  },
+  {
+    "w1": "califat abbasside",
+    "w2": "Bagdad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2150,
+    "unigram_w1": 4104,
+    "unigram_w2": 360447,
+    "ppmi": 9.556793612281925
+  }
+]

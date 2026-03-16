@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ottawa",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 52592,
+    "unigram_w1": 570724,
+    "unigram_w2": 7450623,
+    "ppmi": 2.173995314279761
+  },
+  {
+    "w1": "capital",
+    "w2": "Canada",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 416294,
+    "unigram_w1": 7450623,
+    "unigram_w2": 6681798,
+    "ppmi": 1.6093115815914127
+  },
+  {
+    "w1": "Ottawa",
+    "w2": "Canada",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 259828,
+    "unigram_w1": 570724,
+    "unigram_w2": 6681798,
+    "ppmi": 4.63576165283587
+  }
+]

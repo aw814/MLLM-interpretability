@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "웨스트버지니아주",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 377,
+    "unigram_w2": 36855,
+    "ppmi": 1.752284256931416
+  },
+  {
+    "w1": "capital",
+    "w2": "찰스턴",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 36855,
+    "unigram_w2": 2955,
+    "ppmi": 1.1968000544140294
+  },
+  {
+    "w1": "웨스트버지니아주",
+    "w2": "찰스턴",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 377,
+    "unigram_w2": 2955,
+    "ppmi": 7.807952079116048
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Bermudes",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8119,
+    "unigram_w1": 364774,
+    "unigram_w2": 7952962,
+    "ppmi": 0.5362974053169531
+  },
+  {
+    "w1": "capital",
+    "w2": "Hamilton",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 31315,
+    "unigram_w1": 7952962,
+    "unigram_w2": 953368,
+    "ppmi": 1.0977470348055438
+  },
+  {
+    "w1": "Bermudes",
+    "w2": "Hamilton",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7544,
+    "unigram_w1": 364774,
+    "unigram_w2": 953368,
+    "ppmi": 3.4907122073076025
+  }
+]

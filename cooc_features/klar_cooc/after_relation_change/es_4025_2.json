@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ramsés II",
+    "w2": "habló",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1028,
+    "unigram_w1": 40522,
+    "unigram_w2": 8126762,
+    "ppmi": 1.377166965414512
+  },
+  {
+    "w1": "habló",
+    "w2": "egipcio",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 8126762,
+    "unigram_w2": 1161038,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Ramsés II",
+    "w2": "egipcio",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18638,
+    "unigram_w1": 40522,
+    "unigram_w2": 1161038,
+    "ppmi": 8.36476730460375
+  }
+]

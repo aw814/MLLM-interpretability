@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lincolnshire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4682,
+    "unigram_w1": 132797,
+    "unigram_w2": 7450623,
+    "ppmi": 0.7879194692825378
+  },
+  {
+    "w1": "capital",
+    "w2": "Lincoln",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 64526,
+    "unigram_w1": 7450623,
+    "unigram_w2": 1164400,
+    "ppmi": 1.4403109404183805
+  },
+  {
+    "w1": "Lincolnshire",
+    "w2": "Lincoln",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 20590,
+    "unigram_w1": 132797,
+    "unigram_w2": 1164400,
+    "ppmi": 5.602440779810002
+  }
+]

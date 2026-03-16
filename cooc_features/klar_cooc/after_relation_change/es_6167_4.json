@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Segundo Imperio francés",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1492,
+    "unigram_w1": 5090,
+    "unigram_w2": 42058182,
+    "ppmi": 2.535908116045584
+  },
+  {
+    "w1": "capital",
+    "w2": "París",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1847410,
+    "unigram_w1": 42058182,
+    "unigram_w2": 10491248,
+    "ppmi": 1.8007159186068031
+  },
+  {
+    "w1": "Segundo Imperio francés",
+    "w2": "París",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2380,
+    "unigram_w1": 5090,
+    "unigram_w2": 10491248,
+    "ppmi": 5.212822337925081
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "טטאמי",
+    "w2": "location_of_formation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 115,
+    "unigram_w2": 0,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "location_of_formation",
+    "w2": "יפן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 0,
+    "unigram_w2": 86311,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "טטאמי",
+    "w2": "יפן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 63,
+    "unigram_w1": 115,
+    "unigram_w2": 86311,
+    "ppmi": 6.2907417040062255
+  }
+]

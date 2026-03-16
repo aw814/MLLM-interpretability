@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "阿勒颇省",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 216,
+    "unigram_w1": 857,
+    "unigram_w2": 596594,
+    "ppmi": 4.622933732736469
+  },
+  {
+    "w1": "首都",
+    "w2": "阿勒颇",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 10499,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "阿勒颇省",
+    "w2": "阿勒颇",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 857,
+    "unigram_w1": 857,
+    "unigram_w2": 10499,
+    "ppmi": 12.43962326618355
+  }
+]

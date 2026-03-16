@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Alejandra de Dinamarca",
+    "w2": "country_of_citizenship",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 1030,
+    "unigram_w2": 2,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "country_of_citizenship",
+    "w2": "Dinamarca",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2,
+    "unigram_w2": 3195990,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Alejandra de Dinamarca",
+    "w2": "Dinamarca",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1030,
+    "unigram_w1": 1030,
+    "unigram_w2": 3195990,
+    "ppmi": 8.02437792716742
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Western Australia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 25022,
+    "unigram_w1": 270753,
+    "unigram_w2": 7450623,
+    "ppmi": 2.178164969987923
+  },
+  {
+    "w1": "capital",
+    "w2": "Perth",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 36821,
+    "unigram_w1": 7450623,
+    "unigram_w2": 537275,
+    "ppmi": 1.7468132841539592
+  },
+  {
+    "w1": "Western Australia",
+    "w2": "Perth",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 87006,
+    "unigram_w1": 270753,
+    "unigram_w2": 537275,
+    "ppmi": 7.769711205658606
+  }
+]

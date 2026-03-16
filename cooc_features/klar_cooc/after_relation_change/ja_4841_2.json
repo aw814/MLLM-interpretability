@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Google翻訳",
+    "w2": "所有する",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 706,
+    "unigram_w1": 144294,
+    "unigram_w2": 779898,
+    "ppmi": 0.13205090412305845
+  },
+  {
+    "w1": "所有する",
+    "w2": "Google",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 779898,
+    "unigram_w2": 4618040,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Google翻訳",
+    "w2": "Google",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 144294,
+    "unigram_w1": 144294,
+    "unigram_w2": 4618040,
+    "ppmi": 5.241255003847382
+  }
+]

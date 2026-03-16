@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "חליסקו",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 245,
+    "unigram_w2": 14610,
+    "ppmi": 2.784902151279237
+  },
+  {
+    "w1": "capital",
+    "w2": "גוודלחרה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 296,
+    "unigram_w1": 14610,
+    "unigram_w2": 751,
+    "ppmi": 8.378324358396485
+  },
+  {
+    "w1": "חליסקו",
+    "w2": "גוודלחרה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 35,
+    "unigram_w1": 245,
+    "unigram_w2": 751,
+    "ppmi": 11.196184628400792
+  }
+]

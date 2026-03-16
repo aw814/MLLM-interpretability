@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Organización para la Seguridad y la Cooperación en Europa",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1344,
+    "unigram_w1": 23054,
+    "unigram_w2": 12196104,
+    "ppmi": 1.9918803237180644
+  },
+  {
+    "w1": "idioma",
+    "w2": "italiano",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 12574510,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Organización para la Seguridad y la Cooperación en Europa",
+    "w2": "italiano",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1284,
+    "unigram_w1": 23054,
+    "unigram_w2": 12574510,
+    "ppmi": 1.881910563299
+  }
+]

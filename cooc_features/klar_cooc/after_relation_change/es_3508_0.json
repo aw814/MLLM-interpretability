@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Eslovenia",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 432,
+    "unigram_w1": 1057168,
+    "unigram_w2": 91062,
+    "ppmi": 1.9007621372526844
+  },
+  {
+    "w1": "continent",
+    "w2": "Europa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 19002,
+    "unigram_w1": 91062,
+    "unigram_w2": 39895658,
+    "ppmi": 2.12178311310872
+  },
+  {
+    "w1": "Eslovenia",
+    "w2": "Europa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 349826,
+    "unigram_w1": 1057168,
+    "unigram_w2": 39895658,
+    "ppmi": 2.786985747880835
+  }
+]

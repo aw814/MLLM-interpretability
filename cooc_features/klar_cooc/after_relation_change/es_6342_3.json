@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Corea del Sur",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 361234,
+    "unigram_w1": 2385834,
+    "unigram_w2": 42058182,
+    "ppmi": 1.5828381625208157
+  },
+  {
+    "w1": "capital",
+    "w2": "Seúl",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 121676,
+    "unigram_w1": 42058182,
+    "unigram_w2": 734150,
+    "ppmi": 1.7132960066425593
+  },
+  {
+    "w1": "Corea del Sur",
+    "w2": "Seúl",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 309172,
+    "unigram_w1": 2385834,
+    "unigram_w2": 734150,
+    "ppmi": 7.19848196035542
+  }
+]

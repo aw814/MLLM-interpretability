@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "赤道ギニア",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2510,
+    "unigram_w1": 18934,
+    "unigram_w2": 3715876,
+    "ppmi": 2.639613355916677
+  },
+  {
+    "w1": "言語",
+    "w2": "ポルトガル語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 244134,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "赤道ギニア",
+    "w2": "ポルトガル語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 792,
+    "unigram_w1": 18934,
+    "unigram_w2": 244134,
+    "ppmi": 4.903455551317345
+  }
+]

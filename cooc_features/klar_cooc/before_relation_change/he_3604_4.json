@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אפגניסטן",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17,
+    "unigram_w1": 11072,
+    "unigram_w2": 2719,
+    "ppmi": 2.8001828255615226
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "אפגניסטן",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2057,
+    "unigram_w1": 11072,
+    "unigram_w2": 100491,
+    "ppmi": 4.511199725375954
+  }
+]

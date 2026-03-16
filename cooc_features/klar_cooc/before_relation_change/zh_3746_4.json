@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Windows Mobile",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 27,
+    "unigram_w1": 3717,
+    "unigram_w2": 7846,
+    "ppmi": 5.75481047677806
+  },
+  {
+    "w1": "developer",
+    "w2": "微软",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 306,
+    "unigram_w1": 7846,
+    "unigram_w2": 226038,
+    "ppmi": 3.3310279864408114
+  },
+  {
+    "w1": "Windows Mobile",
+    "w2": "微软",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1134,
+    "unigram_w1": 3717,
+    "unigram_w2": 226038,
+    "ppmi": 6.298663715905726
+  }
+]

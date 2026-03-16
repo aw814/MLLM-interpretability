@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ancien Empire",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 471,
+    "unigram_w1": 8507,
+    "unigram_w2": 7952962,
+    "ppmi": 1.8510029634560599
+  },
+  {
+    "w1": "capital",
+    "w2": "Memphis",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 11198,
+    "unigram_w1": 7952962,
+    "unigram_w2": 367043,
+    "ppmi": 0.9912183545998581
+  },
+  {
+    "w1": "Ancien Empire",
+    "w2": "Memphis",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 581,
+    "unigram_w1": 8507,
+    "unigram_w2": 367043,
+    "ppmi": 6.5912853514650065
+  }
+]

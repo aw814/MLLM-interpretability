@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "カール・リープクネヒト",
+    "w2": "place_of_death",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 760,
+    "unigram_w2": 6,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "place_of_death",
+    "w2": "ベルリン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 6,
+    "unigram_w2": 676730,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "カール・リープクネヒト",
+    "w2": "ベルリン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 444,
+    "unigram_w1": 760,
+    "unigram_w2": 676730,
+    "ppmi": 7.236443680259392
+  }
+]

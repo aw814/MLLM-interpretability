@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "苏瓦",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 322,
+    "unigram_w1": 2578,
+    "unigram_w2": 596594,
+    "ppmi": 3.610077954438466
+  },
+  {
+    "w1": "首都",
+    "w2": "斐济",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 22064,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "苏瓦",
+    "w2": "斐济",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 778,
+    "unigram_w1": 2578,
+    "unigram_w2": 22064,
+    "ppmi": 9.639770622664004
+  }
+]

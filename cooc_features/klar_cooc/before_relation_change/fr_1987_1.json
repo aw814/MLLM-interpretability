@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Aristote",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3770,
+    "unigram_w1": 309366,
+    "unigram_w2": 1178529,
+    "ppmi": 2.4217531544302715
+  },
+  {
+    "w1": "occupation",
+    "w2": "mathématicien",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 2530,
+    "unigram_w1": 1178529,
+    "unigram_w2": 282236,
+    "ppmi": 1.9787386465098777
+  },
+  {
+    "w1": "Aristote",
+    "w2": "mathématicien",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8926,
+    "unigram_w1": 309366,
+    "unigram_w2": 282236,
+    "ppmi": 5.727215772253056
+  }
+]

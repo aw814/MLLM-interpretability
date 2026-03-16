@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "パキスタンの国旗",
+    "w2": "管轄",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6,
+    "unigram_w1": 210,
+    "unigram_w2": 691438,
+    "ppmi": 2.851580857813796
+  },
+  {
+    "w1": "管轄",
+    "w2": "パキスタン",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 691438,
+    "unigram_w2": 306876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "パキスタンの国旗",
+    "w2": "パキスタン",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 210,
+    "unigram_w1": 210,
+    "unigram_w2": 306876,
+    "ppmi": 9.152807947402211
+  }
+]

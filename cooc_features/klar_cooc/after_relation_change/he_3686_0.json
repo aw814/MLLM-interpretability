@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Fortran",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 4,
+    "unigram_w1": 136,
+    "unigram_w2": 7399,
+    "ppmi": 5.615631223282041
+  },
+  {
+    "w1": "developer",
+    "w2": "IBM",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 237,
+    "unigram_w1": 7399,
+    "unigram_w2": 16733,
+    "ppmi": 4.561428809657586
+  },
+  {
+    "w1": "Fortran",
+    "w2": "IBM",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 136,
+    "unigram_w2": 16733,
+    "ppmi": 7.345227898557793
+  }
+]

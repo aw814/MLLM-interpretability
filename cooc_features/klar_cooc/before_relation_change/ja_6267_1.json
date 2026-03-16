@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ペルー",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1956,
+    "unigram_w1": 340670,
+    "unigram_w2": 498928,
+    "ppmi": 1.007307405692862
+  },
+  {
+    "w1": "capital",
+    "w2": "リマ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 502,
+    "unigram_w1": 498928,
+    "unigram_w2": 70790,
+    "ppmi": 1.3119177309109282
+  },
+  {
+    "w1": "ペルー",
+    "w2": "リマ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 30854,
+    "unigram_w1": 340670,
+    "unigram_w2": 70790,
+    "ppmi": 7.804000822448902
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "שווייץ",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 83,
+    "unigram_w1": 18822,
+    "unigram_w2": 14610,
+    "ppmi": 1.896447207063973
+  },
+  {
+    "w1": "capital",
+    "w2": "ברן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 30,
+    "unigram_w1": 14610,
+    "unigram_w2": 8675,
+    "ppmi": 1.5457826435373403
+  },
+  {
+    "w1": "שווייץ",
+    "w2": "ברן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 732,
+    "unigram_w1": 18822,
+    "unigram_w2": 8675,
+    "ppmi": 5.789128129338966
+  }
+]

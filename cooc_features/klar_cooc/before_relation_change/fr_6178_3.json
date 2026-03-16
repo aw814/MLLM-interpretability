@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Union des républiques socialistes soviétiques",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 354,
+    "unigram_w1": 5046,
+    "unigram_w2": 7952962,
+    "ppmi": 2.1925355117108163
+  },
+  {
+    "w1": "capital",
+    "w2": "Moscou",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 73323,
+    "unigram_w1": 7952962,
+    "unigram_w2": 1982449,
+    "ppmi": 1.2689803255893977
+  },
+  {
+    "w1": "Union des républiques socialistes soviétiques",
+    "w2": "Moscou",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1516,
+    "unigram_w1": 5046,
+    "unigram_w2": 1982449,
+    "ppmi": 6.295192525423692
+  }
+]

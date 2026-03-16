@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Louis Aragon",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 892,
+    "unigram_w1": 14142,
+    "unigram_w2": 12196104,
+    "ppmi": 2.105493724597902
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Louis Aragon",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4682,
+    "unigram_w1": 14142,
+    "unigram_w2": 16087876,
+    "ppmi": 4.097949534630004
+  }
+]

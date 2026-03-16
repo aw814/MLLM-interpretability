@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Belmopán",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2060,
+    "unigram_w1": 4984,
+    "unigram_w2": 42058182,
+    "ppmi": 3.0316665057999823
+  },
+  {
+    "w1": "capital",
+    "w2": "Belice",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 203360,
+    "unigram_w1": 42058182,
+    "unigram_w2": 793998,
+    "ppmi": 2.3412267988378033
+  },
+  {
+    "w1": "Belmopán",
+    "w2": "Belice",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 4210,
+    "unigram_w1": 4984,
+    "unigram_w2": 793998,
+    "ppmi": 9.789949707807672
+  }
+]

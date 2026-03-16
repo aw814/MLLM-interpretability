@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Symbian",
+    "w2": "developer",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5741,
+    "unigram_w1": 59049,
+    "unigram_w2": 2684467,
+    "ppmi": 3.7240600076350487
+  },
+  {
+    "w1": "developer",
+    "w2": "Nokia",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 18413,
+    "unigram_w1": 2684467,
+    "unigram_w2": 368870,
+    "ppmi": 2.7622828212848995
+  },
+  {
+    "w1": "Symbian",
+    "w2": "Nokia",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 32791,
+    "unigram_w1": 59049,
+    "unigram_w2": 368870,
+    "ppmi": 9.101437250732042
+  }
+]

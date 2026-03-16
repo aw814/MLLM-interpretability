@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "那不勒斯省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 104,
+    "unigram_w2": 32140,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "capital",
+    "w2": "那不勒斯",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 96,
+    "unigram_w1": 32140,
+    "unigram_w2": 49631,
+    "ppmi": 1.811513856809012
+  },
+  {
+    "w1": "那不勒斯省",
+    "w2": "那不勒斯",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 104,
+    "unigram_w1": 104,
+    "unigram_w2": 49631,
+    "ppmi": 10.198633664650313
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Lilongwe",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3407,
+    "unigram_w1": 13501,
+    "unigram_w2": 7450623,
+    "ppmi": 3.6273808628508992
+  },
+  {
+    "w1": "capital",
+    "w2": "Malawi",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 15330,
+    "unigram_w1": 7450623,
+    "unigram_w2": 147141,
+    "ppmi": 2.3511035806799656
+  },
+  {
+    "w1": "Lilongwe",
+    "w2": "Malawi",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11037,
+    "unigram_w1": 13501,
+    "unigram_w2": 147141,
+    "ppmi": 10.985244950678242
+  }
+]

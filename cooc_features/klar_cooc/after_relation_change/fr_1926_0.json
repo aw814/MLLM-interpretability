@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Charles Babbage",
+    "w2": "travail",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1990,
+    "unigram_w1": 4681,
+    "unigram_w2": 57128353,
+    "ppmi": 1.9471633631596532
+  },
+  {
+    "w1": "travail",
+    "w2": "mathématiques",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 57128353,
+    "unigram_w2": 2504352,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Charles Babbage",
+    "w2": "mathématiques",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1636,
+    "unigram_w1": 4681,
+    "unigram_w2": 2504352,
+    "ppmi": 6.176265358456527
+  }
+]

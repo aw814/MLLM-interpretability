@@ -1,0 +1,32 @@
+[
+  {
+    "w1": ".de",
+    "w2": "관할권",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 135,
+    "unigram_w1": 304046,
+    "unigram_w2": 2644,
+    "ppmi": 1.3896942588626369
+  },
+  {
+    "w1": "관할권",
+    "w2": "독일",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2644,
+    "unigram_w2": 366157,
+    "ppmi": 0.0
+  },
+  {
+    "w1": ".de",
+    "w2": "독일",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18300,
+    "unigram_w1": 304046,
+    "unigram_w2": 366157,
+    "ppmi": 1.3588383001405495
+  }
+]

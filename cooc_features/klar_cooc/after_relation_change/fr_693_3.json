@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Angola",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 28866,
+    "unigram_w1": 524058,
+    "unigram_w2": 12749290,
+    "ppmi": 1.162718348613771
+  },
+  {
+    "w1": "langue",
+    "w2": "portugais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 2170552,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Angola",
+    "w2": "portugais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 25018,
+    "unigram_w1": 524058,
+    "unigram_w2": 2170552,
+    "ppmi": 3.510596620625058
+  }
+]

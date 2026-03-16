@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Nicaragua",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 26092,
+    "unigram_w1": 471691,
+    "unigram_w2": 12749290,
+    "ppmi": 1.1688390934447974
+  },
+  {
+    "w1": "langue",
+    "w2": "espagnol",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 5009550,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Nicaragua",
+    "w2": "espagnol",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 31667,
+    "unigram_w1": 471691,
+    "unigram_w2": 5009550,
+    "ppmi": 2.7958757459258816
+  }
+]

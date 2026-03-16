@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "顿涅茨克人民共和国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 23,
+    "unigram_w1": 740,
+    "unigram_w2": 919361,
+    "ppmi": 0.9794961214366845
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "顿涅茨克人民共和国",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 16,
+    "unigram_w1": 740,
+    "unigram_w2": 46749,
+    "ppmi": 4.753558222604435
+  }
+]

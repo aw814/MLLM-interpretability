@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מדהורי דיקסיט",
+    "w2": "occupation",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 27,
+    "unigram_w2": 1821,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "occupation",
+    "w2": "שחקן",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 49,
+    "unigram_w1": 1821,
+    "unigram_w2": 243315,
+    "ppmi": 0.447937547699364
+  },
+  {
+    "w1": "מדהורי דיקסיט",
+    "w2": "שחקן",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 7,
+    "unigram_w1": 27,
+    "unigram_w2": 243315,
+    "ppmi": 3.7162103304551293
+  }
+]

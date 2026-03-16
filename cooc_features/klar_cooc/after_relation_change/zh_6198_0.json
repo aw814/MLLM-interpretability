@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "戈尔韦郡",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 5,
+    "unigram_w1": 36,
+    "unigram_w2": 596594,
+    "ppmi": 3.76320071813055
+  },
+  {
+    "w1": "首都",
+    "w2": "戈尔韦",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 596594,
+    "unigram_w2": 847,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "戈尔韦郡",
+    "w2": "戈尔韦",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 36,
+    "unigram_w2": 847,
+    "ppmi": 16.071369408221244
+  }
+]

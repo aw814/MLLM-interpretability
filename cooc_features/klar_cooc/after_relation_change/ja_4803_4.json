@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ドゥカティ",
+    "w2": "所有する",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 730,
+    "unigram_w1": 156178,
+    "unigram_w2": 779898,
+    "ppmi": 0.06609925319710451
+  },
+  {
+    "w1": "所有する",
+    "w2": "アウディ",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 779898,
+    "unigram_w2": 532632,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ドゥカティ",
+    "w2": "アウディ",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 13494,
+    "unigram_w1": 156178,
+    "unigram_w2": 532632,
+    "ppmi": 4.824523390613008
+  }
+]

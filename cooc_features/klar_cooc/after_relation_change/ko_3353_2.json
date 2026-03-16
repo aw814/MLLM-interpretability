@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "엔초 페라리",
+    "w2": "국적",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 228,
+    "unigram_w2": 33870,
+    "ppmi": 2.599667327624503
+  },
+  {
+    "w1": "국적",
+    "w2": "이탈리아",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 33870,
+    "unigram_w2": 239990,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "엔초 페라리",
+    "w2": "이탈리아",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 127,
+    "unigram_w1": 228,
+    "unigram_w2": 239990,
+    "ppmi": 5.178495113332171
+  }
+]

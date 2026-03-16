@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Californie",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 112487,
+    "unigram_w1": 2367113,
+    "unigram_w2": 9137640,
+    "ppmi": 1.4302267322578897
+  },
+  {
+    "w1": "capitale",
+    "w2": "Sacramento",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 148299,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Californie",
+    "w2": "Sacramento",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 37059,
+    "unigram_w1": 2367113,
+    "unigram_w2": 148299,
+    "ppmi": 5.773605139660691
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "広東省",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 766,
+    "unigram_w1": 87836,
+    "unigram_w2": 498928,
+    "ppmi": 1.6103079779637008
+  },
+  {
+    "w1": "capital",
+    "w2": "広州市",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 240,
+    "unigram_w1": 498928,
+    "unigram_w2": 23278,
+    "ppmi": 1.8518432379500631
+  },
+  {
+    "w1": "広東省",
+    "w2": "広州市",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10334,
+    "unigram_w1": 87836,
+    "unigram_w2": 23278,
+    "ppmi": 9.78601118543051
+  }
+]

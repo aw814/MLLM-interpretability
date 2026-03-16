@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Democratic Republic of the Congo",
+    "w2": "official_language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 0,
+    "unigram_w1": 45758,
+    "unigram_w2": 1,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "official_language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 1,
+    "unigram_w2": 6382804,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Democratic Republic of the Congo",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 11436,
+    "unigram_w1": 45758,
+    "unigram_w2": 6382804,
+    "ppmi": 3.836602526905838
+  }
+]

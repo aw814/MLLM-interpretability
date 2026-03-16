@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "אוקלנד",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 325,
+    "unigram_w1": 6050,
+    "unigram_w2": 14610,
+    "ppmi": 5.503116571148305
+  },
+  {
+    "w1": "capital",
+    "w2": "אוקלנד",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 325,
+    "unigram_w1": 14610,
+    "unigram_w2": 6050,
+    "ppmi": 5.503116571148305
+  },
+  {
+    "w1": "אוקלנד",
+    "w2": "אוקלנד",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6050,
+    "unigram_w1": 6050,
+    "unigram_w2": 6050,
+    "ppmi": 10.99348922092335
+  }
+]

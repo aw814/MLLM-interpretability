@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Jared Leto",
+    "w2": "instrument",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 56,
+    "unigram_w1": 15014,
+    "unigram_w2": 2136875,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "instrument",
+    "w2": "violin",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 86389,
+    "unigram_w1": 2136875,
+    "unigram_w2": 430992,
+    "ppmi": 5.09699026580858
+  },
+  {
+    "w1": "Jared Leto",
+    "w2": "violin",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 26,
+    "unigram_w1": 15014,
+    "unigram_w2": 430992,
+    "ppmi": 0.551920299480671
+  }
+]

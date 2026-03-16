@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Imitation Game",
+    "w2": "langue",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 863,
+    "unigram_w1": 13570,
+    "unigram_w2": 12749290,
+    "ppmi": 1.3700853776646773
+  },
+  {
+    "w1": "langue",
+    "w2": "anglais",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12749290,
+    "unigram_w2": 17089249,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Imitation Game",
+    "w2": "anglais",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 2467,
+    "unigram_w1": 13570,
+    "unigram_w2": 17089249,
+    "ppmi": 2.4627385372408988
+  }
+]

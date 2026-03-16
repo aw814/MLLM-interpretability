@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "교황 그레고리오 9세",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1,
+    "unigram_w1": 20,
+    "unigram_w2": 15811,
+    "ppmi": 5.62474611614404
+  },
+  {
+    "w1": "religion",
+    "w2": "기독교",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1657,
+    "unigram_w1": 15811,
+    "unigram_w2": 113100,
+    "ppmi": 3.853792694488309
+  },
+  {
+    "w1": "교황 그레고리오 9세",
+    "w2": "기독교",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 10,
+    "unigram_w1": 20,
+    "unigram_w2": 113100,
+    "ppmi": 6.108075803685063
+  }
+]

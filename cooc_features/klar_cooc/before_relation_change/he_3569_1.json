@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "מניפור",
+    "w2": "continent",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2,
+    "unigram_w1": 159,
+    "unigram_w2": 2719,
+    "ppmi": 5.834465256663552
+  },
+  {
+    "w1": "continent",
+    "w2": "אסיה",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1012,
+    "unigram_w1": 2719,
+    "unigram_w2": 100491,
+    "ppmi": 5.513635013157295
+  },
+  {
+    "w1": "מניפור",
+    "w2": "אסיה",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 36,
+    "unigram_w1": 159,
+    "unigram_w2": 100491,
+    "ppmi": 4.796543920645702
+  }
+]

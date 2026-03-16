@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Apia",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 1631,
+    "unigram_w1": 12043,
+    "unigram_w2": 7450623,
+    "ppmi": 2.7295071442556273
+  },
+  {
+    "w1": "capital",
+    "w2": "Samoa",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 9594,
+    "unigram_w1": 7450623,
+    "unigram_w2": 130556,
+    "ppmi": 1.8474807681570622
+  },
+  {
+    "w1": "Apia",
+    "w2": "Samoa",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6908,
+    "unigram_w1": 12043,
+    "unigram_w2": 130556,
+    "ppmi": 10.646638843123974
+  }
+]

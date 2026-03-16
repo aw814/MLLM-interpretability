@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Galen",
+    "w2": "work",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 17856,
+    "unigram_w1": 47786,
+    "unigram_w2": 74824954,
+    "ppmi": 0.8656076855564864
+  },
+  {
+    "w1": "work",
+    "w2": "medicine",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 1822380,
+    "unigram_w1": 74824954,
+    "unigram_w2": 4823636,
+    "ppmi": 0.8814895390283145
+  },
+  {
+    "w1": "Galen",
+    "w2": "medicine",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 6121,
+    "unigram_w1": 47786,
+    "unigram_w2": 4823636,
+    "ppmi": 3.2763645651647355
+  }
+]

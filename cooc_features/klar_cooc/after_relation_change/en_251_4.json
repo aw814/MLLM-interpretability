@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Cambodia",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 35423,
+    "unigram_w1": 357113,
+    "unigram_w2": 9241408,
+    "ppmi": 1.9694993223910022
+  },
+  {
+    "w1": "language",
+    "w2": "Khmer",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 14921,
+    "unigram_w1": 9241408,
+    "unigram_w2": 76937,
+    "ppmi": 2.936788322401182
+  },
+  {
+    "w1": "Cambodia",
+    "w2": "Khmer",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 45177,
+    "unigram_w1": 357113,
+    "unigram_w2": 76937,
+    "ppmi": 9.228692681392289
+  }
+]

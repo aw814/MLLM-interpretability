@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "ザグレブ",
+    "w2": "首都",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 6256,
+    "unigram_w1": 30962,
+    "unigram_w2": 2444276,
+    "ppmi": 3.8519422261469174
+  },
+  {
+    "w1": "首都",
+    "w2": "クロアチア",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 2444276,
+    "unigram_w2": 211002,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "ザグレブ",
+    "w2": "クロアチア",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 19348,
+    "unigram_w1": 30962,
+    "unigram_w2": 211002,
+    "ppmi": 9.014892871436437
+  }
+]

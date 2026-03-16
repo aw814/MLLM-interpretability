@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Angleterre du Nord-Ouest",
+    "w2": "capitale",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 132,
+    "unigram_w1": 1743,
+    "unigram_w2": 9137640,
+    "ppmi": 2.1025623903319213
+  },
+  {
+    "w1": "capitale",
+    "w2": "Manchester",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 9137640,
+    "unigram_w2": 1573307,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Angleterre du Nord-Ouest",
+    "w2": "Manchester",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 174,
+    "unigram_w1": 1743,
+    "unigram_w2": 1573307,
+    "ppmi": 5.039133160076152
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "パナマ",
+    "w2": "言語",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 13598,
+    "unigram_w1": 162370,
+    "unigram_w2": 3715876,
+    "ppmi": 1.9770145936152432
+  },
+  {
+    "w1": "言語",
+    "w2": "スペイン語",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 3715876,
+    "unigram_w2": 570272,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "パナマ",
+    "w2": "スペイン語",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8872,
+    "unigram_w1": 162370,
+    "unigram_w2": 570272,
+    "ppmi": 4.064931644575107
+  }
+]

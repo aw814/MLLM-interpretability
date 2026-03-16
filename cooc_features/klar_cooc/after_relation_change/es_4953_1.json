@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Leslie Caron",
+    "w2": "idioma",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 244,
+    "unigram_w1": 5364,
+    "unigram_w2": 12196104,
+    "ppmi": 1.6339361843073335
+  },
+  {
+    "w1": "idioma",
+    "w2": "francés",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 12196104,
+    "unigram_w2": 16087876,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "Leslie Caron",
+    "w2": "francés",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1154,
+    "unigram_w1": 5364,
+    "unigram_w2": 16087876,
+    "ppmi": 3.4760728462303234
+  }
+]

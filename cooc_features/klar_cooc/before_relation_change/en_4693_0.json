@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Tom Cruise",
+    "w2": "religion",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 2596,
+    "unigram_w1": 66342,
+    "unigram_w2": 2269436,
+    "ppmi": 2.6533403239840423
+  },
+  {
+    "w1": "religion",
+    "w2": "Ciencias",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 710,
+    "unigram_w1": 2269436,
+    "unigram_w2": 16282,
+    "ppmi": 2.8095854518375893
+  },
+  {
+    "w1": "Tom Cruise",
+    "w2": "Ciencias",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 5,
+    "unigram_w1": 66342,
+    "unigram_w2": 16282,
+    "ppmi": 0.756105820304045
+  }
+]

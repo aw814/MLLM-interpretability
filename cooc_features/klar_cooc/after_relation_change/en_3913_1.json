@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "N'Djamena",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 796,
+    "unigram_w1": 1556,
+    "unigram_w2": 7450623,
+    "ppmi": 4.646871555479075
+  },
+  {
+    "w1": "capital",
+    "w2": "Chad",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 22428,
+    "unigram_w1": 7450623,
+    "unigram_w2": 383289,
+    "ppmi": 1.51881356508211
+  },
+  {
+    "w1": "N'Djamena",
+    "w2": "Chad",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 1263,
+    "unigram_w1": 1556,
+    "unigram_w2": 383289,
+    "ppmi": 9.593742423434508
+  }
+]

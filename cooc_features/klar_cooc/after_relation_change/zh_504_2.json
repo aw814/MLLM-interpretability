@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "马里埃尔共和国",
+    "w2": "语言",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 3,
+    "unigram_w1": 35,
+    "unigram_w2": 919361,
+    "ppmi": 2.4429951096721734
+  },
+  {
+    "w1": "语言",
+    "w2": "俄语",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 0,
+    "unigram_w1": 919361,
+    "unigram_w2": 46749,
+    "ppmi": 0.0
+  },
+  {
+    "w1": "马里埃尔共和国",
+    "w2": "俄语",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 8,
+    "unigram_w1": 35,
+    "unigram_w2": 46749,
+    "ppmi": 8.15565666617578
+  }
+]

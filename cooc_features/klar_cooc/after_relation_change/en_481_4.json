@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "Ivory Coast",
+    "w2": "language",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 8269,
+    "unigram_w1": 68126,
+    "unigram_w2": 9241408,
+    "ppmi": 2.2607009434229353
+  },
+  {
+    "w1": "language",
+    "w2": "French",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 757793,
+    "unigram_w1": 9241408,
+    "unigram_w2": 6382804,
+    "ppmi": 2.2288070419118067
+  },
+  {
+    "w1": "Ivory Coast",
+    "w2": "French",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 18434,
+    "unigram_w1": 68126,
+    "unigram_w2": 6382804,
+    "ppmi": 3.9512076517440664
+  }
+]

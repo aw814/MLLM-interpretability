@@ -1,0 +1,32 @@
+[
+  {
+    "w1": "爱达荷州",
+    "w2": "capital",
+    "role1": "subject",
+    "role2": "relation",
+    "cooc_count": 20,
+    "unigram_w1": 2777,
+    "unigram_w2": 32140,
+    "ppmi": 3.7081218920595043
+  },
+  {
+    "w1": "capital",
+    "w2": "博伊西",
+    "role1": "relation",
+    "role2": "object",
+    "cooc_count": 13,
+    "unigram_w1": 32140,
+    "unigram_w2": 1113,
+    "ppmi": 4.405707099790121
+  },
+  {
+    "w1": "爱达荷州",
+    "w2": "博伊西",
+    "role1": "subject",
+    "role2": "object",
+    "cooc_count": 148,
+    "unigram_w1": 2777,
+    "unigram_w2": 1113,
+    "ppmi": 11.447491594021589
+  }
+]
