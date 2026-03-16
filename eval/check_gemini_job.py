@@ -3,7 +3,7 @@ import os
 import time
 from dotenv import load_dotenv
 load_dotenv()
-BATCH_NAME = "batches/bg1sbpm4x3d6uxpj0x6v0cizx9ao81oxdc0e"
+BATCH_NAME = "batches/vsenr6r9xn6ex5uw6l6s1bl815cpwjmshq5m"
 
 client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 
