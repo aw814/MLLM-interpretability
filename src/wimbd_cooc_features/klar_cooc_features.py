@@ -61,7 +61,7 @@ TRANSLATION = {
     ("jurisdiction", "ja"): "管轄",
     ("jurisdiction", "ko"): "관할권",
     ("jurisdiction", "zh"): "司法管辖权",
-    ("jurisdiction", "he"): "סמכות שיפוטית",
+    ("jurisdiction", "he"): "משפטי",
     
     # capital
     ("capital", "en"): "capital",
@@ -70,7 +70,7 @@ TRANSLATION = {
     ("capital", "ja"): "首都",
     ("capital", "ko"): "수도",
     ("capital", "zh"): "首都",
-    ("capital", "he"): "בירה",
+    ("capital", "he"): "עיר בירה",
     
     # citizenship
     ("citizenship", "en"): "citizenship",
@@ -124,7 +124,7 @@ TRANSLATION = {
     ("owns", "ja"): "所有する",
     ("owns", "ko"): "소유",
     ("owns", "zh"): "拥有",
-    ("owns", "he"): "בעלות",
+    ("owns", "he"): "שייך",
     
     # born
     ("born", "en"): "born",
@@ -143,6 +143,60 @@ TRANSLATION = {
     ("died", "ko"): "죽었다",
     ("died", "zh"): "去世",
     ("died", "he"): "מת",
+
+    # continent
+    ("continent", "en"): "continent",
+    ("continent", "es"): "continente",
+    ("continent", "fr"): "continent",
+    ("continent", "ja"): "大陸",
+    ("continent", "ko"): "대륙",
+    ("continent", "zh"): "大陆",
+    ("continent", "he"): "יבשת",
+
+    # developer
+    ("developer", "en"): "developer",
+    ("developer", "es"): "desarrollador",
+    ("developer", "fr"): "développeur",
+    ("developer", "ja"): "開発者",
+    ("developer", "ko"): "개발자",
+    ("developer", "zh"): "开发者",
+    ("developer", "he"): "מפתח",
+
+    # instrument
+    ("instrument", "en"): "instrument",
+    ("instrument", "es"): "instrumento",
+    ("instrument", "fr"): "instrument",
+    ("instrument", "ja"): "楽器",
+    ("instrument", "ko"): "악기",
+    ("instrument", "zh"): "乐器",
+    ("instrument", "he"): "כלי נגינה",
+
+    # manufacturer
+    ("manufacturer", "en"): "manufacturer",
+    ("manufacturer", "es"): "fabricante",
+    ("manufacturer", "fr"): "fabricant",
+    ("manufacturer", "ja"): "製造元",
+    ("manufacturer", "ko"): "제조사",
+    ("manufacturer", "zh"): "制造商",
+    ("manufacturer", "he"): "יצרן",
+
+    # occupation
+    ("occupation", "en"): "occupation",
+    ("occupation", "es"): "ocupación",
+    ("occupation", "fr"): "profession",
+    ("occupation", "ja"): "職業",
+    ("occupation", "ko"): "직업",
+    ("occupation", "zh"): "职业",
+    ("occupation", "he"): "עיסוק",
+
+    # religion
+    ("religion", "en"): "religion",
+    ("religion", "es"): "religión",
+    ("religion", "fr"): "religion",
+    ("religion", "ja"): "宗教",
+    ("religion", "ko"): "종교",
+    ("religion", "zh"): "宗教",
+    ("religion", "he"): "דת",
 }
 
 # Query result cache: {(index, term, lang): count}

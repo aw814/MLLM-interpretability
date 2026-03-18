@@ -1,23 +1,23 @@
 [
   {
     "w1": "布莱德·达尔森",
-    "w2": "instrument",
+    "w2": "乐器",
     "role1": "subject",
     "role2": "relation",
     "cooc_count": 0,
     "unigram_w1": 1,
-    "unigram_w2": 3087,
+    "unigram_w2": 101889,
     "ppmi": 0.0
   },
   {
-    "w1": "instrument",
+    "w1": "乐器",
     "w2": "吉他",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 112,
-    "unigram_w1": 3087,
+    "cooc_count": 0,
+    "unigram_w1": 101889,
     "unigram_w2": 92839,
-    "ppmi": 4.510509359432441
+    "ppmi": 0.0
   },
   {
     "w1": "布莱德·达尔森",
