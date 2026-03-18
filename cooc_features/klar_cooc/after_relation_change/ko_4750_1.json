@@ -1,23 +1,23 @@
 [
   {
     "w1": "메릴린 먼로",
-    "w2": "religion",
+    "w2": "종교",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 4,
     "unigram_w1": 135,
-    "unigram_w2": 15811,
-    "ppmi": 0.0
+    "unigram_w2": 122521,
+    "ppmi": 1.9158300887806141
   },
   {
-    "w1": "religion",
+    "w1": "종교",
     "w2": "유대교",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 224,
-    "unigram_w1": 15811,
+    "cooc_count": 0,
+    "unigram_w1": 122521,
     "unigram_w2": 8178,
-    "ppmi": 4.756496785562641
+    "ppmi": 0.0
   },
   {
     "w1": "메릴린 먼로",

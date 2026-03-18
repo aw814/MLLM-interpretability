@@ -1,21 +1,21 @@
 [
   {
     "w1": "טורונטו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 390,
+    "cooc_count": 32,
     "unigram_w1": 21445,
-    "unigram_w2": 90246,
-    "ppmi": 1.3136098982296218
+    "unigram_w2": 4671,
+    "ppmi": 1.9783392226495562
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "אונטריו",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 4128,
     "ppmi": 0.0
   },

@@ -1,21 +1,21 @@
 [
   {
     "w1": "מישיגן",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 267,
+    "cooc_count": 34,
     "unigram_w1": 10996,
-    "unigram_w2": 90246,
-    "ppmi": 1.7306380201775304
+    "unigram_w2": 4671,
+    "ppmi": 3.029464567909861
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "לאנסינג",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 161,
     "ppmi": 0.0
   },

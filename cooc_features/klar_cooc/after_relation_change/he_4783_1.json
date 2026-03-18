@@ -1,23 +1,23 @@
 [
   {
     "w1": "ברוס ספרינגסטין",
-    "w2": "instrument",
+    "w2": "כלי נגינה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 46,
     "unigram_w1": 1963,
-    "unigram_w2": 2401,
-    "ppmi": 1.3879445022760806
+    "unigram_w2": 40631,
+    "ppmi": 2.830632894758938
   },
   {
-    "w1": "instrument",
+    "w1": "כלי נגינה",
     "w2": "מפוחית פה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2,
-    "unigram_w1": 2401,
+    "cooc_count": 0,
+    "unigram_w1": 40631,
     "unigram_w2": 304,
-    "ppmi": 5.078861446298666
+    "ppmi": 0.0
   },
   {
     "w1": "ברוס ספרינגסטין",

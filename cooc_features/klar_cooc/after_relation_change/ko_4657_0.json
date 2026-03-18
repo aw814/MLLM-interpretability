@@ -1,23 +1,23 @@
 [
   {
     "w1": "아랍인",
-    "w2": "religion",
+    "w2": "종교",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 18,
+    "cooc_count": 536,
     "unigram_w1": 2200,
-    "unigram_w2": 15811,
-    "ppmi": 3.013311404061693
+    "unigram_w2": 122521,
+    "ppmi": 4.955447067877196
   },
   {
-    "w1": "religion",
+    "w1": "종교",
     "w2": "기독교",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1657,
-    "unigram_w1": 15811,
+    "cooc_count": 0,
+    "unigram_w1": 122521,
     "unigram_w2": 113100,
-    "ppmi": 3.853792694488309
+    "ppmi": 0.0
   },
   {
     "w1": "아랍인",

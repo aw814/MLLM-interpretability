@@ -1,23 +1,23 @@
 [
   {
     "w1": "Fred Astaire",
-    "w2": "occupation",
+    "w2": "profession",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 132,
+    "cooc_count": 485,
     "unigram_w1": 23170,
-    "unigram_w2": 1178529,
-    "ppmi": 1.3247831664761804
+    "unigram_w2": 4281581,
+    "ppmi": 1.341073624552924
   },
   {
-    "w1": "occupation",
+    "w1": "profession",
     "w2": "scénariste",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 4291,
-    "unigram_w1": 1178529,
+    "cooc_count": 0,
+    "unigram_w1": 4281581,
     "unigram_w2": 1124763,
-    "ppmi": 0.7462680456253115
+    "ppmi": 0.0
   },
   {
     "w1": "Fred Astaire",

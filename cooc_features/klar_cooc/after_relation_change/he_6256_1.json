@@ -1,21 +1,21 @@
 [
   {
     "w1": "טריטוריית הבירה האוסטרלית",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 12,
+    "cooc_count": 2,
     "unigram_w1": 211,
-    "unigram_w2": 90246,
-    "ppmi": 2.9584965920169006
+    "unigram_w2": 4671,
+    "ppmi": 4.64559372946529
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "קנברה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 1231,
     "ppmi": 0.0
   },

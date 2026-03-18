@@ -1,23 +1,23 @@
 [
   {
     "w1": "Indonesia",
-    "w2": "continent",
+    "w2": "continente",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2456,
+    "cooc_count": 125642,
     "unigram_w1": 3373450,
-    "unigram_w2": 91062,
-    "ppmi": 2.7339493625671523
+    "unigram_w2": 6534794,
+    "ppmi": 2.245665003168646
   },
   {
-    "w1": "continent",
+    "w1": "continente",
     "w2": "Asia",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 10022,
-    "unigram_w1": 91062,
+    "cooc_count": 0,
+    "unigram_w1": 6534794,
     "unigram_w2": 9286646,
-    "ppmi": 3.3018044770318373
+    "ppmi": 0.0
   },
   {
     "w1": "Indonesia",

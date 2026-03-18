@@ -1,21 +1,21 @@
 [
   {
     "w1": "ממלכת סקוטלנד",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 6,
+    "cooc_count": 2,
     "unigram_w1": 126,
-    "unigram_w2": 90246,
-    "ppmi": 2.7023158572241694
+    "unigram_w2": 4671,
+    "ppmi": 5.389412994672559
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "אדינבורו",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 6547,
     "ppmi": 0.0
   },

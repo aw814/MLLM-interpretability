@@ -1,23 +1,23 @@
 [
   {
     "w1": "사파리",
-    "w2": "developer",
+    "w2": "개발자",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 90,
+    "cooc_count": 689,
     "unigram_w1": 17149,
-    "unigram_w2": 17565,
-    "ppmi": 2.2209155163344665
+    "unigram_w2": 86172,
+    "ppmi": 2.8629070009215107
   },
   {
-    "w1": "developer",
+    "w1": "개발자",
     "w2": "애플",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 837,
-    "unigram_w1": 17565,
+    "cooc_count": 0,
+    "unigram_w1": 86172,
     "unigram_w2": 141895,
-    "ppmi": 2.3895188358709722
+    "ppmi": 0.0
   },
   {
     "w1": "사파리",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "폴 매카트니",
-    "w2": "instrument",
+    "w2": "악기",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 50,
     "unigram_w1": 1175,
-    "unigram_w2": 10794,
-    "ppmi": 0.0
+    "unigram_w2": 36413,
+    "ppmi": 4.188560369556372
   },
   {
-    "w1": "instrument",
+    "w1": "악기",
     "w2": "피아노",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 235,
-    "unigram_w1": 10794,
+    "cooc_count": 0,
+    "unigram_w1": 36413,
     "unigram_w2": 67914,
-    "ppmi": 2.322468795789547
+    "ppmi": 0.0
   },
   {
     "w1": "폴 매카트니",

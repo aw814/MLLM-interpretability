@@ -1,21 +1,21 @@
 [
   {
     "w1": "לואנדה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 22,
+    "cooc_count": 10,
     "unigram_w1": 604,
-    "unigram_w2": 90246,
-    "ppmi": 2.315660159315148
+    "unigram_w2": 4671,
+    "ppmi": 5.450216273734759
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "אנגולה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 4380,
     "ppmi": 0.0
   },

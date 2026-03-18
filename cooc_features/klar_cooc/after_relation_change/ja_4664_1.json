@@ -1,23 +1,23 @@
 [
   {
     "w1": "ウラジーミル1世",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 8,
+    "cooc_count": 124,
     "unigram_w1": 342,
-    "unigram_w2": 154360,
-    "ppmi": 4.726312304190748
+    "unigram_w2": 2412798,
+    "ppmi": 4.714172330831252
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "キリスト教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8718,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 922786,
-    "ppmi": 3.4183097165799863
+    "ppmi": 0.0
   },
   {
     "w1": "ウラジーミル1世",

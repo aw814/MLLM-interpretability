@@ -1,21 +1,21 @@
 [
   {
     "w1": "Wii U",
-    "w2": "manufacturer",
+    "w2": "製造元",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 386,
+    "cooc_count": 1414,
     "unigram_w1": 113456,
-    "unigram_w2": 212080,
-    "ppmi": 1.4865388491599796
+    "unigram_w2": 444476,
+    "ppmi": 2.292151270862295
   },
   {
-    "w1": "manufacturer",
+    "w1": "製造元",
     "w2": "任天堂",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 704,
-    "unigram_w1": 212080,
+    "cooc_count": 0,
+    "unigram_w1": 444476,
     "unigram_w2": 749462,
     "ppmi": 0.0
   },

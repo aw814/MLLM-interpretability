@@ -1,23 +1,23 @@
 [
   {
     "w1": "Gibraltar",
-    "w2": "continent",
+    "w2": "continente",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1096,
+    "cooc_count": 60768,
     "unigram_w1": 1495676,
-    "unigram_w2": 91062,
-    "ppmi": 2.7433136930304287
+    "unigram_w2": 6534794,
+    "ppmi": 2.3711569982974283
   },
   {
-    "w1": "continent",
+    "w1": "continente",
     "w2": "Europa",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 19002,
-    "unigram_w1": 91062,
+    "cooc_count": 0,
+    "unigram_w1": 6534794,
     "unigram_w2": 39895658,
-    "ppmi": 2.12178311310872
+    "ppmi": 0.0
   },
   {
     "w1": "Gibraltar",

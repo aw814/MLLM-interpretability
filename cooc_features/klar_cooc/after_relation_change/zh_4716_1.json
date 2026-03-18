@@ -1,23 +1,23 @@
 [
   {
     "w1": "主祷文",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 67,
     "unigram_w1": 645,
-    "unigram_w2": 2023,
-    "ppmi": 5.482151612684545
+    "unigram_w2": 372493,
+    "ppmi": 4.0236676189914755
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "基督教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 251,
-    "unigram_w1": 2023,
+    "cooc_count": 0,
+    "unigram_w1": 372493,
     "unigram_w2": 77752,
-    "ppmi": 6.540258351504095
+    "ppmi": 0.0
   },
   {
     "w1": "主祷文",

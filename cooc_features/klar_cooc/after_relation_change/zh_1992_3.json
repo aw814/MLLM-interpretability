@@ -1,21 +1,21 @@
 [
   {
     "w1": "希斯·莱杰",
-    "w2": "occupation",
+    "w2": "职业",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 39,
     "unigram_w1": 987,
-    "unigram_w2": 1325,
-    "ppmi": 0.0
+    "unigram_w2": 1803717,
+    "ppmi": 0.35354194258080246
   },
   {
-    "w1": "occupation",
+    "w1": "职业",
     "w2": "演员",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 13,
-    "unigram_w1": 1325,
+    "cooc_count": 0,
+    "unigram_w1": 1803717,
     "unigram_w2": 814989,
     "ppmi": 0.0
   },

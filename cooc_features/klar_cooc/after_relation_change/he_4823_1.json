@@ -1,21 +1,21 @@
 [
   {
     "w1": "Google AdSense",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 71,
+    "cooc_count": 30,
     "unigram_w1": 1198,
-    "unigram_w2": 359554,
-    "ppmi": 1.0236946406254201
+    "unigram_w2": 221630,
+    "ppmi": 0.47889339748730314
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "חברת גוגל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 4201,
     "ppmi": 0.0
   },

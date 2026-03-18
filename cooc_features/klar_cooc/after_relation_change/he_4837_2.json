@@ -1,21 +1,21 @@
 [
   {
     "w1": "Blogger",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 280,
+    "cooc_count": 131,
     "unigram_w1": 4521,
-    "unigram_w2": 359554,
-    "ppmi": 1.08721652853551
+    "unigram_w2": 221630,
+    "ppmi": 0.6894117938860402
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "חברת גוגל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 4201,
     "ppmi": 0.0
   },

@@ -1,21 +1,21 @@
 [
   {
     "w1": "닌텐도 DS",
-    "w2": "manufacturer",
+    "w2": "제조사",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 28,
     "unigram_w1": 955,
-    "unigram_w2": 23994,
-    "ppmi": 0.44557221799521096
+    "unigram_w2": 463423,
+    "ppmi": 0.0
   },
   {
-    "w1": "manufacturer",
+    "w1": "제조사",
     "w2": "닌텐도",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 29,
-    "unigram_w1": 23994,
+    "cooc_count": 0,
+    "unigram_w1": 463423,
     "unigram_w2": 24099,
     "ppmi": 0.0
   },

@@ -1,23 +1,23 @@
 [
   {
     "w1": "Xbox One",
-    "w2": "developer",
+    "w2": "développeur",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 3554,
+    "cooc_count": 42733,
     "unigram_w1": 905216,
-    "unigram_w2": 364637,
-    "ppmi": 2.480139271546326
+    "unigram_w2": 1604332,
+    "ppmi": 3.930534429397378
   },
   {
-    "w1": "developer",
+    "w1": "développeur",
     "w2": "Microsoft",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 61722,
-    "unigram_w1": 364637,
+    "cooc_count": 0,
+    "unigram_w1": 1604332,
     "unigram_w2": 4779618,
-    "ppmi": 4.197847167239697
+    "ppmi": 0.0
   },
   {
     "w1": "Xbox One",

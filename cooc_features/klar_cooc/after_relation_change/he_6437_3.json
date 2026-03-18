@@ -1,21 +1,21 @@
 [
   {
     "w1": "ג'מייקה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 223,
+    "cooc_count": 30,
     "unigram_w1": 5463,
-    "unigram_w2": 90246,
-    "ppmi": 2.48005547222524
+    "unigram_w2": 4671,
+    "ppmi": 3.8581058060829987
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "קינגסטון",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 2886,
     "ppmi": 0.0
   },

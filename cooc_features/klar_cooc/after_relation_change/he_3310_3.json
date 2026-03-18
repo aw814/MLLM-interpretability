@@ -1,21 +1,21 @@
 [
   {
     "w1": "Game Boy Advance",
-    "w2": "manufacturer",
+    "w2": "יצרן",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 5,
     "unigram_w1": 127,
-    "unigram_w2": 5002,
-    "ppmi": 0.0
+    "unigram_w2": 136290,
+    "ppmi": 1.8331318704226034
   },
   {
-    "w1": "manufacturer",
+    "w1": "יצרן",
     "w2": "נינטנדו",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1,
-    "unigram_w1": 5002,
+    "cooc_count": 0,
+    "unigram_w1": 136290,
     "unigram_w2": 5301,
     "ppmi": 0.0
   },

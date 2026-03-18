@@ -1,23 +1,23 @@
 [
   {
     "w1": "Windows Live メッセンジャー",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 22,
+    "cooc_count": 154,
     "unigram_w1": 1546,
-    "unigram_w2": 270510,
-    "ppmi": 3.199888855332346
+    "unigram_w2": 1030292,
+    "ppmi": 4.077944333465314
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "マイクロソフト",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 15308,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 865310,
-    "ppmi": 3.513922476511051
+    "ppmi": 0.0
   },
   {
     "w1": "Windows Live メッセンジャー",

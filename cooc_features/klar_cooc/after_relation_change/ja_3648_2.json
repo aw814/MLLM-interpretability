@@ -1,23 +1,23 @@
 [
   {
     "w1": "ニジェール川",
-    "w2": "continent",
+    "w2": "大陸",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 16,
+    "cooc_count": 848,
     "unigram_w1": 2106,
-    "unigram_w2": 48638,
-    "ppmi": 4.770018235710373
+    "unigram_w2": 1349992,
+    "ppmi": 5.703215548771742
   },
   {
-    "w1": "continent",
+    "w1": "大陸",
     "w2": "アフリカ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2966,
-    "unigram_w1": 48638,
+    "cooc_count": 0,
+    "unigram_w1": 1349992,
     "unigram_w2": 1832838,
-    "ppmi": 2.5389629945862024
+    "ppmi": 0.0
   },
   {
     "w1": "ニジェール川",

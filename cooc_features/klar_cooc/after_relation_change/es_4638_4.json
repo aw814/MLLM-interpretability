@@ -1,23 +1,23 @@
 [
   {
     "w1": "obispo",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 49684,
+    "cooc_count": 416184,
     "unigram_w1": 3782054,
-    "unigram_w2": 979024,
-    "ppmi": 3.4809798654150788
+    "unigram_w2": 6695822,
+    "ppmi": 3.7735030905378357
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "cristianismo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 91096,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 1891270,
-    "ppmi": 5.355400867877766
+    "ppmi": 0.0
   },
   {
     "w1": "obispo",

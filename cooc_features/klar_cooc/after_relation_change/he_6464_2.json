@@ -1,21 +1,21 @@
 [
   {
     "w1": "וירג'יניה המערבית",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 23,
+    "cooc_count": 5,
     "unigram_w1": 509,
-    "unigram_w2": 90246,
-    "ppmi": 2.6266733899842474
+    "unigram_w2": 4671,
+    "ppmi": 4.697099166984142
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "צ'ארלסטון",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 394,
     "ppmi": 0.0
   },

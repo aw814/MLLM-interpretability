@@ -1,23 +1,23 @@
 [
   {
     "w1": "Hugh Bonneville",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 114,
     "unigram_w1": 8460,
-    "unigram_w2": 77008,
-    "ppmi": 0.0
+    "unigram_w2": 5115142,
+    "ppmi": 1.1323145967464927
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "actor",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 4374,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 11074310,
-    "ppmi": 2.0935127110606873
+    "ppmi": 0.0
   },
   {
     "w1": "Hugh Bonneville",

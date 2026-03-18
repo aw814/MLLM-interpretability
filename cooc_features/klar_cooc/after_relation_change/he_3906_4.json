@@ -1,21 +1,21 @@
 [
   {
     "w1": "יוגיאקרטה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 9,
+    "cooc_count": 3,
     "unigram_w1": 297,
-    "unigram_w2": 90246,
-    "ppmi": 2.0502391606444763
+    "unigram_w2": 4671,
+    "ppmi": 4.737336298092865
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "אינדונזיה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 16225,
     "ppmi": 0.0
   },

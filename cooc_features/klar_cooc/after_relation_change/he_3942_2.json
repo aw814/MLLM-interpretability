@@ -1,21 +1,21 @@
 [
   {
     "w1": "סקרמנטו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 117,
+    "cooc_count": 14,
     "unigram_w1": 6607,
-    "unigram_w2": 90246,
-    "ppmi": 1.2752183702090596
+    "unigram_w2": 4671,
+    "ppmi": 2.4842682108528042
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "קליפורניה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 52395,
     "ppmi": 0.0
   },

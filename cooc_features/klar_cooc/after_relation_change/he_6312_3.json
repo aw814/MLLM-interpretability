@@ -1,21 +1,21 @@
 [
   {
     "w1": "סקסוניה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 142,
+    "cooc_count": 47,
     "unigram_w1": 2508,
-    "unigram_w2": 90246,
-    "ppmi": 2.952058766705573
+    "unigram_w2": 4671,
+    "ppmi": 5.6289601370480735
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "דרזדן",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 4191,
     "ppmi": 0.0
   },

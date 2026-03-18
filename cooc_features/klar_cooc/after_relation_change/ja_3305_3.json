@@ -1,23 +1,23 @@
 [
   {
     "w1": "BMW・X3",
-    "w2": "manufacturer",
+    "w2": "製造元",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 202,
+    "cooc_count": 60,
     "unigram_w1": 25404,
-    "unigram_w2": 212080,
-    "ppmi": 2.7112986207736904
+    "unigram_w2": 444476,
+    "ppmi": 0.0
   },
   {
-    "w1": "manufacturer",
+    "w1": "製造元",
     "w2": "BMW",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 9104,
-    "unigram_w1": 212080,
+    "cooc_count": 0,
+    "unigram_w1": 444476,
     "unigram_w2": 1340130,
-    "ppmi": 2.484198508887082
+    "ppmi": 0.0
   },
   {
     "w1": "BMW・X3",

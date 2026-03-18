@@ -1,23 +1,23 @@
 [
   {
     "w1": "Emmanuel Chabrier",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 34,
     "unigram_w1": 1674,
-    "unigram_w2": 77008,
-    "ppmi": 3.690404870170622
+    "unigram_w2": 5115142,
+    "ppmi": 1.7242455592890589
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "compositor",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 850,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 2937000,
-    "ppmi": 1.6448958787590913
+    "ppmi": 0.0
   },
   {
     "w1": "Emmanuel Chabrier",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "Fortran",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 4,
+    "cooc_count": 26,
     "unigram_w1": 136,
-    "unigram_w2": 7399,
-    "ppmi": 5.615631223282041
+    "unigram_w2": 304255,
+    "ppmi": 2.9542640786431273
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "IBM",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 237,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 16733,
-    "ppmi": 4.561428809657586
+    "ppmi": 0.0
   },
   {
     "w1": "Fortran",

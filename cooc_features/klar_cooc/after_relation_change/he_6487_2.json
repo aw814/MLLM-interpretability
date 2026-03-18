@@ -1,21 +1,21 @@
 [
   {
     "w1": "פלנדריה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 116,
+    "cooc_count": 21,
     "unigram_w1": 1153,
-    "unigram_w2": 90246,
-    "ppmi": 3.78143747747873
+    "unigram_w2": 4671,
+    "ppmi": 5.587833543299463
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "בריסל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 12060,
     "ppmi": 0.0
   },

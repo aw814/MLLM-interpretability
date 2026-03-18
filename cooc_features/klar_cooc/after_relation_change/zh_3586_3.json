@@ -1,23 +1,23 @@
 [
   {
     "w1": "格丁尼亚",
-    "w2": "continent",
+    "w2": "大陆",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 27,
     "unigram_w1": 463,
-    "unigram_w2": 1361,
-    "ppmi": 0.0
+    "unigram_w2": 1055751,
+    "ppmi": 1.6877685034819372
   },
   {
-    "w1": "continent",
+    "w1": "大陆",
     "w2": "欧洲",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 133,
-    "unigram_w1": 1361,
+    "cooc_count": 0,
+    "unigram_w1": 1055751,
     "unigram_w2": 1834429,
-    "ppmi": 1.635519014832779
+    "ppmi": 0.0
   },
   {
     "w1": "格丁尼亚",

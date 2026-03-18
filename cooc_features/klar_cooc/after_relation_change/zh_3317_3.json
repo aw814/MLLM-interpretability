@@ -1,23 +1,23 @@
 [
   {
     "w1": "空中客车A340",
-    "w2": "manufacturer",
+    "w2": "制造商",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 2,
     "unigram_w1": 61,
-    "unigram_w2": 6195,
-    "ppmi": 0.0
+    "unigram_w2": 228985,
+    "ppmi": 3.061956660001797
   },
   {
-    "w1": "manufacturer",
+    "w1": "制造商",
     "w2": "空中客车",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2,
-    "unigram_w1": 6195,
+    "cooc_count": 0,
+    "unigram_w1": 228985,
     "unigram_w2": 10166,
-    "ppmi": 0.8892344850770358
+    "ppmi": 0.0
   },
   {
     "w1": "空中客车A340",

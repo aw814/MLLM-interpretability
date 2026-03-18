@@ -1,23 +1,23 @@
 [
   {
     "w1": "尼尔·杨",
-    "w2": "instrument",
+    "w2": "乐器",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 5,
     "unigram_w1": 188,
-    "unigram_w2": 3087,
-    "ppmi": 0.0
+    "unigram_w2": 101889,
+    "ppmi": 3.9282880306721633
   },
   {
-    "w1": "instrument",
+    "w1": "乐器",
     "w2": "口琴",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 9,
-    "unigram_w1": 3087,
+    "cooc_count": 0,
+    "unigram_w1": 101889,
     "unigram_w2": 10981,
-    "ppmi": 3.9528009804800215
+    "ppmi": 0.0
   },
   {
     "w1": "尼尔·杨",

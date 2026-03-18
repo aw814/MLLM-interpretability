@@ -1,21 +1,21 @@
 [
   {
     "w1": "רבאט",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 128,
+    "cooc_count": 39,
     "unigram_w1": 3949,
-    "unigram_w2": 90246,
-    "ppmi": 2.147361627542581
+    "unigram_w2": 4671,
+    "ppmi": 4.704823484574375
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "מרוקו",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 39735,
     "ppmi": 0.0
   },

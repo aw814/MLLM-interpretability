@@ -1,23 +1,23 @@
 [
   {
     "w1": "Pierre Abélard",
-    "w2": "occupation",
+    "w2": "profession",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 75,
+    "cooc_count": 210,
     "unigram_w1": 5389,
-    "unigram_w2": 1178529,
-    "ppmi": 2.6133762899760455
+    "unigram_w2": 4281581,
+    "ppmi": 2.237646757506994
   },
   {
-    "w1": "occupation",
+    "w1": "profession",
     "w2": "philosophe",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 15863,
-    "unigram_w1": 1178529,
+    "cooc_count": 0,
+    "unigram_w1": 4281581,
     "unigram_w2": 1544075,
-    "ppmi": 2.1754260894633792
+    "ppmi": 0.0
   },
   {
     "w1": "Pierre Abélard",

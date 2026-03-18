@@ -1,23 +1,23 @@
 [
   {
     "w1": "豪尔赫·路易斯·博尔赫斯",
-    "w2": "occupation",
+    "w2": "职业",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 16,
     "unigram_w1": 184,
-    "unigram_w2": 1325,
-    "ppmi": 0.0
+    "unigram_w2": 1803717,
+    "ppmi": 1.491484042117939
   },
   {
-    "w1": "occupation",
+    "w1": "职业",
     "w2": "图书馆员",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1,
-    "unigram_w1": 1325,
+    "cooc_count": 0,
+    "unigram_w1": 1803717,
     "unigram_w2": 1997,
-    "ppmi": 4.462192305771548
+    "ppmi": 0.0
   },
   {
     "w1": "豪尔赫·路易斯·博尔赫斯",

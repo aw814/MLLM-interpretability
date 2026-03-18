@@ -1,21 +1,21 @@
 [
   {
     "w1": "מומבאי",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 146,
+    "cooc_count": 32,
     "unigram_w1": 4039,
-    "unigram_w2": 90246,
-    "ppmi": 2.30467540817986
+    "unigram_w2": 4671,
+    "ppmi": 4.386910487469388
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "מהאראשטרה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 153,
     "ppmi": 0.0
   },

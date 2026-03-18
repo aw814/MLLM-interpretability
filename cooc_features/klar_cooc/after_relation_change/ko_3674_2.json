@@ -1,23 +1,23 @@
 [
   {
     "w1": "macOS",
-    "w2": "developer",
+    "w2": "개발자",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 250,
+    "cooc_count": 760,
     "unigram_w1": 5748,
-    "unigram_w2": 17565,
-    "ppmi": 5.271839189544624
+    "unigram_w2": 86172,
+    "ppmi": 4.581394921425913
   },
   {
-    "w1": "developer",
+    "w1": "개발자",
     "w2": "애플",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 837,
-    "unigram_w1": 17565,
+    "cooc_count": 0,
+    "unigram_w1": 86172,
     "unigram_w2": 141895,
-    "ppmi": 2.3895188358709722
+    "ppmi": 0.0
   },
   {
     "w1": "macOS",

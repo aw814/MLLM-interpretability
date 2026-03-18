@@ -1,21 +1,21 @@
 [
   {
     "w1": "קופנהגן",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 424,
+    "cooc_count": 53,
     "unigram_w1": 8972,
-    "unigram_w2": 90246,
-    "ppmi": 2.6913398294798565
+    "unigram_w2": 4671,
+    "ppmi": 3.9633994676494018
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "דנמרק",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 30952,
     "ppmi": 0.0
   },

@@ -1,23 +1,23 @@
 [
   {
     "w1": "珍妮·杰克逊",
-    "w2": "occupation",
+    "w2": "职业",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 39,
     "unigram_w1": 552,
-    "unigram_w2": 1325,
-    "ppmi": 0.0
+    "unigram_w2": 1803717,
+    "ppmi": 1.1919237602590311
   },
   {
-    "w1": "occupation",
+    "w1": "职业",
     "w2": "模特儿",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1,
-    "unigram_w1": 1325,
+    "cooc_count": 0,
+    "unigram_w1": 1803717,
     "unigram_w2": 7311,
-    "ppmi": 2.5899578867710233
+    "ppmi": 0.0
   },
   {
     "w1": "珍妮·杰克逊",

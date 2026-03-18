@@ -1,23 +1,23 @@
 [
   {
     "w1": "App Store",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 13776,
+    "cooc_count": 32972,
     "unigram_w1": 318728,
-    "unigram_w2": 270510,
-    "ppmi": 4.802685029290838
+    "unigram_w2": 1030292,
+    "ppmi": 4.1324699374955545
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "アップル",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8810,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 1680756,
-    "ppmi": 1.7590292753601282
+    "ppmi": 0.0
   },
   {
     "w1": "App Store",

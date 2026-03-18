@@ -1,23 +1,23 @@
 [
   {
     "w1": "טורקיה",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 27,
+    "cooc_count": 1471,
     "unigram_w1": 73139,
-    "unigram_w2": 2719,
-    "ppmi": 0.7438824331342667
+    "unigram_w2": 28556,
+    "ppmi": 3.1189306116139526
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אסיה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1012,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 100491,
-    "ppmi": 5.513635013157295
+    "ppmi": 0.0
   },
   {
     "w1": "טורקיה",

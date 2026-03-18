@@ -1,21 +1,21 @@
 [
   {
     "w1": "מחוז קורק",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 13,
+    "cooc_count": 1,
     "unigram_w1": 71,
-    "unigram_w2": 90246,
-    "ppmi": 4.64532587863934
+    "unigram_w2": 4671,
+    "ppmi": 5.216945798667793
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "קורק",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 1880,
     "ppmi": 0.0
   },

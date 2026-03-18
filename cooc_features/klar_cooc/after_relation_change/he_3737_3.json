@@ -1,23 +1,23 @@
 [
   {
     "w1": "יומן גוגל",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 33,
     "unigram_w1": 241,
-    "unigram_w2": 7399,
-    "ppmi": 0.0
+    "unigram_w2": 304255,
+    "ppmi": 2.472791984880866
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "חברת גוגל",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 13,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 4201,
-    "ppmi": 2.3670167121869556
+    "ppmi": 0.0
   },
   {
     "w1": "יומן גוגל",

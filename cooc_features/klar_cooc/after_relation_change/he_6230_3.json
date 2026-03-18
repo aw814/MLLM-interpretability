@@ -1,21 +1,21 @@
 [
   {
     "w1": "לאציו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 70,
+    "cooc_count": 7,
     "unigram_w1": 6998,
-    "unigram_w2": 90246,
-    "ppmi": 0.45118934770804675
+    "unigram_w2": 4671,
+    "ppmi": 1.4013208909902295
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "רומא",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 60571,
     "ppmi": 0.0
   },

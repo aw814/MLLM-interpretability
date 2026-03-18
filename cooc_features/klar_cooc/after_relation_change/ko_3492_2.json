@@ -1,23 +1,23 @@
 [
   {
     "w1": "그리스",
-    "w2": "continent",
+    "w2": "대륙",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 123,
+    "cooc_count": 1777,
     "unigram_w1": 97407,
-    "unigram_w2": 2712,
-    "ppmi": 2.8609504170725613
+    "unigram_w2": 32790,
+    "ppmi": 3.1178370596179206
   },
   {
-    "w1": "continent",
+    "w1": "대륙",
     "w2": "유럽",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 184,
-    "unigram_w1": 2712,
+    "cooc_count": 0,
+    "unigram_w1": 32790,
     "unigram_w2": 559048,
-    "ppmi": 0.9211230673927385
+    "ppmi": 0.0
   },
   {
     "w1": "그리스",

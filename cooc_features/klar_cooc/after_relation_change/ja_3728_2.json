@@ -1,23 +1,23 @@
 [
   {
     "w1": "Google Play",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 10456,
+    "cooc_count": 26174,
     "unigram_w1": 309982,
-    "unigram_w2": 270510,
-    "ppmi": 4.445000348300584
+    "unigram_w2": 1030292,
+    "ppmi": 3.8395042769441097
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 72998,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 4618040,
-    "ppmi": 3.351501919071128
+    "ppmi": 0.0
   },
   {
     "w1": "Google Play",

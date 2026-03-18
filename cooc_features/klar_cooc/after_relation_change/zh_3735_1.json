@@ -1,23 +1,23 @@
 [
   {
     "w1": "Google Drive",
-    "w2": "developer",
+    "w2": "开发者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 12,
+    "cooc_count": 88,
     "unigram_w1": 2070,
-    "unigram_w2": 7846,
-    "ppmi": 5.429393395810817
+    "unigram_w2": 151522,
+    "ppmi": 4.032436380608821
   },
   {
-    "w1": "developer",
+    "w1": "开发者",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 872,
-    "unigram_w1": 7846,
+    "cooc_count": 0,
+    "unigram_w1": 151522,
     "unigram_w2": 235245,
-    "ppmi": 4.7842257382074465
+    "ppmi": 0.0
   },
   {
     "w1": "Google Drive",

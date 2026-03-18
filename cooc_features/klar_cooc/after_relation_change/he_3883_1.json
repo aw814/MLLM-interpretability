@@ -1,21 +1,21 @@
 [
   {
     "w1": "ניאמיי",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 8,
+    "cooc_count": 7,
     "unigram_w1": 56,
-    "unigram_w2": 90246,
-    "ppmi": 4.2872783579453255
+    "unigram_w2": 4671,
+    "ppmi": 8.366692918172475
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ניז'ר",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 1976,
     "ppmi": 0.0
   },

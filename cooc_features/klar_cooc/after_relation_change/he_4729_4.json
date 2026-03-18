@@ -1,23 +1,23 @@
 [
   {
     "w1": "ג'ון טרבולטה",
-    "w2": "religion",
+    "w2": "דת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 5,
+    "cooc_count": 55,
     "unigram_w1": 1349,
-    "unigram_w2": 5024,
-    "ppmi": 3.185841361020136
+    "unigram_w2": 177887,
+    "ppmi": 1.4992921719547574
   },
   {
-    "w1": "religion",
+    "w1": "דת",
     "w2": "סיינטולוגיה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 29,
-    "unigram_w1": 5024,
+    "cooc_count": 0,
+    "unigram_w1": 177887,
     "unigram_w2": 2449,
-    "ppmi": 4.861591835644635
+    "ppmi": 0.0
   },
   {
     "w1": "ג'ון טרבולטה",

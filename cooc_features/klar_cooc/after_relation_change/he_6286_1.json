@@ -1,21 +1,21 @@
 [
   {
     "w1": "סיציליה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 366,
+    "cooc_count": 80,
     "unigram_w1": 7245,
-    "unigram_w2": 90246,
-    "ppmi": 2.7875631438426804
+    "unigram_w2": 4671,
+    "ppmi": 4.865851038615546
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "פלרמו",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 3511,
     "ppmi": 0.0
   },

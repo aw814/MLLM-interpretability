@@ -1,23 +1,23 @@
 [
   {
     "w1": "Madhuri Dixit",
-    "w2": "occupation",
+    "w2": "profession",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 31,
+    "cooc_count": 63,
     "unigram_w1": 2975,
-    "unigram_w2": 1178529,
-    "ppmi": 2.195881828174118
+    "unigram_w2": 4281581,
+    "ppmi": 1.3578090816478663
   },
   {
-    "w1": "occupation",
+    "w1": "profession",
     "w2": "acteur",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 27783,
-    "unigram_w1": 1178529,
+    "cooc_count": 0,
+    "unigram_w1": 4281581,
     "unigram_w2": 4849464,
-    "ppmi": 1.3328803722260925
+    "ppmi": 0.0
   },
   {
     "w1": "Madhuri Dixit",

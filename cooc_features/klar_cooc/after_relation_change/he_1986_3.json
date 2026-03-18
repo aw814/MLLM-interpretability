@@ -1,23 +1,23 @@
 [
   {
     "w1": "מישל וולבק",
-    "w2": "occupation",
+    "w2": "עיסוק",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 38,
     "unigram_w1": 986,
-    "unigram_w2": 1821,
-    "ppmi": 3.7802496046179184
+    "unigram_w2": 112457,
+    "ppmi": 2.0796783846750166
   },
   {
-    "w1": "occupation",
+    "w1": "עיסוק",
     "w2": "משורר",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 29,
-    "unigram_w1": 1821,
+    "cooc_count": 0,
+    "unigram_w1": 112457,
     "unigram_w2": 35443,
-    "ppmi": 2.4704613335516035
+    "ppmi": 0.0
   },
   {
     "w1": "מישל וולבק",

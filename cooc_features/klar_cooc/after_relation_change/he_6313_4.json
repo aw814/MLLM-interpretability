@@ -1,21 +1,21 @@
 [
   {
     "w1": "שושלת מינג",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 99,
+    "cooc_count": 32,
     "unigram_w1": 1209,
-    "unigram_w2": 90246,
-    "ppmi": 3.484391370833416
+    "unigram_w2": 4671,
+    "ppmi": 6.127094388923351
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "נאנג'ינג",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 915,
     "ppmi": 0.0
   },

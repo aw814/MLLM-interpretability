@@ -1,23 +1,23 @@
 [
   {
     "w1": "Windows Vista",
-    "w2": "manufacturer",
+    "w2": "fabricante",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2546,
+    "cooc_count": 51502,
     "unigram_w1": 694628,
-    "unigram_w2": 513142,
-    "ppmi": 2.571346466668845
+    "unigram_w2": 12320804,
+    "ppmi": 2.3240761209374368
   },
   {
-    "w1": "manufacturer",
+    "w1": "fabricante",
     "w2": "Microsoft",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 12610,
-    "unigram_w1": 513142,
+    "cooc_count": 0,
+    "unigram_w1": 12320804,
     "unigram_w2": 7210696,
-    "ppmi": 1.5037843692418558
+    "ppmi": 0.0
   },
   {
     "w1": "Windows Vista",

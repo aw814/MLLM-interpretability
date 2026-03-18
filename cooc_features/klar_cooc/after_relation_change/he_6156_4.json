@@ -1,21 +1,21 @@
 [
   {
     "w1": "ממלכת איטליה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 29,
+    "cooc_count": 21,
     "unigram_w1": 531,
-    "unigram_w2": 90246,
-    "ppmi": 2.9000462243263483
+    "unigram_w2": 4671,
+    "ppmi": 6.7064422901470815
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "פירנצה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 13400,
     "ppmi": 0.0
   },

@@ -1,23 +1,23 @@
 [
   {
     "w1": "阿卜杜勒-哈米德二世",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 10,
     "unigram_w1": 52,
-    "unigram_w2": 2023,
-    "ppmi": 0.0
+    "unigram_w2": 372493,
+    "ppmi": 4.912222155590589
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "伊斯兰教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 79,
-    "unigram_w1": 2023,
+    "cooc_count": 0,
+    "unigram_w1": 372493,
     "unigram_w2": 23746,
-    "ppmi": 6.583690818860432
+    "ppmi": 0.0
   },
   {
     "w1": "阿卜杜勒-哈米德二世",

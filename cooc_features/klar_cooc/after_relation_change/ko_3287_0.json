@@ -1,21 +1,21 @@
 [
   {
     "w1": "혼다 시빅",
-    "w2": "manufacturer",
+    "w2": "제조사",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 17,
+    "cooc_count": 129,
     "unigram_w1": 1069,
-    "unigram_w2": 23994,
-    "ppmi": 3.370345844448171
+    "unigram_w2": 463423,
+    "ppmi": 2.022526202795724
   },
   {
-    "w1": "manufacturer",
+    "w1": "제조사",
     "w2": "혼다 기연 공업",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 23994,
+    "unigram_w1": 463423,
     "unigram_w2": 9,
     "ppmi": 0.0
   },

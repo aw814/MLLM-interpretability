@@ -1,21 +1,21 @@
 [
   {
     "w1": "בוקרשט",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 449,
+    "cooc_count": 58,
     "unigram_w1": 14323,
-    "unigram_w2": 90246,
-    "ppmi": 2.0991588336661238
+    "unigram_w2": 4671,
+    "ppmi": 3.418627832222094
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "רומניה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 39436,
     "ppmi": 0.0
   },

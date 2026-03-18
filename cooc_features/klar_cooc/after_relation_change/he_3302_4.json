@@ -1,23 +1,23 @@
 [
   {
     "w1": "טויוטה קורולה",
-    "w2": "manufacturer",
+    "w2": "יצרן",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 9,
+    "cooc_count": 822,
     "unigram_w1": 5012,
-    "unigram_w2": 5002,
-    "ppmi": 2.14667360791215
+    "unigram_w2": 136290,
+    "ppmi": 3.891712346667229
   },
   {
-    "w1": "manufacturer",
+    "w1": "יצרן",
     "w2": "טויוטה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 166,
-    "unigram_w1": 5002,
+    "cooc_count": 0,
+    "unigram_w1": 136290,
     "unigram_w2": 31652,
-    "ppmi": 3.6929496952524588
+    "ppmi": 0.0
   },
   {
     "w1": "טויוטה קורולה",

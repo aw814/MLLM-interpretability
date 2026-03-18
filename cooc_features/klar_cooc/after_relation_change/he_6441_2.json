@@ -1,21 +1,21 @@
 [
   {
     "w1": "קטלוניה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 304,
+    "cooc_count": 44,
     "unigram_w1": 8340,
-    "unigram_w2": 90246,
-    "ppmi": 2.3167291251144895
+    "unigram_w2": 4671,
+    "ppmi": 3.800292868477746
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ברצלונה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 74291,
     "ppmi": 0.0
   },

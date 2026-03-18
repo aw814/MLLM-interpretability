@@ -1,23 +1,23 @@
 [
   {
     "w1": "Skanderbeg",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 42,
+    "cooc_count": 402,
     "unigram_w1": 3968,
-    "unigram_w2": 979024,
-    "ppmi": 3.1693458018491425
+    "unigram_w2": 6695822,
+    "ppmi": 3.654235025987473
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "cristianismo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 91096,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 1891270,
-    "ppmi": 5.355400867877766
+    "ppmi": 0.0
   },
   {
     "w1": "Skanderbeg",

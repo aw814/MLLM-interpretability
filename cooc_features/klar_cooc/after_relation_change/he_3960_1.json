@@ -1,21 +1,21 @@
 [
   {
     "w1": "ליל",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2865,
+    "cooc_count": 139,
     "unigram_w1": 108551,
-    "unigram_w2": 90246,
-    "ppmi": 1.850939212714761
+    "unigram_w2": 4671,
+    "ppmi": 1.7576204999635465
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "נור",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 19617,
     "ppmi": 0.0
   },

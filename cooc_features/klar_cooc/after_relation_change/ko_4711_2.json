@@ -1,23 +1,23 @@
 [
   {
     "w1": "굽타 왕조",
-    "w2": "religion",
+    "w2": "종교",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 40,
     "unigram_w1": 100,
-    "unigram_w2": 15811,
-    "ppmi": 0.0
+    "unigram_w2": 122521,
+    "ppmi": 5.670717590944083
   },
   {
-    "w1": "religion",
+    "w1": "종교",
     "w2": "힌두교",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 161,
-    "unigram_w1": 15811,
+    "cooc_count": 0,
+    "unigram_w1": 122521,
     "unigram_w2": 7256,
-    "ppmi": 4.452632348617497
+    "ppmi": 0.0
   },
   {
     "w1": "굽타 왕조",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "Jacques Audiard",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 248,
     "unigram_w1": 16756,
-    "unigram_w2": 77008,
-    "ppmi": 0.3670985138544421
+    "unigram_w2": 5115142,
+    "ppmi": 1.267672672109415
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "guionista",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 552,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 2009582,
-    "ppmi": 1.5695491231193257
+    "ppmi": 0.0
   },
   {
     "w1": "Jacques Audiard",

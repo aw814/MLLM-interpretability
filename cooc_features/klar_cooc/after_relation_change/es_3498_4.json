@@ -1,23 +1,23 @@
 [
   {
     "w1": "Wallis y Futuna",
-    "w2": "continent",
+    "w2": "continente",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 52,
+    "cooc_count": 1202,
     "unigram_w1": 98880,
-    "unigram_w2": 91062,
-    "ppmi": 2.26469646078561
+    "unigram_w2": 6534794,
+    "ppmi": 0.6303291214337318
   },
   {
-    "w1": "continent",
+    "w1": "continente",
     "w2": "Oceanía",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 928,
-    "unigram_w1": 91062,
+    "cooc_count": 0,
+    "unigram_w1": 6534794,
     "unigram_w2": 923736,
-    "ppmi": 3.1985077919655236
+    "ppmi": 0.0
   },
   {
     "w1": "Wallis y Futuna",

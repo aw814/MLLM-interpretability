@@ -1,23 +1,23 @@
 [
   {
     "w1": "Edgar Allan Poe",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 102,
+    "cooc_count": 2874,
     "unigram_w1": 214890,
-    "unigram_w2": 77008,
-    "ppmi": 2.3586752023716926
+    "unigram_w2": 5115142,
+    "ppmi": 1.1214720547256312
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "dramaturgo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 262,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 774546,
-    "ppmi": 1.8699202871383598
+    "ppmi": 0.0
   },
   {
     "w1": "Edgar Allan Poe",

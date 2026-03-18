@@ -1,21 +1,21 @@
 [
   {
     "w1": "שוגונות טוקוגאווה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 19,
+    "cooc_count": 10,
     "unigram_w1": 168,
-    "unigram_w2": 90246,
-    "ppmi": 3.950243370667755
+    "unigram_w2": 4671,
+    "ppmi": 7.296303590281077
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "אדו",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 3356,
     "ppmi": 0.0
   },

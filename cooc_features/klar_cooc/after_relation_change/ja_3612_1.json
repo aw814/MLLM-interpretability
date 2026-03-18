@@ -1,23 +1,23 @@
 [
   {
     "w1": "オホス・デル・サラード",
-    "w2": "continent",
+    "w2": "大陸",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 34,
     "unigram_w1": 74,
-    "unigram_w2": 48638,
-    "ppmi": 6.60085459110714
+    "unigram_w2": 1349992,
+    "ppmi": 5.893594290855649
   },
   {
-    "w1": "continent",
+    "w1": "大陸",
     "w2": "アメリカ州",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 18,
-    "unigram_w1": 48638,
+    "cooc_count": 0,
+    "unigram_w1": 1349992,
     "unigram_w2": 5172,
-    "ppmi": 3.643726398368148
+    "ppmi": 0.0
   },
   {
     "w1": "オホス・デル・サラード",

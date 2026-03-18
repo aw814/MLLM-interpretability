@@ -1,23 +1,23 @@
 [
   {
     "w1": "PostScript",
-    "w2": "developer",
+    "w2": "desarrollador",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 706,
+    "cooc_count": 1238,
     "unigram_w1": 95170,
-    "unigram_w2": 576918,
-    "ppmi": 3.4195077622932217
+    "unigram_w2": 1969708,
+    "ppmi": 2.4582353971919026
   },
   {
-    "w1": "developer",
+    "w1": "desarrollador",
     "w2": "Adobe Inc.",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 34,
-    "unigram_w1": 576918,
+    "cooc_count": 0,
+    "unigram_w1": 1969708,
     "unigram_w2": 1412,
-    "ppmi": 5.118141107645617
+    "ppmi": 0.0
   },
   {
     "w1": "PostScript",

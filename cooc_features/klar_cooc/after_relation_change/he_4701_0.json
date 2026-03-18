@@ -1,23 +1,23 @@
 [
   {
     "w1": "אל-מאמון",
-    "w2": "religion",
+    "w2": "דת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 74,
     "unigram_w1": 185,
-    "unigram_w2": 5024,
-    "ppmi": 4.730206438564729
+    "unigram_w2": 177887,
+    "ppmi": 4.7936789964910025
   },
   {
-    "w1": "religion",
+    "w1": "דת",
     "w2": "אסלאם",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 164,
-    "unigram_w1": 5024,
+    "cooc_count": 0,
+    "unigram_w1": 177887,
     "unigram_w2": 8814,
-    "ppmi": 5.513558722421688
+    "ppmi": 0.0
   },
   {
     "w1": "אל-מאמון",

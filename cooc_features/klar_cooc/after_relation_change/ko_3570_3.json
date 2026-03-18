@@ -1,23 +1,23 @@
 [
   {
     "w1": "웰링턴",
-    "w2": "continent",
+    "w2": "대륙",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 7,
+    "cooc_count": 75,
     "unigram_w1": 5860,
-    "unigram_w2": 2712,
-    "ppmi": 2.7808437170612574
+    "unigram_w2": 32790,
+    "ppmi": 2.6064806673554552
   },
   {
-    "w1": "continent",
+    "w1": "대륙",
     "w2": "오세아니아",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 25,
-    "unigram_w1": 2712,
+    "cooc_count": 0,
+    "unigram_w1": 32790,
     "unigram_w2": 21175,
-    "ppmi": 2.763955584981065
+    "ppmi": 0.0
   },
   {
     "w1": "웰링턴",

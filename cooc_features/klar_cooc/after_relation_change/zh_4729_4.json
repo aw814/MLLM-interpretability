@@ -1,21 +1,21 @@
 [
   {
     "w1": "约翰·特拉沃尔塔",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 15,
     "unigram_w1": 852,
-    "unigram_w2": 2023,
-    "ppmi": 0.0
+    "unigram_w2": 372493,
+    "ppmi": 1.4629147542269996
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "山达基",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 2023,
+    "unigram_w1": 372493,
     "unigram_w2": 150,
     "ppmi": 0.0
   },

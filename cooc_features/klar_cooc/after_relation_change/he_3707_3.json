@@ -1,23 +1,23 @@
 [
   {
     "w1": "Wii U",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 11,
+    "cooc_count": 60,
     "unigram_w1": 1080,
-    "unigram_w2": 7399,
-    "ppmi": 4.085710086118847
+    "unigram_w2": 304255,
+    "ppmi": 1.1713622003100619
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "נינטנדו",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 18,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 5301,
-    "ppmi": 2.5009702407019203
+    "ppmi": 0.0
   },
   {
     "w1": "Wii U",

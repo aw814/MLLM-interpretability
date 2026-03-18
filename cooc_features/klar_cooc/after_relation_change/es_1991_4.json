@@ -1,23 +1,23 @@
 [
   {
     "w1": "Justino I",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 4,
+    "cooc_count": 100,
     "unigram_w1": 1386,
-    "unigram_w2": 77008,
-    "ppmi": 4.962777140583752
+    "unigram_w2": 5115142,
+    "ppmi": 3.553011178226574
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "político",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8924,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 22337462,
-    "ppmi": 2.1100015417658495
+    "ppmi": 0.0
   },
   {
     "w1": "Justino I",

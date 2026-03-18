@@ -1,23 +1,23 @@
 [
   {
     "w1": "Windows Me",
-    "w2": "developer",
+    "w2": "développeur",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 256,
+    "cooc_count": 729,
     "unigram_w1": 46157,
-    "unigram_w2": 364637,
-    "ppmi": 2.978552027099215
+    "unigram_w2": 1604332,
+    "ppmi": 2.350887173148921
   },
   {
-    "w1": "developer",
+    "w1": "développeur",
     "w2": "Microsoft",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 61722,
-    "unigram_w1": 364637,
+    "cooc_count": 0,
+    "unigram_w1": 1604332,
     "unigram_w2": 4779618,
-    "ppmi": 4.197847167239697
+    "ppmi": 0.0
   },
   {
     "w1": "Windows Me",

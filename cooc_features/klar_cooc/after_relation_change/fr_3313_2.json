@@ -1,21 +1,21 @@
 [
   {
     "w1": "ange",
-    "w2": "manufacturer",
+    "w2": "fabricant",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1282,
+    "cooc_count": 23224,
     "unigram_w1": 2197363,
-    "unigram_w2": 366427,
+    "unigram_w2": 7210388,
     "ppmi": 0.0
   },
   {
-    "w1": "manufacturer",
+    "w1": "fabricant",
     "w2": "Dieu",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 3190,
-    "unigram_w1": 366427,
+    "cooc_count": 0,
+    "unigram_w1": 7210388,
     "unigram_w2": 9839690,
     "ppmi": 0.0
   },

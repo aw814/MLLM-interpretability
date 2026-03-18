@@ -1,21 +1,21 @@
 [
   {
     "w1": "윈도 2000",
-    "w2": "manufacturer",
+    "w2": "제조사",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 4,
     "unigram_w1": 121,
-    "unigram_w2": 23994,
-    "ppmi": 0.0
+    "unigram_w2": 463423,
+    "ppmi": 0.15448184781836566
   },
   {
-    "w1": "manufacturer",
+    "w1": "제조사",
     "w2": "마이크로소프트",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 57,
-    "unigram_w1": 23994,
+    "cooc_count": 0,
+    "unigram_w1": 463423,
     "unigram_w2": 49118,
     "ppmi": 0.0
   },

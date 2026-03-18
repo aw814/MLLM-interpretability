@@ -1,23 +1,23 @@
 [
   {
     "w1": "Buda Gautama",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 376,
+    "cooc_count": 2480,
     "unigram_w1": 8134,
-    "unigram_w2": 979024,
-    "ppmi": 5.2960642656727615
+    "unigram_w2": 6695822,
+    "ppmi": 5.243754775007524
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "budismo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 22730,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 570592,
-    "ppmi": 5.081434759007629
+    "ppmi": 0.0
   },
   {
     "w1": "Buda Gautama",

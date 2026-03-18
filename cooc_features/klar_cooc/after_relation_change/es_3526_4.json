@@ -1,23 +1,23 @@
 [
   {
     "w1": "Elba",
-    "w2": "continent",
+    "w2": "continente",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 258,
+    "cooc_count": 20010,
     "unigram_w1": 661130,
-    "unigram_w2": 91062,
-    "ppmi": 1.8343006652875986
+    "unigram_w2": 6534794,
+    "ppmi": 1.9463581547354767
   },
   {
-    "w1": "continent",
+    "w1": "continente",
     "w2": "Europa",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 19002,
-    "unigram_w1": 91062,
+    "cooc_count": 0,
+    "unigram_w1": 6534794,
     "unigram_w2": 39895658,
-    "ppmi": 2.12178311310872
+    "ppmi": 0.0
   },
   {
     "w1": "Elba",

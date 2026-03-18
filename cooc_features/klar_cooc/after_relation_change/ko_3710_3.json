@@ -1,23 +1,23 @@
 [
   {
     "w1": "NTFS",
-    "w2": "developer",
+    "w2": "개발자",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 79,
+    "cooc_count": 93,
     "unigram_w1": 2788,
-    "unigram_w2": 17565,
-    "ppmi": 4.653665153648554
+    "unigram_w2": 86172,
+    "ppmi": 2.5945276247919096
   },
   {
-    "w1": "developer",
+    "w1": "개발자",
     "w2": "마이크로소프트",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 579,
-    "unigram_w1": 17565,
+    "cooc_count": 0,
+    "unigram_w1": 86172,
     "unigram_w2": 49118,
-    "ppmi": 3.388354591922241
+    "ppmi": 0.0
   },
   {
     "w1": "NTFS",

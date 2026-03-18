@@ -1,21 +1,21 @@
 [
   {
     "w1": "הרפובליקה העממית של סין",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 187,
+    "cooc_count": 74,
     "unigram_w1": 3861,
-    "unigram_w2": 90246,
-    "ppmi": 2.7267689009487084
+    "unigram_w2": 4671,
+    "ppmi": 5.6613874448595665
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "בייג'ינג",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 12923,
     "ppmi": 0.0
   },

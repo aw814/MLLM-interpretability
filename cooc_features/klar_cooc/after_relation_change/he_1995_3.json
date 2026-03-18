@@ -1,23 +1,23 @@
 [
   {
     "w1": "אלכסנדר סולז'ניצין",
-    "w2": "occupation",
+    "w2": "עיסוק",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 12,
     "unigram_w1": 259,
-    "unigram_w2": 1821,
-    "ppmi": 0.0
+    "unigram_w2": 112457,
+    "ppmi": 2.345348920643945
   },
   {
-    "w1": "occupation",
+    "w1": "עיסוק",
     "w2": "משורר",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 29,
-    "unigram_w1": 1821,
+    "cooc_count": 0,
+    "unigram_w1": 112457,
     "unigram_w2": 35443,
-    "ppmi": 2.4704613335516035
+    "ppmi": 0.0
   },
   {
     "w1": "אלכסנדר סולז'ניצין",

@@ -1,23 +1,23 @@
 [
   {
     "w1": ".NET",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2046,
+    "cooc_count": 5473,
     "unigram_w1": 27795,
-    "unigram_w2": 7399,
-    "ppmi": 6.939146732641925
+    "unigram_w2": 304255,
+    "ppmi": 2.9968655813240783
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "מיקרוסופט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 665,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 55668,
-    "ppmi": 4.315743963349941
+    "ppmi": 0.0
   },
   {
     "w1": ".NET",

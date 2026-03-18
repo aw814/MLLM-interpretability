@@ -1,21 +1,21 @@
 [
   {
     "w1": "아이팟",
-    "w2": "manufacturer",
+    "w2": "제조사",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 26,
+    "cooc_count": 334,
     "unigram_w1": 12162,
-    "unigram_w2": 23994,
-    "ppmi": 0.47527598487135914
+    "unigram_w2": 463423,
+    "ppmi": 0.0
   },
   {
-    "w1": "manufacturer",
+    "w1": "제조사",
     "w2": "애플",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 183,
-    "unigram_w1": 23994,
+    "cooc_count": 0,
+    "unigram_w1": 463423,
     "unigram_w2": 141895,
     "ppmi": 0.0
   },

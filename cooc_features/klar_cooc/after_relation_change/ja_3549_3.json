@@ -1,23 +1,23 @@
 [
   {
     "w1": "オーストリア＝ハンガリー帝国",
-    "w2": "continent",
+    "w2": "大陸",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 12,
+    "cooc_count": 2114,
     "unigram_w1": 13130,
-    "unigram_w2": 48638,
-    "ppmi": 1.7146911616769969
+    "unigram_w2": 1349992,
+    "ppmi": 4.380765180836693
   },
   {
-    "w1": "continent",
+    "w1": "大陸",
     "w2": "ヨーロッパ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2662,
-    "unigram_w1": 48638,
+    "cooc_count": 0,
+    "unigram_w1": 1349992,
     "unigram_w2": 4446778,
-    "ppmi": 1.1042738616372416
+    "ppmi": 0.0
   },
   {
     "w1": "オーストリア＝ハンガリー帝国",

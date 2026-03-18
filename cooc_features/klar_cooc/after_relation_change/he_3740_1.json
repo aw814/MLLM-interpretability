@@ -1,23 +1,23 @@
 [
   {
     "w1": "Microsoft Store",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 3,
+    "cooc_count": 38,
     "unigram_w1": 249,
-    "unigram_w2": 7399,
-    "ppmi": 4.328054633185456
+    "unigram_w2": 304255,
+    "ppmi": 2.629212783127879
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "מיקרוסופט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 665,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 55668,
-    "ppmi": 4.315743963349941
+    "ppmi": 0.0
   },
   {
     "w1": "Microsoft Store",

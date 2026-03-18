@@ -1,23 +1,23 @@
 [
   {
     "w1": "フェラーリ・ラ フェラーリ",
-    "w2": "manufacturer",
+    "w2": "製造元",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 14,
     "unigram_w1": 930,
-    "unigram_w2": 212080,
-    "ppmi": 0.8247682867552475
+    "unigram_w2": 444476,
+    "ppmi": 2.564626262973849
   },
   {
-    "w1": "manufacturer",
+    "w1": "製造元",
     "w2": "フェラーリ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1112,
-    "unigram_w1": 212080,
+    "cooc_count": 0,
+    "unigram_w1": 444476,
     "unigram_w2": 415114,
-    "ppmi": 1.1416482024107344
+    "ppmi": 0.0
   },
   {
     "w1": "フェラーリ・ラ フェラーリ",

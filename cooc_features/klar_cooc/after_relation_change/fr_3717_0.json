@@ -1,23 +1,23 @@
 [
   {
     "w1": "Lecteur Windows Media",
-    "w2": "developer",
+    "w2": "développeur",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 150,
+    "cooc_count": 327,
     "unigram_w1": 21116,
-    "unigram_w2": 364637,
-    "ppmi": 3.335583604734332
+    "unigram_w2": 1604332,
+    "ppmi": 2.3224718814593026
   },
   {
-    "w1": "developer",
+    "w1": "développeur",
     "w2": "Microsoft",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 61722,
-    "unigram_w1": 364637,
+    "cooc_count": 0,
+    "unigram_w1": 1604332,
     "unigram_w2": 4779618,
-    "ppmi": 4.197847167239697
+    "ppmi": 0.0
   },
   {
     "w1": "Lecteur Windows Media",

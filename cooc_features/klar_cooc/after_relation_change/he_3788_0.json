@@ -1,21 +1,21 @@
 [
   {
     "w1": "ריו דה ז'ניירו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 110,
+    "cooc_count": 21,
     "unigram_w1": 4998,
-    "unigram_w2": 90246,
-    "ppmi": 1.5888578074408857
+    "unigram_w2": 4671,
+    "ppmi": 3.4718751548645312
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ברזיל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 61972,
     "ppmi": 0.0
   },

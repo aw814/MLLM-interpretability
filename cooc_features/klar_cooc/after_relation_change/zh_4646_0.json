@@ -1,23 +1,23 @@
 [
   {
     "w1": "穆斯林",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 74,
+    "cooc_count": 19278,
     "unigram_w1": 48478,
-    "unigram_w2": 2023,
-    "ppmi": 5.459717768613643
+    "unigram_w2": 372493,
+    "ppmi": 5.960358985026421
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "伊斯兰教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 79,
-    "unigram_w1": 2023,
+    "cooc_count": 0,
+    "unigram_w1": 372493,
     "unigram_w2": 23746,
-    "ppmi": 6.583690818860432
+    "ppmi": 0.0
   },
   {
     "w1": "穆斯林",

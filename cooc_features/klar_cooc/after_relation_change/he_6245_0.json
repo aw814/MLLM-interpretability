@@ -1,21 +1,21 @@
 [
   {
     "w1": "מחוז לבוב",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 5,
+    "cooc_count": 3,
     "unigram_w1": 85,
-    "unigram_w2": 90246,
-    "ppmi": 3.0071704387525906
+    "unigram_w2": 4671,
+    "ppmi": 6.542264482755929
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "לבוב",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 8675,
     "ppmi": 0.0
   },

@@ -1,21 +1,21 @@
 [
   {
     "w1": "ממלכת אנגליה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 35,
+    "cooc_count": 16,
     "unigram_w1": 768,
-    "unigram_w2": 90246,
-    "ppmi": 2.63895379622674
+    "unigram_w2": 4671,
+    "ppmi": 5.781730417451318
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "וינצ'סטר",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 590,
     "ppmi": 0.0
   },

@@ -1,23 +1,23 @@
 [
   {
     "w1": "טביליסי",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 10,
+    "cooc_count": 56,
     "unigram_w1": 5022,
-    "unigram_w2": 2719,
-    "ppmi": 3.1752299935637707
+    "unigram_w2": 28556,
+    "ppmi": 2.2680109701223365
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אירופה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 896,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 344826,
-    "ppmi": 3.5591941013339996
+    "ppmi": 0.0
   },
   {
     "w1": "טביליסי",

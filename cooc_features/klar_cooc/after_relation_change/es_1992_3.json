@@ -1,23 +1,23 @@
 [
   {
     "w1": "Heath Ledger",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 38,
+    "cooc_count": 684,
     "unigram_w1": 98612,
-    "unigram_w2": 77008,
-    "ppmi": 2.057940599148965
+    "unigram_w2": 5115142,
+    "ppmi": 0.1742434484593748
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "actor",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 4374,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 11074310,
-    "ppmi": 2.0935127110606873
+    "ppmi": 0.0
   },
   {
     "w1": "Heath Ledger",

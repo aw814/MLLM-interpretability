@@ -1,23 +1,23 @@
 [
   {
     "w1": "Pentium",
-    "w2": "developer",
+    "w2": "développeur",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1282,
+    "cooc_count": 3906,
     "unigram_w1": 186071,
-    "unigram_w2": 364637,
-    "ppmi": 3.2915007146673383
+    "unigram_w2": 1604332,
+    "ppmi": 2.7613565436581577
   },
   {
-    "w1": "developer",
+    "w1": "développeur",
     "w2": "Intel",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 9840,
-    "unigram_w1": 364637,
+    "cooc_count": 0,
+    "unigram_w1": 1604332,
     "unigram_w2": 1345052,
-    "ppmi": 3.378025947050456
+    "ppmi": 0.0
   },
   {
     "w1": "Pentium",

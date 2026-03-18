@@ -1,23 +1,23 @@
 [
   {
     "w1": "Theodor Herzl",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 316,
+    "cooc_count": 3404,
     "unigram_w1": 9640,
-    "unigram_w2": 979024,
-    "ppmi": 4.800188006517036
+    "unigram_w2": 6695822,
+    "ppmi": 5.455577535764058
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "judaísmo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 19830,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 455362,
-    "ppmi": 5.209967368670372
+    "ppmi": 0.0
   },
   {
     "w1": "Theodor Herzl",

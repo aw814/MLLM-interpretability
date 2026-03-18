@@ -1,23 +1,23 @@
 [
   {
     "w1": "エンリケ・グラナドス",
-    "w2": "occupation",
+    "w2": "職業",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 24,
     "unigram_w1": 668,
-    "unigram_w2": 62696,
-    "ppmi": 0.0
+    "unigram_w2": 3864310,
+    "ppmi": 0.6995830477298456
   },
   {
-    "w1": "occupation",
+    "w1": "職業",
     "w2": "作曲家",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 348,
-    "unigram_w1": 62696,
+    "cooc_count": 0,
+    "unigram_w1": 3864310,
     "unigram_w2": 556308,
-    "ppmi": 0.8014376297875545
+    "ppmi": 0.0
   },
   {
     "w1": "エンリケ・グラナドス",

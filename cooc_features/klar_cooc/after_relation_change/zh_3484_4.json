@@ -1,23 +1,23 @@
 [
   {
     "w1": "大英帝国",
-    "w2": "continent",
+    "w2": "大陆",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 537,
     "unigram_w1": 4161,
-    "unigram_w2": 1361,
-    "ppmi": 0.0
+    "unigram_w2": 1055751,
+    "ppmi": 2.8338130895193587
   },
   {
-    "w1": "continent",
+    "w1": "大陆",
     "w2": "非洲",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 108,
-    "unigram_w1": 1361,
+    "cooc_count": 0,
+    "unigram_w1": 1055751,
     "unigram_w2": 440125,
-    "ppmi": 3.3944699216877
+    "ppmi": 0.0
   },
   {
     "w1": "大英帝国",

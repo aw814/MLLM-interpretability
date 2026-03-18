@@ -1,23 +1,23 @@
 [
   {
     "w1": "John Travolta",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 988,
+    "cooc_count": 4852,
     "unigram_w1": 127688,
-    "unigram_w2": 979024,
-    "ppmi": 2.7173284983378934
+    "unigram_w2": 6695822,
+    "ppmi": 2.239480057611888
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "cienciología",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2034,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 55708,
-    "ppmi": 4.9557317517373605
+    "ppmi": 0.0
   },
   {
     "w1": "John Travolta",

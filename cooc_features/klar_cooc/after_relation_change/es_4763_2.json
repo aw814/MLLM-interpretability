@@ -1,23 +1,23 @@
 [
   {
     "w1": "Emmanuel Chabrier",
-    "w2": "instrument",
+    "w2": "instrumento",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 6,
+    "cooc_count": 232,
     "unigram_w1": 1674,
-    "unigram_w2": 296558,
-    "ppmi": 3.3301333137151827
+    "unigram_w2": 8304280,
+    "ppmi": 3.7956829152766733
   },
   {
-    "w1": "instrument",
+    "w1": "instrumento",
     "w2": "piano",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 25102,
-    "unigram_w1": 296558,
+    "cooc_count": 0,
+    "unigram_w1": 8304280,
     "unigram_w2": 4426392,
-    "ppmi": 3.992069529692425
+    "ppmi": 0.0
   },
   {
     "w1": "Emmanuel Chabrier",

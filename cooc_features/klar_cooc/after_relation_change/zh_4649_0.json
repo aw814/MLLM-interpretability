@@ -1,23 +1,23 @@
 [
   {
     "w1": "乌兹别克族",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 44,
     "unigram_w1": 270,
-    "unigram_w2": 2023,
-    "ppmi": 6.738491365944331
+    "unigram_w2": 372493,
+    "ppmi": 4.673349800430786
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "伊斯兰教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 79,
-    "unigram_w1": 2023,
+    "cooc_count": 0,
+    "unigram_w1": 372493,
     "unigram_w2": 23746,
-    "ppmi": 6.583690818860432
+    "ppmi": 0.0
   },
   {
     "w1": "乌兹别克族",

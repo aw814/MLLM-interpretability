@@ -1,23 +1,23 @@
 [
   {
     "w1": "האימפריה הבריטית",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 15,
+    "cooc_count": 277,
     "unigram_w1": 5547,
-    "unigram_w2": 2719,
-    "ppmi": 3.6167467974310745
+    "unigram_w2": 28556,
+    "ppmi": 4.430952517260069
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אמריקה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 487,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 224139,
-    "ppmi": 3.3010920011633837
+    "ppmi": 0.0
   },
   {
     "w1": "האימפריה הבריטית",

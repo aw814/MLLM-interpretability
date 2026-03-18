@@ -1,21 +1,21 @@
 [
   {
     "w1": "למבורגיני",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 245,
+    "cooc_count": 102,
     "unigram_w1": 2761,
-    "unigram_w2": 359554,
-    "ppmi": 1.606022480324025
+    "unigram_w2": 221630,
+    "ppmi": 1.0398651640509964
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "אאודי",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 11625,
     "ppmi": 0.0
   },

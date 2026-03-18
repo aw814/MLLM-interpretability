@@ -1,21 +1,21 @@
 [
   {
     "w1": "ליובליאנה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 51,
+    "cooc_count": 13,
     "unigram_w1": 1013,
-    "unigram_w2": 90246,
-    "ppmi": 2.782640163173287
+    "unigram_w2": 4671,
+    "ppmi": 5.082714177512429
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "סלובניה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 15027,
     "ppmi": 0.0
   },

@@ -1,23 +1,23 @@
 [
   {
     "w1": "אריתה פרנקלין",
-    "w2": "instrument",
+    "w2": "כלי נגינה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 17,
     "unigram_w1": 583,
-    "unigram_w2": 2401,
-    "ppmi": 0.0
+    "unigram_w2": 40631,
+    "ppmi": 3.1460261642179392
   },
   {
-    "w1": "instrument",
+    "w1": "כלי נגינה",
     "w2": "פסנתר",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 78,
-    "unigram_w1": 2401,
+    "cooc_count": 0,
+    "unigram_w1": 40631,
     "unigram_w2": 37499,
-    "ppmi": 3.417626675827256
+    "ppmi": 0.0
   },
   {
     "w1": "אריתה פרנקלין",

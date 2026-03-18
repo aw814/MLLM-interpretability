@@ -1,23 +1,23 @@
 [
   {
     "w1": "קלמנס ונצל פון מטרניך",
-    "w2": "occupation",
+    "w2": "עיסוק",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 1,
     "unigram_w1": 32,
-    "unigram_w2": 1821,
-    "ppmi": 0.0
+    "unigram_w2": 112457,
+    "ppmi": 1.7771947076093426
   },
   {
-    "w1": "occupation",
+    "w1": "עיסוק",
     "w2": "דיפלומט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 13,
-    "unigram_w1": 1821,
+    "cooc_count": 0,
+    "unigram_w1": 112457,
     "unigram_w2": 10079,
-    "ppmi": 3.127068272357567
+    "ppmi": 0.0
   },
   {
     "w1": "קלמנס ונצל פון מטרניך",

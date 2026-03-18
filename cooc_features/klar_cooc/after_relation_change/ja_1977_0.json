@@ -1,23 +1,23 @@
 [
   {
     "w1": "ホルヘ・ルイス・ボルヘス",
-    "w2": "occupation",
+    "w2": "職業",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 168,
     "unigram_w1": 2486,
-    "unigram_w2": 62696,
-    "ppmi": 0.0
+    "unigram_w2": 3864310,
+    "ppmi": 1.6110316812090169
   },
   {
-    "w1": "occupation",
+    "w1": "職業",
     "w2": "司書",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 74,
-    "unigram_w1": 62696,
+    "cooc_count": 0,
+    "unigram_w1": 3864310,
     "unigram_w2": 115398,
-    "ppmi": 0.8372131316312553
+    "ppmi": 0.0
   },
   {
     "w1": "ホルヘ・ルイス・ボルヘス",

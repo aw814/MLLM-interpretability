@@ -1,23 +1,23 @@
 [
   {
     "w1": "Alí Jamenei",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 80,
+    "cooc_count": 1282,
     "unigram_w1": 17280,
-    "unigram_w2": 979024,
-    "ppmi": 1.976337187293789
+    "unigram_w2": 6695822,
+    "ppmi": 3.20474459476333
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "islam",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 61902,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 1779692,
-    "ppmi": 4.885726937382873
+    "ppmi": 0.0
   },
   {
     "w1": "Alí Jamenei",

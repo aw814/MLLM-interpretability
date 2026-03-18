@@ -1,23 +1,23 @@
 [
   {
     "w1": "Google日历",
-    "w2": "developer",
+    "w2": "开发者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 20,
     "unigram_w1": 262,
-    "unigram_w2": 7846,
-    "ppmi": 4.826422945938899
+    "unigram_w2": 151522,
+    "ppmi": 4.876924907708123
   },
   {
-    "w1": "developer",
+    "w1": "开发者",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 872,
-    "unigram_w1": 7846,
+    "cooc_count": 0,
+    "unigram_w1": 151522,
     "unigram_w2": 235245,
-    "ppmi": 4.7842257382074465
+    "ppmi": 0.0
   },
   {
     "w1": "Google日历",

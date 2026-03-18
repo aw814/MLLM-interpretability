@@ -1,23 +1,23 @@
 [
   {
     "w1": "Aristóteles",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 298,
+    "cooc_count": 24550,
     "unigram_w1": 867898,
-    "unigram_w2": 77008,
-    "ppmi": 1.8914912293266135
+    "unigram_w2": 5115142,
+    "ppmi": 2.202135960821967
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "matemático",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 534,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 1426020,
-    "ppmi": 2.0166218292923914
+    "ppmi": 0.0
   },
   {
     "w1": "Aristóteles",

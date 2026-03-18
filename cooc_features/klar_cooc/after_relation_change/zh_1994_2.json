@@ -1,23 +1,23 @@
 [
   {
     "w1": "爱伦·坡",
-    "w2": "occupation",
+    "w2": "职业",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 73,
     "unigram_w1": 1179,
-    "unigram_w2": 1325,
-    "ppmi": 0.0
+    "unigram_w2": 1803717,
+    "ppmi": 1.0015225540752064
   },
   {
-    "w1": "occupation",
+    "w1": "职业",
     "w2": "剧作家",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 3,
-    "unigram_w1": 1325,
+    "cooc_count": 0,
+    "unigram_w1": 1803717,
     "unigram_w2": 12062,
-    "ppmi": 3.452591904076649
+    "ppmi": 0.0
   },
   {
     "w1": "爱伦·坡",

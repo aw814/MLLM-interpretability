@@ -1,21 +1,21 @@
 [
   {
     "w1": "פלנדריה המזרחית",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 5,
+    "cooc_count": 2,
     "unigram_w1": 15,
-    "unigram_w2": 90246,
-    "ppmi": 5.509670779281774
+    "unigram_w2": 4671,
+    "ppmi": 8.459802322563956
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "גנט",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 4444,
     "ppmi": 0.0
   },

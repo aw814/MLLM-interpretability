@@ -1,23 +1,23 @@
 [
   {
     "w1": "Janet Jackson",
-    "w2": "occupation",
+    "w2": "profession",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 195,
+    "cooc_count": 307,
     "unigram_w1": 32097,
-    "unigram_w2": 1178529,
-    "ppmi": 1.417538945335648
+    "unigram_w2": 4281581,
+    "ppmi": 0.21114711731692348
   },
   {
-    "w1": "occupation",
+    "w1": "profession",
     "w2": "mannequin",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 4621,
-    "unigram_w1": 1178529,
+    "cooc_count": 0,
+    "unigram_w1": 4281581,
     "unigram_w2": 1219913,
-    "ppmi": 0.7360020123045041
+    "ppmi": 0.0
   },
   {
     "w1": "Janet Jackson",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "ג'ון קולטריין",
-    "w2": "instrument",
+    "w2": "כלי נגינה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 33,
     "unigram_w1": 515,
-    "unigram_w2": 2401,
-    "ppmi": 4.318360337671671
+    "unigram_w2": 40631,
+    "ppmi": 4.281880893455969
   },
   {
-    "w1": "instrument",
+    "w1": "כלי נגינה",
     "w2": "קלרינט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 18,
-    "unigram_w1": 2401,
+    "cooc_count": 0,
+    "unigram_w1": 40631,
     "unigram_w2": 3618,
-    "ppmi": 4.6757372685633225
+    "ppmi": 0.0
   },
   {
     "w1": "ג'ון קולטריין",

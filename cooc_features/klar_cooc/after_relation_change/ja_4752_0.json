@@ -1,23 +1,23 @@
 [
   {
     "w1": "セリム1世",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 4,
+    "cooc_count": 264,
     "unigram_w1": 498,
-    "unigram_w2": 154360,
-    "ppmi": 3.184162887008565
+    "unigram_w2": 2412798,
+    "ppmi": 5.262220722620647
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "イスラム教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 3482,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 322468,
-    "ppmi": 3.6110688299934255
+    "ppmi": 0.0
   },
   {
     "w1": "セリム1世",

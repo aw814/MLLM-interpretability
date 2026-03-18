@@ -1,23 +1,23 @@
 [
   {
     "w1": "埃里克·克莱普顿",
-    "w2": "instrument",
+    "w2": "乐器",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 11,
     "unigram_w1": 95,
-    "unigram_w2": 3087,
-    "ppmi": 0.0
+    "unigram_w2": 101889,
+    "ppmi": 6.050524797768787
   },
   {
-    "w1": "instrument",
+    "w1": "乐器",
     "w2": "小提琴",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 77,
-    "unigram_w1": 3087,
+    "cooc_count": 0,
+    "unigram_w1": 101889,
     "unigram_w2": 48172,
-    "ppmi": 4.916477138255346
+    "ppmi": 0.0
   },
   {
     "w1": "埃里克·克莱普顿",

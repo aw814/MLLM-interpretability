@@ -1,23 +1,23 @@
 [
   {
     "w1": "클레멘스 폰 메테르니히",
-    "w2": "occupation",
+    "w2": "직업",
     "role1": "subject",
     "role2": "relation",
     "cooc_count": 0,
     "unigram_w1": 15,
-    "unigram_w2": 4640,
+    "unigram_w2": 133203,
     "ppmi": 0.0
   },
   {
-    "w1": "occupation",
+    "w1": "직업",
     "w2": "외교관",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 10,
-    "unigram_w1": 4640,
+    "cooc_count": 0,
+    "unigram_w1": 133203,
     "unigram_w2": 16058,
-    "ppmi": 1.0663296142486063
+    "ppmi": 0.0
   },
   {
     "w1": "클레멘스 폰 메테르니히",

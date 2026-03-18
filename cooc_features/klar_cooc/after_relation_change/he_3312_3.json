@@ -1,23 +1,23 @@
 [
   {
     "w1": "Windows Vista",
-    "w2": "manufacturer",
+    "w2": "יצרן",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 14,
+    "cooc_count": 202,
     "unigram_w1": 4210,
-    "unigram_w2": 5002,
-    "ppmi": 3.0356697098955436
+    "unigram_w2": 136290,
+    "ppmi": 2.1184954271054433
   },
   {
-    "w1": "manufacturer",
+    "w1": "יצרן",
     "w2": "מיקרוסופט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 30,
-    "unigram_w1": 5002,
+    "cooc_count": 0,
+    "unigram_w1": 136290,
     "unigram_w2": 55668,
-    "ppmi": 0.41024926982922433
+    "ppmi": 0.0
   },
   {
     "w1": "Windows Vista",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "Airbus A340",
-    "w2": "manufacturer",
+    "w2": "fabricant",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 42,
+    "cooc_count": 445,
     "unigram_w1": 12858,
-    "unigram_w2": 366427,
-    "ppmi": 2.207687800830274
+    "unigram_w2": 7210388,
+    "ppmi": 1.314552725890246
   },
   {
-    "w1": "manufacturer",
+    "w1": "fabricant",
     "w2": "Airbus",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2014,
-    "unigram_w1": 366427,
+    "cooc_count": 0,
+    "unigram_w1": 7210388,
     "unigram_w2": 713209,
-    "ppmi": 1.9976315985410789
+    "ppmi": 0.0
   },
   {
     "w1": "Airbus A340",

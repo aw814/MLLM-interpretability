@@ -1,21 +1,21 @@
 [
   {
     "w1": "אפיה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1352,
+    "cooc_count": 14,
     "unigram_w1": 33387,
-    "unigram_w2": 90246,
-    "ppmi": 2.4685138713540313
+    "unigram_w2": 4671,
+    "ppmi": 0.14704899529899604
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "סמואה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 2110,
     "ppmi": 0.0
   },

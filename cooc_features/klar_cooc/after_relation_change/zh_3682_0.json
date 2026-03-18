@@ -1,23 +1,23 @@
 [
   {
     "w1": "Microsoft Windows",
-    "w2": "developer",
+    "w2": "开发者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 82,
+    "cooc_count": 75,
     "unigram_w1": 5041,
-    "unigram_w2": 7846,
-    "ppmi": 6.917903713085068
+    "unigram_w2": 151522,
+    "ppmi": 2.517744265844727
   },
   {
-    "w1": "developer",
+    "w1": "开发者",
     "w2": "微软",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 306,
-    "unigram_w1": 7846,
+    "cooc_count": 0,
+    "unigram_w1": 151522,
     "unigram_w2": 226038,
-    "ppmi": 3.3310279864408114
+    "ppmi": 0.0
   },
   {
     "w1": "Microsoft Windows",

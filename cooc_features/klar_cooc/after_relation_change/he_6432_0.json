@@ -1,21 +1,21 @@
 [
   {
     "w1": "סאגה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 125,
+    "cooc_count": 9,
     "unigram_w1": 6309,
-    "unigram_w2": 90246,
-    "ppmi": 1.4372219292120814
+    "unigram_w2": 4671,
+    "ppmi": 1.9134222841618518
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "סאגה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 6309,
     "ppmi": 0.0
   },

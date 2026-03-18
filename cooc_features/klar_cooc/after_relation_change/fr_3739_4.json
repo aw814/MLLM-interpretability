@@ -1,23 +1,23 @@
 [
   {
     "w1": "Adobe InDesign",
-    "w2": "developer",
+    "w2": "développeur",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1304,
+    "cooc_count": 2632,
     "unigram_w1": 66367,
-    "unigram_w2": 364637,
-    "ppmi": 4.803363578301707
+    "unigram_w2": 1604332,
+    "ppmi": 3.6791393395286396
   },
   {
-    "w1": "developer",
+    "w1": "développeur",
     "w2": "Adobe",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 15561,
-    "unigram_w1": 364637,
+    "cooc_count": 0,
+    "unigram_w1": 1604332,
     "unigram_w2": 1324297,
-    "ppmi": 4.061665739116579
+    "ppmi": 0.0
   },
   {
     "w1": "Adobe InDesign",

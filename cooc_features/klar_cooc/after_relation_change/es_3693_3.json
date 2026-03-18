@@ -1,23 +1,23 @@
 [
   {
     "w1": "Microsoft Word",
-    "w2": "developer",
+    "w2": "desarrollador",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 4002,
+    "cooc_count": 6704,
     "unigram_w1": 292806,
-    "unigram_w2": 576918,
-    "ppmi": 4.3011225003933635
+    "unigram_w2": 1969708,
+    "ppmi": 3.27387989114257
   },
   {
-    "w1": "developer",
+    "w1": "desarrollador",
     "w2": "Microsoft",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 114642,
-    "unigram_w1": 576918,
+    "cooc_count": 0,
+    "unigram_w1": 1969708,
     "unigram_w2": 7210696,
-    "ppmi": 4.519271708572408
+    "ppmi": 0.0
   },
   {
     "w1": "Microsoft Word",

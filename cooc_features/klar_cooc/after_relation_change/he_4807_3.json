@@ -1,21 +1,21 @@
 [
   {
     "w1": "גוגל",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 11487,
+    "cooc_count": 5822,
     "unigram_w1": 184868,
-    "unigram_w2": 359554,
-    "ppmi": 1.0919381641239039
+    "unigram_w2": 221630,
+    "ppmi": 0.8095781234333994
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "חברת גוגל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 4201,
     "ppmi": 0.0
   },

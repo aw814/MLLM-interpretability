@@ -1,23 +1,23 @@
 [
   {
     "w1": "몽골 인민공화국",
-    "w2": "religion",
+    "w2": "종교",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 3,
     "unigram_w1": 22,
-    "unigram_w2": 15811,
-    "ppmi": 5.4872425923941055
+    "unigram_w2": 122521,
+    "ppmi": 4.118176567915304
   },
   {
-    "w1": "religion",
+    "w1": "종교",
     "w2": "불교",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 584,
-    "unigram_w1": 15811,
+    "cooc_count": 0,
+    "unigram_w1": 122521,
     "unigram_w2": 53928,
-    "ppmi": 3.4177518600103562
+    "ppmi": 0.0
   },
   {
     "w1": "몽골 인민공화국",

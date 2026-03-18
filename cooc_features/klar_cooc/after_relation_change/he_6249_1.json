@@ -1,21 +1,21 @@
 [
   {
     "w1": "מניטובה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 27,
+    "cooc_count": 9,
     "unigram_w1": 713,
-    "unigram_w2": 90246,
-    "ppmi": 2.37176251572251
+    "unigram_w2": 4671,
+    "ppmi": 5.0588596531709
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ויניפג",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 733,
     "ppmi": 0.0
   },

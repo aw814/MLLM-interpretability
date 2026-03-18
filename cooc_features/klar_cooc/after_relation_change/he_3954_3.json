@@ -1,21 +1,21 @@
 [
   {
     "w1": "סיינט פול",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 22,
+    "cooc_count": 3,
     "unigram_w1": 384,
-    "unigram_w2": 90246,
-    "ppmi": 2.969102397919071
+    "unigram_w2": 4671,
+    "ppmi": 4.3666929181724745
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "מינסוטה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 11330,
     "ppmi": 0.0
   },

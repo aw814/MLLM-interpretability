@@ -1,23 +1,23 @@
 [
   {
     "w1": "フィリップ・グラス",
-    "w2": "instrument",
+    "w2": "楽器",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 28,
+    "cooc_count": 1562,
     "unigram_w1": 4518,
-    "unigram_w2": 139628,
-    "ppmi": 2.954761856433502
+    "unigram_w2": 3145096,
+    "ppmi": 4.263141801747468
   },
   {
-    "w1": "instrument",
+    "w1": "楽器",
     "w2": "ピアノ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 6744,
-    "unigram_w1": 139628,
+    "cooc_count": 0,
+    "unigram_w1": 3145096,
     "unigram_w2": 2499778,
-    "ppmi": 1.7548957635076379
+    "ppmi": 0.0
   },
   {
     "w1": "フィリップ・グラス",

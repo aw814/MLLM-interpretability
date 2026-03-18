@@ -1,23 +1,23 @@
 [
   {
     "w1": "Johann Wolfgang von Goethe",
-    "w2": "occupation",
+    "w2": "ocupación",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 28,
+    "cooc_count": 736,
     "unigram_w1": 24844,
-    "unigram_w2": 77008,
-    "ppmi": 3.606233752331863
+    "unigram_w2": 5115142,
+    "ppmi": 2.26881863419937
   },
   {
-    "w1": "occupation",
+    "w1": "ocupación",
     "w2": "político",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8924,
-    "unigram_w1": 77008,
+    "cooc_count": 0,
+    "unigram_w1": 5115142,
     "unigram_w2": 22337462,
-    "ppmi": 2.1100015417658495
+    "ppmi": 0.0
   },
   {
     "w1": "Johann Wolfgang von Goethe",

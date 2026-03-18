@@ -1,23 +1,23 @@
 [
   {
     "w1": "トム・クルーズ",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 98,
+    "cooc_count": 5604,
     "unigram_w1": 73862,
-    "unigram_w2": 154360,
-    "ppmi": 0.5863299559619053
+    "unigram_w2": 2412798,
+    "ppmi": 2.457525068531144
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "サイエントロジー",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 164,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 7188,
-    "ppmi": 4.690342130184788
+    "ppmi": 0.0
   },
   {
     "w1": "トム・クルーズ",

@@ -1,21 +1,21 @@
 [
   {
     "w1": "סלובקיה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 582,
+    "cooc_count": 69,
     "unigram_w1": 14451,
-    "unigram_w2": 90246,
-    "ppmi": 2.4606269136030803
+    "unigram_w2": 4671,
+    "ppmi": 3.6563356656425103
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ברטיסלאבה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 1410,
     "ppmi": 0.0
   },

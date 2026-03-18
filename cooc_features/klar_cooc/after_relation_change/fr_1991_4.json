@@ -1,23 +1,23 @@
 [
   {
     "w1": "Justin Ier",
-    "w2": "occupation",
+    "w2": "profession",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 24,
+    "cooc_count": 42,
     "unigram_w1": 938,
-    "unigram_w2": 1178529,
-    "ppmi": 3.491877859075691
+    "unigram_w2": 4281581,
+    "ppmi": 2.4380764214940016
   },
   {
-    "w1": "occupation",
+    "w1": "profession",
     "w2": "personnalité politique",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 759,
-    "unigram_w1": 1178529,
+    "cooc_count": 0,
+    "unigram_w1": 4281581,
     "unigram_w2": 66574,
-    "ppmi": 2.3256443136849594
+    "ppmi": 0.0
   },
   {
     "w1": "Justin Ier",

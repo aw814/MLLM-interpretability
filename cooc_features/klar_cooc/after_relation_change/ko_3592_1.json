@@ -1,23 +1,23 @@
 [
   {
     "w1": "타슈켄트",
-    "w2": "continent",
+    "w2": "대륙",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 4,
+    "cooc_count": 63,
     "unigram_w1": 2411,
-    "unigram_w2": 2712,
-    "ppmi": 3.2547578087107376
+    "unigram_w2": 32790,
+    "ppmi": 3.6362109140665746
   },
   {
-    "w1": "continent",
+    "w1": "대륙",
     "w2": "아시아",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 178,
-    "unigram_w1": 2712,
+    "cooc_count": 0,
+    "unigram_w1": 32790,
     "unigram_w2": 363737,
-    "ppmi": 1.4933710139784397
+    "ppmi": 0.0
   },
   {
     "w1": "타슈켄트",

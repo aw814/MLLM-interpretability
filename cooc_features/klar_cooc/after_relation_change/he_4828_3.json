@@ -1,21 +1,21 @@
 [
   {
     "w1": "Google Earth",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 144,
+    "cooc_count": 80,
     "unigram_w1": 2003,
-    "unigram_w2": 359554,
-    "ppmi": 1.3023380095391284
+    "unigram_w2": 221630,
+    "ppmi": 1.1523963837422249
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "חברת גוגל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 4201,
     "ppmi": 0.0
   },

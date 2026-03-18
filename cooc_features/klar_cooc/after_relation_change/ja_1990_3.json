@@ -1,23 +1,23 @@
 [
   {
     "w1": "クレメンス・フォン・メッテルニヒ",
-    "w2": "occupation",
+    "w2": "職業",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 30,
     "unigram_w1": 174,
-    "unigram_w2": 62696,
-    "ppmi": 0.0
+    "unigram_w2": 3864310,
+    "ppmi": 2.9622719392425316
   },
   {
-    "w1": "occupation",
+    "w1": "職業",
     "w2": "外交官",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 542,
-    "unigram_w1": 62696,
+    "cooc_count": 0,
+    "unigram_w1": 3864310,
     "unigram_w2": 186704,
-    "ppmi": 3.0157741911354354
+    "ppmi": 0.0
   },
   {
     "w1": "クレメンス・フォン・メッテルニヒ",

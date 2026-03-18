@@ -1,21 +1,21 @@
 [
   {
     "w1": "ממלכת וסקס",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 8,
+    "cooc_count": 6,
     "unigram_w1": 86,
-    "unigram_w2": 90246,
-    "ppmi": 3.668368525300832
+    "unigram_w2": 4671,
+    "ppmi": 7.525390664191533
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "וינצ'סטר",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 590,
     "ppmi": 0.0
   },

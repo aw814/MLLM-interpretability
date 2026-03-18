@@ -1,23 +1,23 @@
 [
   {
     "w1": "אינטרנט אקספלורר",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 38,
+    "cooc_count": 308,
     "unigram_w1": 3197,
-    "unigram_w2": 7399,
-    "ppmi": 4.308518549195446
+    "unigram_w2": 304255,
+    "ppmi": 1.9655707136667555
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "מיקרוסופט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 665,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 55668,
-    "ppmi": 4.315743963349941
+    "ppmi": 0.0
   },
   {
     "w1": "אינטרנט אקספלורר",

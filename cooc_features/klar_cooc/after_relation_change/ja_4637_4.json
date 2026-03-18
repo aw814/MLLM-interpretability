@@ -1,23 +1,23 @@
 [
   {
     "w1": "ヤコブ",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 938,
+    "cooc_count": 25442,
     "unigram_w1": 120804,
-    "unigram_w2": 154360,
-    "ppmi": 3.135300231924148
+    "unigram_w2": 2412798,
+    "ppmi": 3.9304443007974945
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "ユダヤ教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2414,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 135896,
-    "ppmi": 4.329231313344681
+    "ppmi": 0.0
   },
   {
     "w1": "ヤコブ",

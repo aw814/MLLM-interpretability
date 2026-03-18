@@ -1,23 +1,23 @@
 [
   {
     "w1": "アルバニア人",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 60,
+    "cooc_count": 1950,
     "unigram_w1": 5948,
-    "unigram_w2": 154360,
-    "ppmi": 3.5128664826327456
+    "unigram_w2": 2412798,
+    "ppmi": 4.568898011914829
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "ムスリム",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1370,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 109488,
-    "ppmi": 3.8237117648912413
+    "ppmi": 0.0
   },
   {
     "w1": "アルバニア人",

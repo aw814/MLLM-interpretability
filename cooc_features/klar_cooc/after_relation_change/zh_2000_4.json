@@ -1,21 +1,21 @@
 [
   {
     "w1": "弗朗西斯·普朗克",
-    "w2": "occupation",
+    "w2": "职业",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 4,
     "unigram_w1": 29,
-    "unigram_w2": 1325,
-    "ppmi": 0.0
+    "unigram_w2": 1803717,
+    "ppmi": 2.1570650030473795
   },
   {
-    "w1": "occupation",
+    "w1": "职业",
     "w2": "钢琴家",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 1325,
+    "unigram_w1": 1803717,
     "unigram_w2": 16776,
     "ppmi": 0.0
   },

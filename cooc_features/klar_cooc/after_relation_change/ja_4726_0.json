@@ -1,23 +1,23 @@
 [
   {
     "w1": "マタイ",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 866,
+    "cooc_count": 44264,
     "unigram_w1": 132928,
-    "unigram_w2": 154360,
-    "ppmi": 2.882102532958723
+    "unigram_w2": 2412798,
+    "ppmi": 4.591389242928451
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "キリスト教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8718,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 922786,
-    "ppmi": 3.4183097165799863
+    "ppmi": 0.0
   },
   {
     "w1": "マタイ",

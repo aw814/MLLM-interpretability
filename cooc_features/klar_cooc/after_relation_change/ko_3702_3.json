@@ -1,23 +1,23 @@
 [
   {
     "w1": "심비안 OS",
-    "w2": "developer",
+    "w2": "개발자",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 9,
     "unigram_w1": 65,
-    "unigram_w2": 17565,
-    "ppmi": 4.77253143831142
+    "unigram_w2": 86172,
+    "ppmi": 4.647940847966159
   },
   {
-    "w1": "developer",
+    "w1": "개발자",
     "w2": "노키아",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 56,
-    "unigram_w1": 17565,
+    "cooc_count": 0,
+    "unigram_w1": 86172,
     "unigram_w2": 9050,
-    "ppmi": 2.458552096539548
+    "ppmi": 0.0
   },
   {
     "w1": "심비안 OS",

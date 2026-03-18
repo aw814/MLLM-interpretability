@@ -1,21 +1,21 @@
 [
   {
     "w1": "גוגל תרגום",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 31,
+    "cooc_count": 33,
     "unigram_w1": 1343,
-    "unigram_w2": 359554,
-    "ppmi": 0.0
+    "unigram_w2": 221630,
+    "ppmi": 0.4515655245985813
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "חברת גוגל",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 4201,
     "ppmi": 0.0
   },

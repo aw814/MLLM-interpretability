@@ -1,21 +1,21 @@
 [
   {
     "w1": "דגל פקיסטן",
-    "w2": "סמכות שיפוטית",
+    "w2": "משפטי",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 2,
     "unigram_w1": 22,
-    "unigram_w2": 1111,
-    "ppmi": 0.0
+    "unigram_w2": 231736,
+    "ppmi": 2.274654371778794
   },
   {
-    "w1": "סמכות שיפוטית",
+    "w1": "משפטי",
     "w2": "פקיסטן",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 1111,
+    "unigram_w1": 231736,
     "unigram_w2": 17466,
     "ppmi": 0.0
   },

@@ -1,21 +1,21 @@
 [
   {
     "w1": "ヒース・レジャー",
-    "w2": "occupation",
+    "w2": "職業",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 4,
+    "cooc_count": 700,
     "unigram_w1": 13210,
-    "unigram_w2": 62696,
-    "ppmi": 0.0
+    "unigram_w2": 3864310,
+    "ppmi": 1.2601931051808803
   },
   {
-    "w1": "occupation",
+    "w1": "職業",
     "w2": "俳優",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 710,
-    "unigram_w1": 62696,
+    "cooc_count": 0,
+    "unigram_w1": 3864310,
     "unigram_w2": 2760442,
     "ppmi": 0.0
   },

@@ -1,23 +1,23 @@
 [
   {
     "w1": "ゴア州",
-    "w2": "continent",
+    "w2": "大陸",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 186,
     "unigram_w1": 1806,
-    "unigram_w2": 48638,
-    "ppmi": 0.0
+    "unigram_w2": 1349992,
+    "ppmi": 3.736161448861433
   },
   {
-    "w1": "continent",
+    "w1": "大陸",
     "w2": "アジア",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 3016,
-    "unigram_w1": 48638,
+    "cooc_count": 0,
+    "unigram_w1": 1349992,
     "unigram_w2": 5079156,
-    "ppmi": 1.0925713154500045
+    "ppmi": 0.0
   },
   {
     "w1": "ゴア州",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "ラーマクリシュナ",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 38,
+    "cooc_count": 1180,
     "unigram_w1": 2708,
-    "unigram_w2": 154360,
-    "ppmi": 3.9890803089452347
+    "unigram_w2": 2412798,
+    "ppmi": 4.979387656004481
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "ヒンドゥー教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1032,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 63888,
-    "ppmi": 4.1921347178668515
+    "ppmi": 0.0
   },
   {
     "w1": "ラーマクリシュナ",

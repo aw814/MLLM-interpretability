@@ -1,23 +1,23 @@
 [
   {
     "w1": "ג'נט ג'קסון",
-    "w2": "occupation",
+    "w2": "עיסוק",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 11,
     "unigram_w1": 516,
-    "unigram_w2": 1821,
-    "ppmi": 0.0
+    "unigram_w2": 112457,
+    "ppmi": 1.2253990708233857
   },
   {
-    "w1": "occupation",
+    "w1": "עיסוק",
     "w2": "דוגמן",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2,
-    "unigram_w1": 1821,
+    "cooc_count": 0,
+    "unigram_w1": 112457,
     "unigram_w2": 5950,
-    "ppmi": 1.1870194879131615
+    "ppmi": 0.0
   },
   {
     "w1": "ג'נט ג'קסון",

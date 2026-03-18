@@ -1,23 +1,23 @@
 [
   {
     "w1": "George Enescu",
-    "w2": "instrument",
+    "w2": "instrumento",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 8,
+    "cooc_count": 492,
     "unigram_w1": 5244,
-    "unigram_w2": 296558,
-    "ppmi": 2.0978026553226155
+    "unigram_w2": 8304280,
+    "ppmi": 3.23284826781693
   },
   {
-    "w1": "instrument",
+    "w1": "instrumento",
     "w2": "violín",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 6394,
-    "unigram_w1": 296558,
+    "cooc_count": 0,
+    "unigram_w1": 8304280,
     "unigram_w2": 1122960,
-    "ppmi": 3.997882545356061
+    "ppmi": 0.0
   },
   {
     "w1": "George Enescu",

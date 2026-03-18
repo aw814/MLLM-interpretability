@@ -1,21 +1,21 @@
 [
   {
     "w1": "פארק דה פראנס",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 9,
+    "cooc_count": 3,
     "unigram_w1": 160,
-    "unigram_w2": 359554,
-    "ppmi": 0.9483566204644739
+    "unigram_w2": 221630,
+    "ppmi": 0.06144940050136413
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "פריז",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 77658,
     "ppmi": 0.0
   },

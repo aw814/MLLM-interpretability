@@ -1,23 +1,23 @@
 [
   {
     "w1": "Bob Dylan",
-    "w2": "instrument",
+    "w2": "instrumento",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 566,
+    "cooc_count": 20424,
     "unigram_w1": 396796,
-    "unigram_w2": 296558,
-    "ppmi": 2.000874911584739
+    "unigram_w2": 8304280,
+    "ppmi": 2.3667255983150506
   },
   {
-    "w1": "instrument",
+    "w1": "instrumento",
     "w2": "armónica",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 3476,
-    "unigram_w1": 296558,
+    "cooc_count": 0,
+    "unigram_w1": 8304280,
     "unigram_w2": 862254,
-    "ppmi": 3.499713601551831
+    "ppmi": 0.0
   },
   {
     "w1": "Bob Dylan",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "אונג סן סו צ'י",
-    "w2": "religion",
+    "w2": "דת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 24,
     "unigram_w1": 232,
-    "unigram_w2": 5024,
-    "ppmi": 4.403606903953469
+    "unigram_w2": 177887,
+    "ppmi": 2.8425885969719493
   },
   {
-    "w1": "religion",
+    "w1": "דת",
     "w2": "בודהיזם",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 146,
-    "unigram_w1": 5024,
+    "cooc_count": 0,
+    "unigram_w1": 177887,
     "unigram_w2": 12414,
-    "ppmi": 4.851732027379892
+    "ppmi": 0.0
   },
   {
     "w1": "אונג סן סו צ'י",

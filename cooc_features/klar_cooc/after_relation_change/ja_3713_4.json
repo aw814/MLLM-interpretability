@@ -1,23 +1,23 @@
 [
   {
     "w1": "Gmail",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 6186,
+    "cooc_count": 16404,
     "unigram_w1": 279858,
-    "unigram_w2": 270510,
-    "ppmi": 3.8352374951760444
+    "unigram_w2": 1030292,
+    "ppmi": 3.31290696148936
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 72998,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 4618040,
-    "ppmi": 3.351501919071128
+    "ppmi": 0.0
   },
   {
     "w1": "Gmail",

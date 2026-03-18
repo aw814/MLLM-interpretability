@@ -1,21 +1,21 @@
 [
   {
     "w1": "שווייץ",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 517,
+    "cooc_count": 77,
     "unigram_w1": 18822,
-    "unigram_w2": 90246,
-    "ppmi": 1.9085214357531053
+    "unigram_w2": 4671,
+    "ppmi": 3.433347144302617
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ברן",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 8675,
     "ppmi": 0.0
   },

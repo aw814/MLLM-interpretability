@@ -1,23 +1,23 @@
 [
   {
     "w1": "אדגר אלן פו",
-    "w2": "occupation",
+    "w2": "עיסוק",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 65,
     "unigram_w1": 1747,
-    "unigram_w2": 1821,
-    "ppmi": 0.0
+    "unigram_w2": 112457,
+    "ppmi": 2.0288986277210377
   },
   {
-    "w1": "occupation",
+    "w1": "עיסוק",
     "w2": "מחזאי",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8,
-    "unigram_w1": 1821,
+    "cooc_count": 0,
+    "unigram_w1": 112457,
     "unigram_w2": 8417,
-    "ppmi": 2.686603038997226
+    "ppmi": 0.0
   },
   {
     "w1": "אדגר אלן פו",

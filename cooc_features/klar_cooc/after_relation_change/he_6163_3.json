@@ -1,21 +1,21 @@
 [
   {
     "w1": "ממלכת צרפת",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 22,
+    "cooc_count": 15,
     "unigram_w1": 400,
-    "unigram_w2": 90246,
-    "ppmi": 2.910208708865502
+    "unigram_w2": 4671,
+    "ppmi": 6.629727324006269
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "פריז",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 77658,
     "ppmi": 0.0
   },

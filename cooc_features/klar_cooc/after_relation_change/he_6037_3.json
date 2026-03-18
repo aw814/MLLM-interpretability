@@ -1,21 +1,21 @@
 [
   {
     "w1": "דגל יוון",
-    "w2": "סמכות שיפוטית",
+    "w2": "משפטי",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 5,
     "unigram_w1": 146,
-    "unigram_w2": 1111,
-    "ppmi": 6.248740987703559
+    "unigram_w2": 231736,
+    "ppmi": 0.8661895264234362
   },
   {
-    "w1": "סמכות שיפוטית",
+    "w1": "משפטי",
     "w2": "יוון",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 1111,
+    "unigram_w1": 231736,
     "unigram_w2": 79376,
     "ppmi": 0.0
   },

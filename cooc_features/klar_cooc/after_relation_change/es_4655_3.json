@@ -1,23 +1,23 @@
 [
   {
     "w1": "David",
-    "w2": "religion",
+    "w2": "religión",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 92636,
+    "cooc_count": 521312,
     "unigram_w1": 21247000,
-    "unigram_w2": 979024,
-    "ppmi": 1.8897542119675128
+    "unigram_w2": 6695822,
+    "ppmi": 1.60841137263208
   },
   {
-    "w1": "religion",
+    "w1": "religión",
     "w2": "judaísmo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 19830,
-    "unigram_w1": 979024,
+    "cooc_count": 0,
+    "unigram_w1": 6695822,
     "unigram_w2": 455362,
-    "ppmi": 5.209967368670372
+    "ppmi": 0.0
   },
   {
     "w1": "David",

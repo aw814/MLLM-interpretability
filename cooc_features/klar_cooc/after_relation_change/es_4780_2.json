@@ -1,23 +1,23 @@
 [
   {
     "w1": "George Gershwin",
-    "w2": "instrument",
+    "w2": "instrumento",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 148,
+    "cooc_count": 3396,
     "unigram_w1": 28362,
-    "unigram_w2": 296558,
-    "ppmi": 3.872036341093514
+    "unigram_w2": 8304280,
+    "ppmi": 3.5847348261726775
   },
   {
-    "w1": "instrument",
+    "w1": "instrumento",
     "w2": "piano",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 25102,
-    "unigram_w1": 296558,
+    "cooc_count": 0,
+    "unigram_w1": 8304280,
     "unigram_w2": 4426392,
-    "ppmi": 3.992069529692425
+    "ppmi": 0.0
   },
   {
     "w1": "George Gershwin",

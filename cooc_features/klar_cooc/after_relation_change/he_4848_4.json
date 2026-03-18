@@ -1,21 +1,21 @@
 [
   {
     "w1": "סטאדיו דלה אלפי",
-    "w2": "בעלות",
+    "w2": "שייך",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 2,
     "unigram_w1": 16,
-    "unigram_w2": 359554,
-    "ppmi": 0.0
+    "unigram_w2": 221630,
+    "ppmi": 2.7984149946675703
   },
   {
-    "w1": "בעלות",
+    "w1": "שייך",
     "w2": "טורינו",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 359554,
+    "unigram_w1": 221630,
     "unigram_w2": 8824,
     "ppmi": 0.0
   },

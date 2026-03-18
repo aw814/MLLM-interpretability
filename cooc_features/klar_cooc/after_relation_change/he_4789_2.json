@@ -1,23 +1,23 @@
 [
   {
     "w1": "ג'ורג'ה אנסקו",
-    "w2": "instrument",
+    "w2": "כלי נגינה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 3,
     "unigram_w1": 96,
-    "unigram_w2": 2401,
-    "ppmi": 0.0
+    "unigram_w2": 40631,
+    "ppmi": 3.245915396168096
   },
   {
-    "w1": "instrument",
+    "w1": "כלי נגינה",
     "w2": "כינור",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 59,
-    "unigram_w1": 2401,
+    "cooc_count": 0,
+    "unigram_w1": 40631,
     "unigram_w2": 17033,
-    "ppmi": 4.153387072168822
+    "ppmi": 0.0
   },
   {
     "w1": "ג'ורג'ה אנסקו",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "ナイル川",
-    "w2": "continent",
+    "w2": "大陸",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 60,
+    "cooc_count": 5010,
     "unigram_w1": 26306,
-    "unigram_w2": 48638,
-    "ppmi": 3.0340942788669487
+    "unigram_w2": 1349992,
+    "ppmi": 4.6230754298391705
   },
   {
-    "w1": "continent",
+    "w1": "大陸",
     "w2": "アフリカ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2966,
-    "unigram_w1": 48638,
+    "cooc_count": 0,
+    "unigram_w1": 1349992,
     "unigram_w2": 1832838,
-    "ppmi": 2.5389629945862024
+    "ppmi": 0.0
   },
   {
     "w1": "ナイル川",

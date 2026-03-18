@@ -1,23 +1,23 @@
 [
   {
     "w1": "엑스박스 360",
-    "w2": "developer",
+    "w2": "개발자",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 6,
+    "cooc_count": 50,
     "unigram_w1": 465,
-    "unigram_w2": 17565,
-    "ppmi": 3.5187748460656363
+    "unigram_w2": 86172,
+    "ppmi": 4.283152943331632
   },
   {
-    "w1": "developer",
+    "w1": "개발자",
     "w2": "마이크로소프트",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 579,
-    "unigram_w1": 17565,
+    "cooc_count": 0,
+    "unigram_w1": 86172,
     "unigram_w2": 49118,
-    "ppmi": 3.388354591922241
+    "ppmi": 0.0
   },
   {
     "w1": "엑스박스 360",

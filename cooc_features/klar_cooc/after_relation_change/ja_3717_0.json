@@ -1,23 +1,23 @@
 [
   {
     "w1": "Windows Media Player",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 812,
+    "cooc_count": 2536,
     "unigram_w1": 39618,
-    "unigram_w2": 270510,
-    "ppmi": 3.7262493264712027
+    "unigram_w2": 1030292,
+    "ppmi": 3.4399529955007977
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "マイクロソフト",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 15308,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 865310,
-    "ppmi": 3.513922476511051
+    "ppmi": 0.0
   },
   {
     "w1": "Windows Media Player",

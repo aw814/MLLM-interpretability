@@ -1,23 +1,23 @@
 [
   {
     "w1": "macOS",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 72,
+    "cooc_count": 361,
     "unigram_w1": 3026,
-    "unigram_w2": 7399,
-    "ppmi": 5.309822793757956
+    "unigram_w2": 304255,
+    "ppmi": 2.273945956422808
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "אפל",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 231,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 110303,
-    "ppmi": 1.803730601903592
+    "ppmi": 0.0
   },
   {
     "w1": "macOS",

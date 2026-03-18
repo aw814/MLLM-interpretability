@@ -1,23 +1,23 @@
 [
   {
     "w1": "高棉帝国",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 26,
     "unigram_w1": 105,
-    "unigram_w2": 2023,
-    "ppmi": 0.0
+    "unigram_w2": 372493,
+    "ppmi": 5.2769279793192885
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "印度教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 44,
-    "unigram_w1": 2023,
+    "cooc_count": 0,
+    "unigram_w1": 372493,
     "unigram_w2": 18788,
-    "ppmi": 6.077214703374671
+    "ppmi": 0.0
   },
   {
     "w1": "高棉帝国",

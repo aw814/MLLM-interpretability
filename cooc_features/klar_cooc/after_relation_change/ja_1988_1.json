@@ -1,23 +1,23 @@
 [
   {
     "w1": "カズオ・イシグロ",
-    "w2": "occupation",
+    "w2": "職業",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 10,
+    "cooc_count": 1540,
     "unigram_w1": 16096,
-    "unigram_w2": 62696,
-    "ppmi": 0.7915319659074204
+    "unigram_w2": 3864310,
+    "ppmi": 2.112624885259478
   },
   {
-    "w1": "occupation",
+    "w1": "職業",
     "w2": "小説家",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 224,
-    "unigram_w1": 62696,
+    "cooc_count": 0,
+    "unigram_w1": 3864310,
     "unigram_w2": 461202,
-    "ppmi": 0.4363341392038187
+    "ppmi": 0.0
   },
   {
     "w1": "カズオ・イシグロ",

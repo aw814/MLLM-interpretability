@@ -1,23 +1,23 @@
 [
   {
     "w1": "פריז",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 95,
+    "cooc_count": 1694,
     "unigram_w1": 77658,
-    "unigram_w2": 2719,
-    "ppmi": 2.4723568880959
+    "unigram_w2": 28556,
+    "ppmi": 3.2360735884854748
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אירופה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 896,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 344826,
-    "ppmi": 3.5591941013339996
+    "ppmi": 0.0
   },
   {
     "w1": "פריז",

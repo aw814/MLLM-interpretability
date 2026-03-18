@@ -1,23 +1,23 @@
 [
   {
     "w1": "奥匈帝国",
-    "w2": "continent",
+    "w2": "大陆",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2,
+    "cooc_count": 209,
     "unigram_w1": 2589,
-    "unigram_w2": 1361,
-    "ppmi": 5.048956966149339
+    "unigram_w2": 1055751,
+    "ppmi": 2.1569292667594766
   },
   {
-    "w1": "continent",
+    "w1": "大陆",
     "w2": "欧洲",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 133,
-    "unigram_w1": 1361,
+    "cooc_count": 0,
+    "unigram_w1": 1055751,
     "unigram_w2": 1834429,
-    "ppmi": 1.635519014832779
+    "ppmi": 0.0
   },
   {
     "w1": "奥匈帝国",

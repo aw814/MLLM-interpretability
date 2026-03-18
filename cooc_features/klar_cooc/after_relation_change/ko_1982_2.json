@@ -1,21 +1,21 @@
 [
   {
     "w1": "에마뉘엘 샤브리에",
-    "w2": "occupation",
+    "w2": "직업",
     "role1": "subject",
     "role2": "relation",
     "cooc_count": 0,
     "unigram_w1": 5,
-    "unigram_w2": 4640,
+    "unigram_w2": 133203,
     "ppmi": 0.0
   },
   {
-    "w1": "occupation",
+    "w1": "직업",
     "w2": "작곡가",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 6,
-    "unigram_w1": 4640,
+    "cooc_count": 0,
+    "unigram_w1": 133203,
     "unigram_w2": 40926,
     "ppmi": 0.0
   },

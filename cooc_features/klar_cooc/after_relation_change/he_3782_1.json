@@ -1,21 +1,21 @@
 [
   {
     "w1": "הוואנה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 261,
+    "cooc_count": 27,
     "unigram_w1": 4170,
-    "unigram_w2": 90246,
-    "ppmi": 3.0967076082407883
+    "unigram_w2": 4671,
+    "ppmi": 4.095748752003917
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "קובה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 24750,
     "ppmi": 0.0
   },

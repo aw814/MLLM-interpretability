@@ -1,21 +1,21 @@
 [
   {
     "w1": "קולורדו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 294,
+    "cooc_count": 37,
     "unigram_w1": 9437,
-    "unigram_w2": 90246,
-    "ppmi": 2.0901930370512978
+    "unigram_w2": 4671,
+    "ppmi": 3.3720336960134283
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "דנוור",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 2766,
     "ppmi": 0.0
   },

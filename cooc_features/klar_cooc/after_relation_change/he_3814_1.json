@@ -1,21 +1,21 @@
 [
   {
     "w1": "טורינו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 203,
+    "cooc_count": 25,
     "unigram_w1": 8824,
-    "unigram_w2": 90246,
-    "ppmi": 1.6527521215967234
+    "unigram_w2": 4671,
+    "ppmi": 2.903332032355817
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "פיימונטה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 1306,
     "ppmi": 0.0
   },

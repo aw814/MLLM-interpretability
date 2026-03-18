@@ -1,21 +1,21 @@
 [
   {
     "w1": "הולנד",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2380,
+    "cooc_count": 269,
     "unigram_w1": 70385,
-    "unigram_w2": 90246,
-    "ppmi": 2.2083987549479174
+    "unigram_w2": 4671,
+    "ppmi": 3.3351748974787805
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "אמסטרדם",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 30619,
     "ppmi": 0.0
   },

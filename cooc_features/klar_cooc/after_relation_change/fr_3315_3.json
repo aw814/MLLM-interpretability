@@ -1,23 +1,23 @@
 [
   {
     "w1": "Airbus A350 XWB",
-    "w2": "manufacturer",
+    "w2": "fabricant",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 30,
+    "cooc_count": 72,
     "unigram_w1": 1845,
-    "unigram_w2": 366427,
-    "ppmi": 4.523234508109978
+    "unigram_w2": 7210388,
+    "ppmi": 1.4877897359287438
   },
   {
-    "w1": "manufacturer",
+    "w1": "fabricant",
     "w2": "Airbus",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2014,
-    "unigram_w1": 366427,
+    "cooc_count": 0,
+    "unigram_w1": 7210388,
     "unigram_w2": 713209,
-    "ppmi": 1.9976315985410789
+    "ppmi": 0.0
   },
   {
     "w1": "Airbus A350 XWB",

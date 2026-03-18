@@ -1,23 +1,23 @@
 [
   {
     "w1": "雅各",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 16,
+    "cooc_count": 1378,
     "unigram_w1": 23398,
-    "unigram_w2": 2023,
-    "ppmi": 4.301209366175326
+    "unigram_w2": 372493,
+    "ppmi": 3.204996354728775
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "犹太教",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 30,
-    "unigram_w1": 2023,
+    "cooc_count": 0,
+    "unigram_w1": 372493,
     "unigram_w2": 6940,
-    "ppmi": 6.961477611138057
+    "ppmi": 0.0
   },
   {
     "w1": "雅各",

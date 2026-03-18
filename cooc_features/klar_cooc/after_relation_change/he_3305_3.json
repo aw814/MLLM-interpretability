@@ -1,23 +1,23 @@
 [
   {
     "w1": "ב.מ.וו X3",
-    "w2": "manufacturer",
+    "w2": "יצרן",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 79,
     "unigram_w1": 492,
-    "unigram_w2": 5002,
-    "ppmi": 2.3254048004524583
+    "unigram_w2": 136290,
+    "ppmi": 3.8611547051452697
   },
   {
-    "w1": "manufacturer",
+    "w1": "יצרן",
     "w2": "BMW",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 434,
-    "unigram_w1": 5002,
+    "cooc_count": 0,
+    "unigram_w1": 136290,
     "unigram_w2": 11672,
-    "ppmi": 6.518706370318286
+    "ppmi": 0.0
   },
   {
     "w1": "ב.מ.וו X3",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "Gmail",
-    "w2": "developer",
+    "w2": "desarrollador",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 11600,
+    "cooc_count": 30548,
     "unigram_w1": 1595850,
-    "unigram_w2": 576918,
-    "ppmi": 3.390146201695691
+    "unigram_w2": 1969708,
+    "ppmi": 3.0155557341302015
   },
   {
-    "w1": "developer",
+    "w1": "desarrollador",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 134526,
-    "unigram_w1": 576918,
+    "cooc_count": 0,
+    "unigram_w1": 1969708,
     "unigram_w2": 23267268,
-    "ppmi": 3.0599296589303884
+    "ppmi": 0.0
   },
   {
     "w1": "Gmail",

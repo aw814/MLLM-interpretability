@@ -1,23 +1,23 @@
 [
   {
     "w1": "Mike Shinoda",
-    "w2": "instrument",
+    "w2": "instrumento",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 8,
+    "cooc_count": 284,
     "unigram_w1": 10416,
-    "unigram_w2": 296558,
-    "ppmi": 1.1077408923787346
+    "unigram_w2": 8304280,
+    "ppmi": 1.4500191190384915
   },
   {
-    "w1": "instrument",
+    "w1": "instrumento",
     "w2": "guitarra",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 19478,
-    "unigram_w1": 296558,
+    "cooc_count": 0,
+    "unigram_w1": 8304280,
     "unigram_w2": 5658162,
-    "ppmi": 3.271910501520953
+    "ppmi": 0.0
   },
   {
     "w1": "Mike Shinoda",

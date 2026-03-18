@@ -1,23 +1,23 @@
 [
   {
     "w1": "הונג קונג",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 36,
+    "cooc_count": 2512,
     "unigram_w1": 41139,
-    "unigram_w2": 2719,
-    "ppmi": 1.989054108343873
+    "unigram_w2": 28556,
+    "ppmi": 4.721104005181512
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אסיה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1012,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 100491,
-    "ppmi": 5.513635013157295
+    "ppmi": 0.0
   },
   {
     "w1": "הונג קונג",

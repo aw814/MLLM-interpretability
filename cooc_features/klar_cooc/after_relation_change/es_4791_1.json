@@ -1,23 +1,23 @@
 [
   {
     "w1": "Tomaso Albinoni",
-    "w2": "instrument",
+    "w2": "instrumento",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 24,
+    "cooc_count": 452,
     "unigram_w1": 2610,
-    "unigram_w2": 296558,
-    "ppmi": 4.689383034808279
+    "unigram_w2": 8304280,
+    "ppmi": 4.117130603657386
   },
   {
-    "w1": "instrument",
+    "w1": "instrumento",
     "w2": "violín",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 6394,
-    "unigram_w1": 296558,
+    "cooc_count": 0,
+    "unigram_w1": 8304280,
     "unigram_w2": 1122960,
-    "ppmi": 3.997882545356061
+    "ppmi": 0.0
   },
   {
     "w1": "Tomaso Albinoni",

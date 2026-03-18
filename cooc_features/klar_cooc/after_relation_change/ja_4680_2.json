@@ -1,23 +1,23 @@
 [
   {
     "w1": "カトリック教会",
-    "w2": "religion",
+    "w2": "宗教",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1476,
+    "cooc_count": 46036,
     "unigram_w1": 96444,
-    "unigram_w2": 154360,
-    "ppmi": 4.1142379578523505
+    "unigram_w2": 2412798,
+    "ppmi": 5.11089953287092
   },
   {
-    "w1": "religion",
+    "w1": "宗教",
     "w2": "カトリシズム",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 168,
-    "unigram_w1": 154360,
+    "cooc_count": 0,
+    "unigram_w1": 2412798,
     "unigram_w2": 3134,
-    "ppmi": 5.922692777382826
+    "ppmi": 0.0
   },
   {
     "w1": "カトリック教会",

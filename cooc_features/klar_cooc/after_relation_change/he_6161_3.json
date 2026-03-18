@@ -1,21 +1,21 @@
 [
   {
     "w1": "הרפובליקה הפולנית השנייה",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 17,
+    "cooc_count": 12,
     "unigram_w1": 347,
-    "unigram_w2": 90246,
-    "ppmi": 2.743304268675008
+    "unigram_w2": 4671,
+    "ppmi": 6.51286356631537
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "ורשה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 26058,
     "ppmi": 0.0
   },

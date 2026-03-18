@@ -1,23 +1,23 @@
 [
   {
     "w1": "Google+ ハングアウト",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 74,
+    "cooc_count": 442,
     "unigram_w1": 5792,
-    "unigram_w2": 270510,
-    "ppmi": 3.0443893191656404
+    "unigram_w2": 1030292,
+    "ppmi": 3.693539069003486
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 72998,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 4618040,
-    "ppmi": 3.351501919071128
+    "ppmi": 0.0
   },
   {
     "w1": "Google+ ハングアウト",

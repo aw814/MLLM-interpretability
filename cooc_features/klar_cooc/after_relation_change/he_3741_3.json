@@ -1,23 +1,23 @@
 [
   {
     "w1": "מיקרו-בקר 8051",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 1,
     "unigram_w1": 5,
-    "unigram_w2": 7399,
-    "ppmi": 0.0
+    "unigram_w2": 304255,
+    "ppmi": 3.019359106865012
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "אינטל",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 141,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 31993,
-    "ppmi": 2.8771767563319224
+    "ppmi": 0.0
   },
   {
     "w1": "מיקרו-בקר 8051",

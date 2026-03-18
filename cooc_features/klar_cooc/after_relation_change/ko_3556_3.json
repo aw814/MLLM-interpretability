@@ -1,23 +1,23 @@
 [
   {
     "w1": "빈슨 산괴",
-    "w2": "continent",
+    "w2": "대륙",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 4,
     "unigram_w1": 9,
-    "unigram_w2": 2712,
-    "ppmi": 0.0
+    "unigram_w2": 32790,
+    "ppmi": 7.724421924726872
   },
   {
-    "w1": "continent",
+    "w1": "대륙",
     "w2": "남극",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 35,
-    "unigram_w1": 2712,
+    "cooc_count": 0,
+    "unigram_w1": 32790,
     "unigram_w2": 11106,
-    "ppmi": 4.1804050806665
+    "ppmi": 0.0
   },
   {
     "w1": "빈슨 산괴",

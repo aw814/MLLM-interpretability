@@ -1,23 +1,23 @@
 [
   {
     "w1": "אנגולה",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 11,
+    "cooc_count": 222,
     "unigram_w1": 4380,
-    "unigram_w2": 2719,
-    "ppmi": 3.5100646760966696
+    "unigram_w2": 28556,
+    "ppmi": 4.452403073197803
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אפריקה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 332,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 150565,
-    "ppmi": 3.322360725507376
+    "ppmi": 0.0
   },
   {
     "w1": "אנגולה",

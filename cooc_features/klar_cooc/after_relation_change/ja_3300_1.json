@@ -1,21 +1,21 @@
 [
   {
     "w1": "Apple I",
-    "w2": "manufacturer",
+    "w2": "製造元",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 128,
+    "cooc_count": 20,
     "unigram_w1": 4832,
-    "unigram_w2": 212080,
-    "ppmi": 4.447450453425563
+    "unigram_w2": 444476,
+    "ppmi": 0.7018816024739218
   },
   {
-    "w1": "manufacturer",
+    "w1": "製造元",
     "w2": "アップル",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1236,
-    "unigram_w1": 212080,
+    "cooc_count": 0,
+    "unigram_w1": 444476,
     "unigram_w2": 1680756,
     "ppmi": 0.0
   },

@@ -1,21 +1,21 @@
 [
   {
     "w1": "约翰·沃尔夫冈·冯·歌德",
-    "w2": "occupation",
+    "w2": "职业",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 4,
     "unigram_w1": 81,
-    "unigram_w2": 1325,
-    "ppmi": 0.0
+    "unigram_w2": 1803717,
+    "ppmi": 0.6751959952903271
   },
   {
-    "w1": "occupation",
+    "w1": "职业",
     "w2": "政治人物",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 1325,
+    "unigram_w1": 1803717,
     "unigram_w2": 24161,
     "ppmi": 0.0
   },

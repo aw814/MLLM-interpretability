@@ -1,23 +1,23 @@
 [
   {
     "w1": "Nintendo 3DS",
-    "w2": "developer",
+    "w2": "desarrollador",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1156,
+    "cooc_count": 10254,
     "unigram_w1": 406696,
-    "unigram_w2": 576918,
-    "ppmi": 2.035537046280027
+    "unigram_w2": 1969708,
+    "ppmi": 3.4129669551322404
   },
   {
-    "w1": "developer",
+    "w1": "desarrollador",
     "w2": "Nintendo",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 15068,
-    "unigram_w1": 576918,
+    "cooc_count": 0,
+    "unigram_w1": 1969708,
     "unigram_w2": 2868194,
-    "ppmi": 2.9216917793920114
+    "ppmi": 0.0
   },
   {
     "w1": "Nintendo 3DS",

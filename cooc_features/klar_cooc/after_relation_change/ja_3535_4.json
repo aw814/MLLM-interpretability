@@ -1,23 +1,23 @@
 [
   {
     "w1": "カラハリ砂漠",
-    "w2": "continent",
+    "w2": "大陸",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 22,
+    "cooc_count": 766,
     "unigram_w1": 3176,
-    "unigram_w2": 48638,
-    "ppmi": 4.636744378230429
+    "unigram_w2": 1349992,
+    "ppmi": 4.963790200016259
   },
   {
-    "w1": "continent",
+    "w1": "大陸",
     "w2": "アフリカ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 2966,
-    "unigram_w1": 48638,
+    "cooc_count": 0,
+    "unigram_w1": 1349992,
     "unigram_w2": 1832838,
-    "ppmi": 2.5389629945862024
+    "ppmi": 0.0
   },
   {
     "w1": "カラハリ砂漠",

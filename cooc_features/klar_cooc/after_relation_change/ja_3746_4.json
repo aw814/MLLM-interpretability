@@ -1,23 +1,23 @@
 [
   {
     "w1": "Windows Mobile",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2304,
+    "cooc_count": 5454,
     "unigram_w1": 37714,
-    "unigram_w2": 270510,
-    "ppmi": 5.3018942896485575
+    "unigram_w2": 1030292,
+    "ppmi": 4.615768829196872
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "マイクロソフト",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 15308,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 865310,
-    "ppmi": 3.513922476511051
+    "ppmi": 0.0
   },
   {
     "w1": "Windows Mobile",

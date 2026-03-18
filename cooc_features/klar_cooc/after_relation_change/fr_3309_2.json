@@ -1,23 +1,23 @@
 [
   {
     "w1": "Ferrari LaFerrari",
-    "w2": "manufacturer",
+    "w2": "fabricant",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 38,
+    "cooc_count": 831,
     "unigram_w1": 11520,
-    "unigram_w2": 366427,
-    "ppmi": 2.2218234305631284
+    "unigram_w2": 7210388,
+    "ppmi": 2.3741214058748596
   },
   {
-    "w1": "manufacturer",
+    "w1": "fabricant",
     "w2": "Ferrari",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 3443,
-    "unigram_w1": 366427,
+    "cooc_count": 0,
+    "unigram_w1": 7210388,
     "unigram_w2": 1401832,
-    "ppmi": 1.796317447143606
+    "ppmi": 0.0
   },
   {
     "w1": "Ferrari LaFerrari",

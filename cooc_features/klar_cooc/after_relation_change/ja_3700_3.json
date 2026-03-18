@@ -1,23 +1,23 @@
 [
   {
     "w1": "Intel Core 2",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 442,
+    "cooc_count": 790,
     "unigram_w1": 14804,
-    "unigram_w2": 270510,
-    "ppmi": 4.2689849797111075
+    "unigram_w2": 1030292,
+    "ppmi": 3.1774918194595045
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "インテル",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 4030,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 444178,
-    "ppmi": 2.5505675511865173
+    "ppmi": 0.0
   },
   {
     "w1": "Intel Core 2",

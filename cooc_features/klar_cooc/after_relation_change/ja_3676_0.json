@@ -1,23 +1,23 @@
 [
   {
     "w1": "Safari",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 13940,
+    "cooc_count": 33590,
     "unigram_w1": 544158,
-    "unigram_w2": 270510,
-    "ppmi": 4.0480586982565585
+    "unigram_w2": 1030292,
+    "ppmi": 3.3875604886979973
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "アップル",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8810,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 1680756,
-    "ppmi": 1.7590292753601282
+    "ppmi": 0.0
   },
   {
     "w1": "Safari",

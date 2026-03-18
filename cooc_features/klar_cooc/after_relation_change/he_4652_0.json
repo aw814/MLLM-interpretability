@@ -1,23 +1,23 @@
 [
   {
     "w1": "אברהם",
-    "w2": "religion",
+    "w2": "דת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 774,
+    "cooc_count": 26900,
     "unigram_w1": 397869,
-    "unigram_w2": 5024,
-    "ppmi": 2.255843685095873
+    "unigram_w2": 177887,
+    "ppmi": 2.228991673580136
   },
   {
-    "w1": "religion",
+    "w1": "דת",
     "w2": "יהדות",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 898,
-    "unigram_w1": 5024,
+    "cooc_count": 0,
+    "unigram_w1": 177887,
     "unigram_w2": 185989,
-    "ppmi": 3.5673017612495532
+    "ppmi": 0.0
   },
   {
     "w1": "אברהם",

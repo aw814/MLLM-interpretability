@@ -1,23 +1,23 @@
 [
   {
     "w1": "ジャレッド・レト",
-    "w2": "instrument",
+    "w2": "楽器",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 150,
     "unigram_w1": 5700,
-    "unigram_w2": 139628,
-    "ppmi": 0.0
+    "unigram_w2": 3145096,
+    "ppmi": 0.5475041055549872
   },
   {
-    "w1": "instrument",
+    "w1": "楽器",
     "w2": "ギター",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 8514,
-    "unigram_w1": 139628,
+    "cooc_count": 0,
+    "unigram_w1": 3145096,
     "unigram_w2": 1964750,
-    "ppmi": 2.4385825434071586
+    "ppmi": 0.0
   },
   {
     "w1": "ジャレッド・レト",

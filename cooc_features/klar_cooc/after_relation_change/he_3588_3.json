@@ -1,23 +1,23 @@
 [
   {
     "w1": "פונה",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 99,
+    "cooc_count": 778,
     "unigram_w1": 184631,
-    "unigram_w2": 2719,
-    "ppmi": 1.2824195522155746
+    "unigram_w2": 28556,
+    "ppmi": 0.8640434265104812
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אסיה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1012,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 100491,
-    "ppmi": 5.513635013157295
+    "ppmi": 0.0
   },
   {
     "w1": "פונה",

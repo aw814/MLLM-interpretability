@@ -1,21 +1,21 @@
 [
   {
     "w1": "איראן",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1187,
+    "cooc_count": 173,
     "unigram_w1": 96057,
-    "unigram_w2": 90246,
-    "ppmi": 0.7561343682836271
+    "unigram_w2": 4671,
+    "ppmi": 2.24971801444799
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "טהראן",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 7825,
     "ppmi": 0.0
   },

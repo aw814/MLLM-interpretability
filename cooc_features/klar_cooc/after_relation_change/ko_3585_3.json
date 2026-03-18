@@ -1,23 +1,23 @@
 [
   {
     "w1": "스위스",
-    "w2": "continent",
+    "w2": "대륙",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 142,
+    "cooc_count": 1437,
     "unigram_w1": 109607,
-    "unigram_w2": 2712,
-    "ppmi": 2.897940451093646
+    "unigram_w2": 32790,
+    "ppmi": 2.641210859902221
   },
   {
-    "w1": "continent",
+    "w1": "대륙",
     "w2": "유럽",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 184,
-    "unigram_w1": 2712,
+    "cooc_count": 0,
+    "unigram_w1": 32790,
     "unigram_w2": 559048,
-    "ppmi": 0.9211230673927385
+    "ppmi": 0.0
   },
   {
     "w1": "스위스",

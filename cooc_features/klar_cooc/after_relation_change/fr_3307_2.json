@@ -1,23 +1,23 @@
 [
   {
     "w1": "iPad",
-    "w2": "manufacturer",
+    "w2": "fabricant",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 6396,
+    "cooc_count": 82930,
     "unigram_w1": 2628336,
-    "unigram_w2": 366427,
-    "ppmi": 1.7829849495752392
+    "unigram_w2": 7210388,
+    "ppmi": 1.1811580199636191
   },
   {
-    "w1": "manufacturer",
+    "w1": "fabricant",
     "w2": "Apple",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 13571,
-    "unigram_w1": 366427,
+    "cooc_count": 0,
+    "unigram_w1": 7210388,
     "unigram_w2": 4733635,
-    "ppmi": 2.0194713881747433
+    "ppmi": 0.0
   },
   {
     "w1": "iPad",

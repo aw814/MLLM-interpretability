@@ -1,23 +1,23 @@
 [
   {
     "w1": "פרנץ קפקא",
-    "w2": "religion",
+    "w2": "דת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 11,
+    "cooc_count": 296,
     "unigram_w1": 2645,
-    "unigram_w2": 5024,
-    "ppmi": 3.35196751071695
+    "unigram_w2": 177887,
+    "ppmi": 2.956008450005927
   },
   {
-    "w1": "religion",
+    "w1": "דת",
     "w2": "יהדות",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 898,
-    "unigram_w1": 5024,
+    "cooc_count": 0,
+    "unigram_w1": 177887,
     "unigram_w2": 185989,
-    "ppmi": 3.5673017612495532
+    "ppmi": 0.0
   },
   {
     "w1": "פרנץ קפקא",

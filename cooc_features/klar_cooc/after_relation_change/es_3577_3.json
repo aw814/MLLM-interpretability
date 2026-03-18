@@ -1,23 +1,23 @@
 [
   {
     "w1": "Irlanda",
-    "w2": "continent",
+    "w2": "continente",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 2060,
+    "cooc_count": 176920,
     "unigram_w1": 4167646,
-    "unigram_w2": 91062,
-    "ppmi": 2.1752751779304185
+    "unigram_w2": 6534794,
+    "ppmi": 2.434435375723882
   },
   {
-    "w1": "continent",
+    "w1": "continente",
     "w2": "Europa",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 19002,
-    "unigram_w1": 91062,
+    "cooc_count": 0,
+    "unigram_w1": 6534794,
     "unigram_w2": 39895658,
-    "ppmi": 2.12178311310872
+    "ppmi": 0.0
   },
   {
     "w1": "Irlanda",

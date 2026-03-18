@@ -1,23 +1,23 @@
 [
   {
     "w1": "מיקרוסופט אקסל",
-    "w2": "developer",
+    "w2": "מפתח",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 4,
     "unigram_w1": 58,
-    "unigram_w2": 7399,
-    "ppmi": 4.845113069404809
+    "unigram_w2": 304255,
+    "ppmi": 1.4833062066248022
   },
   {
-    "w1": "developer",
+    "w1": "מפתח",
     "w2": "מיקרוסופט",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 665,
-    "unigram_w1": 7399,
+    "cooc_count": 0,
+    "unigram_w1": 304255,
     "unigram_w2": 55668,
-    "ppmi": 4.315743963349941
+    "ppmi": 0.0
   },
   {
     "w1": "מיקרוסופט אקסל",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "ג'אמו וקשמיר",
-    "w2": "continent",
+    "w2": "יבשת",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 18,
     "unigram_w1": 242,
-    "unigram_w2": 2719,
-    "ppmi": 4.2284849746733135
+    "unigram_w2": 28556,
+    "ppmi": 5.0057641255039504
   },
   {
-    "w1": "continent",
+    "w1": "יבשת",
     "w2": "אסיה",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 1012,
-    "unigram_w1": 2719,
+    "cooc_count": 0,
+    "unigram_w1": 28556,
     "unigram_w2": 100491,
-    "ppmi": 5.513635013157295
+    "ppmi": 0.0
   },
   {
     "w1": "ג'אמו וקשמיר",

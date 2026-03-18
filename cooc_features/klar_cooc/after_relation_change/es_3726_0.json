@@ -1,23 +1,23 @@
 [
   {
     "w1": "Picasa",
-    "w2": "developer",
+    "w2": "desarrollador",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 910,
+    "cooc_count": 2292,
     "unigram_w1": 159230,
-    "unigram_w2": 576918,
-    "ppmi": 3.04317272540293
+    "unigram_w2": 1969708,
+    "ppmi": 2.604297728029372
   },
   {
-    "w1": "developer",
+    "w1": "desarrollador",
     "w2": "Google",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 134526,
-    "unigram_w1": 576918,
+    "cooc_count": 0,
+    "unigram_w1": 1969708,
     "unigram_w2": 23267268,
-    "ppmi": 3.0599296589303884
+    "ppmi": 0.0
   },
   {
     "w1": "Picasa",

@@ -1,21 +1,21 @@
 [
   {
     "w1": "אדינבורו",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 217,
+    "cooc_count": 32,
     "unigram_w1": 6547,
-    "unigram_w2": 90246,
-    "ppmi": 2.1795662488588903
+    "unigram_w2": 4671,
+    "ppmi": 3.690074654583956
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "סקוטלנד",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 17407,
     "ppmi": 0.0
   },

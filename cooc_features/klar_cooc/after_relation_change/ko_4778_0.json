@@ -1,23 +1,23 @@
 [
   {
     "w1": "요한 슈트라우스 1세",
-    "w2": "instrument",
+    "w2": "악기",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 0,
+    "cooc_count": 3,
     "unigram_w1": 25,
-    "unigram_w2": 10794,
-    "ppmi": 0.0
+    "unigram_w2": 36413,
+    "ppmi": 5.68425553218044
   },
   {
-    "w1": "instrument",
+    "w1": "악기",
     "w2": "바이올린",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 121,
-    "unigram_w1": 10794,
+    "cooc_count": 0,
+    "unigram_w1": 36413,
     "unigram_w2": 24434,
-    "ppmi": 2.839634031980031
+    "ppmi": 0.0
   },
   {
     "w1": "요한 슈트라우스 1세",

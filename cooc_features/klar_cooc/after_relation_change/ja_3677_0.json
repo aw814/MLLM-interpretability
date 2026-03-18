@@ -1,23 +1,23 @@
 [
   {
     "w1": "PostScript",
-    "w2": "developer",
+    "w2": "開発者",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 722,
+    "cooc_count": 1696,
     "unigram_w1": 23886,
-    "unigram_w2": 270510,
-    "ppmi": 4.286759210694561
+    "unigram_w2": 1030292,
+    "ppmi": 3.5895251944459536
   },
   {
-    "w1": "developer",
+    "w1": "開発者",
     "w2": "アドビシステムズ",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 606,
-    "unigram_w1": 270510,
+    "cooc_count": 0,
+    "unigram_w1": 1030292,
     "unigram_w2": 21256,
-    "ppmi": 4.20237331160234
+    "ppmi": 0.0
   },
   {
     "w1": "PostScript",

@@ -1,23 +1,23 @@
 [
   {
     "w1": "에릭 클랩튼",
-    "w2": "instrument",
+    "w2": "악기",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 3,
+    "cooc_count": 52,
     "unigram_w1": 631,
-    "unigram_w2": 10794,
-    "ppmi": 2.7808395412155766
+    "unigram_w2": 36413,
+    "ppmi": 5.142092744392552
   },
   {
-    "w1": "instrument",
+    "w1": "악기",
     "w2": "바이올린",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 121,
-    "unigram_w1": 10794,
+    "cooc_count": 0,
+    "unigram_w1": 36413,
     "unigram_w2": 24434,
-    "ppmi": 2.839634031980031
+    "ppmi": 0.0
   },
   {
     "w1": "에릭 클랩튼",

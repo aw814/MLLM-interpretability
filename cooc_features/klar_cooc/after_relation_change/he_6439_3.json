@@ -1,21 +1,21 @@
 [
   {
     "w1": "האלפים העליונים",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 1,
+    "cooc_count": 0,
     "unigram_w1": 23,
-    "unigram_w2": 90246,
-    "ppmi": 2.571071323945917
+    "unigram_w2": 4671,
+    "ppmi": 0.0
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "גפ",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 1044,
     "ppmi": 0.0
   },

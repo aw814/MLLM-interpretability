@@ -1,23 +1,23 @@
 [
   {
     "w1": "닷넷 프레임워크",
-    "w2": "developer",
+    "w2": "개발자",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 18,
+    "cooc_count": 72,
     "unigram_w1": 304,
-    "unigram_w2": 17565,
-    "ppmi": 5.716896739338601
+    "unigram_w2": 86172,
+    "ppmi": 5.422381147551028
   },
   {
-    "w1": "developer",
+    "w1": "개발자",
     "w2": "마이크로소프트",
     "role1": "relation",
     "role2": "object",
-    "cooc_count": 579,
-    "unigram_w1": 17565,
+    "cooc_count": 0,
+    "unigram_w1": 86172,
     "unigram_w2": 49118,
-    "ppmi": 3.388354591922241
+    "ppmi": 0.0
   },
   {
     "w1": "닷넷 프레임워크",

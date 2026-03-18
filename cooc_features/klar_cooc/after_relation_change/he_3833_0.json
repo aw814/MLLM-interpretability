@@ -1,21 +1,21 @@
 [
   {
     "w1": "בנגלור",
-    "w2": "בירה",
+    "w2": "עיר בירה",
     "role1": "subject",
     "role2": "relation",
-    "cooc_count": 51,
+    "cooc_count": 18,
     "unigram_w1": 1835,
-    "unigram_w2": 90246,
-    "ppmi": 1.9254942742438503
+    "unigram_w2": 4671,
+    "ppmi": 4.695053571884212
   },
   {
-    "w1": "בירה",
+    "w1": "עיר בירה",
     "w2": "קרנאטקה",
     "role1": "relation",
     "role2": "object",
     "cooc_count": 0,
-    "unigram_w1": 90246,
+    "unigram_w1": 4671,
     "unigram_w2": 168,
     "ppmi": 0.0
   },
